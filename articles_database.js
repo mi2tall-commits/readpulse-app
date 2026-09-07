@@ -1,6 +1,198 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "sports_tennis_usopen_01",
+    "title": "US Open 2026: Aryna Sabalenka Powers Into Semifinals in New York",
+    "subtitle": "The defending champion overcomes Taylor Townsend in front of an electric crowd at Arthur Ashe Stadium.",
+    "speaker": "BBC Sport Tennis (New York)",
+    "date": "2026-09-06",
+    "category": "sports",
+    "sportSubcat": "tennis",
+    "sportPriority": 1,
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 248,
+    "keywords": [
+      "#US오픈",
+      "#사발렌카",
+      "#테니스",
+      "#뉴욕아더에시"
+    ],
+    "addedAt": "2026-09-06T20:00:00Z",
+    "paragraphs": [
+      {
+        "en": "The 2026 US Open tennis tournament in New York is reaching its most thrilling moments. Defending champion Aryna Sabalenka showed her incredible strength by defeating American star Taylor Townsend in a dramatic fourth-round match. Playing under the bright lights of Arthur Ashe Stadium, the world's largest tennis arena, Sabalenka used her heavy groundstrokes to control the pace of the game.",
+        "ko": "뉴욕에서 열리고 있는 2026 US오픈 테니스 대회가 가장 짜릿한 순간을 맞이하고 있습니다. 디펜딩 챔피언 아리나 사발렌카는 극적인 16강전 경기에서 미국의 강자 테일러 타운센드를 꺾고 자신의 압도적인 힘을 보여주었습니다. 세계 최대 테니스 경기장인 아서 애시 스타디움의 밝은 조명 아래서, 사발렌카는 묵직한 스트로크로 경기 템포를 지배했습니다.",
+        "sentences": [
+          {
+            "en": "The 2026 US Open tennis tournament in New York is reaching its most thrilling moments.",
+            "ko": "뉴욕에서 열리고 있는 2026 US오픈 테니스 대회가 가장 짜릿한 순간에 접어들었습니다."
+          },
+          {
+            "en": "Defending champion Aryna Sabalenka showed her incredible strength by defeating American star Taylor Townsend in a dramatic fourth-round match.",
+            "ko": "디펜딩 챔피언 아리나 사발렌카는 극적인 16강전에서 테일러 타운센드를 꺾고 괴력을 발휘했습니다."
+          },
+          {
+            "en": "Playing under the bright lights of Arthur Ashe Stadium, the world's largest tennis arena, Sabalenka used her heavy groundstrokes to control the pace of the game.",
+            "ko": "세계 최대 테니스 경기장인 아서 애시 스타디움에서 사발렌카는 묵직한 샷으로 경기를 주도했습니다."
+          }
+        ]
+      },
+      {
+        "en": "Townsend played with clever court variety, using quick drop shots and attacking net volleys that excited the passionate home fans. However, Sabalenka stayed calm during the critical points of the second set. She served with great power, reaching speeds over one hundred and fifteen miles per hour. Her mental toughness allowed her to close out the victory in straight sets.",
+        "ko": "타운센드는 영리하고 다채로운 코트 플레이를 펼쳤으며, 날카로운 드롭샷과 네트 발리 공격으로 홈 팬들을 열광시켰습니다. 그러나 사발렌카는 2세트 결정적인 순간에도 침착함을 잃지 않았습니다. 그녀는 시속 115마일이 넘는 강력한 파워 서브를 꽂아 넣었습니다. 사발렌카의 강한 멘탈은 무실세트 승리로 경기를 마무리짓게 만들었습니다.",
+        "sentences": [
+          {
+            "en": "Townsend played with clever court variety, using quick drop shots and attacking net volleys that excited the passionate home fans.",
+            "ko": "타운센드는 빠른 드롭샷과 공격적인 네트 발리로 홈 팬들을 열광시켰습니다."
+          },
+          {
+            "en": "However, Sabalenka stayed calm during the critical points of the second set.",
+            "ko": "하지만 사발렌카는 2세트 중요한 순간에도 침착함을 유지했습니다."
+          },
+          {
+            "en": "She served with great power, reaching speeds over one hundred and fifteen miles per hour.",
+            "ko": "그녀는 시속 115마일이 넘는 강력한 파워 서브를 연이어 넣었습니다."
+          },
+          {
+            "en": "Her mental toughness allowed her to close out the victory in straight sets.",
+            "ko": "그녀의 강인한 정신력 덕분에 세트 스코어 2-0 완승을 거둘 수 있었습니다."
+          }
+        ]
+      },
+      {
+        "en": "With this victory, Sabalenka becomes the first woman since Serena Williams to reach six consecutive Grand Slam semifinals on hard courts. In her post-match interview, she thanked the New York crowd for their high energy. Fans are now eagerly looking forward to the championship weekend, where the battle for the prestigious US Open trophy will be decided.",
+        "ko": "이번 승리로 사발렌카는 세레나 윌리엄스 이후 하드 코트 그랜드슬램에서 6회 연속 준결승에 진출한 최초의 여성 선수가 되었습니다. 경기 후 인터뷰에서 그녀는 뜨거운 에너지를 보내준 뉴욕 관중들에게 감사를 표했습니다. 팬들은 이제 권위 있는 US오픈 트로피의 주인이 가려질 챔피언십 주말 결승전을 손꼽아 기다리고 있습니다.",
+        "sentences": [
+          {
+            "en": "With this victory, Sabalenka becomes the first woman since Serena Williams to reach six consecutive Grand Slam semifinals on hard courts.",
+            "ko": "이번 승리로 사발렌카는 세레나 윌리엄스 이후 하드코트 6연속 4강에 오른 첫 선수가 되었습니다."
+          },
+          {
+            "en": "In her post-match interview, she thanked the New York crowd for their high energy.",
+            "ko": "경기 후 인터뷰에서 그녀는 뜨거운 에너지를 보낸 뉴욕 관중들에게 감사 인사를 전했습니다."
+          },
+          {
+            "en": "Fans are now eagerly looking forward to the championship weekend, where the battle for the prestigious US Open trophy will be decided.",
+            "ko": "팬들은 이제 US오픈 우승 트로피의 주인공이 결정될 주말 결승전을 기대하고 있습니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "현재 진행 중인 2026 US오픈에서 디펜딩 챔피언 사발렌카가 준결승(4강)에 안착했습니다.",
+      "세레나 윌리엄스 이후 하드코트 메이저 대회에서 6연속 4강에 오른 대기록을 달성했습니다.",
+      "아서 애시 스타디움에서 펼쳐지는 주말 결승전에서 올해 마지막 그랜드슬램 트로피가 결정됩니다."
+    ],
+    "quiz": [
+      {
+        "question": "What historic milestone did Aryna Sabalenka achieve at the 2026 US Open?",
+        "options": [
+          "Reaching six consecutive hard-court Grand Slam semifinals.",
+          "Winning the match without touching a single tennis ball.",
+          "Deciding to switch from tennis to basketball permanently."
+        ],
+        "answer": 0,
+        "explanation": "Sabalenka became the first woman since Serena Williams to reach six straight hard-court semifinals."
+      }
+    ]
+  },
+  {
+    "id": "sports_tennis_usopen_02",
+    "title": "US Open 2026: Dramatic Upsets Shake Up the Men's Singles Draw",
+    "subtitle": "Top seeds tumble under the New York night lights as Jannik Sinner and Carlos Alcaraz eye the trophy.",
+    "speaker": "BBC Sport Tennis (New York)",
+    "date": "2026-09-06",
+    "category": "sports",
+    "sportSubcat": "tennis",
+    "sportPriority": 1,
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 242,
+    "keywords": [
+      "#US오픈",
+      "#남자단식",
+      "#이변",
+      "#아서애시"
+    ],
+    "addedAt": "2026-09-06T20:00:00Z",
+    "paragraphs": [
+      {
+        "en": "The men's singles competition at the 2026 US Open has produced stunning surprises for tennis fans across the globe. During an unpredictable opening week in Flushing Meadows, six top-ten seeded players were knocked out of the tournament. American favorite Taylor Fritz suffered an unexpected third-round defeat, reminding everyone that anything can happen in New York.",
+        "ko": "2026 US오픈 남자 단식 경기가 전 세계 테니스 팬들에게 충격적인 이변을 안겨주고 있습니다. 플러싱 메도스에서 열린 예측 불허의 대회 첫 주 동안, 10위권 이내 시드 선수 중 6명이 조기 탈락했습니다. 미국의 인기 스타 테일러 프리츠가 3라운드에서 예상치 못한 패배를 당하며 뉴욕에서는 어떤 일도 일어날 수 있음을 보여주었습니다.",
+        "sentences": [
+          {
+            "en": "The men's singles competition at the 2026 US Open has produced stunning surprises for tennis fans across the globe.",
+            "ko": "2026 US오픈 남자 단식은 전 세계 팬들에게 놀라운 이변을 선사하고 있습니다."
+          },
+          {
+            "en": "During an unpredictable opening week in Flushing Meadows, six top-ten seeded players were knocked out of the tournament.",
+            "ko": "첫 주 동안 10위권 내 상위 시드 선수 중 6명이 탈락했습니다."
+          },
+          {
+            "en": "American favorite Taylor Fritz suffered an unexpected third-round defeat, reminding everyone that anything can happen in New York.",
+            "ko": "미국의 테일러 프리츠가 3라운드에서 뜻밖의 패배를 당했습니다."
+          }
+        ]
+      },
+      {
+        "en": "With several heavy favorites eliminated, world number one Jannik Sinner and Spain's Carlos Alcaraz remain in prime position to reach the final. Sinner has looked remarkably sharp, using his clean ball-striking to win his fourth-round match in under two hours. Alcaraz has also delighted the crowds with his trademark drop shots and energetic sprint speed.",
+        "ko": "여러 우승 후보들이 탈락하면서 세계 1위 얀니크 신너와 스페인의 카를로스 알카라스가 결승에 오를 가장 유력한 후보로 남아 있습니다. 신너는 깔끔한 타격감으로 16강전을 2시간도 채 안 되어 끝내며 뛰어난 컨디션을 과시했습니다. 알카라스 역시 특유의 날카로운 드롭샷과 지치지 않는 질주력으로 관중들을 열광시켰습니다.",
+        "sentences": [
+          {
+            "en": "With several heavy favorites eliminated, world number one Jannik Sinner and Spain's Carlos Alcaraz remain in prime position to reach the final.",
+            "ko": "우승 후보들이 탈락하며 신너와 알카라스가 결승 진출의 유력 후보로 남았습니다."
+          },
+          {
+            "en": "Sinner has looked remarkably sharp, using his clean ball-striking to win his fourth-round match in under two hours.",
+            "ko": "신너는 깔끔한 스트로크로 16강 경기를 2시간 안에 완승했습니다."
+          },
+          {
+            "en": "Alcaraz has also delighted the crowds with his trademark drop shots and energetic sprint speed.",
+            "ko": "알카라스 역시 환상적인 드롭샷과 빠른 스피드로 팬들을 사로잡았습니다."
+          }
+        ]
+      },
+      {
+        "en": "The fast hard courts in New York reward fearless aggressive tennis. As the tournament enters the intense quarterfinal stage, every match is played under high pressure. Tennis fans are hoping for a dream final showdown between Sinner and Alcaraz to crown the ultimate champion of the year's final Grand Slam.",
+        "ko": "뉴욕의 빠른 하드 코트는 두려움 없는 공격적인 테니스를 구사하는 선수에게 보상을 안겨줍니다. 대회가 치열한 8강전(준준결승) 단계에 접어들면서 모든 경기가 엄청난 압박감 속에 펼쳐지고 있습니다. 테니스 팬들은 올해 마지막 그랜드슬램의 진정한 챔피언을 가릴 신너와 알카라스의 꿈의 결승 맞대결을 고대하고 있습니다.",
+        "sentences": [
+          {
+            "en": "The fast hard courts in New York reward fearless aggressive tennis.",
+            "ko": "뉴욕의 빠른 하드 코트는 공격적인 테니스 플레이를 펼치는 선수에게 유리합니다."
+          },
+          {
+            "en": "As the tournament enters the intense quarterfinal stage, every match is played under high pressure.",
+            "ko": "대회가 8강전에 돌입하면서 모든 경기가 큰 긴장감 속에 펼쳐집니다."
+          },
+          {
+            "en": "Tennis fans are hoping for a dream final showdown between Sinner and Alcaraz to crown the ultimate champion of the year's final Grand Slam.",
+            "ko": "팬들은 신너와 알카라스가 맞붙는 꿈의 결승전을 손꼽아 기다리고 있습니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "2026 US오픈 남자 단식에서 상위 시드 6명이 조기 탈락하는 대이변이 일어났습니다.",
+      "세계 1위 신너와 알카라스가 압도적인 경기력으로 결승 진출을 향해 순항하고 있습니다.",
+      "아서 애시 스타디움에서 열리는 8강과 결승 무대에 전 세계 테니스 팬들의 이목이 쏠려 있습니다."
+    ],
+    "quiz": [
+      {
+        "question": "Which two superstar players are favored to reach the 2026 US Open men's final?",
+        "options": [
+          "Jannik Sinner and Carlos Alcaraz.",
+          "Two retired players from the 1970s.",
+          "Players who have never held a tennis racket."
+        ],
+        "answer": 0,
+        "explanation": "World No. 1 Jannik Sinner and Carlos Alcaraz are the prime contenders to contest the final."
+      }
+    ]
+  },
+  {
     "id": "sports_tennis_01",
     "title": "A New Era in Tennis: Carlos Alcaraz and Jannik Sinner",
     "subtitle": "Two young tennis stars are bringing fast, exciting power tennis to fans around the world.",

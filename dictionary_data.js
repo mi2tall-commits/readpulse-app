@@ -1595,10 +1595,9 @@ const READPULSE_DICTIONARY = {
   },
   "superstar": {
     "ipa": "/ˈsuː.pɚ.stɑːr/",
-    "pos": "명사",
-    "ko": "슈퍼스타, 대스타",
+    "meaning": "슈퍼스타, 대스타",
     "cefr": "A2",
-    "example": "Ohtani is a global baseball superstar."
+    "ko": "슈퍼스타, 최고 인기 스타"
   },
   "unbelievable": {
     "ipa": "/ˌʌn.bɪˈliː.və.bəl/",
@@ -2565,5 +2564,137 @@ const READPULSE_DICTIONARY = {
     "ko": "안전한; 확보하다",
     "cefr": "B1",
     "example": "Use a secure internet connection."
+  },
+  "semifinal": {
+    "ipa": "/ˌsem.iˈfaɪ.nəl/",
+    "meaning": "준결승전, 4강전",
+    "cefr": "B1",
+    "ko": "준결승전, 4강전"
+  },
+  "semifinals": {
+    "ipa": "/ˌsem.iˈfaɪ.nəlz/",
+    "meaning": "준결승전, 4강전",
+    "cefr": "B1",
+    "ko": "준결승전, 4강전"
+  },
+  "stadium": {
+    "ipa": "/ˈsteɪ.di.əm/",
+    "meaning": "경기장, 스타디움",
+    "cefr": "A2",
+    "ko": "경기장, 스타디움"
+  },
+  "dramatic": {
+    "ipa": "/drəˈmæt̬.ɪk/",
+    "meaning": "극적인, 인상적인",
+    "cefr": "B1",
+    "ko": "극적인, 인상적인"
+  },
+  "upset": {
+    "ipa": "/ʌpˈset/",
+    "meaning": "이변, 뜻밖의 승리/패배; 당황하게 하다",
+    "cefr": "B1",
+    "ko": "이변, 뜻밖의 승리/패배"
+  },
+  "upsets": {
+    "ipa": "/ʌpˈsets/",
+    "meaning": "이변들, 뜻밖의 결과들",
+    "cefr": "B1",
+    "ko": "이변들, 뜻밖의 결과들"
+  },
+  "toughness": {
+    "ipa": "/ˈtʌf.nəs/",
+    "meaning": "강인함, 질김, 강인한 정신력",
+    "cefr": "B2",
+    "ko": "강인함, 강인한 정신력"
+  },
+  "consecutive": {
+    "ipa": "/kənˈsek.jə.t̬ɪv/",
+    "meaning": "연속적인, 연이은",
+    "cefr": "B2",
+    "ko": "연속적인, 연이은"
+  },
+  "prestigious": {
+    "ipa": "/presˈtɪdʒ.əs/",
+    "meaning": "명망 있는, 권위 있는",
+    "cefr": "B2",
+    "ko": "명망 있는, 권위 있는"
+  },
+  "unpredictable": {
+    "ipa": "/ˌʌn.prɪˈdɪk.tə.bəl/",
+    "meaning": "예측할 수 없는, 변화무쌍한",
+    "cefr": "B2",
+    "ko": "예측할 수 없는"
+  },
+  "defeat": {
+    "ipa": "/dɪˈfiːt/",
+    "meaning": "패배, 패배시키다",
+    "cefr": "B1",
+    "ko": "패배, 패배시키다"
+  },
+  "showdown": {
+    "ipa": "/ˈʃoʊ.daʊn/",
+    "meaning": "결판, 결승전 맞대결",
+    "cefr": "B2",
+    "ko": "결판, 결승전 맞대결"
+  },
+  "quarterfinal": {
+    "ipa": "/ˌkwɔːr.t̬ɚˈfaɪ.nəl/",
+    "meaning": "준준결승, 8강전",
+    "cefr": "B1",
+    "ko": "준준결승, 8강전"
+  },
+  "quarterfinals": {
+    "ipa": "/ˌkwɔːr.t̬ɚˈfaɪ.nəlz/",
+    "meaning": "준준결승, 8강전",
+    "cefr": "B1",
+    "ko": "준준결승, 8강전"
+  },
+  "seed": {
+    "ipa": "/siːd/",
+    "meaning": "시드 선수, 시드를 배정하다; 씨앗",
+    "cefr": "B1",
+    "ko": "시드 배정 선수"
+  },
+  "seeded": {
+    "ipa": "/ˈsiː.dɪd/",
+    "meaning": "시드를 배정받은",
+    "cefr": "B1",
+    "ko": "시드를 배정받은"
+  },
+  "overcome": {
+    "ipa": "/ˌoʊ.vɚˈkʌm/",
+    "meaning": "극복하다, 이겨내다",
+    "cefr": "B1",
+    "ko": "극복하다, 이겨내다"
+  },
+  "overcomes": {
+    "ipa": "/ˌoʊ.vɚˈkʌmz/",
+    "meaning": "극복하다, 이기다",
+    "cefr": "B1",
+    "ko": "극복하다, 이기다"
+  },
+  "thrilling": {
+    "ipa": "/ˈθrɪl.ɪŋ/",
+    "meaning": "짜릿한, 아주 흥미진진한",
+    "cefr": "B1",
+    "ko": "짜릿한, 아주 흥미진진한"
+  },
+  "groundstroke": {
+    "ipa": "/ˈɡraʊnd.stroʊk/",
+    "meaning": "그라운드스트로크 (바운드 후 치는 타구)",
+    "cefr": "B2",
+    "ko": "그라운드스트로크"
+  },
+  "groundstrokes": {
+    "ipa": "/ˈɡraʊnd.stroʊks/",
+    "meaning": "그라운드스트로크 타구들",
+    "cefr": "B2",
+    "ko": "그라운드스트로크 타구들"
+  },
+  "defending": {
+    "ipa": "/dɪˈfen.dɪŋ/",
+    "meaning": "방어하는, 타이틀을 지키는 (디펜딩)",
+    "cefr": "B1",
+    "ko": "타이틀을 방어하는"
   }
 };
