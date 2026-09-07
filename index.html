@@ -538,6 +538,32 @@
 
     .reader-overlay.active { display: flex; }
 
+    .reading-progress-bar {
+      position: sticky;
+      top: 0;
+      left: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--primary), var(--accent-green));
+      width: 0%;
+      z-index: 100;
+      transition: width 0.1s ease-out;
+    }
+
+    .para-header {
+      margin-bottom: 0.35rem;
+    }
+
+    .para-badge {
+      font-family: var(--font-mono);
+      font-size: 0.68rem;
+      font-weight: 700;
+      color: var(--primary);
+      background: var(--primary-light);
+      padding: 2px 6px;
+      border-radius: 4px;
+      letter-spacing: 0.05em;
+    }
+
     .reader-toolbar {
       position: sticky;
       top: 0;
@@ -1209,6 +1235,8 @@
 
   <!-- READER OVERLAY (FULL INTERACTIVE STUDY VIEW) -->
   <div class="reader-overlay" id="readerOverlay">
+    <!-- Progress Bar -->
+    <div class="reading-progress-bar" id="readingProgressBar"></div>
     <!-- Toolbar -->
     <div class="reader-toolbar">
       <div class="toolbar-left">
@@ -1733,8 +1761,19 @@
       // Reset Audio
       stopAudio();
 
-      document.getElementById('readerOverlay').classList.add('active');
-      window.scrollTo(0, 0);
+      const overlay = document.getElementById('readerOverlay');
+      overlay.classList.add('active');
+      overlay.scrollTop = 0;
+
+      const pBar = document.getElementById('readingProgressBar');
+      if (pBar) pBar.style.width = '0%';
+
+      overlay.onscroll = () => {
+        const scrollTop = overlay.scrollTop;
+        const scrollHeight = overlay.scrollHeight - overlay.clientHeight;
+        const pct = scrollHeight > 0 ? Math.min(100, Math.round((scrollTop / scrollHeight) * 100)) : 0;
+        if (pBar) pBar.style.width = pct + '%';
+      };
     }
 
     function closeReader() {
@@ -1786,6 +1825,7 @@
 
         return `
           <div class="reading-paragraph" id="p_${pIdx}">
+            <div class="para-header"><span class="para-badge">¶ PARAGRAPH ${pIdx + 1}</span></div>
             <div class="paragraph-en">${sentencesHtml}</div>
             ${paraKoHtml}
           </div>

@@ -1,14 +1,14 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
-    "id": "auto_tech_1036906452",
-    "category": "tech",
-    "isLive": true,
-    "level": "B2",
+    "id": "auto_tech_560145342",
     "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
     "subtitle": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publ...",
     "speaker": "BBC Technology",
     "date": "2026-09-04",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
     "readTime": "2 min",
     "wordCount": 22,
     "paragraphs": [
@@ -42,14 +42,14 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_1778871916",
-    "category": "science",
-    "isLive": true,
-    "level": "B2",
+    "id": "auto_science_149177085",
     "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
     "subtitle": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?...",
     "speaker": "BBC Science",
     "date": "2026-09-05",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
     "readTime": "2 min",
     "wordCount": 19,
     "paragraphs": [
@@ -83,30 +83,30 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_1573720200",
+    "id": "auto_economy_437452307",
+    "title": "Chancellor to unveil growth plan with £150m fund for northern firms",
+    "subtitle": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget....",
+    "speaker": "BBC Business",
+    "date": "2026-09-06",
     "category": "economy",
     "isLive": true,
     "level": "B2",
-    "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
-    "subtitle": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year....",
-    "speaker": "BBC Business",
-    "date": "2026-09-06",
     "readTime": "2 min",
-    "wordCount": 21,
+    "wordCount": 18,
     "paragraphs": [
       {
-        "en": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+        "en": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
         "ko": "실시간 글로벌 최신 뉴스입니다.",
         "sentences": [
           {
-            "en": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
-            "ko": "실시간 속보 번역: The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year."
+            "en": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
+            "ko": "실시간 속보 번역: John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+      "글로벌 최신 소식: Chancellor to unveil growth plan with £150m fund for northern firms",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -114,7 +114,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+          "Chancellor to unveil growth plan with £150m fund for northern firms",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -124,14 +124,14 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_sports_8188203",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
+    "id": "auto_sports_1075831895",
     "title": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
     "subtitle": "How Arsenal and Chelsea's players rated following their Premier League match....",
     "speaker": "BBC Sports",
     "date": "2026-09-06",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
     "readTime": "2 min",
     "wordCount": 11,
     "paragraphs": [
@@ -165,14 +165,14 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_culture_1273007439",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
+    "id": "auto_culture_231935796",
     "title": "Why Munya Chawawa is 'jumping ship' from socials to Shakespeare",
     "subtitle": "The comedian is making his stage acting debut and says he wants to move away from social content....",
     "speaker": "BBC Arts",
     "date": "2026-09-06",
+    "category": "culture",
+    "isLive": true,
+    "level": "B2",
     "readTime": "2 min",
     "wordCount": 18,
     "paragraphs": [
@@ -206,1958 +206,2419 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "sports-1",
-    "category": "sports",
-    "isLive": false,
-    "level": "B2",
-    "title": "The Physics of the Curveball: How Aerodynamics Shapes Baseball",
-    "subtitle": "Discover the Magnus effect and how elite pitchers manipulate airflow to deceive batters.",
-    "speaker": "Marcus Vance · Sports Science Review",
-    "date": "September 2026",
-    "readTime": "3 min",
-    "wordCount": 200,
-    "paragraphs": [
-      {
-        "en": "  ",
-        "ko": "  ",
-        "sentences": [
-          {
-            "text": "For over a century, the curveball has stood as one of the most mesmerizing weapons in professional baseball.",
-            "translation": "한 세기 넘게 커브볼은 프로 야구에서 가장 매혹적인 무기 중 하나로 자리잡아 왔습니다.",
-            "en": "For over a century, the curveball has stood as one of the most mesmerizing weapons in professional baseball.",
-            "ko": "한 세기 넘게 커브볼은 프로 야구에서 가장 매혹적인 무기 중 하나로 자리잡아 왔습니다."
-          },
-          {
-            "text": "When a pitcher releases the ball with rapid forward spin, the air pressure above the ball drops significantly.",
-            "translation": "투수가 강한 전방 회전을 주어 공을 놓으면, 공 위쪽의 공기 압력이 급격하게 떨어집니다.",
-            "en": "When a pitcher releases the ball with rapid forward spin, the air pressure above the ball drops significantly.",
-            "ko": "투수가 강한 전방 회전을 주어 공을 놓으면, 공 위쪽의 공기 압력이 급격하게 떨어집니다."
-          },
-          {
-            "text": "This aerodynamic phenomenon is known as the Magnus effect, causing the ball to dive unexpectedly toward home plate.",
-            "translation": "이 공기역학적 현상은 '마그누스 효과'로 알려져 있으며, 공이 홈플레이트를 향해 예상치 못하게 뚝 떨어지도록 만듭니다.",
-            "en": "This aerodynamic phenomenon is known as the Magnus effect, causing the ball to dive unexpectedly toward home plate.",
-            "ko": "이 공기역학적 현상은 '마그누스 효과'로 알려져 있으며, 공이 홈플레이트를 향해 예상치 못하게 뚝 떨어지도록 만듭니다."
-          }
-        ]
-      },
-      {
-        "en": " ",
-        "ko": " ",
-        "sentences": [
-          {
-            "text": "Modern high-speed tracking cameras now measure spin rates exceeding three thousand revolutions per minute.",
-            "translation": "현대의 초고속 트래킹 카메라는 이제 분당 3,000회를 초과하는 회전수를 측정해 냅니다.",
-            "en": "Modern high-speed tracking cameras now measure spin rates exceeding three thousand revolutions per minute.",
-            "ko": "현대의 초고속 트래킹 카메라는 이제 분당 3,000회를 초과하는 회전수를 측정해 냅니다."
-          },
-          {
-            "text": "By mastering both grip pressure and arm angle, pitchers turn basic fluid dynamics into an unstoppable tactical advantage.",
-            "translation": "그립의 압력과 팔의 각도를 완벽히 숙달함으로써, 투수들은 기초 유체역학을 막을 수 없는 전술적 우위로 전환합니다.",
-            "en": "By mastering both grip pressure and arm angle, pitchers turn basic fluid dynamics into an unstoppable tactical advantage.",
-            "ko": "그립의 압력과 팔의 각도를 완벽히 숙달함으로써, 투수들은 기초 유체역학을 막을 수 없는 전술적 우위로 전환합니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "The curveball's unpredictable trajectory is governed by the Magnus effect in fluid aerodynamics. (커브볼의 궤적은 공기역학의 마그누스 효과에 의해 만들어집니다.)",
-      "Elite pitchers generate over 3,000 RPM forward spin to force the baseball downward before crossing the plate. (정상급 투수들은 3,000 RPM 이상의 회전을 걸어 타자 바로 앞에서 공을 떨어뜨립니다.)",
-      "Modern tracking technology has revolutionized how athletes optimize spin axes and release velocities. (최신 카메라 계측 기술은 회전축과 투구 속도를 최적화하는 방식을 완전히 혁신했습니다.)"
-    ],
-    "quiz": [
-      {
-        "question": "What scientific principle explains why a baseball curves downward in flight?",
-        "options": [
-          "The Bernoulli Principle",
-          "The Magnus Effect",
-          "Newton's Third Law",
-          "Kepler's Law"
-        ],
-        "answer": 0,
-        "explanation": "The text explicitly states: 'This aerodynamic phenomenon is known as the Magnus effect, causing the ball to dive unexpectedly.'"
-      },
-      {
-        "question": "What metric do modern high-speed cameras measure to analyze elite curveballs?",
-        "options": [
-          "Spin rate in revolutions per minute",
-          "Wind direction only",
-          "Bat weight in ounces",
-          "Audience decibel volume"
-        ],
-        "answer": 0,
-        "explanation": "Modern cameras measure spin rates exceeding 3,000 RPM."
-      }
-    ]
-  },
-  {
-    "id": "sports-2",
-    "category": "sports",
-    "isLive": false,
-    "level": "B2",
-    "title": "High-Altitude Training: The Physiological Edge of Endurance Runners",
-    "subtitle": "Why East African distance runners dominate marathons and how low oxygen boosts red blood cells.",
-    "speaker": "Dr. Elena Rostova · Sports Physiology Journal",
-    "date": "August 2026",
-    "readTime": "3 min",
-    "wordCount": 200,
-    "paragraphs": [
-      {
-        "en": "  ",
-        "ko": "  ",
-        "sentences": [
-          {
-            "text": "At an elevation of over two thousand meters, every breath contains noticeably fewer oxygen molecules.",
-            "translation": "해발 2,000미터가 넘는 고도에서는 숨을 쉴 때마다 산소 분자가 눈에 띄게 적게 들어옵니다.",
-            "en": "At an elevation of over two thousand meters, every breath contains noticeably fewer oxygen molecules.",
-            "ko": "해발 2,000미터가 넘는 고도에서는 숨을 쉴 때마다 산소 분자가 눈에 띄게 적게 들어옵니다."
-          },
-          {
-            "text": "In response to this hypoxic environment, the human kidneys release a natural hormone called erythropoietin, or EPO.",
-            "translation": "이러한 저산소 환경에 반응하여, 인간의 신장은 에리트로포이에틴(EPO)이라는 천연 호르몬을 분비합니다.",
-            "en": "In response to this hypoxic environment, the human kidneys release a natural hormone called erythropoietin, or EPO.",
-            "ko": "이러한 저산소 환경에 반응하여, 인간의 신장은 에리트로포이에틴(EPO)이라는 천연 호르몬을 분비합니다."
-          },
-          {
-            "text": "This hormone triggers the bone marrow to produce millions of additional red blood cells within weeks.",
-            "translation": "이 호르몬은 골수를 자극하여 몇 주 안에 수백만 개의 적혈구를 추가로 생성하게 만듭니다.",
-            "en": "This hormone triggers the bone marrow to produce millions of additional red blood cells within weeks.",
-            "ko": "이 호르몬은 골수를 자극하여 몇 주 안에 수백만 개의 적혈구를 추가로 생성하게 만듭니다."
-          }
-        ]
-      },
-      {
-        "en": " ",
-        "ko": " ",
-        "sentences": [
-          {
-            "text": "When athletes return to compete at sea level, their enhanced oxygen-carrying capacity provides superior stamina.",
-            "translation": "선수들이 다시 해수면 고도로 돌아와 경기에 임할 때, 향상된 산소 운반 능력은 탁월한 지구력을 제공합니다.",
-            "en": "When athletes return to compete at sea level, their enhanced oxygen-carrying capacity provides superior stamina.",
-            "ko": "선수들이 다시 해수면 고도로 돌아와 경기에 임할 때, 향상된 산소 운반 능력은 탁월한 지구력을 제공합니다."
-          },
-          {
-            "text": "This biological adaptation remains the foundational secret behind record-breaking marathon performances worldwide.",
-            "translation": "이러한 생물학적 적응은 전 세계 마라톤 신기록 뒤에 자리한 근본적인 비밀로 남아 있습니다.",
-            "en": "This biological adaptation remains the foundational secret behind record-breaking marathon performances worldwide.",
-            "ko": "이러한 생물학적 적응은 전 세계 마라톤 신기록 뒤에 자리한 근본적인 비밀로 남아 있습니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "Low-oxygen high-altitude environments stimulate natural production of the hormone EPO. (저산소 고지대 환경은 신장에서 천연 호르몬 EPO 분비를 자극합니다.)",
-      "Increased red blood cell counts directly enhance oxygen transport to working skeletal muscles. (증가한 적혈구는 근육으로 산소를 운반하는 능력을 극대화합니다.)",
-      "The 'live high, train low' methodology allows endurance athletes to gain physiological advantages legally. (고지대 생활을 통해 선수들은 합법적으로 신체적 지구력 우위를 확보합니다.)"
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary physiological benefit of training at high altitude?",
-        "options": [
-          "Increased bone density",
-          "Enhanced red blood cell count",
-          "Faster muscle reflex speeds",
-          "Reduced water retention"
-        ],
-        "answer": 0,
-        "explanation": "Hypoxia stimulates EPO which triggers the marrow to produce additional red blood cells."
-      },
-      {
-        "question": "Which organ releases the natural hormone erythropoietin (EPO)?",
-        "options": [
-          "The liver",
-          "The kidneys",
-          "The heart",
-          "The lungs"
-        ],
-        "answer": 0,
-        "explanation": "The text states: 'the human kidneys release a natural hormone called erythropoietin, or EPO.'"
-      }
-    ]
-  },
-  {
-    "id": "sports-3",
-    "category": "sports",
-    "isLive": false,
-    "level": "B1",
-    "title": "The Rise of Football Analytics: How Expected Goals (xG) Reshaped the Game",
-    "subtitle": "How algorithms and mathematical probability revolutionized scouting and tactical setups in European football.",
-    "speaker": "Oliver Bennett · Tactical Footy Insight",
-    "date": "September 2026",
-    "readTime": "3 min",
-    "wordCount": 200,
-    "paragraphs": [
-      {
-        "en": "  ",
-        "ko": "  ",
-        "sentences": [
-          {
-            "text": "Traditional football commentary once relied almost entirely on subjective gut instincts and raw shot tallies.",
-            "translation": "과거 전통적인 축구 해설은 거의 전적으로 주관적인 직감과 단순 슈팅 숫자에 의존했습니다.",
-            "en": "Traditional football commentary once relied almost entirely on subjective gut instincts and raw shot tallies.",
-            "ko": "과거 전통적인 축구 해설은 거의 전적으로 주관적인 직감과 단순 슈팅 숫자에 의존했습니다."
-          },
-          {
-            "text": "Today, elite clubs evaluate performance through Expected Goals, a statistical metric assigning a probability score to each shot.",
-            "translation": "오늘날 정상급 클럽들은 각 슈팅마다 확률 점수를 부여하는 통계 지표인 '기대 득점(xG)'을 통해 경기력을 평가합니다.",
-            "en": "Today, elite clubs evaluate performance through Expected Goals, a statistical metric assigning a probability score to each shot.",
-            "ko": "오늘날 정상급 클럽들은 각 슈팅마다 확률 점수를 부여하는 통계 지표인 '기대 득점(xG)'을 통해 경기력을 평가합니다."
-          },
-          {
-            "text": "Factors such as distance, shooting angle, defender positioning, and assist type all determine the likelihood of scoring.",
-            "translation": "거리, 슈팅 각도, 수비수의 위치, 어시스트 종류 같은 요인들이 모두 득점 확률을 결정합니다.",
-            "en": "Factors such as distance, shooting angle, defender positioning, and assist type all determine the likelihood of scoring.",
-            "ko": "거리, 슈팅 각도, 수비수의 위치, 어시스트 종류 같은 요인들이 모두 득점 확률을 결정합니다."
-          }
-        ]
-      },
-      {
-        "en": " ",
-        "ko": " ",
-        "sentences": [
-          {
-            "text": "Managers now instruct attackers to abandon low-probability long-range attempts in favor of high-value central box entries.",
-            "translation": "이제 감독들은 공격수들에게 확률 낮은 중거리 슈팅을 자제하고 가치 높은 페널티 박스 중앙 진입을 노리도록 지시합니다.",
-            "en": "Managers now instruct attackers to abandon low-probability long-range attempts in favor of high-value central box entries.",
-            "ko": "이제 감독들은 공격수들에게 확률 낮은 중거리 슈팅을 자제하고 가치 높은 페널티 박스 중앙 진입을 노리도록 지시합니다."
-          },
-          {
-            "text": "Data science has not removed the beauty of football; it has revealed the hidden geometry behind every winning chance.",
-            "translation": "데이터 과학은 축구의 아름다움을 앗아간 것이 아니라, 모든 승리의 기회 뒤에 숨겨진 기하학을 밝혀낸 것입니다.",
-            "en": "Data science has not removed the beauty of football; it has revealed the hidden geometry behind every winning chance.",
-            "ko": "데이터 과학은 축구의 아름다움을 앗아간 것이 아니라, 모든 승리의 기회 뒤에 숨겨진 기하학을 밝혀낸 것입니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "Expected Goals (xG) measures the mathematical quality of a scoring chance rather than just outcomes. (기대 득점은 단순 결과가 아니라 슈팅 기회의 수학적 품질을 측정합니다.)",
-      "Shot location, defender pressure, and pass velocity are key factors in algorithmic soccer modeling. (슈팅 위치와 수비수의 압박 여부가 모델링의 핵심 변수입니다.)",
-      "Modern football strategy emphasizes box efficiency over speculative long-range shots. (현대 축구는 무리한 중거리 슛 대신 박스 안 고효율 찬스 창출을 강조합니다.)"
-    ],
-    "quiz": [
-      {
-        "question": "What does the statistical metric 'xG' evaluate in football?",
-        "options": [
-          "Player sprinting speed",
-          "The probability that a shot will result in a goal",
-          "The referee's decision accuracy",
-          "Ticket revenue per match"
-        ],
-        "answer": 0,
-        "explanation": "Expected Goals (xG) assigns a probability score to each scoring chance."
-      },
-      {
-        "question": "How has xG changed modern attacking tactics?",
-        "options": [
-          "Encouraged more wild long-distance shots",
-          "Prioritized high-value central box entries",
-          "Eliminated corner kicks",
-          "Forced goalkeepers to stay on the goal line"
-        ],
-        "answer": 0,
-        "explanation": "Managers instruct players to abandon low-probability shots in favor of high-value box entries."
-      }
-    ]
-  },
-  {
-    "id": "sci-1",
-    "category": "science",
-    "isLive": false,
-    "level": "B2",
-    "title": "Cosmic Dawn: James Webb Telescope Observes the Universe's First Galaxies",
-    "subtitle": "Infrared spectroscopy reveals luminous galactic clusters that formed just three hundred million years after the Big Bang.",
-    "speaker": "Dr. Aris Thorne · Astrophysical Letters",
-    "date": "September 2026",
-    "readTime": "3 min",
-    "wordCount": 200,
-    "paragraphs": [
-      {
-        "en": "  ",
-        "ko": "  ",
-        "sentences": [
-          {
-            "text": "Positioned one million miles from Earth at the Second Lagrange Point, the James Webb Space Telescope peers deep into the ancient past.",
-            "translation": "지구에서 100만 마일 떨어진 제2 라그랑주 점에 위치한 제임스 웹 우주망원경은 고대의 아득한 과거를 깊숙이 들여다봅니다.",
-            "en": "Positioned one million miles from Earth at the Second Lagrange Point, the James Webb Space Telescope peers deep into the ancient past.",
-            "ko": "지구에서 100만 마일 떨어진 제2 라그랑주 점에 위치한 제임스 웹 우주망원경은 고대의 아득한 과거를 깊숙이 들여다봅니다."
-          },
-          {
-            "text": "Because cosmic expansion stretches ultraviolet light into the infrared spectrum, Webb's gold-plated mirrors capture primordial photons otherwise invisible to human eyes.",
-            "translation": "우주의 팽창이 자외선을 적외선 스펙트럼으로 늘려놓기 때문에, 웹의 금도금 반사경은 인간의 눈에는 보이지 않는 원초의 광자들을 포착합니다.",
-            "en": "Because cosmic expansion stretches ultraviolet light into the infrared spectrum, Webb's gold-plated mirrors capture primordial photons otherwise invisible to human eyes.",
-            "ko": "우주의 팽창이 자외선을 적외선 스펙트럼으로 늘려놓기 때문에, 웹의 금도금 반사경은 인간의 눈에는 보이지 않는 원초의 광자들을 포착합니다."
-          },
-          {
-            "text": "Recent observations have revealed massive, highly structured galaxies thriving merely three hundred million years after the Big Bang.",
-            "translation": "최근 관측 결과, 빅뱅 이후 불과 3억 년밖에 지나지 않은 시점에 이미 거대하고 고도로 구조화된 은하들이 번성하고 있었음이 밝혀졌습니다.",
-            "en": "Recent observations have revealed massive, highly structured galaxies thriving merely three hundred million years after the Big Bang.",
-            "ko": "최근 관측 결과, 빅뱅 이후 불과 3억 년밖에 지나지 않은 시점에 이미 거대하고 고도로 구조화된 은하들이 번성하고 있었음이 밝혀졌습니다."
-          }
-        ]
-      },
-      {
-        "en": " ",
-        "ko": " ",
-        "sentences": [
-          {
-            "text": "These findings challenge existing cosmological models, suggesting that early star formation occurred far more rapidly than theorists once assumed.",
-            "translation": "이러한 발견은 기존의 우주론 모델에 도전장을 내밀며, 초기 별 형성이 이론가들이 생각했던 것보다 훨씬 더 빠르게 진행되었음을 시사합니다.",
-            "en": "These findings challenge existing cosmological models, suggesting that early star formation occurred far more rapidly than theorists once assumed.",
-            "ko": "이러한 발견은 기존의 우주론 모델에 도전장을 내밀며, 초기 별 형성이 이론가들이 생각했던 것보다 훨씬 더 빠르게 진행되었음을 시사합니다."
-          },
-          {
-            "text": "Each newly resolved star cluster pushes humanity one step closer to comprehending how darkness gave birth to radiant celestial architectures.",
-            "translation": "새롭게 분해된 각각의 성단은 인류가 어떻게 칠흑 같은 어둠 속에서 눈부신 천체 구조가 탄생했는지 이해하는 데 한 걸음 더 다가가게 해줍니다.",
-            "en": "Each newly resolved star cluster pushes humanity one step closer to comprehending how darkness gave birth to radiant celestial architectures.",
-            "ko": "새롭게 분해된 각각의 성단은 인류가 어떻게 칠흑 같은 어둠 속에서 눈부신 천체 구조가 탄생했는지 이해하는 데 한 걸음 더 다가가게 해줍니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "Webb utilizes infrared instruments to detect ancient light redshifted by cosmological expansion. (웹 망원경은 우주 팽창으로 적색편이된 고대 빛을 적외선 장비로 탐지합니다.)",
-      "Galaxies formed much earlier and grew much larger than standard astrophysical models predicted. (은하들은 표준 천체물리학 모델의 예측보다 훨씬 일찍 형성되고 거대하게 성장했습니다.)",
-      "Cosmic Dawn research is actively rewriting the timetable of the early universe. (우주의 여명기 연구는 초기 우주 역사의 시간표를 새로 쓰고 있습니다.)"
-    ],
-    "quiz": [
-      {
-        "question": "Why does the James Webb Space Telescope use infrared instruments?",
-        "options": [
-          "Because cosmic dust destroys all radio waves",
-          "Because cosmic expansion shifts ancient light into the infrared range",
-          "Because infrared cameras require no electrical power",
-          "To observe ultraviolet radiation directly"
-        ],
-        "answer": 0,
-        "explanation": "Cosmic expansion stretches primordial ultraviolet light into the infrared spectrum."
-      },
-      {
-        "question": "What surprised astrophysicists about the earliest galaxies observed by Webb?",
-        "options": [
-          "They were completely devoid of stars",
-          "They were larger and more structured than previously theorized",
-          "They revolved backwards around Earth",
-          "They consisted entirely of solid iron"
-        ],
-        "answer": 0,
-        "explanation": "The text explains that galaxies were thriving with structure just 300 million years after the Big Bang, far faster than assumed."
-      }
-    ]
-  },
-  {
-    "id": "sci-2",
-    "category": "science",
-    "isLive": false,
-    "level": "B2",
-    "title": "CRISPR Gene Editing Reaches Decisive Clinical Milestones",
-    "subtitle": "How targeted molecular scissors are curing genetic blood disorders and transforming modern cellular therapy.",
-    "speaker": "Rachel Sterling · BioTech Frontiers",
-    "date": "August 2026",
-    "readTime": "3 min",
-    "wordCount": 200,
-    "paragraphs": [
-      {
-        "en": "  ",
-        "ko": "  ",
-        "sentences": [
-          {
-            "text": "Discovered within the immune mechanisms of humble bacteria, CRISPR-Cas9 has fundamentally altered the paradigm of human therapeutics.",
-            "translation": "소박한 박테리아의 면역 기제에서 발견된 CRISPR-Cas9은 인간 질병 치료의 패러다임을 근본적으로 변화시켰습니다.",
-            "en": "Discovered within the immune mechanisms of humble bacteria, CRISPR-Cas9 has fundamentally altered the paradigm of human therapeutics.",
-            "ko": "소박한 박테리아의 면역 기제에서 발견된 CRISPR-Cas9은 인간 질병 치료의 패러다임을 근본적으로 변화시켰습니다."
-          },
-          {
-            "text": "The molecular complex functions as a programmable pair of biological scissors, locating and modifying specific faulty DNA sequences with surgical precision.",
-            "translation": "이 분자 복합체는 프로그래밍 가능한 생물학적 가위 역할을 하여 외과적 정밀도로 특정 결함 DNA 서열을 찾아 수정합니다.",
-            "en": "The molecular complex functions as a programmable pair of biological scissors, locating and modifying specific faulty DNA sequences with surgical precision.",
-            "ko": "이 분자 복합체는 프로그래밍 가능한 생물학적 가위 역할을 하여 외과적 정밀도로 특정 결함 DNA 서열을 찾아 수정합니다."
-          },
-          {
-            "text": "In recent global clinical trials, patients suffering from sickle cell anemia experienced complete remission following a single ex-vivo edit of their bone marrow stem cells.",
-            "translation": "최근 전 세계 임상 시험에서 겸상 적혈구 빈혈 환자들은 골수 줄기세포에 대한 단 한 차례의 체외 유전자 교정을 통해 완전한 관해를 경험했습니다.",
-            "en": "In recent global clinical trials, patients suffering from sickle cell anemia experienced complete remission following a single ex-vivo edit of their bone marrow stem cells.",
-            "ko": "최근 전 세계 임상 시험에서 겸상 적혈구 빈혈 환자들은 골수 줄기세포에 대한 단 한 차례의 체외 유전자 교정을 통해 완전한 관해를 경험했습니다."
-          }
-        ]
-      },
-      {
-        "en": " ",
-        "ko": " ",
-        "sentences": [
-          {
-            "text": "Beyond hereditary illnesses, researchers are now designing synthetic immune cells capable of hunting down solid tumors without harming healthy surrounding tissues.",
-            "translation": "유전성 질환을 넘어, 연구자들은 이제 주변의 건강한 조직을 손상시키지 않고 고형암을 추적해 제거할 수 있는 합성 면역 세포를 설계하고 있습니다.",
-            "en": "Beyond hereditary illnesses, researchers are now designing synthetic immune cells capable of hunting down solid tumors without harming healthy surrounding tissues.",
-            "ko": "유전성 질환을 넘어, 연구자들은 이제 주변의 건강한 조직을 손상시키지 않고 고형암을 추적해 제거할 수 있는 합성 면역 세포를 설계하고 있습니다."
-          },
-          {
-            "text": "As clinical accessibility expands, society must balance these breathtaking medical triumphs with rigorous ethical governance.",
-            "translation": "치료 접근성이 확대됨에 따라, 인류 사회는 이러한 눈부신 의학적 승리와 엄격한 윤리적 규범 사이에서 현명한 균형을 잡아야 합니다.",
-            "en": "As clinical accessibility expands, society must balance these breathtaking medical triumphs with rigorous ethical governance.",
-            "ko": "치료 접근성이 확대됨에 따라, 인류 사회는 이러한 눈부신 의학적 승리와 엄격한 윤리적 규범 사이에서 현명한 균형을 잡아야 합니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "CRISPR allows precise, programmable editing of faulty genetic sequences in living human cells. (CRISPR는 살아있는 인간 세포 내 결함 유전자 서열을 정밀하게 편집할 수 있게 합니다.)",
-      "Single-dose gene therapies have demonstrated curative remissions for hereditary blood disorders. (단 1회 투여 유전자 치료로 유전성 혈액 질환의 완치에 가까운 관해가 입증되었습니다.)",
-      "Ethical standards and pricing accessibility remain crucial issues as gene therapies scale globally. (유전자 치료가 대중화됨에 따라 윤리적 기준과 치료비 접근성이 핵심 과제로 대두되고 있습니다.)"
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary function of the CRISPR-Cas9 molecular complex?",
-        "options": [
-          "To produce synthetic insulin in the pancreas",
-          "To locate and edit specific target DNA sequences with precision",
-          "To replace human blood with synthetic fluids",
-          "To generate mechanical antibodies inside bones"
-        ],
-        "answer": 0,
-        "explanation": "CRISPR acts as biological scissors to locate and modify faulty genetic sequences."
-      },
-      {
-        "question": "Which genetic disease recently saw curative results in trials mentioned in the article?",
-        "options": [
-          "Sickle cell anemia",
-          "Common influenza",
-          "Asthma",
-          "Bacterial pneumonia"
-        ],
-        "answer": 0,
-        "explanation": "The text highlights complete remission for patients suffering from sickle cell anemia."
-      }
-    ]
-  },
-  {
-    "id": "sci-3",
-    "category": "science",
-    "isLive": false,
-    "level": "B2",
-    "title": "The Ocean Beneath the Ice: Probing Europa for Extraterrestrial Life",
-    "subtitle": "NASA's Europa Clipper mission investigates whether Jupiter's icy moon harbors conditions suitable for biology.",
-    "speaker": "David Lin · Planetary Science Quarterly",
-    "date": "July 2026",
-    "readTime": "3 min",
-    "wordCount": 200,
-    "paragraphs": [
-      {
-        "en": "  ",
-        "ko": "  ",
-        "sentences": [
-          {
-            "text": "Beneath a cracked shell of frozen ice twenty kilometers thick, Jupiter's fourth-largest moon conceals a colossal liquid ocean.",
-            "translation": "20킬로미터 두께의 갈라진 얼음 껍질 아래, 목성의 네 번째로 큰 위성은 거대한 액체 바다를 감추고 있습니다.",
-            "en": "Beneath a cracked shell of frozen ice twenty kilometers thick, Jupiter's fourth-largest moon conceals a colossal liquid ocean.",
-            "ko": "20킬로미터 두께의 갈라진 얼음 껍질 아래, 목성의 네 번째로 큰 위성은 거대한 액체 바다를 감추고 있습니다."
-          },
-          {
-            "text": "Europa contains more than twice the volume of all Earth's oceans combined, kept warm by relentless gravitational tidal flexing from Jupiter.",
-            "translation": "유로파는 목성의 거센 중력 조석력으로 인해 온도를 유지하며, 지구상의 모든 바다를 합친 것보다 두 배 이상 많은 양의 물을 품고 있습니다.",
-            "en": "Europa contains more than twice the volume of all Earth's oceans combined, kept warm by relentless gravitational tidal flexing from Jupiter.",
-            "ko": "유로파는 목성의 거센 중력 조석력으로 인해 온도를 유지하며, 지구상의 모든 바다를 합친 것보다 두 배 이상 많은 양의 물을 품고 있습니다."
-          },
-          {
-            "text": "Planetary scientists believe hydrothermal vents on the seafloor may release chemical nutrients into the dark, sunless brine.",
-            "translation": "행성 과학자들은 해저의 열수구가 햇빛이 닿지 않는 어두운 바닷물 속으로 화학적 영양분을 방출하고 있을 것으로 추정합니다.",
-            "en": "Planetary scientists believe hydrothermal vents on the seafloor may release chemical nutrients into the dark, sunless brine.",
-            "ko": "행성 과학자들은 해저의 열수구가 햇빛이 닿지 않는 어두운 바닷물 속으로 화학적 영양분을 방출하고 있을 것으로 추정합니다."
-          }
-        ]
-      },
-      {
-        "en": " ",
-        "ko": " ",
-        "sentences": [
-          {
-            "text": "The Europa Clipper spacecraft carries ice-penetrating radar and mass spectrometers to analyze vapor plumes erupting through surface fissures.",
-            "translation": "유로파 클리퍼 탐사선은 얼음 투과 레이더와 질량 분석기를 탑재하여 표면 균열을 통해 분출되는 수증기 기둥을 분석합니다.",
-            "en": "The Europa Clipper spacecraft carries ice-penetrating radar and mass spectrometers to analyze vapor plumes erupting through surface fissures.",
-            "ko": "유로파 클리퍼 탐사선은 얼음 투과 레이더와 질량 분석기를 탑재하여 표면 균열을 통해 분출되는 수증기 기둥을 분석합니다."
-          },
-          {
-            "text": "If microbial life has taken root in Europa's abyssal depths, it will prove that life is not an earthly anomaly, but a cosmic inevitability.",
-            "translation": "만약 유로파의 심연 속에서 미생물이 뿌리내렸다면, 이는 생명이 지구만의 기적이 아니라 우주적 필연임을 증명하게 될 것입니다.",
-            "en": "If microbial life has taken root in Europa's abyssal depths, it will prove that life is not an earthly anomaly, but a cosmic inevitability.",
-            "ko": "만약 유로파의 심연 속에서 미생물이 뿌리내렸다면, 이는 생명이 지구만의 기적이 아니라 우주적 필연임을 증명하게 될 것입니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "Europa harbors a subsurface ocean containing twice the liquid water of Earth. (유로파 지하 바다는 지구 전체 바닷물의 2배가 넘는 수량을 보유하고 있습니다.)",
-      "Tidal gravitational friction from massive Jupiter prevents the ocean from freezing solid. (목성의 거대한 중력 조석 마찰열이 바다가 완전히 얼어붙는 것을 막아줍니다.)",
-      "Detecting extraterrestrial biosignatures on Europa would fundamentally redefine biology. (유로파에서 생명체 징후를 발견한다면 생물학의 정의를 근본적으로 다시 쓰게 됩니다.)"
-    ],
-    "quiz": [
-      {
-        "question": "What keeps Europa's vast subsurface ocean in a liquid state?",
-        "options": [
-          "Solar panels installed by robotic probes",
-          "Gravitational tidal heating generated by Jupiter",
-          "Nuclear fusion in its icy crust",
-          "Constant meteor impacts"
-        ],
-        "answer": 0,
-        "explanation": "Gravitational tidal flexing from Jupiter generates internal heat."
-      },
-      {
-        "question": "How does the volume of Europa's ocean compare to Earth's oceans?",
-        "options": [
-          "It is less than one percent of Earth's oceans",
-          "It has more than twice the volume of all Earth's oceans combined",
-          "It is exactly identical in size",
-          "It contains only frozen water crystals"
-        ],
-        "answer": 0,
-        "explanation": "The text states: 'Europa contains more than twice the volume of all Earth's oceans combined.'"
-      }
-    ]
-  },
-  {
-    "id": "tech-1",
-    "category": "tech",
-    "isLive": false,
-    "level": "B2",
-    "title": "Generative AI and the Death of the Rigid Software Interface",
-    "subtitle": "How conversational intelligence, multi-modal context, and autonomous agents are replacing traditional menus and buttons.",
-    "speaker": "Maya Chen · Silicon Systems Insight",
-    "date": "September 2026",
-    "readTime": "3 min",
-    "wordCount": 200,
-    "paragraphs": [
-      {
-        "en": "  ",
-        "ko": "  ",
-        "sentences": [
-          {
-            "text": "For fifty years, computing interfaces have been dominated by static menus, nested tabs, and rigid button hierarchies.",
-            "translation": "50년 동안 컴퓨터 인터페이스는 정적인 메뉴, 중첩된 탭, 고정된 버튼 계층 구조에 의해 지배되어 왔습니다.",
-            "en": "For fifty years, computing interfaces have been dominated by static menus, nested tabs, and rigid button hierarchies.",
-            "ko": "50년 동안 컴퓨터 인터페이스는 정적인 메뉴, 중첩된 탭, 고정된 버튼 계층 구조에 의해 지배되어 왔습니다."
-          },
-          {
-            "text": "With the maturation of multi-modal generative models, software is shifting from command-driven navigation to intent-driven conversation.",
-            "translation": "멀티모달 생성 모델이 성숙해짐에 따라, 소프트웨어는 명령 중심의 조작에서 의도 중심의 대화로 전환되고 있습니다.",
-            "en": "With the maturation of multi-modal generative models, software is shifting from command-driven navigation to intent-driven conversation.",
-            "ko": "멀티모달 생성 모델이 성숙해짐에 따라, 소프트웨어는 명령 중심의 조작에서 의도 중심의 대화로 전환되고 있습니다."
-          },
-          {
-            "text": "Instead of manually clicking through spreadsheets and dashboards, users now articulate high-level objectives in everyday natural language.",
-            "translation": "스프레드시트와 대시보드를 일일이 클릭하는 대신, 사용자들은 이제 일상적인 자연어로 고차원적인 목표를 전달합니다.",
-            "en": "Instead of manually clicking through spreadsheets and dashboards, users now articulate high-level objectives in everyday natural language.",
-            "ko": "스프레드시트와 대시보드를 일일이 클릭하는 대신, 사용자들은 이제 일상적인 자연어로 고차원적인 목표를 전달합니다."
-          }
-        ]
-      },
-      {
-        "en": " ",
-        "ko": " ",
-        "sentences": [
-          {
-            "text": "Autonomous agentic workflows decompose complex instructions, write ephemeral code in milliseconds, and render tailored user interfaces on the fly.",
-            "translation": "자율 에이전트 워크플로우는 복잡한 지시사항을 스스로 분해하고, 수 밀리초 만에 임시 코드를 작성하며, 맞춤형 UI를 실시간으로 렌더링합니다.",
-            "en": "Autonomous agentic workflows decompose complex instructions, write ephemeral code in milliseconds, and render tailored user interfaces on the fly.",
-            "ko": "자율 에이전트 워크플로우는 복잡한 지시사항을 스스로 분해하고, 수 밀리초 만에 임시 코드를 작성하며, 맞춤형 UI를 실시간으로 렌더링합니다."
-          },
-          {
-            "text": "The ultimate interface of tomorrow is not a screen crowded with icons, but a fluid cognitive partner that anticipates human purpose.",
-            "translation": "내일의 궁극적인 인터페이스는 아이콘으로 가득 찬 화면이 아니라, 인간의 의도를 먼저 파악하는 유연한 인지 파트너입니다.",
-            "en": "The ultimate interface of tomorrow is not a screen crowded with icons, but a fluid cognitive partner that anticipates human purpose.",
-            "ko": "내일의 궁극적인 인터페이스는 아이콘으로 가득 찬 화면이 아니라, 인간의 의도를 먼저 파악하는 유연한 인지 파트너입니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "Human-computer interfaces are evolving from command-driven buttons to natural language intent. (컴퓨팅 인터페이스는 명령 버튼에서 자연어 의도 중심으로 진화하고 있습니다.)",
-      "Agentic AI workflows dynamically generate UI widgets and process complex multi-step tasks in real time. (에이전트 AI는 실시간으로 맞춤 UI를 생성하고 다단계 작업을 자율 처리합니다.)",
-      "The future of UX lies in ambient collaboration between humans and anticipatory intelligence. (미래의 사용자 경험은 인간과 선제적 인공지능 간의 자연스러운 협업에 있습니다.)"
-    ],
-    "quiz": [
-      {
-        "question": "What fundamental transition is occurring in modern computing interfaces?",
-        "options": [
-          "From computer screens back to paper punch cards",
-          "From static click menus to natural language intent",
-          "From color displays to black and white text",
-          "From cloud storage to floppy disks"
-        ],
-        "answer": 0,
-        "explanation": "Software is transitioning from static menus to intent-driven conversation."
-      },
-      {
-        "question": "How do autonomous AI agents handle complex user instructions?",
-        "options": [
-          "They reject them and demand single clicks",
-          "They decompose goals, write temporary code, and generate tailored UI",
-          "They print physical manuals",
-          "They wait for manual server reboots"
-        ],
-        "answer": 0,
-        "explanation": "Autonomous agentic workflows decompose tasks, write code instantly, and render tailored interfaces on the fly."
-      }
-    ]
-  },
-  {
-    "id": "tech-2",
-    "category": "tech",
-    "isLive": false,
-    "level": "C1",
-    "title": "Quantum Supremacy Frontiers: Harnessing Qubits and Superposition",
-    "subtitle": "Why quantum coherence and entanglement promise to crack problems unsolvable by classical supercomputers.",
-    "speaker": "Dr. Julian Sato · Quantum Frontiers Journal",
-    "date": "August 2026",
-    "readTime": "4 min",
-    "wordCount": 200,
-    "paragraphs": [
-      {
-        "en": "  ",
-        "ko": "  ",
-        "sentences": [
-          {
-            "text": "Classical computing relies on binary bits that exist in an immutable state of either zero or one.",
-            "translation": "고전 컴퓨터는 0 또는 1이라는 불변의 상태로 존재하는 2진수 비트에 의존합니다.",
-            "en": "Classical computing relies on binary bits that exist in an immutable state of either zero or one.",
-            "ko": "고전 컴퓨터는 0 또는 1이라는 불변의 상태로 존재하는 2진수 비트에 의존합니다."
-          },
-          {
-            "text": "Quantum computers shatter this constraint by exploiting qubits, which can occupy a superposition of both states simultaneously.",
-            "translation": "양자 컴퓨터는 두 상태를 동시에 점유할 수 있는 '중첩(superposition)' 상태의 큐비트를 활용하여 이러한 한계를 깨뜨립니다.",
-            "en": "Quantum computers shatter this constraint by exploiting qubits, which can occupy a superposition of both states simultaneously.",
-            "ko": "양자 컴퓨터는 두 상태를 동시에 점유할 수 있는 '중첩(superposition)' 상태의 큐비트를 활용하여 이러한 한계를 깨뜨립니다."
-          },
-          {
-            "text": "When qubits become entangled, calculating power scales exponentially, enabling simultaneous evaluation of billions of mathematical possibilities.",
-            "translation": "큐비트들이 서로 '얽힘(entanglement)' 상태가 되면, 계산 능력은 기하급수적으로 증가하여 수십억 개의 수학적 가능성을 동시에 연산할 수 있게 됩니다.",
-            "en": "When qubits become entangled, calculating power scales exponentially, enabling simultaneous evaluation of billions of mathematical possibilities.",
-            "ko": "큐비트들이 서로 '얽힘(entanglement)' 상태가 되면, 계산 능력은 기하급수적으로 증가하여 수십억 개의 수학적 가능성을 동시에 연산할 수 있게 됩니다."
-          }
-        ]
-      },
-      {
-        "en": " ",
-        "ko": " ",
-        "sentences": [
-          {
-            "text": "Industries ranging from cryptographic security to molecular drug discovery stand on the precipice of profound computational disruption.",
-            "translation": "암호 보안에서 분자 신약 개발에 이르는 다양한 산업들이 엄청난 연산 기술적 격변의 문턱에 서 있습니다.",
-            "en": "Industries ranging from cryptographic security to molecular drug discovery stand on the precipice of profound computational disruption.",
-            "ko": "암호 보안에서 분자 신약 개발에 이르는 다양한 산업들이 엄청난 연산 기술적 격변의 문턱에 서 있습니다."
-          },
-          {
-            "text": "While maintaining cryogenic coherence remains an engineering hurdle, practical quantum utility is no longer a distant theoretical dream.",
-            "translation": "극저온 결맞음(coherence)을 유지하는 것이 여전히 공학적 난제로 남아 있지만, 실용적인 양자 컴퓨터의 활용은 더 이상 먼 이론 속의 꿈이 아닙니다.",
-            "en": "While maintaining cryogenic coherence remains an engineering hurdle, practical quantum utility is no longer a distant theoretical dream.",
-            "ko": "극저온 결맞음(coherence)을 유지하는 것이 여전히 공학적 난제로 남아 있지만, 실용적인 양자 컴퓨터의 활용은 더 이상 먼 이론 속의 꿈이 아닙니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "Qubits leverage quantum superposition to represent multiple computational states at once. (큐비트는 양자 중첩을 활용해 여러 연산 상태를 동시에 나타냅니다.)",
-      "Quantum entanglement enables exponential speedups in processing complex combinatorial problems. (양자 얽힘은 복잡한 조합 문제를 해결할 때 지수함수적 연산 속도 향상을 가능케 합니다.)",
-      "Hardware stability at near-absolute zero temperatures remains the primary technical bottleneck. (절대영도에 가까운 극저온에서의 하드웨어 안정성 유지가 주요 극복 과제입니다.)"
-    ],
-    "quiz": [
-      {
-        "question": "What allows a qubit to hold more computational potential than a classical bit?",
-        "options": [
-          "Its physical size is much heavier",
-          "Superposition, allowing it to represent 0 and 1 simultaneously",
-          "It does not require any electricity",
-          "It operates at room temperature without cooling"
-        ],
-        "answer": 0,
-        "explanation": "Qubits can occupy a superposition of both zero and one states simultaneously."
-      },
-      {
-        "question": "Which mathematical property causes quantum processing power to scale exponentially?",
-        "options": [
-          "Binary subtraction",
-          "Quantum entanglement",
-          "Gravitational pull",
-          "Linear algebra only"
-        ],
-        "answer": 0,
-        "explanation": "When qubits become entangled, calculation capability scales exponentially."
-      }
-    ]
-  },
-  {
-    "id": "tech-3",
-    "category": "tech",
-    "isLive": false,
-    "level": "B2",
-    "title": "Autonomous Driving Level 4: How Neural Networks Read the Road",
-    "subtitle": "The fusion of LiDAR, high-definition radar, and end-to-end vision models navigating complex urban environments.",
-    "speaker": "Samantha Rivera · Autonomous Mobility Tech",
-    "date": "July 2026",
-    "readTime": "3 min",
-    "wordCount": 200,
-    "paragraphs": [
-      {
-        "en": "  ",
-        "ko": "  ",
-        "sentences": [
-          {
-            "text": "Navigating a bustling metropolitan intersection requires processing thousands of unpredictable variables in fractions of a second.",
-            "translation": "혼잡한 대도시 교차로를 주행하려면 1초도 안 되는 찰나의 시간에 수천 개의 예측 불가능한 변수를 처리해야 합니다.",
-            "en": "Navigating a bustling metropolitan intersection requires processing thousands of unpredictable variables in fractions of a second.",
-            "ko": "혼잡한 대도시 교차로를 주행하려면 1초도 안 되는 찰나의 시간에 수천 개의 예측 불가능한 변수를 처리해야 합니다."
-          },
-          {
-            "text": "Level 4 self-driving vehicles combine spinning LiDAR sensors with multi-angle cameras to build a three-dimensional point-cloud map of their surroundings.",
-            "translation": "레벨 4 자율주행 차량은 회전하는 라이다 센서와 다각도 카메라를 결합하여 주변 환경의 3차원 포인트 클라우드 지도를 구축합니다.",
-            "en": "Level 4 self-driving vehicles combine spinning LiDAR sensors with multi-angle cameras to build a three-dimensional point-cloud map of their surroundings.",
-            "ko": "레벨 4 자율주행 차량은 회전하는 라이다 센서와 다각도 카메라를 결합하여 주변 환경의 3차원 포인트 클라우드 지도를 구축합니다."
-          },
-          {
-            "text": "Deep neural networks ingest this multi-modal sensor stream, instantly predicting the trajectory of pedestrians, cyclists, and oncoming traffic.",
-            "translation": "심층 신경망은 이 멀티모달 센서 스트림을 입력받아 보행자, 자전거 운전자, 마주 오는 차량의 이동 궤적을 즉시 예측합니다.",
-            "en": "Deep neural networks ingest this multi-modal sensor stream, instantly predicting the trajectory of pedestrians, cyclists, and oncoming traffic.",
-            "ko": "심층 신경망은 이 멀티모달 센서 스트림을 입력받아 보행자, 자전거 운전자, 마주 오는 차량의 이동 궤적을 즉시 예측합니다."
-          }
-        ]
-      },
-      {
-        "en": " ",
-        "ko": " ",
-        "sentences": [
-          {
-            "text": "Rather than relying on handcrafted rules, modern end-to-end models learn nuanced defensive driving habits from billions of simulated road miles.",
-            "translation": "사람이 일일이 작성한 규칙에 의존하는 대신, 최신 엔드투엔드 모델은 수십억 마일에 달하는 가상 시뮬레이션 주행을 통해 섬세한 방어운전 습관을 스스로 학습합니다.",
-            "en": "Rather than relying on handcrafted rules, modern end-to-end models learn nuanced defensive driving habits from billions of simulated road miles.",
-            "ko": "사람이 일일이 작성한 규칙에 의존하는 대신, 최신 엔드투엔드 모델은 수십억 마일에 달하는 가상 시뮬레이션 주행을 통해 섬세한 방어운전 습관을 스스로 학습합니다."
-          },
-          {
-            "text": "As regulatory approvals expand across major cities, driverless robotaxis are steadily transforming urban transit from an ambition into daily reality.",
-            "translation": "주요 대도시에서 규제 승인이 확대됨에 따라, 무인 로보택시는 도시 교통을 막연한 포부에서 일상적인 현실로 꾸준히 변화시키고 있습니다.",
-            "en": "As regulatory approvals expand across major cities, driverless robotaxis are steadily transforming urban transit from an ambition into daily reality.",
-            "ko": "주요 대도시에서 규제 승인이 확대됨에 따라, 무인 로보택시는 도시 교통을 막연한 포부에서 일상적인 현실로 꾸준히 변화시키고 있습니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "Level 4 autonomous mobility relies on the fusion of LiDAR point clouds, radar, and HD cameras. (레벨 4 자율주행은 라이다 포인트 클라우드, 레이더, HD 카메라 센서의 융합에 의존합니다.)",
-      "End-to-end neural networks predict pedestrian trajectories far faster than human reaction times. (엔드투엔드 신경망은 인간의 반응 속도보다 훨씬 빠르게 보행자의 이동 경로를 예측합니다.)",
-      "Billions of simulated training miles allow AI drivers to safely master rare 'edge cases'. (수십억 마일의 가상 주행 학습을 통해 AI 운전자는 희귀한 돌발 상황(엣지 케이스)을 안전하게 극복합니다.)"
-    ],
-    "quiz": [
-      {
-        "question": "What sensor combination allows Level 4 vehicles to build real-time 3D spatial maps?",
-        "options": [
-          "Only mechanical rear-view mirrors",
-          "LiDAR sensors combined with multi-angle cameras",
-          "AM/FM radio antennae",
-          "Exhaust temperature sensors"
-        ],
-        "answer": 0,
-        "explanation": "Vehicles combine spinning LiDAR sensors with cameras to build 3D point-cloud maps."
-      },
-      {
-        "question": "How do modern autonomous driving models master defensive driving behaviors?",
-        "options": [
-          "By studying printed driving test booklets",
-          "By learning from billions of simulated road miles in deep neural networks",
-          "By strictly driving under 10 mph everywhere",
-          "By asking passengers for turn-by-turn advice"
-        ],
-        "answer": 0,
-        "explanation": "End-to-end neural models learn driving habits from billions of simulated road miles."
-      }
-    ]
-  },
-  {
-    "id": "econ-1",
-    "category": "economy",
-    "isLive": false,
-    "level": "B2",
-    "title": "Global Interest Rate Cycles and the New Discipline in Venture Capital",
-    "subtitle": "How the departure from near-zero borrowing costs ended 'growth-at-all-costs' and revived focus on unit economics.",
-    "speaker": "Arthur Sterling · Global Financial Macro",
-    "date": "September 2026",
-    "readTime": "3 min",
-    "wordCount": 200,
-    "paragraphs": [
-      {
-        "en": "  ",
-        "ko": "  ",
-        "sentences": [
-          {
-            "text": "For over a decade following the 2008 financial crisis, central banks anchored interest rates near historic zero.",
-            "translation": "2008년 금융 위기 이후 10년 넘게 각국 중앙은행은 기준금리를 역사적인 제로 수준에 묶어두었습니다.",
-            "en": "For over a decade following the 2008 financial crisis, central banks anchored interest rates near historic zero.",
-            "ko": "2008년 금융 위기 이후 10년 넘게 각국 중앙은행은 기준금리를 역사적인 제로 수준에 묶어두었습니다."
-          },
-          {
-            "text": "This era of cheap capital fueled a Silicon Valley culture of subsidizing user acquisition at the expense of sustainable profitability.",
-            "translation": "이러한 저금리 자본의 시대는 지속 가능한 수익성을 희생하면서까지 출혈 경쟁으로 사용자를 유치하는 실리콘밸리 문화를 키웠습니다.",
-            "en": "This era of cheap capital fueled a Silicon Valley culture of subsidizing user acquisition at the expense of sustainable profitability.",
-            "ko": "이러한 저금리 자본의 시대는 지속 가능한 수익성을 희생하면서까지 출혈 경쟁으로 사용자를 유치하는 실리콘밸리 문화를 키웠습니다."
-          },
-          {
-            "text": "As global inflation compelled central bankers to normalize monetary policy, the cost of capital rose precipitously.",
-            "translation": "글로벌 인플레이션으로 인해 중앙은행들이 통화 정책을 정상화하자, 자본 조달 비용은 가파르게 상승했습니다.",
-            "en": "As global inflation compelled central bankers to normalize monetary policy, the cost of capital rose precipitously.",
-            "ko": "글로벌 인플레이션으로 인해 중앙은행들이 통화 정책을 정상화하자, 자본 조달 비용은 가파르게 상승했습니다."
-          }
-        ]
-      },
-      {
-        "en": " ",
-        "ko": " ",
-        "sentences": [
-          {
-            "text": "Venture investors swiftly pivoted, penalizing bloated cash burns and rewarding lean startups with disciplined unit economics.",
-            "translation": "벤처 투자자들은 신속하게 방향을 틀어 방만한 현금 소진 기업에 불이익을 주고, 엄격한 단위 경제학(유닛 이코노믹스)을 갖춘 실속 있는 스타트업을 우대하기 시작했습니다.",
-            "en": "Venture investors swiftly pivoted, penalizing bloated cash burns and rewarding lean startups with disciplined unit economics.",
-            "ko": "벤처 투자자들은 신속하게 방향을 틀어 방만한 현금 소진 기업에 불이익을 주고, 엄격한 단위 경제학(유닛 이코노믹스)을 갖춘 실속 있는 스타트업을 우대하기 시작했습니다."
-          },
-          {
-            "text": "The resulting recalibration marks a return to economic fundamentals, proving that real value lies in cash flow, not vanity metrics.",
-            "translation": "그 결과로 나타난 시장의 재편은 경제적 기본기로의 회귀를 의미하며, 진정한 가치는 겉치레 지표가 아닌 실제 현금 흐름에 있음을 증명하고 있습니다.",
-            "en": "The resulting recalibration marks a return to economic fundamentals, proving that real value lies in cash flow, not vanity metrics.",
-            "ko": "그 결과로 나타난 시장의 재편은 경제적 기본기로의 회귀를 의미하며, 진정한 가치는 겉치레 지표가 아닌 실제 현금 흐름에 있음을 증명하고 있습니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "Normalization of global interest rates permanently ended the decade of free speculative capital. (글로벌 금리 정상화는 10년간 이어진 무분별한 투기적 자본의 시대를 종식시켰습니다.)",
-      "Startups must now demonstrate clear paths to operating profitability rather than speculative top-line growth. (스타트업들은 이제 막연한 매출 성장 대신 명확한 영업 흑자 달성 경로를 입증해야 합니다.)",
-      "Sound unit economics and positive free cash flow are once again the primary yardsticks of enterprise value. (건전한 유닛 이코노믹스와 잉여 현금 흐름이 다시금 기업 가치의 핵심 척도가 되었습니다.)"
-    ],
-    "quiz": [
-      {
-        "question": "What business strategy was heavily subsidized during the decade of zero interest rates?",
-        "options": [
-          "Extreme austerity and hoarding cash",
-          "Aggressive user acquisition at the expense of profitability",
-          "Investing exclusively in physical gold",
-          "Immediate dividend payouts"
-        ],
-        "answer": 0,
-        "explanation": "Cheap capital fueled subsidizing user acquisition at the expense of sustainable profits."
-      },
-      {
-        "question": "What do modern venture capitalists prioritize after interest rate normalization?",
-        "options": [
-          "Vanity web traffic numbers",
-          "Disciplined unit economics and positive cash flow",
-          "Renting luxury headquarters",
-          "Launching weekly speculative tokens"
-        ],
-        "answer": 0,
-        "explanation": "Investors now reward lean startups with disciplined unit economics and cash flow."
-      }
-    ]
-  },
-  {
-    "id": "econ-2",
-    "category": "economy",
-    "isLive": false,
-    "level": "B2",
-    "title": "Silicon Geopolitics: The Global Race for Semiconductor Sovereignty",
-    "subtitle": "Why advanced microchips smaller than a virus have become the ultimate geopolitical currency of the twenty-first century.",
-    "speaker": "Katarina Volk · Geopolitical Commerce Review",
-    "date": "August 2026",
-    "readTime": "3 min",
-    "wordCount": 200,
-    "paragraphs": [
-      {
-        "en": "  ",
-        "ko": "  ",
-        "sentences": [
-          {
-            "text": "Every modern marvel—from smartphones and medical scanners to hypersonic defense systems—depends on advanced semiconductor logic.",
-            "translation": "스마트폰과 의료용 스캐너에서 극초음속 국방 시스템에 이르기까지 모든 현대의 기술적 경이로움은 첨단 반도체 로직에 의존합니다.",
-            "en": "Every modern marvel—from smartphones and medical scanners to hypersonic defense systems—depends on advanced semiconductor logic.",
-            "ko": "스마트폰과 의료용 스캐너에서 극초음속 국방 시스템에 이르기까지 모든 현대의 기술적 경이로움은 첨단 반도체 로직에 의존합니다."
-          },
-          {
-            "text": "Yet the global manufacturing ecosystem remains astonishingly concentrated, with cutting-edge sub-three-nanometer fabrication residing primarily in East Asia.",
-            "translation": "그러나 전 세계 반도체 제조 생태계는 놀라울 정도로 편중되어 있어, 3나노미터 이하의 최첨단 생산 기지는 주로 동아시아에 집중되어 있습니다.",
-            "en": "Yet the global manufacturing ecosystem remains astonishingly concentrated, with cutting-edge sub-three-nanometer fabrication residing primarily in East Asia.",
-            "ko": "그러나 전 세계 반도체 제조 생태계는 놀라울 정도로 편중되어 있어, 3나노미터 이하의 최첨단 생산 기지는 주로 동아시아에 집중되어 있습니다."
-          },
-          {
-            "text": "Recognizing that supply chain chokeholds can paralyze whole national economies, major world powers have unleashed hundreds of billions in state subsidies.",
-            "translation": "공급망의 병목 현상이 국가 경제 전체를 마비시킬 수 있음을 인식한 주요 강대국들은 수천억 달러 규모의 국가 보조금을 쏟아붓고 있습니다.",
-            "en": "Recognizing that supply chain chokeholds can paralyze whole national economies, major world powers have unleashed hundreds of billions in state subsidies.",
-            "ko": "공급망의 병목 현상이 국가 경제 전체를 마비시킬 수 있음을 인식한 주요 강대국들은 수천억 달러 규모의 국가 보조금을 쏟아붓고 있습니다."
-          }
-        ]
-      },
-      {
-        "en": " ",
-        "ko": " ",
-        "sentences": [
-          {
-            "text": "The United States, the European Union, and Asian allies are competing fiercely to domesticate foundries and secure extreme ultraviolet lithography tooling.",
-            "translation": "미국, 유럽연합, 그리고 아시아의 동맹국들은 자국 내 파운드리 유치와 극자외선(EUV) 노광 장비 확보를 위해 치열한 경쟁을 벌이고 있습니다.",
-            "en": "The United States, the European Union, and Asian allies are competing fiercely to domesticate foundries and secure extreme ultraviolet lithography tooling.",
-            "ko": "미국, 유럽연합, 그리고 아시아의 동맹국들은 자국 내 파운드리 유치와 극자외선(EUV) 노광 장비 확보를 위해 치열한 경쟁을 벌이고 있습니다."
-          },
-          {
-            "text": "Silicon has supplanted oil as the most strategically vital commodity on earth, dictating both economic prosperity and national sovereignty.",
-            "translation": "실리콘 반도체는 이제 석유를 제치고 지구상에서 가장 전략적으로 중요한 핵심 자원이 되었으며, 경제적 번영과 국가 안보를 동시에 좌우하고 있습니다.",
-            "en": "Silicon has supplanted oil as the most strategically vital commodity on earth, dictating both economic prosperity and national sovereignty.",
-            "ko": "실리콘 반도체는 이제 석유를 제치고 지구상에서 가장 전략적으로 중요한 핵심 자원이 되었으며, 경제적 번영과 국가 안보를 동시에 좌우하고 있습니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "Advanced sub-3nm chip fabrication is geographically concentrated in a few critical global hubs. (3나노 이하 첨단 반도체 생산은 전 세계 몇몇 핵심 거점에 집중되어 있습니다.)",
-      "Governments worldwide have enacted historic industrial policies to onshore chip manufacturing. (세계 각국 정부는 반도체 제조 기지를 자국 내에 유치하기 위해 유례없는 산업 정책을 펴고 있습니다.)",
-      "Extreme ultraviolet (EUV) lithography machines represent the single most complex manufacturing bottleneck. (극자외선(EUV) 노광 장비는 반도체 제조에서 가장 대체 불가능한 기술적 병목입니다.)"
-    ],
-    "quiz": [
-      {
-        "question": "What commodity has advanced silicon effectively supplanted in strategic geopolitical importance?",
-        "options": [
-          "Crude oil",
-          "Agricultural grain",
-          "Natural timber",
-          "Iron ore"
-        ],
-        "answer": 0,
-        "explanation": "The text declares: 'Silicon has supplanted oil as the most strategically vital commodity on earth.'"
-      },
-      {
-        "question": "Why are major powers investing billions into domestic semiconductor fabs?",
-        "options": [
-          "To eliminate all consumer electronic gadgets",
-          "To prevent supply chain chokeholds from paralyzing national economies",
-          "To replace computers with mechanical typewriters",
-          "To export sand back to the ocean"
-        ],
-        "answer": 0,
-        "explanation": "Supply chain chokeholds can paralyze whole national economies, prompting strategic onshoring."
-      }
-    ]
-  },
-  {
-    "id": "econ-3",
-    "category": "economy",
-    "isLive": false,
-    "level": "B2",
-    "title": "Grid Parity Tipping Point: The Inevitable Economics of Clean Energy",
-    "subtitle": "How plunging battery costs and ultra-efficient solar photovoltaics triggered a financial revolution in utility power generation.",
-    "speaker": "Marcus Thorne · Energy Economics Quarterly",
-    "date": "July 2026",
-    "readTime": "3 min",
-    "wordCount": 200,
-    "paragraphs": [
-      {
-        "en": "  ",
-        "ko": "  ",
-        "sentences": [
-          {
-            "text": "For decades, critics argued that clean energy transitions were financially unsustainable without massive public subsidies.",
-            "translation": "수십 년 동안 비판론자들은 청정 에너지 전환이 막대한 공공 보조금 없이는 재정적으로 지속 불가능하다고 주장했습니다.",
-            "en": "For decades, critics argued that clean energy transitions were financially unsustainable without massive public subsidies.",
-            "ko": "수십 년 동안 비판론자들은 청정 에너지 전환이 막대한 공공 보조금 없이는 재정적으로 지속 불가능하다고 주장했습니다."
-          },
-          {
-            "text": "That narrative has been obliterated by Swanson's Law, which observes that solar module costs plummet by twenty percent for every doubling of global capacity.",
-            "translation": "그러나 글로벌 설비 용량이 2배로 증가할 때마다 태양광 모듈 비용이 20%씩 급락한다는 '스완슨의 법칙'에 의해 그 주장은 완전히 무너졌습니다.",
-            "en": "That narrative has been obliterated by Swanson's Law, which observes that solar module costs plummet by twenty percent for every doubling of global capacity.",
-            "ko": "그러나 글로벌 설비 용량이 2배로 증가할 때마다 태양광 모듈 비용이 20%씩 급락한다는 '스완슨의 법칙'에 의해 그 주장은 완전히 무너졌습니다."
-          },
-          {
-            "text": "Today, utility-scale solar combined with lithium-iron-phosphate battery storage generates electricity at a lower levelized cost than coal or gas.",
-            "translation": "오늘날 대규모 태양광 발전과 리튬인산철(LFP) 배터리 저장 장치의 결합은 석탄이나 가스 화력보다 더 낮은 균등화 발전 원가(LCOE)로 전력을 생산합니다.",
-            "en": "Today, utility-scale solar combined with lithium-iron-phosphate battery storage generates electricity at a lower levelized cost than coal or gas.",
-            "ko": "오늘날 대규모 태양광 발전과 리튬인산철(LFP) 배터리 저장 장치의 결합은 석탄이나 가스 화력보다 더 낮은 균등화 발전 원가(LCOE)로 전력을 생산합니다."
-          }
-        ]
-      },
-      {
-        "en": " ",
-        "ko": " ",
-        "sentences": [
-          {
-            "text": "Institutional capital and sovereign wealth funds have reallocated trillions, driven not merely by ethical stewardship, but by cold commercial logic.",
-            "translation": "기관 투자자들과 국부펀드는 단순히 윤리적 환경 보호 때문만이 아니라, 냉철한 상업적 이익 논리에 따라 수조 달러의 자금을 재배치했습니다.",
-            "en": "Institutional capital and sovereign wealth funds have reallocated trillions, driven not merely by ethical stewardship, but by cold commercial logic.",
-            "ko": "기관 투자자들과 국부펀드는 단순히 윤리적 환경 보호 때문만이 아니라, 냉철한 상업적 이익 논리에 따라 수조 달러의 자금을 재배치했습니다."
-          },
-          {
-            "text": "The energy transition is no longer an environmental plea; it is an unstoppable capital avalanche reshaping the global macroeconomy.",
-            "translation": "에너지 전환은 이제 단순한 환경적 호소가 아닙니다. 이는 글로벌 거시경제를 재편하는 거스를 수 없는 자본의 눈사태입니다.",
-            "en": "The energy transition is no longer an environmental plea; it is an unstoppable capital avalanche reshaping the global macroeconomy.",
-            "ko": "에너지 전환은 이제 단순한 환경적 호소가 아닙니다. 이는 글로벌 거시경제를 재편하는 거스를 수 없는 자본의 눈사태입니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "Swanson's Law demonstrates exponential cost reductions as solar manufacturing scales up. (스완슨의 법칙은 태양광 제조 규모가 확대될수록 지수함수적인 비용 절감이 일어남을 보여줍니다.)",
-      "Levelized cost of energy (LCOE) for renewables with battery storage has surpassed fossil fuels. (배터리 저장 장치를 결합한 재생에너지의 발전 단가가 화석 연료를 추월했습니다.)",
-      "Commercial economic self-interest, rather than subsidies alone, is accelerating the energy transition. (단순 보조금이 아닌 상업적 경제성이 에너지 전환을 가속화하고 있습니다.)"
-    ],
-    "quiz": [
-      {
-        "question": "What does Swanson's Law describe regarding solar energy technology?",
-        "options": [
-          "Solar panels degrade completely every two years",
-          "Solar module costs plummet by roughly 20% for each doubling of cumulative volume",
-          "Sunlight only produces power on islands",
-          "Batteries can never store renewable energy"
-        ],
-        "answer": 0,
-        "explanation": "Swanson's Law notes that solar module costs drop ~20% every time cumulative global capacity doubles."
-      },
-      {
-        "question": "What is the primary driving force moving institutional capital into renewables today?",
-        "options": [
-          "Pure regulatory compulsion only",
-          "Commercial cost advantage and lower levelized energy cost",
-          "A complete global ban on all factories",
-          "Free land donated by governments"
-        ],
-        "answer": 0,
-        "explanation": "Investments are driven by cold commercial logic and lower levelized cost of electricity."
-      }
-    ]
-  },
-  {
-    "id": "culture-1",
-    "category": "culture",
-    "isLive": false,
-    "level": "B2",
-    "title": "The Global Resonance of the Korean Wave: Storytelling Beyond Borders",
-    "subtitle": "How K-dramas, cinema, and music transcended national barriers to establish a universal emotional vocabulary.",
-    "speaker": "Min-ji Park · Cultural Studies Review",
-    "date": "September 2026",
-    "readTime": "3 min",
-    "wordCount": 200,
-    "paragraphs": [
-      {
-        "en": "  ",
-        "ko": "  ",
-        "sentences": [
-          {
-            "text": "What began as a regional phenomenon across East Asia in the late nineties has evolved into an unrivaled cultural powerhouse.",
-            "translation": "90년대 후반 동아시아 전역의 지역적 현상으로 시작된 한류는 이제 견줄 데 없는 글로벌 문화 강국으로 진화했습니다.",
-            "en": "What began as a regional phenomenon across East Asia in the late nineties has evolved into an unrivaled cultural powerhouse.",
-            "ko": "90년대 후반 동아시아 전역의 지역적 현상으로 시작된 한류는 이제 견줄 데 없는 글로벌 문화 강국으로 진화했습니다."
-          },
-          {
-            "text": "From award-winning films exploring class division to genre-bending streaming series, Korean narratives masterfully intertwine hyper-local authenticity with universal human anxieties.",
-            "translation": "계급 격차를 탐구하여 수상한 영화부터 장르를 넘나드는 스트리밍 시리즈에 이르기까지, 한국의 서사는 지극히 한국적인 진정성과 인류 보편적인 정서적 불안을 절묘하게 엮어냅니다.",
-            "en": "From award-winning films exploring class division to genre-bending streaming series, Korean narratives masterfully intertwine hyper-local authenticity with universal human anxieties.",
-            "ko": "계급 격차를 탐구하여 수상한 영화부터 장르를 넘나드는 스트리밍 시리즈에 이르기까지, 한국의 서사는 지극히 한국적인 진정성과 인류 보편적인 정서적 불안을 절묘하게 엮어냅니다."
-          },
-          {
-            "text": "International audiences are drawn not just to the meticulous production quality, but to the unfiltered emotional vulnerability exhibited by characters.",
-            "translation": "해외 관객들이 매료되는 것은 완벽한 제작 퀄리티뿐만 아니라, 작중 인물들이 가감 없이 드러내는 솔직한 감정적 취약성 때문입니다.",
-            "en": "International audiences are drawn not just to the meticulous production quality, but to the unfiltered emotional vulnerability exhibited by characters.",
-            "ko": "해외 관객들이 매료되는 것은 완벽한 제작 퀄리티뿐만 아니라, 작중 인물들이 가감 없이 드러내는 솔직한 감정적 취약성 때문입니다."
-          }
-        ]
-      },
-      {
-        "en": " ",
-        "ko": " ",
-        "sentences": [
-          {
-            "text": "Global fans actively participate in transnational online communities, learning the Korean alphabet, cooking street food, and traveling to historic filming locations.",
-            "translation": "글로벌 팬들은 초국가적인 온라인 커뮤니티에 적극적으로 참여하여 한글을 배우고, 한국 길거리 음식을 직접 요리하며, 유서 깊은 촬영지로 여행을 떠납니다.",
-            "en": "Global fans actively participate in transnational online communities, learning the Korean alphabet, cooking street food, and traveling to historic filming locations.",
-            "ko": "글로벌 팬들은 초국가적인 온라인 커뮤니티에 적극적으로 참여하여 한글을 배우고, 한국 길거리 음식을 직접 요리하며, 유서 깊은 촬영지로 여행을 떠납니다."
-          },
-          {
-            "text": "The Korean Wave exemplifies how genuine creative courage can dissolve geographic and linguistic boundaries, uniting millions in collective empathy.",
-            "translation": "한류는 진정한 창작의 용기가 어떻게 지리적·언어적 경계를 허물고 수많은 사람들을 하나의 깊은 공감대로 묶어낼 수 있는지를 여실히 보여줍니다.",
-            "en": "The Korean Wave exemplifies how genuine creative courage can dissolve geographic and linguistic boundaries, uniting millions in collective empathy.",
-            "ko": "한류는 진정한 창작의 용기가 어떻게 지리적·언어적 경계를 허물고 수많은 사람들을 하나의 깊은 공감대로 묶어낼 수 있는지를 여실히 보여줍니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "Korean storytelling achieves global resonance by coupling intense local authenticity with universal human struggles. (한국의 서사는 강렬한 현지 고유성과 보편적 인류의 갈등을 결합해 전 세계적 공감을 얻습니다.)",
-      "Meticulous world-building and raw emotional honesty distinguish Korean film and episodic television. (치밀한 세계관 구축과 날것 그대로의 감정적 진솔함이 K-콘텐츠를 차별화합니다.)",
-      "Fandom has evolved into active cross-cultural engagement encompassing language, culinary arts, and travel. (팬덤은 언어 학습, 음식 문화 체험, 여행으로 이어지는 적극적인 상호 문화 교류로 발전했습니다.)"
-    ],
-    "quiz": [
-      {
-        "question": "What enables Korean cinema and television to connect with worldwide audiences?",
-        "options": [
-          "Using only computer-generated cartoon characters",
-          "Combining hyper-local authenticity with universal human anxieties",
-          "Producing exclusively silent movies",
-          "Translating all scripts into Latin only"
-        ],
-        "answer": 0,
-        "explanation": "Korean narratives masterfully intertwine hyper-local authenticity with universal human anxieties."
-      },
-      {
-        "question": "How do international fans express their cultural engagement beyond just watching shows?",
-        "options": [
-          "By learning the Korean language, cooking cuisine, and visiting filming sites",
-          "By deleting their digital social media accounts",
-          "By strictly avoiding all foreign travel",
-          "By protesting against television production"
-        ],
-        "answer": 0,
-        "explanation": "Fans participate in online communities, learn Hangul, cook Korean food, and travel to locations."
-      }
-    ]
-  },
-  {
-    "id": "culture-2",
-    "category": "culture",
-    "isLive": false,
-    "level": "B2",
-    "title": "Circular Fashion: Dismantling the Throwaway Culture of Fast Garments",
-    "subtitle": "How progressive designers and textile bio-engineers are replacing hyper-consumption with regenerative, recyclable fabrics.",
-    "speaker": "Chloe Laurent · Vogue Sustainable Quarterly",
-    "date": "August 2026",
-    "readTime": "3 min",
-    "wordCount": 200,
-    "paragraphs": [
-      {
-        "en": "  ",
-        "ko": "  ",
-        "sentences": [
-          {
-            "text": "The apparel industry has long operated under an unsustainable linear model: take raw petrochemicals, manufacture disposable trends, and dump incinerated waste.",
-            "translation": "의류 산업은 오랫동안 지속 불가능한 선형 모델 아래 운영되어 왔습니다: 석유화학 원료를 채취해 일회용 유행 옷을 만들고, 소각 폐기물로 버리는 구조였습니다.",
-            "en": "The apparel industry has long operated under an unsustainable linear model: take raw petrochemicals, manufacture disposable trends, and dump incinerated waste.",
-            "ko": "의류 산업은 오랫동안 지속 불가능한 선형 모델 아래 운영되어 왔습니다: 석유화학 원료를 채취해 일회용 유행 옷을 만들고, 소각 폐기물로 버리는 구조였습니다."
-          },
-          {
-            "text": "Fast fashion brands churn out fifty-two micro-seasons annually, conditioning consumers to treat clothing as ephemeral single-use commodities.",
-            "translation": "패스트 패션 브랜드들은 연간 52개의 마이크로 시즌을 쏟아내며 소비자들이 옷을 일회용 소모품처럼 여기도록 길들였습니다.",
-            "en": "Fast fashion brands churn out fifty-two micro-seasons annually, conditioning consumers to treat clothing as ephemeral single-use commodities.",
-            "ko": "패스트 패션 브랜드들은 연간 52개의 마이크로 시즌을 쏟아내며 소비자들이 옷을 일회용 소모품처럼 여기도록 길들였습니다."
-          },
-          {
-            "text": "In response, circular fashion advocates design garments from mycelium leather, citrus peel yarns, and chemically recyclable mono-material synthetics.",
-            "translation": "이에 맞서 순환 패션 옹호자들은 버섯 균사체 가죽, 감귤 껍질 실, 그리고 화학적으로 100% 재활용 가능한 단일 소재 합성 섬유로 옷을 디자인합니다.",
-            "en": "In response, circular fashion advocates design garments from mycelium leather, citrus peel yarns, and chemically recyclable mono-material synthetics.",
-            "ko": "이에 맞서 순환 패션 옹호자들은 버섯 균사체 가죽, 감귤 껍질 실, 그리고 화학적으로 100% 재활용 가능한 단일 소재 합성 섬유로 옷을 디자인합니다."
-          }
-        ]
-      },
-      {
-        "en": " ",
-        "ko": " ",
-        "sentences": [
-          {
-            "text": "Pioneering brands provide lifetime repair guarantees, garment rental subscriptions, and digital passports tracing every fiber back to its organic farm.",
-            "translation": "선구적인 브랜드들은 평생 수선 보증, 의류 대여 구독제, 그리고 모든 섬유를 유기농 농장까지 역추적할 수 있는 디지털 여권 시스템을 제공합니다.",
-            "en": "Pioneering brands provide lifetime repair guarantees, garment rental subscriptions, and digital passports tracing every fiber back to its organic farm.",
-            "ko": "선구적인 브랜드들은 평생 수선 보증, 의류 대여 구독제, 그리고 모든 섬유를 유기농 농장까지 역추적할 수 있는 디지털 여권 시스템을 제공합니다."
-          },
-          {
-            "text": "True elegance in the twenty-first century is no longer defined by conspicuous novelty, but by enduring craftsmanship that honors ecological harmony.",
-            "translation": "21세기의 진정한 우아함은 더 이상 눈에 띄는 새로움으로 정의되지 않으며, 생태학적 조화를 존중하는 지속적인 장인정신에 의해 완성됩니다.",
-            "en": "True elegance in the twenty-first century is no longer defined by conspicuous novelty, but by enduring craftsmanship that honors ecological harmony.",
-            "ko": "21세기의 진정한 우아함은 더 이상 눈에 띄는 새로움으로 정의되지 않으며, 생태학적 조화를 존중하는 지속적인 장인정신에 의해 완성됩니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "Fast fashion's linear lifecycle produces immense landfill waste and carbon emissions. (패스트 패션의 선형적 생산 주기는 막대한 매립 폐기물과 탄소 배출을 낳습니다.)",
-      "Circular design relies on bio-based materials (mycelium, citrus waste) and closed-loop textile recycling. (순환 디자인은 균사체 및 감귤 폐기물 등 바이오 소재와 완결형 재활용 기술을 활용합니다.)",
-      "Digital product passports empower consumers to trace ethical provenance and repair garments easily. (디지털 제품 여권은 소비자가 윤리적 원산지를 추적하고 쉽게 수선받을 수 있도록 돕습니다.)"
-    ],
-    "quiz": [
-      {
-        "question": "What unsustainable model characterizes the traditional fast fashion industry?",
-        "options": [
-          "Repairing garments over three generations",
-          "The linear model of take, make, and dispose",
-          "Using exclusively hand-woven organic wool",
-          "Refusing to sell clothes in retail stores"
-        ],
-        "answer": 0,
-        "explanation": "Fast fashion operates under an unsustainable linear model: take raw materials, manufacture, and dump waste."
-      },
-      {
-        "question": "Which innovative materials are circular designers utilizing to replace polluting synthetics?",
-        "options": [
-          "Single-use plastic wrap",
-          "Mycelium leather and citrus peel yarns",
-          "Crushed concrete dust",
-          "Heavy metallic lead sheets"
-        ],
-        "answer": 0,
-        "explanation": "The text highlights 'mycelium leather, citrus peel yarns, and chemically recyclable mono-materials.'"
-      }
-    ]
-  },
-  {
-    "id": "culture-3",
-    "category": "culture",
-    "isLive": false,
-    "level": "B2",
-    "title": "AI in Modern Art Galleries: Co-Creator, Tool, or Provocateur?",
-    "subtitle": "Curators and contemporary painters debate authenticity, intentionality, and authorship in the age of algorithmic synthesis.",
-    "speaker": "Julian Sterling · Contemporary Aesthetics",
-    "date": "July 2026",
-    "readTime": "3 min",
-    "wordCount": 200,
-    "paragraphs": [
-      {
-        "en": "  ",
-        "ko": "  ",
-        "sentences": [
-          {
-            "text": "When the camera first emerged in the nineteenth century, traditional painters feared the total demise of fine art.",
-            "translation": "19세기에 카메라가 처음 등장했을 때, 전통 화가들은 순수 미술이 완전히 종말을 맞이할 것이라며 두려워했습니다.",
-            "en": "When the camera first emerged in the nineteenth century, traditional painters feared the total demise of fine art.",
-            "ko": "19세기에 카메라가 처음 등장했을 때, 전통 화가들은 순수 미술이 완전히 종말을 맞이할 것이라며 두려워했습니다."
-          },
-          {
-            "text": "Instead of replacing painters, photography liberated them from mere realistic reproduction, sparking the impressionist and abstract revolutions.",
-            "translation": "그러나 사진은 화가들을 대체하기는커녕 단순한 사실적 재현의 굴레에서 해방시켜 인상주의와 추상화 혁명을 촉발했습니다.",
-            "en": "Instead of replacing painters, photography liberated them from mere realistic reproduction, sparking the impressionist and abstract revolutions.",
-            "ko": "그러나 사진은 화가들을 대체하기는커녕 단순한 사실적 재현의 굴레에서 해방시켜 인상주의와 추상화 혁명을 촉발했습니다."
-          },
-          {
-            "text": "Today, generative diffusion algorithms and computational neural models are inducing a similar seismic reckoning in modern galleries.",
-            "translation": "오늘날 생성형 디퓨전 알고리즘과 신경망 모델은 현대 미술관에서 이와 유사한 격변의 성찰을 불러일으키고 있습니다.",
-            "en": "Today, generative diffusion algorithms and computational neural models are inducing a similar seismic reckoning in modern galleries.",
-            "ko": "오늘날 생성형 디퓨전 알고리즘과 신경망 모델은 현대 미술관에서 이와 유사한 격변의 성찰을 불러일으키고 있습니다."
-          }
-        ]
-      },
-      {
-        "en": " ",
-        "ko": " ",
-        "sentences": [
-          {
-            "text": "Visionary artists utilize machine learning as a creative conversational foil, feeding historical archives into models to expose latent cultural biases.",
-            "translation": "선구적인 예술가들은 머신러닝을 창작의 대화 상대(foil)로 활용하여, 역사적 아카이브를 모델에 주입함으로써 내재된 문화적 편향을 폭로합니다.",
-            "en": "Visionary artists utilize machine learning as a creative conversational foil, feeding historical archives into models to expose latent cultural biases.",
-            "ko": "선구적인 예술가들은 머신러닝을 창작의 대화 상대(foil)로 활용하여, 역사적 아카이브를 모델에 주입함으로써 내재된 문화적 편향을 폭로합니다."
-          },
-          {
-            "text": "Art has never resided solely in physical craftsmanship; it thrives in the daring human audacity to frame meaning within an evolving cosmos.",
-            "translation": "예술은 결코 손재주 하나에만 머문 적이 없습니다. 끊임없이 진화하는 우주 속에서 의미를 규정해 내는 인간의 대담한 용기 속에서 예술은 번성합니다.",
-            "en": "Art has never resided solely in physical craftsmanship; it thrives in the daring human audacity to frame meaning within an evolving cosmos.",
-            "ko": "예술은 결코 손재주 하나에만 머문 적이 없습니다. 끊임없이 진화하는 우주 속에서 의미를 규정해 내는 인간의 대담한 용기 속에서 예술은 번성합니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "Historical technology shocks (like the invention of photography) expanded artistic freedom rather than extinguishing it. (사진의 발명처럼 새로운 기술적 충격은 예술을 소멸시킨 것이 아니라 자유를 확장했습니다.)",
-      "AI serves modern artists as an interactive collaborator and reflective critique of cultural data. (인공지능은 현대 미술가들에게 상호작용적 협업자이자 문화 데이터에 대한 비판적 도구로 쓰입니다.)",
-      "Human intentionality, conceptual framing, and emotional context remain the irreplaceable core of fine art. (인간의 의도, 개념적 프레이밍, 감정적 맥락이야말로 순수 미술의 대체 불가능한 본질입니다.)"
-    ],
-    "quiz": [
-      {
-        "question": "How did the invention of the camera historically impact painters in the 19th century?",
-        "options": [
-          "It permanently abolished all oil painting",
-          "It liberated painters from realistic reproduction, catalyzing modern abstract art",
-          "It forced all artists to become photographers immediately",
-          "It caused all museums to close permanently"
-        ],
-        "answer": 0,
-        "explanation": "Photography liberated painters from realistic reproduction, sparking the impressionist and abstract revolutions."
-      },
-      {
-        "question": "According to the article, where does the true soul of art reside?",
-        "options": [
-          "In mechanical replication alone",
-          "In the human audacity to frame conceptual meaning and emotion",
-          "In the price tag at auction houses",
-          "In the physical thickness of the canvas"
-        ],
-        "answer": 0,
-        "explanation": "Art thrives in the daring human audacity to frame meaning within an evolving cosmos."
-      }
-    ]
-  },
-  {
-    "id": "speech-1",
+    "id": "speech-lincoln",
     "category": "speeches",
-    "isLive": false,
     "level": "C1",
     "title": "Abraham Lincoln: The Gettysburg Address (1863)",
-    "subtitle": "Two hundred and seventy-two words that redefined the American Civil War and consecrated government of the people, by the people, for the people.",
-    "speaker": "President Abraham Lincoln · Delivered at Gettysburg, Pennsylvania",
+    "subtitle": "The complete, unabridged historic dedication at the Soldiers' National Cemetery in Pennsylvania.",
+    "speaker": "Abraham Lincoln (16th U.S. President)",
     "date": "November 19, 1863",
     "readTime": "3 min",
-    "wordCount": 200,
     "paragraphs": [
       {
-        "en": "  ",
-        "ko": "  ",
+        "en": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battlefield of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.",
+        "ko": "87년 전 우리의 선조들은 자유 속에서 잉태되고, 모든 인간은 평등하게 창조되었다는 명제에 봉헌된 새로운 나라를 이 대륙에 세웠습니다. 지금 우리는 거대한 내전을 치르며, 그렇게 잉태되고 봉헌된 나라가 과연 오래 지속될 수 있는지를 시험받고 있습니다. 우리는 그 전쟁의 거대한 격전지에 모였습니다. 우리는 이 나라가 살아남을 수 있도록 이곳에서 목숨을 바친 이들을 위한 마지막 안식처로서 이 전장의 일부를 봉헌하고자 왔습니다. 우리가 이렇게 하는 것은 지극히 마땅하고 합당한 일입니다.",
         "sentences": [
           {
-            "text": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.",
-            "translation": "87년 전 우리 선조들은 자유 속에 잉태되고, 만인은 모두 평등하게 창조되었다는 명제에 봉헌된 새로운 나라를 이 대륙에 세웠습니다.",
             "en": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.",
-            "ko": "87년 전 우리 선조들은 자유 속에 잉태되고, 만인은 모두 평등하게 창조되었다는 명제에 봉헌된 새로운 나라를 이 대륙에 세웠습니다."
+            "ko": "87년 전 우리의 선조들은 자유 속에서 잉태되고, 모든 인간은 평등하게 창조되었다는 명제에 봉헌된 새로운 나라를 이 대륙에 세웠습니다."
           },
           {
-            "text": "Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure.",
-            "translation": "지금 우리는 그 나라가, 혹은 그처럼 잉태되고 그처럼 헌신된 어떠한 나라도 과연 오래 버텨낼 수 있는지를 시험하는 거대한 내전을 치르고 있습니다.",
             "en": "Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure.",
-            "ko": "지금 우리는 그 나라가, 혹은 그처럼 잉태되고 그처럼 헌신된 어떠한 나라도 과연 오래 버텨낼 수 있는지를 시험하는 거대한 내전을 치르고 있습니다."
+            "ko": "지금 우리는 거대한 내전을 치르며, 그렇게 잉태되고 봉헌된 나라가 과연 오래 지속될 수 있는지를 시험받고 있습니다."
           },
           {
-            "text": "The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract.",
-            "translation": "이곳에서 피 흘려 싸운 용사들은 살았건 죽었건 이미 이 땅을 신성하게 만들었기에, 우리의 미약한 힘으로는 무언가를 더하거나 뺄 수 없습니다.",
-            "en": "The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract.",
-            "ko": "이곳에서 피 흘려 싸운 용사들은 살았건 죽었건 이미 이 땅을 신성하게 만들었기에, 우리의 미약한 힘으로는 무언가를 더하거나 뺄 수 없습니다."
+            "en": "We are met on a great battlefield of that war.",
+            "ko": "우리는 그 전쟁의 거대한 격전지에 모였습니다."
+          },
+          {
+            "en": "We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live.",
+            "ko": "우리는 이 나라가 살아남을 수 있도록 이곳에서 목숨을 바친 이들을 위한 마지막 안식처로서 이 전장의 일부를 봉헌하고자 왔습니다."
+          },
+          {
+            "en": "It is altogether fitting and proper that we should do this.",
+            "ko": "우리가 이렇게 하는 것은 지극히 마땅하고 합당한 일입니다."
           }
         ]
       },
       {
-        "en": " ",
-        "ko": " ",
+        "en": "But, in a larger sense, we cannot dedicate—we cannot consecrate—we cannot hallow—this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.",
+        "ko": "그러나 더 넓은 의미에서, 우리는 이 땅을 결코 봉헌할 수도, 축성할 수도, 신성하게 만들 수도 없습니다. 이곳에서 싸웠던 살아있는 자들과 전사한 용사들이, 우리의 미약한 힘으로는 더하거나 뺄 수 없을 정도로 이미 이곳을 신성하게 만들었기 때문입니다. 세상은 우리가 이곳에서 하는 말을 거의 주목하지도, 오래 기억하지도 않겠지만, 용사들이 이곳에서 행한 일은 결코 잊지 못할 것입니다. 오히려 이곳에서 싸운 이들이 지금까지 그토록 고결하게 진척시켜 온 미완의 과업에 봉헌되어야 할 자들은 바로 우리 살아있는 자들입니다.",
         "sentences": [
           {
-            "text": "It is rather for us to be here dedicated to the great task remaining before us—that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion.",
-            "translation": "오히려 우리 앞에 남겨진 위대한 과업에 헌신해야 할 자는 바로 우리들입니다. 이 명예로운 전몰용사들이 목숨의 마지막 한 방울까지 바쳐 충성했던 그 대의를 위해 더 큰 헌신을 다해야 합니다.",
-            "en": "It is rather for us to be here dedicated to the great task remaining before us—that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion.",
-            "ko": "오히려 우리 앞에 남겨진 위대한 과업에 헌신해야 할 자는 바로 우리들입니다. 이 명예로운 전몰용사들이 목숨의 마지막 한 방울까지 바쳐 충성했던 그 대의를 위해 더 큰 헌신을 다해야 합니다."
+            "en": "But, in a larger sense, we cannot dedicate—we cannot consecrate—we cannot hallow—this ground.",
+            "ko": "그러나 더 넓은 의미에서, 우리는 이 땅을 결코 봉헌할 수도, 축성할 수도, 신성하게 만들 수도 없습니다."
           },
           {
-            "text": "That we here highly resolve that these dead shall not have died in vain—that this nation, under God, shall have a new birth of freedom—and that government of the people, by the people, for the people, shall not perish from the earth.",
-            "translation": "우리는 이 용사들의 죽음이 헛되지 않도록 굳게 결의하며, 이 나라가 신의 가호 아래 자유의 새로운 탄생을 맞이할 것이며, 국민의, 국민에 의한, 국민을 위한 정부가 이 지구상에서 결코 사라지지 않을 것임을 엄숙히 다짐합니다.",
-            "en": "That we here highly resolve that these dead shall not have died in vain—that this nation, under God, shall have a new birth of freedom—and that government of the people, by the people, for the people, shall not perish from the earth.",
-            "ko": "우리는 이 용사들의 죽음이 헛되지 않도록 굳게 결의하며, 이 나라가 신의 가호 아래 자유의 새로운 탄생을 맞이할 것이며, 국민의, 국민에 의한, 국민을 위한 정부가 이 지구상에서 결코 사라지지 않을 것임을 엄숙히 다짐합니다."
+            "en": "The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract.",
+            "ko": "이곳에서 싸웠던 살아있는 자들과 전사한 용사들이, 우리의 미약한 힘으로는 더하거나 뺄 수 없을 정도로 이미 이곳을 신성하게 만들었기 때문입니다."
+          },
+          {
+            "en": "The world will little note, nor long remember what we say here, but it can never forget what they did here.",
+            "ko": "세상은 우리가 이곳에서 하는 말을 거의 주목하지도, 오래 기억하지도 않겠지만, 용사들이 이곳에서 행한 일은 결코 잊지 못할 것입니다."
+          },
+          {
+            "en": "It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.",
+            "ko": "오히려 이곳에서 싸운 이들이 지금까지 그토록 고결하게 진척시켜 온 미완의 과업에 봉헌되어야 할 자들은 바로 우리 살아있는 자들입니다."
+          }
+        ]
+      },
+      {
+        "en": "It is rather for us to be here dedicated to the great task remaining before us—that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion—that we here highly resolve that these dead shall not have died in vain—that this nation, under God, shall have a new birth of freedom—and that government of the people, by the people, for the people, shall not perish from the earth.",
+        "ko": "우리 앞에 남겨진 위대한 과업에 헌신해야 할 자들은 바로 우리들입니다. 우리는 명예롭게 죽어간 이들로부터 그들이 마지막 모든 헌신을 다 바쳤던 대의를 향한 더 큰 헌신을 이어받아야 합니다. 우리는 이들의 희생이 결코 헛되지 않도록 굳게 다짐해야 합니다. 하느님의 가호 아래 이 나라는 새로운 자유의 탄생을 맞이할 것이며, 국민의, 국민에 의한, 국민을 위한 정부는 지구상에서 결코 사라지지 않을 것입니다.",
+        "sentences": [
+          {
+            "en": "It is rather for us to be here dedicated to the great task remaining before us—that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion.",
+            "ko": "우리 앞에 남겨진 위대한 과업에 헌신해야 할 자들은 바로 우리들입니다. 우리는 명예롭게 죽어간 이들로부터 그들이 마지막 모든 헌신을 다 바쳤던 대의를 향한 더 큰 헌신을 이어받아야 합니다."
+          },
+          {
+            "en": "We here highly resolve that these dead shall not have died in vain.",
+            "ko": "우리는 이 영령들의 죽음이 결코 헛되지 않도록 이곳에서 굳게 결의합니다."
+          },
+          {
+            "en": "That this nation, under God, shall have a new birth of freedom—and that government of the people, by the people, for the people, shall not perish from the earth.",
+            "ko": "하느님의 가호 아래 이 나라는 새로운 자유의 탄생을 맞이할 것이며, 국민의, 국민에 의한, 국민을 위한 정부는 이 땅에서 영원히 사라지지 않을 것입니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "Lincoln grounded American democracy in the moral premise that 'all men are created equal'. (링컨은 만인의 평등이라는 도덕적 전제 위에 미국 민주주의의 정초를 놓았습니다.)",
-      "The sacrifice of Civil War soldiers transformed battlefield carnage into a sacred rebirth of freedom. (남북전쟁 참전 용사들의 숭고한 희생은 전쟁의 비극을 '자유의 새로운 탄생'으로 승화시켰습니다.)",
-      "The closing formulation ('of the people, by the people, for the people') remains history's most celebrated definition of democracy. ('국민의, 국민에 의한, 국민을 위한 정부'라는 결어는 민주주의를 상징하는 역사상 가장 찬란한 명문입니다.)"
+      "인간 평등과 민주주의의 근본 가치를 천명한 역사상 가장 영향력 있는 272단어의 명연설입니다.",
+      "전사자들의 헌신을 헛되이 하지 않고 자유의 새로운 탄생을 이루어내야 한다는 살아있는 자들의 책무를 강조합니다.",
+      "'국민의, 국민에 의한, 국민을 위한 정부'라는 불후의 민주주의 정의를 정립했습니다."
     ],
     "quiz": [
       {
-        "question": "What mathematical duration is expressed by the phrase 'Four score and seven years'?",
+        "question": "What does Lincoln emphasize that the living must resolve?",
         "options": [
-          "47 years",
-          "87 years (A score is 20)",
-          "107 years",
-          "200 years"
+          "That the honored dead shall not have died in vain",
+          "To construct a towering marble monument",
+          "To immediately abandon democratic governance"
         ],
         "answer": 0,
-        "explanation": "A 'score' represents 20 years. (4 × 20) + 7 = 87 years, referring back to 1776 from 1863."
+        "explanation": "Lincoln explicitly calls for the resolve that these dead shall not have died in vain, but inspire a new birth of freedom."
       },
       {
-        "question": "What famous tripartite phrase concludes the Gettysburg Address?",
+        "question": "What does the phrase 'four score and seven years' mathematically equal?",
         "options": [
-          "Life, liberty, and the pursuit of happiness",
-          "Government of the people, by the people, for the people",
-          "Peace, bread, and land",
-          "Liberty, equality, and fraternity"
+          "87 years",
+          "47 years",
+          "127 years"
         ],
         "answer": 0,
-        "explanation": "Lincoln immortalized: 'government of the people, by the people, for the people, shall not perish from the earth.'"
+        "explanation": "A 'score' is 20 years. 4 * 20 + 7 = 87 years, referring back to 1776 from 1863."
       }
-    ]
+    ],
+    "wordCount": 261
   },
   {
-    "id": "speech-2",
+    "id": "speech-jfk",
     "category": "speeches",
-    "isLive": false,
     "level": "C1",
     "title": "John F. Kennedy: Inaugural Address (1961)",
-    "subtitle": "The torch has been passed to a new generation: 'Ask not what your country can do for you—ask what you can do for your country.'",
-    "speaker": "President John F. Kennedy · U.S. Capitol, Washington D.C.",
+    "subtitle": "The torch has been passed to a new generation of Americans. Full extensive 6-paragraph address.",
+    "speaker": "John F. Kennedy (35th U.S. President)",
     "date": "January 20, 1961",
-    "readTime": "4 min",
-    "wordCount": 200,
+    "readTime": "5 min",
     "paragraphs": [
       {
-        "en": "  ",
-        "ko": "  ",
+        "en": "We observe today not a victory of party, but a celebration of freedom—symbolizing an end, as well as a beginning—signifying renewal, as well as change. For I have sworn before you and Almighty God the same solemn oath our forbears prescribed nearly a century and three-quarters ago. The world is very different now. For man holds in his mortal hands the power to abolish all forms of human poverty and all forms of human life. And yet the same revolutionary beliefs for which our forebears fought are still at issue around the globe—the belief that the rights of man come not from the generosity of the state, but from the hand of God.",
+        "ko": "우리는 오늘 정당의 승리가 아닌, 종말이자 시작을 상징하며 변화뿐만 아니라 쇄신을 의미하는 자유의 축제를 기념하고 있습니다. 저는 175년 전 우리 선조들이 규정한 것과 똑같은 엄숙한 선서를 여러분과 전능하신 하느님 앞에서 맹세했기 때문입니다. 지금의 세상은 그때와 매우 다릅니다. 인간은 필멸의 손에 모든 형태의 인간 빈곤과 모든 형태의 인간 생명을 절멸시킬 수 있는 힘을 쥐고 있습니다. 그럼에도 선조들이 싸워 지키려 했던 혁명적 신념, 곧 인간의 권리는 국가의 관대함에서 나오는 것이 아니라 하느님의 손에서 비롯된다는 믿음은 여전히 전 세계적인 쟁점으로 남아 있습니다.",
         "sentences": [
           {
-            "text": "We observe today not a victory of party, but a celebration of freedom—symbolizing an end, as well as a beginning—signifying renewal, as well as change.",
-            "translation": "우리는 오늘 한 정당의 승리가 아니라 자유의 축전을 목도하고 있습니다. 이는 끝이자 시작을 상징하며, 변화이자 새로운 갱신을 뜻합니다.",
             "en": "We observe today not a victory of party, but a celebration of freedom—symbolizing an end, as well as a beginning—signifying renewal, as well as change.",
-            "ko": "우리는 오늘 한 정당의 승리가 아니라 자유의 축전을 목도하고 있습니다. 이는 끝이자 시작을 상징하며, 변화이자 새로운 갱신을 뜻합니다."
+            "ko": "우리는 오늘 정당의 승리가 아닌, 종말이자 시작을 상징하며 변화뿐만 아니라 쇄신을 의미하는 자유의 축제를 기념하고 있습니다."
           },
           {
-            "text": "Let the word go forth from this time and place, to friend and foe alike, that the torch has been passed to a new generation of Americans.",
-            "translation": "지금 이 자리에서 친구와 적 모두에게 알립시다. 횃불은 미국의 새로운 세대에게 건네졌다는 사실을 말입니다.",
-            "en": "Let the word go forth from this time and place, to friend and foe alike, that the torch has been passed to a new generation of Americans.",
-            "ko": "지금 이 자리에서 친구와 적 모두에게 알립시다. 횃불은 미국의 새로운 세대에게 건네졌다는 사실을 말입니다."
+            "en": "For I have sworn before you and Almighty God the same solemn oath our forbears prescribed nearly a century and three-quarters ago.",
+            "ko": "저는 175년 전 우리 선조들이 규정한 것과 똑같은 엄숙한 선서를 여러분과 전능하신 하느님 앞에서 맹세했기 때문입니다."
           },
           {
-            "text": "Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty.",
-            "translation": "우리의 안녕을 바라든 불행을 바라든 모든 국가는 똑똑히 알아야 합니다. 우리는 자유의 존속과 승리를 보장하기 위해서라면 어떤 대가도 치를 것이며, 어떤 짐도 질 것이며, 어떤 고난도 맞설 것이고, 어떤 친구도 지지하며, 어떤 적에도 대항할 것입니다.",
-            "en": "Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty.",
-            "ko": "우리의 안녕을 바라든 불행을 바라든 모든 국가는 똑똑히 알아야 합니다. 우리는 자유의 존속과 승리를 보장하기 위해서라면 어떤 대가도 치를 것이며, 어떤 짐도 질 것이며, 어떤 고난도 맞설 것이고, 어떤 친구도 지지하며, 어떤 적에도 대항할 것입니다."
+            "en": "The world is very different now.",
+            "ko": "지금의 세상은 그때와 매우 다릅니다."
+          },
+          {
+            "en": "For man holds in his mortal hands the power to abolish all forms of human poverty and all forms of human life.",
+            "ko": "인간은 필멸의 손에 모든 형태의 인간 빈곤과 모든 형태의 인간 생명을 절멸시킬 수 있는 힘을 쥐고 있습니다."
+          },
+          {
+            "en": "And yet the same revolutionary beliefs for which our forebears fought are still at issue around the globe—the belief that the rights of man come not from the generosity of the state, but from the hand of God.",
+            "ko": "그럼에도 선조들이 싸워 지키려 했던 혁명적 신념, 곧 인간의 권리는 국가의 관대함에서 나오는 것이 아니라 하느님의 손에서 비롯된다는 믿음은 여전히 전 세계적인 쟁점으로 남아 있습니다."
           }
         ]
       },
       {
-        "en": " ",
-        "ko": " ",
+        "en": "We dare not forget today that we are the heirs of that first revolution. Let the word go forth from this time and place, to friend and foe alike, that the torch has been passed to a new generation of Americans—born in this century, tempered by war, disciplined by a hard and bitter peace, proud of our ancient heritage, and unwilling to witness or permit the slow undoing of those human rights to which this nation has always been committed, and to which we are committed today at home and around the world.",
+        "ko": "우리가 그 첫 혁명의 후계자라는 사실을 오늘 결코 잊어서는 안 됩니다. 횃불이 새로운 세대의 미국인들에게 넘겨졌다는 말이 지금 이 시간, 이 자리로부터 친구와 적 모두에게 전해지게 합시다. 우리는 이 세기에 태어나, 전쟁으로 단련되고, 혹독하고 쓰라린 평화 속에서 훈련받았으며, 우리의 유구한 유산에 자부심을 느끼고, 이 나라가 항상 헌신해 왔으며 오늘날 국내외에서 헌신하고 있는 인권의 점진적 붕괴를 결코 지켜보거나 용인하지 않을 세대입니다.",
         "sentences": [
           {
-            "text": "And so, my fellow Americans: ask not what your country can do for you—ask what you can do for your country.",
-            "translation": "그러므로 나의 동포 여러분, 국가가 여러분을 위해 무엇을 해줄 수 있는지를 묻지 마시고, 여러분이 국가를 위해 무엇을 할 수 있는지를 물으십시오.",
-            "en": "And so, my fellow Americans: ask not what your country can do for you—ask what you can do for your country.",
-            "ko": "그러므로 나의 동포 여러분, 국가가 여러분을 위해 무엇을 해줄 수 있는지를 묻지 마시고, 여러분이 국가를 위해 무엇을 할 수 있는지를 물으십시오."
+            "en": "We dare not forget today that we are the heirs of that first revolution.",
+            "ko": "우리가 그 첫 혁명의 후계자라는 사실을 오늘 결코 잊어서는 안 됩니다."
           },
           {
-            "text": "My fellow citizens of the world: ask not what America will do for you, but what together we can do for the freedom of man.",
-            "translation": "그리고 전 세계 시민 여러분, 미국이 여러분을 위해 무엇을 해줄 것인가를 묻지 마시고, 인류의 자유를 위해 우리가 다 함께 무엇을 이룰 수 있는지를 물으십시오.",
+            "en": "Let the word go forth from this time and place, to friend and foe alike, that the torch has been passed to a new generation of Americans.",
+            "ko": "횃불이 새로운 세대의 미국인들에게 넘겨졌다는 말이 지금 이 시간, 이 자리로부터 친구와 적 모두에게 전해지게 합시다."
+          },
+          {
+            "en": "Born in this century, tempered by war, disciplined by a hard and bitter peace, proud of our ancient heritage.",
+            "ko": "우리는 이 세기에 태어나, 전쟁으로 단련되고, 쓰라린 평화 속에 훈련받았으며, 고귀한 유산에 긍지를 지닌 세대입니다."
+          },
+          {
+            "en": "Unwilling to witness or permit the slow undoing of those human rights to which this nation has always been committed, and to which we are committed today at home and around the world.",
+            "ko": "우리는 이 나라가 국내와 전 세계에서 늘 헌신해 온 인권의 서서히 진행되는 파괴를 지켜보거나 결코 허용하지 않을 것입니다."
+          }
+        ]
+      },
+      {
+        "en": "Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty. This much we pledge—and more. To those old allies whose cultural and spiritual origins we share, we pledge the loyalty of faithful friends. United there is little we cannot do in a host of cooperative ventures. Divided there is little we can do—for we dare not meet a powerful challenge at odds and split asunder.",
+        "ko": "우리의 번영을 바라든 재앙을 바라든 모든 국가로 하여금 알게 하십시오. 자유의 존속과 승리를 보장하기 위해서라면 우리는 어떤 대가도 치르고, 어떤 짐도 짊어지며, 어떤 고난도 맞서고, 어떤 친구도 지원하며, 어떤 적에게도 대항할 것입니다. 이것이 우리의 약속이며, 그 이상입니다. 문화적, 영적 기원을 공유하는 오랜 우방들에게 우리는 충실한 친구로서의 의리를 약속합니다. 단결하면 우리는 협력적 과업에서 해내지 못할 일이 거의 없지만, 분열되면 아무것도 할 수 없습니다. 대립하고 갈라진 상태로는 강력한 도전에 맞설 수 없기 때문입니다.",
+        "sentences": [
+          {
+            "en": "Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty.",
+            "ko": "자유의 존속과 승리를 보장하기 위해서라면 우리는 어떤 대가도 치르고, 어떤 짐도 짊어지며, 어떤 고난도 맞서고, 어떤 친구도 지원하며, 어떤 적에게도 대항할 것임을 모든 나라가 알게 하십시오."
+          },
+          {
+            "en": "This much we pledge—and more.",
+            "ko": "우리는 이 모든 것을, 나아가 그 이상을 약속합니다."
+          },
+          {
+            "en": "To those old allies whose cultural and spiritual origins we share, we pledge the loyalty of faithful friends.",
+            "ko": "문화적, 정신적 뿌리를 함께하는 오랜 동맹국들에게 우리는 신의 있는 친구로서의 충성을 다짐합니다."
+          },
+          {
+            "en": "United there is little we cannot do in a host of cooperative ventures. Divided there is little we can do.",
+            "ko": "뭉치면 협력적 과업에서 해내지 못할 일이 없지만, 흩어지면 우리는 아무것도 이룰 수 없습니다."
+          }
+        ]
+      },
+      {
+        "en": "So let us begin anew—remembering on both sides that civility is not a sign of weakness, and sincerity is always subject to proof. Let us never negotiate out of fear. But let us never fear to negotiate. Let both sides explore what problems unite us instead of belaboring those problems which divide us. Let both sides, for the first time, formulate serious and precise proposals for the inspection and control of arms—and bring the absolute power to destroy other nations under the absolute control of all nations.",
+        "ko": "그러므로 우리는 다시 시작합시다. 정중함이 나약함의 징표가 아니며, 진실성은 언제나 입증되어야 함을 양측 모두 기억하면서 말입니다. 결코 두려움 때문에 협상하지 맙시다. 그러나 결코 협상하는 것을 두려워하지도 맙시다. 양측을 갈라놓는 문제들에 매달려 다투는 대신, 우리를 하나로 묶어주는 문제들이 무엇인지 함께 탐색합시다. 양측 모두 사상 처음으로 군비 사찰과 통제를 위한 진지하고 정밀한 제안을 마련하고, 타국을 파멸시킬 수 있는 절대적 무력을 모든 국가의 절대적 통제 아래 둡시다.",
+        "sentences": [
+          {
+            "en": "So let us begin anew—remembering on both sides that civility is not a sign of weakness, and sincerity is always subject to proof.",
+            "ko": "그러므로 다시 시작합시다. 정중함이 결코 나약함의 표시가 아니며, 진실성은 언제나 증명되어야 한다는 것을 기억하면서 말입니다."
+          },
+          {
+            "en": "Let us never negotiate out of fear. But let us never fear to negotiate.",
+            "ko": "결코 두려움 때문에 협상하지 맙시다. 그러나 결코 협상하는 것을 두려워하지도 맙시다."
+          },
+          {
+            "en": "Let both sides explore what problems unite us instead of belaboring those problems which divide us.",
+            "ko": "우리를 갈라놓는 문제들에 매달리지 말고, 우리를 하나로 묶어주는 공통의 과제를 양측이 함께 탐색합시다."
+          },
+          {
+            "en": "Let both sides, for the first time, formulate serious and precise proposals for the inspection and control of arms.",
+            "ko": "양측 모두 사상 처음으로 무기 사찰과 통제를 위한 진지하고 정밀한 제안을 마련합시다."
+          }
+        ]
+      },
+      {
+        "en": "Now the trumpet summons us again—not as a call to bear arms, though arms we need—not as a call to battle, though embattled we are—but a call to bear the burden of a long twilight struggle, year in and year out, 'rejoicing in hope, patient in tribulation'—a struggle against the common enemies of man: tyranny, poverty, disease and war itself. Can we forge against these enemies a grand and global alliance, North and South, East and West, that can assure a more fruitful life for all mankind? Will you join in that historic effort?",
+        "ko": "이제 나팔 소리가 우리를 다시 부르고 있습니다. 무기가 필요하긴 하지만 무기를 들라는 부름도 아니며, 전쟁 중에 있긴 하지만 전투로의 부름도 아닙니다. 그것은 해마다 '희망 속에 기뻐하고 환난 중에 인내하며', 인류 공통의 적인 독재, 빈곤, 질병, 그리고 전쟁 그 자체에 맞서 길고 긴 황혼의 투쟁의 짐을 짊어지라는 부름입니다. 인류 모두에게 더욱 풍요로운 삶을 보장할 수 있도록 남과 북, 동과 서를 아우르는 웅대하고 세계적인 동맹을 결성할 수 있겠습니까? 여러분은 이 역사적인 노력에 동참하시겠습니까?",
+        "sentences": [
+          {
+            "en": "Now the trumpet summons us again—not as a call to bear arms, though arms we need—not as a call to battle, though embattled we are.",
+            "ko": "이제 나팔 소리가 우리를 다시 부르고 있습니다. 비록 무기가 필요하지만 무기를 들라는 부름도 아니요, 비록 전운이 감돌지만 전투로의 부름도 아닙니다."
+          },
+          {
+            "en": "A call to bear the burden of a long twilight struggle, year in and year out, against the common enemies of man: tyranny, poverty, disease and war itself.",
+            "ko": "그것은 인류 공동의 적인 독재, 빈곤, 질병, 그리고 전쟁 자체에 맞서 해마다 기나긴 황혼의 투쟁의 짐을 짊어지라는 부름입니다."
+          },
+          {
+            "en": "Can we forge against these enemies a grand and global alliance, North and South, East and West, that can assure a more fruitful life for all mankind?",
+            "ko": "인류 모두에게 보다 풍요로운 삶을 보장할 수 있는 거대한 글로벌 동맹을 동서남북을 넘어 함께 구축할 수 있겠습니까?"
+          }
+        ]
+      },
+      {
+        "en": "And so, my fellow Americans: ask not what your country can do for you—ask what you can do for your country. My fellow citizens of the world: ask not what America will do for you, but what together we can do for the freedom of man. Finally, whether you are citizens of America or citizens of the world, ask of us here the same high standards of strength and sacrifice which we ask of you. With a good conscience our only sure reward, with history the final judge of our deeds, let us go forth to lead the land we love, asking His blessing and His help, but knowing that here on earth God's work must truly be our own.",
+        "ko": "그러므로 나의 동포 여러분, 조국이 여러분을 위해 무엇을 해줄 수 있는가를 묻지 말고, 여러분이 조국을 위해 무엇을 할 수 있는가를 물으십시오. 전 세계 시민 여러분, 미국이 여러분을 위해 무엇을 할 것인가를 묻지 말고, 인류의 자유를 위해 우리가 함께 무엇을 할 수 있는가를 물으십시오. 마지막으로, 여러분이 미국 시민이든 세계 시민이든, 우리가 여러분에게 요구하는 것과 똑같은 높은 수준의 힘과 희생을 우리에게 요구하십시오. 선한 양심을 우리의 유일한 확실한 보상으로 삼고, 역사를 우리 행동의 최종 심판관으로 삼아, 하느님의 축복과 도우심을 구하면서, 그러나 이 땅 위에서 하느님의 일이 참으로 우리 자신의 일이 되어야 함을 깨달으며, 우리가 사랑하는 조국을 이끌기 위해 앞으로 나아갑시다.",
+        "sentences": [
+          {
+            "en": "And so, my fellow Americans: ask not what your country can do for you—ask what you can do for your country.",
+            "ko": "그러므로 국민 여러분, 조국이 여러분을 위해 무엇을 할 수 있는지 묻지 말고, 여러분이 조국을 위해 무엇을 할 수 있는지 물으십시오."
+          },
+          {
             "en": "My fellow citizens of the world: ask not what America will do for you, but what together we can do for the freedom of man.",
-            "ko": "그리고 전 세계 시민 여러분, 미국이 여러분을 위해 무엇을 해줄 것인가를 묻지 마시고, 인류의 자유를 위해 우리가 다 함께 무엇을 이룰 수 있는지를 물으십시오."
+            "ko": "전 세계 시민 여러분, 미국이 여러분을 위해 무엇을 해줄 것인지 묻지 말고, 인류의 자유를 위해 우리가 함께 무엇을 할 수 있는지 물으십시오."
+          },
+          {
+            "en": "With a good conscience our only sure reward, with history the final judge of our deeds, let us go forth to lead the land we love.",
+            "ko": "선한 양심만을 유일한 보상으로, 역사를 우리 행동의 최종 심판으로 삼아 우리가 사랑하는 이 땅을 이끌기 위해 나아갑시다."
+          },
+          {
+            "en": "Asking His blessing and His help, but knowing that here on earth God's work must truly be our own.",
+            "ko": "하느님의 은총과 도우심을 구하되, 이 지상에서 하느님의 일은 진정 우리 자신의 손으로 이루어져야 함을 명심합시다."
           }
         ]
       }
     ],
     "takeaways": [
-      "Kennedy signaled a generational torch-passing to post-war leaders committed to global human rights. (케네디는 세계 인권과 자유를 수호하겠다는 전후 새로운 세대로의 횃불 인계를 선언했습니다.)",
-      "The speech balanced firm resolve against totalitarianism with an openness to diplomacy. (전체주의에 맞선 단호한 결의와 동시에 외교적 대화의 창구를 함께 열어두었습니다.)",
-      "The chiasmus 'Ask not what your country can do...' shifted civic duty from passive entitlement to active national service. ('국가가 무엇을 해줄지 묻지 말고...'라는 교차 대구법은 시민의 역할을 능동적 봉사로 전환시켰습니다.)"
+      "냉전 시대 인류의 평화와 자유 수호를 위한 '새로운 세대'의 사명감과 책임을 선포한 20세기 최고의 명연설입니다.",
+      "'두려움 때문에 협상하지 말고, 협상하는 것을 두려워하지도 말라'는 외교 철학을 제시했습니다.",
+      "'국가가 여러분을 위해 무엇을 할 수 있는지 묻지 말고, 여러분이 국가를 위해 무엇을 할 수 있는지 물으라'는 능동적 시민 의식을 역설했습니다."
     ],
     "quiz": [
       {
-        "question": "What iconic rhetorical device is used in 'Ask not what your country can do for you...'?",
+        "question": "What is JFK's famous advice regarding negotiation?",
         "options": [
-          "Hyperbole",
-          "Chiasmus (inverted parallelism)",
-          "Onomatopoeia",
-          "Limerick rhythm"
+          "Never negotiate out of fear, but never fear to negotiate",
+          "Avoid all negotiations with adversaries",
+          "Always surrender during times of high tension"
         ],
         "answer": 0,
-        "explanation": "Kennedy's famous line is a textbook example of chiasmus (A-B to B-A inverted parallel structure)."
+        "explanation": "Kennedy articulated: 'Let us never negotiate out of fear. But let us never fear to negotiate.'"
       },
       {
-        "question": "To whom did Kennedy declare that the 'torch has been passed'?",
+        "question": "What famous challenge does Kennedy present to fellow Americans?",
         "options": [
-          "To the monarchy of England",
-          "To a new generation of Americans",
-          "To foreign computer algorithms",
-          "To ancient Roman generals"
+          "Ask what you can do for your country, not what it can do for you",
+          "Ask for larger government pensions",
+          "Emigrate to other continents"
         ],
         "answer": 0,
-        "explanation": "He declared that 'the torch has been passed to a new generation of Americans.'"
+        "explanation": "'Ask not what your country can do for you—ask what you can do for your country' is the central civic message of the address."
       }
-    ]
+    ],
+    "wordCount": 600
   },
   {
-    "id": "speech-3",
+    "id": "speech-fdr",
     "category": "speeches",
-    "isLive": false,
     "level": "C1",
     "title": "Franklin D. Roosevelt: First Inaugural Address (1933)",
-    "subtitle": "Confronting the Great Depression: 'The only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror.'",
-    "speaker": "President Franklin D. Roosevelt · Washington D.C.",
+    "subtitle": "The only thing we have to fear is fear itself. Comprehensive 5-paragraph Great Depression address.",
+    "speaker": "Franklin D. Roosevelt (32nd U.S. President)",
     "date": "March 4, 1933",
     "readTime": "4 min",
-    "wordCount": 200,
     "paragraphs": [
       {
-        "en": "  ",
-        "ko": "  ",
+        "en": "I am certain that my fellow Americans expect that on my induction into the Presidency I will address them with a candor and a decision which the present situation of our Nation impels. This is preeminently the time to speak the truth, the whole truth, frankly and boldly. Nor need we shrink from honestly facing conditions in our country today. This great Nation will endure as it has endured, will revive and will prosper. So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance.",
+        "ko": "저는 동포 여러분께서 제가 대통령직에 취임하면서 우리나라의 현재 상황이 요구하는 솔직함과 결단력을 가지고 여러분께 말씀드릴 것을 기대하고 계신다고 확신합니다. 지금이야말로 진실을, 진실의 전부를 솔직하고 담대하게 말해야 할 결정적 순간입니다. 또한 우리는 오늘날 우리 조국의 현실을 정직하게 직시하는 것을 결코 두려워할 필요가 없습니다. 이 위대한 나라는 지금까지 견뎌왔듯 앞으로도 견뎌낼 것이며, 회복될 것이고, 번영할 것입니다. 그러므로 무엇보다도 먼저, 우리가 두려워해야 할 유일한 것은 두려움 그 자체라는 저의 확고한 신념을 천명하고자 합니다. 두려움이란 후퇴를 전진으로 바꾸기 위해 필요한 노력을 마비시키는, 이름도 없고 이유도 없으며 정당하지도 않은 공포일 뿐입니다.",
         "sentences": [
           {
-            "text": "This is preeminently the time to speak the truth, the whole truth, frankly and boldly. Nor need we shrink from honestly facing conditions in our country today.",
-            "translation": "지금이야말로 진실을, 온전한 진실을 솔직하고 대담하게 말해야 할 절대적인 순간입니다. 오늘날 우리 조국이 처한 상황을 정직하게 마주하는 데 위축될 필요는 전혀 없습니다.",
-            "en": "This is preeminently the time to speak the truth, the whole truth, frankly and boldly. Nor need we shrink from honestly facing conditions in our country today.",
-            "ko": "지금이야말로 진실을, 온전한 진실을 솔직하고 대담하게 말해야 할 절대적인 순간입니다. 오늘날 우리 조국이 처한 상황을 정직하게 마주하는 데 위축될 필요는 전혀 없습니다."
+            "en": "This is preeminently the time to speak the truth, the whole truth, frankly and boldly.",
+            "ko": "지금이야말로 진실을, 진실의 전부를 솔직하고 담대하게 이야기해야 할 때입니다."
           },
           {
-            "text": "So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance.",
-            "translation": "그러므로 가장 먼저, 우리가 유일하게 두려워해야 할 것은 오직 '두려움 그 자체'라는 저의 굳은 신념을 밝힙니다. 그것은 후퇴를 전진으로 바꾸기 위해 필요한 노력을 마비시키는, 이름도 없고 이유도 없으며 정당하지도 않은 공포입니다.",
-            "en": "So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance.",
-            "ko": "그러므로 가장 먼저, 우리가 유일하게 두려워해야 할 것은 오직 '두려움 그 자체'라는 저의 굳은 신념을 밝힙니다. 그것은 후퇴를 전진으로 바꾸기 위해 필요한 노력을 마비시키는, 이름도 없고 이유도 없으며 정당하지도 않은 공포입니다."
+            "en": "This great Nation will endure as it has endured, will revive and will prosper.",
+            "ko": "이 위대한 나라는 지금까지 견뎌왔듯 견뎌낼 것이며, 다시 부흥하고 번영할 것입니다."
           },
           {
-            "text": "Our greatest primary task is to put people to work. This is no unsolvable problem if we face it wisely and courageously.",
-            "translation": "우리의 가장 중대하고 우선적인 과업은 국민들에게 일자리를 찾아주는 것입니다. 우리가 지혜롭고 용기 있게 맞선다면 이는 결코 해결 불가능한 문제가 아닙니다.",
-            "en": "Our greatest primary task is to put people to work. This is no unsolvable problem if we face it wisely and courageously.",
-            "ko": "우리의 가장 중대하고 우선적인 과업은 국민들에게 일자리를 찾아주는 것입니다. 우리가 지혜롭고 용기 있게 맞선다면 이는 결코 해결 불가능한 문제가 아닙니다."
+            "en": "So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself.",
+            "ko": "그러므로 가장 먼저, 우리가 두려워해야 할 유일한 것은 두려움 그 자체라는 확고한 믿음을 밝힙니다."
+          },
+          {
+            "en": "Nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance.",
+            "ko": "두려움이란 후퇴를 전진으로 바꾸는 데 필요한 노력을 마비시키는 실체 없고 비이성적인 공포일 뿐입니다."
           }
         ]
       },
       {
-        "en": " ",
-        "ko": " ",
+        "en": "In every dark hour of our national life a leadership of frankness and vigor has met with that understanding and support of the people themselves which is essential to victory. I am convinced that you will again give that support to leadership in these critical days. In such a spirit on my part and on yours we face our common difficulties. They concern, thank God, only material things. Values have shrunken to fantastic levels; taxes have risen; our ability to pay has fallen; government of all kinds is faced by serious curtailment of income; the means of exchange are frozen in the currents of trade; the withered leaves of industrial enterprise lie on every side; farmers find no markets for their produce; the savings of many thousands of families are gone.",
+        "ko": "우리 민족사의 모든 어두운 시기마다 솔직하고 활력 있는 지도력은 승리에 필수적인 국민 자신의 이해와 지지를 받아왔습니다. 저는 여러분께서 이 중대한 시기에 지도부에 다시 한번 그러한 지지를 보내주실 것이라 확신합니다. 저와 여러분의 이러한 정신 속에서 우리는 공통의 난관에 직면해 있습니다. 다행스럽게도 우리의 고난은 물질적인 것들에 국한되어 있습니다. 자산 가치는 기이할 정도로 곤두박질쳤고, 세금은 올랐으며, 지불 능력은 떨어졌습니다. 모든 정부가 심각한 수입 감소에 직면해 있고, 교환 수단은 무역의 흐름 속에서 얼어붙었습니다. 산업 기업의 시든 잎사귀들이 사방에 널려 있고, 농민들은 농산물 판로를 찾지 못하며, 수만 가구의 평생 저축이 사라졌습니다.",
         "sentences": [
           {
-            "text": "It can be accomplished in part by direct recruiting by the Government itself, treating the task as we would treat the emergency of a war.",
-            "translation": "이는 정부 스스로가 직접 인력을 고용함으로써, 마치 국가적 전시 비상사태를 다루듯 이 문제를 해결해 나갈 때 부분적으로 달성될 수 있습니다.",
+            "en": "In every dark hour of our national life a leadership of frankness and vigor has met with that understanding and support of the people themselves.",
+            "ko": "우리 역사의 모든 암흑기마다 솔직함과 활력의 리더십은 국민의 이해와 전폭적인 지지를 얻어왔습니다."
+          },
+          {
+            "en": "Values have shrunken to fantastic levels; taxes have risen; our ability to pay has fallen.",
+            "ko": "가치는 상상할 수 없을 정도로 폭락했고, 세금은 치솟았으며, 지불 능력은 고갈되었습니다."
+          },
+          {
+            "en": "The withered leaves of industrial enterprise lie on every side; farmers find no markets for their produce.",
+            "ko": "산업 기업의 시든 잎사귀들이 사방에 나뒹굴고, 농부들은 농산물을 팔 시장을 찾지 못하고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "Yet our distress comes from no failure of substance. We are stricken by no plague of locusts. Compared with the perils which our forefathers conquered because they believed and were not afraid, we have still much to be thankful for. Nature still offers her bounty and human efforts have multiplied it. Plenty is at our doorstep, but a generous use of it languishes in the very sight of the supply. Primarily this is because the rulers of the exchange of mankind's goods have failed, through their own stubbornness and their own incompetence, have admitted their failure, and abdicated.",
+        "ko": "그러나 우리의 고통은 실질적인 물질의 결핍에서 비롯된 것이 아닙니다. 메뚜기 떼의 재앙을 맞은 것도 아닙니다. 믿음을 갖고 두려워하지 않았기에 선조들이 정복했던 그 험난한 위험들에 비하면, 우리는 여전히 감사해야 할 것이 많습니다. 대자연은 여전히 풍요를 베풀고 있으며 인간의 노력은 그것을 배가시켰습니다. 풍요가 우리 문앞에 와 있지만, 엄청난 공급을 눈앞에 두고도 그것을 아낌없이 활용하는 지혜가 메말라 있습니다. 이는 주로 인류의 재화를 교환하는 금융 지배자들이 자신들의 고집과 무능으로 인해 실패했고, 스스로 실패를 인정하고 물러났기 때문입니다.",
+        "sentences": [
+          {
+            "en": "Yet our distress comes from no failure of substance. We are stricken by no plague of locusts.",
+            "ko": "그러나 우리의 고난은 물질적 실체의 붕괴 때문이 아닙니다. 메뚜기 재앙을 만난 것도 아닙니다."
+          },
+          {
+            "en": "Nature still offers her bounty and human efforts have multiplied it.",
+            "ko": "대자연은 여전히 풍요를 제공하고 있으며 인간의 노력은 그것을 더욱 증대시켜 놓았습니다."
+          },
+          {
+            "en": "Primarily this is because the rulers of the exchange of mankind's goods have failed, through their own stubbornness and their own incompetence.",
+            "ko": "이는 근본적으로 금융을 주무르던 이들이 자신의 아집과 무능으로 실패했기 때문입니다."
+          }
+        ]
+      },
+      {
+        "en": "Happiness lies not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort. The joy and moral stimulation of work no longer must be forgotten in the mad chase of evanescent profits. These dark days will be worth all they cost us if they teach us that our true destiny is not to be ministered unto but to minister to ourselves and to our fellow men. Recognition of the falsity of material wealth as the standard of success goes hand in hand with the abandonment of the false belief that public office and high political position are to be valued only by the standards of pride of place and personal profit.",
+        "ko": "행복은 단순한 돈의 소유에 있지 않습니다. 그것은 성취의 기쁨과 창조적 노력의 전율 속에 존재합니다. 덧없는 이윤을 좇는 광기 속에서 노동이 주는 기쁨과 도덕적 자극을 더 이상 잊어서는 안 됩니다. 만약 이 어두운 시기가 우리에게 진정한 운명이 섬김을 받는 것이 아니라 우리 자신과 이웃을 섬기는 것임을 가르쳐 준다면, 이 시련은 우리가 치른 모든 대가를 보상하고도 남을 것입니다. 물질적 부를 성공의 척도로 삼는 것이 허위임을 깨닫는 것은, 공직과 높은 정치적 지위가 단지 특권의 자부심과 사리사욕의 기준으로만 평가받아서는 안 된다는 깨달음과 궤를 같이합니다.",
+        "sentences": [
+          {
+            "en": "Happiness lies not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.",
+            "ko": "행복은 단순한 돈의 소유에 있는 것이 아니라, 성취의 기쁨과 창조적 노력의 전율 속에 있습니다."
+          },
+          {
+            "en": "The joy and moral stimulation of work no longer must be forgotten in the mad chase of evanescent profits.",
+            "ko": "덧없는 이윤을 좇는 광기 속에서 노동이 주는 도덕적 보람과 기쁨을 더 이상 잊어서는 안 됩니다."
+          },
+          {
+            "en": "Recognition of the falsity of material wealth as the standard of success goes hand in hand with ethical renewal.",
+            "ko": "물질적 부를 성공의 잣대로 삼는 거짓됨을 직시하는 것은 윤리적 쇄신과 나란히 나아갑니다."
+          }
+        ]
+      },
+      {
+        "en": "Our greatest primary task is to put people to work. This is no unsolvable problem if we face it wisely and courageously. It can be accomplished in part by direct recruiting by the Government itself, treating the task as we would treat the emergency of a war, but at the same time, through this employment, accomplishing greatly needed projects to stimulate and reorganize the use of our natural resources. In this dedication of a Nation we humbly ask the blessing of God. May He protect each and every one of us. May He guide me in the days to come.",
+        "ko": "우리의 가장 중대하고 최우선적인 과업은 국민들에게 일자리를 주는 것입니다. 지혜롭고 용기 있게 맞선다면 이것은 결코 풀지 못할 문제가 아닙니다. 정부가 마치 전쟁의 비상사태를 다루듯 스스로 직접 인력을 채용하고, 동시에 이러한 고용을 통해 천연자원의 활용을 촉진하고 재편하는 데 시급히 필요한 프로젝트들을 완수함으로써 부분적으로 달성될 수 있습니다. 온 국민의 헌신 속에서 우리는 겸허히 하느님의 축복을 구합니다. 그분께서 우리 한 사람 한 사람을 지켜주시기를, 다가올 날들에 저를 인도해 주시기를 기원합니다.",
+        "sentences": [
+          {
+            "en": "Our greatest primary task is to put people to work.",
+            "ko": "우리의 가장 중대하고 최우선적인 과업은 사람들을 일터로 돌려보내는 것입니다."
+          },
+          {
+            "en": "This is no unsolvable problem if we face it wisely and courageously.",
+            "ko": "지혜롭고 용기 있게 맞선다면 이것은 결코 해결 불가능한 문제가 아닙니다."
+          },
+          {
             "en": "It can be accomplished in part by direct recruiting by the Government itself, treating the task as we would treat the emergency of a war.",
-            "ko": "이는 정부 스스로가 직접 인력을 고용함으로써, 마치 국가적 전시 비상사태를 다루듯 이 문제를 해결해 나갈 때 부분적으로 달성될 수 있습니다."
+            "ko": "정부가 마치 전시 비상사태를 다루듯 직접 채용에 나섬으로써 이를 힘차게 추진할 수 있습니다."
           },
           {
-            "text": "We do not distrust the future of essential democracy. The people of the United States have not failed.",
-            "translation": "우리는 민주주의의 근본적인 미래를 불신하지 않습니다. 미합중국의 위대한 국민들은 결코 좌절하지 않았습니다.",
-            "en": "We do not distrust the future of essential democracy. The people of the United States have not failed.",
-            "ko": "우리는 민주주의의 근본적인 미래를 불신하지 않습니다. 미합중국의 위대한 국민들은 결코 좌절하지 않았습니다."
+            "en": "In this dedication of a Nation we humbly ask the blessing of God.",
+            "ko": "온 국가의 헌신 속에서 우리는 겸허히 하느님의 축복을 간구합니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "FDR recognized psychological panic as the greatest obstacle paralyzing economic recovery during the Depression. (루스벨트는 심리적 공포와 패닉이 대공황 극복을 가로막는 최대의 장애물임을 꿰뚫어 보았습니다.)",
-      "The speech framed economic restoration as a nationwide mobilization akin to wartime defense. (경제 회복 과업을 국가적 전시 총동원령에 필적하는 긴급 사안으로 규정했습니다.)",
-      "Confidence in democratic resilience laid the ideological foundation for the landmark New Deal. (민주주의의 회복탄력성에 대한 확신은 역사적인 뉴딜(New Deal) 정책의 사상적 토대가 되었습니다.)"
+      "대공황이라는 미증유의 경제 위기 속에서 국민의 공포를 불식시키고 강력한 국가적 리더십을 천명한 역사적 취임사입니다.",
+      "'우리가 두려워해야 할 유일한 것은 두려움 그 자체'라는 명언을 통해 심리적 마비를 극복할 것을 호소했습니다.",
+      "단순한 금융 투기 중심의 탐욕을 비판하고, 일자리 창출과 공공 인프라 혁신(뉴딜 정책)의 비전을 제시했습니다."
     ],
     "quiz": [
       {
-        "question": "What did FDR identify as the single greatest threat facing the nation in 1933?",
+        "question": "According to FDR, what is the 'only thing we have to fear'?",
         "options": [
-          "Foreign naval fleets",
-          "Fear itself (nameless, unreasoning terror)",
-          "A total lack of farm machinery",
-          "The winter cold weather"
+          "Fear itself",
+          "Foreign armies",
+          "Technological disruption"
         ],
         "answer": 0,
-        "explanation": "Roosevelt asserted: 'the only thing we have to fear is fear itself.'"
+        "explanation": "Roosevelt famously asserted: 'The only thing we have to fear is fear itself.'"
       },
       {
-        "question": "What did FDR state was the nation's 'greatest primary task'?",
+        "question": "What did FDR state as the 'greatest primary task' of the administration?",
         "options": [
-          "To build gold reserves in banks",
           "To put people to work",
-          "To print more paper currency",
-          "To close all public schools"
+          "To lower income taxes immediately",
+          "To close all foreign trade"
         ],
         "answer": 0,
-        "explanation": "The text states: 'Our greatest primary task is to put people to work.'"
+        "explanation": "Roosevelt stated that putting people to work was the administration's primary task, foreshadowing the New Deal."
       }
-    ]
+    ],
+    "wordCount": 556
   },
   {
-    "id": "speech-4",
+    "id": "speech-obama",
     "category": "speeches",
-    "isLive": false,
-    "level": "B2",
-    "title": "Barack Obama: 2008 Presidential Victory Speech",
-    "subtitle": "Grant Park, Chicago: 'If there is anyone out there who still doubts that America is a place where all things are possible... tonight is your answer.'",
-    "speaker": "President-Elect Barack Obama · Grant Park, Chicago, Illinois",
+    "level": "C1",
+    "title": "Barack Obama: 2008 Election Night Victory Speech",
+    "subtitle": "Yes We Can. Comprehensive 6-paragraph Grant Park historic victory address.",
+    "speaker": "Barack Obama (44th U.S. President)",
     "date": "November 4, 2008",
-    "readTime": "4 min",
-    "wordCount": 200,
+    "readTime": "5 min",
     "paragraphs": [
       {
-        "en": "  ",
-        "ko": "  ",
+        "en": "If there is anyone out there who still doubts that America is a place where all things are possible, who still wonders if the dream of our founders is alive in our time, who still questions the power of our democracy, tonight is your answer. It's the answer told by lines that stretched around schools and churches in numbers this nation has never seen, by people who waited three hours and four hours, many for the very first time in their lives, because they believed that this time must be different, that their voice could be that difference.",
+        "ko": "미국이 모든 것이 가능한 곳인지 아직도 의심하는 사람이 있다면, 우리 건국 선조들의 꿈이 우리 시대에도 살아있는지 여전히 궁금해하는 사람이 있다면, 우리의 민주주의의 힘에 여전히 의문을 품는 사람이 있다면, 오늘 밤이 바로 여러분을 위한 해답입니다. 이 대답은 이 나라가 일찍이 본 적 없는 수많은 인파로 학교와 교회를 에워싼 줄을 통해, 3시간, 4시간씩 생애 처음으로 투표를 기다렸던 사람들에 의해 전해졌습니다. 이번만큼은 달라야만 한다고, 자신들의 목소리가 바로 그 변화를 만들 수 있다고 믿었기 때문입니다.",
         "sentences": [
           {
-            "text": "If there is anyone out there who still doubts that America is a place where all things are possible, who still wonders if the dream of our founders is alive in our time, who still questions the power of our democracy, tonight is your answer.",
-            "translation": "미국이 모든 것이 가능한 곳인지 여전히 의심하는 분이 있다면, 건국의 선조들이 품었던 꿈이 오늘날에도 살아 숨쉬는지 궁금해하는 분이 있다면, 민주주의의 힘에 의문을 던지는 분이 있다면, 오늘 밤이 바로 여러분의 해답입니다.",
-            "en": "If there is anyone out there who still doubts that America is a place where all things are possible, who still wonders if the dream of our founders is alive in our time, who still questions the power of our democracy, tonight is your answer.",
-            "ko": "미국이 모든 것이 가능한 곳인지 여전히 의심하는 분이 있다면, 건국의 선조들이 품었던 꿈이 오늘날에도 살아 숨쉬는지 궁금해하는 분이 있다면, 민주주의의 힘에 의문을 던지는 분이 있다면, 오늘 밤이 바로 여러분의 해답입니다."
+            "en": "If there is anyone out there who still doubts that America is a place where all things are possible, tonight is your answer.",
+            "ko": "미국이 모든 것이 가능한 곳인지 여전히 의심하는 이가 있다면, 오늘 밤이 바로 그 대답입니다."
           },
           {
-            "text": "It's the answer told by lines that stretched around schools and churches in numbers this nation has never seen.",
-            "translation": "이 나라가 일찍이 본 적 없는 수많은 인파로 학교와 교회를 둘러싸고 길게 늘어섰던 투표 행렬이 바로 그 대답입니다.",
+            "en": "Who still wonders if the dream of our founders is alive in our time, who still questions the power of our democracy, tonight is your answer.",
+            "ko": "건국 선조들의 꿈이 지금도 살아 숨 쉬는지, 민주주의의 힘이 유효한지 의심하는 이들에게 오늘 밤이 해답입니다."
+          },
+          {
             "en": "It's the answer told by lines that stretched around schools and churches in numbers this nation has never seen.",
-            "ko": "이 나라가 일찍이 본 적 없는 수많은 인파로 학교와 교회를 둘러싸고 길게 늘어섰던 투표 행렬이 바로 그 대답입니다."
-          },
-          {
-            "text": "The road ahead will be long. Our climb will be steep. We may not get there in one year or even one term, but America—I have never been more hopeful than I am tonight that we will get there.",
-            "translation": "우리 앞의 여정은 멀고 험난할 것입니다. 우리의 등반은 가파를 것입니다. 어쩌면 1년 안에, 혹은 한 임기 안에도 도달하지 못할지 모르지만, 미국이여, 우리가 마침내 그곳에 도달할 것이라는 오늘 밤의 저의 희망은 그 어느 때보다 가득 차 있습니다.",
-            "en": "The road ahead will be long. Our climb will be steep. We may not get there in one year or even one term, but America—I have never been more hopeful than I am tonight that we will get there.",
-            "ko": "우리 앞의 여정은 멀고 험난할 것입니다. 우리의 등반은 가파를 것입니다. 어쩌면 1년 안에, 혹은 한 임기 안에도 도달하지 못할지 모르지만, 미국이여, 우리가 마침내 그곳에 도달할 것이라는 오늘 밤의 저의 희망은 그 어느 때보다 가득 차 있습니다."
+            "ko": "이 나라가 일찍이 본 적 없는 엄청난 인파로 투표소를 에워싼 행렬이 바로 그 대답이었습니다."
           }
         ]
       },
       {
-        "en": " ",
-        "ko": " ",
+        "en": "It's the answer spoken by young and old, rich and poor, Democrat and Republican, black, white, Hispanic, Asian, Native American, gay, straight, disabled and not disabled. Americans who sent a message to the world that we have never been just a collection of individuals or a collection of red states and blue states. We are, and always will be, the United States of America. It's the answer that led those who've been told for so long by so many to be cynical and fearful and doubtful about what we can achieve to put their hands on the arc of history and bend it once more toward the hope of a better day.",
+        "ko": "그것은 젊은이와 노인, 부자와 빈자, 민주당원과 공화당원, 흑인, 백인, 히스패닉, 아시아계, 아메리카 원주민, 성소수자와 이성애자, 장애인과 비장애인 모두가 한목소리로 외친 대답입니다. 우리는 결코 단순한 개인들의 집합이나 붉은 주(공화당)와 푸른 주(민주당)의 모임이 아니라는 메시지를 전 세계에 보낸 미국인들입니다. 우리는 언제나 '미합중국'이었으며, 앞으로도 영원히 미합중국일 것입니다. 우리가 무엇을 이룰 수 있는지에 대해 너무나 오랫동안 냉소와 두려움, 회의를 강요당했던 이들로 하여금, 역사의 궤적에 손을 얹고 그것을 다시 한번 더 나은 날의 희망을 향해 구부리도록 이끈 대답이 바로 이것입니다.",
         "sentences": [
           {
-            "text": "This victory alone is not the change we seek—it is only the chance for us to make that change.",
-            "translation": "오늘의 승리 그 자체는 우리가 추구하는 변화가 아닙니다. 그것은 단지 우리가 그 변화를 만들어낼 수 있는 기회일 뿐입니다.",
-            "en": "This victory alone is not the change we seek—it is only the chance for us to make that change.",
-            "ko": "오늘의 승리 그 자체는 우리가 추구하는 변화가 아닙니다. 그것은 단지 우리가 그 변화를 만들어낼 수 있는 기회일 뿐입니다."
+            "en": "We have never been just a collection of individuals or a collection of red states and blue states.",
+            "ko": "우리는 결코 단순한 개인들의 집합이나 붉은 주와 푸른 주의 모임에 불과했던 적이 없습니다."
           },
           {
-            "text": "Yes, we can. Yes, we did. Yes, we will.",
-            "translation": "그렇습니다, 우리는 할 수 있습니다. 우리는 해냈습니다. 우리는 앞으로도 해낼 것입니다.",
-            "en": "Yes, we can. Yes, we did. Yes, we will.",
-            "ko": "그렇습니다, 우리는 할 수 있습니다. 우리는 해냈습니다. 우리는 앞으로도 해낼 것입니다."
+            "en": "We are, and always will be, the United States of America.",
+            "ko": "우리는 언제나 미합중국이었으며, 앞으로도 영원히 그러할 것입니다."
+          },
+          {
+            "en": "It's the answer that led those to put their hands on the arc of history and bend it once more toward the hope of a better day.",
+            "ko": "이것은 수많은 이들로 하여금 역사의 궤적에 손을 얹고 더 나은 희망의 날을 향해 구부리도록 만든 대답입니다."
+          }
+        ]
+      },
+      {
+        "en": "It's been a long time coming, but tonight, because of what we did on this day, in this election, at this defining moment, change has come to America. A little bit earlier this evening, I received an extraordinarily gracious call from Senator McCain. He fought long and hard in this campaign, and he's fought even longer and harder for the country he loves. He has endured sacrifices for America that most of us cannot begin to imagine, and we are better off for the service rendered by this brave and selfless leader.",
+        "ko": "오랜 시간이 걸렸지만, 오늘 밤, 오늘 우리가 한 일로 인해, 이번 선거에서, 이 결정적인 순간에 마침내 미국에 변화가 찾아왔습니다. 오늘 저녁 조금 전, 저는 매케인 상원의원으로부터 대단히 정중한 축하 전화를 받았습니다. 그는 이번 선거운동에서 오랫동안 치열하게 싸웠으며, 자신이 사랑하는 조국을 위해 훨씬 더 오랫동안 헌신적으로 싸워온 분입니다. 그는 우리 대부분이 상상조차 할 수 없는 희생을 미국을 위해 견뎌냈으며, 이 용감하고 사심 없는 지도자의 헌신 덕분에 우리나라는 더 나은 나라가 되었습니다.",
+        "sentences": [
+          {
+            "en": "It's been a long time coming, but tonight, change has come to America.",
+            "ko": "오랜 세월이 걸렸지만 오늘 밤, 마침내 미국에 변화가 찾아왔습니다."
+          },
+          {
+            "en": "A little bit earlier this evening, I received an extraordinarily gracious call from Senator McCain.",
+            "ko": "오늘 저녁 일찍 저는 매케인 상원의원으로부터 대단히 품격 있는 축하 전화를 받았습니다."
+          },
+          {
+            "en": "He has endured sacrifices for America that most of us cannot begin to imagine.",
+            "ko": "그는 우리 대부분이 상상조차 하기 힘든 조국을 위한 희생을 묵묵히 감내해 왔습니다."
+          }
+        ]
+      },
+      {
+        "en": "The road ahead will be long. Our climb will be steep. We may not get there in one year or even one term, but America—I have never been more hopeful than I am tonight that we will get there. I promise you: we as a people will get there. There will be setbacks and false starts. There are many who won't agree with every decision or policy I make as President, and we know that government can't solve every problem. But I will always be honest with you about the challenges we face. I will listen to you, especially when we disagree.",
+        "ko": "우리 앞에 놓인 길은 멀 것입니다. 우리가 올라야 할 비탈은 가파를 것입니다. 1년 안에, 아니 한 번의 임기 안에도 다 도달하지 못할지 모릅니다. 하지만 미국 국민 여러분, 우리가 반드시 그곳에 도달할 것이라는 희망을 저는 오늘 밤처럼 크게 품어본 적이 없습니다. 저는 여러분께 약속합니다. 우리 국민은 반드시 그곳에 도달할 것입니다. 좌절도 있을 것이고 시행착오도 있을 것입니다. 제가 대통령으로서 내리는 모든 결정이나 정책에 동의하지 않는 분들도 많을 것이며, 정부가 모든 문제를 해결할 수 없다는 것도 잘 알고 있습니다. 그러나 저는 우리가 직면한 도전에 대해 언제나 솔직하게 말씀드릴 것입니다. 특히 우리가 서로 의견이 다를 때 여러분의 목소리에 더 귀를 기울이겠습니다.",
+        "sentences": [
+          {
+            "en": "The road ahead will be long. Our climb will be steep.",
+            "ko": "앞으로 나아갈 길은 멀고, 우리가 올라야 할 고개는 험준할 것입니다."
+          },
+          {
+            "en": "We may not get there in one year or even one term, but America—we as a people will get there.",
+            "ko": "1년 만에, 혹은 한 번의 임기만으로는 다다르지 못할지라도, 우리 국민은 반드시 도달할 것입니다."
+          },
+          {
+            "en": "I will always be honest with you about the challenges we face. I will listen to you, especially when we disagree.",
+            "ko": "직면한 도전에 대해 늘 진실할 것이며, 특히 서로 의견이 다를 때 더욱 경청하겠습니다."
+          }
+        ]
+      },
+      {
+        "en": "This victory alone is not the change we seek—it is only the chance for us to make that change. And that cannot happen if we go back to the way things were. It cannot happen without you, without a new spirit of service, a new spirit of sacrifice. So let us summon a new spirit of patriotism; of service and responsibility where each of us resolves to pitch in and work harder and look after not only ourselves, but each other. Let us remember that if this financial crisis taught us anything, it's that we cannot have a thriving Wall Street while Main Street suffers.",
+        "ko": "이 선거 승리 자체만으로는 우리가 추구하는 진정한 변화가 아닙니다. 승리는 단지 우리가 그 변화를 만들 수 있는 '기회'를 얻은 것뿐입니다. 우리가 과거의 방식으로 되돌아간다면 변화는 결코 일어날 수 없습니다. 여러분 없이, 새로운 봉사의 정신과 새로운 희생의 결단 없이는 결코 이루어질 수 없습니다. 그러므로 우리 모두가 힘을 보태고 더 열심히 일하며, 나 자신뿐만 아니라 서로를 돌보겠다고 다짐하는 애국심과 책임감의 새로운 정신을 불러일으킵시다. 이번 금융 위기가 우리에게 가르쳐 준 교훈이 있다면, 평범한 서민의 삶이 고통받는 한 월가의 번영도 결코 오래 지속될 수 없다는 사실입니다.",
+        "sentences": [
+          {
+            "en": "This victory alone is not the change we seek—it is only the chance for us to make that change.",
+            "ko": "오늘의 승리 자체가 변화는 아닙니다. 진정한 변화를 만들어갈 기회를 얻은 것뿐입니다."
+          },
+          {
+            "en": "So let us summon a new spirit of patriotism; of service and responsibility.",
+            "ko": "그러므로 봉사와 책임, 애국심의 새로운 정신을 다 함께 일깨웁시다."
+          },
+          {
+            "en": "Let us remember that we cannot have a thriving Wall Street while Main Street suffers.",
+            "ko": "서민들의 경제가 고통받는 한 결코 월가 혼자 번영할 수 없음을 기억합시다."
+          }
+        ]
+      },
+      {
+        "en": "This is our time—to put our people back to work and open doors of opportunity for our kids; to restore prosperity and promote the cause of peace; to reclaim the American Dream and reaffirm that fundamental truth that out of many, we are one; that while we breathe, we hope, and where we are met with cynicism and doubt, and those who tell us that we can't, we will respond with that timeless creed that sums up the spirit of a people: Yes We Can.",
+        "ko": "지금이 바로 우리의 때입니다. 국민들을 다시 일터로 돌려보내고 우리 아이들에게 기회의 문을 활짝 열어줄 때입니다. 번영을 회복하고 평화의 대의를 증진시킬 때입니다. 아메리칸 드림을 되찾고, 여럿으로 이루어졌으나 우리는 하나라는 그 근본적인 진리를 다시 확인할 때입니다. 숨 쉬는 한 우리는 희망할 수 있으며, 냉소와 의심, 그리고 '우리는 할 수 없다'고 말하는 이들과 마주할 때마다 우리는 국민의 정신을 한마디로 요약하는 영원한 신념으로 응답할 것입니다. 그렇습니다, 우리는 할 수 있습니다(Yes We Can).",
+        "sentences": [
+          {
+            "en": "This is our time—to put our people back to work and open doors of opportunity for our kids.",
+            "ko": "지금이야말로 국민들을 일터로 돌려보내고 아이들에게 기회의 문을 열어줄 때입니다."
+          },
+          {
+            "en": "To reclaim the American Dream and reaffirm that fundamental truth that out of many, we are one.",
+            "ko": "아메리칸 드림을 되찾고, '여럿이 모여 하나를 이룬다'는 근본적 진리를 재확인할 때입니다."
+          },
+          {
+            "en": "Where we are met with cynicism and doubt, and those who tell us that we can't, we will respond with that timeless creed: Yes We Can.",
+            "ko": "냉소와 의심, 할 수 없다고 말하는 이들을 마주할 때마다 우리는 영원한 신조로 답할 것입니다. 그렇습니다, 우리는 할 수 있습니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "The speech celebrated civic participation and voter mobilization as the true triumph of American democracy. (선거 승리는 특정 개인이 아닌 수많은 시민들의 참여와 민주주의의 승리임을 천명했습니다.)",
-      "Obama combined soaring optimism with sobering realism regarding economic and global crises. (가슴 벅찬 희망과 함께 국가적 위기에 대한 엄정한 현실 인식을 균형 있게 전달했습니다.)",
-      "The enduring campaign refrain 'Yes, We Can' affirmed collective agency and communal responsibility. ('Yes, We Can'이라는 슬로건은 국민 공동체의 집단적 주체성과 책임감을 확인시켰습니다.)"
+      "미국 역사상 최초의 아프리카계 미국인 대통령 당선 순간의 감동과 화합을 노래한 역사적 연설입니다.",
+      "단순한 정파적 분열을 넘어 '하나의 미국(United States of America)'으로서의 정체성을 역설했습니다.",
+      "'Yes We Can'이라는 불후의 슬로건을 통해 냉소를 극복하고 미래를 향해 전진하자는 희망의 메시지를 던졌습니다."
     ],
     "quiz": [
       {
-        "question": "What location served as the historic backdrop for Obama's 2008 victory speech?",
+        "question": "What is the famous three-word creed reiterated at the climax of Obama's victory address?",
         "options": [
-          "Times Square, New York",
-          "Grant Park, Chicago",
-          "Hollywood Boulevard, Los Angeles",
-          "Fenway Park, Boston"
+          "Yes We Can",
+          "Peace in Our Time",
+          "Liberty and Prosperity"
         ],
         "answer": 0,
-        "explanation": "Obama addressed over 240,000 supporters in Grant Park, Chicago, Illinois."
+        "explanation": "Obama's iconic slogan and closing rallying cry was 'Yes We Can'."
       },
       {
-        "question": "How did Obama characterize the election victory itself?",
+        "question": "What did Obama say the election victory represented?",
         "options": [
-          "As the total completion of all policy goals",
-          "Not the change we seek, but only the chance to make that change",
-          "As the defeat of all foreign powers",
-          "As an excuse to stop working"
+          "The chance to make change, not change itself",
+          "The final conclusion of all American struggles",
+          "An exclusive triumph for one political party"
         ],
         "answer": 0,
-        "explanation": "He noted: 'This victory alone is not the change we seek—it is only the chance for us to make that change.'"
+        "explanation": "Obama reminded supporters: 'This victory alone is not the change we seek—it is only the chance for us to make that change.'"
       }
-    ]
+    ],
+    "wordCount": 594
   },
   {
-    "id": "speech-5",
+    "id": "speech-reagan",
     "category": "speeches",
-    "isLive": false,
-    "level": "B2",
+    "level": "C1",
     "title": "Ronald Reagan: Brandenburg Gate Address (1987)",
-    "subtitle": "Berlin, West Germany: 'General Secretary Gorbachev, if you seek peace, if you seek prosperity... Mr. Gorbachev, tear down this wall!'",
-    "speaker": "President Ronald Reagan · Brandenburg Gate, Berlin",
+    "subtitle": "Tear down this wall! Extensive 5-paragraph Berlin address challenging Soviet division.",
+    "speaker": "Ronald Reagan (40th U.S. President)",
     "date": "June 12, 1987",
-    "readTime": "3 min",
-    "wordCount": 200,
+    "readTime": "4 min",
     "paragraphs": [
       {
-        "en": "  ",
-        "ko": "  ",
+        "en": "Behind me stands a wall that encircles the free sectors of this city, part of a vast system of barriers that divides the entire continent of Europe. From the Baltic, south, those barriers cut across Germany in a gash of barbed wire, concrete, dog runs, and guard towers. Farther south, there may be no visible, no obvious wall. But there remain still armed guards and checkpoints all the same—still a restriction on the right to travel, still an instrument to impose upon ordinary men and women the will of a totalitarian state.",
+        "ko": "제 뒤에는 유럽 대륙 전체를 갈라놓고 있는 거대한 장벽 체계의 일부로서, 이 도시의 자유 구역을 포위하고 있는 장벽이 서 있습니다. 발트해에서 남쪽으로 뻗어 있는 그 장벽들은 철조망과 콘크리트, 경비견 통로와 감시탑의 깊은 상처로 독일을 동강 내고 있습니다. 더 남쪽에는 눈에 보이는 뚜렷한 장벽이 없을지도 모릅니다. 그러나 무장 경비병과 검문소는 여전히 동일하게 존재하며, 여행의 권리를 제한하고 보통의 남녀에게 전체주의 국가의 의지를 강요하는 도구로 여전히 작동하고 있습니다.",
         "sentences": [
           {
-            "text": "Behind me stands a wall that encircles the free sectors of this city, part of a vast system of barriers that divides the entire continent of Europe.",
-            "translation": "제 뒤에는 유럽 대륙 전체를 갈라놓은 거대한 장벽 체계의 일부로서, 이 도시의 자유 구역을 포위하고 있는 벽이 서 있습니다.",
             "en": "Behind me stands a wall that encircles the free sectors of this city, part of a vast system of barriers that divides the entire continent of Europe.",
-            "ko": "제 뒤에는 유럽 대륙 전체를 갈라놓은 거대한 장벽 체계의 일부로서, 이 도시의 자유 구역을 포위하고 있는 벽이 서 있습니다."
+            "ko": "제 뒤에는 유럽 대륙 전체를 분단하는 거대한 장벽의 일부이자 이 도시의 자유 구역을 에워싸고 있는 벽이 서 있습니다."
           },
           {
-            "text": "Standing before the Brandenburg Gate, every man is a German, separated from his fellow men. Every man is a Berliner, forced to look upon a scar.",
-            "translation": "이 브란덴부르크 문 앞에 서면 모든 인류는 동포와 격리된 독일인이요, 가슴 아픈 상처를 바라보아야만 하는 베를린 시민이 됩니다.",
-            "en": "Standing before the Brandenburg Gate, every man is a German, separated from his fellow men. Every man is a Berliner, forced to look upon a scar.",
-            "ko": "이 브란덴부르크 문 앞에 서면 모든 인류는 동포와 격리된 독일인이요, 가슴 아픈 상처를 바라보아야만 하는 베를린 시민이 됩니다."
+            "en": "Those barriers cut across Germany in a gash of barbed wire, concrete, dog runs, and guard towers.",
+            "ko": "그 장벽들은 철조망과 콘크리트, 경비견 통로와 감시탑의 흉터로 독일을 가로지르고 있습니다."
           },
           {
-            "text": "General Secretary Gorbachev, if you seek peace, if you seek prosperity for the Soviet Union and Eastern Europe, if you seek liberalization: Come here to this gate!",
-            "translation": "고르바초프 서기장, 만약 당신이 평화를 원한다면, 소련과 동유럽의 번영을 추구한다면, 자유화를 원한다면: 이 문 앞으로 오십시오!",
-            "en": "General Secretary Gorbachev, if you seek peace, if you seek prosperity for the Soviet Union and Eastern Europe, if you seek liberalization: Come here to this gate!",
-            "ko": "고르바초프 서기장, 만약 당신이 평화를 원한다면, 소련과 동유럽의 번영을 추구한다면, 자유화를 원한다면: 이 문 앞으로 오십시오!"
+            "en": "Still a restriction on the right to travel, still an instrument to impose upon ordinary men and women the will of a totalitarian state.",
+            "ko": "여전히 이동의 자유를 억압하고 평범한 시민들에게 전체주의 국가의 의지를 강요하는 도구로 남아 있습니다."
           }
         ]
       },
       {
-        "en": " ",
-        "ko": " ",
+        "en": "Yet it is here in Berlin where the wall emerges most clearly; here, cutting across your city, where the news photo and the television screen have imprinted this brutal division upon the mind of the world. Standing before the Brandenburg Gate, every man is a German, separated from his fellow men. Every man is a Berliner, forced to look upon a scar. President von Weizsäcker has said: 'The German question is open as long as the Brandenburg Gate is closed.' Today I say: As long as this gate is closed, as long as this scar of a wall is permitted to stand, it is not the German question alone that remains open, but the question of freedom for all mankind.",
+        "ko": "그러나 그 장벽이 가장 극명하게 드러나는 곳은 바로 이곳 베를린입니다. 신문 보도사진과 텔레비전 화면이 이 잔혹한 분단의 상처를 전 세계인의 뇌리에 각인시킨 곳, 도시를 관통해 가로막고 있는 바로 이곳입니다. 브란덴부르크 문 앞에 서면 모든 인간은 동포와 헤어진 독일인이 됩니다. 모든 인간은 깊은 흉터를 바라보아야만 하는 베를린 시민이 됩니다. 폰 바이츠제커 대통령은 '브란덴부르크 문이 닫혀 있는 한 독일 문제는 열려 있다'고 말했습니다. 오늘 저는 선언합니다. 이 문이 닫혀 있는 한, 이 장벽의 흉터가 남아있는 것을 허용하는 한, 열려 있는 것은 독일 문제뿐만이 아니라 인류 전체의 자유에 대한 질문입니다.",
         "sentences": [
           {
-            "text": "Mr. Gorbachev, open this gate! Mr. Gorbachev, tear down this wall!",
-            "translation": "고르바초프 씨, 이 문을 여십시오! 고르바초프 씨, 이 장벽을 허무십시오!",
+            "en": "Standing before the Brandenburg Gate, every man is a German, separated from his fellow men. Every man is a Berliner, forced to look upon a scar.",
+            "ko": "브란덴부르크 문 앞에 설 때 모든 사람은 동포와 격리된 독일인이요, 상처를 바라보아야만 하는 베를린 시민입니다."
+          },
+          {
+            "en": "President von Weizsäcker has said: 'The German question is open as long as the Brandenburg Gate is closed.'",
+            "ko": "바이츠제커 대통령은 '브란덴부르크 문이 닫혀 있는 한 독일 문제는 미완의 상태'라고 말했습니다."
+          },
+          {
+            "en": "As long as this scar of a wall is permitted to stand, it is not the German question alone that remains open, but the question of freedom for all mankind.",
+            "ko": "이 장벽의 흉터가 존속하는 한, 미결 상태로 남아있는 것은 독일 문제뿐만 아니라 전 인류의 자유 문제입니다."
+          }
+        ]
+      },
+      {
+        "en": "In the 1950s, Khrushchev predicted: 'We will bury you.' But in the West today, we see a free world that has achieved a level of prosperity and well-being unprecedented in all human history. In the Communist world, we see failure, technological backwardness, declining standards of health, even want of the most basic kind—too little food. Even today, the Soviet Union cannot feed itself. After these four decades, then, there stands before the entire world one great and inescapable conclusion: Freedom leads to prosperity. Freedom replaces the ancient hatreds among the nations with comity and peace. Freedom is the victor.",
+        "ko": "1950년대에 흐루쇼프는 '우리가 너희를 매장할 것이다'라고 호언장담했습니다. 그러나 오늘날 서구 사회에서 우리는 인류 역사상 유례없는 수준의 번영과 복지를 이룩한 자유 세계를 목격하고 있습니다. 공산주의 세계에서 우리는 실패, 기술적 후진성, 보건 수준의 저하, 심지어 가장 기본적인 식량조차 부족한 궁핍을 봅니다. 오늘날에도 소련은 자국민을 스스로 먹여 살리지 못하고 있습니다. 40년이 흐른 지금, 전 세계 앞에는 하나의 위대하고 명백한 결론이 서 있습니다. 자유는 번영으로 이끕니다. 자유는 국가 간의 오랜 증오를 화합과 평화로 대체합니다. 자유가 승리자입니다.",
+        "sentences": [
+          {
+            "en": "In the West today, we see a free world that has achieved a level of prosperity and well-being unprecedented in all human history.",
+            "ko": "오늘날 서구에서 우리는 인류 역사상 유례없는 번영과 복지를 달성한 자유 세계를 목격합니다."
+          },
+          {
+            "en": "After these four decades, there stands before the entire world one inescapable conclusion: Freedom leads to prosperity. Freedom is the victor.",
+            "ko": "40년의 세월이 지난 지금, 전 세계 앞에는 피할 수 없는 결론이 있습니다. 자유는 번영을 낳으며, 자유가 바로 승리자입니다."
+          }
+        ]
+      },
+      {
+        "en": "And now the Soviets themselves may, in a limited way, be coming to understand the importance of freedom. We hear much from Moscow about a new openness and a new perestroika. We are told that some political prisoners have been released. Certain foreign news broadcasts are no longer being jammed. Some economic enterprises have been permitted to operate with greater freedom from state control. Are these the beginnings of profound changes in the Soviet state? Or are they token gestures, intended to raise false hopes in the West, or to strengthen the Soviet system without changing it?",
+        "ko": "이제 소련 스스로도 제한적인 방식이나마 자유의 중요성을 깨달아가고 있는지도 모릅니다. 우리는 모스크바로부터 새로운 개방(글라스노스트)과 새로운 개혁(페레스트로이카)에 대해 많은 이야기를 듣고 있습니다. 일부 정치범들이 석방되었다는 소식도 들립니다. 특정 외국 뉴스 방송에 대한 전파 방해도 중단되었습니다. 일부 경제 기업들은 국가 통제로부터 더 큰 자율성을 부여받고 있습니다. 이것이 과연 소련 체제의 심오한 변화의 시작일까요? 아니면 서방에 헛된 희망을 심어주거나 체제를 실질적으로 바꾸지 않은 채 소련 체제를 강화하려는 형식적인 제스처에 불과한 것일까요?",
+        "sentences": [
+          {
+            "en": "We hear much from Moscow about a new openness and a new perestroika.",
+            "ko": "우리는 모스크바로부터 새로운 개방과 새로운 개혁에 대한 이야기를 많이 듣고 있습니다."
+          },
+          {
+            "en": "Are these the beginnings of profound changes in the Soviet state? Or are they token gestures, intended to raise false hopes in the West?",
+            "ko": "이것이 진정한 근본적 변화의 시작입니까, 아니면 서방에 헛된 기대를 품게 하려는 겉치레 몸짓에 불과합니까?"
+          }
+        ]
+      },
+      {
+        "en": "There is one sign the Soviets can make that would be unmistakable, that would advance dramatically the cause of freedom and peace. General Secretary Gorbachev, if you seek peace, if you seek prosperity for the Soviet Union and Eastern Europe, if you seek liberalization: Come here to this gate! Mr. Gorbachev, open this gate! Mr. Gorbachev, tear down this wall! I understand the fear of war and the pain of division that afflict this continent—and I pledge to you my country's efforts to help overcome these burdens.",
+        "ko": "소련이 자유와 평화의 대의를 비약적으로 발전시킬 수 있는, 결코 오해할 수 없는 확실한 징표가 하나 있습니다. 고르바초프 서기장, 당신이 진정 평화를 원한다면, 당신이 소련과 동유럽의 번영을 원한다면, 당신이 진정한 자유화를 추구한다면: 이곳 브란덴부르크 문으로 오십시오! 고르바초프 씨, 이 문을 여십시오! 고르바초프 씨, 이 장벽을 허무십시오! 저는 이 대륙을 괴롭히는 전쟁에 대한 공포와 분단의 고통을 깊이 이해하고 있으며, 이러한 짐을 극복할 수 있도록 돕기 위해 미국의 아낌없는 노력을 여러분께 약속합니다.",
+        "sentences": [
+          {
+            "en": "General Secretary Gorbachev, if you seek peace, if you seek prosperity for the Soviet Union and Eastern Europe, if you seek liberalization: Come here to this gate!",
+            "ko": "고르바초프 서기장, 당신이 평화를 원한다면, 소련과 동유럽의 번영을 원한다면, 자유화를 원한다면 이 문 앞으로 오십시오!"
+          },
+          {
             "en": "Mr. Gorbachev, open this gate! Mr. Gorbachev, tear down this wall!",
             "ko": "고르바초프 씨, 이 문을 여십시오! 고르바초프 씨, 이 장벽을 허무십시오!"
           },
           {
-            "text": "As I looked out a moment ago from the Reichstag, the embodiment of German unity, I noticed words crudely spray-painted upon the wall: 'This wall will fall. Beliefs become realities.'",
-            "translation": "방금 전 독일 통일의 상징인 제국의사당에서 내다보았을 때, 저는 장벽 위에 거칠게 스프레이로 쓰인 글귀를 보았습니다: '이 장벽은 무너질 것이다. 신념은 현실이 된다.'",
-            "en": "As I looked out a moment ago from the Reichstag, the embodiment of German unity, I noticed words crudely spray-painted upon the wall: 'This wall will fall. Beliefs become realities.'",
-            "ko": "방금 전 독일 통일의 상징인 제국의사당에서 내다보았을 때, 저는 장벽 위에 거칠게 스프레이로 쓰인 글귀를 보았습니다: '이 장벽은 무너질 것이다. 신념은 현실이 된다.'"
+            "en": "I understand the pain of division that afflicts this continent—and I pledge to you my country's efforts to help overcome these burdens.",
+            "ko": "이 대륙을 짓누르는 분단의 고통을 이해하며, 이를 극복하기 위한 미국의 확고한 노력을 약속합니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "Reagan challenged the moral legitimacy of Soviet totalitarian division in the heart of Europe. (레이건은 유럽 심장부를 가른 소련 전체주의 분단의 도덕적 정당성에 정면으로 도전했습니다.)",
-      "The direct imperative 'Tear down this wall!' became the defining rhetorical symbol of the Cold War's climax. ('이 장벽을 허무시오!'라는 직설적 명령문은 냉전 종식의 결정적 상징이 되었습니다.)",
-      "Just two years after the speech, the Berlin Wall fell in November 1989, leading to German reunification. (연설 2년 뒤인 1989년 11월 실제로 장벽이 무너지며 독일 통일로 이어졌습니다.)"
+      "냉전 종식과 독일 통일의 기폭제가 된 레이건 대통령의 가장 강력하고 상징적인 베를린 장벽 연설입니다.",
+      "자유주의 체제와 공산주의 체제의 번영 격차를 극명하게 비교하며 '자유가 승리자'임을 입증했습니다.",
+      "소련의 고르바초프 서기장을 직접 호명하며 '이 문을 열고 장벽을 허물라'고 촉구한 세기의 명장면입니다."
     ],
     "quiz": [
       {
-        "question": "At what landmark did President Ronald Reagan deliver his iconic 1987 speech?",
+        "question": "What historic imperative did President Reagan proclaim to General Secretary Gorbachev?",
         "options": [
-          "The Eiffel Tower in Paris",
-          "The Brandenburg Gate in Berlin",
-          "The Colosseum in Rome",
-          "The Kremlin in Moscow"
+          "Mr. Gorbachev, tear down this wall!",
+          "Mr. Gorbachev, build a stronger fortress",
+          "Mr. Gorbachev, sign a permanent trade agreement"
         ],
         "answer": 0,
-        "explanation": "Reagan spoke directly in front of the Brandenburg Gate in West Berlin."
+        "explanation": "'Mr. Gorbachev, tear down this wall!' is the most famous line of the address."
       },
       {
-        "question": "What explicit challenge did Reagan issue to Soviet General Secretary Mikhail Gorbachev?",
+        "question": "Which two Soviet reform policies did Reagan reference during the speech?",
         "options": [
-          "To build more concrete watchtowers",
-          "To tear down this wall",
-          "To launch a space station together",
-          "To double military spending"
+          "Glasnost (openness) and Perestroika (restructuring)",
+          "Blitzkrieg and Détente",
+          "Manifest Destiny and Containment"
         ],
         "answer": 0,
-        "explanation": "He famously commanded: 'Mr. Gorbachev, tear down this wall!'"
+        "explanation": "Reagan directly referenced Moscow's talk of 'a new openness and a new perestroika'."
       }
-    ]
+    ],
+    "wordCount": 495
   },
   {
-    "id": "speech-6",
+    "id": "speech-mlk",
     "category": "speeches",
-    "isLive": false,
     "level": "C1",
-    "title": "George Washington: Farewell Address on National Unity (1796)",
-    "subtitle": "America's first president warns against factional hyper-partisanship and foreign entanglements to safeguard liberty.",
-    "speaker": "President George Washington · Philadelphia, Pennsylvania",
+    "title": "Martin Luther King Jr.: I Have a Dream (1963)",
+    "subtitle": "Comprehensive 6-paragraph landmark address at the Lincoln Memorial for civil rights and justice.",
+    "speaker": "Dr. Martin Luther King Jr.",
+    "date": "August 28, 1963",
+    "readTime": "5 min",
+    "paragraphs": [
+      {
+        "en": "I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation. Five score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation. This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice. It came as a joyous daybreak to end the long night of their captivity. But one hundred years later, the Negro still is not free.",
+        "ko": "저는 오늘 우리 민족 역사상 가장 위대한 자유를 위한 시위로 역사에 기록될 자리에 여러분과 함께하게 되어 기쁩니다. 100년 전, 오늘 우리가 그의 상징적인 그림자 아래 서 있는 한 위대한 미국인이 노예 해방 선언에 서명했습니다. 이 중대한 포고령은 참혹한 불의의 불길에 그슬려온 수백만 흑인 노예들에게 희망의 거대한 등대불로 다가왔습니다. 그것은 기나긴 포로의 밤을 끝내는 기쁨의 새벽빛이었습니다. 그러나 100년이 지난 오늘, 흑인은 여전히 자유롭지 못합니다.",
+        "sentences": [
+          {
+            "en": "Five score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation.",
+            "ko": "100년 전, 오늘 우리가 그의 상징적 그림자 아래 서 있는 한 위대한 미국인이 노예 해방 선언에 서명했습니다."
+          },
+          {
+            "en": "This momentous decree came as a great beacon light of hope to millions who had been seared in the flames of withering injustice.",
+            "ko": "이 중대한 선언은 혹독한 불의의 불길에 그을려온 수백만 노예들에게 희망의 등대불이 되었습니다."
+          },
+          {
+            "en": "But one hundred years later, the Negro still is not free.",
+            "ko": "그러나 100년이 지난 지금도, 흑인은 여전히 자유롭지 못합니다."
+          }
+        ]
+      },
+      {
+        "en": "One hundred years later, the life of the Negro is still sadly crippled by the manacles of segregation and the chains of discrimination. One hundred years later, the Negro lives on a lonely island of poverty in the midst of a vast ocean of material prosperity. One hundred years later, the Negro is still languished in the corners of American society and finds himself an exile in his own land. And so we've come here today to dramatize a shameful condition.",
+        "ko": "100년이 지난 지금도, 흑인의 삶은 여전히 격리라는 수갑과 차별이라는 족쇄에 묶여 슬프게도 불구가 되어 있습니다. 100년이 지난 지금도, 흑인은 물질적 번영의 광대한 대양 한가운데 고립된 빈곤의 외딴섬에 살고 있습니다. 100년이 지난 지금도, 흑인은 미국 사회의 후미진 구석에서 여전히 신음하고 있으며, 자기 조국에서 추방당한 망명자 신세임을 절감하고 있습니다. 그래서 우리는 오늘 이 수치스러운 현실을 고발하고 극적으로 드러내기 위해 이곳에 모였습니다.",
+        "sentences": [
+          {
+            "en": "One hundred years later, the life of the Negro is still sadly crippled by the manacles of segregation and the chains of discrimination.",
+            "ko": "100년이 흐른 지금도 흑인의 삶은 격리의 수갑과 차별의 사슬에 묶여 있습니다."
+          },
+          {
+            "en": "One hundred years later, the Negro lives on a lonely island of poverty in the midst of a vast ocean of material prosperity.",
+            "ko": "흑인은 거대한 물질적 풍요의 바다 한가운데서 외로운 빈곤의 섬에 갇혀 살아갑니다."
+          },
+          {
+            "en": "So we've come here today to dramatize a shameful condition.",
+            "ko": "그렇기에 우리는 오늘 이 부끄러운 현실을 세상에 알리고자 이곳에 모였습니다."
+          }
+        ]
+      },
+      {
+        "en": "In a sense we've come to our nation's capital to cash a check. When the architects of our republic wrote the magnificent words of the Constitution and the Declaration of Independence, they were signing a promissory note to which every American was to fall heir. This note was a promise that all men, yes, black men as well as white men, would be guaranteed the 'unalienable Rights' of 'Life, Liberty and the pursuit of Happiness.' It is obvious today that America has defaulted on this promissory note, insofar as her citizens of color are concerned.",
+        "ko": "어떤 의미에서 우리는 조국의 수도에 수표를 바꾸러 온 것입니다. 우리 공화국의 건국 설계자들이 헌법과 독립선언서의 웅장한 문구들을 작성했을 때, 그들은 모든 미국인이 상속받아야 할 약속어음에 서명하고 있었던 것입니다. 이 어음은 모든 인간, 그렇습니다, 백인뿐만 아니라 흑인에게도 '생명, 자유, 그리고 행복 추구'라는 '양도할 수 없는 권리'가 보장될 것이라는 약속이었습니다. 오늘날 미국이 유색인종 시민들에 관한 한 이 약속어음을 부도냈다는 사실은 너무나 자명합니다.",
+        "sentences": [
+          {
+            "en": "In a sense we've come to our nation's capital to cash a check.",
+            "ko": "어떤 의미에서 우리는 약속된 수표를 현금으로 바꾸기 위해 조국의 수도에 왔습니다."
+          },
+          {
+            "en": "This note was a promise that all men, black men as well as white men, would be guaranteed the unalienable Rights of Life, Liberty and the pursuit of Happiness.",
+            "ko": "이 어음은 흑인이든 백인이든 모든 인간에게 생명과 자유, 행복의 추구라는 불가양의 권리가 보장되리라는 약속이었습니다."
+          },
+          {
+            "en": "It is obvious today that America has defaulted on this promissory note.",
+            "ko": "오늘날 미국이 이 약속어음을 부도처리했다는 사실은 너무나 명백합니다."
+          }
+        ]
+      },
+      {
+        "en": "Now is the time to make real the promises of democracy. Now is the time to rise from the dark and desolate valley of segregation to the sunlit path of racial justice. Now is the time to lift our nation from the quicksands of racial injustice to the solid rock of brotherhood. Now is the time to make justice a reality for all of God's children. It would be fatal for the nation to overlook the urgency of the moment. This sweltering summer of the Negro's legitimate discontent will not pass until there is an invigorating autumn of freedom and equality.",
+        "ko": "지금이야말로 민주주의의 약속을 실현해야 할 때입니다. 지금이야말로 격리의 어둡고 황량한 골짜기에서 벗어나 인종적 정의라는 햇살 가득한 길로 올라서야 할 때입니다. 지금이야말로 인종차별의 불의라는 유사(quicksand)에서 우리 조국을 건져내어 형제애라는 단단한 반석 위에 올려놓아야 할 때입니다. 지금이야말로 하느님의 모든 자녀들을 위해 정의를 현실로 만들어야 할 때입니다. 이 순간의 긴박함을 조국이 간과한다면 치명적인 파멸을 맞을 것입니다. 흑인들의 정당한 불만이 끓어오르는 이 무더운 여름은, 자유와 평화의 상쾌한 가을이 도래할 때까지 결코 지나가지 않을 것입니다.",
+        "sentences": [
+          {
+            "en": "Now is the time to make real the promises of democracy.",
+            "ko": "지금이야말로 민주주의의 약속을 진정으로 실현해야 할 때입니다."
+          },
+          {
+            "en": "Now is the time to lift our nation from the quicksands of racial injustice to the solid rock of brotherhood.",
+            "ko": "인종적 불의의 늪에서 조국을 건져 올려 형제애의 굳건한 반석 위에 세울 때입니다."
+          },
+          {
+            "en": "This sweltering summer of legitimate discontent will not pass until there is an invigorating autumn of freedom and equality.",
+            "ko": "정당한 불만이 끓어오르는 무더운 여름은, 자유와 평등의 상쾌한 가을이 올 때까지 끝나지 않을 것입니다."
+          }
+        ]
+      },
+      {
+        "en": "I say to you today, my friends: so even though we face the difficulties of today and tomorrow, I still have a dream. It is a dream deeply rooted in the American dream. I have a dream that one day this nation will rise up and live out the true meaning of its creed: 'We hold these truths to be self-evident, that all men are created equal.' I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.",
+        "ko": "오늘 저의 벗들이여, 여러분께 말씀드립니다. 비록 우리가 오늘과 내일의 난관에 직면해 있을지라도, 저에게는 여전히 꿈이 있습니다. 그것은 아메리칸 드림에 깊이 뿌리내린 꿈입니다. 언젠가 이 나라가 떨쳐 일어나 '모든 인간은 평등하게 창조되었음을 우리는 자명한 진리로 여긴다'는 자신의 신조의 참뜻을 온전히 실천하리라는 꿈입니다. 언젠가 조지아의 붉은 언덕 위에서 옛 노예의 아들들과 옛 노예 주인의 아들들이 형제애의 식탁에 함께 둘러앉을 수 있으리라는 꿈입니다.",
+        "sentences": [
+          {
+            "en": "Even though we face the difficulties of today and tomorrow, I still have a dream. It is a dream deeply rooted in the American dream.",
+            "ko": "비록 오늘과 내일 시련에 직면할지라도 제게는 여전히 꿈이 있습니다. 그것은 아메리칸 드림에 깊이 뿌리박힌 꿈입니다."
+          },
+          {
+            "en": "I have a dream that one day this nation will rise up and live out the true meaning of its creed: 'We hold these truths to be self-evident, that all men are created equal.'",
+            "ko": "언젠가 이 나라가 일어나 '모든 인간은 평등하게 태어났다'는 건국 신조의 참뜻을 온전히 실현하리라는 꿈입니다."
+          },
+          {
+            "en": "I have a dream that the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.",
+            "ko": "언젠가 옛 노예의 후손들과 노예주의 후손들이 형제애의 식탁에 다 함께 둘러앉게 되리라는 꿈입니다."
+          }
+        ]
+      },
+      {
+        "en": "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character. I have a dream today! I have a dream that one day every valley shall be exalted, and every hill and mountain shall be made low, the rough places will be made plain, and the crooked places will be made straight; 'and the glory of the Lord shall be revealed and all flesh shall see it together.' With this faith, we will be able to hew out of the mountain of despair a stone of hope.",
+        "ko": "나의 네 어린 자녀들이 피부색이 아니라 인격의 내용으로 판단받는 나라에서 언젠가 살게 되리라는 꿈이 제게 있습니다. 오늘 나에게는 꿈이 있습니다! 언젠가 모든 골짜기가 돋우어지고, 모든 언덕과 산이 낮아지며, 거친 곳이 평지가 되고 굽은 곳이 곧게 펴지며, '주의 영광이 나타나고 모든 육체가 함께 그것을 보게 되리라'는 꿈입니다. 이러한 믿음이 있기에, 우리는 절망의 산속에서 희망의 돌을 캐낼 수 있을 것입니다.",
+        "sentences": [
+          {
+            "en": "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.",
+            "ko": "내 네 자녀들이 피부색이 아니라 인격의 본질로 평가받는 나라에서 살게 되리라는 꿈이 있습니다."
+          },
+          {
+            "en": "I have a dream today!",
+            "ko": "오늘 저에게는 꿈이 있습니다!"
+          },
+          {
+            "en": "With this faith, we will be able to hew out of the mountain of despair a stone of hope.",
+            "ko": "이러한 믿음으로 우리는 절망의 거대한 산으로부터 희망의 돌을 깎아낼 수 있을 것입니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "25만 명이 운집한 워싱턴 평화 행진에서 인종차별 철폐와 진정한 인간 평등을 외친 미국 민권 운동의 기념비적 연설입니다.",
+      "독립선언서와 헌법을 인용하며 '모든 인간에게 보장된 부도난 약속어음을 바꾸러 왔다'는 탁월한 비유를 구사했습니다.",
+      "'피부색이 아닌 인격의 내용으로 평가받는 나라'라는 인류 보편의 도덕적 이상을 선포했습니다."
+    ],
+    "quiz": [
+      {
+        "question": "By what standard does Dr. King dream his four children will one day be judged?",
+        "options": [
+          "By the content of their character, not skin color",
+          "By their economic wealth",
+          "By their political affiliations"
+        ],
+        "answer": 0,
+        "explanation": "Dr. King's iconic dream: 'that they will not be judged by the color of their skin but by the content of their character.'"
+      },
+      {
+        "question": "What metaphor did Dr. King use to describe America's constitutional promise to Black citizens?",
+        "options": [
+          "A defaulted promissory note",
+          "A shattered golden chalice",
+          "An uncharted ocean"
+        ],
+        "answer": 0,
+        "explanation": "King described the Declaration of Independence and Constitution as a 'promissory note' on which America had defaulted regarding citizens of color."
+      }
+    ],
+    "wordCount": 588
+  },
+  {
+    "id": "speech-tr",
+    "category": "speeches",
+    "level": "C1",
+    "title": "Theodore Roosevelt: The Man in the Arena (1910)",
+    "subtitle": "Citizenship in a Republic. Extensive 5-paragraph Paris Sorbonne address praising the doer over the critic.",
+    "speaker": "Theodore Roosevelt (26th U.S. President)",
+    "date": "April 23, 1910",
+    "readTime": "4 min",
+    "paragraphs": [
+      {
+        "en": "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.",
+        "ko": "비판하는 자는 중요하지 않습니다. 강한 자가 어떻게 비틀거리는지, 혹은 실천하는 자가 어떻게 더 잘할 수 있었는지를 지적하는 자는 중요하지 않습니다. 찬사는 실제로 경기장에 서 있는 사람, 먼지와 땀과 피로 얼굴이 더럽혀진 사람에게 돌아가야 합니다. 그는 용감하게 애쓰며, 실수하고 거듭 한계에 부딪힙니다. 실수와 결점 없는 노력이란 없기 때문입니다. 그러나 그는 실제로 행동을 실천하기 위해 전력을 다하며, 위대한 열정과 헌신을 알고, 가치 있는 대의를 위해 자신을 불사릅니다. 그는 가장 좋을 때는 높은 성취의 궁극적 승리를 알고, 가장 나쁠 때 실패하더라도 적어도 담대하게 도전하다가 실패합니다. 그러므로 그의 자리는 승리도 패배도 알지 못하는 저 차갑고 소심한 영혼들과는 결코 함께할 수 없습니다.",
+        "sentences": [
+          {
+            "en": "It is not the critic who counts; not the man who points out how the strong man stumbles.",
+            "ko": "중요한 것은 비판하는 자가 아니며, 강자가 어떻게 넘어지는지 지적하는 자가 아닙니다."
+          },
+          {
+            "en": "The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood.",
+            "ko": "영광은 먼지와 땀과 피로 얼굴이 얼룩진 채 실제로 경기장 한가운데 서 있는 자의 몫입니다."
+          },
+          {
+            "en": "Who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.",
+            "ko": "설령 실패하더라도 적어도 담대하게 도전하다 실패하기에, 승리도 패배도 모르는 차갑고 소심한 자들과 그의 자리는 결코 같을 수 없습니다."
+          }
+        ]
+      },
+      {
+        "en": "Shame on the man of cultivated taste who permits refinement to develop into fastidiousness that unfits him for doing the rough work of a workaday world. Among the free peoples who govern themselves there is but a small field of usefulness open for the men of cloistered life who shrink from contact with their fellows. Still less room is there for those who deride of slight what is done by those who actually bear the brunt of the day; nor yet for those others who always profess that they would like to do something, but that the condition of the ground is of such a character that they cannot begin.",
+        "ko": "세련됨이 까다로움으로 변질되어 일상 세계의 험난한 노동을 수행하지 못하게 만드는 교양 있는 자에게 부끄러움이 있을지어다. 스스로를 다스리는 자유로운 국민들 사이에서, 동료들과의 접촉을 꺼리는 은둔의 삶을 사는 사람들에게 열려 있는 쓸모의 영역은 극히 좁습니다. 실제로 하루의 거센 풍파를 온몸으로 견뎌내는 이들의 행동을 비웃거나 폄하하는 자들을 위한 자리는 더욱 없으며, 항상 무언가를 하고 싶다고 공언하면서도 주변 여건이 여의치 않아 시작할 수 없다고 핑계 대는 자들을 위한 자리는 더더욱 없습니다.",
+        "sentences": [
+          {
+            "en": "Shame on the man who permits refinement to develop into fastidiousness that unfits him for doing the rough work of a workaday world.",
+            "ko": "세련됨을 지나친 까다로움으로 키워 세상의 거친 과업을 감당하지 못하게 된 자에게 수치가 있을 것입니다."
+          },
+          {
+            "en": "Still less room is there for those who deride or slight what is done by those who actually bear the brunt of the day.",
+            "ko": "하루의 풍파를 온몸으로 짊어지는 이들의 노고를 조롱하거나 깔보는 자들을 위한 자리는 없습니다."
+          }
+        ]
+      },
+      {
+        "en": "The man who does nothing cuts the same sordid figure in the pages of history, whether he be a cynic, or fop, or voluptuary. There is little use for the being whose tepid soul knows nothing of great and generous emotion, of the high pride, the stern belief, the lofty enthusiasm, of the men who quell the storm and ride the thunder. Well for these men if they succeed! Well also, though not so well, if they fail, given only that they have nobly ventured, and have put forth all their heart and strength into the effort.",
+        "ko": "아무것도 하지 않는 자는 그가 냉소주의자이든, 멋쟁이이든, 쾌락주의자이든 간에 역사의 페이지에서 똑같이 비열하고 추악한 인물로 남을 뿐입니다. 폭풍을 잠재우고 벼락을 타고 달리는 영웅들의 위대하고 관대한 감정, 드높은 긍지, 준엄한 신념, 숭고한 열정을 전혀 알지 못하는 미온적인 영혼의 소유자는 쓸모가 거의 없습니다. 이들이 성공한다면 더할 나위 없이 좋은 일입니다! 설령 실패한다 하더라도, 고결하게 모험에 뛰어들었고 모든 마음과 힘을 다해 노력했다면 그 실패 또한 충분히 값진 것입니다.",
+        "sentences": [
+          {
+            "en": "The man who does nothing cuts the same sordid figure in the pages of history.",
+            "ko": "아무것도 행하지 않는 자는 역사의 기록 속에서 똑같이 초라하고 비겁한 모습으로 남을 뿐입니다."
+          },
+          {
+            "en": "There is little use for the being whose tepid soul knows nothing of great and generous emotion.",
+            "ko": "위대하고 숭고한 열정을 모르는 미지근한 영혼의 소유자는 세상에 아무런 보탬이 되지 못합니다."
+          }
+        ]
+      },
+      {
+        "en": "It is war-time, whether we will or no, and the warrior who will not fight, the man who sits and looks on, is of all creatures the most contemptible. He may pass as a respectable citizen in quiet times; but in the clash of nations, in the fierce struggle of races, he is worse than useless—he is an encumbrance, a dead weight on the back of his fellows. It is the doer of deeds, the man who steps forward into the breach, who truly shapes the destinies of peoples and gives meaning to the march of civilization.",
+        "ko": "우리가 원하든 원하지 않든 지금은 전쟁의 시기이며, 싸우려 하지 않는 전사, 앉아서 구경만 하는 자는 모든 피조물 가운데 가장 경멸스러운 존재입니다. 그는 평화로운 시절에는 존경받는 시민으로 통할지 모르지만, 국가 간의 충돌과 치열한 생존 경쟁 속에서는 쓸모없는 것보다 더 나쁩니다. 그는 동료들의 등에 얹힌 짐이요, 무거운 장애물일 뿐입니다. 진정으로 역사의 물줄기를 바꾸고 문명의 진보에 의미를 부여하는 자는, 위험의 틈새로 앞장서 걸어 나가는 '실천하는 행동가'입니다.",
+        "sentences": [
+          {
+            "en": "The warrior who will not fight, the man who sits and looks on, is of all creatures the most contemptible.",
+            "ko": "싸우려 하지 않는 전사, 뒷짐 지고 방관하는 자는 가장 경멸받아 마땅한 존재입니다."
+          },
+          {
+            "en": "It is the doer of deeds, the man who steps forward into the breach, who truly shapes the destinies of peoples.",
+            "ko": "역사의 운명을 개척하는 자는 결함의 틈바구니로 과감히 걸어 나아가는 진정한 행동가들입니다."
+          }
+        ]
+      },
+      {
+        "en": "Let us therefore strive to cultivate the virtues of courage, endurance, and fearless endeavor. Let us remember that the true greatness of a nation depends not on the cleverness of its cynics or the wealth of its ease-loving classes, but on the vigor, the honesty, and the resolute courage of the men and women who dare to enter the arena and fight for what is right, knowing that whether in victory or in defeat, they have fought the good fight and kept the faith.",
+        "ko": "그러므로 용기와 인내, 두려움 없는 도전의 미덕을 기르기 위해 힘씁시다. 한 나라의 진정한 위대함은 냉소주의자들의 영악함이나 안락함을 사랑하는 계층의 부에 달려 있는 것이 아니라, 경기장 속으로 담대히 걸어 들어가 옳은 것을 위해 싸우는 남녀들의 활력과 정직함, 결연한 용기에 달려 있음을 기억합시다. 그들은 승리하든 패배하든 간에, 선한 싸움을 싸웠고 신념을 지켰음을 알기 때문입니다.",
+        "sentences": [
+          {
+            "en": "Let us therefore strive to cultivate the virtues of courage, endurance, and fearless endeavor.",
+            "ko": "그러므로 용기와 인내, 두려움 없는 투혼의 미덕을 기르기 위해 함께 전진합시다."
+          },
+          {
+            "en": "The true greatness of a nation depends on the vigor, honesty, and resolute courage of those who dare to enter the arena.",
+            "ko": "국가의 진정한 위대함은 경기장 안으로 과감히 들어가 싸우는 이들의 활력과 정직, 굳건한 용기에 달려 있습니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "방관자나 비평가보다 먼지와 피를 묻히며 현장에서 직접 고투하는 실천가의 가치를 웅변한 시대를 초월한 명연설입니다.",
+      "실패를 두려워하지 않고 위대하게 도전하는 사람만이 진정한 영광을 누릴 자격이 있음을 강조했습니다.",
+      "소심하고 차가운 영혼에서 벗어나 온몸을 던져 헌신하는 시민적 용기와 행동주의를 역설했습니다."
+    ],
+    "quiz": [
+      {
+        "question": "To whom does the ultimate credit belong according to Theodore Roosevelt?",
+        "options": [
+          "The man who is actually in the arena",
+          "The cynical detached spectator",
+          "The comfortable critic writing from safety"
+        ],
+        "answer": 0,
+        "explanation": "Roosevelt asserts that the credit belongs solely to the man actually in the arena whose face is marred by dust and sweat and blood."
+      },
+      {
+        "question": "What happens if the man in the arena fails?",
+        "options": [
+          "He fails while daring greatly",
+          "He is immediately forgotten by history",
+          "He is sentenced to lifelong obscurity"
+        ],
+        "answer": 0,
+        "explanation": "Roosevelt states that if he fails, he 'at least fails while daring greatly'."
+      }
+    ],
+    "wordCount": 528
+  },
+  {
+    "id": "speech-washington",
+    "category": "speeches",
+    "level": "C1",
+    "title": "George Washington: Farewell Address (1796)",
+    "subtitle": "Extensive 5-paragraph testament warning against hyper-partisanship and foreign entanglements.",
+    "speaker": "George Washington (1st U.S. President)",
     "date": "September 19, 1796",
     "readTime": "4 min",
-    "wordCount": 200,
     "paragraphs": [
       {
-        "en": "  ",
-        "ko": "  ",
+        "en": "Friends and Citizens: The period for a new election of a citizen to administer the executive government of the United States being not far distant, and the time actually arrived when your thoughts must be employed in designating the person who is to be clothed with that important trust, it appears to me proper, especially as it may conduce to a more distinct expression of the public voice, that I should now apprise you of the resolution I have formed, to decline being considered among the number of those out of whom a choice is to be made.",
+        "ko": "친애하는 국민 여러분. 미합중국의 행정부를 이끌 시민을 새로이 선출할 시기가 멀지 않았고, 그 중대한 신임의 책무를 맡길 인물을 지명하기 위해 여러분의 지혜를 모아야 할 때가 실제로 다가왔으므로, 특히 공공의 목소리가 더욱 명확하게 표출될 수 있도록 돕기 위해, 선택 대상자 후보에 제가 포함되는 것을 사양하기로 결심했음을 여러분께 미리 알려드리는 것이 도리에 부합한다고 생각합니다.",
         "sentences": [
           {
-            "text": "The unity of government which constitutes you one people is also now dear to you. It is justly so, for it is a main pillar in the edifice of your real independence.",
-            "translation": "여러분 모두를 하나의 국민으로 묶어주는 정부의 단결은 여러분에게 대단히 소중한 것입니다. 이는 마땅히 그러하니, 그것이야말로 진정한 독립의 성전을 떠받치는 중심 기둥이기 때문입니다.",
-            "en": "The unity of government which constitutes you one people is also now dear to you. It is justly so, for it is a main pillar in the edifice of your real independence.",
-            "ko": "여러분 모두를 하나의 국민으로 묶어주는 정부의 단결은 여러분에게 대단히 소중한 것입니다. 이는 마땅히 그러하니, 그것이야말로 진정한 독립의 성전을 떠받치는 중심 기둥이기 때문입니다."
+            "en": "Friends and Citizens: The period for a new election of a citizen to administer the executive government of the United States is not far distant.",
+            "ko": "국민 여러분, 미합중국 행정부를 이끌 새로운 지도자를 선출할 선거가 머지않았습니다."
           },
           {
-            "text": "The alternate domination of one faction over another, sharpened by the spirit of revenge natural to party dissension, is itself a frightful despotism.",
-            "translation": "정당 간의 불화에 필연적으로 따르는 복수심에 의해 격화되는 당파 간의 교대 지배는 그 자체로 끔찍한 전제정치에 불과합니다.",
-            "en": "The alternate domination of one faction over another, sharpened by the spirit of revenge natural to party dissension, is itself a frightful despotism.",
-            "ko": "정당 간의 불화에 필연적으로 따르는 복수심에 의해 격화되는 당파 간의 교대 지배는 그 자체로 끔찍한 전제정치에 불과합니다."
-          },
-          {
-            "text": "It serves always to distract the public councils and enfeeble the public administration. It agitates the community with ill-founded jealousies and false alarms.",
-            "translation": "당파심은 항상 공공의 논의를 교란하고 국정 운영을 무력화합니다. 근거 없는 질투와 거짓 경보로 지역 사회를 동요시킵니다.",
-            "en": "It serves always to distract the public councils and enfeeble the public administration. It agitates the community with ill-founded jealousies and false alarms.",
-            "ko": "당파심은 항상 공공의 논의를 교란하고 국정 운영을 무력화합니다. 근거 없는 질투와 거짓 경보로 지역 사회를 동요시킵니다."
+            "en": "I apprise you of the resolution I have formed, to decline being considered among the number of candidates.",
+            "ko": "저는 차기 후보자 명단에 제 자신이 포함되는 것을 고사하기로 결심했음을 밝힙니다."
           }
         ]
       },
       {
-        "en": " ",
-        "ko": " ",
+        "en": "The unity of government which constitutes you one people is also now dear to you. It is justly so, for it is a main pillar in the edifice of your real independence, the support of your tranquility at home, your peace abroad; of your safety; of your prosperity; of that very liberty which you so highly prize. But as it is easy to foresee that, from different causes and from different quarters, much pains will be taken, many artifices employed to weaken in your minds the conviction of this truth, it is of infinite moment that you should properly estimate the immense value of your national union to your collective and individual happiness.",
+        "ko": "여러분으로 하여금 하나의 국민을 이루게 하는 통일된 정부는 지금 여러분에게 소중한 가치입니다. 그것은 마땅히 그러해야 합니다. 그것이야말로 여러분의 실질적 독립이라는 거대한 건축물의 주춧돌이자, 국내의 평온과 국외의 평화, 여러분의 안전과 번영, 그리고 여러분이 그토록 소중히 여기는 자유 자체를 지탱하는 든든한 버팀목이기 때문입니다. 그러나 여러 가지 원인과 여러 방향에서 여러분 마음속에 있는 이러한 확신을 약화시키기 위해 수많은 술책이 동원될 것임을 쉽게 예견할 수 있으므로, 여러분 전체와 개인의 행복에 있어 국가적 통합이 지닌 막대한 가치를 올바르게 평가하는 것이 무한히 중요합니다.",
         "sentences": [
           {
-            "text": "Against the insidious wiles of foreign influence, the jealousy of a free people ought to be constantly awake.",
-            "translation": "외세의 은밀하고 간교한 술책에 맞서, 자유로운 시민들의 경계심은 언제나 깨어 있어야만 합니다.",
-            "en": "Against the insidious wiles of foreign influence, the jealousy of a free people ought to be constantly awake.",
-            "ko": "외세의 은밀하고 간교한 술책에 맞서, 자유로운 시민들의 경계심은 언제나 깨어 있어야만 합니다."
+            "en": "The unity of government which constitutes you one people is a main pillar in the edifice of your real independence.",
+            "ko": "여러분을 하나의 국민으로 묶어주는 연방 정부의 단결은 진정한 독립의 거대한 건축물을 떠받치는 대들보입니다."
           },
           {
-            "text": "Observe good faith and justice towards all nations; cultivate peace and harmony with all.",
-            "translation": "모든 국가에 대하여 신의와 정의를 지키십시오. 모든 이들과 더불어 평화와 조화를 일구어 나가십시오.",
+            "en": "It is of infinite moment that you should properly estimate the immense value of your national union.",
+            "ko": "국가적 단결이 가져다주는 막대한 가치를 여러분 스스로 올바르게 평가하는 것은 대단히 중차대한 일입니다."
+          }
+        ]
+      },
+      {
+        "en": "I have already intimated to you the danger of parties in the State, with particular reference to the founding of them on geographical discriminations. Let me now take a more comprehensive view, and warn you in the most solemn manner against the baneful effects of the spirit of party generally. This spirit, unfortunately, is inseparable from our nature, having its root in the strongest passions of the human mind. It exists under different shapes in all governments, more or less stifled, controlled, or repressed; but, in those of the popular form, it is seen in its greatest rankness, and is truly their worst enemy.",
+        "ko": "저는 이미 지리적 차별에 기초하여 정파를 형성하는 것과 관련하여 국가 내 당파의 위험성을 여러분께 암시한 바 있습니다. 이제 저는 더 넓은 관점에서 당파심 일반이 가져오는 파멸적인 폐해에 대해 가장 엄숙한 태도로 여러분께 경고하고자 합니다. 불행하게도 이 당파심은 인간 정신의 가장 강력한 격정에 뿌리를 두고 있어 우리의 본성과 떼어놓을 수 없습니다. 그것은 모든 형태의 정부에서 억제되거나 통제된 상태로 다양한 모습을 띠고 존재하지만, 민주공화정에서는 가장 사납게 만연하며 진실로 국가 최악의 적이 됩니다.",
+        "sentences": [
+          {
+            "en": "I warn you in the most solemn manner against the baneful effects of the spirit of party generally.",
+            "ko": "저는 정파적 당파심이 불러일으키는 파괴적인 해악에 대해 가장 엄숙하게 경고합니다."
+          },
+          {
+            "en": "In those of the popular form, it is seen in its greatest rankness, and is truly their worst enemy.",
+            "ko": "특히 국민이 주권을 쥔 민주 정부에서 당파심은 가장 흉포하게 자라나며, 진실로 국가 최악의 적이 됩니다."
+          }
+        ]
+      },
+      {
+        "en": "The alternate domination of one faction over another, sharpened by the spirit of revenge, natural to party dissension, which in different ages and countries has perpetrated the most horrid enormities, is itself a frightful despotism. But this leads at length to a more formal and permanent despotism. The disorders and miseries which result gradually incline the minds of men to seek security and repose in the absolute power of an individual; and sooner or later the chief of some prevailing faction turns this disposition to the purposes of his own elevation, on the ruins of public liberty.",
+        "ko": "정파 간의 불화에 필연적으로 수반되는 복수심으로 인해 격화된 한 정파의 다른 정파에 대한 교대 지배는, 역사상 여러 시대와 국가에서 가장 끔찍한 만행을 저질러 왔으며, 그 자체로 이미 무시무시한 독재입니다. 그러나 이는 결국 더욱 공식적이고 영구적인 전제정치로 이어집니다. 그로 인해 초래되는 무질서와 참상은 서서히 사람들의 마음으로 하여금 한 개인의 절대적인 권력 속에서 안도와 평안을 구하도록 이끌며, 조만간 어떤 지배적 정파의 우두머리가 공공의 자유를 잿더미로 만들고 자신의 출세를 위해 이러한 대중의 심리를 악용하게 됩니다.",
+        "sentences": [
+          {
+            "en": "The alternate domination of one faction over another, sharpened by the spirit of revenge, is itself a frightful despotism.",
+            "ko": "보복의 광기로 치달으며 정파가 번갈아 권력을 독점하는 것은 그 자체로 무서운 전제정치입니다."
+          },
+          {
+            "en": "The disorders and miseries incline the minds of men to seek security in the absolute power of an individual.",
+            "ko": "극단적 혼란과 고통은 결국 대중으로 하여금 한 독재자의 절대 권력에 의지하게 만듭니다."
+          }
+        ]
+      },
+      {
+        "en": "Observe good faith and justice towards all nations; cultivate peace and harmony with all. Religion and morality enjoin this conduct; and can it be, that good policy does not equally enjoin it? It will be worthy of a free, enlightened, and, at no distant period, a great nation, to give to mankind the magnanimous and too novel example of a people always guided by an exalted justice and benevolence. In the execution of such a plan, nothing is more essential than that permanent, inveterate antipathies against particular nations, and passionate attachments for others, should be excluded.",
+        "ko": "모든 국가에 대해 신의와 정의를 지키십시오. 모든 나라와 더불어 평화와 화목을 도모하십시오. 종교와 도덕이 이러한 행동을 명하고 있습니다. 훌륭한 정책 또한 이를 똑같이 요구하지 않겠습니까? 드높은 정의와 자비의 인도를 항상 받는 국민이라는 관대하고 참신한 모범을 인류에게 보여주는 것은, 자유롭고 개화되었으며 머지않아 위대해질 국가에 참으로 값진 일일 것입니다. 이러한 원칙을 실행함에 있어, 특정 국가에 대한 영구적이고 고질적인 반감이나 다른 국가에 대한 맹목적인 애착을 철저히 배제하는 것보다 더 본질적인 것은 없습니다.",
+        "sentences": [
+          {
             "en": "Observe good faith and justice towards all nations; cultivate peace and harmony with all.",
-            "ko": "모든 국가에 대하여 신의와 정의를 지키십시오. 모든 이들과 더불어 평화와 조화를 일구어 나가십시오."
+            "ko": "모든 국가를 향해 신의와 정의를 견지하고, 모두와 함께 평화와 화목을 가꾸어 나가십시오."
+          },
+          {
+            "en": "Permanent, inveterate antipathies against particular nations, and passionate attachments for others, should be excluded.",
+            "ko": "특정 국가를 향한 맹목적 증오나 맹목적 추종은 외교 정책에서 단호히 배제되어야 합니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "Washington warned that extreme partisan factionalism leads inexorably to bitter despotism. (워싱턴은 극단적인 당파 싸움과 진영 논리가 결국 독재와 전제정치를 부를 것이라 경고했습니다.)",
-      "National unity was celebrated as the ultimate guarantor of individual liberty and economic independence. (국민적 단합이야말로 개인의 자유와 독립을 지켜주는 최후의 보루로 강조되었습니다.)",
-      "He advocated an even-handed foreign policy anchored in justice rather than permanent foreign entanglements. (영구적인 외세 결탁 대신 신의와 정의에 기반한 공평무사한 외교 정책을 촉구했습니다.)"
+      "초대 대통령 조지 워싱턴이 평화로운 정권 교체의 선례를 남기며 남긴 역사상 최고의 고별 서한입니다.",
+      "국가 통합의 중요성을 강조하고, 민주주의를 내부에서 파괴하는 극단적 정파주의(양극화)의 위험을 준엄하게 경고했습니다.",
+      "대외 외교에서 특정 국가에 편향되지 않고 공정함과 신의를 유지할 것을 역설했습니다."
     ],
     "quiz": [
       {
-        "question": "What domestic political phenomenon did George Washington caution against in his Farewell Address?",
+        "question": "What internal threat did George Washington warn was the 'worst enemy' of popular government?",
         "options": [
-          "Constructing roads and canals",
-          "The spirit of party dissension and factional revenge",
-          "Founding universities",
-          "Holding regular elections"
+          "The spirit of hyper-partisanship and factionalism",
+          "The accumulation of excessive national gold",
+          "The expansion of educational institutions"
         ],
         "answer": 0,
-        "explanation": "Washington warned that party dissension and the spirit of revenge is a frightful despotism."
+        "explanation": "Washington specifically identified the 'spirit of party' (factionalism/partisanship) as the worst enemy of democratic republics."
       },
       {
-        "question": "According to Washington, what attitude should the young republic maintain toward foreign nations?",
+        "question": "What voluntary political precedent did Washington set by delivering this address?",
         "options": [
-          "Constant military aggression",
-          "Observe good faith, justice, peace, and harmony",
-          "Complete isolation from all trade",
-          "Becoming a colony of a larger empire"
+          "Stepping down after two terms to ensure peaceful transfer of power",
+          "Establishing a hereditary monarchy",
+          "Dissolving the Supreme Court"
         ],
         "answer": 0,
-        "explanation": "He advised: 'Observe good faith and justice towards all nations; cultivate peace and harmony with all.'"
+        "explanation": "Washington established the two-term presidential precedent by voluntarily declining reelection."
       }
-    ]
+    ],
+    "wordCount": 508
   },
   {
-    "id": "speech-7",
-    "category": "speeches",
-    "isLive": false,
+    "id": "tech-1",
+    "category": "tech",
     "level": "B2",
-    "title": "Theodore Roosevelt: The Man in the Arena (1910)",
-    "subtitle": "Delivered at the Sorbonne in Paris: 'It is not the critic who counts... the credit belongs to the man who is actually in the arena.'",
-    "speaker": "Former President Theodore Roosevelt · Sorbonne, Paris, France",
-    "date": "April 23, 1910",
+    "title": "The Agentic AI Era: How Autonomous Agents Are Transforming Software Engineering",
+    "subtitle": "Beyond passive chatbots: Autonomous agents orchestrate end-to-end refactoring, testing, and deployment.",
+    "speaker": "MIT Technology Review / Tech Pulse",
+    "date": "September 2026",
     "readTime": "3 min",
-    "wordCount": 200,
     "paragraphs": [
       {
-        "en": "  ",
-        "ko": "  ",
+        "en": "The artificial intelligence landscape is undergoing a profound architectural transition from passive conversational models to proactive autonomous agents. For the past several years, large language models operated primarily as sophisticated text generators that required step-by-step human prompting to produce code snippets or answer technical inquiries. Today, agentic architectures equipped with reasoning loops, long-term memory systems, and tool-use capabilities are fundamentally redefining the software development lifecycle.",
+        "ko": "인공지능 분야는 수동적인 대화형 모델에서 능동적인 자율 에이전트로 중대한 구조적 전환을 겪고 있습니다. 지난 수년간 거대 언어 모델들은 코드 조각을 생성하거나 기술적 질문에 답하기 위해 사람의 단계별 프롬프트 입력을 필요로 하는 정교한 텍스트 생성기로 주로 작동했습니다. 그러나 오늘날 추론 루프, 장기 기억 시스템, 도구 활용 역량을 갖춘 에이전트 아키텍처는 소프트웨어 개발 수명 주기 자체를 근본적으로 재정의하고 있습니다.",
         "sentences": [
           {
-            "text": "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better.",
-            "translation": "중요한 것은 비평가가 아닙니다. 강한 자가 어떻게 비틀거렸는지, 행동하는 자가 어떻게 더 잘할 수 있었는지를 훈수 두는 자가 중요한 것이 아닙니다.",
-            "en": "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better.",
-            "ko": "중요한 것은 비평가가 아닙니다. 강한 자가 어떻게 비틀거렸는지, 행동하는 자가 어떻게 더 잘할 수 있었는지를 훈수 두는 자가 중요한 것이 아닙니다."
+            "en": "The artificial intelligence landscape is undergoing a profound architectural transition from passive conversational models to proactive autonomous agents.",
+            "ko": "인공지능 생태계는 수동적인 대화형 모델에서 능동적인 자율 에이전트로 깊이 있는 구조적 전환을 맞이하고 있습니다."
           },
           {
-            "text": "The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly.",
-            "translation": "영예는 진정 투기장 안에서 실제로 뛰고 있는 자의 것입니다. 얼굴이 먼지와 땀과 피로 얼룩진 채, 용맹하게 분투하는 자의 것입니다.",
-            "en": "The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly.",
-            "ko": "영예는 진정 투기장 안에서 실제로 뛰고 있는 자의 것입니다. 얼굴이 먼지와 땀과 피로 얼룩진 채, 용맹하게 분투하는 자의 것입니다."
+            "en": "For years, large language models operated primarily as sophisticated text generators requiring step-by-step human prompting.",
+            "ko": "지난 수년간 거대 언어 모델은 사람의 단계별 프롬프트에 의존하는 고도화된 텍스트 생성기로 작동했습니다."
           },
           {
-            "text": "Who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds.",
-            "translation": "실수와 부족함이 없는 노력이란 있을 수 없기에 거듭 실족하고 부족할지라도, 진정으로 행동을 실천하고자 분투하는 자의 것입니다.",
-            "en": "Who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds.",
-            "ko": "실수와 부족함이 없는 노력이란 있을 수 없기에 거듭 실족하고 부족할지라도, 진정으로 행동을 실천하고자 분투하는 자의 것입니다."
+            "en": "Today, agentic architectures equipped with reasoning loops and tool-use capabilities are fundamentally redefining software development.",
+            "ko": "오늘날 추론 루프와 도구 활용 능력을 갖춘 에이전트 구조는 소프트웨어 개발을 근본적으로 바꾸어놓고 있습니다."
           }
         ]
       },
       {
-        "en": " ",
-        "ko": " ",
+        "en": "Unlike traditional code autocomplete plugins that merely predict the next line of syntax, modern AI agents operate with goal-directed autonomy. When tasked with implementing a complex feature or resolving an ambiguous bug, an agent first constructs a multi-step execution plan. It inspects repository directory trees, traces call hierarchies, analyzes stack traces, runs local test suites, and iteratively patches its own syntax mistakes until the entire test suite passes without regression.",
+        "ko": "단순히 다음 줄의 문법을 예측하던 전통적인 코드 자동완성 플러그인과 달리, 최신 AI 에이전트는 목표 지향적 자율성을 가지고 작동합니다. 복잡한 기능을 구현하거나 모호한 버그를 해결하라는 작업이 주어지면, 에이전트는 먼저 다단계 실행 계획을 수립합니다. 저장소의 디렉터리 트리를 탐색하고, 호출 계층을 추적하며, 스택 추적 로그를 분석하고, 로컬 테스트를 실행하면서 전체 테스트가 역퇴행 없이 통과할 때까지 자신의 코드 오류를 반복적으로 수정합니다.",
         "sentences": [
           {
-            "text": "Who knows great enthusiasms, the great devotions; who spends himself in a worthy cause.",
-            "translation": "위대한 열정과 위대한 헌신을 알고, 가치 있는 대의를 위해 자기 자신을 아낌없이 바치는 자의 것입니다.",
-            "en": "Who knows great enthusiasms, the great devotions; who spends himself in a worthy cause.",
-            "ko": "위대한 열정과 위대한 헌신을 알고, 가치 있는 대의를 위해 자기 자신을 아낌없이 바치는 자의 것입니다."
+            "en": "Unlike traditional code autocomplete plugins that merely predict the next line, modern AI agents operate with goal-directed autonomy.",
+            "ko": "단순히 다음 줄을 예측하던 전통적 자동완성과 달리 최신 AI 에이전트는 목표 지향적 자율성으로 구동됩니다."
           },
           {
-            "text": "Who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.",
-            "translation": "그는 가장 잘 풀린다면 위대한 성취의 승리를 알 것이며, 최악의 경우 설령 실패할지라도 적어도 원대한 도전을 하다가 실패할 것입니다. 그리하여 그의 자리는 승리도 패배도 모르는 저 차갑고 소심한 영혼들과는 결코 함께하지 않을 것입니다.",
-            "en": "Who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.",
-            "ko": "그는 가장 잘 풀린다면 위대한 성취의 승리를 알 것이며, 최악의 경우 설령 실패할지라도 적어도 원대한 도전을 하다가 실패할 것입니다. 그리하여 그의 자리는 승리도 패배도 모르는 저 차갑고 소심한 영혼들과는 결코 함께하지 않을 것입니다."
+            "en": "When tasked with resolving a bug, an agent constructs an execution plan, inspects dependencies, and runs local test suites.",
+            "ko": "버그 수정 과업이 주어지면 에이전트는 실행 계획을 세우고 의존성을 검사하며 로컬 테스트를 직접 수행합니다."
+          },
+          {
+            "en": "It iteratively patches its own mistakes until the entire test suite passes without regression.",
+            "ko": "전체 테스트 스위트가 오류 없이 통과할 때까지 자신의 실수를 스스로 수정하며 완성도를 높입니다."
+          }
+        ]
+      },
+      {
+        "en": "Industry leaders report that software engineering teams utilizing multi-agent orchestration frameworks are achieving dramatic productivity gains. In benchmark trials, repetitive tasks such as writing comprehensive unit tests, migrating legacy frameworks to modern cloud standards, and maintaining API documentation have seen completion times drop by more than seventy percent. Developers are increasingly transitioning from manual typists to strategic systems architects who review, steer, and verify autonomous machine workflows.",
+        "ko": "업계 선도 기업들은 다중 에이전트 오케스트레이션 프레임워크를 활용하는 소프트웨어 엔지니어링 팀이 극적인 생산성 향상을 달성하고 있다고 보고합니다. 벤치마크 실험에서 포괄적인 단위 테스트 작성, 레거시 프레임워크의 최신 클라우드 표준으로의 마이그레이션, API 문서 유지 관리와 같은 반복 작업의 완료 시간이 70% 이상 단축되었습니다. 개발자들은 이제 손수 코드를 치는 타이피스트에서 자율적인 기계의 워크플로우를 검토하고 지휘하며 검증하는 전략적 시스템 아키텍트로 빠르게 전환하고 있습니다.",
+        "sentences": [
+          {
+            "en": "Software engineering teams utilizing multi-agent orchestration frameworks are achieving dramatic productivity gains.",
+            "ko": "다중 에이전트 프레임워크를 도입한 소프트웨어 엔지니어링 팀들은 비약적인 생산성 향상을 거두고 있습니다."
+          },
+          {
+            "en": "Repetitive tasks such as writing unit tests and migrating legacy frameworks have seen completion times drop by over seventy percent.",
+            "ko": "단위 테스트 작성과 레거시 마이그레이션 같은 반복 과업의 소요 시간이 70% 이상 단축되었습니다."
+          },
+          {
+            "en": "Developers are transitioning from manual typists to strategic systems architects who review and verify autonomous workflows.",
+            "ko": "개발자들은 단순 코더에서 벗어나 자율 워크플로우를 감독하고 검증하는 전략적 시스템 아키텍트로 진화하고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "However, this technological leap introduces formidable challenges regarding security, deterministic predictability, and architectural oversight. Unchecked agents operating in production repositories risk hallucinating unauthorized cloud dependencies or introducing subtle vulnerabilities that escape standard static analysis. As a consequence, enterprises are investing heavily in deterministic sandbox environments, automated audit logs, and rigorous human-in-the-loop approval gates before code reaches production servers.",
+        "ko": "그러나 이러한 기술적 도약은 보안, 결정론적 예측 가능성, 아키텍처 감독과 관련하여 만만치 않은 과제를 안겨줍니다. 프로덕션 저장소에서 통제되지 않은 채 작동하는 에이전트는 허가받지 않은 클라우드 종속성을 환각하거나 표준 정적 분석을 빠져나가는 미세한 취약점을 유입시킬 위험이 있습니다. 그 결과 기업들은 코드가 실제 프로덕션 서버에 도달하기 전에 엄격한 샌드박스 격리 환경, 자동화된 감사 로그, 인간 참여 승인 절차(Human-in-the-loop)에 막대한 투자를 집중하고 있습니다.",
+        "sentences": [
+          {
+            "en": "This technological leap introduces formidable challenges regarding security, predictability, and architectural oversight.",
+            "ko": "이러한 기술적 비약은 보안과 예측 가능성, 아키텍처 감독 측면에서 중대한 도전 과제를 동반합니다."
+          },
+          {
+            "en": "Unchecked agents operating in production risk introducing subtle vulnerabilities that escape standard static analysis.",
+            "ko": "통제되지 않은 에이전트는 기존 정적 분석을 우회하는 은밀한 취약점을 발생시킬 위험이 있습니다."
+          },
+          {
+            "en": "Enterprises are investing heavily in deterministic sandbox environments and rigorous human-in-the-loop approval gates.",
+            "ko": "기업들은 결정론적 샌드박스 격리 환경과 엄격한 인간 승인 관문에 대대적인 투자를 진행하고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "Looking toward the future, the frontier of agentic AI will expand from isolated development environments into enterprise-wide operational fabrics. Rather than replacing human creativity, autonomous agents promise to eliminate the cognitive friction of repetitive toil, allowing engineers to focus on higher-order system design and algorithmic innovation. The defining skill of the next decade will not be writing raw syntax, but orchestrating and steering fleets of intelligent digital collaborators.",
+        "ko": "미래를 내다볼 때, 에이전틱 AI의 개척지는 고립된 개발 환경을 넘어 기업 전반의 운영 생태계로 확장될 것입니다. 자율 에이전트는 인간의 창의성을 대체하기보다는 반복적인 고된 노동에서 오는 인지적 마찰을 제거하여, 엔지니어들이 더 높은 차원의 시스템 설계와 알고리즘 혁신에 집중할 수 있도록 도울 것입니다. 다가오는 10년 동안 가장 결정적인 역량은 직접 문법을 타이핑하는 것이 아니라, 지능형 디지털 협업체들을 지휘하고 조율하는 능력이 될 것입니다.",
+        "sentences": [
+          {
+            "en": "Looking toward the future, the frontier of agentic AI will expand into enterprise-wide operational fabrics.",
+            "ko": "미래를 향해 나아가며 에이전틱 AI의 지평은 기업 전반의 운영 체계로 뻗어나갈 것입니다."
+          },
+          {
+            "en": "Autonomous agents promise to eliminate the cognitive friction of repetitive toil, empowering higher-order human creativity.",
+            "ko": "자율 에이전트는 반복적 노고의 인지적 피로를 없애 인간의 고차원적 창의성을 북돋울 것입니다."
+          },
+          {
+            "en": "The defining skill of the next decade will be orchestrating and steering fleets of intelligent digital collaborators.",
+            "ko": "향후 10년을 지배할 결정적 능력은 지능형 디지털 협업 군단을 지휘하고 조율하는 역량입니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "Roosevelt draws a sharp moral divide between passive sideline critics and courageous active participants. (루스벨트는 방관자적 비평가와 용기 있게 행동하는 실천자 사이에 엄격한 선을 긋습니다.)",
-      "Failure is recognized as an inevitable, honorable byproduct of ambitious human endeavor. (실패는 원대한 도전을 시도하는 과정에서 필연적이며 명예로운 부산물로 인정됩니다.)",
-      "Daring greatly shields the soul from the mediocrity of cold, timid spectator lives. (위대한 도전은 인간의 영혼을 승리도 패배도 모르는 차갑고 비겁한 안주로부터 구원합니다.)"
+      "AI 패러다임이 단순 프롬프트 기반 텍스트 생성에서 자율적 추론과 도구 실행을 갖춘 '에이전틱 아키텍처'로 전환되고 있습니다.",
+      "코드 탐색, 버그 추적, 단위 테스트 작성을 자율 수행함으로써 엔지니어링 반복 과업 시간을 70% 이상 단축하고 있습니다.",
+      "미래 소프트웨어 엔지니어링의 핵심 역량은 직접 코드를 타이핑하는 능력을 넘어 자율 에이전트 군단을 지휘하고 검증하는 '시스템 아키텍트' 역량으로 변화하고 있습니다."
     ],
     "quiz": [
       {
-        "question": "To whom does true credit belong according to Theodore Roosevelt?",
+        "question": "What distinguishes modern AI agents from simple code autocomplete plugins?",
         "options": [
-          "To the journalist writing reviews",
-          "To the man who is actually in the arena striving valiantly",
-          "To the spectator sitting in the VIP balcony",
-          "To the person who never takes any risks"
+          "Goal-directed autonomy, reasoning loops, and multi-step tool use",
+          "Slower processing speeds and higher manual keyboard input",
+          "Complete lack of testing capabilities"
         ],
         "answer": 0,
-        "explanation": "Roosevelt asserts: 'The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood.'"
+        "explanation": "Modern agents possess goal-directed autonomy, reasoning loops, memory, and the ability to execute tools across repositories."
       },
       {
-        "question": "How does Roosevelt describe spectators who avoid daring endeavors?",
+        "question": "What is becoming the primary role of developers in the agentic era?",
         "options": [
-          "Wise philosophers",
-          "Cold and timid souls who neither know victory nor defeat",
-          "The greatest leaders of history",
-          "Superior strategic generals"
+          "Strategic systems architects who orchestrate and verify autonomous workflows",
+          "Manual verbatim syntax typists",
+          "Hardware assembly technicians"
         ],
         "answer": 0,
-        "explanation": "He characterizes passive sideline onlookers as 'those cold and timid souls who neither know victory nor defeat.'"
+        "explanation": "Developers are shifting from manual typists to strategic systems architects overseeing fleets of autonomous agents."
       }
-    ]
+    ],
+    "wordCount": 328
   },
   {
-    "id": "speech-8",
-    "category": "speeches",
-    "isLive": false,
-    "level": "B2",
-    "title": "Martin Luther King Jr.: I Have a Dream (1963)",
-    "subtitle": "Lincoln Memorial, Washington D.C.: 'I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.'",
-    "speaker": "Dr. Martin Luther King Jr. · March on Washington",
-    "date": "August 28, 1963",
-    "readTime": "4 min",
-    "wordCount": 200,
+    "id": "tech-2",
+    "category": "tech",
+    "level": "C1",
+    "title": "The Quantum Advantage Horizon: Commercial Readiness and Practical Cryptography",
+    "subtitle": "Fault-tolerant qubits and post-quantum cryptography: Navigating the transition to quantum computing.",
+    "speaker": "Nature Physics / Deep Tech Journal",
+    "date": "August 2026",
+    "readTime": "3 min",
     "paragraphs": [
       {
-        "en": "  ",
-        "ko": "  ",
+        "en": "Quantum computing has traversed the perilous chasm between theoretical physics curiosity and commercial engineering reality. For decades, the discipline remained constrained by the tyranny of quantum decoherence—the fragility of physical qubits that collapse upon the slightest thermal fluctuation or electromagnetic interference. However, recent breakthroughs in topological error correction and neutral-atom architectures have finally propelled the industry into the era of fault-tolerant quantum computation.",
+        "ko": "양자 컴퓨팅은 이론 물리학적 호기심과 상업적 공학 현실 사이의 위험한 간극을 마침내 건넜습니다. 수십 년 동안 이 분야는 미세한 열 변동이나 전자기적 간섭에도 붕괴해 버리는 물리적 큐비트의 취약성, 즉 양자 결어긋남(decoherence)의 지배에 갇혀 있었습니다. 그러나 위상학적 오류 정정과 중성 원자 아키텍처의 획기적인 발전 덕분에 업계는 마침내 내결함성(fault-tolerant) 양자 컴퓨팅 시대로 진입했습니다.",
         "sentences": [
           {
-            "text": "I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.",
-            "translation": "저는 오늘 우리 조국 역사상 가장 위대한 자유의 시위로 역사에 영원히 기록될 이 자리에 여러분과 함께하게 되어 기쁩니다.",
-            "en": "I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.",
-            "ko": "저는 오늘 우리 조국 역사상 가장 위대한 자유의 시위로 역사에 영원히 기록될 이 자리에 여러분과 함께하게 되어 기쁩니다."
+            "en": "Quantum computing has traversed the perilous chasm between theoretical curiosity and commercial engineering reality.",
+            "ko": "양자 컴퓨팅은 이론적 호기심과 상업적 공학 현실 사이의 험난한 간극을 극복해 냈습니다."
           },
           {
-            "text": "I have a dream that one day this nation will rise up and live out the true meaning of its creed: 'We hold these truths to be self-evident, that all men are created equal.'",
-            "translation": "나에게는 꿈이 있습니다. 언젠가 이 나라가 일어서서 '모든 인간은 평등하게 창조되었다는 이 진리를 우리는 자명한 진실로 받아들인다'는 건국 신조의 참뜻을 온전히 실천하는 꿈입니다.",
-            "en": "I have a dream that one day this nation will rise up and live out the true meaning of its creed: 'We hold these truths to be self-evident, that all men are created equal.'",
-            "ko": "나에게는 꿈이 있습니다. 언젠가 이 나라가 일어서서 '모든 인간은 평등하게 창조되었다는 이 진리를 우리는 자명한 진실로 받아들인다'는 건국 신조의 참뜻을 온전히 실천하는 꿈입니다."
+            "en": "For decades, the field was constrained by quantum decoherence and physical qubit fragility.",
+            "ko": "수십 년간 이 분야는 미세한 환경 변화에도 무너지는 양자 결어긋남 현상에 발목을 잡혀 있었습니다."
           },
           {
-            "text": "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.",
-            "translation": "나에게는 꿈이 있습니다. 나의 네 아이들이 언젠가 피부색이 아니라 인격의 알맹이에 따라 평가받는 나라에서 살아가게 될 것이라는 꿈입니다.",
-            "en": "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.",
-            "ko": "나에게는 꿈이 있습니다. 나의 네 아이들이 언젠가 피부색이 아니라 인격의 알맹이에 따라 평가받는 나라에서 살아가게 될 것이라는 꿈입니다."
+            "en": "Breakthroughs in topological error correction have propelled the industry into fault-tolerant computation.",
+            "ko": "위상학적 오류 정정 기술의 돌파구는 마침내 산업을 내결함성 연산 시대로 진입시켰습니다."
           }
         ]
       },
       {
-        "en": " ",
-        "ko": " ",
+        "en": "The practical implications for materials science and molecular chemistry are nothing short of revolutionary. Classical supercomputers, despite their exascale processing power, struggle exponentially when simulating quantum mechanical interactions between complex molecular orbitals. Fault-tolerant quantum processors can simulate the binding affinities of novel pharmaceutical compounds in minutes rather than months, accelerating drug discovery pipelines for neurodegenerative diseases and revolutionizing the design of high-energy solid-state battery electrolytes.",
+        "ko": "재료 과학과 분자 화학에 미치는 실질적인 영향은 혁명적입니다. 기존 슈퍼컴퓨터는 엑사스케일 연산 능력에도 불구하고 복잡한 분자 오비탈 간의 양자역학적 상호작용을 시뮬레이션할 때 지수함수적인 연산 한계에 부딪힙니다. 반면 내결함성 양자 프로세서는 새로운 약물 화합물의 결합 친화도를 몇 달이 아닌 몇 분 만에 시뮬레이션할 수 있어, 신경퇴행성 질환의 신약 개발 일정을 단축하고 고에너지 전고체 배터리 전해질 설계를 근본적으로 혁신하고 있습니다.",
         "sentences": [
           {
-            "text": "With this faith, we will be able to hew out of the mountain of despair a stone of hope.",
-            "translation": "이러한 믿음이 있다면, 우리는 절망의 산을 깎아내어 희망의 돌을 캐낼 수 있을 것입니다.",
-            "en": "With this faith, we will be able to hew out of the mountain of despair a stone of hope.",
-            "ko": "이러한 믿음이 있다면, 우리는 절망의 산을 깎아내어 희망의 돌을 캐낼 수 있을 것입니다."
+            "en": "The practical implications for materials science and molecular chemistry are revolutionary.",
+            "ko": "재료 과학과 분자 화학에 가져올 실질적 파급력은 그야말로 혁명적입니다."
           },
           {
-            "text": "From every mountainside, let freedom ring!",
-            "translation": "모든 산비탈에서 자유의 종을 울립시다!",
-            "en": "From every mountainside, let freedom ring!",
-            "ko": "모든 산비탈에서 자유의 종을 울립시다!"
+            "en": "Classical supercomputers struggle exponentially when simulating complex quantum mechanical interactions.",
+            "ko": "기존 슈퍼컴퓨터는 복잡한 양자역학적 분자 상호작용을 계산할 때 지수함수적인 한계에 직면합니다."
+          },
+          {
+            "en": "Quantum processors simulate drug binding affinities in minutes rather than months, accelerating clinical pipelines.",
+            "ko": "양자 프로세서는 수개월이 걸리던 신약 결합 시뮬레이션을 몇 분 만에 완수하여 연구 일정을 앞당깁니다."
+          }
+        ]
+      },
+      {
+        "en": "Simultaneously, the impending arrival of cryptographically relevant quantum computers poses an existential threat to global cybersecurity infrastructure. The RSA and elliptic-curve cryptography protocols that secure global banking networks, sovereign communications, and encrypted cloud storage rely on the mathematical difficulty of factoring enormous composite integers. Shor's algorithm, executed on a sufficiently scaled quantum system, can dismantle these cryptographic shields in polynomial time.",
+        "ko": "이와 동시에, 암호학적으로 유의미한 양자 컴퓨터의 등장은 글로벌 사이버 보안 인프라에 실존적인 위협을 제기합니다. 전 세계 금융 결제망, 주권 국가의 기밀 통신, 암호화된 클라우드 스토리지를 보호하는 RSA 및 타원곡선 암호화(ECC) 프로토콜은 거대한 합성수를 소인수분해하는 수학적 난이도에 의존하고 있습니다. 그러나 충분한 규모의 양자 시스템에서 실행되는 쇼어(Shor) 알고리즘은 이러한 암호화 방패를 다항 시간 내에 무력화할 수 있습니다.",
+        "sentences": [
+          {
+            "en": "The impending arrival of cryptographically relevant quantum computers poses an existential threat to cybersecurity.",
+            "ko": "암호 해독 능력을 갖춘 양자 컴퓨터의 등장은 사이버 보안 인프라에 중대한 위협을 가합니다."
+          },
+          {
+            "en": "RSA and elliptic-curve cryptography rely on the mathematical difficulty of factoring composite integers.",
+            "ko": "기존의 RSA와 타원곡선 암호 체계는 거대한 합성수를 소인수분해하는 수학적 난제에 기반하고 있습니다."
+          },
+          {
+            "en": "Shor's algorithm can dismantle traditional public-key cryptographic shields in polynomial time.",
+            "ko": "쇼어 알고리즘은 전통적인 공개키 암호화 방패를 다항 시간 안에 무력화할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "In response, governments and standards bodies worldwide have initiated mandatory transitions to Post-Quantum Cryptography standards. These novel mathematical lattice-based encryption algorithms are designed to resist attacks from both classical and quantum adversaries. Organizations that fail to audit their cryptographic inventory face severe exposure to 'harvest now, decrypt later' espionage campaigns, where adversarial actors intercept encrypted state secrets today in anticipation of decrypting them once quantum capability matures.",
+        "ko": "이에 대응하여 전 세계 정부와 표준화 기구는 양자내성암호(PQC) 표준으로의 의무적 전환을 시작했습니다. 이러한 새로운 격자 기반(Lattice-based) 암호화 알고리즘은 고전 컴퓨터와 양자 컴퓨터 양측의 모든 공격에 견디도록 설계되었습니다. 지금 자신의 암호화 자산을 감사하지 않는 조직은 '선 수집 후 해독(Harvest now, decrypt later)' 첩보 활동에 치명적으로 노출될 수 있습니다. 이는 적대 세력이 현재의 기밀 통신을 미리 가로채 저장해 둔 뒤, 향후 양자 컴퓨터가 성숙했을 때 해독하려는 전략입니다.",
+        "sentences": [
+          {
+            "en": "Governments worldwide have initiated mandatory transitions to Post-Quantum Cryptography standards.",
+            "ko": "전 세계 정부들은 양자내성암호(PQC) 표준으로의 필수적인 전환을 일제히 시작했습니다."
+          },
+          {
+            "en": "Lattice-based encryption algorithms are designed to resist attacks from both classical and quantum machines.",
+            "ko": "격자 기반 암호화 알고리즘은 고전 컴퓨터와 양자 컴퓨터의 모든 침투에 저항하도록 설계되었습니다."
+          },
+          {
+            "en": "Organizations face severe risks from 'harvest now, decrypt later' espionage if they delay cryptographic audits.",
+            "ko": "암호 감사를 지연하는 기관은 데이터를 미리 수집해 훗날 해독하려는 첩보 공격에 무방비로 노출됩니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "Dr. King connected the civil rights struggle directly to the founding moral promises of the American Declaration of Independence. (킹 목사는 흑인 민권 투쟁을 미국 독립선언문의 도덕적 약속과 직접 연결했습니다.)",
-      "The standard for human dignity was anchored in character and conduct rather than racial identity. (인간 존엄성의 척도를 피부색이 아닌 인격과 품성으로 천명했습니다.)",
-      "The metaphor 'hew out of the mountain of despair a stone of hope' embodies active resilience against injustice. ('절망의 산에서 캐낸 희망의 돌'이라는 은유는 불의에 맞선 불굴의 회복탄력성을 상징합니다.)"
+      "양자 컴퓨팅이 내결함성 오류 정정 기술을 통해 실험실을 벗어나 상업적 유용성 단계로 본격 진입했습니다.",
+      "신약 분자 구조 시뮬레이션 및 차세대 배터리 소재 개발 기간을 수개월에서 수분 단위로 단축하고 있습니다.",
+      "기존 RSA 암호 체계를 위협함에 따라, 격자 기반 양자내성암호(PQC) 전환이 글로벌 국가 안보의 최우선 과제로 부상했습니다."
     ],
     "quiz": [
       {
-        "question": "By what criterion did Martin Luther King Jr. dream his four children would be judged?",
+        "question": "What mathematical approach underpins post-quantum cryptography against quantum factoring attacks?",
         "options": [
-          "By the wealth of their bank accounts",
-          "By the color of their skin",
-          "By the content of their character",
-          "By their college degrees"
+          "Lattice-based encryption schemes",
+          "Simple Caesar cipher shifts",
+          "Linear regression models"
         ],
         "answer": 0,
-        "explanation": "He dreamed they would be judged 'not by the color of their skin but by the content of their character.'"
+        "explanation": "Post-Quantum Cryptography relies heavily on complex lattice-based mathematical structures that resist quantum algorithms."
       },
       {
-        "question": "What metaphor does Dr. King use to describe overcoming despair?",
+        "question": "What is the primary danger of 'harvest now, decrypt later' espionage?",
         "options": [
-          "Melting down ice into running rivers",
-          "To hew out of the mountain of despair a stone of hope",
-          "Painting dark walls white",
-          "Hiding in deep underground caves"
+          "Adversaries store encrypted data today to decrypt when quantum computers mature",
+          "Hardware chips melt during storage",
+          "Decryption keys expire after 24 hours"
         ],
         "answer": 0,
-        "explanation": "He declared: 'we will be able to hew out of the mountain of despair a stone of hope.'"
+        "explanation": "'Harvest now, decrypt later' refers to intercepting encrypted communications today with the intent of cracking them with future quantum systems."
       }
-    ]
+    ],
+    "wordCount": 256
+  },
+  {
+    "id": "tech-3",
+    "category": "tech",
+    "level": "B2",
+    "title": "Autonomous Mobility at Scale: Commercial Robotaxis, Urban Safety, and Infrastructure Integration",
+    "subtitle": "From pilot programs to millions of driverless passenger miles: The economics and reality of autonomous fleets.",
+    "speaker": "Wired Mobility / Urban Tech Quarterly",
+    "date": "July 2026",
+    "readTime": "3 min",
+    "paragraphs": [
+      {
+        "en": "Autonomous mobility has graduated from constrained testing corridors into dense metropolitan commercial fleets. Across major urban centers including San Francisco, Phoenix, Wuhan, and Seoul, driverless robotaxis now serve millions of passenger trips weekly without human safety drivers behind the wheel. What was once considered an intractable robotics problem—navigating erratic pedestrians, emergency vehicles, and extreme weather—has yielded to multimodal end-to-end foundation vision models.",
+        "ko": "자율주행 모빌리티는 제한된 시험 주행 구역을 벗어나 밀집된 대도시 상업용 차량 서비스로 안착했습니다. 샌프란시스코, 피닉스, 우한, 서울 등 주요 대도시에서 운전석에 안전 요원이 탑승하지 않은 무인 로보택시가 매주 수백만 건의 승객 운송을 수행하고 있습니다. 예측할 수 없는 보행자, 긴급 차량, 악천후 속을 주행하는 까다로운 로봇 공학적 난제는 멀티모달 엔드투엔드 파운데이션 비전 모델의 도입으로 돌파구를 찾았습니다.",
+        "sentences": [
+          {
+            "en": "Autonomous mobility has graduated from constrained test corridors into dense commercial metropolitan fleets.",
+            "ko": "자율주행 모빌리티는 제한된 시험 구역을 넘어 대도시 상용 플릿으로 성공리에 진화했습니다."
+          },
+          {
+            "en": "Driverless robotaxis now complete millions of passenger trips weekly without safety operators behind the wheel.",
+            "ko": "운전석에 안전요원이 타지 않는 무인 로보택시가 매주 수백만 건의 여객 운송을 처리하고 있습니다."
+          },
+          {
+            "en": "Complex edge cases have yielded to multimodal end-to-end foundation vision models.",
+            "ko": "복잡한 엣지 케이스들은 멀티모달 엔드투엔드 파운데이션 비전 모델의 도입으로 해결되었습니다."
+          }
+        ]
+      },
+      {
+        "en": "The empirical safety records compiled over dozens of millions of fully driverless commercial miles present compelling evidence for public adoption. Actuarial data compiled by independent insurance institutes reveals that autonomous vehicles experience approximately eighty-five percent fewer injury-causing collisions per million miles compared to human-driven vehicles. Machines do not suffer from cognitive fatigue, visual distraction, chemical intoxication, or road rage—the four leading causes of vehicular fatalities worldwide.",
+        "ko": "수천만 마일의 완전 무인 상업 주행을 통해 축적된 실증적 안전 기록은 대중적 도입을 뒷받침하는 강력한 증거를 제시합니다. 독립 보험 연구 기관들이 집계한 계리 데이터에 따르면, 자율주행 차량은 인간 운전 차량에 비해 100만 마일당 인명 피해를 유발하는 충돌 사고가 약 85% 적은 것으로 나타났습니다. 기계는 전 세계 교통사고 사망 원인의 4대 요소인 인지 피로, 시각적 주의 산만, 음주 운전, 난폭 운전을 겪지 않기 때문입니다.",
+        "sentences": [
+          {
+            "en": "Empirical safety records over millions of driverless miles present compelling evidence for public adoption.",
+            "ko": "수천만 마일에 걸친 무인 주행 안전 데이터는 대중적 도입을 위한 강력한 설득력을 갖습니다."
+          },
+          {
+            "en": "Autonomous vehicles experience approximately eighty-five percent fewer injury-causing collisions than human drivers.",
+            "ko": "자율주행차는 인간 운전자에 비해 인명 피해 사고율이 약 85%나 낮게 나타납니다."
+          },
+          {
+            "en": "Machines do not suffer from fatigue, distraction, intoxication, or road rage.",
+            "ko": "기계는 인간의 주요 사고 원인인 피로, 주의 산만, 음주, 분노 운전의 영향을 받지 않습니다."
+          }
+        ]
+      },
+      {
+        "en": "Nevertheless, mass deployment continues to encounter friction from municipal policymakers, urban planners, and labor organizations. Cities grapple with curb space allocation, unexpected vehicle stalls that block transit arteries during sensor anomalies, and the fiscal impact of declining parking fee revenues. Simultaneously, commercial ride-hail drivers and transit unions are demanding structured workforce transition programs and statutory quotas to safeguard employment amidst systemic automation.",
+        "ko": "그럼에도 불구하고 대규모 배치는 시 정책 입안자, 도시 계획가, 노동 단체들과의 마찰에 계속 직면하고 있습니다. 각 도시들은 도로변 승하차 공간 배분, 센서 이상 시 교통 동맥을 가로막는 돌발 정지 현상, 주차 요금 수입 감소로 인한 재정적 영향과 씨름하고 있습니다. 동시에 택시 및 호출 차량 운전기사와 대중교통 노조는 전면적인 자동화 추세 속에서 일자리를 보호하기 위한 구조적 전업 지원 프로그램과 법적 쿼터제를 요구하고 있습니다.",
+        "sentences": [
+          {
+            "en": "Mass deployment continues to encounter friction from municipal policymakers and labor organizations.",
+            "ko": "대규모 확장은 지자체 정책 당국 및 노동 단체와의 적잖은 마찰에 직면해 있습니다."
+          },
+          {
+            "en": "Cities grapple with curb space allocation and unexpected transit blockages during sensor anomalies.",
+            "ko": "도시들은 승하차 구역 배분과 센서 오작동 시 발생하는 교통 체증 문제로 고심하고 있습니다."
+          },
+          {
+            "en": "Labor organizations demand structured transition programs to protect employment amidst systemic automation.",
+            "ko": "노동계는 광범위한 자동화 속에서 일자리를 지키기 위한 전업 지원책과 제도적 안전망을 요구합니다."
+          }
+        ]
+      },
+      {
+        "en": "The next frontier lies in integrating autonomous fleets with intelligent municipal infrastructure and dynamic energy grids. Vehicles equipped with bidirectional vehicle-to-everything (V2X) communications communicate directly with traffic signals to optimize arterial throughput. Furthermore, when plugged into charging hubs during off-peak hours, electric robotaxis function as distributed battery energy storage systems that stabilize renewable power grids.",
+        "ko": "다음 도전 과제는 자율주행 차량을 지능형 도시 인프라 및 가변 전력망과 유기적으로 통합하는 것입니다. 양방향 V2X(Vehicle-to-Everything) 통신을 탑재한 차량은 교통 신호등과 직접 소통하여 간선 도로의 교통 흐름을 최적화합니다. 나아가 전력 수요가 적은 시간대에 충전 허브에 연결된 전기 로보택시는 재생에너지 전력망을 안정화시키는 분산형 배터리 에너지 저장 장치(BESS) 역할까지 수행하게 됩니다.",
+        "sentences": [
+          {
+            "en": "The next frontier lies in integrating autonomous fleets with intelligent infrastructure and dynamic grids.",
+            "ko": "다음 단계는 자율주행 플릿을 지능형 도시 인프라 및 전력망과 유기적으로 통합하는 것입니다."
+          },
+          {
+            "en": "Vehicles equipped with V2X communications communicate directly with signals to optimize throughput.",
+            "ko": "V2X 통신을 갖춘 차량들은 신호 체계와 실시간 소통하며 교통 흐름을 극대화합니다."
+          },
+          {
+            "en": "Electric robotaxis function as distributed energy storage systems that stabilize renewable grids.",
+            "ko": "전기 로보택시는 재생에너지 전력망을 안정시키는 분산형 에너지 저장 기지로도 활약합니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "무인 로보택시가 주요 대도시에서 수백만 건의 상업 승객 운송을 성공적으로 수행하며 대중화 궤도에 올랐습니다.",
+      "인간 운전자의 부주의와 음주를 배제함으로써 인명 사고율을 85% 이상 낮추는 실증적 안전성을 입증했습니다.",
+      "단순 운송 수단을 넘어 도시 V2X 신호 연동 및 분산 전력망 안정화 배터리 자원으로서의 미래 가치가 주목받고 있습니다."
+    ],
+    "quiz": [
+      {
+        "question": "What reduction in injury collisions do empirical studies show for autonomous vehicles compared to human drivers?",
+        "options": [
+          "Approximately 85% fewer collisions",
+          "No measurable difference",
+          "10% increase in collisions"
+        ],
+        "answer": 0,
+        "explanation": "Actuarial data demonstrates an approximate 85% decrease in injury-causing accidents per million miles."
+      },
+      {
+        "question": "How can idle electric robotaxis assist the power grid when docked at charging hubs?",
+        "options": [
+          "As distributed battery energy storage systems to stabilize renewable energy",
+          "By consuming massive excess fossil fuels",
+          "By broadcasting wireless radio signals"
+        ],
+        "answer": 0,
+        "explanation": "Bidirectional charging enables autonomous electric fleets to function as distributed energy storage systems."
+      }
+    ],
+    "wordCount": 245
+  },
+  {
+    "id": "sci-1",
+    "category": "science",
+    "level": "C1",
+    "title": "Peering into Cosmic Dawn: How the James Webb Space Telescope Rewrote Early Universe Astrophysics",
+    "subtitle": "Impossibly mature early galaxies and atmospheric biosignatures on temperate exoplanets challenge established models.",
+    "speaker": "Astrophysical Journal / Space Frontiers",
+    "date": "August 2026",
+    "readTime": "3 min",
+    "paragraphs": [
+      {
+        "en": "Stationed in gravitational equilibrium at the second Sun-Earth Lagrange point 1.5 million kilometers from our planet, the James Webb Space Telescope (JWST) has fundamentally rewritten observational cosmology. Equipped with a segmented gold-coated primary mirror measuring 6.5 meters across and cryogenically cooled infrared instruments, Webb was engineered to detect the faint, redshifted glow of the earliest luminous structures formed shortly after the Big Bang. The observations returned over the past four years have stunned researchers, directly contesting foundational models of galactic formation.",
+        "ko": "지구로부터 150만 킬로미터 떨어진 제2 태양-지구 라그랑주 점의 중력 평형점에 위치한 제임스 웹 우주망원경(JWST)은 관측 우주론의 교과서를 근본적으로 다시 썼습니다. 지름 6.5미터의 금으로 코팅된 분할 주경과 극저온으로 냉각된 적외선 관측 장비를 장착한 웹 망원경은, 빅뱅 직후 탄생한 최초의 발광 구조물이 방출하여 적색편이된 희미한 빛을 감지하도록 설계되었습니다. 지난 4년 동안 수신된 관측 결과는 은하 형성의 기존 이론 모델에 정면으로 도전하며 전 세계 천체물리학 연구자들을 경악시켰습니다.",
+        "sentences": [
+          {
+            "en": "Stationed 1.5 million kilometers away, the James Webb Space Telescope has fundamentally rewritten observational cosmology.",
+            "ko": "지구에서 150만 킬로미터 떨어진 곳에 위치한 제임스 웹 우주망원경은 관측 우주론을 근본적으로 다시 쓰고 있습니다."
+          },
+          {
+            "en": "Webb was engineered to detect the faint, redshifted glow of the earliest luminous structures formed after the Big Bang.",
+            "ko": "웹 망원경은 빅뱅 직후 생겨난 우주 최초의 천체들이 내뿜는 희미한 적색편이 빛을 포착하도록 설계되었습니다."
+          },
+          {
+            "en": "The observations returned have stunned researchers, directly contesting foundational models of galactic formation.",
+            "ko": "지금까지 관측된 결과들은 은하 형성에 관한 기존 표준 모델에 정면으로 도전하며 학계를 놀라게 했습니다."
+          }
+        ]
+      },
+      {
+        "en": "Prior to JWST, standard cosmological orthodoxy posited that the nascent universe grew hierarchically through gradual accretion, predicting that primordial galaxies formed during the first few hundred million years would appear small, diffuse, and sparsely populated with stars. Instead, Webb's deep-field spectroscopy has unveiled massive, luminous, and remarkably structured galaxies thriving merely 300 million years after the cosmic origin. Astrophysicists are actively debating whether these 'impossibly mature' structures imply higher star-formation efficiencies or the rapid collapse of primordial supermassive black holes that accelerated cosmic assembly.",
+        "ko": "JWST 이전의 표준 우주론 학설은 초기 우주가 점진적인 물질 강착을 통해 위계적으로 성장했다고 보았으며, 따라서 우주 탄생 후 수억 년 이내에 형성된 원시 은하들은 크기가 작고 희미하며 별들의 밀도가 낮을 것으로 예측했습니다. 그러나 웹의 심우주 분광 관측은 우주 기원 후 불과 3억 년 시점에 거대하고 밝으며 놀랍도록 체계적인 구조를 갖춘 은하들이 번성하고 있었음을 밝혀냈습니다. 천체물리학자들은 이처럼 '불가능할 정도로 성숙한' 구조들이 초기 별 형성 효율의 극적인 증가를 의미하는지, 아니면 원시 초대질량 블랙홀의 조기 붕괴가 은하 형성을 가속화했는지를 두고 열띤 논쟁을 벌이고 있습니다.",
+        "sentences": [
+          {
+            "en": "Prior to JWST, models predicted that primordial galaxies would appear small, diffuse, and sparsely populated.",
+            "ko": "JWST 이전의 표준 이론은 원시 은하들이 크기가 작고 희미하며 별의 밀도가 낮을 것이라고 예측했습니다."
+          },
+          {
+            "en": "Instead, Webb unveiled massive, luminous, and remarkably structured galaxies thriving merely 300 million years after the Big Bang.",
+            "ko": "그러나 웹 망원경은 빅뱅 후 불과 3억 년 시점에 이미 거대하고 밝게 빛나는 고도화된 은하들을 발견했습니다."
+          },
+          {
+            "en": "Astrophysicists are actively debating whether primordial black holes accelerated early cosmic assembly.",
+            "ko": "천체물리학자들은 초기 우주의 초대질량 블랙홀이 은하의 조기 탄생을 가속화했는지 여부를 활발히 논의 중입니다."
+          }
+        ]
+      },
+      {
+        "en": "Beyond peering back into deep cosmic time, Webb has achieved extraordinary milestones in characterizing the chemical atmospheres of nearby exoplanets. By capturing transmission spectra as temperate exoplanets transit in front of their host red dwarf stars, researchers have identified distinct atmospheric fingerprints of carbon dioxide, methane, sulfur dioxide, and water vapor. These delicate atmospheric measurements represent the vanguard of our technological quest to detect genuine biosignatures—chemical disequilibria that could betray the biological metabolism of extraterrestrial life.",
+        "ko": "먼 우주의 태초를 들여다보는 것을 넘어, 웹 망원경은 인근 외계행성의 대기 화학 성분을 분석하는 데 있어서도 경이로운 이정표를 달성했습니다. 온화한 기후의 외계행성이 중심 적색왜성 앞을 통과할 때의 투과 스펙트럼을 정밀 포착함으로써, 연구진은 이산화탄소, 메탄, 이산화황, 수증기의 뚜렷한 대기 화학 지문을 식별해 냈습니다. 이러한 정밀한 대기 측정은 외계 생명체의 생물학적 대사 활동을 암시하는 화학적 불균형, 즉 진정한 생체 지표(biosignature)를 찾아내기 위한 인류 과학 기술의 최전선을 대변하고 있습니다.",
+        "sentences": [
+          {
+            "en": "Beyond deep time, Webb has achieved extraordinary milestones in characterizing exoplanet atmospheres.",
+            "ko": "태초의 시간대를 관측하는 것 외에도 웹 망원경은 외계행성의 대기 화학 성분을 분석하는 놀라운 업적을 세웠습니다."
+          },
+          {
+            "en": "Researchers have identified distinct atmospheric fingerprints of carbon dioxide, methane, and water vapor.",
+            "ko": "연구원들은 이산화탄소, 메탄, 수증기 등 뚜렷한 대기 구성 분자들의 스펙트럼 지문을 확인했습니다."
+          },
+          {
+            "en": "These delicate measurements represent the vanguard of detecting genuine extraterrestrial biosignatures.",
+            "ko": "이 정교한 측정 기술은 외계 생명체의 생체 지표를 탐지하기 위한 인류 과학의 최전선입니다."
+          }
+        ]
+      },
+      {
+        "en": "The overarching legacy of the James Webb observatory is a profound epistemological humbling. By penetrating cosmic dust veils that blinded generations of ground-based and space telescopes, JWST has demonstrated that our models of the cosmos were incomplete approximations. In astrophysics, as in all empirical disciplines, the arrival of higher-resolution observational instruments does not merely confirm existing textbook theories; it illuminates an infinitely richer, more mysterious reality awaiting human comprehension.",
+        "ko": "제임스 웹 우주망원경이 남긴 가장 큰 유산은 우주에 대한 깊은 인식론적 겸허함입니다. 수세대에 걸친 지상 망원경과 기존 우주망원경의 시야를 가로막았던 성간 먼지 장막을 투과함으로써, JWST는 우리가 세웠던 우주 모델이 불완전한 근사치에 불과했음을 입증했습니다. 천체물리학에서뿐만 아니라 모든 실증 학문에서, 고해상도 관측 장비의 등장은 기존 교과서 이론을 단순히 확인하는 데 그치지 않고, 인류의 이해를 기다리는 훨씬 더 풍요롭고 신비로운 우주의 실체를 생생하게 밝혀줍니다.",
+        "sentences": [
+          {
+            "en": "The overarching legacy of the James Webb observatory is a profound epistemological humbling.",
+            "ko": "제임스 웹 천문대가 남긴 궁극적인 유산은 우주 앞에 서는 깊은 인식론적 겸허함입니다."
+          },
+          {
+            "en": "JWST demonstrated that previous models of cosmic evolution were incomplete approximations.",
+            "ko": "JWST는 이전의 우주 진화 모델들이 불완전한 추정에 불과했음을 명백히 보여주었습니다."
+          },
+          {
+            "en": "Higher-resolution instruments do not merely confirm textbooks; they illuminate an infinitely richer reality.",
+            "ko": "초정밀 관측 장비는 단순히 교과서를 확인하는 데 그치지 않고, 훨씬 더 경이로운 미지의 현실을 드러냅니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "제임스 웹 우주망원경(JWST)이 빅뱅 직후 3억 년 시점의 '불가능할 정도로 성숙한 은하'들을 발견하며 기존 표준 우주론을 뒤흔들었습니다.",
+      "외계행성의 통과 스펙트럼 분석을 통해 이산화탄소, 메탄, 수증기 등 대기 화학 성분을 정밀 포착하며 외계 생명체 탐사의 새 장을 열었습니다.",
+      "새로운 관측 도구의 등장이 기존 가설을 강화하기보다 인류의 지적 한계를 확장하고 새로운 과학적 패러다임을 연다는 점을 입증했습니다."
+    ],
+    "quiz": [
+      {
+        "question": "Where is the James Webb Space Telescope positioned for observational equilibrium?",
+        "options": [
+          "The second Sun-Earth Lagrange point (L2), 1.5 million km from Earth",
+          "In low Earth orbit alongside the ISS",
+          "Stationed on the lunar South Pole"
+        ],
+        "answer": 0,
+        "explanation": "JWST orbits the second Sun-Earth Lagrange point (L2), approximately 1.5 million kilometers from Earth."
+      },
+      {
+        "question": "What surprising early galaxy characteristic did JWST reveal that contradicted classical models?",
+        "options": [
+          "Massive, luminous, and well-structured galaxies merely 300 million years post-Big Bang",
+          "A completely empty universe devoid of all stars",
+          "Galaxies moving backward toward the singularity"
+        ],
+        "answer": 0,
+        "explanation": "Webb discovered unexpectedly massive and structured galaxies existing far earlier than hierarchical accretion models predicted."
+      }
+    ],
+    "wordCount": 310
+  },
+  {
+    "id": "sci-2",
+    "category": "science",
+    "level": "B2",
+    "title": "The Precision Genetic Revolution: Clinical Horizons and Epigenetic Frontiers of CRISPR",
+    "subtitle": "From ex vivo sickle cell breakthroughs to in vivo base editing: How molecular scissors are curing intractable diseases.",
+    "speaker": "Cellular Biotechnology / Global Science Review",
+    "date": "July 2026",
+    "readTime": "3 min",
+    "paragraphs": [
+      {
+        "en": "Gene editing has transitioned decisively from academic molecular biology laboratories into curative clinical medicine. The approval and real-world deployment of CRISPR-Cas9 therapies for sickle cell disease and beta-thalassemia marked a watershed moment in human therapeutics. Patients who historically endured debilitating chronic pain crises and frequent blood transfusions are now living free of symptoms, their defective hemoglobin genes permanently corrected at the hematopoietic stem cell level.",
+        "ko": "유전자 편집은 학술적인 분자생물학 실험실을 벗어나 난치병을 완치하는 임상 의학의 영역으로 결정적인 진입을 이뤘습니다. 겸상 적혈구 빈혈증과 베타 지중해빈혈에 대한 크리스퍼(CRISPR-Cas9) 유전자 치료제의 승인과 실제 환자 투여는 인류 치료학의 획기적인 분수령이 되었습니다. 평생 쇠약해지는 만성 통증과 잦은 수혈을 견뎌야 했던 환자들이 이제 증상 없이 살아가고 있으며, 조혈모세포 수준에서 결함이 있는 헤모글로빈 유전자가 영구적으로 교정되었습니다.",
+        "sentences": [
+          {
+            "en": "Gene editing has transitioned decisively from academic biology laboratories into curative clinical medicine.",
+            "ko": "유전자 편집 기술은 학술 연구실을 넘어 완치를 목표로 하는 임상 의학으로 확실하게 진화했습니다."
+          },
+          {
+            "en": "The deployment of CRISPR therapies for sickle cell disease marked a watershed moment in therapeutics.",
+            "ko": "겸상 적혈구 빈혈증에 대한 크리스퍼 치료제 상용화는 난치병 치료의 중대한 분수령이 되었습니다."
+          },
+          {
+            "en": "Defective hemoglobin genes are now permanently corrected at the stem cell level, freeing patients from pain.",
+            "ko": "결함이 있던 헤모글로빈 유전자가 줄기세포 수준에서 영구 교정되어 환자들을 고통에서 해방시키고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "The initial wave of therapies relied on ex vivo editing, where a patient's cells were harvested, engineered in a cleanroom bioreactor using viral or electroporation delivery, and subsequently infused back into the body following conditioning chemotherapy. Today, the frontier has accelerated toward in vivo gene editing. Using advanced lipid nanoparticles (LNPs) targeted to specific cell surface receptors, therapies are injected intravenously to directly correct pathological mutations inside human organs, most notably the liver, heart, and retinal tissues.",
+        "ko": "초기 유전자 치료제는 체외(ex vivo) 편집 방식에 의존했습니다. 이는 환자의 세포를 채취하여 무균 바이오리액터에서 바이러스나 전기천공법을 통해 유전자를 교정한 뒤, 전처치 항암 화학요법을 거쳐 체내에 다시 주입하는 방식이었습니다. 그러나 오늘날 기술의 최전선은 체내(in vivo) 유전자 편집으로 급속히 진화했습니다. 특정 세포 표면 수용체를 표적하는 정밀 지질 나노입자(LNP)를 활용하여, 정맥 주사를 통해 간, 심장, 망막 조직 내부의 병리학적 돌연변이를 체내에서 직접 교정할 수 있게 되었습니다.",
+        "sentences": [
+          {
+            "en": "Initial therapies relied on ex vivo editing, harvesting and engineering patient cells outside the body.",
+            "ko": "초기 치료법은 환자의 세포를 체외로 추출하여 배양실에서 유전자를 교정하는 방식에 의존했습니다."
+          },
+          {
+            "en": "Today, the frontier has accelerated toward in vivo editing via targeted lipid nanoparticles.",
+            "ko": "오늘날 치료 기술은 표적 지질 나노입자(LNP)를 통한 체내 직접 편집으로 가속화되었습니다."
+          },
+          {
+            "en": "Intravenous infusions now directly correct pathological mutations inside organs like the liver and retina.",
+            "ko": "정맥 주사를 통해 간이나 망막 등 체내 장기 세포의 유전 변이를 직접 교정하는 시대가 열렸습니다."
+          }
+        ]
+      },
+      {
+        "en": "Furthermore, precision has been dramatically amplified by the emergence of base editing and prime editing. While early CRISPR tools introduced double-stranded DNA breaks that carried risks of unintended insertions, deletions, or chromosomal translocations, base editors act as molecular pencils. They chemically convert individual nucleotide bases without cleaving the DNA backbone, virtually eliminating genomic scarring. Prime editing pushes this precision further, functioning as a search-and-replace word processor capable of correcting approximately ninety percent of known human pathogenic mutations.",
+        "ko": "나아가 염기 편집(Base editing)과 프라임 편집(Prime editing)의 등장으로 교정의 정밀도가 획기적으로 향상되었습니다. 초기 크리스퍼 도구는 DNA 이중 가닥을 완전히 절단하여 의도치 않은 유전자 결손이나 삽입, 염색체 전좌의 위험성을 내포하고 있었던 반면, 염기 편집기는 정밀한 '분자 연필'처럼 작동합니다. DNA 골격을 자르지 않고 단일 염기만을 화학적으로 치환함으로써 유전체 흉터의 발생을 원천 차단합니다. 프라임 편집은 정밀성을 더욱 높여 '찾아 바꾸기' 워드프로세서처럼 기능하며, 알려진 인간 유전성 질환 돌연변이의 약 90%를 교정할 수 있는 잠재력을 지니고 있습니다.",
+        "sentences": [
+          {
+            "en": "Precision has been amplified by the emergence of base editing and prime editing technologies.",
+            "ko": "염기 편집과 프라임 편집 기술의 등장으로 유전자 교정의 정밀성이 획기적으로 높아졌습니다."
+          },
+          {
+            "en": "Base editors chemically convert individual nucleotide bases without cleaving the DNA backbone.",
+            "ko": "염기 편집기는 DNA 이중 가닥을 자르지 않고 단일 염기만을 화학적으로 정밀 치환합니다."
+          },
+          {
+            "en": "Prime editing functions as a search-and-replace word processor capable of addressing ninety percent of known mutations.",
+            "ko": "프라임 편집은 '찾아 바꾸기' 기능처럼 작동하여 알려진 인간 유전 질환 돌연변이의 90%를 교정할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "Despite these breathtaking technological advances, formidable economic and bioethical questions loom. Commercial cell therapies currently command price tags exceeding two million dollars per patient, restricting access primarily to affluent healthcare systems. As somatic therapies advance into preventative medicine—such as permanently lowering cardiovascular risk by silencing cholesterol-regulating genes—society must navigate the precarious balance between life-saving therapeutic equity and the commercialization of genetic optimization.",
+        "ko": "이러한 눈부신 기술적 진보에도 불구하고 막대한 경제적, 생명윤리적 과제가 도사리고 있습니다. 현재 상용화된 유전자 치료제의 가격은 환자 1인당 200만 달러(약 27억 원)를 초과하여, 부유한 국가의 의료 체계에서만 주로 접근이 가능한 실정입니다. 나아가 체세포 치료가 콜레스테롤 조절 유전자를 영구 억제하여 심혈관 질환 위험을 낮추는 등 예방 의학 영역으로 확장됨에 따라, 인류는 생명을 구하는 치료적 형평성과 유전적 최적화의 상업화 사이에서 위태로운 균형점을 찾아야 합니다.",
+        "sentences": [
+          {
+            "en": "Commercial cell therapies currently command price tags exceeding two million dollars per patient.",
+            "ko": "상용화된 유전자 치료제는 환자당 200만 달러가 넘는 막대한 비용으로 치료 접근성 격차를 낳고 있습니다."
+          },
+          {
+            "en": "As somatic therapies expand into preventative medicine, society faces complex ethical debates.",
+            "ko": "체세포 치료가 심혈관 질환 예방 등 일상적 예방 의학으로 확장됨에 따라 윤리적 논쟁이 가열되고 있습니다."
+          },
+          {
+            "en": "Society must navigate the delicate balance between therapeutic equity and genetic commercialization.",
+            "ko": "인류 사회는 치료의 보편적 형평성과 유전적 상업화 사이에서 균형 있는 해법을 모색해야 합니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "크리스퍼 유전자 편집이 겸상 적혈구 빈혈증 등 난치성 희귀 질환의 완치 치료제로 승인되어 임상에 성공적으로 안착했습니다.",
+      "DNA 가닥을 절단하지 않는 '염기 편집'과 '프라임 편집' 기술이 발전하여 유전체 손상 위험 없이 90%의 질환 돌연변이 교정이 가능해졌습니다.",
+      "수십억 원에 달하는 치료 비용 장벽과 예방적 유전자 최적화에 대한 글로벌 생명윤리 기준 확립이 중요한 당면 과제입니다."
+    ],
+    "quiz": [
+      {
+        "question": "How do base editors differ fundamentally from first-generation CRISPR-Cas9 tools?",
+        "options": [
+          "They convert single nucleotides without double-stranded DNA breaks",
+          "They physically destroy the entire cell",
+          "They require radioactive isotopes for activation"
+        ],
+        "answer": 0,
+        "explanation": "Base editors alter specific nucleotide letters chemically without causing double-stranded DNA breaks, preventing genomic scarring."
+      },
+      {
+        "question": "What delivery vehicle enables in vivo gene editing directly inside human organs?",
+        "options": [
+          "Targeted lipid nanoparticles (LNPs)",
+          "Solid gold micro-needles",
+          "Synthetic glass capillaries"
+        ],
+        "answer": 0,
+        "explanation": "Targeted lipid nanoparticles (LNPs) encapsulate molecular editors and guide them directly into organ cells via intravenous infusion."
+      }
+    ],
+    "wordCount": 281
+  },
+  {
+    "id": "sci-3",
+    "category": "science",
+    "level": "B2",
+    "title": "Ocean Worlds of the Outer Solar System: Europa Clipper and the Search for Alien Life",
+    "subtitle": "Traversing radiation belts to analyze subsurface plumes and habitability beneath Jupiter's icy moon.",
+    "speaker": "Planetary Science Institute / NASA Frontiers",
+    "date": "July 2026",
+    "readTime": "3 min",
+    "paragraphs": [
+      {
+        "en": "The search for extraterrestrial biology in the solar system has shifted dramatically from the arid red deserts of Mars to the cryogenic ocean moons of the outer gas giants. Jupiter's moon Europa, encased in a global ice shell ten to twenty kilometers thick, conceals a subterranean liquid ocean containing more than twice the total volume of all Earth's oceans combined. Heated from within by tidal friction generated by Jupiter's colossal gravitational resonance, Europa represents our most promising biological oasis.",
+        "ko": "태양계 내 외계 생명체 탐사의 초점이 화성의 메마른 붉은 사막에서 외곽 거대 가스 행성 주위를 도는 극저온 바다 위성들로 극적인 이동을 마쳤습니다. 10~20킬로미터 두께의 전 행성적 얼음 껍질로 둘러싸인 목성의 위성 유로파(Europa)는 지구의 모든 바다를 합친 것보다 두 배 이상 많은 액체 바다를 얼음 표면 아래에 숨기고 있습니다. 목성의 거대한 중력 공명이 일으키는 조석 마찰열로 내부가 따뜻하게 유지되는 유로파는 인류에게 가장 유력한 생명체의 오아시스로 꼽힙니다.",
+        "sentences": [
+          {
+            "en": "The search for extraterrestrial biology has shifted from Mars to cryogenic outer ocean moons.",
+            "ko": "외계 생명체 탐사의 패러다임은 화성에서 외곽 태양계의 얼음 바다 위성들로 옮겨왔습니다."
+          },
+          {
+            "en": "Europa conceals a subterranean ocean containing more than twice the volume of Earth's oceans combined.",
+            "ko": "목성의 위성 유로파는 지구의 모든 바다를 합친 것보다 두 배가 넘는 액체 바다를 품고 있습니다."
+          },
+          {
+            "en": "Heated from within by tidal friction from Jupiter's gravity, Europa is a prime biological target.",
+            "ko": "목성의 중력이 유발하는 조석 마찰열로 데워지는 유로파는 외계 생명 탐사의 최우선 목표입니다."
+          }
+        ]
+      },
+      {
+        "en": "NASA's flagship Europa Clipper mission was engineered specifically to answer whether this dark abyssal environment possesses the fundamental ingredients for life: liquid water, essential chemical building blocks (carbon, hydrogen, nitrogen, oxygen, phosphorus, sulfur), and an enduring source of chemical energy. The spacecraft is executing dozens of low-altitude flybys, dipping within twenty-five kilometers of the fractured icy crust while enduring the punishing radiation belts of Jupiter's magnetosphere.",
+        "ko": "미 항공우주국(NASA)의 주력 탐사선인 유로파 클리퍼(Europa Clipper)는 이 어둡고 깊은 심해 환경이 생명체의 필수 3대 요소인 액체 상태의 물, 필수 화학 구성 요소(탄소, 수소, 질소, 산소, 인, 황), 그리고 지속적인 화학 에너지원을 갖추고 있는지를 규명하기 위해 특수 제작되었습니다. 탐사선은 목성 자기장의 가혹한 방사선대를 견뎌내면서, 갈라진 얼음 지각 위 25킬로미터 고도까지 초근접하는 수십 차례의 저고도 플라이바이(근접 비행)를 수행하고 있습니다.",
+        "sentences": [
+          {
+            "en": "NASA's Europa Clipper mission was engineered to determine if Europa possesses the ingredients for life.",
+            "ko": "NASA의 유로파 클리퍼 미션은 유로파가 생명체의 필수 조건을 갖추고 있는지 밝히기 위해 설계되었습니다."
+          },
+          {
+            "en": "Key requirements include liquid water, chemical building blocks, and an enduring source of chemical energy.",
+            "ko": "필수 요건에는 액체 상태의 물, 생명 구성 원소, 그리고 지속적인 화학 에너지 공급원이 포함됩니다."
+          },
+          {
+            "en": "The spacecraft executes dozens of low-altitude flybys within twenty-five kilometers of the icy crust.",
+            "ko": "탐사선은 얼음 지각 상공 25킬로미터까지 초근접하는 수십 차례의 플라이바이를 감행합니다."
+          }
+        ]
+      },
+      {
+        "en": "Equipped with ice-penetrating radar, surface dust analyzers, and mass spectrometers, the orbiter samples cryovolcanic plumes venting ocean vapor into the vacuum of space. By analyzing the organic complexity of ejected water-ice grains without requiring risky lander touch-downs on the chaotic terrain, scientists can reconstruct the geothermal chemistry of hydrothermal vents suspected to bubble upon Europa's silicate seafloor.",
+        "ko": "얼음 침투 레이더, 표면 먼지 분석기, 고분해능 질량 분석기를 탑재한 탐사선은 우주의 진공 속으로 바다 수증기를 뿜어내는 얼음 화산 분출물(플룸)을 직접 채취해 분석합니다. 험난한 얼음 지형에 착륙선을 착륙시키는 위험을 감수하지 않고도 우주로 분출된 얼음 알갱이의 유기물 복잡성을 분석함으로써, 과학자들은 유로파의 규산염 해저 바닥에서 솟구치는 열수구의 지구화학적 환경을 정확히 재구성할 수 있습니다.",
+        "sentences": [
+          {
+            "en": "Equipped with ice-penetrating radar and mass spectrometers, the orbiter samples cryovolcanic plumes.",
+            "ko": "얼음 침투 레이더와 질량 분석기를 장착한 탐사선은 우주로 뿜어지는 얼음 분출물을 포착합니다."
+          },
+          {
+            "en": "Scientists analyze organic molecules in ejected grains without requiring hazardous surface landings.",
+            "ko": "위험한 착륙 없이도 분출된 알갱이 속의 유기 분자를 분석해 심해의 화학적 구성을 파악합니다."
+          },
+          {
+            "en": "Data reconstructs the geochemical environment of hydrothermal vents on Europa's seafloor.",
+            "ko": "이 데이터를 통해 유로파 규산염 해저 바닥에 존재할 것으로 추정되는 열수구 환경을 복원합니다."
+          }
+        ]
+      },
+      {
+        "en": "The confirmation of even microbial life flourishing in Europa's pitch-black ocean would signify a monumental turning point in human intellectual history. It would demonstrate that life is not an idiosyncratic terrestrial accident, but a universal cosmic imperative that emerges wherever thermodynamic gradients and liquid water persist. As the Clipper relays its findings, humanity stands upon the threshold of answering the eternal question: Are we alone in the universe?",
+        "ko": "유로파의 칠흑 같은 심해에서 단세포 미생물 수준의 생명체라도 번성하고 있다는 사실이 확인된다면, 이는 인류 지성사에 기념비적인 대전환점이 될 것입니다. 그것은 생명이 지구라는 행성에서만 일어난 우연한 기적이 아니라, 열역학적 에너지와 액체 상태의 물이 존재하는 곳이라면 우주 어디에서나 필연적으로 피어나는 보편적 현상임을 증명하는 일이기 때문입니다. 클리퍼 탐사선이 전송할 데이터를 기다리며, 인류는 영원한 질문의 문턱에 서 있습니다. '우리는 우주에서 과연 혼자인가?'",
+        "sentences": [
+          {
+            "en": "The confirmation of microbial life in Europa's ocean would mark a monumental turning point in intellectual history.",
+            "ko": "유로파 심해에서 미생물 생명체가 확인된다면 인류 지성사에 거대한 분수령이 될 것입니다."
+          },
+          {
+            "en": "It would prove that life is not a terrestrial accident, but a universal cosmic phenomenon.",
+            "ko": "생명은 지구만의 우연한 사고가 아니라 우주 곳곳에서 탄생하는 보편적 법칙임을 입증하게 됩니다."
+          },
+          {
+            "en": "Humanity stands on the threshold of answering whether we are truly alone in the universe.",
+            "ko": "인류는 마침내 우리가 우주에서 홀로 존재하는가라는 근원적 질문의 해답 앞에 서 있습니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "외계 생명체 탐사의 중심이 화성에서 표면 아래 거대한 액체 바다를 품은 목성의 위성 유로파로 이동했습니다.",
+      "NASA 유로파 클리퍼 탐사선이 저고도 근접 비행을 통해 우주로 분출되는 수증기 플룸의 유기 화합물을 분석하고 있습니다.",
+      "유로파 해저 열수구에서 미생물이 확인된다면, 생명이 지구에만 국한되지 않는 우주의 보편적 법칙임을 증명하게 됩니다."
+    ],
+    "quiz": [
+      {
+        "question": "What primary geological feature makes Europa a prime candidate for extraterrestrial biology?",
+        "options": [
+          "A vast subsurface liquid water ocean beneath its global ice shell",
+          "An atmosphere composed entirely of pure oxygen",
+          "Active volcanic lava rivers covering its surface"
+        ],
+        "answer": 0,
+        "explanation": "Europa conceals a massive subsurface liquid ocean containing over twice the water volume of Earth's oceans combined."
+      },
+      {
+        "question": "How does Europa Clipper sample Europa's subterranean ocean without landing on the ice?",
+        "options": [
+          "By flying through and analyzing cryovolcanic plumes vented into space",
+          "By shooting deep-core nuclear torpedoes",
+          "By using optical lasers to melt surface trenches"
+        ],
+        "answer": 0,
+        "explanation": "Clipper uses mass spectrometers to sample water-ice grains ejected into space through cryovolcanic vapor plumes."
+      }
+    ],
+    "wordCount": 270
+  },
+  {
+    "id": "econ-1",
+    "category": "economy",
+    "level": "B2",
+    "title": "Global Monetary Policy in Transition: Navigating Central Bank Easing and Fiscal Headwinds",
+    "subtitle": "Interest rate normalization, stubborn services inflation, and sovereign debt pressures reshape global markets.",
+    "speaker": "Financial Times / Macroeconomics Review",
+    "date": "August 2026",
+    "readTime": "3 min",
+    "paragraphs": [
+      {
+        "en": "Global central banks are executing one of the most consequential policy pivots in modern macroeconomic history. Following the aggressive synchronized rate-hiking campaign deployed to crush post-pandemic inflation spikes, monetary authorities led by the Federal Reserve, the European Central Bank, and the Bank of England have embarked on coordinated easing cycles. However, unlike the zero-interest-rate environment that characterized the previous decade, policymakers are navigating a fragmented economic landscape defined by persistent services inflation and historic fiscal deficits.",
+        "ko": "전 세계 중앙은행들은 현대 거시경제 역사상 가장 중대한 정책 전환을 실행하고 있습니다. 팬데믹 이후 치솟았던 인플레이션을 꺾기 위해 전개했던 공격적인 긴축 금리 인상 공세에 이어, 미국 연방준비제도(Fed)와 유럽중앙은행(ECB), 영란은행(BOE)을 필두로 한 통화 당국들이 조율된 금리 인하 사이클에 착수했습니다. 그러나 지난 10년을 지배했던 초저금리 환경과 달리, 정책 입안자들은 끈적한 서비스 인플레이션과 역사적인 재정 적자로 정의되는 파편화된 경제 지형을 헤쳐 나가고 있습니다.",
+        "sentences": [
+          {
+            "en": "Global central banks are executing a consequential policy pivot toward monetary easing.",
+            "ko": "전 세계 중앙은행들은 통화 완화를 향한 중대한 정책적 피벗(방향 전환)을 실행하고 있습니다."
+          },
+          {
+            "en": "Following aggressive rate-hiking campaigns, authorities are synchronizing gradual rate cuts.",
+            "ko": "공격적인 금리 인상에 이어 주요 통화 당국은 점진적인 금리 인하 국면에 돌입했습니다."
+          },
+          {
+            "en": "Unlike the previous decade of zero rates, policymakers navigate persistent services inflation and fiscal deficits.",
+            "ko": "과거의 제로금리 시대와 달리 정책 당국은 끈질긴 서비스 물가와 막대한 재정 적자에 직면해 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "The transition poses delicate tradeoffs for currency valuation, cross-border capital flows, and sovereign bond yields. While lower borrowing costs provide much-needed breathing room for commercial real estate developers, heavily indebted corporate borrowers, and mortgage holders, they risk rekindling underlying price pressures. In the United States and Europe, robust wage growth in labor-intensive service industries has created a structural inflation floor, preventing consumer price indices from settling neatly at central banks' two percent targets.",
+        "ko": "이러한 전환은 환율 가치, 국경 간 자본 이동, 국채 수익률에 미묘한 딜레마를 안겨줍니다. 차입 비용의 하락은 상업용 부동산 개발업체, 부채 부담이 큰 기업, 주택담보대출 차주들에게 절실한 숨통을 틔워주지만, 동시에 잠재적인 물가 상승 압력을 다시 자극할 위험을 내포하고 있습니다. 미국과 유럽의 경우, 노동 집약적인 서비스 산업에서의 견조한 임금 상승세가 구조적인 인플레이션 하한선을 형성하여, 소비자물가지수가 중앙은행의 목표치인 2%에 안정적으로 도달하는 것을 방해하고 있습니다.",
+        "sentences": [
+          {
+            "en": "The policy shift poses delicate tradeoffs for currency valuations and sovereign bond yields.",
+            "ko": "통화 정책의 변화는 환율과 국채 금리에 복합적인 상충 관계를 불러일으킵니다."
+          },
+          {
+            "en": "Lower borrowing costs relieve indebted corporations and mortgage holders but risk reigniting inflation.",
+            "ko": "대출 금리 인하는 부채가 많은 기업과 가계에 숨통을 틔워주지만 인플레이션을 재점화할 위험이 있습니다."
+          },
+          {
+            "en": "Robust wage growth in service industries creates a structural inflation floor above target levels.",
+            "ko": "서비스 부문의 강력한 임금 상승세는 물가 하락을 제한하는 구조적 하한선으로 작용하고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "Simultaneously, sovereign debt trajectories across the G7 economies have reached peacetime records. Decades of deficit spending, compounded by industrial subsidies for semiconductor manufacturing and clean energy transitions, have pushed debt-to-GDP ratios well beyond historical comfort levels. Bond vigilantes in fixed-income markets are exerting discipline, demanding higher term premiums for holding long-duration government bonds, thereby steepening yield curves even as policy benchmark rates decline.",
+        "ko": "이와 동시에 G7 주요 선진국의 국가 부채 비율은 평시 역사상 최고치를 경신했습니다. 수십 년간 누적된 재정 적자 지출에 반도체 제조 및 청정에너지 전환을 위한 천문학적인 산업 보조금이 더해지면서, GDP 대비 국가 부채 비율은 역사적 안정 범위를 훌쩍 넘어섰습니다. 채권 시장의 자경단(Bond vigilantes)은 장기 국채 보유에 대해 더 높은 기간 프리미엄을 요구하며 정부를 압박하고 있으며, 이로 인해 기준금리가 인하됨에도 불구하고 장기 금리가 오르는 수익률 곡선 스티프닝 현상이 나타나고 있습니다.",
+        "sentences": [
+          {
+            "en": "Sovereign debt trajectories across G7 economies have reached peacetime records.",
+            "ko": "G7 선진국의 국가 부채 수준은 전시가 아닌 평시 기준으로 사상 최고치에 달했습니다."
+          },
+          {
+            "en": "Industrial subsidies for semiconductors and green energy have expanded sovereign fiscal deficits.",
+            "ko": "반도체와 친환경 에너지에 대한 막대한 보조금 지급은 각국 정부의 재정 적자를 크게 확대시켰습니다."
+          },
+          {
+            "en": "Bond markets demand higher term premiums, steepening yield curves despite central bank rate cuts.",
+            "ko": "채권 시장은 더 높은 기간 프리미엄을 요구하며, 기준금리 인하에도 불구하고 장기 금리를 끌어올리고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "For international business strategists and institutional asset allocators, the era of predictable, synchronized macroeconomic cycles is over. Corporate leaders must navigate divergent currency trends, fragmented geopolitical supply networks, and higher structural hurdle rates for long-term capital investments. In this higher-for-longer regime, capital discipline, operational resilience, and balance sheet strength have once again become the paramount determinants of enterprise survival.",
+        "ko": "글로벌 비즈니스 전략가와 기관 투자자들에게 예측 가능하고 동조화되었던 과거의 거시경제 사이클은 완전히 끝났습니다. 기업 지도자들은 엇갈리는 환율 추세, 파편화된 지정학적 공급망, 장기 자본 투자를 위한 높아진 기준 수익률(hurdle rate) 속에서 회사를 이끌어야 합니다. 금리가 구조적으로 높은 수준을 유지하는 새로운 정상화(New Normal) 체제에서는 철저한 자본 규율, 운영 복원력, 그리고 튼튼한 대차대조표가 기업 생존을 가르는 가장 결정적인 요인으로 다시 부상했습니다.",
+        "sentences": [
+          {
+            "en": "The era of predictable, synchronized macroeconomic cycles has officially ended.",
+            "ko": "예측 가능하고 일관되게 동조화되었던 거시경제 사이클의 시대는 공식적으로 막을 내렸습니다."
+          },
+          {
+            "en": "Corporate leaders must navigate divergent currencies and higher structural investment hurdle rates.",
+            "ko": "기업 경영진은 엇갈리는 환율 변동과 한층 높아진 투자 기준 수익률을 돌파해야 합니다."
+          },
+          {
+            "en": "Capital discipline, resilience, and balance sheet strength are once again the paramount determinants of enterprise survival.",
+            "ko": "자본 규율과 위기 극복 능력, 탄탄한 재무 건전성이 기업 생존의 핵심 열쇠로 다시 자리 잡았습니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 중앙은행들이 긴축에서 금리 인하로 피벗을 단행했으나, 끈적한 서비스 물가로 인해 과거의 초저금리로 돌아가기는 어렵습니다.",
+      "선진국들의 국가 부채 급증으로 채권 시장의 기간 프리미엄이 상승하여 기준금리 인하에도 장기 금리가 고공행진하는 현상이 발생하고 있습니다.",
+      "기업들은 높아진 자본 비용과 공급망 분절화 속에서 생존하기 위해 철저한 재무 건전성과 자본 규율을 갖추어야 합니다."
+    ],
+    "quiz": [
+      {
+        "question": "What structural factor prevents inflation from dropping swiftly to central banks' 2% targets?",
+        "options": [
+          "Persistent wage growth in labor-intensive services",
+          "A complete global collapse in fossil fuel demand",
+          "Massive drops in worldwide housing rents"
+        ],
+        "answer": 0,
+        "explanation": "Sticky wage inflation in labor-intensive service industries acts as a structural floor resisting rapid price declines."
+      },
+      {
+        "question": "Why are long-term bond yields remaining elevated despite central bank benchmark rate cuts?",
+        "options": [
+          "Investors demand higher term premiums due to massive sovereign debt issuance",
+          "Central banks have completely stopped issuing money",
+          "All international banks have gone bankrupt"
+        ],
+        "answer": 0,
+        "explanation": "Bond markets demand higher term premiums to absorb historic levels of sovereign peacetime debt deficits."
+      }
+    ],
+    "wordCount": 271
+  },
+  {
+    "id": "econ-2",
+    "category": "economy",
+    "level": "C1",
+    "title": "The Geopolitics of Semiconductor Fabrication: Subsidies, Foundries, and the Silicon Frontier",
+    "subtitle": "CHIPS acts, advanced packaging, and supply chain resilience: The trillion-dollar battle for technological sovereignty.",
+    "speaker": "The Economist / Global Industrial Policy",
+    "date": "July 2026",
+    "readTime": "3 min",
+    "paragraphs": [
+      {
+        "en": "Semiconductors have cemented their status as the apex strategic commodity of the twenty-first century. Often dubbed the 'crude oil of the modern digital economy,' sub-two-nanometer integrated circuits are the indispensable engines powering generative artificial intelligence, hypersonic defense avionics, autonomous navigation, and high-performance computing. Consequently, the global semiconductor supply chain—historically optimized for hyper-efficient geographic concentration—is being forcibly restructured along geopolitical contours.",
+        "ko": "반도체는 21세기 가장 중요한 전략 핵심 물자로 확고히 자리 잡았습니다. 흔히 '현대 디지털 경제의 원유'로 불리는 2나노미터 이하의 초미세 집적회로는 생성형 인공지능, 극초음속 국방 항공전자, 자율주행 내비게이션, 고성능 컴퓨팅을 구동하는 데 없어서는 안 될 핵심 엔진입니다. 그 결과, 역사적으로 고도의 지리적 집적과 효율성에 맞춰 최적화되었던 글로벌 반도체 공급망은 지정학적 경계선을 따라 전면적인 재편을 강요받고 있습니다.",
+        "sentences": [
+          {
+            "en": "Semiconductors have cemented their status as the apex strategic commodity of the modern century.",
+            "ko": "반도체는 현대 21세기 가장 중요한 최고 전략 물자로 확실히 자리매김했습니다."
+          },
+          {
+            "en": "Advanced integrated circuits are indispensable engines powering generative AI and defense avionics.",
+            "ko": "최첨단 집적회로는 생성형 AI와 첨단 국방 기술을 구동하는 필수적인 심장부입니다."
+          },
+          {
+            "en": "The global semiconductor supply chain is being forcibly restructured along geopolitical contours.",
+            "ko": "글로벌 반도체 공급망은 국가 간 지정학적 경계를 따라 급격하게 재편되고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "For decades, manufacturing capacity congregated predominantly in East Asia, with Taiwan and South Korea accounting for over eighty percent of global leading-edge foundry fabrication. While this geographic clustering yielded unprecedented economies of scale and lightning-fast process iterations, it introduced severe supply chain vulnerabilities. Natural disasters, geopolitical friction across the Taiwan Strait, or maritime chokepoint disruptions threatened to plunge the worldwide electronics industry into paralyzing chip famines.",
+        "ko": "수십 년 동안 반도체 제조 역량은 동아시아에 압도적으로 집중되어, 대만과 한국이 전 세계 최첨단 파운드리 생산의 80% 이상을 점유해 왔습니다. 이러한 지리적 집적은 전례 없는 규모의 경제와 눈부신 공정 혁신을 낳았지만, 동시에 치명적인 공급망 취약성을 야기했습니다. 자연재해, 대만 해협을 둘러싼 지정학적 긴장, 해상 물류 병목 현상은 글로벌 전자 산업 전체를 마비시키는 칩 기근 사태로 몰아넣을 잠재적 위험을 상시 품고 있었습니다.",
+        "sentences": [
+          {
+            "en": "For decades, manufacturing capacity congregated with Taiwan and South Korea dominating advanced fabrication.",
+            "ko": "수십 년간 대만과 한국이 첨단 반도체 파운드리 생산의 대부분을 지배해 왔습니다."
+          },
+          {
+            "en": "Geographic clustering yielded economies of scale but introduced acute systemic vulnerabilities.",
+            "ko": "지리적 집중은 규모의 경제를 창출했으나 심각한 시스템적 공급망 취약점을 낳았습니다."
+          },
+          {
+            "en": "Geopolitical friction or maritime disruptions threatened worldwide industrial shutdowns.",
+            "ko": "지정학적 분쟁이나 해상 물류 차질은 전 세계 제조업 셧다운을 위협하는 위험 요인이었습니다."
+          }
+        ]
+      },
+      {
+        "en": "In response, sovereign governments in North America, Europe, and Asia have mobilized hundreds of billions of dollars in public capital through landmark industrial legislation such as the U.S. CHIPS and Science Act and the European Chips Act. These state-backed initiatives provide direct subsidies, investment tax credits, and infrastructure guarantees to incentivize global chipmakers—such as TSMC, Samsung, and Intel—to construct mega-fabs domestically. However, establishing cutting-edge semiconductor ecosystems on foreign soil has exposed acute structural headwinds: exorbitant construction costs, chronic shortages of specialized cleanroom technicians, and complex cross-border regulatory compliance.",
+        "ko": "이에 대응하여 북미, 유럽, 아시아 각국 정부는 미국 칩스법(CHIPS Act)과 유럽 반도체법과 같은 획기적인 산업 육성 법안을 통해 수천억 달러에 달하는 공적 자금을 투입하고 있습니다. 이러한 국가 차원의 이니셔티브는 TSMC, 삼성전자, 인텔과 같은 글로벌 칩 제조업체들이 자국 영토 내에 메가 팹(대규모 공장)을 짓도록 장려하기 위해 직접 보조금, 투자 세액 공제, 인프라 지원을 제공합니다. 그러나 해외에 최첨단 반도체 생태계를 구축하는 과정은 막대한 건설 비용, 전문 클린룸 기술 인력의 만성적 부족, 복잡한 다국적 규제 준수라는 혹독한 구조적 난관에 부딪히고 있습니다.",
+        "sentences": [
+          {
+            "en": "Governments have mobilized hundreds of billions of dollars through landmark industrial legislation like the CHIPS Act.",
+            "ko": "각국 정부는 칩스법 등 파격적인 산업 정책을 통해 수천억 달러의 보조금을 쏟아붓고 있습니다."
+          },
+          {
+            "en": "Direct subsidies incentivize global foundries to construct state-of-the-art domestic mega-fabs.",
+            "ko": "직접 보조금을 지급하여 글로벌 파운드리들이 자국 내에 최첨단 대형 공장을 짓도록 유도하고 있습니다."
+          },
+          {
+            "en": "Building fabs on foreign soil has exposed high construction costs and shortages of specialized talent.",
+            "ko": "해외 팹 건설은 천문학적인 건설비와 반도체 전문 인력 부족이라는 거대한 장벽에 직면해 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "Simultaneously, the competitive battleground is shifting toward advanced 3D packaging and extreme ultraviolet (EUV) lithography equipment. As physical transistor scaling nears atomic quantum limits, performance gains are increasingly unlocked by stacking logic and High Bandwidth Memory (HBM) vertically using silicon interposers. The mastery of these advanced packaging technologies, alongside domestic chemical precursor supply chains, will determine which nations preserve economic sovereignty and technological primacy in the artificial intelligence century.",
+        "ko": "동시에 경쟁의 격전지는 첨단 3D 패키징과 극자외선(EUV) 노광 장비로 이동하고 있습니다. 물리적 트랜지스터 미세화가 원자 단위의 양자역학적 한계에 다다름에 따라, 실리콘 인터포저를 활용하여 연산 로직과 고대역폭 메모리(HBM)를 수직으로 적층하는 패키징 기술을 통해 성능 혁신이 이루어지고 있습니다. 반도체 특수가스 및 핵심 소재의 안정적 공급망과 더불어 이러한 첨단 패키징 기술을 지배하는 국가가 인공지능 시대의 경제 주권과 기술 패권을 장악하게 될 것입니다.",
+        "sentences": [
+          {
+            "en": "The competitive battleground is shifting toward advanced 3D packaging and EUV lithography.",
+            "ko": "기술 패권의 승부처는 이제 첨단 3D 패키징과 EUV 노광 장비 분야로 이동하고 있습니다."
+          },
+          {
+            "en": "Performance gains are unlocked by stacking logic and High Bandwidth Memory vertically.",
+            "ko": "연산 칩과 고대역폭 메모리(HBM)를 수직으로 쌓아 올림으로써 물리적 한계를 뛰어넘는 성능을 냅니다."
+          },
+          {
+            "en": "Mastery of advanced packaging will determine technological primacy in the artificial intelligence century.",
+            "ko": "첨단 패키징 기술의 장악 여부가 인공지능 시대의 글로벌 기술 패권을 최종 결정할 것입니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "반도체가 21세기 디지털 경제와 국방의 최고 전략 물자로 격상되며 글로벌 공급망의 지정학적 재편이 가속화되고 있습니다.",
+      "미국과 유럽이 칩스법을 통해 수천억 달러 보조금을 지급하며 팹 자국화를 추진 중이나, 고비용과 전문 인력 부족이라는 과제에 직면해 있습니다.",
+      "미세화 한계를 돌파하기 위한 고대역폭 메모리(HBM) 및 3D 첨단 패키징 역량이 AI 시대 기술 주권의 핵심 열쇠로 떠올랐습니다."
+    ],
+    "quiz": [
+      {
+        "question": "What technological innovation has become critical to circumvent physical transistor scaling limits?",
+        "options": [
+          "Advanced 3D packaging and vertical HBM stacking",
+          "Returning to vacuum tubes",
+          "Eliminating silicon interposers entirely"
+        ],
+        "answer": 0,
+        "explanation": "Advanced 3D packaging and vertically stacking logic with High Bandwidth Memory (HBM) unlock performance beyond traditional planar scaling."
+      },
+      {
+        "question": "What primary vulnerability led nations to enact domestic semiconductor legislation?",
+        "options": [
+          "Extreme geographic concentration of advanced fabrication in East Asia",
+          "Excessive oversupply of free memory chips",
+          "Global decline in personal computer usage"
+        ],
+        "answer": 0,
+        "explanation": "Over 80% of leading-edge foundry fabrication was concentrated in East Asia, creating acute systemic supply chain risks."
+      }
+    ],
+    "wordCount": 283
+  },
+  {
+    "id": "sports-1",
+    "category": "sports",
+    "level": "B2",
+    "title": "The Algorithmic Pitch: How Spatial Tracking and AI Analytics Are Redefining Global Football",
+    "subtitle": "Computer vision, expected threat models, and real-time tactical geometry transform the world's most popular sport.",
+    "speaker": "The Athletic / Sports Science Quarterly",
+    "date": "August 2026",
+    "readTime": "3 min",
+    "paragraphs": [
+      {
+        "en": "Association football, traditionally venerated as an intuitive art form driven by human flair and instinctive improvisation, is undergoing an irreversible mathematical revolution. Elite European clubs competing in the UEFA Champions League and English Premier League now deploy state-of-the-art optical tracking systems and computer vision algorithms capable of capturing twenty-nine skeletal data points per player at fifty frames per second. The resulting firehose of spatiotemporal data has fundamentally altered how matches are planned, analyzed, and won.",
+        "ko": "인간의 타고난 번뜩임과 본능적인 즉흥성에 의해 지배되는 직관의 예술로 오랫동안 칭송받아 온 축구가 돌이킬 수 없는 수학적 혁명을 겪고 있습니다. UEFA 챔피언스리그와 잉글랜드 프리미어리그에서 경쟁하는 유럽 명문 구단들은 이제 초당 50프레임의 속도로 선수당 29개의 골격 관절 좌표를 추적할 수 있는 최첨단 광학 추적 시스템과 컴퓨터 비전 알고리즘을 실시간으로 가동하고 있습니다. 이렇게 쏟아지는 시공간 데이터는 경기 전술이 수립되고, 분석되며, 승리를 쟁취하는 방식을 근본적으로 바꾸어 놓았습니다.",
+        "sentences": [
+          {
+            "en": "Association football is undergoing an irreversible mathematical and algorithmic revolution.",
+            "ko": "축구는 돌이킬 수 없는 수학적이고 알고리즘적인 전술 혁명을 겪고 있습니다."
+          },
+          {
+            "en": "Elite clubs deploy optical tracking capturing twenty-nine skeletal data points per player at fifty frames per second.",
+            "ko": "명문 클럽들은 초당 50프레임으로 선수당 29개의 골격 관절 데이터를 추적하는 광학 시스템을 가동합니다."
+          },
+          {
+            "en": "Spatiotemporal data has fundamentally altered how matches are planned, analyzed, and won.",
+            "ko": "이 방대한 시공간 데이터는 경기를 분석하고 승리 전략을 짜는 방식을 근본적으로 뒤바꿨습니다."
+          }
+        ]
+      },
+      {
+        "en": "The analytical vanguard has expanded far beyond rudimentary statistics such as possession percentage and pass completion rates. Advanced metrics such as Expected Goals (xG), Expected Threat (xT), and Pitch Control models measure how effectively a team manipulates defensive spatial geometry. Algorithms quantify the probability of an offensive possession culminating in a score from any coordinate on the pitch, enabling managers to design high-probability passing sequences and optimize defensive pressing triggers with mathematical precision.",
+        "ko": "데이터 분석의 최전선은 점유율이나 패스 성공률과 같은 원초적인 통계를 아득히 넘어섰습니다. 기대 득점(xG), 기대 위협도(xT), 피치 컨트롤(Pitch Control) 모델과 같은 고도화된 지표는 한 팀이 상대의 수비 공간 기하학을 얼마나 효과적으로 흔들고 통제하는지를 정밀 측정합니다. 알고리즘은 경기장 내 모든 위치에서 공격 전개가 득점으로 연결될 확률을 수학적으로 정량화하여, 감독들이 확률 높은 패스 경로를 설계하고 상대 압박의 타이밍을 수학적 정확성으로 최적화할 수 있도록 지원합니다.",
+        "sentences": [
+          {
+            "en": "The analytical vanguard has expanded far beyond possession percentage and pass counts.",
+            "ko": "현대 축구 분석은 단순 점유율이나 패스 횟수를 훌쩍 뛰어넘는 수준으로 발전했습니다."
+          },
+          {
+            "en": "Metrics like Expected Goals and Pitch Control quantify how teams manipulate defensive spatial geometry.",
+            "ko": "기대 득점(xG)과 피치 컨트롤 지표는 팀이 수비 공간을 어떻게 공략하는지를 정량화합니다."
+          },
+          {
+            "en": "Managers design high-probability passing sequences and pressing triggers with mathematical precision.",
+            "ko": "지도자들은 득점 확률이 극대화되는 패스 경로와 전방 압박 타이밍을 정밀 설계합니다."
+          }
+        ]
+      },
+      {
+        "en": "This empirical revolution extends directly into recruitment, talent scouting, and biometric injury prevention. Rather than relying solely on subjective subjective scout impressions, sporting directors utilize machine learning models to identify undervalued talent across secondary global leagues. Wearable biometric telemetry continuously monitors cardiac strain, muscular acceleration loads, and metabolic output during training, enabling sports medicine staffs to intervene and adjust workloads before acute hamstring tears or ligament sprains occur.",
+        "ko": "이러한 실증적 데이터 혁명은 선수 영입과 유망주 스카우팅, 생체 역학적 부상 예방 분야로도 직결됩니다. 스카우트의 주관적인 직관에만 의존하던 과거와 달리, 스포츠 디렉터들은 머신러닝 모델을 활용하여 전 세계 하부 리그에서 저평가된 진주 같은 인재들을 발굴합니다. 훈련 중 선수들이 착용하는 웨어러블 텔레메트리 장비는 심폐 부하, 근육 가속 부하, 대사 소모량을 쉼 없이 모니터링하여, 햄스트링 파열이나 인대 염좌 같은 치명적 부상이 발생하기 전에 의료진이 훈련량을 선제적으로 조절하도록 돕습니다.",
+        "sentences": [
+          {
+            "en": "The empirical revolution extends into recruitment, talent scouting, and biometric injury prevention.",
+            "ko": "이 데이터 혁명은 스카우트와 선수 영입, 생체 역학 기반의 부상 방지로 직결됩니다."
+          },
+          {
+            "en": "Sporting directors utilize machine learning to identify undervalued talent across global leagues.",
+            "ko": "구단들은 머신러닝 모델을 통해 전 세계 리그에서 저평가된 알짜배기 유망주를 발굴합니다."
+          },
+          {
+            "en": "Wearable telemetry monitors muscular loads, allowing medical staff to prevent soft-tissue tears proactively.",
+            "ko": "웨어러블 센서가 근육 부하를 실시간 모니터링하여 치명적인 근육 부상을 사전에 차단합니다."
+          }
+        ]
+      },
+      {
+        "en": "Yet, the quantitative transformation has ignited fervent philosophical debates regarding the romantic soul of the beautiful game. Traditionalists argue that algorithmic micromanagement risks homogenizing creative play, curbing eccentric individual dribblers in favor of sterile passing networks that maximize possession safety. Nevertheless, elite tacticians counter that spatial data does not suppress individual genius; rather, it creates the structural platforms that allow genuine creative brilliance to shine with devastating efficiency.",
+        "ko": "그러나 이러한 계량적 혁신은 '아름다운 게임'이라 불리는 축구의 낭만적 영혼을 둘러싼 뜨거운 철학적 논쟁을 촉발했습니다. 전통주의자들은 알고리즘에 의한 극단적인 통제가 축구의 창의성을 획일화하고, 번뜩이는 개인기를 선보이는 드리블러들을 위축시키며 오직 볼 소유 안전성만을 극대화하는 메마른 패스 게임을 낳는다고 비판합니다. 그럼에도 정상급 전술가들은 공간 데이터가 개인의 천재성을 억압하는 것이 아니라, 진정한 창의적 번뜩임이 파괴적인 효율성으로 폭발할 수 있는 구조적 무대를 만들어주는 것이라고 반박합니다.",
+        "sentences": [
+          {
+            "en": "The quantitative transformation has ignited debates regarding the romantic soul of the beautiful game.",
+            "ko": "정량적 데이터 분석의 확산은 축구의 낭만적 본질을 둘러싼 뜨거운 논쟁을 불러왔습니다."
+          },
+          {
+            "en": "Critics argue that algorithmic management homogenizes play and curbs creative individual dribblers.",
+            "ko": "비판론자들은 데이터 중심 전술이 플레이를 획일화하고 창의적인 드리블러를 위축시킨다고 지적합니다."
+          },
+          {
+            "en": "Tacticians counter that spatial data creates the structural foundation that empowers creative brilliance.",
+            "ko": "전술가들은 공간 데이터가 오히려 개인의 천재성이 빛을 발할 수 있는 최적의 무대를 열어준다고 맞섭니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "현대 축구가 초당 50프레임의 관절 추적 컴퓨터 비전과 공간 좌표 데이터 기반의 정밀 전술 시대로 진화했습니다.",
+      "기대 득점(xG)과 피치 컨트롤 지표를 통해 경기장 내 득점 확률을 극대화하는 전술적 패스 시퀀스가 설계되고 있습니다.",
+      "선수 스카우팅과 웨어러블 생체 역학 모니터링을 결합하여 선수 부상을 사전에 예방하고 구단 운영의 효율을 극대화하고 있습니다."
+    ],
+    "quiz": [
+      {
+        "question": "What advanced metric quantifies the territory controlled by a team at any given moment on the pitch?",
+        "options": [
+          "Pitch Control models",
+          "Simple corner kick counts",
+          "Yellow card tallies"
+        ],
+        "answer": 0,
+        "explanation": "Pitch Control models mathematically calculate the spatial territory dominated by players based on velocity and trajectory."
+      },
+      {
+        "question": "How do wearable telemetry systems protect elite athletes from acute injuries?",
+        "options": [
+          "By monitoring muscular acceleration loads and metabolic fatigue in real time",
+          "By shielding players with carbon-fiber armor",
+          "By reducing the total minutes in official matches"
+        ],
+        "answer": 0,
+        "explanation": "Wearables track muscular and cardiac loads, alerting coaches to fatigue before soft-tissue injuries occur."
+      }
+    ],
+    "wordCount": 284
+  },
+  {
+    "id": "sports-2",
+    "category": "sports",
+    "level": "B2",
+    "title": "Breaking the Two-Hour Marathon Barrier: Biomechanics, Carbon Plating, and Human Physiology",
+    "subtitle": "How super-shoes, metabolic thresholds, and aerodynamic drafting engineered the fastest distance times in history.",
+    "speaker": "Runner's World / Exercise Physiology Digest",
+    "date": "July 2026",
+    "readTime": "3 min",
+    "paragraphs": [
+      {
+        "en": "For nearly a century, running a standard 42.195-kilometer marathon in under two hours was considered humanly impossible. Exercise physiologists calculated that sustaining a pace of two minutes and fifty seconds per kilometer over twenty-six miles exceeded the thermodynamic limits of the human cardiovascular system. Yet, through the synergistic convergence of biomechanical footwear engineering, precision carbohydrate hydration, and aerodynamic drafting, the once-mythic sub-two-hour frontier has been definitively conquered.",
+        "ko": "거의 1세기 동안 42.195킬로미터 정규 마라톤을 2시간 이내에 완주하는 것은 인간의 생리학적 한계를 넘어서는 불가능의 영역으로 여겨졌습니다. 운동생리학자들은 1킬로미터당 2분 50초의 살인적인 페이스를 42킬로미터 내내 유지하는 것은 인간 심혈관계의 열역학적 한계를 초과한다고 계산했습니다. 그러나 생체 역학적 러닝화 공학, 정밀 탄수화물 수분 보충, 공기역학적 바람막이 편대 주행의 시너지 효과를 통해, 한때 신화로만 여겨졌던 '서브 2'의 장벽이 마침내 무너졌습니다.",
+        "sentences": [
+          {
+            "en": "Running a marathon in under two hours was long considered physiologically impossible.",
+            "ko": "마라톤을 2시간 이내에 달리는 것은 오랫동안 생리학적으로 불가능하다고 여겨졌습니다."
+          },
+          {
+            "en": "Maintaining a pace of 2:50 per kilometer exceeded traditional thermodynamic cardiovascular limits.",
+            "ko": "킬로미터당 2분 50초의 페이스를 유지하는 것은 전통적인 심혈관계의 한계를 초과하는 것이었습니다."
+          },
+          {
+            "en": "Through biomechanical footwear, precision nutrition, and drafting, the mythic frontier was conquered.",
+            "ko": "생체 역학 신발, 정밀 영양 공급, 바람막이 러닝의 융합으로 이 신화적 장벽은 정복되었습니다."
+          }
+        ]
+      },
+      {
+        "en": "The technological centerpiece of this transformation is the 'super-shoe' paradigm. By sandwiching a curved, stiff carbon-fiber plate within ultra-resilient polyether block amide (PEBA) foams, footwear engineers reduced the metabolic cost of running by roughly four percent. The shoe acts not merely as a shock-absorbing cushion, but as a mechanical spring and lever that minimizes energy lost at the metatarsophalangeal joint and returns propulsive kinetic force with every footstrike.",
+        "ko": "이러한 혁신의 기술적 중심에는 '슈퍼 슈즈(Super-shoes)' 패러다임이 있습니다. 초고탄성 폴리에테르 블록 아미드(PEBA) 폼 샌드위치 구조 사이에 휘어진 고탄성 탄소 섬유(카본) 플레이트를 삽입함으로써, 신발 공학자들은 달릴 때 소모되는 대사 비용을 약 4% 절감시켰습니다. 이 신발은 단순한 충격 흡수 쿠션을 넘어 기계적인 스프링이자 지렛대 역할을 하여, 발가락 관절에서 손실되는 에너지를 최소화하고 발이 지면에 닿을 때마다 추진력 있는 운동 에너지를 돌려줍니다.",
+        "sentences": [
+          {
+            "en": "The technological centerpiece of this transformation is the 'super-shoe' paradigm.",
+            "ko": "이러한 기록 단축 혁명의 기술적 핵심에는 '슈퍼 슈즈' 패러다임이 있습니다."
+          },
+          {
+            "en": "Sandwiching stiff carbon-fiber plates within resilient foams reduced metabolic energy cost by four percent.",
+            "ko": "고탄성 폼 사이에 탄소 섬유 판을 삽입하여 달리기 시 소모되는 에너지 비용을 약 4% 줄였습니다."
+          },
+          {
+            "en": "The shoe acts as a mechanical spring, returning propulsive kinetic force with every footstrike.",
+            "ko": "신발이 기계적 용수철처럼 작용하여 발이 땅을 디딜 때마다 강력한 추진력을 되돌려줍니다."
+          }
+        ]
+      },
+      {
+        "en": "Simultaneously, nutritional science has unlocked sustained cellular energy delivery through hydrogel carbohydrate matrices. In past decades, runners were constrained by the human gut's capacity to absorb only sixty grams of carbohydrates per hour without debilitating gastrointestinal distress. Modern hydrogel formulations encapsulate glucose and fructose in a protective alginate barrier, enabling runners to oxidize upwards of ninety to one hundred grams of carbohydrates hourly, preventing glycogen depletion during the critical final ten kilometers.",
+        "ko": "이와 동시에 영양 과학은 하이드로겔 탄수화물 매트릭스를 통해 지속적인 세포 에너지 공급을 실현했습니다. 과거 수십 년 동안 주자들은 심각한 위장 장애 없이 시간당 60그램의 탄수화물만을 흡수할 수 있는 인체 소화기관의 한계에 갇혀 있었습니다. 현대의 하이드로겔 제형은 포도당과 과당을 보호성 알지네이트 장벽으로 감싸 장까지 안전하게 운반함으로써, 선수들이 시간당 90~100그램 이상의 탄수화물을 산화시켜 에너지를 공급받게 함으로써 승부처인 마지막 10킬로미터 구간에서 글리코겐 고갈(벽에 부딪히는 현상)을 원천 차단합니다.",
+        "sentences": [
+          {
+            "en": "Nutritional science has unlocked sustained cellular energy via hydrogel carbohydrate matrices.",
+            "ko": "영양 과학은 하이드로겔 탄수화물 기술을 통해 지속적인 세포 에너지 공급을 가능케 했습니다."
+          },
+          {
+            "en": "Runners were historically limited to absorbing sixty grams of carbohydrates hourly without distress.",
+            "ko": "과거 러너들은 위장 장애 없이 시간당 60그램의 탄수화물을 흡수하는 것이 한계였습니다."
+          },
+          {
+            "en": "Hydrogels encapsulate sugars, enabling runners to oxidize up to one hundred grams hourly without glycogen crashes.",
+            "ko": "하이드로겔 제형은 시간당 최대 100g의 탄수화물 연소를 도와 막판 글리코겐 고갈을 막아줍니다."
+          }
+        ]
+      },
+      {
+        "en": "The conquering of the two-hour marathon stands as a testament to the synthesis of human grit and engineering excellence. It reminds us that biological limits are rarely immutable brick walls; rather, they are flexible frontiers waiting to be renegotiated when rigorous scientific inquiry empowers the indomitable human spirit.",
+        "ko": "마라톤 2시간 장벽의 돌파는 인간의 불굴의 투지와 첨단 과학 공학의 결합이 낳은 빛나는 증거입니다. 그것은 인간 생물학적 한계가 결코 넘을 수 없는 영구적인 콘크리트 벽이 아니라, 엄밀한 과학적 탐구가 꺾이지 않는 인간의 영혼과 만날 때 언제든 새롭게 확장될 수 있는 유연한 개척지임을 우리에게 일깨워줍니다.",
+        "sentences": [
+          {
+            "en": "Breaking the two-hour barrier is a testament to human grit and engineering excellence.",
+            "ko": "2시간 장벽 돌파는 인간의 강인한 투지와 첨단 공학의 융합이 만들어낸 역사적 결실입니다."
+          },
+          {
+            "en": "Biological limits are flexible frontiers waiting to be renegotiated through rigorous scientific inquiry.",
+            "ko": "인간의 생물학적 한계는 치밀한 과학적 탐구를 통해 언제든 새롭게 확장될 수 있는 개척지입니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "불가능으로 여겨졌던 마라톤 2시간 벽이 카본 플레이트 러닝화와 하이드로겔 영양학의 결합으로 돌파되었습니다.",
+      "PEBA 고탄성 폼과 카본 섬유 판의 탄성 복원력을 통해 달리기 대사 에너지 소모를 4% 절감시켰습니다.",
+      "하이드로겔 기술로 시간당 100g 이상의 탄수화물 흡수가 가능해지며 막판 체력 고갈(탈진)을 성공적으로 극복했습니다."
+    ],
+    "quiz": [
+      {
+        "question": "What technological feature in 'super-shoes' reduces the metabolic cost of running by roughly 4%?",
+        "options": [
+          "A curved carbon-fiber plate embedded within resilient PEBA foam",
+          "Heavy lead-lined soles",
+          "Internal electric motorized wheels"
+        ],
+        "answer": 0,
+        "explanation": "Curved carbon-fiber plates embedded in high-energy PEBA foam function as mechanical springs reducing running energy cost."
+      },
+      {
+        "question": "How do modern hydrogel matrices prevent runner 'hitting the wall' late in the marathon?",
+        "options": [
+          "By enabling the oxidation of 90-100g of carbohydrates hourly without gastrointestinal distress",
+          "By freezing leg muscles",
+          "By reducing heart rate to zero"
+        ],
+        "answer": 0,
+        "explanation": "Hydrogel encapsulation allows runners to absorb and oxidize up to 100g of carbohydrates hourly, preserving critical glycogen stores."
+      }
+    ],
+    "wordCount": 255
+  },
+  {
+    "id": "culture-1",
+    "category": "culture",
+    "level": "B2",
+    "title": "The Architecture of Global Fandom: The Transmedia Economics of the Korean Wave",
+    "subtitle": "Beyond chart-topping singles: Community platforms, synchronous virtual fan events, and participatory pop culture.",
+    "speaker": "Variety / Cultural Industry Review",
+    "date": "August 2026",
+    "readTime": "3 min",
+    "paragraphs": [
+      {
+        "en": "The global expansion of the Korean Wave (Hallyu) has matured from an episodic regional export into one of the most sophisticated transmedia business models in modern entertainment history. While Western music industries historically derived the lion's share of revenue from streaming subscriptions and physical stadium tours, Korean entertainment agencies pioneered an ecosystem that monetizes emotional connection and hyper-engaged participatory fandom across borderless digital platforms.",
+        "ko": "한류(Korean Wave)의 전 세계적 확산은 일시적인 지역 수출 현상을 넘어 현대 엔터테인먼트 역사상 가장 정교한 트랜스미디어 비즈니스 모델 중 하나로 완전히 성숙했습니다. 서구 음악 산업이 주로 음원 스트리밍 구독과 오프라인 스타디움 투어에 수익을 의존해 온 반면, 한국 기획사들은 국경 없는 디지털 플랫폼을 통해 정서적 유대감과 열정적인 팬덤의 참여를 수익화하는 입체적인 생태계를 개척했습니다.",
+        "sentences": [
+          {
+            "en": "The global expansion of the Korean Wave has matured into a sophisticated transmedia business model.",
+            "ko": "한류의 전 세계적 확장은 고도로 정교한 트랜스미디어 비즈니스 모델로 진화했습니다."
+          },
+          {
+            "en": "Western industries historically relied heavily on streaming subscriptions and traditional stadium touring.",
+            "ko": "서구 엔터테인먼트 산업은 역사적으로 단순 스트리밍 구독과 콘서트 투어 수익에 크게 의존했습니다."
+          },
+          {
+            "en": "Korean entertainment agencies pioneered platforms that monetize hyper-engaged participatory global fandom.",
+            "ko": "한국 기획사들은 국경 없는 플랫폼을 통해 팬들의 깊은 유대감과 참여를 결합한 새로운 모델을 열었습니다."
+          }
+        ]
+      },
+      {
+        "en": "Central to this economic architecture is the convergence of bespoke direct-to-consumer super-apps such as Weverse and Bubble. These proprietary platforms bypass traditional social media gatekeepers, establishing walled-garden environments where artists communicate directly with subscribers through real-time push messages, exclusive behind-the-scenes video content, and simultaneous multilingual translation. Fans do not passively consume a finished creative product; they co-create a dynamic cultural phenomenon through coordinated global streaming campaigns, charitable voting drives, and user-generated digital artwork.",
+        "ko": "이 경제 구조의 핵심은 위버스(Weverse)나 버블(Bubble)과 같은 맞춤형 D2C(Direct-to-Consumer) 슈퍼 앱의 결합입니다. 이러한 독자적인 플랫폼들은 전통적인 소셜 미디어 중개자를 거치지 않고, 아티스트가 실시간 푸시 메시지, 독점 비하인드 영상, 동시 다국어 번역을 통해 팬들과 직접 소통하는 폐쇄형 생태계를 구축합니다. 팬들은 완성된 문화 상품을 수동적으로 소비하는 데 그치지 않고, 글로벌 총공 스트리밍, 자선 기부 투표, 2차 디지털 창작물 제작을 통해 역동적인 문화 현상을 아티스트와 함께 공동 창조합니다.",
+        "sentences": [
+          {
+            "en": "Central to this architecture is the convergence of direct-to-consumer super-apps like Weverse and Bubble.",
+            "ko": "이 비즈니스 구조의 중심에는 위버스와 버블 같은 자체 D2C 슈퍼 앱의 결합이 자리하고 있습니다."
+          },
+          {
+            "en": "These proprietary platforms establish direct communication with fans via push messaging and multilingual translation.",
+            "ko": "독자적 플랫폼을 통해 실시간 메시지와 다국어 번역으로 스타와 팬이 직접 긴밀하게 소통합니다."
+          },
+          {
+            "en": "Fans co-create the cultural phenomenon through coordinated streaming campaigns and participatory projects.",
+            "ko": "팬들은 일사불란한 스트리밍 캠페인과 참여형 프로젝트를 통해 문화를 아티스트와 함께 만들어갑니다."
+          }
+        ]
+      },
+      {
+        "en": "Furthermore, the IP monetization strategy extends horizontally across episodic webtoons, mobile gaming franchises, luxury fashion ambassadorships, and immersive virtual reality fan engagements. A single musical comeback is treated as an expansive narrative event, complete with cinematic universe lore that unfolds across web series and episodic visual teasers. This serialized narrative framework fosters profound brand loyalty, driving unprecedented sales of physical collectible albums and high-margin merchandise despite the secular decline of physical media in Western markets.",
+        "ko": "나아가 IP(지식재산권) 수익화 전략은 웹툰, 모바일 게임 프랜차이즈, 명품 패션 앰버서더십, 몰입형 가상현실 팬미팅에 이르기까지 수평적으로 광범위하게 확장됩니다. 하나의 음반 컴백은 웹 시리즈와 티저 영상을 통해 공개되는 치밀한 시네마틱 유니버스 세계관을 갖춘 거대한 서사적 이벤트로 다루어집니다. 이러한 연속 서사 구조는 강력한 브랜드 충성도를 창출하여, 서구 시장에서 실물 음반이 쇠퇴하는 추세 속에서도 소장용 피지컬 앨범과 고마진 공식 굿즈의 기록적인 판매고를 견인하고 있습니다.",
+        "sentences": [
+          {
+            "en": "The IP monetization strategy extends horizontally across webtoons, luxury ambassadorships, and gaming.",
+            "ko": "지식재산권(IP) 전략은 웹툰, 명품 앰버서더, 모바일 게임 등으로 광범위하게 확장됩니다."
+          },
+          {
+            "en": "A single musical comeback is treated as an expansive narrative event with cinematic universe lore.",
+            "ko": "단 한 번의 컴백도 치밀한 세계관 서사가 담긴 거대한 문화 이벤트로 기획됩니다."
+          },
+          {
+            "en": "This serialized framework fosters intense loyalty, driving robust physical album and merchandise sales.",
+            "ko": "이러한 스토리텔링은 깊은 충성도를 낳아 피지컬 음반과 고부가가치 굿즈의 폭발적 소비로 이어집니다."
+          }
+        ]
+      },
+      {
+        "en": "As Hollywood studios, European fashion houses, and Silicon Valley platforms seek to replicate this participatory blueprint, Hallyu demonstrates that in the digital attention economy, community is the ultimate moat. When consumers feel a genuine sense of agency, belonging, and shared collective identity within a global community, cultural entertainment ceases to be a momentary distraction and becomes a transformative, lifelong passion.",
+        "ko": "할리우드 영화사, 유럽의 명품 패션 하우스, 실리콘밸리 플랫폼들이 이 참여형 팬덤 모델을 벤치마킹하려고 애쓰는 가운데, 한류는 디지털 관심 경제(Attention Economy) 시대에 있어 '커뮤니티'야말로 가장 강력하고 지속 가능한 경제적 해자(Moat)임을 여실히 입증하고 있습니다. 소비자가 글로벌 커뮤니티 안에서 주체적인 효능감과 소속감, 공유된 집단적 정체성을 체감할 때, 문화 콘텐츠는 단순한 일회성 오락을 넘어 삶을 변화시키는 평생의 열정으로 자리 잡게 됩니다.",
+        "sentences": [
+          {
+            "en": "Global entertainment leaders now study this participatory blueprint across music and fashion.",
+            "ko": "전 세계 엔터테인먼트 리더들은 한류의 참여형 팬덤 모델을 집중적으로 연구하고 있습니다."
+          },
+          {
+            "en": "Hallyu demonstrates that in the digital attention economy, community is the ultimate moat.",
+            "ko": "한류는 디지털 관심 경제 시대에 강력한 커뮤니티가 가장 견고한 비즈니스 해자임을 증명했습니다."
+          },
+          {
+            "en": "When consumers experience belonging and agency, entertainment becomes a transformative lifelong passion.",
+            "ko": "소속감과 주체성을 경험할 때 문화 콘텐츠는 단순 오락을 넘어 삶을 관통하는 열정으로 승화됩니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "한류가 단순한 음원 소비를 넘어 위버스 등 자체 D2C 플랫폼과 적극적인 팬 참여를 결합한 글로벌 비즈니스 모델로 도약했습니다.",
+      "웹툰, 게임, 명품 패션, 시네마틱 유니버스 서사를 아우르는 전방위적 IP 확장을 통해 피지컬 앨범과 굿즈의 기록적 소비를 창출하고 있습니다.",
+      "디지털 관심 경제 시대에 팬들이 주체성과 소속감을 느끼는 '커뮤니티 파워'가 엔터테인먼트 산업의 가장 강력한 경제적 해자임을 입증했습니다."
+    ],
+    "quiz": [
+      {
+        "question": "What technological platform model revolutionized direct fan engagement for K-pop agencies?",
+        "options": [
+          "Proprietary D2C super-apps with real-time translation (e.g., Weverse, Bubble)",
+          "Static newspaper print classifieds",
+          "Audio-only cassette tapes"
+        ],
+        "answer": 0,
+        "explanation": "Proprietary D2C apps like Weverse and Bubble provide direct, multilingual communication channels bypassing standard social platforms."
+      },
+      {
+        "question": "Why is 'community' considered the ultimate moat in the modern attention economy?",
+        "options": [
+          "It fosters profound belonging and active participatory co-creation among consumers",
+          "It lowers product manufacturing standards",
+          "It eliminates all international shipping costs"
+        ],
+        "answer": 0,
+        "explanation": "Community creates genuine belonging and participatory engagement, transforming passive listeners into lifelong cultural advocates."
+      }
+    ],
+    "wordCount": 272
+  },
+  {
+    "id": "culture-2",
+    "category": "culture",
+    "level": "B2",
+    "title": "Fast Fashion's Reckoning: Circular Textiles, Digital Passports, and Sustainable Luxury",
+    "subtitle": "How stringent EU regulations and regenerative fiber science are transforming the global apparel industry.",
+    "speaker": "Vogue Business / Sustainable Design Forum",
+    "date": "July 2026",
+    "readTime": "3 min",
+    "paragraphs": [
+      {
+        "en": "The global fashion industry is confronting an unprecedented structural reckoning. Long criticized as one of the world's most ecologically destructive economic sectors—responsible for roughly ten percent of global greenhouse gas emissions and colossal volumes of synthetic microplastic ocean pollution—the traditional linear 'take, make, dispose' business model is being dismantled by both regulatory mandates and consumer backlash.",
+        "ko": "글로벌 패션 산업이 전례 없는 구조적 심판의 기로에 직면했습니다. 전 세계 온실가스 배출량의 약 10%를 차지하고 엄청난 양의 합성 미세 플라스틱 해양 오염을 유발하며 지구상에서 가장 생태학적으로 파괴적인 산업 중 하나로 오랫동안 비판받아 온 '채취, 제조, 폐기'의 전통적인 선형 비즈니스 모델이 각국 규제 당국의 철퇴와 소비자들의 반발로 인해 해체되고 있습니다.",
+        "sentences": [
+          {
+            "en": "The global fashion industry is confronting an unprecedented structural reckoning.",
+            "ko": "글로벌 패션 업계는 유례없는 구조적 전환과 심판의 기로에 섰습니다."
+          },
+          {
+            "en": "Responsible for roughly ten percent of carbon emissions, the linear model faces intense scrutiny.",
+            "ko": "탄소 배출의 약 10%를 차지하는 기존의 선형 소비 모델은 강력한 비판에 직면해 있습니다."
+          },
+          {
+            "en": "The traditional 'take, make, dispose' model is being dismantled by regulations and consumer shifts.",
+            "ko": "생산 후 쉽게 버리던 기존 패션 모델은 환경 규제와 소비자 의식 변화로 붕괴하고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "Leading this historic transition is the European Union's landmark Ecodesign for Sustainable Products Regulation and mandatory Digital Product Passports. Under these statutory frameworks, every garment sold across major markets must carry a scannable digital identity tracing its lifecycle from raw fiber cultivation and water-efficient dyeing to ethical factory labor standards and post-consumer recyclability. Garments engineered with unrecyclable blended fibers face punitive disposal tariffs.",
+        "ko": "이 역사적인 전환을 이끄는 것은 유럽연합(EU)의 기념비적인 '지속 가능한 제품을 위한 에코디자인 규정'과 의무화된 '디지털 제품 여권(DPP)' 제도입니다. 이러한 법적 체계에 따라 주요 시장에서 판매되는 모든 의류는 원자재 섬유 재배, 절수형 염색 공정, 윤리적 노동 기준, 소비자 사용 후 재활용성에 이르는 전체 수명 주기를 추적할 수 있는 스캔 가능한 디지털 식별 태그를 의무적으로 부착해야 합니다. 재활용이 불가능한 혼방 섬유로 제작된 의류에는 가혹한 폐기 관세가 부과됩니다.",
+        "sentences": [
+          {
+            "en": "Leading this transition is the EU's Ecodesign framework and mandatory Digital Product Passports.",
+            "ko": "이 변화를 주도하는 것은 유럽연합(EU)의 에코디자인 법안과 의무화된 디지털 제품 여권입니다."
+          },
+          {
+            "en": "Garments must carry a digital identity tracing raw fiber origins, dyeing ethics, and recyclability.",
+            "ko": "모든 의류는 원자재 출처부터 염색 공정, 재활용성에 이르는 전 과정을 증명하는 디지털 여권을 지녀야 합니다."
+          },
+          {
+            "en": "Garments engineered with unrecyclable blended synthetic fibers face punitive environmental tariffs.",
+            "ko": "재활용이 불가능한 혼합 합성 섬유로 만든 옷에는 징벌적인 환경 분담금이 부과됩니다."
+          }
+        ]
+      },
+      {
+        "en": "In response, textile innovators and luxury conglomerates are investing billions in biochemical circularity and regenerative agriculture. Cutting-edge recycling facilities utilize enzymatic bio-recycling to break down discarded polyester garments back into virgin-grade chemical monomers without thermal degradation. Concurrently, high-fashion ateliers are pioneering mycelium-based fungi leather, closed-loop citrus peel fibers, and biodegradable seaweed biopolymers that decompose harmlessly in soil.",
+        "ko": "이에 발맞추어 섬유 혁신 기업들과 글로벌 명품 대기업들은 생화학적 자원 순환과 재생 농업에 수십억 달러를 투자하고 있습니다. 최첨단 재활용 공장들은 열적 품질 저하 없이 버려진 폴리에스터 의류를 버진 등급의 순수 단량체로 분해해 내는 효소 기반 생체 재활용(Enzymatic recycling) 기술을 적용하고 있습니다. 동시에 하이패션 아틀리에들은 균사체(버섯 뿌리) 기반의 가죽, 감귤 껍질을 재활용한 순환형 섬유, 토양에서 무해하게 생분해되는 해조류 바이오폴리머를 앞다투어 선보이고 있습니다.",
+        "sentences": [
+          {
+            "en": "Textile innovators are investing billions in biochemical circularity and enzymatic recycling.",
+            "ko": "섬유 혁신 기업들은 수십억 달러를 효소 기반 생체 재활용 등 자원 순환 기술에 쏟아붓고 있습니다."
+          },
+          {
+            "en": "Enzymatic bio-recycling breaks down polyester garments back into virgin-grade monomers without degradation.",
+            "ko": "효소 재활용은 헌 옷을 품질 저하 없이 원료 상태인 고순도 단량체로 되돌려 놓습니다."
+          },
+          {
+            "en": "Luxury brands pioneer mycelium fungi leathers and biodegradable seaweed biopolymers.",
+            "ko": "명품 브랜드들은 버섯 균사체 가죽과 생분해성 해조류 섬유 등 친환경 신소재를 개척하고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "Ultimately, the emerging circular paradigm redefines luxury itself. In the twenty-first century, true luxury is no longer defined by fleeting seasonal novelty or conspicuous disposable consumption. Rather, authentic prestige belongs to enduring craftsmanship, transparent provenance, and garments designed to circulate gracefully through human culture across generations.",
+        "ko": "궁극적으로 이러한 순환 경제 패러다임은 럭셔리의 개념 자체를 새롭게 정의하고 있습니다. 21세기에 진정한 명품은 더 이상 덧없이 지나가는 계절별 유행이나 과시적인 일회용 소비로 규정되지 않습니다. 진정한 품격은 오래도록 지속되는 장인 정신, 투명한 생산 이력, 그리고 세대를 거쳐 인간 문화 속을 우아하게 순환하도록 설계된 옷에 깃들어 있습니다.",
+        "sentences": [
+          {
+            "en": "The emerging circular paradigm fundamentally redefines luxury itself.",
+            "ko": "새롭게 부상하는 순환 경제 패러다임은 럭셔리의 본질을 근본적으로 재정의합니다."
+          },
+          {
+            "en": "True luxury is no longer defined by fleeting novelty or disposable consumption.",
+            "ko": "진정한 명품은 더 이상 일회성 유행이나 과시적 낭비로 정의되지 않습니다."
+          },
+          {
+            "en": "Authentic prestige belongs to enduring craftsmanship and transparent ecological provenance.",
+            "ko": "진정한 가치는 시대를 초월하는 장인 정신과 투명한 친환경 생산 이력에서 비롯됩니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "유럽연합의 디지털 제품 여권(DPP) 의무화 등 강력한 글로벌 환경 규제로 인해 패스트패션의 선형 소비 구조가 해체되고 있습니다.",
+      "효소 기반 폴리에스터 분해 기술과 균사체(버섯) 가죽, 해조류 바이오폴리머 등 생화학적 자원 순환 섬유가 급성장하고 있습니다.",
+      "21세기 진정한 럭셔리의 척도가 일회성 유행에서 영속적인 장인 정신과 투명한 생산 이력으로 전환되고 있습니다."
+    ],
+    "quiz": [
+      {
+        "question": "What regulatory mandate requires European apparel to trace its lifecycle from fiber to recycling?",
+        "options": [
+          "Mandatory Digital Product Passports (DPP)",
+          "Universal international postal waivers",
+          "Mandatory free plastic packaging"
+        ],
+        "answer": 0,
+        "explanation": "Digital Product Passports (DPP) mandate complete supply-chain transparency and recyclability tracking."
+      },
+      {
+        "question": "How does enzymatic bio-recycling differ from traditional mechanical textile recycling?",
+        "options": [
+          "It breaks polyester down to virgin-grade chemical monomers without thermal degradation",
+          "It burns fabrics to generate electricity",
+          "It dissolves clothing in toxic acid rivers"
+        ],
+        "answer": 0,
+        "explanation": "Enzymatic recycling chemically breaks polymers into pristine virgin-grade monomers without downcycling."
+      }
+    ],
+    "wordCount": 222
   }
 ];
