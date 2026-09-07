@@ -100,8 +100,8 @@ const READPULSE_ARTICLES = [
   },
   {
     "id": "sports_tennis_usopen_02",
-    "title": "US Open 2026: Dramatic Upsets Shake Up the Men's Singles Draw",
-    "subtitle": "Top seeds tumble under the New York night lights as Jannik Sinner and Carlos Alcaraz eye the trophy.",
+    "title": "US Open 2026: With Sinner Sidelined, Men's Draw Opens for Alcaraz and Zverev",
+    "subtitle": "The withdrawal of world number one Jannik Sinner creates a wide-open battle for the championship in New York.",
     "speaker": "BBC Sport Tennis (New York)",
     "date": "2026-09-06",
     "category": "sports",
@@ -110,85 +110,85 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 242,
+    "wordCount": 240,
     "keywords": [
       "#US오픈",
-      "#남자단식",
-      "#이변",
+      "#신너기권",
+      "#알카라스",
       "#아서애시"
     ],
-    "addedAt": "2026-09-06T20:00:00Z",
+    "addedAt": "2026-09-06T22:00:00Z",
     "paragraphs": [
       {
-        "en": "The men's singles competition at the 2026 US Open has produced stunning surprises for tennis fans across the globe. During an unpredictable opening week in Flushing Meadows, six top-ten seeded players were knocked out of the tournament. American favorite Taylor Fritz suffered an unexpected third-round defeat, reminding everyone that anything can happen in New York.",
-        "ko": "2026 US오픈 남자 단식 경기가 전 세계 테니스 팬들에게 충격적인 이변을 안겨주고 있습니다. 플러싱 메도스에서 열린 예측 불허의 대회 첫 주 동안, 10위권 이내 시드 선수 중 6명이 조기 탈락했습니다. 미국의 인기 스타 테일러 프리츠가 3라운드에서 예상치 못한 패배를 당하며 뉴욕에서는 어떤 일도 일어날 수 있음을 보여주었습니다.",
+        "en": "The 2026 US Open men's singles championship is full of drama and unexpected twists. Tennis fans were shocked when world number one Jannik Sinner had to withdraw before the tournament due to a knee injury. Without the top-ranked Italian superstar on the courts of Flushing Meadows, the battle for the trophy is completely wide open.",
+        "ko": "2026 US오픈 남자 단식 챔피언십은 극적인 드라마와 예상치 못한 반전으로 가득 차 있습니다. 세계 1위 얀니크 신너가 무릎 부상으로 대회 개막 전 전격 기권하자 테니스 팬들은 큰 충격을 받았습니다. 플러싱 메도스 코트에 세계 1위 이탈리아 슈퍼스타가 없는 상황에서, 우승 트로피를 향한 경쟁은 완전히 안갯속에 빠졌습니다.",
         "sentences": [
           {
-            "en": "The men's singles competition at the 2026 US Open has produced stunning surprises for tennis fans across the globe.",
-            "ko": "2026 US오픈 남자 단식은 전 세계 팬들에게 놀라운 이변을 선사하고 있습니다."
+            "en": "The 2026 US Open men's singles championship is full of drama and unexpected twists.",
+            "ko": "2026 US오픈 남자 단식 챔피언십은 극적인 반전과 드라마로 가득합니다."
           },
           {
-            "en": "During an unpredictable opening week in Flushing Meadows, six top-ten seeded players were knocked out of the tournament.",
-            "ko": "첫 주 동안 10위권 내 상위 시드 선수 중 6명이 탈락했습니다."
+            "en": "Tennis fans were shocked when world number one Jannik Sinner had to withdraw before the tournament due to a knee injury.",
+            "ko": "세계 1위 신너가 무릎 부상으로 대회 직전 기권하자 팬들은 큰 충격을 받았습니다."
           },
           {
-            "en": "American favorite Taylor Fritz suffered an unexpected third-round defeat, reminding everyone that anything can happen in New York.",
-            "ko": "미국의 테일러 프리츠가 3라운드에서 뜻밖의 패배를 당했습니다."
+            "en": "Without the top-ranked Italian superstar on the courts of Flushing Meadows, the battle for the trophy is completely wide open.",
+            "ko": "세계 1위가 없는 가운데 플러싱 메도스의 우승 경쟁은 완전히 활짝 열렸습니다."
           }
         ]
       },
       {
-        "en": "With several heavy favorites eliminated, world number one Jannik Sinner and Spain's Carlos Alcaraz remain in prime position to reach the final. Sinner has looked remarkably sharp, using his clean ball-striking to win his fourth-round match in under two hours. Alcaraz has also delighted the crowds with his trademark drop shots and energetic sprint speed.",
-        "ko": "여러 우승 후보들이 탈락하면서 세계 1위 얀니크 신너와 스페인의 카를로스 알카라스가 결승에 오를 가장 유력한 후보로 남아 있습니다. 신너는 깔끔한 타격감으로 16강전을 2시간도 채 안 되어 끝내며 뛰어난 컨디션을 과시했습니다. 알카라스 역시 특유의 날카로운 드롭샷과 지치지 않는 질주력으로 관중들을 열광시켰습니다.",
+        "en": "Top-seeded Alexander Zverev and Spain's Carlos Alcaraz are now the main favorites to capture the crown. Alcaraz has thrilled the New York crowd with his lightning-fast sprint speed and creative drop shots. Meanwhile, American stars Frances Tiafoe and Ben Shelton have used their explosive serves to advance deep into the second week.",
+        "ko": "이제 1번 시드 알렉산더 츠베레프와 스페인의 카를로스 알카라스가 가장 유력한 우승 후보로 꼽힙니다. 알카라스는 번개 같은 스피드와 창의적인 드롭샷으로 뉴욕 관중들을 열광시켰습니다. 한편 미국의 프랜시스 티아포와 벤 셸턴은 폭발적인 서브를 앞세워 대회 2주 차 깊숙이 진출했습니다.",
         "sentences": [
           {
-            "en": "With several heavy favorites eliminated, world number one Jannik Sinner and Spain's Carlos Alcaraz remain in prime position to reach the final.",
-            "ko": "우승 후보들이 탈락하며 신너와 알카라스가 결승 진출의 유력 후보로 남았습니다."
+            "en": "Top-seeded Alexander Zverev and Spain's Carlos Alcaraz are now the main favorites to capture the crown.",
+            "ko": "1번 시드 츠베레프와 2번 시드 알카라스가 유력한 우승 후보로 떠올랐습니다."
           },
           {
-            "en": "Sinner has looked remarkably sharp, using his clean ball-striking to win his fourth-round match in under two hours.",
-            "ko": "신너는 깔끔한 스트로크로 16강 경기를 2시간 안에 완승했습니다."
+            "en": "Alcaraz has thrilled the New York crowd with his lightning-fast sprint speed and creative drop shots.",
+            "ko": "알카라스는 번개 같은 스피드와 절묘한 드롭샷으로 관중들을 사로잡았습니다."
           },
           {
-            "en": "Alcaraz has also delighted the crowds with his trademark drop shots and energetic sprint speed.",
-            "ko": "알카라스 역시 환상적인 드롭샷과 빠른 스피드로 팬들을 사로잡았습니다."
+            "en": "Meanwhile, American stars Frances Tiafoe and Ben Shelton have used their explosive serves to advance deep into the second week.",
+            "ko": "미국의 티아포와 벤 셸턴도 강력한 서브로 16강과 8강에 진출했습니다."
           }
         ]
       },
       {
-        "en": "The fast hard courts in New York reward fearless aggressive tennis. As the tournament enters the intense quarterfinal stage, every match is played under high pressure. Tennis fans are hoping for a dream final showdown between Sinner and Alcaraz to crown the ultimate champion of the year's final Grand Slam.",
-        "ko": "뉴욕의 빠른 하드 코트는 두려움 없는 공격적인 테니스를 구사하는 선수에게 보상을 안겨줍니다. 대회가 치열한 8강전(준준결승) 단계에 접어들면서 모든 경기가 엄청난 압박감 속에 펼쳐지고 있습니다. 테니스 팬들은 올해 마지막 그랜드슬램의 진정한 챔피언을 가릴 신너와 알카라스의 꿈의 결승 맞대결을 고대하고 있습니다.",
+        "en": "Sinner was recently spotted watching the Formula 1 race in Italy while continuing his knee recovery. In New York, every remaining player understands that a historic opportunity has arrived. With no single dominating champion, Arthur Ashe Stadium will witness an unpredictable fight for Grand Slam glory.",
+        "ko": "신너는 최근 무릎 회복을 이어가는 동안 이탈리아 F1 레이스를 관람하는 모습이 포착되기도 했습니다. 뉴욕에 남아 있는 모든 선수들은 역사적인 절호의 기회가 찾아왔음을 잘 알고 있습니다. 절대적인 독주자가 없는 상황에서 아서 애시 스타디움은 그랜드슬램 영광을 차지하기 위한 예측 불허의 명승부를 맞이하고 있습니다.",
         "sentences": [
           {
-            "en": "The fast hard courts in New York reward fearless aggressive tennis.",
-            "ko": "뉴욕의 빠른 하드 코트는 공격적인 테니스 플레이를 펼치는 선수에게 유리합니다."
+            "en": "Sinner was recently spotted watching the Formula 1 race in Italy while continuing his knee recovery.",
+            "ko": "신너는 무릎 치료 중 이탈리아 F1 그랑프리를 관람하는 모습이 포착되었습니다."
           },
           {
-            "en": "As the tournament enters the intense quarterfinal stage, every match is played under high pressure.",
-            "ko": "대회가 8강전에 돌입하면서 모든 경기가 큰 긴장감 속에 펼쳐집니다."
+            "en": "In New York, every remaining player understands that a historic opportunity has arrived.",
+            "ko": "뉴욕에 남은 선수들은 역사적인 우승 기회가 왔음을 직감하고 있습니다."
           },
           {
-            "en": "Tennis fans are hoping for a dream final showdown between Sinner and Alcaraz to crown the ultimate champion of the year's final Grand Slam.",
-            "ko": "팬들은 신너와 알카라스가 맞붙는 꿈의 결승전을 손꼽아 기다리고 있습니다."
+            "en": "With no single dominating champion, Arthur Ashe Stadium will witness an unpredictable fight for Grand Slam glory.",
+            "ko": "절대 강자가 부재한 아서 애시 스타디움은 예측 불허의 명승부를 예고합니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "2026 US오픈 남자 단식에서 상위 시드 6명이 조기 탈락하는 대이변이 일어났습니다.",
-      "세계 1위 신너와 알카라스가 압도적인 경기력으로 결승 진출을 향해 순항하고 있습니다.",
-      "아서 애시 스타디움에서 열리는 8강과 결승 무대에 전 세계 테니스 팬들의 이목이 쏠려 있습니다."
+      "세계 1위 얀니크 신너가 무릎 부상으로 2026 US오픈 개막 전 기권하여 남자 단식 우승 판도가 활짝 열렸습니다.",
+      "1번 시드 츠베레프와 2번 시드 알카라스가 유력 후보이며, 티아포와 셸턴 등 미국 스타들도 돌풍을 이어가고 있습니다.",
+      "신너의 부재 속에 아서 애시 스타디움에서 올해 마지막 그랜드슬램 트로피를 향한 치열한 각축전이 펼쳐지고 있습니다."
     ],
     "quiz": [
       {
-        "question": "Which two superstar players are favored to reach the 2026 US Open men's final?",
+        "question": "Why is the 2026 US Open men's singles championship wide open for new contenders?",
         "options": [
-          "Jannik Sinner and Carlos Alcaraz.",
-          "Two retired players from the 1970s.",
-          "Players who have never held a tennis racket."
+          "World number one Jannik Sinner had to withdraw before the tournament due to a knee injury.",
+          "The tennis tournament was moved to a spaceship orbiting Mars.",
+          "All tennis players decided to become professional chefs."
         ],
         "answer": 0,
-        "explanation": "World No. 1 Jannik Sinner and Carlos Alcaraz are the prime contenders to contest the final."
+        "explanation": "Sinner withdrew before the tournament began due to a knee injury, giving other top players a major opportunity."
       }
     ]
   },

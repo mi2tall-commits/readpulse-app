@@ -2075,10 +2075,9 @@ const READPULSE_DICTIONARY = {
   },
   "injury": {
     "ipa": "/ˈɪn.dʒər.i/",
-    "pos": "명사",
-    "ko": "부상, 상처",
-    "cefr": "B1",
-    "example": "Seatbelts prevent passenger injuries."
+    "meaning": "부상, 부상 부위",
+    "cefr": "A2",
+    "ko": "부상, 상처"
   },
   "stand": {
     "ipa": "/stænd/",
@@ -3024,5 +3023,41 @@ const READPULSE_DICTIONARY = {
     "meaning": "에피소드들, 회차들",
     "cefr": "A2",
     "ko": "에피소드들, 회차들"
+  },
+  "sidelined": {
+    "ipa": "/ˈsaɪd.laɪnd/",
+    "meaning": "부상 등으로 출전하지 못하는, 배제된",
+    "cefr": "B2",
+    "ko": "출전하지 못하는, 제외된"
+  },
+  "withdraw": {
+    "ipa": "/wɪðˈdrɑː/",
+    "meaning": "기권하다, 철회하다, 물러나다",
+    "cefr": "B1",
+    "ko": "기권하다, 물러나다"
+  },
+  "withdrew": {
+    "ipa": "/wɪðˈdruː/",
+    "meaning": "기권했다, 물러났다",
+    "cefr": "B1",
+    "ko": "기권했다, 물러났다"
+  },
+  "withdrawal": {
+    "ipa": "/wɪðˈdrɑː.əl/",
+    "meaning": "기권, 철회, 취소",
+    "cefr": "B2",
+    "ko": "기권, 출전 포기"
+  },
+  "injuries": {
+    "ipa": "/ˈɪn.dʒər.iz/",
+    "meaning": "부상들",
+    "cefr": "A2",
+    "ko": "부상들"
+  },
+  "dominating": {
+    "ipa": "/ˈdɑː.mə.neɪ.t̬ɪŋ/",
+    "meaning": "지배하는, 압도적인",
+    "cefr": "B2",
+    "ko": "지배적인, 압도적인"
   }
 };
