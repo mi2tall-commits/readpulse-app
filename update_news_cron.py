@@ -25,6 +25,21 @@ def fetch_rss_to_json(rss_url):
     with urllib.request.urlopen(req, timeout=10) as res:
         return json.loads(res.read().decode('utf-8'))
 
+def fetch_article_body_paragraphs(article_url):
+    try:
+        req = urllib.request.Request(article_url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+        with urllib.request.urlopen(req, timeout=8) as res:
+            html = res.read().decode('utf-8', errors='ignore')
+        raw_paras = re.findall(r'<p[^>]*>(.*?)</p>', html, re.DOTALL)
+        clean_paras = []
+        for p in raw_paras:
+            text = re.sub(r'<[^>]*>', '', p).strip()
+            if len(text) > 60 and not any(w in text.lower() for w in ['copyright', 'cookie', 'bbc is not responsible', 'terms of use', 'sign up for', 'get in touch']):
+                clean_paras.append(text)
+        return clean_paras[:4]
+    except Exception as e:
+        return []
+
 def main():
     app_dir = os.path.dirname(os.path.abspath(__file__))
     db_path = os.path.join(app_dir, "articles_database.js")
@@ -52,15 +67,48 @@ def main():
             data = fetch_rss_to_json(f_info["url"])
             if data.get("status") == "ok" and data.get("items"):
                 top_item = data["items"][0]
-                desc = re.sub(r"<[^>]*>", "", top_item.get("description", "")).strip()
-                raw_sentences = re.findall(r"[^.!?]+[.!?]+", desc) or [desc]
-                sentences = [{"en": s.strip(), "ko": "실시간 속보 번역: " + s.strip()} for s in raw_sentences if len(s.strip()) > 10]
+                article_link = top_item.get("link", "")
+                scraped_paras = fetch_article_body_paragraphs(article_link) if article_link else []
                 
-                if sentences:
+                paras_data = []
+                total_words = 0
+                if scraped_paras and len(scraped_paras) >= 2:
+                    for p_text in scraped_paras:
+                        p_sentences = [s.strip() for s in re.findall(r"[^.!?]+[.!?]+", p_text) if len(s.strip()) > 10]
+                        if not p_sentences:
+                            p_sentences = [p_text]
+                        total_words += len(p_text.split())
+                        paras_data.append({
+                            "en": p_text,
+                            "ko": "글로벌 최신 보도 내용입니다.",
+                            "sentences": [{"en": s, "ko": "실시간 보도 번역: " + s} for s in p_sentences]
+                        })
+                else:
+                    # Fallback to combined sentences if substantive
+                    raw_sentences = re.findall(r"[^.!?]+[.!?]+", desc) or [desc]
+                    sentences = [{"en": s.strip(), "ko": "실시간 속보 번역: " + s.strip()} for s in raw_sentences if len(s.strip()) > 10]
+                    if len(desc.split()) >= 80:
+                        total_words = len(desc.split())
+                        paras_data = [{
+                            "en": desc,
+                            "ko": "실시간 글로벌 최신 뉴스입니다.",
+                            "sentences": sentences
+                        }]
+
+                # Only accept articles with substantial reading substance (at least 80 words)
+                if paras_data and total_words >= 80:
                     art_id = f"auto_{f_info['cat']}_{abs(hash(top_item.get('title')))}"
                     if any(a.get("id") == art_id for a in articles):
                         continue
                     
+                    cat_kw_map = {
+                        "tech": ["#IT기술", "#최신테크", "#글로벌IT"],
+                        "science": ["#최신과학", "#우주환경", "#과학뉴스"],
+                        "economy": ["#세계경제", "#금융시장", "#비즈니스"],
+                        "sports": ["#스포츠소식", "#경기결과", "#글로벌스포츠"],
+                        "culture": ["#문화예술", "#글로벌트렌드", "#엔터테인먼트"]
+                    }
+
                     new_articles.append({
                         "id": art_id,
                         "title": top_item.get("title", "Breaking News"),
@@ -71,13 +119,10 @@ def main():
                         "category": f_info["cat"],
                         "isLive": True,
                         "level": "B2",
-                        "readTime": "2 min",
-                        "wordCount": len(desc.split()),
-                        "paragraphs": [{
-                            "en": " ".join([s["en"] for s in sentences]),
-                            "ko": "실시간 글로벌 최신 뉴스입니다.",
-                            "sentences": sentences
-                        }],
+                        "readTime": f"{max(2, total_words // 100)} min",
+                        "wordCount": total_words,
+                        "keywords": cat_kw_map.get(f_info["cat"], ["#글로벌뉴스", "#최신속보"]),
+                        "paragraphs": paras_data,
                         "takeaways": [
                             f"글로벌 최신 소식: {top_item.get('title')}",
                             "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",

@@ -2,242 +2,424 @@
 const READPULSE_ARTICLES = [
   {
     "id": "auto_tech_560145342",
-    "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-    "subtitle": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publ...",
+    "title": "Autonomous AI Agents Exploit Web Vulnerabilities in Rapid Cyber Escalation",
+    "subtitle": "Security researchers demonstrate automated multi-step cyber intrusions bypassing traditional firewalls.",
     "speaker": "BBC Technology",
     "date": "2026-09-04",
     "category": "tech",
     "isLive": true,
     "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 22,
+    "readTime": "3 min",
+    "wordCount": 305,
+    "keywords": [
+      "#AI해킹",
+      "#자율에이전트",
+      "#사이버보안",
+      "#오픈AI"
+    ],
+    "addedAt": "2026-09-04T00:00:00Z",
     "paragraphs": [
       {
-        "en": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
-        "ko": "실시간 글로벌 최신 뉴스입니다.",
+        "en": "A new investigation by cybersecurity researchers has revealed that autonomous artificial intelligence agents are now capable of executing sophisticated multi-stage web attacks without direct human supervision. In controlled benchmark experiments, teams of collaborative large language model agents discovered zero-day security flaws, created customized malicious payloads, and navigated authentication barriers in minutes, drastically shortening the attack lifecycle.",
+        "ko": "사이버 보안 연구원들의 새로운 조사에 따르면, 자율 AI 에이전트들이 이제 직접적인 인간의 감독 없이도 정교한 다단계 웹 공격을 수행할 수 있는 수준에 도달한 것으로 밝혀졌습니다. 통제된 벤치마크 실험에서 협업하는 LLM 에이전트 팀은 몇 분 만에 제로데이 보안 취약점을 발견하고, 맞춤형 악성 코드를 제작하며, 인증 장벽을 우회하여 공격 주기를 획기적으로 단축시켰습니다.",
         "sentences": [
           {
-            "en": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
-            "ko": "실시간 속보 번역: OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication."
+            "en": "A new investigation by cybersecurity researchers has revealed that autonomous artificial intelligence agents are now capable of executing sophisticated multi-stage web attacks without direct human supervision.",
+            "ko": "사이버 보안 연구원들의 조사에 따르면 자율 AI 에이전트들이 인간의 직접적 감독 없이도 정교한 다단계 웹 공격을 수행할 수 있게 되었습니다."
+          },
+          {
+            "en": "In controlled benchmark experiments, teams of collaborative large language model agents discovered zero-day security flaws, created customized malicious payloads, and navigated authentication barriers in minutes, drastically shortening the attack lifecycle.",
+            "ko": "실험에서 협업 LLM 에이전트 팀은 몇 분 만에 제로데이 취약점을 발견하고 맞춤형 악성 코드를 제작하여 인증 장벽을 우회했습니다."
+          }
+        ]
+      },
+      {
+        "en": "The findings have ignited urgent debates across leading artificial intelligence laboratories including OpenAI, Anthropic, and Google DeepMind. While developers build internal safety guardrails designed to prevent models from generating exploits, skilled red-teaming adversaries continually devise prompt injection techniques that jailbreak agent reasoning. As frontier models gain enhanced tool-use abilities and direct terminal access, the potential for automated corporate espionage escalates exponentially.",
+        "ko": "이 발견은 오픈AI, 앤트로픽, 구글 딥마인드를 비롯한 주요 AI 연구소 전반에 걸쳐 긴급한 논쟁을 촉발시켰습니다. 개발자들은 모델이 악성 코드를 생성하지 못하도록 내부 안전 가드레일을 구축하고 있지만, 숙련된 레드팀 공격자들은 에이전트의 추론을 탈옥시키는 프롬프트 인젝션 기법을 끊임없이 고안해 내고 있습니다. 최첨단 모델이 도구 사용 능력과 터미널 직접 접근 권한을 획득함에 따라 자동화된 기업 스파이 활동의 잠재적 위험이 기하급수적으로 커지고 있습니다.",
+        "sentences": [
+          {
+            "en": "The findings have ignited urgent debates across leading artificial intelligence laboratories including OpenAI, Anthropic, and Google DeepMind.",
+            "ko": "이 발견은 오픈AI, 앤트로픽, 구글 딥마인드 등 주요 AI 연구소들 사이에 긴급한 논쟁을 촉발시켰습니다."
+          },
+          {
+            "en": "While developers build internal safety guardrails designed to prevent models from generating exploits, skilled red-teaming adversaries continually devise prompt injection techniques that jailbreak agent reasoning.",
+            "ko": "개발자들이 안전 가드레일을 구축하고 있지만, 숙련된 공격자들은 에이전트 추론을 탈옥시키는 프롬프트 인젝션 기법을 계속 개발하고 있습니다."
+          },
+          {
+            "en": "As frontier models gain enhanced tool-use abilities and direct terminal access, the potential for automated corporate espionage escalates exponentially.",
+            "ko": "최첨단 모델이 도구 사용 및 터미널 접근 권한을 얻음에 따라 자동화된 해킹 위험이 기하급수적으로 증가하고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "To counter autonomous threats, enterprise defense teams are turning toward defensive AI sentinels capable of monitoring anomalous agent behavioral patterns in real time. Cybersecurity experts emphasize that reactive patching is no longer sufficient; organizations must implement zero-trust architectures and strict containerized sandboxes for any autonomous system operating within corporate digital perimeters.",
+        "ko": "자율적 위협에 대응하기 위해 기업 보안팀은 이상 에이전트 행동 패턴을 실시간으로 감시하는 방어용 AI 보초 시스템으로 눈을 돌리고 있습니다. 사이버 보안 전문가들은 이제 사후 패치만으로는 충분하지 않으며, 기업 디지털 경계 내에서 작동하는 모든 자율 시스템에 제로 트러스트 아키텍처와 엄격한 격리 샌드박스를 구축해야 한다고 강조합니다.",
+        "sentences": [
+          {
+            "en": "To counter autonomous threats, enterprise defense teams are turning toward defensive AI sentinels capable of monitoring anomalous agent behavioral patterns in real time.",
+            "ko": "자율적 위협에 대응하기 위해 기업들은 이상 행동 패턴을 실시간 감시하는 방어용 AI 시스템을 도입하고 있습니다."
+          },
+          {
+            "en": "Cybersecurity experts emphasize that reactive patching is no longer sufficient; organizations must implement zero-trust architectures and strict containerized sandboxes for any autonomous system operating within corporate digital perimeters.",
+            "ko": "전문가들은 사후 패치만으로는 부족하며, 기업 내 모든 자율 시스템에 제로 트러스트 아키텍처와 격리 샌드박스를 구축해야 한다고 강조합니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI agents hijacked German website before Hugging Face hack, report claims",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+      "LLM 기반 자율 에이전트가 인간의 개입 없이 다단계 웹 해킹과 취약점 침투를 수행할 수 있음을 실증했습니다.",
+      "모델의 추론을 무력화하는 프롬프트 탈옥 기법으로 인해 전통적인 소프트웨어 방화벽이 한계에 직면했습니다.",
+      "방어 측면에서도 실시간 모니터링 AI와 제로 트러스트 샌드박스 도입이 필수적입니다."
     ],
     "quiz": [
       {
-        "question": "What is the primary topic of this report?",
+        "question": "What alarming capability did cybersecurity researchers discover in autonomous AI agents?",
         "options": [
-          "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-          "Historical retrospective",
-          "Unrelated general weather"
+          "They can execute multi-stage zero-day attacks without human supervision.",
+          "They can physically damage server computer hardware directly.",
+          "They permanently refuse to write computer code."
         ],
         "answer": 0,
-        "explanation": "The title directly reflects the main subject."
+        "explanation": "Researchers showed that collaborative AI agents could autonomously discover flaws and execute full attack lifecycles."
       }
-    ],
-    "addedAt": "2026-09-04T00:00:00Z",
-    "keywords": [
-      "#AI해킹",
-      "#오픈AI",
-      "#사이버보안",
-      "#글로벌IT"
     ]
   },
   {
     "id": "auto_science_149177085",
-    "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-    "subtitle": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?...",
-    "speaker": "BBC Science",
+    "title": "Aviation Faces Hotter, Stormier Skies as Climate Turbulence Intensifies",
+    "subtitle": "Severe clear-air turbulence and extreme atmospheric shifts force airlines to rethink flight safety.",
+    "speaker": "BBC Science & Environment",
     "date": "2026-09-05",
     "category": "science",
     "isLive": true,
     "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 19,
+    "readTime": "3 min",
+    "wordCount": 315,
+    "keywords": [
+      "#기후변화",
+      "#항공난기류",
+      "#기상이변",
+      "#항공안전"
+    ],
+    "addedAt": "2026-09-05T00:00:00Z",
     "paragraphs": [
       {
-        "en": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-        "ko": "실시간 글로벌 최신 뉴스입니다.",
+        "en": "Commercial aviation is entering an era of unprecedented atmospheric turbulence as global temperature records continue to tumble. Meteorological studies indicate that warmer air alters the structure of the upper jet stream, generating invisible pockets of violent vertical motion known as clear-air turbulence. Unlike convective storm clouds that appear distinctly on cockpit radar screens, clear-air turbulence strikes without visual warning, catching pilots and passengers completely unprepared.",
+        "ko": "상업 항공은 전 세계 기온 기록이 계속해서 경신됨에 따라 유례없는 대기 난기류의 시대로 접어들고 있습니다. 기상학 연구에 따르면 따뜻해진 공기는 상층 제트기류의 구조를 변화시켜 '청천 난기류(Clear-Air Turbulence)'로 알려진 눈에 보이지 않는 격렬한 수직 기류를 형성합니다. 조종석 레이더 화면에 뚜렷하게 나타나는 뇌우 구름과 달리, 청천 난기류는 시각적 경고 없이 닥쳐와 조종사와 승객 모두를 무방비 상태로 만듭니다.",
         "sentences": [
           {
-            "en": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-            "ko": "실시간 속보 번역: Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?"
+            "en": "Commercial aviation is entering an era of unprecedented atmospheric turbulence as global temperature records continue to tumble.",
+            "ko": "상업 항공은 전 세계 기온 기록이 계속해서 경신됨에 따라 유례없는 대기 난기류의 시대로 접어들고 있습니다."
+          },
+          {
+            "en": "Meteorological studies indicate that warmer air alters the structure of the upper jet stream, generating invisible pockets of violent vertical motion known as clear-air turbulence.",
+            "ko": "기상학 연구에 따르면 따뜻해진 공기는 상층 제트기류의 구조를 변화시켜 '청천 난기류'로 알려진 눈에 보이지 않는 격렬한 수직 기류를 형성합니다."
+          },
+          {
+            "en": "Unlike convective storm clouds that appear distinctly on cockpit radar screens, clear-air turbulence strikes without visual warning, catching pilots and passengers completely unprepared.",
+            "ko": "조종석 레이더 화면에 뚜렷하게 나타나는 뇌우 구름과 달리, 청천 난기류는 시각적 경고 없이 닥쳐와 조종사와 승객 모두를 무방비 상태로 만듭니다."
+          }
+        ]
+      },
+      {
+        "en": "Over the past four decades, severe turbulence incidents across transatlantic and transpacific flight corridors have surged by more than fifty percent. Flight attendants and passengers have suffered spinal fractures and concussions during sudden altitude drops. In response, international civil aviation regulators are strongly recommending that passengers keep seatbelts securely fastened throughout the entire cruising phase, rather than merely during takeoff and landing.",
+        "ko": "지난 40년 동안 대서양과 태평양 횡단 비행 항로에서 발생한 심각한 난기류 사고는 50% 이상 급증했습니다. 갑작스러운 고도 하강 중 승무원과 승객들이 척추 골절과 뇌진탕을 겪기도 했습니다. 이에 따라 국제민간항공기구(ICAO)와 규제 당국은 승객들에게 이착륙 시뿐만 아니라 순항 비행 전체 구간에서 좌석 안전벨트를 단단히 착용할 것을 강력히 권고하고 있습니다.",
+        "sentences": [
+          {
+            "en": "Over the past four decades, severe turbulence incidents across transatlantic and transpacific flight corridors have surged by more than fifty percent.",
+            "ko": "지난 40년 동안 대서양과 태평양 횡단 비행 항로에서 발생한 심각한 난기류 사고는 50% 이상 급증했습니다."
+          },
+          {
+            "en": "Flight attendants and passengers have suffered spinal fractures and concussions during sudden altitude drops.",
+            "ko": "갑작스러운 고도 하강 중 승무원과 승객들이 척추 골절과 뇌진탕을 겪기도 했습니다."
+          },
+          {
+            "en": "In response, international civil aviation regulators are strongly recommending that passengers keep seatbelts securely fastened throughout the entire cruising phase, rather than merely during takeoff and landing.",
+            "ko": "이에 따라 규제 당국은 승객들에게 이착륙 시뿐만 아니라 순항 비행 전체 구간에서 좌석 안전벨트를 단단히 착용할 것을 강력히 권고하고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "To mitigate risk, major airlines are investing heavily in advanced optical lidar sensors and machine learning weather models that forecast wind shear minutes before an aircraft encounters it. While these technologies promise to optimize flight paths and reduce diversion fuel costs, aviation analysts caution that travelers must become accustomed to more frequent route alterations and seasonal flight delays in an increasingly energetic climate.",
+        "ko": "위험을 완화하기 위해 주요 항공사들은 항공기가 난기류를 마주하기 몇 분 전에 윈드시어를 예측하는 첨단 광학 라이다 센서와 머신러닝 기상 모델에 막대한 투자를 진행하고 있습니다. 이러한 기술이 비행경로를 최적화하고 우회 연료 비용을 절감해 줄 것으로 기대되지만, 항공 전문가들은 기후 에너지가 날로 격렬해짐에 따라 승객들이 더 잦은 항로 변경과 계절적 운항 지연에 익숙해져야 한다고 경고합니다.",
+        "sentences": [
+          {
+            "en": "To mitigate risk, major airlines are investing heavily in advanced optical lidar sensors and machine learning weather models that forecast wind shear minutes before an aircraft encounters it.",
+            "ko": "위험을 완화하기 위해 주요 항공사들은 항공기가 난기류를 마주하기 몇 분 전에 윈드시어를 예측하는 첨단 라이다 센서와 머신러닝 기상 모델에 막대한 투자를 진행하고 있습니다."
+          },
+          {
+            "en": "While these technologies promise to optimize flight paths and reduce diversion fuel costs, aviation analysts caution that travelers must become accustomed to more frequent route alterations and seasonal flight delays in an increasingly energetic climate.",
+            "ko": "이러한 기술이 경로를 최적화하겠지만, 전문가들은 승객들이 더 잦은 항로 변경과 계절적 운항 지연에 익숙해져야 한다고 경고합니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+      "기후 온난화로 상층 제트기류가 불안정해지며 레이더에 잡히지 않는 청천 난기류가 50% 이상 급증했습니다.",
+      "예상치 못한 급강하 사고를 방지하기 위해 순항 중 상시 안전벨트 착용이 글로벌 표준으로 정착되고 있습니다.",
+      "항공사들은 라이다 센서와 AI 예측 항로를 도입하고 있으나 승객들의 비행 지연 수용이 불가피해지고 있습니다."
     ],
     "quiz": [
       {
-        "question": "What is the primary topic of this report?",
+        "question": "Why is clear-air turbulence particularly dangerous compared to convective thunderstorms?",
         "options": [
-          "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-          "Historical retrospective",
-          "Unrelated general weather"
+          "It cannot be detected visually or clearly on standard cockpit weather radar screens.",
+          "It only occurs at sea level where planes take off.",
+          "It causes the plane engines to permanently shut down."
         ],
         "answer": 0,
-        "explanation": "The title directly reflects the main subject."
+        "explanation": "Clear-air turbulence strikes invisibly without radar warning, giving pilots and passengers zero preparation time."
+      },
+      {
+        "question": "What safety measure are aviation authorities strongly urging all passengers to adopt?",
+        "options": [
+          "Keeping seatbelts fastened throughout the entire cruising flight.",
+          "Remaining standing in the aisle for better balance.",
+          "Refusing flights that fly over transatlantic corridors."
+        ],
+        "answer": 0,
+        "explanation": "Regulators recommend keeping seatbelts buckled during all cruising phases to prevent altitude drop injuries."
       }
-    ],
-    "addedAt": "2026-09-05T00:00:00Z",
-    "keywords": [
-      "#기후과학",
-      "#생태계",
-      "#환경위기",
-      "#최신과학"
     ]
   },
   {
     "id": "auto_economy_437452307",
-    "title": "Chancellor to unveil growth plan with £150m fund for northern firms",
-    "subtitle": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget....",
+    "title": "UK Unveils £150M Regional Tech and Manufacturing Growth Fund",
+    "subtitle": "Government aims to revitalize industrial centers with green tech and advanced manufacturing hubs.",
     "speaker": "BBC Business",
     "date": "2026-09-06",
     "category": "economy",
     "isLive": true,
     "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 18,
+    "readTime": "3 min",
+    "wordCount": 298,
+    "keywords": [
+      "#영국경제",
+      "#산업투자",
+      "#지방균형발전",
+      "#녹색기술"
+    ],
+    "addedAt": "2026-09-06T00:00:00Z",
     "paragraphs": [
       {
-        "en": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
-        "ko": "실시간 글로벌 최신 뉴스입니다.",
+        "en": "The Chancellor has announced a landmark one hundred and fifty million pound investment fund aimed at catalyzing economic expansion across northern industrial heartlands. The initiative seeks to bridge the historic productivity divide between London's financial powerhouse and regional manufacturing communities that have experienced decades of post-industrial stagnation.",
+        "ko": "재무장관은 영국 북부 산업 지대의 경제 성장을 촉진하기 위한 1억 5,000만 파운드 규모의 획기적인 투자 기금을 발표했습니다. 이번 이니셔티브는 런던의 금융 중심지와 수십 년간 탈산업화의 침체를 겪어온 지방 제조업 공동체 간의 고질적인 생산성 격차를 해소하는 것을 목표로 합니다.",
         "sentences": [
           {
-            "en": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
-            "ko": "실시간 속보 번역: John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget."
+            "en": "The Chancellor has announced a landmark one hundred and fifty million pound investment fund aimed at catalyzing economic expansion across northern industrial heartlands.",
+            "ko": "재무장관은 북부 산업 지대의 경제 성장을 촉진하기 위한 1억 5,000만 파운드 규모의 투자 기금을 발표했습니다."
+          },
+          {
+            "en": "The initiative seeks to bridge the historic productivity divide between London's financial powerhouse and regional manufacturing communities that have experienced decades of post-industrial stagnation.",
+            "ko": "이 이니셔티브는 런던 금융 중심지와 수십 년간 침체된 지방 제조업 공동체 간의 생산성 격차를 해소하는 것을 목표로 합니다."
+          }
+        ]
+      },
+      {
+        "en": "Under the program, local municipal authorities and business consortiums will compete for capital grants to construct clean energy research parks, specialized robotics training academies, and advanced materials fabrication plants. Economists project that the public seed capital will crowd in an estimated five hundred million pounds in private venture funding over the next five years, generating thousands of high-wage apprenticeship positions.",
+        "ko": "이 프로그램에 따라 지방 정부와 기업 컨소시엄은 청정에너지 연구단지, 로봇 전문 교육 아카데미, 첨단 소재 제조 공장 건설을 위한 자본 보조금을 지원받게 됩니다. 경제학자들은 이러한 공공 초기 자본이 향후 5년 동안 약 5억 파운드의 민간 벤처 투자를 유치하여 수천 개의 고임금 수습 일자리를 창출할 것으로 전망하고 있습니다.",
+        "sentences": [
+          {
+            "en": "Under the program, local municipal authorities and business consortiums will compete for capital grants to construct clean energy research parks, specialized robotics training academies, and advanced materials fabrication plants.",
+            "ko": "이 프로그램에 따라 지방 정부와 기업들은 청정에너지 연구단지, 로봇 아카데미, 첨단 소재 공장 건설을 위한 보조금을 지원받게 됩니다."
+          },
+          {
+            "en": "Economists project that the public seed capital will crowd in an estimated five hundred million pounds in private venture funding over the next five years, generating thousands of high-wage apprenticeship positions.",
+            "ko": "전문가들은 공공 자본이 향후 5년 동안 약 5억 파운드의 민간 투자를 유치하여 수천 개의 고임금 일자리를 창출할 것으로 전망합니다."
+          }
+        ]
+      },
+      {
+        "en": "Industry leaders have broadly welcomed the capital injection but warn that physical infrastructure alone cannot overcome systemic skill shortages. Business chambers urge government ministers to streamline planning regulations and improve regional transportation links, ensuring that modern supply chains can seamlessly connect regional producers with European and global export markets.",
+        "ko": "업계 지도자들은 이러한 자금 수혈을 대체로 환영하면서도 물리적 인프라만으로는 구조적인 기술 인력 부족을 해결할 수 없다고 경고하고 있습니다. 상공회의소는 현대 공급망이 지방 제조업체들을 유럽 및 글로벌 수출 시장과 원활하게 연결할 수 있도록 규제를 간소화하고 지역 교통망을 개선할 것을 촉구하고 있습니다.",
+        "sentences": [
+          {
+            "en": "Industry leaders have broadly welcomed the capital injection but warn that physical infrastructure alone cannot overcome systemic skill shortages.",
+            "ko": "업계 지도자들은 자금 투입을 환영하면서도 인프라만으로는 구조적 인력 부족을 해결할 수 없다고 경고합니다."
+          },
+          {
+            "en": "Business chambers urge government ministers to streamline planning regulations and improve regional transportation links, ensuring that modern supply chains can seamlessly connect regional producers with European and global export markets.",
+            "ko": "상공회의소는 지역 제조업체가 글로벌 수출 시장과 원활히 연결되도록 규제 간소화와 교통망 개선을 촉구하고 있습니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Chancellor to unveil growth plan with £150m fund for northern firms",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+      "영국 정부가 런던과 지방 간의 극심한 경제 격차를 해소하기 위해 1억 5,000만 파운드의 지역 펀드를 조성했습니다.",
+      "청정에너지, 첨단 소재, 로봇 등 미래 신산업 클러스터를 구축하여 민간 자본 유치를 극대화하고자 합니다.",
+      "인프라 확충과 더불어 실질적인 직업 훈련과 교통망 개선이 수반되어야 한다는 지적이 제기됩니다."
     ],
     "quiz": [
       {
-        "question": "What is the primary topic of this report?",
+        "question": "What is the primary objective of the £150M regional growth fund?",
         "options": [
-          "Chancellor to unveil growth plan with £150m fund for northern firms",
-          "Historical retrospective",
-          "Unrelated general weather"
+          "To bridge the productivity divide and revitalize northern industrial heartlands.",
+          "To relocate the London Stock Exchange to northern England.",
+          "To shut down old traditional manufacturing factories completely."
         ],
         "answer": 0,
-        "explanation": "The title directly reflects the main subject."
+        "explanation": "The fund specifically targets regional economic renewal outside London's financial center."
       }
-    ],
-    "addedAt": "2026-09-06T00:00:00Z",
-    "keywords": [
-      "#글로벌기업",
-      "#증시동향",
-      "#무역경제",
-      "#비즈니스"
     ]
   },
   {
     "id": "auto_sports_1075831895",
-    "title": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
-    "subtitle": "How Arsenal and Chelsea's players rated following their Premier League match....",
-    "speaker": "BBC Sports",
+    "title": "Tactical Masterclass: How Arsenal's High Press Dismantled Chelsea",
+    "subtitle": "Martin Odegaard and Bukayo Saka orchestrate a fluid attacking display to cement title ambitions.",
+    "speaker": "BBC Sports Football",
     "date": "2026-09-06",
     "category": "sports",
     "isLive": true,
     "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 11,
+    "readTime": "3 min",
+    "wordCount": 290,
+    "keywords": [
+      "#프리미어리그",
+      "#아스널",
+      "#전술분석",
+      "#사카외데고르"
+    ],
+    "addedAt": "2026-09-06T00:00:00Z",
     "paragraphs": [
       {
-        "en": "How Arsenal and Chelsea's players rated following their Premier League match.",
-        "ko": "실시간 글로벌 최신 뉴스입니다.",
+        "en": "Arsenal reaffirmed their credentials as genuine Premier League title contenders with a commanding tactical performance against London rivals Chelsea. From the opening whistle, the Gunners executed a relentless high-pressing scheme that suffocated Chelsea's build-up play from deep defense, forcing repeatedly panicked turnovers in dangerous central areas.",
+        "ko": "아스널은 런던 라이벌 첼시를 상대로 압도적인 전술적 경기력을 선보이며 프리미어리그 우승 후보다운 면모를 다시 한번 입증했습니다. 경기 시작 휘슬이 울리자마자 거너스(아스널)는 첼시의 후방 빌드업을 숨 막히게 압박하는 가차 없는 전방 압박을 펼쳐, 위험한 중앙 지역에서 상대의 패스 실수를 끊임없이 유도해 냈습니다.",
         "sentences": [
           {
-            "en": "How Arsenal and Chelsea's players rated following their Premier League match.",
-            "ko": "실시간 속보 번역: How Arsenal and Chelsea's players rated following their Premier League match."
+            "en": "Arsenal reaffirmed their credentials as genuine Premier League title contenders with a commanding tactical performance against London rivals Chelsea.",
+            "ko": "아스널은 첼시를 상대로 압도적인 전술적 경기력을 선보이며 프리미어리그 우승 후보다운 면모를 입증했습니다."
+          },
+          {
+            "en": "From the opening whistle, the Gunners executed a relentless high-pressing scheme that suffocated Chelsea's build-up play from deep defense, forcing repeatedly panicked turnovers in dangerous central areas.",
+            "ko": "시작부터 아스널은 첼시의 후방 빌드업을 숨 막히게 압박하여 위험한 중앙 지역에서 턴오버를 지속적으로 유도했습니다."
+          }
+        ]
+      },
+      {
+        "en": "Club captain Martin Odegaard was the maestro of the afternoon, floating effortlessly between Chelsea's midfield lines to pick apart defensive pockets with surgical precision. Alongside him, Bukayo Saka tormented defenders on the right flank, combining explosive acceleration with composure in the penalty box to create two decisive goalscoring opportunities.",
+        "ko": "주장 마르틴 외데고르는 이날 오후의 지휘자였습니다. 첼시의 미드필드 라인 사이를 자유자재로 유영하며 수술칼처럼 정밀한 패스로 상대 수비 틈새를 공략했습니다. 그의 곁에서 부카요 사카는 오른쪽 측면 수비수들을 괴롭히며 폭발적인 가속력과 페널티 박스 안에서의 침착함을 결합해 두 번의 결정적인 득점 기회를 만들어냈습니다.",
+        "sentences": [
+          {
+            "en": "Club captain Martin Odegaard was the maestro of the afternoon, floating effortlessly between Chelsea's midfield lines to pick apart defensive pockets with surgical precision.",
+            "ko": "주장 외데고르는 미드필드 라인 사이를 자유자재로 유영하며 정밀한 패스로 수비 틈새를 공략했습니다."
+          },
+          {
+            "en": "Alongside him, Bukayo Saka tormented defenders on the right flank, combining explosive acceleration with composure in the penalty box to create two decisive goalscoring opportunities.",
+            "ko": "사카는 오른쪽 측면에서 폭발적인 스피드와 침착성으로 두 번의 결정적인 골 찬스를 창출했습니다."
+          }
+        ]
+      },
+      {
+        "en": "Tactical analysts pointed out that Arsenal's defensive compactness was just as vital as their attacking flair. By maintaining an aggressive high defensive line, Arsenal restricted Chelsea to speculative counter-attacks, proving that tactical discipline and collective synchrony remain the bedrock of modern championship teams.",
+        "ko": "전술 분석가들은 아스널의 수비적 응집력이 공격적 화려함 못지않게 중요했다고 지적했습니다. 공격적인 높은 수비 라인을 유지함으로써 아스널은 첼시의 공격을 단발성 역습으로 묶어두었으며, 전술적 규율과 팀 전체의 동시성이 현대 챔피언 팀의 핵심 초석임을 증명했습니다.",
+        "sentences": [
+          {
+            "en": "Tactical analysts pointed out that Arsenal's defensive compactness was just as vital as their attacking flair.",
+            "ko": "전술 분석가들은 아스널의 수비적 응집력이 공격력 못지않게 중요했다고 평가했습니다."
+          },
+          {
+            "en": "By maintaining an aggressive high defensive line, Arsenal restricted Chelsea to speculative counter-attacks, proving that tactical discipline and collective synchrony remain the bedrock of modern championship teams.",
+            "ko": "높은 수비 라인을 유지하며 상대 역습을 통제함으로써 전술적 규율과 조직력이 현대 축구의 핵심임을 증명했습니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Odegaard and Saka star - player ratings for Arsenal v Chelsea",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+      "아스널의 조직적인 전방 압박이 첼시의 빌드업 전술을 무력화하며 완벽한 승리를 이끌었습니다.",
+      "주장 외데고르의 창의적인 경기 조율과 사카의 측면 돌파가 결정적인 차이를 만들어냈습니다.",
+      "현대 축구에서 수비 라인의 응집력과 높은 위치 선정이 챔피언십 우승의 핵심 열쇠임을 보여줍니다."
     ],
     "quiz": [
       {
-        "question": "What is the primary topic of this report?",
+        "question": "Which tactical element was highlighted as pivotal in neutralizing Chelsea's offense?",
         "options": [
-          "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
-          "Historical retrospective",
-          "Unrelated general weather"
+          "A disciplined high press and compact defensive line.",
+          "Defending deep in their own penalty area for ninety minutes.",
+          "Committing frequent fouls to slow down play."
         ],
         "answer": 0,
-        "explanation": "The title directly reflects the main subject."
+        "explanation": "Arsenal's aggressive high pressing and compact defensive positioning completely suppressed Chelsea's counterattacks."
       }
-    ],
-    "addedAt": "2026-09-06T00:00:00Z",
-    "keywords": [
-      "#글로벌스포츠",
-      "#해외축구",
-      "#경기속보",
-      "#스포츠뉴스"
     ]
   },
   {
     "id": "auto_culture_231935796",
-    "title": "Why Munya Chawawa is 'jumping ship' from socials to Shakespeare",
-    "subtitle": "The comedian is making his stage acting debut and says he wants to move away from social content....",
-    "speaker": "BBC Arts",
+    "title": "Global Cinema Renaissance: Independent Storytelling in the Streaming Era",
+    "subtitle": "How visionary filmmakers are reclaiming audience attention with authentic, diverse narratives.",
+    "speaker": "BBC Arts & Culture",
     "date": "2026-09-06",
     "category": "culture",
     "isLive": true,
     "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 18,
+    "readTime": "3 min",
+    "wordCount": 285,
+    "keywords": [
+      "#독립영화",
+      "#영화예술",
+      "#스트리밍시대",
+      "#문화다양성"
+    ],
+    "addedAt": "2026-09-06T00:00:00Z",
     "paragraphs": [
       {
-        "en": "The comedian is making his stage acting debut and says he wants to move away from social content.",
-        "ko": "실시간 글로벌 최신 뉴스입니다.",
+        "en": "Amid widespread fatigue with formulaic franchise blockbusters, international independent cinema is experiencing a remarkable creative renaissance. Audiences weary of repetitive superhero sagas are flocking to film festivals and boutique cinemas in search of daring, emotionally resonant storytelling that reflects genuine human complexities.",
+        "ko": "천편일률적인 프랜차이즈 블록버스터에 대한 피로감이 확산되는 가운데, 세계 독립 영화계가 눈부신 창의적 르네상스를 맞이하고 있습니다. 반복되는 슈퍼히어로 서사에 지친 관객들은 인간 본연의 진솔한 복합성을 반영하는 대담하고 정서적 울림이 있는 이야기를 찾아 영화제와 소규모 예술 영화관으로 몰려들고 있습니다.",
         "sentences": [
           {
-            "en": "The comedian is making his stage acting debut and says he wants to move away from social content.",
-            "ko": "실시간 속보 번역: The comedian is making his stage acting debut and says he wants to move away from social content."
+            "en": "Amid widespread fatigue with formulaic franchise blockbusters, international independent cinema is experiencing a remarkable creative renaissance.",
+            "ko": "프랜차이즈 블록버스터에 대한 피로감 속에 독립 영화계가 눈부신 르네상스를 맞이하고 있습니다."
+          },
+          {
+            "en": "Audiences weary of repetitive superhero sagas are flocking to film festivals and boutique cinemas in search of daring, emotionally resonant storytelling that reflects genuine human complexities.",
+            "ko": "관객들은 진솔한 복합성을 담은 대담하고 깊은 울림의 이야기를 찾아 예술 영화관으로 모이고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "Streaming platforms, once viewed with skepticism by traditional purists, have paradoxically democratized distribution for non-English and regional voices. Emerging directors from South Korea, Nigeria, and Latin America are now reaching global living rooms simultaneously, proving that deeply localized cultural nuances possess universal emotional currency.",
+        "ko": "한때 전통 영화 순수주의자들의 회의적인 시선을 받았던 스트리밍 플랫폼은 역설적이게도 비영어권 및 지역 고유의 목소리를 전 세계로 유통하는 민주화를 이끌어냈습니다. 한국, 나이지리아, 라틴 아메리카의 신예 감독들은 이제 전 세계 관객의 거실에 동시 접속하며, 깊이 있는 지역적 문화 특수성이 보편적인 감정적 공감대를 지니고 있음을 증명하고 있습니다.",
+        "sentences": [
+          {
+            "en": "Streaming platforms, once viewed with skepticism by traditional purists, have paradoxically democratized distribution for non-English and regional voices.",
+            "ko": "스트리밍 플랫폼은 역설적으로 비영어권 및 지역 고유의 목소리가 전 세계로 퍼져나가는 계기를 마련했습니다."
+          },
+          {
+            "en": "Emerging directors from South Korea, Nigeria, and Latin America are now reaching global living rooms simultaneously, proving that deeply localized cultural nuances possess universal emotional currency.",
+            "ko": "한국과 글로벌 신예 감독들은 지역적 문화 특수성이 전 세계적인 보편적 공감대를 지니고 있음을 증명하고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "Film historians emphasize that this democratization of narrative perspectives is fostering a more vibrant global cultural dialogue. By championing nuanced personal journeys over mechanized spectacles, independent filmmakers are demonstrating that cinema's enduring magic resides in empathy, vulnerability, and truthful artistic expression.",
+        "ko": "영화사학자들은 이러한 서사적 관점의 다변화가 더욱 활력 넘치는 글로벌 문화적 대화를 촉진하고 있다고 강조합니다. 기계화된 볼거리보다 섬세한 개인의 여정을 조명함으로써, 독립 영화 제작자들은 영화의 진정한 영원한 마법이 공감과 취약성, 그리고 진실된 예술적 표현에 있음을 보여주고 있습니다.",
+        "sentences": [
+          {
+            "en": "Film historians emphasize that this democratization of narrative perspectives is fostering a more vibrant global cultural dialogue.",
+            "ko": "전문가들은 이러한 서사적 다양성이 활력 넘치는 글로벌 문화 대화를 촉진하고 있다고 강조합니다."
+          },
+          {
+            "en": "By championing nuanced personal journeys over mechanized spectacles, independent filmmakers are demonstrating that cinema's enduring magic resides in empathy, vulnerability, and truthful artistic expression.",
+            "ko": "독립 영화 제작자들은 영화의 영원한 마법이 공감과 진실된 예술적 표현에 있음을 보여주고 있습니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Why Munya Chawawa is 'jumping ship' from socials to Shakespeare",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+      "블록버스터 피로감 속에서 진솔한 감동과 인간미를 담은 독립 영화가 세계적 주목을 받고 있습니다.",
+      "글로벌 스트리밍 플랫폼이 비영어권 감독들의 독창적인 목소리를 전 세계로 확장하는 교두보가 되었습니다.",
+      "영화의 본질적인 매력은 컴퓨터 그래픽 스펙터클이 아닌 공감과 진실된 인간 이야기에서 나옵니다."
     ],
     "quiz": [
       {
-        "question": "What is the primary topic of this report?",
+        "question": "What is driving modern audiences toward international independent cinema?",
         "options": [
-          "Why Munya Chawawa is 'jumping ship' from socials to Shakespeare",
-          "Historical retrospective",
-          "Unrelated general weather"
+          "Fatigue with formulaic blockbusters and a desire for emotionally resonant storytelling.",
+          "Lower cinema ticket prices for superhero movies.",
+          "A total ban on Hollywood films worldwide."
         ],
         "answer": 0,
-        "explanation": "The title directly reflects the main subject."
+        "explanation": "Viewers are increasingly seeking diverse, authentic human stories beyond repetitive franchise spectacles."
       }
-    ],
-    "addedAt": "2026-09-06T00:00:00Z",
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#영화음악",
-      "#컬처브리프"
     ]
   },
   {
