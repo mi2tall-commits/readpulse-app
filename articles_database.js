@@ -2,17 +2,17 @@
 const READPULSE_ARTICLES = [
   {
     "id": "sports_tennis_01",
-    "title": "The New Era of Men's Tennis: Carlos Alcaraz, Jannik Sinner, and the Evolution of Modern Power Baseliners",
-    "subtitle": "How explosive court coverage, aggressive heavy topspin, and mental composure are redefining Grand Slam rivalries.",
+    "title": "A New Era in Tennis: Carlos Alcaraz and Jannik Sinner",
+    "subtitle": "Two young tennis stars are bringing fast, exciting power tennis to fans around the world.",
     "speaker": "Tennis World Magazine",
     "date": "2026-09-06",
     "category": "sports",
     "sportSubcat": "tennis",
     "sportPriority": 1,
     "isLive": true,
-    "level": "B2",
+    "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 312,
+    "wordCount": 248,
     "keywords": [
       "#테니스",
       "#알카라스",
@@ -22,91 +22,107 @@ const READPULSE_ARTICLES = [
     "addedAt": "2026-09-06T08:00:00Z",
     "paragraphs": [
       {
-        "en": "Men's professional tennis has officially entered an electrifying new era defined by the generational rivalry between Carlos Alcaraz and Jannik Sinner. Following two decades of historic dominance by the Big Three—Roger Federer, Rafael Nadal, and Novak Djokovic—these young champions represent a complete tactical and athletic metamorphosis of baseline tennis. Rather than waiting passively for unforced opponent errors, both players play on top of the baseline, relentlessly attacking every short ball with devastating groundstroke velocity and extraordinary rotational spin.",
-        "ko": "남자 프로 테니스는 카를로스 알카라스와 얀니크 신너 간의 세대적 라이벌 구도로 정의되는 짜릿한 새로운 시대에 공식 진입했습니다. 로저 페더러, 라파엘 나달, 노박 조코비치로 이어지는 '빅3'의 20년간의 역사적 지배 이후, 이 젊은 챔피언들은 베이스라인 테니스의 완전한 전술적·운동역학적 변모를 보여줍니다. 상대의 실책을 수동적으로 기다리기보다, 두 선수는 베이스라인에 바짝 붙어 플레이하며 폭발적인 스트로크 구속과 강력한 회전 스핀으로 모든 짧은 공을 가차 없이 공격합니다.",
+        "en": "Men's tennis has entered an exciting new chapter with two young champions, Carlos Alcaraz and Jannik Sinner. For twenty years, fans loved watching the Big Three: Roger Federer, Rafael Nadal, and Novak Djokovic. Now, Alcaraz and Sinner are showing a new style of tennis. They do not wait for the other player to make mistakes. Instead, they stand close to the baseline and hit every ball with great speed and heavy spin.",
+        "ko": "남자 테니스는 카를로스 알카라스와 얀니크 신너라는 두 명의 젊은 챔피언과 함께 흥미진진한 새로운 장을 맞이했습니다. 지난 20년 동안 팬들은 페더러, 나달, 조코비치로 이어지는 '빅3'의 경기를 즐겨 보았습니다. 이제 알카라스와 신너는 새로운 스타일의 테니스를 보여주고 있습니다. 그들은 상대방의 실수를 기다리지 않고, 베이스라인 가까이 서서 빠른 속도와 강한 스핀으로 모든 공을 적극적으로 공격합니다.",
         "sentences": [
           {
-            "en": "Men's professional tennis has officially entered an electrifying new era defined by the generational rivalry between Carlos Alcaraz and Jannik Sinner.",
-            "ko": "남자 프로 테니스는 카를로스 알카라스와 얀니크 신너 간의 세대적 라이벌 구도로 정의되는 짜릿한 새로운 시대에 공식 진입했습니다."
+            "en": "Men's tennis has entered an exciting new chapter with two young champions, Carlos Alcaraz and Jannik Sinner.",
+            "ko": "남자 테니스는 카를로스 알카라스와 얀니크 신너라는 두 젊은 챔피언과 함께 새로운 장을 맞이했습니다."
           },
           {
-            "en": "Following two decades of historic dominance by the Big Three—Roger Federer, Rafael Nadal, and Novak Djokovic—these young champions represent a complete tactical and athletic metamorphosis of baseline tennis.",
-            "ko": "빅3의 20년간의 역사적 지배 이후, 이 젊은 챔피언들은 베이스라인 테니스의 완전한 전술적·운동역학적 변모를 보여줍니다."
+            "en": "For twenty years, fans loved watching the Big Three: Roger Federer, Rafael Nadal, and Novak Djokovic.",
+            "ko": "20년 동안 팬들은 페더러, 나달, 조코비치 '빅3'의 경기를 사랑했습니다."
           },
           {
-            "en": "Rather than waiting passively for unforced opponent errors, both players play on top of the baseline, relentlessly attacking every short ball with devastating groundstroke velocity and extraordinary rotational spin.",
-            "ko": "상대의 실책을 기다리기보다 두 선수는 베이스라인에 붙어 폭발적인 구속과 회전 스핀으로 공격을 퍼붓습니다."
+            "en": "Now, Alcaraz and Sinner are showing a new style of tennis.",
+            "ko": "이제 알카라스와 신너는 새로운 스타일의 테니스를 보여주고 있습니다."
+          },
+          {
+            "en": "They do not wait for the other player to make mistakes.",
+            "ko": "그들은 상대 선수의 실수를 수동적으로 기다리지 않습니다."
+          },
+          {
+            "en": "Instead, they stand close to the baseline and hit every ball with great speed and heavy spin.",
+            "ko": "대신 베이스라인에 바짝 붙어 빠른 속도와 강한 회전으로 공을 칩니다."
           }
         ]
       },
       {
-        "en": "What separates modern tennis superstars from earlier generations is the unprecedented fusion of raw kinetic power and multidirectional flexibility. High-speed video motion tracking reveals that Alcaraz and Sinner generate racket-head speeds exceeding eighty miles per hour on forehand groundstrokes while sliding aggressively on hard courts like clay specialists. Their open-stance kinetic chains distribute rotational torque through the core and hips, allowing them to recover court balance within tenths of a second after hitting defensive counter-punches.",
-        "ko": "현대 테니스 슈퍼스타들을 이전 세대와 구분 짓는 핵심은 압도적인 운동 에너지와 다방향 유연성의 유례없는 결합입니다. 초고속 비디오 모션 트래킹 분석에 따르면, 알카라스와 신너는 클레이 코트 전문가처럼 하드 코트에서도 거침없이 미끄러지며 시속 80마일이 넘는 포핸드 라켓 헤드 스피드를 생성합니다. 이들의 오픈 스탠스 운동 사슬은 코어와 골반을 통해 회전 토크를 분산시켜, 수비적인 카운터 스트로크를 구사한 직후 10분의 1초 만에 코트 균형을 회복할 수 있게 합니다.",
+        "en": "Both players are remarkably fast and flexible on the court. High-speed video shows that their rackets move faster than eighty miles per hour when they hit forehands. Even on hard courts, they can slide smoothly to reach difficult balls. After hitting a strong defensive shot, they quickly regain their balance in less than a second.",
+        "ko": "두 선수 모두 코트 위에서 놀라울 정도로 빠르고 유연합니다. 고속 카메라 영상에 따르면 그들의 라켓은 포핸드를 칠 때 시속 80마일보다 빠르게 움직입니다. 하드 코트에서도 부드럽게 미끄러지며 어려운 공을 받아냅니다. 강한 수비 샷을 날린 후에도 1초도 안 되어 재빨리 균형을 되찾습니다.",
         "sentences": [
           {
-            "en": "What separates modern tennis superstars from earlier generations is the unprecedented fusion of raw kinetic power and multidirectional flexibility.",
-            "ko": "현대 테니스 스타들을 이전 세대와 구분 짓는 것은 압도적 파워와 다방향 유연성의 결합입니다."
+            "en": "Both players are remarkably fast and flexible on the court.",
+            "ko": "두 선수 모두 코트 위에서 놀라울 정도로 빠르고 유연합니다."
           },
           {
-            "en": "High-speed video motion tracking reveals that Alcaraz and Sinner generate racket-head speeds exceeding eighty miles per hour on forehand groundstrokes while sliding aggressively on hard courts like clay specialists.",
-            "ko": "비디오 모션 분석에 따르면 두 선수는 하드 코트에서도 슬라이딩하며 시속 80마일 이상의 포핸드 라켓 속도를 냅니다."
+            "en": "High-speed video shows that their rackets move faster than eighty miles per hour when they hit forehands.",
+            "ko": "고속 비디오에 따르면 포핸드를 칠 때 라켓 속도가 시속 80마일을 넘습니다."
           },
           {
-            "en": "Their open-stance kinetic chains distribute rotational torque through the core and hips, allowing them to recover court balance within tenths of a second after hitting defensive counter-punches.",
-            "ko": "오픈 스탠스 운동 사슬을 통해 회전력을 분산시켜 수비 후 찰나의 순간에 균형을 완벽히 회복합니다."
+            "en": "Even on hard courts, they can slide smoothly to reach difficult balls.",
+            "ko": "하드 코트에서도 부드럽게 슬라이딩하며 어려운 공을 받아냅니다."
+          },
+          {
+            "en": "After hitting a strong defensive shot, they quickly regain their balance in less than a second.",
+            "ko": "수비 샷을 날린 뒤 1초도 되지 않아 빠르게 코트 균형을 회복합니다."
           }
         ]
       },
       {
-        "en": "Off the court, advanced data analytics and biofeedback sensors are radically transforming match preparation. Coaching teams dissect historical rally patterns, analyzing serve trajectories and return depths to construct predictive tactical plans tailored to each individual opponent. As Grand Slam tournaments demand peak physiological endurance across five gruelling sets, this blend of sports science, technological analytics, and relentless offensive ambition ensures that tennis will remain at the vanguard of modern athletic innovation.",
-        "ko": "코트 밖에서는 최첨단 데이터 분석과 바이오피드백 센서가 경기 준비 과정을 근본적으로 바꾸어 놓았습니다. 코칭 스태프는 과거 랠리 패턴을 세밀하게 분해하여 서브 궤적과 리턴 깊이를 분석하고, 상대 선수 맞춤형 예측 전술 플랜을 수립합니다. 그랜드슬램 대회가 5세트 혈투를 통해 최고의 신체적 지구력을 요구함에 따라, 이러한 스포츠 과학, 기술적 데이터 분석, 공격적인 야망의 결합은 테니스를 현대 스포츠 혁신의 최전선에 머물게 합니다.",
+        "en": "Coaches also use modern data and sensors to prepare for big matches. They study how opponents serve and where the ball lands most often. In Grand Slam tournaments, matches can last for five long sets. With strong fitness, sharp technology, and positive energy, these two players are shaping the future of global tennis.",
+        "ko": "코치들 역시 큰 경기를 준비하기 위해 현대적인 데이터와 센서를 활용합니다. 상대가 서브를 어떻게 넣고 공이 주로 어디에 떨어지는지 면밀히 분석합니다. 그랜드슬램 대회는 5세트까지 길게 이어질 수 있습니다. 강한 체력, 첨단 기술, 그리고 긍정적인 에너지를 바탕으로 이 두 선수는 세계 테니스의 미래를 열어가고 있습니다.",
         "sentences": [
           {
-            "en": "Off the court, advanced data analytics and biofeedback sensors are radically transforming match preparation.",
-            "ko": "코트 밖에서는 최첨단 데이터 분석과 바이오피드백 센서가 경기 준비 과정을 혁신하고 있습니다."
+            "en": "Coaches also use modern data and sensors to prepare for big matches.",
+            "ko": "코치들은 큰 경기를 준비하기 위해 현대적 데이터와 센서를 활용합니다."
           },
           {
-            "en": "Coaching teams dissect historical rally patterns, analyzing serve trajectories and return depths to construct predictive tactical plans tailored to each individual opponent.",
-            "ko": "코칭팀은 랠리 패턴, 서브 궤적, 리턴 깊이를 분석하여 상대 맞춤형 전술 계획을 세웁니다."
+            "en": "They study how opponents serve and where the ball lands most often.",
+            "ko": "상대 선수의 서브 방식과 공이 떨어지는 위치를 분석합니다."
           },
           {
-            "en": "As Grand Slam tournaments demand peak physiological endurance across five gruelling sets, this blend of sports science, technological analytics, and relentless offensive ambition ensures that tennis will remain at the vanguard of modern athletic innovation.",
-            "ko": "5세트 승부를 위한 극한의 지구력과 스포츠 과학의 결합은 테니스를 현대 스포츠 혁신의 최전선에 서게 합니다."
+            "en": "In Grand Slam tournaments, matches can last for five long sets.",
+            "ko": "그랜드슬램 대회 경기에서는 5세트 혈투가 이어지기도 합니다."
+          },
+          {
+            "en": "With strong fitness, sharp technology, and positive energy, these two players are shaping the future of global tennis.",
+            "ko": "강한 체력과 데이터 분석, 열정으로 두 선수는 세계 테니스의 미래를 만들고 있습니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "알카라스와 신너의 라이벌리는 파워 베이스라인과 적극적인 공격 테니스의 새로운 표준을 수립했습니다.",
-      "하드코트 슬라이딩과 오픈 스탠스 회전 토크를 극대화하는 바이오메카닉스 기술이 핵심입니다.",
-      "서브 궤적 및 랠리 데이터를 분석하는 스포츠 사이언스가 현대 그랜드슬램 승패를 좌우합니다."
+      "알카라스와 신너는 빠른 템포와 강한 스핀으로 새로운 공격 테니스를 보여줍니다.",
+      "유연한 코트 움직임과 빠른 회복력으로 어떤 공이든 놓치지 않습니다.",
+      "데이터 분석과 체력 관리가 긴 5세트 그랜드슬램 승부의 핵심입니다."
     ],
     "quiz": [
       {
-        "question": "What primary tactical shift defines the playing style of Carlos Alcaraz and Jannik Sinner?",
+        "question": "What is special about the playing style of Alcaraz and Sinner?",
         "options": [
-          "Relentlessly attacking from on top of the baseline with high racket-head velocity.",
-          "Standing far behind the baseline waiting solely for opponent unforced errors.",
-          "Relying exclusively on traditional wooden racket slice volleys."
+          "They attack near the baseline with high racket speed.",
+          "They only play defense from far behind the court.",
+          "They refuse to run during long matches."
         ],
         "answer": 0,
-        "explanation": "Modern champions take the ball early on top of the baseline with explosive power."
+        "explanation": "Both players play close to the baseline with fast and aggressive shots."
       }
     ]
   },
   {
     "id": "sports_tennis_02",
-    "title": "Inside Grand Slam Tennis: How High-Speed Tracking and Spin Analytics Changed Return Strategies",
-    "subtitle": "High-resolution Hawk-Eye metrics and wearable biometric sensors prove that aggressive serve returning dominates modern championship play.",
+    "title": "Secrets of the Serve Return in Grand Slam Tennis",
+    "subtitle": "How smart footwork and fast reactions help players return 130 mph serves with ease.",
     "speaker": "Global Tennis Analytics",
     "date": "2026-09-05",
     "category": "sports",
     "sportSubcat": "tennis",
     "sportPriority": 1,
     "isLive": true,
-    "level": "B2",
+    "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 305,
+    "wordCount": 240,
     "keywords": [
       "#테니스",
       "#윔블던",
@@ -116,91 +132,107 @@ const READPULSE_ARTICLES = [
     "addedAt": "2026-09-05T08:00:00Z",
     "paragraphs": [
       {
-        "en": "In the modern Grand Slam arena, matches are no longer decided merely by who delivers the fastest first serve, but rather by who neutralizes it most effectively. High-speed optical optical tracking cameras deployed across Wimbledon, Roland Garros, and the US Open capture thousands of ball trajectories per second. Statistical analysis reveals that players who consistently return serves deep beyond the baseline stripe win break points at a significantly higher conversion rate than traditional blockers.",
-        "ko": "현대 그랜드슬램 무대에서 승부는 더 이상 누가 가장 빠른 첫 번째 서브를 넣느냐만으로 결정되지 않으며, 누가 그 서브를 가장 효과적으로 무력화하느냐에 달려 있습니다. 윔블던, 롤랑가로스, US오픈 전역에 배치된 초고속 광학 추적 카메라는 초당 수천 개의 공 궤적을 캡처합니다. 통계 분석에 따르면 베이스라인 라인 깊숙이 서브 리턴을 일관되게 보낸 선수가 전통적인 블록 리턴을 구사하는 선수보다 브레이크 포인트 성공률이 훨씬 높은 것으로 나타났습니다.",
+        "en": "In top tennis tournaments, serving fast is important, but returning the serve is even more critical. Cameras at Wimbledon and the US Open track every ball in high detail. Recent studies show that players who hit deep returns win far more break points. When the return lands deep near the baseline, the server cannot easily attack.",
+        "ko": "최고의 테니스 대회에서 빠른 서브도 중요하지만, 서브를 리턴하는 능력은 훨씬 더 중요합니다. 윔블던과 US오픈의 카메라는 모든 공을 정밀하게 추적합니다. 최근 연구에 따르면 공을 코트 깊숙이 리턴하는 선수가 브레이크 포인트를 훨씬 더 많이 가져옵니다. 리턴이 베이스라인 근처에 깊게 떨어지면 서버가 쉽게 공격할 수 없기 때문입니다.",
         "sentences": [
           {
-            "en": "In the modern Grand Slam arena, matches are no longer decided merely by who delivers the fastest first serve, but rather by who neutralizes it most effectively.",
-            "ko": "현대 그랜드슬램 승부는 가장 빠른 서브뿐만 아니라, 그 서브를 얼마나 효과적으로 무력화하느냐에 달려 있습니다."
+            "en": "In top tennis tournaments, serving fast is important, but returning the serve is even more critical.",
+            "ko": "일류 테니스 대회에서는 빠른 서브도 중요하지만, 리턴 능력이 더 중요합니다."
           },
           {
-            "en": "High-speed optical tracking cameras deployed across Wimbledon, Roland Garros, and the US Open capture thousands of ball trajectories per second.",
-            "ko": "윔블던, 롤랑가로스, US오픈의 초고속 광학 카메라는 초당 수천 개의 공 궤적을 실시간 캡처합니다."
+            "en": "Cameras at Wimbledon and the US Open track every ball in high detail.",
+            "ko": "윔블던과 US오픈의 카메라들이 모든 공을 상세히 추적합니다."
           },
           {
-            "en": "Statistical analysis reveals that players who consistently return serves deep beyond the baseline stripe win break points at a significantly higher conversion rate than traditional blockers.",
-            "ko": "베이스라인 깊숙이 리턴을 꽂아 넣는 선수들이 전통적 수비 리턴 선수보다 높은 브레이크 성공률을 기록합니다."
+            "en": "Recent studies show that players who hit deep returns win far more break points.",
+            "ko": "최근 연구에 따르면 깊은 리턴을 치는 선수들이 브레이크 포인트를 더 많이 따냅니다."
+          },
+          {
+            "en": "When the return lands deep near the baseline, the server cannot easily attack.",
+            "ko": "공이 베이스라인 깊숙이 들어가면 상대가 쉽게 공격하지 못합니다."
           }
         ]
       },
       {
-        "en": "Biomechanics researchers have uncovered that top-tier returners utilize a synchronized split-step timed precisely to the opponent's racket impact. This micro-hop pre-loads the calf muscles and Achilles tendon with elastic strain energy, allowing the receiver to decipher ball spin and direction within one-hundredth of a second. By shortening their backswing and driving through the ball with compact forward shoulder momentum, modern champions turn an opponent's 130-mile-per-hour weapon into their own offensive strike.",
-        "ko": "생체역학 연구자들은 최정상급 리턴 플레이어들이 상대 라켓 임팩트 순간에 정확히 맞춰 동기화된 '스플릿 스텝(split-step)'을 사용한다는 사실을 밝혀냈습니다. 이 미세한 도약은 종아리 근육과 아킬레스건에 탄성 긴장 에너지를 미리 축적시켜, 리시버가 100분의 1초 만에 공의 회전과 방향을 간파할 수 있도록 돕습니다. 백스윙을 줄이고 콤팩트한 전방 어깨 모멘텀으로 공을 밀어냄으로써, 현대 챔피언들은 상대의 시속 130마일 무기를 자신만의 공격적 일격으로 탈바꿈시킵니다.",
+        "en": "To react quickly, players use a small jump called a 'split-step'. Just as the opponent hits the ball, the receiver hops lightly onto both feet. This small hop gives the legs spring-like energy. The player can then dash left or right instantly. By using a short backswing, they hit the fast ball right in the center of the racket.",
+        "ko": "빠르게 반응하기 위해 선수들은 '스플릿 스텝'이라는 작은 점프 동작을 사용합니다. 상대가 공을 치는 바로 그 순간, 리시버는 양발로 가볍게 뜁니다. 이 작은 도약은 다리에 용수철 같은 탄성 에너지를 모아줍니다. 덕분에 선수는 즉시 좌우로 방향을 전환할 수 있습니다. 짧은 백스윙을 사용하여 빠른 공을 라켓 정중앙에 정확히 맞춥니다.",
         "sentences": [
           {
-            "en": "Biomechanics researchers have uncovered that top-tier returners utilize a synchronized split-step timed precisely to the opponent's racket impact.",
-            "ko": "생체역학 연구진은 정상급 리턴 선수들이 상대 임팩트 순간에 맞춘 정교한 스플릿 스텝을 구사함을 밝혔습니다."
+            "en": "To react quickly, players use a small jump called a 'split-step'.",
+            "ko": "빠른 반응을 위해 선수들은 '스플릿 스텝'이라는 작은 점프를 활용합니다."
           },
           {
-            "en": "This micro-hop pre-loads the calf muscles and Achilles tendon with elastic strain energy, allowing the receiver to decipher ball spin and direction within one-hundredth of a second.",
-            "ko": "이 도약은 탄성 에너지를 비축하여 리시버가 100분의 1초 만에 공의 회전과 방향을 읽어내도록 돕습니다."
+            "en": "Just as the opponent hits the ball, the receiver hops lightly onto both feet.",
+            "ko": "상대가 공을 치는 순간, 받는 선수는 양발로 가볍게 뜁니다."
           },
           {
-            "en": "By shortening their backswing and driving through the ball with compact forward shoulder momentum, modern champions turn an opponent's 130-mile-per-hour weapon into their own offensive strike.",
-            "ko": "짧은 백스윙과 콤팩트한 어깨 회전을 통해 시속 130마일 서브를 즉각적인 역습 공격으로 전환합니다."
+            "en": "This small hop gives the legs spring-like energy.",
+            "ko": "이 가벼운 점프는 다리에 용수철 같은 에너지를 실어줍니다."
+          },
+          {
+            "en": "The player can then dash left or right instantly.",
+            "ko": "그 덕분에 선수는 좌우로 즉시 빠르게 움직일 수 있습니다."
+          },
+          {
+            "en": "By using a short backswing, they hit the fast ball right in the center of the racket.",
+            "ko": "짧은 백스윙으로 빠른 공을 라켓 중심에 정확히 맞춥니다."
           }
         ]
       },
       {
-        "en": "As artificial intelligence models begin simulating opposing server habits during pre-tournament training camps, the gap between serving and returning has narrowed dramatically. Players spend hours in virtual reality headsets studying spin rotations under simulated court conditions. This intellectual and technological arms race has elevated tennis into a rapid-fire duel of predictive reflexes, proving that mastery of the return is the ultimate prerequisite for global championship glory.",
-        "ko": "대회 전 훈련 캠프에서 인공지능 모델이 상대 서버의 습관을 시뮬레이션하기 시작하면서 서브와 리턴 사이의 격차는 극적으로 좁혀졌습니다. 선수들은 가상 현실 헤드셋을 착용하고 시뮬레이션된 코트 조건에서 회전수를 연구하는 데 수 시간을 투자합니다. 이러한 지적·기술적 군비 경쟁은 테니스를 예측 반사 신경의 초고속 결투로 끌어올렸으며, 리턴의 완벽한 숙달이 세계 챔피언십 우승의 궁극적인 필수 조건임을 증명하고 있습니다.",
+        "en": "Many top players now train with computer programs and virtual reality headsets. They watch virtual servers hit hundreds of balls before real matches start. This helps their eyes and brains get used to high speeds. With good technique and regular practice, returning a fast serve becomes a powerful weapon.",
+        "ko": "많은 정상급 선수들이 이제 컴퓨터 프로그램과 VR 헤드셋으로 훈련합니다. 실제 경기가 시작되기 전에 가상 선수가 치는 수백 개의 서브를 미리 눈으로 익힙니다. 이는 눈과 뇌가 빠른 속도에 익숙해지도록 돕습니다. 올바른 기술과 꾸준한 연습을 통해 빠른 서브를 받아치는 리턴은 강력한 무기가 됩니다.",
         "sentences": [
           {
-            "en": "As artificial intelligence models begin simulating opposing server habits during pre-tournament training camps, the gap between serving and returning has narrowed dramatically.",
-            "ko": "AI가 상대 서버 습관을 시뮬레이션하면서 서브와 리턴 간의 격차가 극적으로 좁혀졌습니다."
+            "en": "Many top players now train with computer programs and virtual reality headsets.",
+            "ko": "많은 정상급 선수들이 컴퓨터 프로그램과 VR 헤드셋으로 훈련합니다."
           },
           {
-            "en": "Players spend hours in virtual reality headsets studying spin rotations under simulated court conditions.",
-            "ko": "선수들은 VR 헤드셋을 착용하고 코트 환경에서의 스핀 회전을 집중 연구합니다."
+            "en": "They watch virtual servers hit hundreds of balls before real matches start.",
+            "ko": "실제 경기 전에 가상 서버의 수백 개 서브를 미리 시청합니다."
           },
           {
-            "en": "This intellectual and technological arms race has elevated tennis into a rapid-fire duel of predictive reflexes, proving that mastery of the return is the ultimate prerequisite for global championship glory.",
-            "ko": "이러한 기술 경쟁은 테니스를 고도의 반사신경 대결로 격상시켰으며, 리턴 숙달이 우승의 필수 조건임을 보여줍니다."
+            "en": "This helps their eyes and brains get used to high speeds.",
+            "ko": "이는 눈과 뇌가 빠른 속도에 적응하도록 돕습니다."
+          },
+          {
+            "en": "With good technique and regular practice, returning a fast serve becomes a powerful weapon.",
+            "ko": "좋은 기술과 꾸준한 연습을 통해 서브 리턴은 최고의 무기가 됩니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "현대 그랜드슬램에서는 서브 구속보다 리턴을 깊숙이 꽂아 넣는 능력의 중요성이 부각되고 있습니다.",
-      "상대 임팩트 순간의 스플릿 스텝과 짧은 백스윙이 시속 130마일 서브를 역습으로 바꿉니다.",
-      "VR과 AI 시뮬레이션 기반의 서버 패턴 학습이 테니스 훈련의 핵심으로 자리 잡았습니다."
+      "서브 리턴을 코트 깊숙이 보내는 것이 경기 승패를 결정짓는 핵심입니다.",
+      "상대 임팩트 타이밍에 맞춘 스플릿 스텝이 번개 같은 반응 속도를 만듭니다.",
+      "VR과 데이터 분석을 통해 현대 테니스 선수들은 빠른 공을 쉽게 읽어냅니다."
     ],
     "quiz": [
       {
-        "question": "What physiological movement allows elite returners to react instantaneously to high-speed serves?",
+        "question": "What is the purpose of the 'split-step' in tennis?",
         "options": [
-          "A precisely synchronized split-step that pre-loads elastic strain energy.",
-          "Closing their eyes to focus purely on auditory ball sounds.",
-          "Stepping completely off the court surface prior to service motion."
+          "To jump lightly and prepare legs to move quickly in any direction.",
+          "To take a long break between points.",
+          "To signal to the referee that you are ready."
         ],
         "answer": 0,
-        "explanation": "The synchronized micro-hop split-step pre-loads elastic tendon energy for lightning-fast direction changes."
+        "explanation": "The split-step prepares the player to quickly move left or right."
       }
     ]
   },
   {
     "id": "sports_mlb_01",
-    "title": "Shohei Ohtani's Historic 50-50 Season: The Statistical Revolution of Modern Baseball",
-    "subtitle": "Fifty home runs and fifty stolen bases in a single campaign shatter conventional sabermetric limits.",
+    "title": "Shohei Ohtani's Historic 50-50 Baseball Milestone",
+    "subtitle": "How the Los Angeles Dodgers superstar became the first player to hit 50 home runs and steal 50 bases.",
     "speaker": "Major League Baseball Insights",
     "date": "2026-09-06",
     "category": "sports",
     "sportSubcat": "mlb",
     "sportPriority": 2,
     "isLive": true,
-    "level": "B2",
+    "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 318,
+    "wordCount": 252,
     "keywords": [
       "#MLB",
       "#오타니",
@@ -210,91 +242,103 @@ const READPULSE_ARTICLES = [
     "addedAt": "2026-09-06T08:00:00Z",
     "paragraphs": [
       {
-        "en": "In the storied history of Major League Baseball spanning well over a century, no athlete had ever combined supreme power hitting and electrifying base-stealing velocity into a single fifty-fifty season—until Shohei Ohtani completely rewritten the record books. Surpassing legendary sluggers and speed demons alike, the Los Angeles Dodgers superstar achieved both fifty home runs and fifty stolen bases in a single campaign, accomplishing a milestone once considered statistically implausible in the modern analytics era.",
-        "ko": "100년이 훨씬 넘는 메이저리그 베이스볼의 유서 깊은 역사 속에서, 오타니 쇼헤이가 기록 책을 완전히 새로 쓰기 전까지는 그 어떤 선수도 압도적인 장타력과 폭발적인 도루 속도를 결합하여 단일 시즌 '50홈런-50도루'를 달성하지 못했습니다. 전설적인 거포들과 대도들을 모두 넘어선 로스앤젤레스 다저스의 슈퍼스타는 한 시즌에 50개의 홈런과 50개의 도루를 동시에 달성하며, 현대 세이버메트릭스 시대에 통계적으로 불가능하다고 여겨졌던 이정표를 세웠습니다.",
+        "en": "In the long history of Major League Baseball, no player had ever hit 50 home runs and stolen 50 bases in the same season. Shohei Ohtani changed that forever. Playing for the Los Angeles Dodgers, the superstar reached this unbelievable milestone in an unforgettable game. Baseball experts were amazed because hitting for power and running fast usually require very different body types.",
+        "ko": "메이저리그 베이스볼의 오랜 역사 속에서, 단일 시즌에 50개의 홈런과 50개의 도루를 동시에 달성한 선수는 아무도 없었습니다. 오타니 쇼헤이가 그 역사를 영원히 바꾸어 놓았습니다. LA 다저스에서 활약 중인 이 슈퍼스타는 잊을 수 없는 경기에서 이 믿기 힘든 대기록을 완성했습니다. 보통 홈런을 치는 큰 힘과 빠른 주력은 서로 다른 체형을 필요로 하기 때문에 전문가들도 크게 놀랐습니다.",
         "sentences": [
           {
-            "en": "In the storied history of Major League Baseball spanning well over a century, no athlete had ever combined supreme power hitting and electrifying base-stealing velocity into a single fifty-fifty season—until Shohei Ohtani completely rewritten the record books.",
-            "ko": "메이저리그 100년이 넘는 역사에서 오타니 쇼헤이가 새 기록을 세우기 전까지 단일 시즌 50-50을 달성한 선수는 전무했습니다."
+            "en": "In the long history of Major League Baseball, no player had ever hit 50 home runs and stolen 50 bases in the same season.",
+            "ko": "메이저리그 오랜 역사상 단일 시즌 50홈런 50도루를 달성한 선수는 없었습니다."
           },
           {
-            "en": "Surpassing legendary sluggers and speed demons alike, the Los Angeles Dodgers superstar achieved both fifty home runs and fifty stolen bases in a single campaign, accomplishing a milestone once considered statistically implausible in the modern analytics era.",
-            "ko": "전설적인 슬러거와 대도들을 넘어선 다저스의 슈퍼스타는 통계적으로 불가능해 보였던 50홈런-50도루를 완성했습니다."
+            "en": "Shohei Ohtani changed that forever.",
+            "ko": "오타니 쇼헤이가 그 역사를 영원히 바꾸었습니다."
+          },
+          {
+            "en": "Playing for the Los Angeles Dodgers, the superstar reached this unbelievable milestone in an unforgettable game.",
+            "ko": "LA 다저스에서 뛰며 이 슈퍼스타는 믿기 힘든 기록을 달성했습니다."
+          },
+          {
+            "en": "Baseball experts were amazed because hitting for power and running fast usually require very different body types.",
+            "ko": "장타력과 빠른 발은 보통 다른 체형을 요구하기에 전문가들도 놀랐습니다."
           }
         ]
       },
       {
-        "en": "Modern sabermetric metrics illustrate why Ohtani's accomplishment is so breathtaking. Statcast data highlights his average exit velocity exceeding ninety-five miles per hour alongside an elite sprint speed approaching twenty-eight feet per second. In baseball history, power hitters who generated 50 home runs typically sacrificed agility due to immense upper-body muscle mass, while elite base stealers lacked the bat speed necessary to consistently clear outfield walls. Ohtani's biomechanical training defies this physiological trade-off entirely.",
-        "ko": "현대 세이버메트릭스 지표는 오타니의 위업이 왜 그토록 경이로운지 잘 보여줍니다. 스탯캐스트 데이터에 따르면 그의 평균 타구 속도는 시속 95마일을 상회하며, 동시에 초당 28피트에 육박하는 최정상급 스프린트 스피드를 자랑합니다. 야구 역사상 50홈런을 치는 파워 히터들은 거대한 상체 근육량으로 인해 민첩성을 희생하는 것이 일반적이었고, 발 빠른 주자들은 펜스를 넘길 만한 배트 스피드가 부족했습니다. 오타니의 생체역학 훈련은 이러한 신체적 트레이드오프를 완전히 뒤흔들었습니다.",
+        "en": "Baseball numbers explain why Ohtani is so special. When he hits the ball, it travels faster than ninety-five miles per hour off his bat. At the same time, his running speed is as fast as the best sprinters in the league. Heavy hitters usually run slowly, and fast runners usually do not hit deep home runs. Ohtani trains his muscles carefully to have both immense power and great agility.",
+        "ko": "야구 통계 수치들은 오타니가 왜 그토록 특별한지 잘 보여줍니다. 그가 공을 치면 타구 속도가 시속 95마일을 훌쩍 넘깁니다. 동시에 그의 달리기 속도는 리그 최고의 스프린터만큼 빠릅니다. 보통 거포들은 느리게 달리고, 발 빠른 타자들은 깊은 홈런을 날리지 못합니다. 오타니는 엄청난 힘과 뛰어난 민첩성을 둘 다 갖추기 위해 근육을 세심하게 단련합니다.",
         "sentences": [
           {
-            "en": "Modern sabermetric metrics illustrate why Ohtani's accomplishment is so breathtaking.",
-            "ko": "현대 세이버메트릭스 지표는 오타니의 기록이 왜 그토록 경이로운지를 명확히 보여줍니다."
+            "en": "Baseball numbers explain why Ohtani is so special.",
+            "ko": "야구 기록 수치들은 오타니가 왜 특별한지 설명해 줍니다."
           },
           {
-            "en": "Statcast data highlights his average exit velocity exceeding ninety-five miles per hour alongside an elite sprint speed approaching twenty-eight feet per second.",
-            "ko": "스탯캐스트에 따르면 그의 타구 속도는 시속 95마일을 넘고 스프린트 스피드는 초당 28피트에 달합니다."
+            "en": "When he hits the ball, it travels faster than ninety-five miles per hour off his bat.",
+            "ko": "그가 타격한 공은 배트에서 시속 95마일이 넘는 속도로 날아갑니다."
           },
           {
-            "en": "In baseball history, power hitters who generated 50 home runs typically sacrificed agility due to immense upper-body muscle mass, while elite base stealers lacked the bat speed necessary to consistently clear outfield walls.",
-            "ko": "역대 거포들은 민첩성을 희생했고 대도들은 펜스를 넘길 파워가 부족했던 것이 일반적이었습니다."
+            "en": "At the same time, his running speed is as fast as the best sprinters in the league.",
+            "ko": "동시에 그의 달리기 속도는 리그 최고 수준의 주자만큼 빠릅니다."
           },
           {
-            "en": "Ohtani's biomechanical training defies this physiological trade-off entirely.",
-            "ko": "오타니의 생체역학적 트레이닝은 이러한 신체적 한계와 절충을 완전히 극복했습니다."
+            "en": "Heavy hitters usually run slowly, and fast runners usually do not hit deep home runs.",
+            "ko": "일반적으로 거포는 느리고, 빠른 주자는 홈런 파워가 부족합니다."
+          },
+          {
+            "en": "Ohtani trains his muscles carefully to have both immense power and great agility.",
+            "ko": "오타니는 파워와 민첩성을 모두 갖추도록 몸을 철저히 단련합니다."
           }
         ]
       },
       {
-        "en": "Beyond raw numbers, Ohtani's dual dominance has revitalized baseball's global commercial reach and inspired analytical rethinking inside front offices. Major league executives are now investing heavily in specialized athletic development programs designed to cultivate multi-tool versatility rather than extreme specialization. As the Dodgers pursue postseason glory, Ohtani's unprecedented season stands as enduring testament to what is possible when generational talent meets relentless scientific preparation.",
-        "ko": "단순한 기록을 넘어, 오타니의 투타겸업 및 호타준족의 지배력은 야구의 글로벌 상업적 위상을 부흥시켰으며 메이저리그 구단 수뇌부의 데이터 분석 전략을 전면 재고하게 만들었습니다. 프런트 오피스 경영진은 이제 극단적인 분업화 대신 '다재다능한 5툴 역량'을 육성하기 위한 특화 선수 육성 프로그램에 막대한 투자를 아끼지 않고 있습니다. 다저스가 포스트시즌 영광을 향해 나아가는 가운데, 오타니의 전례 없는 시즌은 천부적 재능과 철저한 과학적 준비가 만났을 때 무엇이 가능한지를 증명하는 불멸의 증거로 남아 있습니다.",
+        "en": "Fans everywhere admire Ohtani not only for his talent, but also for his hard work and humble attitude. Young athletes in many countries now want to learn how to hit, run, and pitch just like him. By breaking a record that stood unbroken for generations, Ohtani proved that human potential in sports has no boundaries.",
+        "ko": "전 세계의 팬들은 오타니의 재능뿐만 아니라 그의 성실한 노력과 겸손한 태도를 존경합니다. 많은 나라의 어린 운동선수들이 이제 그처럼 치고, 달리고, 던지는 법을 배우고 싶어 합니다. 오랫동안 깨지지 않았던 불멸의 기록을 경신함으로써, 오타니는 스포츠에서 인간의 잠재력에는 한계가 없음을 증명했습니다.",
         "sentences": [
           {
-            "en": "Beyond raw numbers, Ohtani's dual dominance has revitalized baseball's global commercial reach and inspired analytical rethinking inside front offices.",
-            "ko": "기록을 넘어 오타니의 활약은 야구의 글로벌 인기를 부흥시키고 구단 수뇌부의 전략을 혁신했습니다."
+            "en": "Fans everywhere admire Ohtani not only for his talent, but also for his hard work and humble attitude.",
+            "ko": "전 세계 팬들은 오타니의 재능뿐 아니라 성실함과 겸손함을 존경합니다."
           },
           {
-            "en": "Major league executives are now investing heavily in specialized athletic development programs designed to cultivate multi-tool versatility rather than extreme specialization.",
-            "ko": "MLB 구단들은 극단적 분업화 대신 다양한 툴을 지닌 만능 선수를 육성하는 데 적극 투자하고 있습니다."
+            "en": "Young athletes in many countries now want to learn how to hit, run, and pitch just like him.",
+            "ko": "많은 나라의 어린 선수들이 그처럼 치고 달리며 던지기를 꿈꿉니다."
           },
           {
-            "en": "As the Dodgers pursue postseason glory, Ohtani's unprecedented season stands as enduring testament to what is possible when generational talent meets relentless scientific preparation.",
-            "ko": "오타니의 시즌은 천부적 재능과 철저한 과학적 준비가 만났을 때 펼쳐지는 기적을 증명합니다."
+            "en": "By breaking a record that stood unbroken for generations, Ohtani proved that human potential in sports has no boundaries.",
+            "ko": "오랜 기록을 깨뜨리며 오타니는 인간 잠재력에 한계가 없음을 입증했습니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "오타니 쇼헤이는 메이저리그 역사상 최초로 단일 시즌 50홈런-50도루 클럽을 개설했습니다.",
-      "시속 95마일 이상의 타구 속도와 초당 28피트의 주력을 동시에 보유하여 신체적 트레이드오프를 극복했습니다.",
-      "현대 야구 구단 전략을 '단일 스킬 분업화'에서 '만능 툴 육성'으로 전환시키는 계기가 되었습니다."
+      "오타니 쇼헤이는 MLB 역사상 최초로 단일 시즌 50홈런-50도루를 달성했습니다.",
+      "강한 장타력과 빠른 주력을 동시에 유지하는 철저한 자기관리의 모범입니다.",
+      "야구 역사와 글로벌 팬들에게 깊은 영감과 감동을 전하고 있습니다."
     ],
     "quiz": [
       {
-        "question": "What unprecedented milestone did Shohei Ohtani achieve in his historic MLB campaign?",
+        "question": "What historic achievement did Shohei Ohtani accomplish?",
         "options": [
-          "50 home runs and 50 stolen bases in a single season.",
-          "Playing without ever swinging at a pitched baseball.",
-          "Pitching 300 complete games in a row without giving up a hit."
+          "50 home runs and 50 stolen bases in one season.",
+          "Winning every single game without pitching.",
+          "Hitting 100 home runs in one month."
         ],
         "answer": 0,
-        "explanation": "Ohtani established the first 50-50 club in Major League Baseball history."
+        "explanation": "Ohtani became the first player to achieve 50 home runs and 50 stolen bases."
       }
     ]
   },
   {
     "id": "sports_mlb_02",
-    "title": "The Physics of the Sweeper: How High-Speed Cameras and Sabermetrics Reshaped MLB Pitching",
-    "subtitle": "Horizontal slider movement, seam-shifted wake aerodynamics, and pitch design laboratories dominate baseball.",
+    "title": "The Science of the Sweeper in Modern Baseball",
+    "subtitle": "Why this new sideways breaking pitch is giving Major League hitters a very hard time.",
     "speaker": "Baseball Prospectus Lab",
     "date": "2026-09-05",
     "category": "sports",
     "sportSubcat": "mlb",
     "sportPriority": 2,
     "isLive": true,
-    "level": "B2",
+    "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 304,
+    "wordCount": 242,
     "keywords": [
       "#MLB",
       "#세이버메트릭스",
@@ -304,93 +348,101 @@ const READPULSE_ARTICLES = [
     "addedAt": "2026-09-05T08:00:00Z",
     "paragraphs": [
       {
-        "en": "Over the past three seasons, a single pitch variety known as the 'sweeper' has fundamentally upended the strategic battle between Major League Baseball pitchers and batters. Unlike traditional sliders that feature tight, downward vertical drop, the sweeper generates unprecedented lateral horizontal deviation across the strike zone. Equipped with high-speed Edgertronic optical cameras capturing thousands of frames per second, modern pitching laboratories have turned pitch design into a precise aerodynamic discipline.",
-        "ko": "지난 세 시즌 동안 '스위퍼(Sweeper)'로 알려진 단 하나의 구종이 메이저리그 투수와 타자 간의 전략적 대결 구도를 근본적으로 뒤흔들어 놓았습니다. 가파른 수직 하강 궤적을 그리는 전통적인 슬라이더와 달리, 스위퍼는 스트라이크 존을 가로지르는 유례없는 수평 횡방향 변화를 만들어냅니다. 초당 수천 프레임을 포착하는 고속 엣저트로닉 광학 카메라를 장착한 현대 피칭 연구소들은 투구 디자인을 정밀한 공기역학적 과학으로 탈바꿈시켰습니다.",
+        "en": "In recent baseball seasons, pitchers have introduced a popular new pitch called the 'sweeper'. A traditional slider drops down quickly toward the ground. In contrast, the sweeper bends sideways across home plate like a frisbee. High-speed optical cameras allow pitching coaches to design and measure this horizontal flight in great detail.",
+        "ko": "최근 야구 시즌에서 투수들은 '스위퍼'라고 불리는 인기 있는 새로운 구종을 선보였습니다. 전통적인 슬라이더는 땅을 향해 아래로 빠르게 떨어집니다. 반면에 스위퍼는 원반(프리즈비)처럼 홈 플레이트를 가로질러 옆으로 크게 휩쓸며 꺾입니다. 초고속 광학 카메라는 투수 코치들이 이러한 수평 비행 궤적을 매우 정밀하게 설계하고 측정할 수 있게 해줍니다.",
         "sentences": [
           {
-            "en": "Over the past three seasons, a single pitch variety known as the 'sweeper' has fundamentally upended the strategic battle between Major League Baseball pitchers and batters.",
-            "ko": "지난 3년간 '스위퍼'라는 구종이 메이저리그 투타 대결 구도를 완전히 뒤흔들었습니다."
+            "en": "In recent baseball seasons, pitchers have introduced a popular new pitch called the 'sweeper'.",
+            "ko": "최근 야구계에서 투수들은 '스위퍼'라는 새로운 구종을 선보였습니다."
           },
           {
-            "en": "Unlike traditional sliders that feature tight, downward vertical drop, the sweeper generates unprecedented lateral horizontal deviation across the strike zone.",
-            "ko": "수직 낙하하는 일반 슬라이더와 달리 스위퍼는 스트라이크 존을 가로지르는 극적인 횡적 변화를 형성합니다."
+            "en": "A traditional slider drops down quickly toward the ground.",
+            "ko": "전통적인 슬라이더는 바닥을 향해 아래로 빠르게 떨어집니다."
           },
           {
-            "en": "Equipped with high-speed Edgertronic optical cameras capturing thousands of frames per second, modern pitching laboratories have turned pitch design into a precise aerodynamic discipline.",
-            "ko": "초고속 카메라를 갖춘 현대 피칭 랩은 구종 디자인을 정밀 공기역학의 영역으로 발전시켰습니다."
+            "en": "In contrast, the sweeper bends sideways across home plate like a frisbee.",
+            "ko": "반면 스위퍼는 원반처럼 홈 플레이트 옆으로 크게 휩쓸리며 꺾입니다."
+          },
+          {
+            "en": "High-speed optical cameras allow pitching coaches to design and measure this horizontal flight in great detail.",
+            "ko": "초고속 카메라는 코치들이 이 횡적 궤적을 정밀하게 설계하도록 돕습니다."
           }
         ]
       },
       {
-        "en": "The aerodynamic secret behind the sweeper lies in a physical phenomenon known as 'seam-shifted wake.' By orienting the baseball's raised cotton seams at an angle relative to the airflow during release, pitchers induce an asymmetrical boundary layer separation. This generates side forces that push the ball horizontally without requiring pure gyro-spin. Batters accustomed to classic break patterns find their swing planes completely disrupted, resulting in astronomical whiff rates on pitches that seem to float off the plate.",
-        "ko": "스위퍼의 공기역학적 비밀은 '솔기 변위 후류(Seam-Shifted Wake)'로 알려진 물리적 현상에 있습니다. 투구 시 릴리스 단계에서 솟아오른 야구공의 면 솔기를 공기 흐름에 비스듬히 배치함으로써, 투수는 비대칭적 경계층 분리를 유도합니다. 이는 순수한 자이로 스핀 없이도 공을 수평 방향으로 밀어내는 측면 힘을 발생시킵니다. 고전적인 브레이킹 볼 궤적에 익숙한 타자들은 스윙 플레인이 완전히 붕괴되어, 플레이트 밖으로 유유히 빠져나가는 공에 허공을 가르는 헛스윙을 연발하게 됩니다.",
+        "en": "The secret of the sweeper comes from the airflow around the baseball seams. When the pitcher releases the ball at a specific angle, air moves unevenly over the raised stitches. This pushes the ball sideways without needing strange arm motions. Batters expecting a straight ball often swing and miss because the ball drifts away at the last second.",
+        "ko": "스위퍼의 비밀은 야구공 실밥 주위의 공기 흐름에서 비롯됩니다. 투수가 특정 각도로 공을 던지면, 튀어나온 실밥 위로 공기가 불균등하게 흐릅니다. 이는 무리한 팔 동작 없이도 공을 옆으로 밀어냅니다. 직구를 예상했던 타자들은 공이 마지막 순간에 옆으로 빠져나가기 때문에 허공에 방망이를 헛휘두르게 됩니다.",
         "sentences": [
           {
-            "en": "The aerodynamic secret behind the sweeper lies in a physical phenomenon known as 'seam-shifted wake.'",
-            "ko": "스위퍼의 공기역학적 비밀은 '솔기 변위 후류(Seam-Shifted Wake)'라는 물리 현상에 있습니다."
+            "en": "The secret of the sweeper comes from the airflow around the baseball seams.",
+            "ko": "스위퍼의 비밀은 야구공 실밥 주위의 공기 흐름에 있습니다."
           },
           {
-            "en": "By orienting the baseball's raised cotton seams at an angle relative to the airflow during release, pitchers induce an asymmetrical boundary layer separation.",
-            "ko": "솔기를 공기 흐름에 비스듬히 릴리스하여 비대칭적인 기류 분리를 유도합니다."
+            "en": "When the pitcher releases the ball at a specific angle, air moves unevenly over the raised stitches.",
+            "ko": "특정 각도로 공을 놓으면 실밥 위로 공기가 불균등하게 흐릅니다."
           },
           {
-            "en": "This generates side forces that push the ball horizontally without requiring pure gyro-spin.",
-            "ko": "이는 순수한 스핀 외에도 공을 좌우로 밀어내는 강력한 측면 횡력을 만듭니다."
+            "en": "This pushes the ball sideways without needing strange arm motions.",
+            "ko": "이것이 무리한 팔 동작 없이도 공을 옆으로 밀어내는 힘을 만듭니다."
           },
           {
-            "en": "Batters accustomed to classic break patterns find their swing planes completely disrupted, resulting in astronomical whiff rates on pitches that seem to float off the plate.",
-            "ko": "전통적 궤적에 익숙한 타자들의 스윙 궤도가 무너지며 압도적인 헛스윙 비율을 기록하고 있습니다."
+            "en": "Batters expecting a straight ball often swing and miss because the ball drifts away at the last second.",
+            "ko": "직구를 예상한 타자들은 마지막 순간 옆으로 빠지는 공에 헛스윙을 합니다."
           }
         ]
       },
       {
-        "en": "As front offices analyze trackman spin efficiency metrics, pitchers who previously struggled with modest fastball velocity have reinvented themselves into high-leverage bullpen aces simply by adopting the sweeper grip. However, hitting coaches are now countering with shortened bat paths and adjusted plate positioning designed to attack the pitch before its horizontal break fully manifests. This dynamic technological chess match ensures that baseball remains a battleground of applied mathematics and physical mastery.",
-        "ko": "구단 수뇌부가 트랙맨의 회전 효율 지표를 정밀 분석함에 따라, 과거 평범한 패스트볼 구속으로 고전하던 투수들이 단순히 스위퍼 그립을 도입하는 것만으로 필승조 불펜 에이스로 탈바꿈하고 있습니다. 그러나 이에 맞서 타격 코치들 역시 스위퍼의 횡적 꺾임이 완전히 발현되기 전에 공을 타격할 수 있도록 타석 위치를 조정하고 배트 궤도를 단축시키는 대응책을 내놓고 있습니다. 이러한 역동적인 기술적 두뇌 싸움은 야구가 응용 수학과 신체적 숙련도의 최첨단 격전지임을 증명합니다.",
+        "en": "Because of this pitch, many pitchers have turned their careers around. Even pitchers without extreme fastball speed can now strike out great hitters. At the same time, batters are adjusting their stances to hit the ball earlier. This ongoing battle makes watching Major League Baseball more fun and scientific than ever.",
+        "ko": "이 구종 덕분에 많은 투수들이 선수 생활의 큰 전환점을 맞이했습니다. 아주 빠른 직구를 던지지 못하는 투수들도 이제 강타자들을 삼진으로 잡아낼 수 있습니다. 동시에 타자들도 공이 꺾이기 전에 미리 치기 위해 타격 자세를 조정하고 있습니다. 이러한 계속되는 승부는 메이저리그 야구를 그 어느 때보다 재미있고 과학적으로 만들어 줍니다.",
         "sentences": [
           {
-            "en": "As front offices analyze trackman spin efficiency metrics, pitchers who previously struggled with modest fastball velocity have reinvented themselves into high-leverage bullpen aces simply by adopting the sweeper grip.",
-            "ko": "회전 효율 분석을 통해 평범한 구속의 투수들이 스위퍼 그립을 장착하여 특급 불펜으로 거듭나고 있습니다."
+            "en": "Because of this pitch, many pitchers have turned their careers around.",
+            "ko": "이 구종 덕분에 많은 투수들이 극적인 반전을 이루어냈습니다."
           },
           {
-            "en": "However, hitting coaches are now countering with shortened bat paths and adjusted plate positioning designed to attack the pitch before its horizontal break fully manifests.",
-            "ko": "타격 코치들 역시 공이 꺾이기 전에 공략할 수 있도록 배트 궤적을 단축하는 대응책을 개발하고 있습니다."
+            "en": "Even pitchers without extreme fastball speed can now strike out great hitters.",
+            "ko": "빠른 직구가 없는 투수들도 이제 뛰어난 타자들을 삼진 처리합니다."
           },
           {
-            "en": "This dynamic technological chess match ensures that baseball remains a battleground of applied mathematics and physical mastery.",
-            "ko": "이러한 기술적 수싸움은 야구가 응용 수학과 피지컬 마스터리의 격전지임을 입증합니다."
+            "en": "At the same time, batters are adjusting their stances to hit the ball earlier.",
+            "ko": "동시에 타자들도 공을 일찍 공략하기 위해 자세를 고치고 있습니다."
+          },
+          {
+            "en": "This ongoing battle makes watching Major League Baseball more fun and scientific than ever.",
+            "ko": "이러한 맞대결은 메이저리그를 더욱 재미있고 과학적으로 만듭니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "스위퍼는 강력한 수평 횡방향 움직임으로 메이저리그 투타 판도를 바꾼 신종 슬라이더입니다.",
-      "공기 흐름과 솔기 마찰을 이용하는 '솔기 변위 후류(SSW)' 공기역학 원리가 핵심입니다.",
-      "초고속 카메라와 트랙맨 회전 효율 분석으로 인해 투수들의 구종 설계가 과학화되었습니다."
+      "스위퍼는 홈플레이트 옆으로 크게 휘어지는 새로운 스타일의 슬라이더입니다.",
+      "공의 실밥과 공기 흐름을 이용해 자연스러운 횡적 변화를 만들어냅니다.",
+      "구속이 빠르지 않은 투수들에게도 강력한 삼진 무기가 되고 있습니다."
     ],
     "quiz": [
       {
-        "question": "What aerodynamic phenomenon allows the sweeper to generate dramatic horizontal movement?",
+        "question": "How does a sweeper pitch move compared to a traditional slider?",
         "options": [
-          "Seam-shifted wake caused by asymmetrical airflow over baseball seams.",
-          "Using helium gas injected directly inside the baseball bladder.",
-          "Throwing the ball with zero rotation in the style of a traditional knuckleball."
+          "It bends sideways horizontally like a frisbee.",
+          "It drops straight down into the dirt.",
+          "It stops completely still in mid-air."
         ],
         "answer": 0,
-        "explanation": "Seam-shifted wake (SSW) creates an asymmetrical pressure differential that pushes the pitch sideways."
+        "explanation": "A sweeper moves sideways across the plate rather than dropping vertically."
       }
     ]
   },
   {
     "id": "auto_tech_560145342",
-    "title": "Autonomous AI Agents Exploit Web Vulnerabilities in Rapid Cyber Escalation",
-    "subtitle": "Security researchers demonstrate automated multi-step cyber intrusions bypassing traditional firewalls.",
+    "title": "Smart AI Agents and Cybersecurity: What You Need to Know",
+    "subtitle": "How autonomous AI programs can find software bugs, and how experts protect computer systems.",
     "speaker": "BBC Technology",
     "date": "2026-09-04",
     "category": "tech",
     "isLive": true,
-    "level": "B2",
+    "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 305,
+    "wordCount": 240,
     "keywords": [
       "#AI해킹",
       "#자율에이전트",
@@ -400,81 +452,101 @@ const READPULSE_ARTICLES = [
     "addedAt": "2026-09-04T00:00:00Z",
     "paragraphs": [
       {
-        "en": "A new investigation by cybersecurity researchers has revealed that autonomous artificial intelligence agents are now capable of executing sophisticated multi-stage web attacks without direct human supervision. In controlled benchmark experiments, teams of collaborative large language model agents discovered zero-day security flaws, created customized malicious payloads, and navigated authentication barriers in minutes, drastically shortening the attack lifecycle.",
-        "ko": "사이버 보안 연구원들의 새로운 조사에 따르면, 자율 AI 에이전트들이 이제 직접적인 인간의 감독 없이도 정교한 다단계 웹 공격을 수행할 수 있는 수준에 도달한 것으로 밝혀졌습니다. 통제된 벤치마크 실험에서 협업하는 LLM 에이전트 팀은 몇 분 만에 제로데이 보안 취약점을 발견하고, 맞춤형 악성 코드를 제작하며, 인증 장벽을 우회하여 공격 주기를 획기적으로 단축시켰습니다.",
+        "en": "Computer security experts are studying how smart artificial intelligence programs behave online. Recent tests show that teams of AI agents can scan websites and find software weaknesses without human help. Once an agent discovers a flaw, it can write computer code to test if the door is open. This happens much faster than traditional human testing.",
+        "ko": "컴퓨터 보안 전문가들은 똑똑한 인공지능 프로그램이 온라인에서 어떻게 행동하는지 연구하고 있습니다. 최근 테스트에 따르면 AI 에이전트 팀이 사람의 도움 없이 웹사이트를 검사하고 소프트웨어 취약점을 찾아낼 수 있는 것으로 나타났습니다. 에이전트가 허점을 발견하면 보안 문이 열려 있는지 테스트하는 코드를 직접 작성할 수 있습니다. 이는 전통적인 사람의 테스트보다 훨씬 빠르게 진행됩니다.",
         "sentences": [
           {
-            "en": "A new investigation by cybersecurity researchers has revealed that autonomous artificial intelligence agents are now capable of executing sophisticated multi-stage web attacks without direct human supervision.",
-            "ko": "사이버 보안 연구원들의 조사에 따르면 자율 AI 에이전트들이 인간의 직접적 감독 없이도 정교한 다단계 웹 공격을 수행할 수 있게 되었습니다."
+            "en": "Computer security experts are studying how smart artificial intelligence programs behave online.",
+            "ko": "컴퓨터 보안 전문가들은 AI 프로그램의 온라인 행동을 연구하고 있습니다."
           },
           {
-            "en": "In controlled benchmark experiments, teams of collaborative large language model agents discovered zero-day security flaws, created customized malicious payloads, and navigated authentication barriers in minutes, drastically shortening the attack lifecycle.",
-            "ko": "실험에서 협업 LLM 에이전트 팀은 몇 분 만에 제로데이 취약점을 발견하고 맞춤형 악성 코드를 제작하여 인증 장벽을 우회했습니다."
+            "en": "Recent tests show that teams of AI agents can scan websites and find software weaknesses without human help.",
+            "ko": "최근 테스트에 따르면 AI 에이전트는 사람 없이도 웹 취약점을 찾을 수 있습니다."
+          },
+          {
+            "en": "Once an agent discovers a flaw, it can write computer code to test if the door is open.",
+            "ko": "취약점을 찾으면 보안 문이 열려 있는지 테스트하는 코드를 작성합니다."
+          },
+          {
+            "en": "This happens much faster than traditional human testing.",
+            "ko": "이는 전통적인 사람이 하던 테스트보다 훨씬 더 빠릅니다."
           }
         ]
       },
       {
-        "en": "The findings have ignited urgent debates across leading artificial intelligence laboratories including OpenAI, Anthropic, and Google DeepMind. While developers build internal safety guardrails designed to prevent models from generating exploits, skilled red-teaming adversaries continually devise prompt injection techniques that jailbreak agent reasoning. As frontier models gain enhanced tool-use abilities and direct terminal access, the potential for automated corporate espionage escalates exponentially.",
-        "ko": "이 발견은 오픈AI, 앤트로픽, 구글 딥마인드를 비롯한 주요 AI 연구소 전반에 걸쳐 긴급한 논쟁을 촉발시켰습니다. 개발자들은 모델이 악성 코드를 생성하지 못하도록 내부 안전 가드레일을 구축하고 있지만, 숙련된 레드팀 공격자들은 에이전트의 추론을 탈옥시키는 프롬프트 인젝션 기법을 끊임없이 고안해 내고 있습니다. 최첨단 모델이 도구 사용 능력과 터미널 직접 접근 권한을 획득함에 따라 자동화된 기업 스파이 활동의 잠재적 위험이 기하급수적으로 커지고 있습니다.",
+        "en": "Major AI companies like OpenAI and Google are working hard to build safety rules. They want to make sure helpful assistants cannot be tricked into doing harmful things. However, some clever hackers still try to give confusing commands to bypass these rules. As AI models learn to use computer tools and files, maintaining strong digital defenses becomes essential.",
+        "ko": "오픈AI나 구글 같은 주요 AI 기업들은 안전 규칙을 세우기 위해 열심히 노력하고 있습니다. 그들은 유용한 AI 도우미가 해로운 일을 하도록 속임수에 넘어가지 않기를 바랍니다. 하지만 일부 교묘한 해커들은 여전히 이러한 규칙을 우회하기 위해 혼란스러운 명령어를 시도합니다. AI 모델이 컴퓨터 도구와 파일을 다루는 법을 배우면서 강력한 디지털 방어를 유지하는 것이 필수적이 되었습니다.",
         "sentences": [
           {
-            "en": "The findings have ignited urgent debates across leading artificial intelligence laboratories including OpenAI, Anthropic, and Google DeepMind.",
-            "ko": "이 발견은 오픈AI, 앤트로픽, 구글 딥마인드 등 주요 AI 연구소들 사이에 긴급한 논쟁을 촉발시켰습니다."
+            "en": "Major AI companies like OpenAI and Google are working hard to build safety rules.",
+            "ko": "오픈AI와 구글 등 주요 기업들은 안전 규칙을 만들기 위해 힘쓰고 있습니다."
           },
           {
-            "en": "While developers build internal safety guardrails designed to prevent models from generating exploits, skilled red-teaming adversaries continually devise prompt injection techniques that jailbreak agent reasoning.",
-            "ko": "개발자들이 안전 가드레일을 구축하고 있지만, 숙련된 공격자들은 에이전트 추론을 탈옥시키는 프롬프트 인젝션 기법을 계속 개발하고 있습니다."
+            "en": "They want to make sure helpful assistants cannot be tricked into doing harmful things.",
+            "ko": "AI 비서가 나쁜 행동을 하도록 속임수에 넘어가지 않게 방지합니다."
           },
           {
-            "en": "As frontier models gain enhanced tool-use abilities and direct terminal access, the potential for automated corporate espionage escalates exponentially.",
-            "ko": "최첨단 모델이 도구 사용 및 터미널 접근 권한을 얻음에 따라 자동화된 해킹 위험이 기하급수적으로 증가하고 있습니다."
+            "en": "However, some clever hackers still try to give confusing commands to bypass these rules.",
+            "ko": "하지만 일부 해커들은 규칙을 피하기 위해 교묘한 명령어를 시도합니다."
+          },
+          {
+            "en": "As AI models learn to use computer tools and files, maintaining strong digital defenses becomes essential.",
+            "ko": "AI가 컴퓨터 도구를 다루게 되면서 철저한 방어가 필수가 되었습니다."
           }
         ]
       },
       {
-        "en": "To counter autonomous threats, enterprise defense teams are turning toward defensive AI sentinels capable of monitoring anomalous agent behavioral patterns in real time. Cybersecurity experts emphasize that reactive patching is no longer sufficient; organizations must implement zero-trust architectures and strict containerized sandboxes for any autonomous system operating within corporate digital perimeters.",
-        "ko": "자율적 위협에 대응하기 위해 기업 보안팀은 이상 에이전트 행동 패턴을 실시간으로 감시하는 방어용 AI 보초 시스템으로 눈을 돌리고 있습니다. 사이버 보안 전문가들은 이제 사후 패치만으로는 충분하지 않으며, 기업 디지털 경계 내에서 작동하는 모든 자율 시스템에 제로 트러스트 아키텍처와 엄격한 격리 샌드박스를 구축해야 한다고 강조합니다.",
+        "en": "To defend against these threats, security teams are building defensive AI guardians. These programs watch for suspicious computer activity twenty-four hours a day. When an unusual request appears, the guardian blocks it immediately. By combining smart software with alert human experts, companies can keep user data safe and secure.",
+        "ko": "이러한 위협을 막기 위해 보안팀은 방어용 AI 수호자를 구축하고 있습니다. 이 프로그램들은 하루 24시간 동안 의심스러운 컴퓨터 활동을 감시합니다. 평소와 다른 비정상적인 요청이 나타나면 수호자가 이를 즉시 차단합니다. 똑똑한 소프트웨어와 경계심을 늦추지 않는 인간 전문가가 힘을 합쳐 기업들은 사용자의 데이터를 안전하게 지킬 수 있습니다.",
         "sentences": [
           {
-            "en": "To counter autonomous threats, enterprise defense teams are turning toward defensive AI sentinels capable of monitoring anomalous agent behavioral patterns in real time.",
-            "ko": "자율적 위협에 대응하기 위해 기업들은 이상 행동 패턴을 실시간 감시하는 방어용 AI 시스템을 도입하고 있습니다."
+            "en": "To defend against these threats, security teams are building defensive AI guardians.",
+            "ko": "이러한 위협에 맞서 보안팀은 방어용 AI 감시 시스템을 만듭니다."
           },
           {
-            "en": "Cybersecurity experts emphasize that reactive patching is no longer sufficient; organizations must implement zero-trust architectures and strict containerized sandboxes for any autonomous system operating within corporate digital perimeters.",
-            "ko": "전문가들은 사후 패치만으로는 부족하며, 기업 내 모든 자율 시스템에 제로 트러스트 아키텍처와 격리 샌드박스를 구축해야 한다고 강조합니다."
+            "en": "These programs watch for suspicious computer activity twenty-four hours a day.",
+            "ko": "이 프로그램들은 하루 24시간 의심스러운 활동을 감시합니다."
+          },
+          {
+            "en": "When an unusual request appears, the guardian blocks it immediately.",
+            "ko": "이상한 요청이 나타나면 방어 시스템이 즉각 차단합니다."
+          },
+          {
+            "en": "By combining smart software with alert human experts, companies can keep user data safe and secure.",
+            "ko": "소프트웨어와 사람 전문가의 협업으로 사용자 데이터를 안전하게 지킵니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "LLM 기반 자율 에이전트가 인간의 개입 없이 다단계 웹 해킹과 취약점 침투를 수행할 수 있음을 실증했습니다.",
-      "모델의 추론을 무력화하는 프롬프트 탈옥 기법으로 인해 전통적인 소프트웨어 방화벽이 한계에 직면했습니다.",
-      "방어 측면에서도 실시간 모니터링 AI와 제로 트러스트 샌드박스 도입이 필수적입니다."
+      "AI 에이전트는 웹사이트의 보안 취약점을 빠르게 발견할 수 있습니다.",
+      "기업들은 AI가 해킹에 오용되지 않도록 안전 가드레일을 지속적으로 강화합니다.",
+      "방어용 실시간 AI 모니터링 시스템으로 사용자 데이터를 철저히 보호합니다."
     ],
     "quiz": [
       {
-        "question": "What alarming capability did cybersecurity researchers discover in autonomous AI agents?",
+        "question": "How do companies protect their websites from automated AI attacks?",
         "options": [
-          "They can execute multi-stage zero-day attacks without human supervision.",
-          "They can physically damage server computer hardware directly.",
-          "They permanently refuse to write computer code."
+          "By using defensive AI guardians to monitor unusual activity 24/7.",
+          "By unplugging all computers forever.",
+          "By ignoring computer security entirely."
         ],
         "answer": 0,
-        "explanation": "Researchers showed that collaborative AI agents could autonomously discover flaws and execute full attack lifecycles."
+        "explanation": "Defensive AI monitors and blocks suspicious requests in real time."
       }
     ]
   },
   {
     "id": "auto_science_149177085",
-    "title": "Aviation Faces Hotter, Stormier Skies as Climate Turbulence Intensifies",
-    "subtitle": "Severe clear-air turbulence and extreme atmospheric shifts force airlines to rethink flight safety.",
+    "title": "Why Modern Airplanes Face More Turbulence Today",
+    "subtitle": "How warm air and changing jet streams create invisible bumps in the sky.",
     "speaker": "BBC Science & Environment",
     "date": "2026-09-05",
     "category": "science",
     "isLive": true,
-    "level": "B2",
+    "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 315,
+    "wordCount": 245,
     "keywords": [
       "#기후변화",
       "#항공난기류",
@@ -484,81 +556,83 @@ const READPULSE_ARTICLES = [
     "addedAt": "2026-09-05T00:00:00Z",
     "paragraphs": [
       {
-        "en": "Commercial aviation is entering an era of unprecedented atmospheric turbulence as global temperature records continue to tumble. Meteorological studies indicate that warmer air alters the structure of the upper jet stream, generating invisible pockets of violent vertical motion known as clear-air turbulence. Unlike convective storm clouds that appear distinctly on cockpit radar screens, clear-air turbulence strikes without visual warning, catching pilots and passengers completely unprepared.",
-        "ko": "상업 항공은 전 세계 기온 기록이 계속해서 경신됨에 따라 유례없는 대기 난기류의 시대로 접어들고 있습니다. 기상학 연구에 따르면 따뜻해진 공기는 상층 제트기류의 구조를 변화시켜 '청천 난기류(Clear-Air Turbulence)'로 알려진 눈에 보이지 않는 격렬한 수직 기류를 형성합니다. 조종석 레이더 화면에 뚜렷하게 나타나는 뇌우 구름과 달리, 청천 난기류는 시각적 경고 없이 닥쳐와 조종사와 승객 모두를 무방비 상태로 만듭니다.",
+        "en": "Passengers on commercial airplanes are noticing more sudden bumps during their flights. Scientists report that our warming climate is changing high-altitude wind currents, known as the jet stream. When warm air meets cold air at high speeds, it creates invisible pockets of choppy air called clear-air turbulence. Because there are no clouds, cockpit weather radar cannot see it.",
+        "ko": "비행기를 타는 승객들은 비행 중에 갑작스러운 흔들림을 더 자주 느끼고 있습니다. 과학자들은 지구 온난화 기후가 '제트기류'로 알려진 높은 고도의 바람 흐름을 바꾸고 있다고 보고합니다. 따뜻한 공기가 찬 공기와 빠른 속도로 만날 때, '청천 난기류'라고 불리는 눈에 보이지 않는 거친 공기 주머니가 형성됩니다. 구름이 없기 때문에 조종석의 기상 레이더로는 이를 볼 수 없습니다.",
         "sentences": [
           {
-            "en": "Commercial aviation is entering an era of unprecedented atmospheric turbulence as global temperature records continue to tumble.",
-            "ko": "상업 항공은 전 세계 기온 기록이 계속해서 경신됨에 따라 유례없는 대기 난기류의 시대로 접어들고 있습니다."
+            "en": "Passengers on commercial airplanes are noticing more sudden bumps during their flights.",
+            "ko": "비행기 승객들은 비행 중 갑작스러운 흔들림을 더 자주 겪고 있습니다."
           },
           {
-            "en": "Meteorological studies indicate that warmer air alters the structure of the upper jet stream, generating invisible pockets of violent vertical motion known as clear-air turbulence.",
-            "ko": "기상학 연구에 따르면 따뜻해진 공기는 상층 제트기류의 구조를 변화시켜 '청천 난기류'로 알려진 눈에 보이지 않는 격렬한 수직 기류를 형성합니다."
+            "en": "Scientists report that our warming climate is changing high-altitude wind currents, known as the jet stream.",
+            "ko": "과학자들은 온난화가 높은 고도의 제트기류를 바꾸고 있다고 말합니다."
           },
           {
-            "en": "Unlike convective storm clouds that appear distinctly on cockpit radar screens, clear-air turbulence strikes without visual warning, catching pilots and passengers completely unprepared.",
-            "ko": "조종석 레이더 화면에 뚜렷하게 나타나는 뇌우 구름과 달리, 청천 난기류는 시각적 경고 없이 닥쳐와 조종사와 승객 모두를 무방비 상태로 만듭니다."
+            "en": "When warm air meets cold air at high speeds, it creates invisible pockets of choppy air called clear-air turbulence.",
+            "ko": "따뜻한 공기와 찬 공기가 만나면 보이지 않는 청천 난기류가 생깁니다."
+          },
+          {
+            "en": "Because there are no clouds, cockpit weather radar cannot see it.",
+            "ko": "구름이 없기 때문에 조종석 레이더로는 이를 미리 감지할 수 없습니다."
           }
         ]
       },
       {
-        "en": "Over the past four decades, severe turbulence incidents across transatlantic and transpacific flight corridors have surged by more than fifty percent. Flight attendants and passengers have suffered spinal fractures and concussions during sudden altitude drops. In response, international civil aviation regulators are strongly recommending that passengers keep seatbelts securely fastened throughout the entire cruising phase, rather than merely during takeoff and landing.",
-        "ko": "지난 40년 동안 대서양과 태평양 횡단 비행 항로에서 발생한 심각한 난기류 사고는 50% 이상 급증했습니다. 갑작스러운 고도 하강 중 승무원과 승객들이 척추 골절과 뇌진탕을 겪기도 했습니다. 이에 따라 국제민간항공기구(ICAO)와 규제 당국은 승객들에게 이착륙 시뿐만 아니라 순항 비행 전체 구간에서 좌석 안전벨트를 단단히 착용할 것을 강력히 권고하고 있습니다.",
+        "en": "Over the past forty years, severe turbulence reports over the ocean have increased by more than fifty percent. Unexpected drops can cause drinks to spill and sometimes cause minor injuries to passengers who are standing up. For this reason, flight attendants advise all passengers to keep their seatbelts fastened whenever they are seated, even if the flight feels smooth.",
+        "ko": "지난 40년 동안 바다 위 항로에서 심한 난기류가 발생했다는 보고가 50% 이상 증가했습니다. 예상치 못한 급강하는 음료를 쏟게 만들고 서 있는 승객들에게 부상을 입히기도 합니다. 이러한 이유로 승무원들은 비행이 아무리 평온하게 느껴지더라도 자리에 앉아 있을 때는 항상 안전벨트를 매고 있을 것을 권장합니다.",
         "sentences": [
           {
-            "en": "Over the past four decades, severe turbulence incidents across transatlantic and transpacific flight corridors have surged by more than fifty percent.",
-            "ko": "지난 40년 동안 대서양과 태평양 횡단 비행 항로에서 발생한 심각한 난기류 사고는 50% 이상 급증했습니다."
+            "en": "Over the past forty years, severe turbulence reports over the ocean have increased by more than fifty percent.",
+            "ko": "지난 40년간 바다 상공의 심한 난기류 보고가 50% 이상 늘었습니다."
           },
           {
-            "en": "Flight attendants and passengers have suffered spinal fractures and concussions during sudden altitude drops.",
-            "ko": "갑작스러운 고도 하강 중 승무원과 승객들이 척추 골절과 뇌진탕을 겪기도 했습니다."
+            "en": "Unexpected drops can cause drinks to spill and sometimes cause minor injuries to passengers who are standing up.",
+            "ko": "예상치 못한 하강으로 서 있던 승객이 다치기도 합니다."
           },
           {
-            "en": "In response, international civil aviation regulators are strongly recommending that passengers keep seatbelts securely fastened throughout the entire cruising phase, rather than merely during takeoff and landing.",
-            "ko": "이에 따라 규제 당국은 승객들에게 이착륙 시뿐만 아니라 순항 비행 전체 구간에서 좌석 안전벨트를 단단히 착용할 것을 강력히 권고하고 있습니다."
+            "en": "For this reason, flight attendants advise all passengers to keep their seatbelts fastened whenever they are seated, even if the flight feels smooth.",
+            "ko": "따라서 승무원들은 자리에 앉아 있을 때 항상 벨트를 맬 것을 당부합니다."
           }
         ]
       },
       {
-        "en": "To mitigate risk, major airlines are investing heavily in advanced optical lidar sensors and machine learning weather models that forecast wind shear minutes before an aircraft encounters it. While these technologies promise to optimize flight paths and reduce diversion fuel costs, aviation analysts caution that travelers must become accustomed to more frequent route alterations and seasonal flight delays in an increasingly energetic climate.",
-        "ko": "위험을 완화하기 위해 주요 항공사들은 항공기가 난기류를 마주하기 몇 분 전에 윈드시어를 예측하는 첨단 광학 라이다 센서와 머신러닝 기상 모델에 막대한 투자를 진행하고 있습니다. 이러한 기술이 비행경로를 최적화하고 우회 연료 비용을 절감해 줄 것으로 기대되지만, 항공 전문가들은 기후 에너지가 날로 격렬해짐에 따라 승객들이 더 잦은 항로 변경과 계절적 운항 지연에 익숙해져야 한다고 경고합니다.",
+        "en": "Airlines and researchers are developing new tools to keep flights comfortable. Some new planes use special light sensors called lidar to scan the air several miles ahead. Computers can then warn the pilots so they can fly around rough air patches. Flying remains very safe, and new technology will make future trips even smoother.",
+        "ko": "항공사와 연구원들은 비행을 편안하게 유지하기 위해 새로운 장비들을 개발하고 있습니다. 일부 최신 항공기는 '라이다(lidar)'라는 특수 광학 센서를 사용하여 수 마일 앞의 공기 상태를 스캔합니다. 컴퓨터가 조종사에게 미리 경고하여 거친 공기 구간을 피해 날아갈 수 있게 합니다. 비행은 여전히 매우 안전하며, 첨단 기술 덕분에 미래의 여행은 더욱 편안해질 것입니다.",
         "sentences": [
           {
-            "en": "To mitigate risk, major airlines are investing heavily in advanced optical lidar sensors and machine learning weather models that forecast wind shear minutes before an aircraft encounters it.",
-            "ko": "위험을 완화하기 위해 주요 항공사들은 항공기가 난기류를 마주하기 몇 분 전에 윈드시어를 예측하는 첨단 라이다 센서와 머신러닝 기상 모델에 막대한 투자를 진행하고 있습니다."
+            "en": "Airlines and researchers are developing new tools to keep flights comfortable.",
+            "ko": "항공사들은 비행을 더 편안하게 만들기 위해 새 도구를 개발하고 있습니다."
           },
           {
-            "en": "While these technologies promise to optimize flight paths and reduce diversion fuel costs, aviation analysts caution that travelers must become accustomed to more frequent route alterations and seasonal flight delays in an increasingly energetic climate.",
-            "ko": "이러한 기술이 경로를 최적화하겠지만, 전문가들은 승객들이 더 잦은 항로 변경과 계절적 운항 지연에 익숙해져야 한다고 경고합니다."
+            "en": "Some new planes use special light sensors called lidar to scan the air several miles ahead.",
+            "ko": "일부 새 비행기는 수 마일 앞을 스캔하는 라이다 센서를 사용합니다."
+          },
+          {
+            "en": "Computers can then warn the pilots so they can fly around rough air patches.",
+            "ko": "컴퓨터가 조종사에게 경고하여 거친 공기를 피해 날 수 있게 돕습니다."
+          },
+          {
+            "en": "Flying remains very safe, and new technology will make future trips even smoother.",
+            "ko": "비행은 여전히 매우 안전하며, 신기술로 더욱 편안해질 것입니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "기후 온난화로 상층 제트기류가 불안정해지며 레이더에 잡히지 않는 청천 난기류가 50% 이상 급증했습니다.",
-      "예상치 못한 급강하 사고를 방지하기 위해 순항 중 상시 안전벨트 착용이 글로벌 표준으로 정착되고 있습니다.",
-      "항공사들은 라이다 센서와 AI 예측 항로를 도입하고 있으나 승객들의 비행 지연 수용이 불가피해지고 있습니다."
+      "기후 변화로 인해 눈에 보이지 않는 청천 난기류가 증가하고 있습니다.",
+      "자리에 앉아 있을 때는 항상 안전벨트를 매고 있는 것이 가장 안전합니다.",
+      "라이다 센서와 최신 컴퓨터 시스템이 난기류 회피를 돕고 있습니다."
     ],
     "quiz": [
       {
-        "question": "Why is clear-air turbulence particularly dangerous compared to convective thunderstorms?",
+        "question": "Why is clear-air turbulence difficult to detect with cockpit radar?",
         "options": [
-          "It cannot be detected visually or clearly on standard cockpit weather radar screens.",
-          "It only occurs at sea level where planes take off.",
-          "It causes the plane engines to permanently shut down."
+          "It occurs in clear skies without clouds.",
+          "Airplane radars are completely turned off during flights.",
+          "Turbulence only happens on the airport runway."
         ],
         "answer": 0,
-        "explanation": "Clear-air turbulence strikes invisibly without radar warning, giving pilots and passengers zero preparation time."
-      },
-      {
-        "question": "What safety measure are aviation authorities strongly urging all passengers to adopt?",
-        "options": [
-          "Keeping seatbelts fastened throughout the entire cruising flight.",
-          "Remaining standing in the aisle for better balance.",
-          "Refusing flights that fly over transatlantic corridors."
-        ],
-        "answer": 0,
-        "explanation": "Regulators recommend keeping seatbelts buckled during all cruising phases to prevent altitude drop injuries."
+        "explanation": "Clear-air turbulence happens without storm clouds, so ordinary radar cannot see it."
       }
     ]
   },
@@ -570,7 +644,7 @@ const READPULSE_ARTICLES = [
     "date": "2026-09-06",
     "category": "economy",
     "isLive": true,
-    "level": "B2",
+    "level": "A2-B1",
     "readTime": "3 min",
     "wordCount": 298,
     "keywords": [
@@ -650,7 +724,7 @@ const READPULSE_ARTICLES = [
     "date": "2026-09-06",
     "category": "sports",
     "isLive": true,
-    "level": "B2",
+    "level": "A2-B1",
     "readTime": "3 min",
     "wordCount": 290,
     "keywords": [
@@ -732,7 +806,7 @@ const READPULSE_ARTICLES = [
     "date": "2026-09-06",
     "category": "culture",
     "isLive": true,
-    "level": "B2",
+    "level": "A2-B1",
     "readTime": "3 min",
     "wordCount": 285,
     "keywords": [
@@ -1912,7 +1986,7 @@ const READPULSE_ARTICLES = [
   {
     "id": "tech-1",
     "category": "tech",
-    "level": "B2",
+    "level": "A2-B1",
     "title": "The Agentic AI Era: How Autonomous Agents Are Transforming Software Engineering",
     "subtitle": "Beyond passive chatbots: Autonomous agents orchestrate end-to-end refactoring, testing, and deployment.",
     "speaker": "MIT Technology Review / Tech Pulse",
@@ -2047,7 +2121,7 @@ const READPULSE_ARTICLES = [
   {
     "id": "tech-2",
     "category": "tech",
-    "level": "C1",
+    "level": "A2-B1",
     "title": "The Quantum Advantage Horizon: Commercial Readiness and Practical Cryptography",
     "subtitle": "Fault-tolerant qubits and post-quantum cryptography: Navigating the transition to quantum computing.",
     "speaker": "Nature Physics / Deep Tech Journal",
@@ -2164,7 +2238,7 @@ const READPULSE_ARTICLES = [
   {
     "id": "tech-3",
     "category": "tech",
-    "level": "B2",
+    "level": "A2-B1",
     "title": "Autonomous Mobility at Scale: Commercial Robotaxis, Urban Safety, and Infrastructure Integration",
     "subtitle": "From pilot programs to millions of driverless passenger miles: The economics and reality of autonomous fleets.",
     "speaker": "Wired Mobility / Urban Tech Quarterly",
@@ -2281,7 +2355,7 @@ const READPULSE_ARTICLES = [
   {
     "id": "sci-1",
     "category": "science",
-    "level": "C1",
+    "level": "A2-B1",
     "title": "Peering into Cosmic Dawn: How the James Webb Space Telescope Rewrote Early Universe Astrophysics",
     "subtitle": "Impossibly mature early galaxies and atmospheric biosignatures on temperate exoplanets challenge established models.",
     "speaker": "Astrophysical Journal / Space Frontiers",
@@ -2398,7 +2472,7 @@ const READPULSE_ARTICLES = [
   {
     "id": "sci-2",
     "category": "science",
-    "level": "B2",
+    "level": "A2-B1",
     "title": "The Precision Genetic Revolution: Clinical Horizons and Epigenetic Frontiers of CRISPR",
     "subtitle": "From ex vivo sickle cell breakthroughs to in vivo base editing: How molecular scissors are curing intractable diseases.",
     "speaker": "Cellular Biotechnology / Global Science Review",
@@ -2515,7 +2589,7 @@ const READPULSE_ARTICLES = [
   {
     "id": "sci-3",
     "category": "science",
-    "level": "B2",
+    "level": "A2-B1",
     "title": "Ocean Worlds of the Outer Solar System: Europa Clipper and the Search for Alien Life",
     "subtitle": "Traversing radiation belts to analyze subsurface plumes and habitability beneath Jupiter's icy moon.",
     "speaker": "Planetary Science Institute / NASA Frontiers",
@@ -2632,7 +2706,7 @@ const READPULSE_ARTICLES = [
   {
     "id": "econ-1",
     "category": "economy",
-    "level": "B2",
+    "level": "A2-B1",
     "title": "Global Monetary Policy in Transition: Navigating Central Bank Easing and Fiscal Headwinds",
     "subtitle": "Interest rate normalization, stubborn services inflation, and sovereign debt pressures reshape global markets.",
     "speaker": "Financial Times / Macroeconomics Review",
@@ -2749,7 +2823,7 @@ const READPULSE_ARTICLES = [
   {
     "id": "econ-2",
     "category": "economy",
-    "level": "C1",
+    "level": "A2-B1",
     "title": "The Geopolitics of Semiconductor Fabrication: Subsidies, Foundries, and the Silicon Frontier",
     "subtitle": "CHIPS acts, advanced packaging, and supply chain resilience: The trillion-dollar battle for technological sovereignty.",
     "speaker": "The Economist / Global Industrial Policy",
@@ -2866,7 +2940,7 @@ const READPULSE_ARTICLES = [
   {
     "id": "sports-1",
     "category": "sports",
-    "level": "B2",
+    "level": "A2-B1",
     "title": "The Algorithmic Pitch: How Spatial Tracking and AI Analytics Are Redefining Global Football",
     "subtitle": "Computer vision, expected threat models, and real-time tactical geometry transform the world's most popular sport.",
     "speaker": "The Athletic / Sports Science Quarterly",
@@ -2986,7 +3060,7 @@ const READPULSE_ARTICLES = [
   {
     "id": "sports-2",
     "category": "sports",
-    "level": "B2",
+    "level": "A2-B1",
     "title": "Breaking the Two-Hour Marathon Barrier: Biomechanics, Carbon Plating, and Human Physiology",
     "subtitle": "How super-shoes, metabolic thresholds, and aerodynamic drafting engineered the fastest distance times in history.",
     "speaker": "Runner's World / Exercise Physiology Digest",
@@ -3102,7 +3176,7 @@ const READPULSE_ARTICLES = [
   {
     "id": "culture-1",
     "category": "culture",
-    "level": "B2",
+    "level": "A2-B1",
     "title": "The Architecture of Global Fandom: The Transmedia Economics of the Korean Wave",
     "subtitle": "Beyond chart-topping singles: Community platforms, synchronous virtual fan events, and participatory pop culture.",
     "speaker": "Variety / Cultural Industry Review",
@@ -3219,7 +3293,7 @@ const READPULSE_ARTICLES = [
   {
     "id": "culture-2",
     "category": "culture",
-    "level": "B2",
+    "level": "A2-B1",
     "title": "Fast Fashion's Reckoning: Circular Textiles, Digital Passports, and Sustainable Luxury",
     "subtitle": "How stringent EU regulations and regenerative fiber science are transforming the global apparel industry.",
     "speaker": "Vogue Business / Sustainable Design Forum",

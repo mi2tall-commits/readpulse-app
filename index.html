@@ -1135,7 +1135,8 @@
       position: fixed;
       bottom: 1.5rem;
       right: 1.5rem;
-      width: 320px;
+      width: 360px;
+      max-width: calc(100vw - 2rem);
       background: var(--bg-surface);
       border: 1px solid var(--border-strong);
       border-radius: var(--radius-lg);
@@ -1158,34 +1159,116 @@
       align-items: center;
       justify-content: space-between;
     }
-    .inspector-word { font-size: 1.3rem; font-weight: 800; letter-spacing: -0.01em; }
-    .inspector-ipa { font-family: var(--font-mono); font-size: 0.82rem; color: var(--text-dim); }
+    .inspector-word-row {
+      display: flex;
+      align-items: baseline;
+      gap: 0.6rem;
+      flex-wrap: wrap;
+    }
+    .inspector-word { font-size: 1.35rem; font-weight: 800; letter-spacing: -0.01em; color: var(--text-main); }
+    .inspector-ipa { font-family: var(--font-mono); font-size: 0.85rem; color: var(--text-dim); }
 
-    .inspector-meaning {
-      font-size: 0.95rem;
+    .inspector-meaning-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 0.75rem 0.85rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.45rem;
+    }
+    .meaning-meta-row {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+    .meaning-target-badge {
+      font-size: 0.7rem;
+      font-weight: 700;
+      color: #10b981;
+      background: rgba(16, 185, 129, 0.15);
+      border: 1px solid rgba(16, 185, 129, 0.35);
+      border-radius: 4px;
+      padding: 0.15rem 0.45rem;
+    }
+    .pos-badge {
+      font-size: 0.7rem;
+      font-weight: 700;
+      color: var(--primary);
+      background: var(--primary-light);
+      border-radius: 4px;
+      padding: 0.15rem 0.45rem;
+    }
+    .cefr-badge {
+      font-size: 0.7rem;
+      font-weight: 700;
+      color: #f59e0b;
+      background: rgba(245, 158, 11, 0.15);
+      border-radius: 4px;
+      padding: 0.15rem 0.45rem;
+    }
+    .meaning-text {
+      font-size: 1.05rem;
+      font-weight: 700;
       color: var(--text-main);
       line-height: 1.4;
-      background: var(--bg-card);
-      padding: 0.65rem 0.85rem;
-      border-radius: var(--radius-sm);
     }
-    .inspector-example { font-size: 0.78rem; color: var(--text-muted); font-style: italic; }
-    .inspector-actions { display: flex; gap: 0.5rem; margin-top: 0.25rem; }
+    .inspector-example {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      background: rgba(255, 255, 255, 0.03);
+      border-left: 3px solid var(--primary);
+      padding: 0.4rem 0.6rem;
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      line-height: 1.4;
+    }
+    .external-dict-row {
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+      flex-wrap: wrap;
+      margin-top: -0.15rem;
+    }
+    .btn-dict-link {
+      font-size: 0.72rem;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 0.25rem 0.55rem;
+      border-radius: 4px;
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      transition: all 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.2rem;
+    }
+    .btn-dict-link:hover {
+      border-color: var(--primary);
+      color: var(--text-main);
+      background: var(--bg-elevated);
+    }
+    .btn-dict-link.naver:hover { border-color: #03c75a; color: #03c75a; }
+    .btn-dict-link.daum:hover { border-color: #3b82f6; color: #3b82f6; }
+    .btn-dict-link.cambridge:hover { border-color: #f59e0b; color: #f59e0b; }
 
+    .inspector-actions { display: flex; gap: 0.5rem; margin-top: 0.25rem; }
     .btn-inspector-action {
       flex: 1;
-      padding: 0.5rem;
+      padding: 0.55rem;
       border-radius: var(--radius-sm);
-      font-size: 0.8rem;
-      font-weight: 600;
+      font-size: 0.82rem;
+      font-weight: 700;
       border: none;
       cursor: pointer;
       display: flex;
       align-items: center;
       justify-content: center;
       gap: 0.35rem;
+      transition: all 0.2s ease;
     }
     .btn-inspector-save { background: var(--accent-amber); color: #000; }
+    .btn-inspector-save.saved { background: rgba(245, 158, 11, 0.2); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); }
     .btn-inspector-audio { background: var(--bg-card); border: 1px solid var(--border-subtle); color: var(--text-main); }
 
     .shadowing-modal {
@@ -1592,27 +1675,41 @@
     </div>
   </div>
 
-  <!-- WORD INSPECTOR POPOVER (LINGQ STYLE) -->
+  <!-- WORD INSPECTOR POPOVER (LINGQ STYLE WITH COMPREHENSIVE DEFINITIONS) -->
   <div class="word-inspector-modal" id="wordInspector">
     <div class="inspector-header">
-      <div>
-        <div class="inspector-word" id="inspWord">Word</div>
-        <div class="inspector-ipa" id="inspIpa">/ipa/</div>
+      <div class="inspector-word-row">
+        <span class="inspector-word" id="inspWord">Word</span>
+        <span class="inspector-ipa" id="inspIpa">/ipa/</span>
       </div>
       <button class="btn-close-modal" onclick="closeWordInspector()">✕</button>
     </div>
     
-    <div class="inspector-meaning" id="inspMeaning">
-      단어 뜻 로딩 중...
+    <div class="inspector-meaning-card" id="inspMeaningCard">
+      <div class="meaning-meta-row">
+        <span class="meaning-target-badge">🎯 뜻</span>
+        <span class="pos-badge" id="inspPos">품사</span>
+        <span class="cefr-badge" id="inspCefr">레벨</span>
+      </div>
+      <div class="meaning-text" id="inspMeaning">
+        단어 뜻 로딩 중...
+      </div>
     </div>
 
     <div class="inspector-example" id="inspExample">
       "Example sentence using this vocabulary."
     </div>
 
+    <!-- 1-Click External Dictionary Shortcuts -->
+    <div class="external-dict-row">
+      <a href="#" target="_blank" id="btnDictNaver" class="btn-dict-link naver" title="네이버 영어사전에서 상세 검색">📗 네이버</a>
+      <a href="#" target="_blank" id="btnDictDaum" class="btn-dict-link daum" title="다음 어학사전에서 상세 검색">📘 다음</a>
+      <a href="#" target="_blank" id="btnDictCambridge" class="btn-dict-link cambridge" title="캠브리지 영한사전에서 검색">📙 캠브리지</a>
+    </div>
+
     <div class="inspector-actions">
       <button class="btn-inspector-action btn-inspector-audio" onclick="speakCurrentWord()">
-        🔊 발음
+        🔊 발음 듣기
       </button>
       <button class="btn-inspector-action btn-inspector-save" id="btnSaveWord" onclick="toggleSaveCurrentWord()">
         ⭐️ 단어장 저장
@@ -2444,7 +2541,42 @@
       }).join('');
     }
 
-    // WORD INSPECTOR (LINGQ STYLE)
+    // WORD LEMMATIZATION & DICTIONARY LOOKUP
+    function getWordLemmas(word) {
+      if (!word) return [];
+      const w = word.toLowerCase().trim();
+      const candidates = [w];
+      if (w.endsWith('ies') && w.length > 4) candidates.push(w.slice(0, -3) + 'y');
+      if (w.endsWith('es') && w.length > 3) candidates.push(w.slice(0, -2));
+      if (w.endsWith('s') && !w.endsWith('ss') && w.length > 2) candidates.push(w.slice(0, -1));
+      if (w.endsWith('ed') && w.length > 3) {
+        candidates.push(w.slice(0, -2));
+        candidates.push(w.slice(0, -1));
+        if (w.length > 4 && w[w.length - 3] === w[w.length - 4]) candidates.push(w.slice(0, -3));
+      }
+      if (w.endsWith('ing') && w.length > 4) {
+        candidates.push(w.slice(0, -3));
+        candidates.push(w.slice(0, -3) + 'e');
+        if (w.length > 5 && w[w.length - 4] === w[w.length - 5]) candidates.push(w.slice(0, -4));
+      }
+      if (w.endsWith('ly') && w.length > 3) candidates.push(w.slice(0, -2));
+      if (w.endsWith('er') && w.length > 3) candidates.push(w.slice(0, -2));
+      if (w.endsWith('est') && w.length > 4) candidates.push(w.slice(0, -3));
+      return candidates;
+    }
+
+    function lookupDictionaryEntry(word) {
+      if (typeof READPULSE_DICTIONARY === 'undefined') return null;
+      const candidates = getWordLemmas(word);
+      for (const cand of candidates) {
+        if (READPULSE_DICTIONARY[cand]) {
+          return { entry: READPULSE_DICTIONARY[cand], matchedLemma: cand };
+        }
+      }
+      return null;
+    }
+
+    // WORD INSPECTOR (LINGQ STYLE WITH VISIBLE KOREAN DEFINITIONS)
     function inspectWord(word, event) {
       if (event) event.stopPropagation();
       activeInspectorWord = word.toLowerCase();
@@ -2452,20 +2584,37 @@
       const modal = document.getElementById('wordInspector');
       document.getElementById('inspWord').innerText = word;
 
-      let lexEntry = null;
-      if (typeof READPULSE_DICTIONARY !== 'undefined' && READPULSE_DICTIONARY[activeInspectorWord]) {
-        lexEntry = READPULSE_DICTIONARY[activeInspectorWord];
-      }
+      const lookupRes = lookupDictionaryEntry(activeInspectorWord);
+      let lexEntry = lookupRes ? lookupRes.entry : null;
+
+      const meaningEl = document.getElementById('inspMeaning');
+      const posEl = document.getElementById('inspPos');
+      const cefrEl = document.getElementById('inspCefr');
+      const exampleEl = document.getElementById('inspExample');
+      const ipaEl = document.getElementById('inspIpa');
 
       if (lexEntry) {
-        document.getElementById('inspIpa').innerText = lexEntry.ipa || '/.../';
-        document.getElementById('inspMeaning').innerHTML = `<b>[${lexEntry.pos || '단어'}]</b> ${lexEntry.ko}`;
-        document.getElementById('inspExample').innerText = `"${lexEntry.example || ''}"`;
+        ipaEl.innerText = lexEntry.ipa || `/${word}/`;
+        if (posEl) posEl.innerText = lexEntry.pos || '단어';
+        if (cefrEl) cefrEl.innerText = lexEntry.cefr || 'B1';
+        meaningEl.innerText = lexEntry.ko || lexEntry.meaning || '';
+        exampleEl.innerText = lexEntry.example ? `"${lexEntry.example}"` : `"${word}"`;
+        exampleEl.style.display = 'block';
       } else {
-        document.getElementById('inspIpa').innerText = `/${word}/`;
-        document.getElementById('inspMeaning').innerHTML = `<b>[단어]</b> 문맥 속 어휘 (탭하여 듣기 및 단어장에 저장)`;
-        document.getElementById('inspExample').innerText = `"${word}"`;
+        ipaEl.innerText = `/${word}/`;
+        if (posEl) posEl.innerText = '문맥 어휘';
+        if (cefrEl) cefrEl.innerText = '학습';
+        meaningEl.innerText = `‘${word}’ (아래 포털 사전 버튼으로 상세 뜻을 확인하고 단어장에 저장하세요)`;
+        exampleEl.innerText = `"${word}"`;
       }
+
+      // Update 1-click external dictionary links
+      const naverBtn = document.getElementById('btnDictNaver');
+      if (naverBtn) naverBtn.href = `https://en.dict.naver.com/#/search?query=${encodeURIComponent(word)}`;
+      const daumBtn = document.getElementById('btnDictDaum');
+      if (daumBtn) daumBtn.href = `https://dic.daum.net/search.do?q=${encodeURIComponent(word)}`;
+      const cambridgeBtn = document.getElementById('btnDictCambridge');
+      if (cambridgeBtn) cambridgeBtn.href = `https://dictionary.cambridge.org/dictionary/english-korean/${encodeURIComponent(word)}`;
 
       updateSaveWordButton();
       modal.classList.add('active');
@@ -2484,18 +2633,14 @@
       if (!activeInspectorWord) return;
       const idx = savedVocab.findIndex(v => v.word.toLowerCase() === activeInspectorWord);
       
-      let meaning = '문맥 학습 단어';
-      let ipa = `/${activeInspectorWord}/`;
-      let example = '';
-
-      if (typeof READPULSE_DICTIONARY !== 'undefined' && READPULSE_DICTIONARY[activeInspectorWord]) {
-        meaning = READPULSE_DICTIONARY[activeInspectorWord].ko;
-        ipa = READPULSE_DICTIONARY[activeInspectorWord].ipa;
-        example = READPULSE_DICTIONARY[activeInspectorWord].example;
-      }
+      const lookupRes = lookupDictionaryEntry(activeInspectorWord);
+      let meaning = lookupRes && lookupRes.entry ? (lookupRes.entry.ko || lookupRes.entry.meaning) : `‘${activeInspectorWord}’ 학습 단어`;
+      let ipa = lookupRes && lookupRes.entry ? lookupRes.entry.ipa : `/${activeInspectorWord}/`;
+      let example = lookupRes && lookupRes.entry ? lookupRes.entry.example : '';
 
       if (idx >= 0) {
         savedVocab.splice(idx, 1);
+        showToast('🗑️ 단어장에서 삭제되었습니다.');
       } else {
         const artId = currentArticle ? currentArticle.id : null;
         savedVocab.unshift({
@@ -2507,13 +2652,13 @@
           date: new Date().toISOString()
         });
         addXp(5);
+        showToast(`⭐️ [${activeInspectorWord}] 단어장에 저장되었습니다!`);
         if (artId && !archivedArticleIds.includes(artId)) {
           archivedArticleIds.push(artId);
           localStorage.setItem('readpulse_archived_ids', JSON.stringify(archivedArticleIds));
           initArticles();
           applyFilters();
           updateReaderArchiveButton();
-          showToast('⭐️ 단어가 저장되어 이 기사가 보관함(Archive)에 영구 보존됩니다!');
         }
       }
 
@@ -2533,12 +2678,14 @@
       const isSaved = savedVocab.some(v => v.word.toLowerCase() === activeInspectorWord);
       if (isSaved) {
         btn.innerText = '⭐️ 저장됨 (제거)';
-        btn.style.background = 'var(--accent-green)';
-        btn.style.color = '#fff';
+        btn.style.background = 'rgba(245, 158, 11, 0.2)';
+        btn.style.color = '#f59e0b';
+        btn.style.border = '1px solid rgba(245, 158, 11, 0.5)';
       } else {
         btn.innerText = '⭐️ 단어장 저장';
         btn.style.background = 'var(--accent-amber)';
         btn.style.color = '#000';
+        btn.style.border = 'none';
       }
     }
 
