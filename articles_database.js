@@ -39,7 +39,8 @@ const READPULSE_ARTICLES = [
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "addedAt": "2026-09-04T00:00:00Z"
   },
   {
     "id": "auto_science_149177085",
@@ -80,7 +81,8 @@ const READPULSE_ARTICLES = [
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "addedAt": "2026-09-05T00:00:00Z"
   },
   {
     "id": "auto_economy_437452307",
@@ -121,7 +123,8 @@ const READPULSE_ARTICLES = [
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "addedAt": "2026-09-06T00:00:00Z"
   },
   {
     "id": "auto_sports_1075831895",
@@ -162,7 +165,8 @@ const READPULSE_ARTICLES = [
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "addedAt": "2026-09-06T00:00:00Z"
   },
   {
     "id": "auto_culture_231935796",
@@ -203,7 +207,8 @@ const READPULSE_ARTICLES = [
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "addedAt": "2026-09-06T00:00:00Z"
   },
   {
     "id": "speech-lincoln",

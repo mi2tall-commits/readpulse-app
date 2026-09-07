@@ -9,6 +9,7 @@ import urllib.parse
 import json
 import os
 import re
+from datetime import datetime, timezone
 
 FEEDS = [
     {"cat": "tech", "name": "BBC Technology", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"},
@@ -66,6 +67,7 @@ def main():
                         "subtitle": desc[:130] + "...",
                         "speaker": f_info["name"],
                         "date": top_item.get("pubDate", "Today").split(" ")[0],
+                        "addedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                         "category": f_info["cat"],
                         "isLive": True,
                         "level": "B2",

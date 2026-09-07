@@ -456,6 +456,127 @@
       color: var(--primary);
     }
 
+    .badge-permanent {
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.2rem 0.55rem;
+      border-radius: 4px;
+      background: rgba(99, 102, 241, 0.15);
+      color: #818cf8;
+      border: 1px solid rgba(99, 102, 241, 0.35);
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
+    .badge-archived {
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.2rem 0.55rem;
+      border-radius: 4px;
+      background: rgba(16, 185, 129, 0.18);
+      color: #10b981;
+      border: 1px solid rgba(16, 185, 129, 0.4);
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
+    .badge-countdown {
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.2rem 0.55rem;
+      border-radius: 4px;
+      background: rgba(245, 158, 11, 0.15);
+      color: #f59e0b;
+      border: 1px solid rgba(245, 158, 11, 0.35);
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
+    .btn-card-archive {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      border-radius: var(--radius-sm);
+      padding: 0.25rem 0.6rem;
+      font-size: 0.75rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      transition: all 0.2s ease;
+    }
+
+    .btn-card-archive:hover {
+      border-color: var(--accent-green);
+      color: var(--accent-green);
+      background: rgba(16, 185, 129, 0.1);
+    }
+
+    .btn-card-archive.archived {
+      background: rgba(16, 185, 129, 0.2);
+      color: var(--accent-green);
+      border-color: rgba(16, 185, 129, 0.45);
+    }
+
+    .btn-reader-archive {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      background: var(--bg-card);
+      border: 1px solid var(--border-strong);
+      color: var(--text-main);
+      padding: 0.4rem 0.85rem;
+      border-radius: var(--radius-sm);
+      font-size: 0.82rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .btn-reader-archive:hover {
+      background: var(--bg-elevated);
+      border-color: var(--accent-green);
+      color: var(--accent-green);
+    }
+
+    .btn-reader-archive.archived {
+      background: rgba(16, 185, 129, 0.2);
+      border-color: var(--accent-green);
+      color: var(--accent-green);
+    }
+
+    .toast-box {
+      position: fixed;
+      bottom: 2rem;
+      left: 50%;
+      transform: translateX(-50%) translateY(100px);
+      background: var(--bg-elevated);
+      border: 1px solid var(--accent-green);
+      color: #fff;
+      padding: 0.75rem 1.25rem;
+      border-radius: var(--radius-md);
+      box-shadow: var(--shadow-lg);
+      font-size: 0.88rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      z-index: 10000;
+      transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .toast-box.show {
+      transform: translateX(-50%) translateY(0);
+      opacity: 1;
+      pointer-events: auto;
+    }
+
     .card-title {
       font-size: 1.15rem;
       font-weight: 700;
@@ -1217,6 +1338,7 @@
       <!-- Categories Filter -->
       <div class="category-scroll" id="categoryTabs">
         <button class="filter-chip active" data-cat="all" onclick="filterCategory('all')">전체 (All)</button>
+        <button class="filter-chip" data-cat="archived" onclick="filterCategory('archived')">📦 보관함 (<span id="archivedCountBadge">0</span>)</button>
         <button class="filter-chip" data-cat="speeches" onclick="filterCategory('speeches')">🏛️ 미국 대통령 명연설</button>
         <button class="filter-chip" data-cat="tech" onclick="filterCategory('tech')">💻 IT / 기술</button>
         <button class="filter-chip" data-cat="science" onclick="filterCategory('science')">🔬 과학 / 우주</button>
@@ -1253,12 +1375,18 @@
     <div class="reader-container">
       <!-- Header Meta -->
       <div class="reader-article-header">
-        <div class="reader-meta-row">
-          <span class="badge-cat" id="readerCatBadge">CATEGORY</span>
-          <span class="badge-level" id="readerLevelBadge">CEFR</span>
-          <span id="readerSpeakerDate">Speaker • Date</span>
-          <span>•</span>
-          <span id="readerWordCount">0 words</span>
+        <div class="reader-meta-row" style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.5rem;">
+          <div style="display:flex; align-items:center; gap:0.5rem; flex-wrap:wrap;">
+            <span class="badge-cat" id="readerCatBadge">CATEGORY</span>
+            <span class="badge-level" id="readerLevelBadge">CEFR</span>
+            <span id="readerRetentionBadge" class="badge-permanent">🏛️ 영구 보존</span>
+            <span id="readerSpeakerDate">Speaker • Date</span>
+            <span>•</span>
+            <span id="readerWordCount">0 words</span>
+          </div>
+          <button id="readerBtnArchive" class="btn-reader-archive" onclick="toggleArchiveCurrentArticle()">
+            📥 보관함에 저장
+          </button>
         </div>
         <h1 class="reader-title" id="readerTitle">Title</h1>
         <p class="reader-subtitle" id="readerSubtitle">Subtitle</p>
@@ -1451,6 +1579,7 @@
     let selectedCategory = 'all';
     let userXp = 0;
     let savedVocab = [];
+    let archivedArticleIds = [];
     let readingMode = 'en'; // 'en', 'parallel', 'sentence'
     let isPlayingArticle = false;
     let currentParagraphIndex = -1;
@@ -1471,6 +1600,7 @@
       initSpeechRecognition();
       renderArticleGrid();
       updateVocabUI();
+      updateArchiveUI();
     });
 
     function loadUserData() {
@@ -1485,6 +1615,9 @@
         const storedLive = localStorage.getItem('readpulse_live_articles');
         if (storedLive) liveArticles = JSON.parse(storedLive);
 
+        const savedArchived = localStorage.getItem('readpulse_archived_ids');
+        if (savedArchived) archivedArticleIds = JSON.parse(savedArchived);
+
         const theme = localStorage.getItem('readpulse_theme') || 'dark';
         applyTheme(theme);
       } catch (e) {
@@ -1498,13 +1631,68 @@
       localStorage.setItem('readpulse_xp', userXp);
     }
 
+    function isArticleArchived(articleId) {
+      if (!articleId) return false;
+      if (archivedArticleIds.includes(articleId)) return true;
+      if (savedVocab.some(v => v.articleId === articleId)) return true;
+      return false;
+    }
+
+    function checkArticleRetention(article) {
+      // 1. Speeches are always permanently retained
+      if (article.category === 'speeches') {
+        return { isPermanent: true, label: '🏛️ 영구 보존', cssClass: 'badge-permanent', shouldPrune: false };
+      }
+
+      // 2. Curated core deep-dives (non-live, non-auto)
+      const isLiveNews = Boolean(article.isLive || (article.id && (article.id.startsWith('auto_') || article.id.startsWith('live_'))));
+      if (!isLiveNews) {
+        return { isPermanent: true, label: '🏛️ 영구 보존', cssClass: 'badge-permanent', shouldPrune: false };
+      }
+
+      // 3. Check if archived (manually or via vocab)
+      if (isArticleArchived(article.id)) {
+        return { isPermanent: true, isArchived: true, label: '📦 보관됨', cssClass: 'badge-archived', shouldPrune: false };
+      }
+
+      // 4. Calculate 7-day expiration for live/auto news
+      const dateStr = article.addedAt || article.date;
+      let articleDate = new Date(dateStr);
+      if (isNaN(articleDate.getTime())) {
+        articleDate = new Date();
+      }
+
+      const now = new Date();
+      const diffMs = now.getTime() - articleDate.getTime();
+      const diffDays = diffMs / (1000 * 60 * 60 * 24);
+
+      if (diffDays >= 7) {
+        return { shouldPrune: true };
+      }
+
+      const daysLeft = Math.max(1, Math.ceil(7 - diffDays));
+      return {
+        isPermanent: false,
+        isArchived: false,
+        daysLeft: daysLeft,
+        label: `⏳ D-${daysLeft}일 후 만료`,
+        cssClass: 'badge-countdown',
+        shouldPrune: false
+      };
+    }
+
     function initArticles() {
       let builtIn = [];
       if (typeof READPULSE_ARTICLES !== 'undefined') {
         builtIn = READPULSE_ARTICLES;
       }
-      allArticles = [...builtIn, ...liveArticles];
+      const combined = [...builtIn, ...liveArticles];
+      allArticles = combined.filter(art => {
+        const ret = checkArticleRetention(art);
+        return !ret.shouldPrune;
+      });
       currentFilteredArticles = [...allArticles];
+      updateArchiveUI();
     }
 
     function applyTheme(theme) {
@@ -1547,8 +1735,16 @@
       const query = document.getElementById('searchInput').value.trim().toLowerCase();
       
       currentFilteredArticles = allArticles.filter(art => {
-        const catMatch = (selectedCategory === 'all') || 
-          (selectedCategory === 'live' ? art.isLive : art.category === selectedCategory);
+        let catMatch = false;
+        if (selectedCategory === 'all') {
+          catMatch = true;
+        } else if (selectedCategory === 'archived') {
+          catMatch = isArticleArchived(art.id);
+        } else if (selectedCategory === 'live') {
+          catMatch = art.isLive || (art.id && (art.id.startsWith('auto_') || art.id.startsWith('live_')));
+        } else {
+          catMatch = art.category === selectedCategory;
+        }
         
         const qMatch = !query || 
           art.title.toLowerCase().includes(query) ||
@@ -1577,18 +1773,32 @@
       }
 
       container.innerHTML = currentFilteredArticles.map(art => {
+        const retention = checkArticleRetention(art);
+        const isArchived = isArticleArchived(art.id);
         const isSpeech = art.category === 'speeches';
-        const isLive = art.isLive;
+        const isLive = Boolean(art.isLive || (art.id && (art.id.startsWith('auto_') || art.id.startsWith('live_'))));
         const catClass = isLive ? 'live' : (isSpeech ? 'speeches' : '');
         const catLabel = isLive ? '실시간 속보' : getCategoryNameKo(art.category);
 
         const takeawaysHtml = (art.takeaways || []).slice(0, 3).map(t => `<li>${t}</li>`).join('');
 
+        const archiveBtnHtml = isSpeech ? '' : `
+          <button class="btn-card-archive ${isArchived ? 'archived' : ''}" onclick="toggleArchiveArticle('${art.id}', event)" title="${isArchived ? '보관 해제' : '보관함에 저장'}">
+            ${isArchived ? '📦 보관됨' : '📥 보관'}
+          </button>
+        `;
+
         return `
           <div class="article-card" onclick="openReader('${art.id}')">
             <div class="card-meta-row">
-              <span class="badge-cat ${catClass}">${catLabel}</span>
-              <span class="badge-level">${art.level || 'B2'}</span>
+              <div style="display:flex; align-items:center; gap:0.4rem; flex-wrap:wrap;">
+                <span class="badge-cat ${catClass}">${catLabel}</span>
+                <span class="${retention.cssClass}">${retention.label}</span>
+              </div>
+              <div style="display:flex; align-items:center; gap:0.4rem;">
+                <span class="badge-level">${art.level || 'B2'}</span>
+                ${archiveBtnHtml}
+              </div>
             </div>
 
             <h3 class="card-title">${escapeHtml(art.title)}</h3>
@@ -1747,6 +1957,7 @@
       document.getElementById('readerLevelBadge').innerText = currentArticle.level || 'B2';
       document.getElementById('readerSpeakerDate').innerText = `${currentArticle.speaker || 'Speaker'} • ${currentArticle.date || 'Recent'}`;
       document.getElementById('readerWordCount').innerText = `${currentArticle.wordCount || 200} words`;
+      updateReaderArchiveButton();
 
       // Takeaways
       const takeawaysContainer = document.getElementById('readerTakeaways');
@@ -1779,6 +1990,91 @@
     function closeReader() {
       stopAudio();
       document.getElementById('readerOverlay').classList.remove('active');
+    }
+
+    function toggleArchiveArticle(articleId, event) {
+      if (event) event.stopPropagation();
+      if (!articleId) return;
+
+      const idx = archivedArticleIds.indexOf(articleId);
+      const hasVocab = savedVocab.some(v => v.articleId === articleId);
+
+      if (idx >= 0) {
+        if (hasVocab) {
+          showToast('⚠️ 단어장에 저장된 단어가 있어 보관 상태가 유지됩니다.');
+          return;
+        }
+        archivedArticleIds.splice(idx, 1);
+        showToast('🗑️ 보관함에서 제외되었습니다.');
+      } else {
+        archivedArticleIds.push(articleId);
+        showToast('📦 보관함에 저장되었습니다! (7일 후에도 영구 보존)');
+        addXp(5);
+      }
+
+      localStorage.setItem('readpulse_archived_ids', JSON.stringify(archivedArticleIds));
+      updateArchiveUI();
+      applyFilters();
+      if (currentArticle && currentArticle.id === articleId) {
+        updateReaderArchiveButton();
+      }
+    }
+
+    function toggleArchiveCurrentArticle() {
+      if (!currentArticle) return;
+      toggleArchiveArticle(currentArticle.id);
+    }
+
+    function updateReaderArchiveButton() {
+      const btn = document.getElementById('readerBtnArchive');
+      const badge = document.getElementById('readerRetentionBadge');
+      if (!btn || !currentArticle) return;
+
+      const ret = checkArticleRetention(currentArticle);
+      if (badge) {
+        badge.className = ret.cssClass;
+        badge.innerText = ret.label;
+      }
+
+      if (currentArticle.category === 'speeches') {
+        btn.style.display = 'none';
+        return;
+      }
+
+      btn.style.display = 'inline-flex';
+      const isArchived = isArticleArchived(currentArticle.id);
+      if (isArchived) {
+        btn.className = 'btn-reader-archive archived';
+        btn.innerHTML = '📦 보관됨 (영구 보존 중)';
+      } else {
+        btn.className = 'btn-reader-archive';
+        btn.innerHTML = '📥 보관함에 저장';
+      }
+    }
+
+    function updateArchiveUI() {
+      const badge = document.getElementById('archivedCountBadge');
+      if (badge) {
+        const count = allArticles.filter(a => isArticleArchived(a.id)).length;
+        badge.innerText = count;
+      }
+    }
+
+    let toastTimeout = null;
+    function showToast(message) {
+      let toast = document.getElementById('toastNotification');
+      if (!toast) {
+        toast = document.createElement('div');
+        toast.id = 'toastNotification';
+        toast.className = 'toast-box';
+        document.body.appendChild(toast);
+      }
+      toast.innerHTML = message;
+      toast.classList.add('show');
+      if (toastTimeout) clearTimeout(toastTimeout);
+      toastTimeout = setTimeout(() => {
+        toast.classList.remove('show');
+      }, 3200);
     }
 
     function adjustFontSize(delta) {
@@ -1901,14 +2197,24 @@
       if (idx >= 0) {
         savedVocab.splice(idx, 1);
       } else {
+        const artId = currentArticle ? currentArticle.id : null;
         savedVocab.unshift({
           word: activeInspectorWord,
           ipa: ipa,
           meaning: meaning,
           example: example,
+          articleId: artId,
           date: new Date().toISOString()
         });
         addXp(5);
+        if (artId && !archivedArticleIds.includes(artId)) {
+          archivedArticleIds.push(artId);
+          localStorage.setItem('readpulse_archived_ids', JSON.stringify(archivedArticleIds));
+          updateArchiveUI();
+          applyFilters();
+          updateReaderArchiveButton();
+          showToast('⭐️ 단어가 저장되어 이 기사가 보관함(Archive)에 영구 보존됩니다!');
+        }
       }
 
       localStorage.setItem('readpulse_vocab', JSON.stringify(savedVocab));
