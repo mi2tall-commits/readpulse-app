@@ -40,7 +40,13 @@ const READPULSE_ARTICLES = [
         "explanation": "The title directly reflects the main subject."
       }
     ],
-    "addedAt": "2026-09-04T00:00:00Z"
+    "addedAt": "2026-09-04T00:00:00Z",
+    "keywords": [
+      "#AI해킹",
+      "#오픈AI",
+      "#사이버보안",
+      "#글로벌IT"
+    ]
   },
   {
     "id": "auto_science_149177085",
@@ -82,7 +88,13 @@ const READPULSE_ARTICLES = [
         "explanation": "The title directly reflects the main subject."
       }
     ],
-    "addedAt": "2026-09-05T00:00:00Z"
+    "addedAt": "2026-09-05T00:00:00Z",
+    "keywords": [
+      "#기후과학",
+      "#생태계",
+      "#환경위기",
+      "#최신과학"
+    ]
   },
   {
     "id": "auto_economy_437452307",
@@ -124,7 +136,13 @@ const READPULSE_ARTICLES = [
         "explanation": "The title directly reflects the main subject."
       }
     ],
-    "addedAt": "2026-09-06T00:00:00Z"
+    "addedAt": "2026-09-06T00:00:00Z",
+    "keywords": [
+      "#글로벌기업",
+      "#증시동향",
+      "#무역경제",
+      "#비즈니스"
+    ]
   },
   {
     "id": "auto_sports_1075831895",
@@ -166,7 +184,13 @@ const READPULSE_ARTICLES = [
         "explanation": "The title directly reflects the main subject."
       }
     ],
-    "addedAt": "2026-09-06T00:00:00Z"
+    "addedAt": "2026-09-06T00:00:00Z",
+    "keywords": [
+      "#글로벌스포츠",
+      "#해외축구",
+      "#경기속보",
+      "#스포츠뉴스"
+    ]
   },
   {
     "id": "auto_culture_231935796",
@@ -208,7 +232,13 @@ const READPULSE_ARTICLES = [
         "explanation": "The title directly reflects the main subject."
       }
     ],
-    "addedAt": "2026-09-06T00:00:00Z"
+    "addedAt": "2026-09-06T00:00:00Z",
+    "keywords": [
+      "#문화예술",
+      "#글로벌트렌드",
+      "#영화음악",
+      "#컬처브리프"
+    ]
   },
   {
     "id": "speech-lincoln",
@@ -314,7 +344,13 @@ const READPULSE_ARTICLES = [
         "explanation": "A 'score' is 20 years. 4 * 20 + 7 = 87 years, referring back to 1776 from 1863."
       }
     ],
-    "wordCount": 261
+    "wordCount": 261,
+    "keywords": [
+      "#민주주의",
+      "#남북전쟁",
+      "#게티즈버그",
+      "#역사적명문"
+    ]
   },
   {
     "id": "speech-jfk",
@@ -486,7 +522,13 @@ const READPULSE_ARTICLES = [
         "explanation": "'Ask not what your country can do for you—ask what you can do for your country' is the central civic message of the address."
       }
     ],
-    "wordCount": 600
+    "wordCount": 600,
+    "keywords": [
+      "#케네디",
+      "#국가와헌신",
+      "#냉전시대",
+      "#자유와평화"
+    ]
   },
   {
     "id": "speech-fdr",
@@ -624,7 +666,13 @@ const READPULSE_ARTICLES = [
         "explanation": "Roosevelt stated that putting people to work was the administration's primary task, foreshadowing the New Deal."
       }
     ],
-    "wordCount": 556
+    "wordCount": 556,
+    "keywords": [
+      "#루스벨트",
+      "#두려움극복",
+      "#대공황",
+      "#용기와희망"
+    ]
   },
   {
     "id": "speech-obama",
@@ -772,7 +820,13 @@ const READPULSE_ARTICLES = [
         "explanation": "Obama reminded supporters: 'This victory alone is not the change we seek—it is only the chance for us to make that change.'"
       }
     ],
-    "wordCount": 594
+    "wordCount": 594,
+    "keywords": [
+      "#오바마",
+      "#변화와희망",
+      "#통합",
+      "#역사적승리"
+    ]
   },
   {
     "id": "speech-reagan",
@@ -894,7 +948,13 @@ const READPULSE_ARTICLES = [
         "explanation": "Reagan directly referenced Moscow's talk of 'a new openness and a new perestroika'."
       }
     ],
-    "wordCount": 495
+    "wordCount": 495,
+    "keywords": [
+      "#레이건",
+      "#베를린장벽",
+      "#냉전종식",
+      "#자유의승리"
+    ]
   },
   {
     "id": "speech-mlk",
@@ -1042,7 +1102,13 @@ const READPULSE_ARTICLES = [
         "explanation": "King described the Declaration of Independence and Constitution as a 'promissory note' on which America had defaulted regarding citizens of color."
       }
     ],
-    "wordCount": 588
+    "wordCount": 588,
+    "keywords": [
+      "#마틴루터킹",
+      "#인권운동",
+      "#나에게는꿈이있습니다",
+      "#평등"
+    ]
   },
   {
     "id": "speech-tr",
@@ -1156,7 +1222,12 @@ const READPULSE_ARTICLES = [
         "explanation": "Roosevelt states that if he fails, he 'at least fails while daring greatly'."
       }
     ],
-    "wordCount": 528
+    "wordCount": 528,
+    "keywords": [
+      "#역사적명연설",
+      "#감동스피치",
+      "#영어리딩"
+    ]
   },
   {
     "id": "speech-washington",
@@ -1266,7 +1337,13 @@ const READPULSE_ARTICLES = [
         "explanation": "Washington established the two-term presidential precedent by voluntarily declining reelection."
       }
     ],
-    "wordCount": 508
+    "wordCount": 508,
+    "keywords": [
+      "#조지워싱턴",
+      "#고별사",
+      "#국민통합",
+      "#건국의원칙"
+    ]
   },
   {
     "id": "tech-1",
@@ -1396,7 +1473,12 @@ const READPULSE_ARTICLES = [
         "explanation": "Developers are shifting from manual typists to strategic systems architects overseeing fleets of autonomous agents."
       }
     ],
-    "wordCount": 328
+    "wordCount": 328,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#디지털"
+    ]
   },
   {
     "id": "tech-2",
@@ -1508,7 +1590,12 @@ const READPULSE_ARTICLES = [
         "explanation": "'Harvest now, decrypt later' refers to intercepting encrypted communications today with the intent of cracking them with future quantum systems."
       }
     ],
-    "wordCount": 256
+    "wordCount": 256,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#디지털"
+    ]
   },
   {
     "id": "tech-3",
@@ -1620,7 +1707,12 @@ const READPULSE_ARTICLES = [
         "explanation": "Bidirectional charging enables autonomous electric fleets to function as distributed energy storage systems."
       }
     ],
-    "wordCount": 245
+    "wordCount": 245,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#디지털"
+    ]
   },
   {
     "id": "sci-1",
@@ -1732,7 +1824,12 @@ const READPULSE_ARTICLES = [
         "explanation": "Webb discovered unexpectedly massive and structured galaxies existing far earlier than hierarchical accretion models predicted."
       }
     ],
-    "wordCount": 310
+    "wordCount": 310,
+    "keywords": [
+      "#과학우주",
+      "#연구발견",
+      "#자연과학"
+    ]
   },
   {
     "id": "sci-2",
@@ -1844,7 +1941,12 @@ const READPULSE_ARTICLES = [
         "explanation": "Targeted lipid nanoparticles (LNPs) encapsulate molecular editors and guide them directly into organ cells via intravenous infusion."
       }
     ],
-    "wordCount": 281
+    "wordCount": 281,
+    "keywords": [
+      "#과학우주",
+      "#연구발견",
+      "#자연과학"
+    ]
   },
   {
     "id": "sci-3",
@@ -1956,7 +2058,12 @@ const READPULSE_ARTICLES = [
         "explanation": "Clipper uses mass spectrometers to sample water-ice grains ejected into space through cryovolcanic vapor plumes."
       }
     ],
-    "wordCount": 270
+    "wordCount": 270,
+    "keywords": [
+      "#과학우주",
+      "#연구발견",
+      "#자연과학"
+    ]
   },
   {
     "id": "econ-1",
@@ -2068,7 +2175,12 @@ const READPULSE_ARTICLES = [
         "explanation": "Bond markets demand higher term premiums to absorb historic levels of sovereign peacetime debt deficits."
       }
     ],
-    "wordCount": 271
+    "wordCount": 271,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ]
   },
   {
     "id": "econ-2",
@@ -2180,7 +2292,12 @@ const READPULSE_ARTICLES = [
         "explanation": "Over 80% of leading-edge foundry fabrication was concentrated in East Asia, creating acute systemic supply chain risks."
       }
     ],
-    "wordCount": 283
+    "wordCount": 283,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ]
   },
   {
     "id": "sports-1",
@@ -2292,7 +2409,12 @@ const READPULSE_ARTICLES = [
         "explanation": "Wearables track muscular and cardiac loads, alerting coaches to fatigue before soft-tissue injuries occur."
       }
     ],
-    "wordCount": 284
+    "wordCount": 284,
+    "keywords": [
+      "#스포츠소식",
+      "#경기결과",
+      "#글로벌체육"
+    ]
   },
   {
     "id": "sports-2",
@@ -2400,7 +2522,12 @@ const READPULSE_ARTICLES = [
         "explanation": "Hydrogel encapsulation allows runners to absorb and oxidize up to 100g of carbohydrates hourly, preserving critical glycogen stores."
       }
     ],
-    "wordCount": 255
+    "wordCount": 255,
+    "keywords": [
+      "#스포츠소식",
+      "#경기결과",
+      "#글로벌체육"
+    ]
   },
   {
     "id": "culture-1",
@@ -2512,7 +2639,12 @@ const READPULSE_ARTICLES = [
         "explanation": "Community creates genuine belonging and participatory engagement, transforming passive listeners into lifelong cultural advocates."
       }
     ],
-    "wordCount": 272
+    "wordCount": 272,
+    "keywords": [
+      "#문화예술",
+      "#트렌드",
+      "#글로벌컬처"
+    ]
   },
   {
     "id": "culture-2",
@@ -2624,6 +2756,533 @@ const READPULSE_ARTICLES = [
         "explanation": "Enzymatic recycling chemically breaks polymers into pristine virgin-grade monomers without downcycling."
       }
     ],
-    "wordCount": 222
+    "wordCount": 222,
+    "keywords": [
+      "#문화예술",
+      "#트렌드",
+      "#글로벌컬처"
+    ]
+  },
+  {
+    "id": "speech-jobs",
+    "title": "Steve Jobs — Stay Hungry, Stay Foolish (Stanford 2005)",
+    "subtitle": "Connecting the dots, love and loss, and the liberating clarity of mortality.",
+    "speaker": "Steve Jobs (Apple Founder)",
+    "date": "June 12, 2005",
+    "category": "speeches",
+    "level": "B2",
+    "readTime": "4 min",
+    "wordCount": 512,
+    "keywords": [
+      "#인생철학",
+      "#도전과실패",
+      "#스티브잡스",
+      "#동기부여"
+    ],
+    "paragraphs": [
+      {
+        "en": "I am honored to be with you today at your commencement from one of the finest universities in the world. I never graduated from college. Truth be told, this is the closest I've ever gotten to a college graduation. Today I want to tell you three stories from my life. That's it. No big deal. Just three stories. The first story is about connecting the dots.",
+        "ko": "세계 최고의 대학 중 한 곳에서 열리는 여러분의 졸업식에 함께하게 되어 영광입니다. 저는 대학을 졸업하지 못했습니다. 솔직히 말해서 이번이 제가 대학 졸업식에 가장 가까이 다가선 순간입니다. 오늘 저는 제 인생에서 얻은 세 가지 이야기를 들려드리고자 합니다. 대단한 것은 아닙니다. 그저 세 가지 이야기일 뿐입니다. 첫 번째 이야기는 '점들을 잇는 것'에 관한 이야기입니다.",
+        "sentences": [
+          {
+            "en": "I am honored to be with you today at your commencement from one of the finest universities in the world.",
+            "ko": "세계 최고의 대학 중 한 곳에서 열리는 여러분의 졸업식에 함께하게 되어 영광입니다."
+          },
+          {
+            "en": "I never graduated from college.",
+            "ko": "저는 대학을 졸업하지 못했습니다."
+          },
+          {
+            "en": "Truth be told, this is the closest I've ever gotten to a college graduation.",
+            "ko": "솔직히 말해서 이번이 제가 대학 졸업식에 가장 가까이 다가선 순간입니다."
+          },
+          {
+            "en": "Today I want to tell you three stories from my life.",
+            "ko": "오늘 저는 제 인생에서 얻은 세 가지 이야기를 들려드리고자 합니다."
+          },
+          {
+            "en": "That's it. No big deal. Just three stories.",
+            "ko": "대단한 것은 아닙니다. 그저 세 가지 이야기일 뿐입니다."
+          },
+          {
+            "en": "The first story is about connecting the dots.",
+            "ko": "첫 번째 이야기는 '점들을 잇는 것'에 관한 이야기입니다."
+          }
+        ]
+      },
+      {
+        "en": "You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something: your gut, destiny, life, karma, whatever. Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well-worn path, and that will make all the difference.",
+        "ko": "미래를 내다보면서 점들을 미리 연결할 수는 없습니다. 오직 과거를 뒤돌아볼 때에만 점들을 연결할 수 있을 뿐입니다. 그렇기 때문에 여러분은 그 점들이 어떻게든 미래에 이어질 것이라는 믿음을 가져야 합니다. 여러분의 직감, 운명, 인생, 업보 등 무엇이든 믿어야 합니다. 그 점들이 미래의 길 위에서 연결될 것이라는 믿음이 여러분에게 남들이 닦아놓은 익숙한 길을 벗어나 마음이 이끄는 대로 나아갈 자신감을 줄 것이며, 그것이 인생의 모든 차이를 만들어낼 것이기 때문입니다.",
+        "sentences": [
+          {
+            "en": "You can't connect the dots looking forward; you can only connect them looking backwards.",
+            "ko": "미래를 내다보면서 점들을 미리 연결할 수는 없습니다. 오직 과거를 뒤돌아볼 때에만 점들을 연결할 수 있을 뿐입니다."
+          },
+          {
+            "en": "So you have to trust that the dots will somehow connect in your future.",
+            "ko": "그렇기 때문에 여러분은 그 점들이 어떻게든 미래에 이어질 것이라는 믿음을 가져야 합니다."
+          },
+          {
+            "en": "You have to trust in something: your gut, destiny, life, karma, whatever.",
+            "ko": "여러분의 직감, 운명, 인생, 업보 등 무엇이든 믿어야 합니다."
+          },
+          {
+            "en": "Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well-worn path, and that will make all the difference.",
+            "ko": "그 점들이 미래의 길 위에서 연결될 것이라는 믿음이 여러분에게 남들이 닦아놓은 익숙한 길을 벗어나 마음이 이끄는 대로 나아갈 자신감을 줄 것이며, 그것이 인생의 모든 차이를 만들어낼 것이기 때문입니다."
+          }
+        ]
+      },
+      {
+        "en": "My second story is about love and loss. I was lucky. I found what I loved to do early in life. Woz and I started Apple in my parents' garage when I was twenty. In ten years Apple had grown from just the two of us into a two billion dollar company. And then I got fired. How can you get fired from a company you started? Well, as Apple grew we hired someone who I thought was very talented to run the company with me, and for the first year or so things went well. But then our visions began to diverge and eventually we had a falling out.",
+        "ko": "제 두 번째 이야기는 사랑과 상실에 관한 것입니다. 저는 운이 좋았습니다. 어린 나이에 진정으로 사랑하는 일을 발견했으니까요. 워즈와 저는 스무 살 때 부모님의 차고에서 애플을 시작했습니다. 10년 만에 애플은 단 두 사람에서 4,000명의 직원을 거느린 20억 달러 규모의 회사로 성장했습니다. 그리고 저는 해고당했습니다. 어떻게 자기가 세운 회사에서 해고당할 수 있을까요? 애플이 성장하면서 저는 저와 함께 회사를 경영할 뛰어난 재능을 가진 사람을 고용했고, 처음 1년 정도는 순조로웠습니다. 하지만 이후 비전이 엇갈리기 시작했고 마침내 크게 결별하게 되었습니다.",
+        "sentences": [
+          {
+            "en": "My second story is about love and loss. I was lucky.",
+            "ko": "제 두 번째 이야기는 사랑과 상실에 관한 것입니다. 저는 운이 좋았습니다."
+          },
+          {
+            "en": "I found what I loved to do early in life.",
+            "ko": "어린 나이에 진정으로 사랑하는 일을 발견했으니까요."
+          },
+          {
+            "en": "Woz and I started Apple in my parents' garage when I was twenty.",
+            "ko": "워즈와 저는 스무 살 때 부모님의 차고에서 애플을 시작했습니다."
+          },
+          {
+            "en": "In ten years Apple had grown from just the two of us into a two billion dollar company.",
+            "ko": "10년 만에 애플은 단 두 사람에서 20억 달러 규모의 회사로 성장했습니다."
+          },
+          {
+            "en": "And then I got fired. How can you get fired from a company you started?",
+            "ko": "그리고 저는 해고당했습니다. 어떻게 자기가 세운 회사에서 해고당할 수 있을까요?"
+          },
+          {
+            "en": "Well, as Apple grew we hired someone who I thought was very talented to run the company with me, and for the first year or so things went well.",
+            "ko": "애플이 성장하면서 저는 저와 함께 회사를 경영할 뛰어난 재능을 가진 사람을 고용했고, 처음 1년 정도는 순조로웠습니다."
+          },
+          {
+            "en": "But then our visions began to diverge and eventually we had a falling out.",
+            "ko": "하지만 이후 비전이 엇갈리기 시작했고 마침내 크게 결별하게 되었습니다."
+          }
+        ]
+      },
+      {
+        "en": "Getting fired from Apple was the best thing that could have ever happened to me. The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter one of the most creative periods of my life. Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma, which is living with the results of other people's thinking. Stay hungry. Stay foolish.",
+        "ko": "애플에서 해고당한 것은 제 인생에서 일어날 수 있었던 최고의 사건이었습니다. 성공이라는 무거운 짐이 모든 것에 덜 확신을 갖는 초심자의 가벼움으로 대체되었기 때문입니다. 그 덕분에 저는 제 인생에서 가장 창의적인 황금기로 진입할 수 있었습니다. 여러분의 시간은 유한합니다. 그러니 남의 삶을 사느라 시간을 낭비하지 마십시오. 타인의 생각의 결과물에 갇혀 사는 도그마(교리)의 덫에 빠지지 마십시오. 늘 갈망하십시오. 늘 우직하게 나아가십시오.",
+        "sentences": [
+          {
+            "en": "Getting fired from Apple was the best thing that could have ever happened to me.",
+            "ko": "애플에서 해고당한 것은 제 인생에서 일어날 수 있었던 최고의 사건이었습니다."
+          },
+          {
+            "en": "The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything.",
+            "ko": "성공이라는 무거운 짐이 모든 것에 덜 확신을 갖는 초심자의 가벼움으로 대체되었기 때문입니다."
+          },
+          {
+            "en": "It freed me to enter one of the most creative periods of my life.",
+            "ko": "그 덕분에 저는 제 인생에서 가장 창의적인 황금기로 진입할 수 있었습니다."
+          },
+          {
+            "en": "Your time is limited, so don't waste it living someone else's life.",
+            "ko": "여러분의 시간은 유한합니다. 그러니 남의 삶을 사느라 시간을 낭비하지 마십시오."
+          },
+          {
+            "en": "Don't be trapped by dogma, which is living with the results of other people's thinking.",
+            "ko": "타인의 생각의 결과물에 갇혀 사는 도그마(교리)의 덫에 빠지지 마십시오."
+          },
+          {
+            "en": "Stay hungry. Stay foolish.",
+            "ko": "늘 갈망하십시오. 늘 우직하게 나아가십시오."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "인생의 점들은 미래를 보며 이을 수 없으며, 오직 과거를 돌아볼 때만 연결됨을 신뢰해야 합니다.",
+      "실패와 해고는 초심자의 가벼움을 되찾아주는 최고의 창의적 전환점이 될 수 있습니다.",
+      "시간은 유한하므로 남의 기준에 갇히지 말고 자신의 심장이 이끄는 대로 갈망하며 나아가야 합니다."
+    ],
+    "quiz": [
+      {
+        "question": "What core advice did Jobs give regarding connecting the dots in life?",
+        "options": [
+          "You can only connect them looking backwards, so you must trust they will connect in the future.",
+          "You should strictly calculate and connect every dot looking forward.",
+          "Connecting dots is entirely impossible and useless."
+        ],
+        "answer": 0,
+        "explanation": "Jobs emphasized that dots only connect looking backward, requiring faith in your intuition."
+      },
+      {
+        "question": "What famous motto did Steve Jobs leave with the graduating students at the conclusion?",
+        "options": [
+          "Stay hungry. Stay foolish.",
+          "Work hard, spend freely.",
+          "Never change your path."
+        ],
+        "answer": 0,
+        "explanation": "He closed with the iconic quote from The Whole Earth Catalog: 'Stay hungry. Stay foolish.'"
+      }
+    ]
+  },
+  {
+    "id": "speech-churchill",
+    "title": "Winston Churchill — We Shall Fight on the Beaches (1940)",
+    "subtitle": "The resolute wartime rally defending freedom against totalitarian aggression.",
+    "speaker": "Winston Churchill (British Prime Minister)",
+    "date": "June 4, 1940",
+    "category": "speeches",
+    "level": "C1",
+    "readTime": "4 min",
+    "wordCount": 448,
+    "keywords": [
+      "#역사적결의",
+      "#윈스턴처칠",
+      "#자유수호",
+      "#불굴의용기"
+    ],
+    "paragraphs": [
+      {
+        "en": "We shall not flag or fail. We shall go on to the end. We shall fight in France, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our island, whatever the cost may be. We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender.",
+        "ko": "우리는 지치거나 굴복하지 않을 것입니다. 우리는 끝까지 싸워나갈 것입니다. 우리는 프랑스에서 싸울 것이며, 바다와 대양에서 싸울 것이고, 하늘에서 더욱 커지는 자신감과 강인한 힘으로 싸울 것입니다. 어떤 대가를 치르더라도 우리는 우리의 조국 섬을 지켜낼 것입니다. 우리는 해변에서 싸울 것이고, 상륙 지점에서 싸울 것이며, 들판과 거리에서 싸울 것이고, 언덕에서 싸울 것입니다. 우리는 결코 항복하지 않을 것입니다.",
+        "sentences": [
+          {
+            "en": "We shall not flag or fail. We shall go on to the end.",
+            "ko": "우리는 지치거나 굴복하지 않을 것입니다. 우리는 끝까지 싸워나갈 것입니다."
+          },
+          {
+            "en": "We shall fight in France, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our island, whatever the cost may be.",
+            "ko": "우리는 프랑스에서 싸울 것이며, 바다와 대양에서 싸울 것이고, 하늘에서 더욱 커지는 자신감과 강인한 힘으로 싸울 것이며, 어떤 대가를 치르더라도 우리의 조국 섬을 지켜낼 것입니다."
+          },
+          {
+            "en": "We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender.",
+            "ko": "우리는 해변에서 싸울 것이고, 상륙 지점에서 싸울 것이며, 들판과 거리에서 싸울 것이고, 언덕에서 싸울 것입니다. 우리는 결코 항복하지 않을 것입니다."
+          }
+        ]
+      },
+      {
+        "en": "Even if, which I do not for a moment believe, this island or a large part of it were subjugated and starving, then our Empire beyond the seas, armed and guarded by the British Fleet, would carry on the struggle, until, in God's good time, the New World, with all its power and might, steps forth to the rescue and the liberation of the old.",
+        "ko": "비록 저는 한순간도 그렇게 믿지 않지만, 만에 하나 이 섬이나 그 대부분이 정복당하고 굶주림에 처한다 하더라도, 바다 너머에 있는 우리의 대영제국은 영국 함대의 무장과 호위 아래 투쟁을 멈추지 않을 것입니다. 그리하여 마침내 하느님의 은총 속에서 신세계가 모든 힘과 위력을 다해 구원과 구세계의 해방을 위해 당당히 나설 때까지 싸울 것입니다.",
+        "sentences": [
+          {
+            "en": "Even if, which I do not for a moment believe, this island or a large part of it were subjugated and starving, then our Empire beyond the seas, armed and guarded by the British Fleet, would carry on the struggle.",
+            "ko": "비록 저는 한순간도 그렇게 믿지 않지만, 만에 하나 이 섬이나 그 대부분이 정복당하고 굶주림에 처한다 하더라도 바다 너머의 대영제국은 영국 함대의 무장과 호위 아래 투쟁을 멈추지 않을 것입니다."
+          },
+          {
+            "en": "Until, in God's good time, the New World, with all its power and might, steps forth to the rescue and the liberation of the old.",
+            "ko": "마침내 하느님의 은총 속에서 신세계가 모든 힘과 위력을 다해 구원과 구세계의 해방을 위해 당당히 나설 때까지 싸울 것입니다."
+          }
+        ]
+      },
+      {
+        "en": "Wars are not won by evacuations. But there was a victory inside this deliverance, which should be noted. It was gained by the Air Force. Many of our soldiers coming back have not seen the Air Force at work; they saw only the bombers which escaped its protective attack. They underestimate its achievements. I have myself full confidence that if all do their duty, if nothing is neglected, and if the best arrangements are made, we shall prove ourselves once again able to defend our island home.",
+        "ko": "철수 작전만으로는 전쟁에서 이길 수 없습니다. 그러나 이번 구출 작전 속에는 주목해야 할 위대한 승리가 있었습니다. 그것은 바로 공군이 쟁취한 승리였습니다. 귀환한 많은 군인들은 공군의 활약을 직접 보지 못했고 단지 공군의 방어망을 뚫고 온 폭격기만을 보았기에 공군의 업적을 과소평가하기도 합니다. 하지만 저는 모두가 자신의 의무를 다하고, 어느 하나 소홀함이 없으며, 최선의 대비를 갖춘다면, 우리가 조국 섬을 방어할 수 있음을 다시 한번 증명해 낼 것이라 굳게 확신합니다.",
+        "sentences": [
+          {
+            "en": "Wars are not won by evacuations. But there was a victory inside this deliverance, which should be noted.",
+            "ko": "철수 작전만으로는 전쟁에서 이길 수 없습니다. 그러나 이번 구출 작전 속에는 주목해야 할 위대한 승리가 있었습니다."
+          },
+          {
+            "en": "It was gained by the Air Force. Many of our soldiers coming back have not seen the Air Force at work.",
+            "ko": "그것은 바로 공군이 쟁취한 승리였습니다. 귀환한 많은 군인들은 공군의 활약을 직접 보지 못했습니다."
+          },
+          {
+            "en": "I have myself full confidence that if all do their duty, if nothing is neglected, and if the best arrangements are made, we shall prove ourselves once again able to defend our island home.",
+            "ko": "저는 모두가 자신의 의무를 다하고 최선의 대비를 갖춘다면, 우리가 조국 섬을 방어할 수 있음을 다시 한번 증명해 낼 것이라 굳게 확신합니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "절망적인 덩케르크 철수 직후 국민들의 사기를 드높인 역사상 가장 강렬한 저항 연설입니다.",
+      "'우리는 결코 항복하지 않을 것이다'라는 반복 수사법을 통해 불굴의 결의를 각인시켰습니다.",
+      "자유와 민주주의 수호를 위한 궁극적 투쟁의 가치를 천명하였습니다."
+    ],
+    "quiz": [
+      {
+        "question": "What is the climactic vow repeated across beaches, hills, and streets?",
+        "options": [
+          "We shall never surrender.",
+          "We must negotiate immediately.",
+          "We will withdraw overseas."
+        ],
+        "answer": 0,
+        "explanation": "Churchill famously concluded his list of battlegrounds with 'we shall never surrender.'"
+      }
+    ]
+  },
+  {
+    "id": "speech-malala",
+    "title": "Malala Yousafzai — The Power of Education (UN Youth Assembly 2013)",
+    "subtitle": "One child, one teacher, one book, one pen can change the world.",
+    "speaker": "Malala Yousafzai (Nobel Peace Laureate)",
+    "date": "July 12, 2013",
+    "category": "speeches",
+    "level": "B2",
+    "readTime": "4 min",
+    "wordCount": 420,
+    "keywords": [
+      "#노벨평화상",
+      "#교육권",
+      "#말랄라",
+      "#여성인권"
+    ],
+    "paragraphs": [
+      {
+        "en": "Dear brothers and sisters, do remember one thing: Malala Day is not my day. Today is the day of every woman, every boy and every girl who have raised their voice for their rights. There are hundreds of human rights activists and social workers who are not only speaking for human rights, but who are struggling to achieve their goals of education, peace and equality. Thousands of people have been killed by the terrorists and millions have been injured. I am just one of them.",
+        "ko": "친애하는 형제자매 여러분, 한 가지를 꼭 기억해 주십시오. '말랄라의 날'은 저만의 날이 아닙니다. 오늘은 자신의 권리를 위해 목소리를 높인 모든 여성과 소년, 소녀들을 위한 날입니다. 인권을 위해 목소리를 낼 뿐만 아니라 교육과 평화, 평등이라는 목표를 이루기 위해 고군분투하는 수백 명의 인권 운동가들과 사회복지사들이 있습니다. 수천 명이 테러리스트의 손에 목숨을 잃었고 수백만 명이 부상을 입었습니다. 저 역시 그들 중 한 사람일 뿐입니다.",
+        "sentences": [
+          {
+            "en": "Dear brothers and sisters, do remember one thing: Malala Day is not my day.",
+            "ko": "친애하는 형제자매 여러분, 한 가지를 꼭 기억해 주십시오. '말랄라의 날'은 저만의 날이 아닙니다."
+          },
+          {
+            "en": "Today is the day of every woman, every boy and every girl who have raised their voice for their rights.",
+            "ko": "오늘은 자신의 권리를 위해 목소리를 높인 모든 여성과 소년, 소녀들을 위한 날입니다."
+          },
+          {
+            "en": "Thousands of people have been killed by the terrorists and millions have been injured. I am just one of them.",
+            "ko": "수천 명이 테러리스트의 손에 목숨을 잃었고 수백만 명이 부상을 입었습니다. 저 역시 그들 중 한 사람일 뿐입니다."
+          }
+        ]
+      },
+      {
+        "en": "The terrorists thought that they would change our aims and stop our ambitions, but nothing changed in my life except this: weakness, fear and hopelessness died. Strength, power and courage was born. I am the same Malala. My ambitions are the same. My hopes are the same. My dreams are the same. We realize the importance of our voices only when we are silenced.",
+        "ko": "테러리스트들은 우리의 목표를 바꾸고 야망을 멈출 수 있을 것이라 생각했습니다. 하지만 제 삶에서 변한 것은 이것뿐입니다. 나약함과 두려움, 절망은 죽었습니다. 그리고 힘과 능력, 용기가 태어났습니다. 저는 변함없는 말랄라입니다. 제 꿈과 희망, 열망은 여전히 같습니다. 우리는 침묵을 강요당할 때 비로소 목소리의 소중함을 깨닫습니다.",
+        "sentences": [
+          {
+            "en": "The terrorists thought that they would change our aims and stop our ambitions, but nothing changed in my life except this: weakness, fear and hopelessness died.",
+            "ko": "테러리스트들은 우리의 목표를 바꾸고 야망을 멈출 수 있을 것이라 생각했습니다. 하지만 제 삶에서 변한 것은 이것뿐입니다. 나약함과 두려움, 절망은 죽었습니다."
+          },
+          {
+            "en": "Strength, power and courage was born. I am the same Malala.",
+            "ko": "그리고 힘과 능력, 용기가 태어났습니다. 저는 변함없는 말랄라입니다."
+          },
+          {
+            "en": "We realize the importance of our voices only when we are silenced.",
+            "ko": "우리는 침묵을 강요당할 때 비로소 목소리의 소중함을 깨닫습니다."
+          }
+        ]
+      },
+      {
+        "en": "So let us wage a global struggle against illiteracy, poverty and terrorism and let us pick up our books and our pens. They are our most powerful weapons. One child, one teacher, one book, one pen can change the world. Education is the only solution. Education first.",
+        "ko": "그러므로 우리 모두 문맹과 빈곤, 테러리즘에 맞서 전 세계적인 투쟁을 시작합시다. 책과 펜을 손에 듭시다. 그것들이야말로 우리의 가장 강력한 무기입니다. 한 명의 아이, 한 명의 교사, 한 권의 책, 하나의 펜이 세상을 바꿀 수 있습니다. 교육만이 유일한 해결책입니다. 교육이 최우선입니다.",
+        "sentences": [
+          {
+            "en": "So let us wage a global struggle against illiteracy, poverty and terrorism and let us pick up our books and our pens.",
+            "ko": "그러므로 우리 모두 문맹과 빈곤, 테러리즘에 맞서 전 세계적인 투쟁을 시작합시다. 책과 펜을 손에 듭시다."
+          },
+          {
+            "en": "They are our most powerful weapons.",
+            "ko": "그것들이야말로 우리의 가장 강력한 무기입니다."
+          },
+          {
+            "en": "One child, one teacher, one book, one pen can change the world.",
+            "ko": "한 명의 아이, 한 명의 교사, 한 권의 책, 하나의 펜이 세상을 바꿀 수 있습니다."
+          },
+          {
+            "en": "Education is the only solution. Education first.",
+            "ko": "교육만이 유일한 해결책입니다. 교육이 최우선입니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "총탄의 위협 속에서도 굴복하지 않고 피어난 불굴의 용기와 교육권을 향한 메시지입니다.",
+      "폭력에 대항하는 가장 강력한 무기는 총이 아니라 '책과 펜(교육)'임을 선언하였습니다.",
+      "한 사람 한 사람의 목소리가 모여 세상을 바꾸는 강력한 연대의 힘을 강조합니다."
+    ],
+    "quiz": [
+      {
+        "question": "What did Malala declare as our most powerful weapons?",
+        "options": [
+          "Our books and our pens",
+          "Advanced military weapons",
+          "Political treaties"
+        ],
+        "answer": 0,
+        "explanation": "Malala proclaimed: 'They are our most powerful weapons. One child, one teacher, one book, one pen can change the world.'"
+      }
+    ]
+  },
+  {
+    "id": "speech-sagan",
+    "title": "Carl Sagan — Pale Blue Dot (1994)",
+    "subtitle": "A cosmic perspective on human arrogance, humility, and our fragile oasis in space.",
+    "speaker": "Carl Sagan (Astronomer & Author)",
+    "date": "October 13, 1994",
+    "category": "speeches",
+    "level": "C1",
+    "readTime": "4 min",
+    "wordCount": 435,
+    "keywords": [
+      "#우주철학",
+      "#칼세이건",
+      "#지구환경",
+      "#창백한푸른점"
+    ],
+    "paragraphs": [
+      {
+        "en": "Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, lived there on a mote of dust suspended in a sunbeam.",
+        "ko": "저 점을 다시 보십시오. 저곳이 바로 여기입니다. 저곳이 우리의 집이자, 바로 우리입니다. 여러분이 사랑하는 모든 사람, 여러분이 알고 있는 모든 사람, 여러분이 한 번이라도 들어본 모든 사람, 지금까지 존재했던 모든 인간이 저곳에서 삶을 살았습니다. 우리의 기쁨과 고통의 총합, 수천 개의 자신만만한 종교와 이념, 경제 교리, 모든 사냥꾼과 채집가, 모든 영웅과 비겁자, 문명의 창조자와 파괴자, 모든 왕과 농부, 사랑에 빠진 모든 젊은 연인, 모든 어머니와 아버지, 희망에 찬 아이, 발명가와 탐험가가 햇빛 속에 떠 있는 먼지 티끌 위에서 살았습니다.",
+        "sentences": [
+          {
+            "en": "Look again at that dot. That's here. That's home. That's us.",
+            "ko": "저 점을 다시 보십시오. 저곳이 바로 여기입니다. 저곳이 우리의 집이자, 바로 우리입니다."
+          },
+          {
+            "en": "On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives.",
+            "ko": "여러분이 사랑하는 모든 사람, 여러분이 알고 있는 모든 사람, 지금까지 존재했던 모든 인간이 저곳에서 삶을 살았습니다."
+          },
+          {
+            "en": "Every king and peasant, every young couple in love, lived there on a mote of dust suspended in a sunbeam.",
+            "ko": "모든 왕과 농부, 사랑에 빠진 모든 연인이 햇빛 속에 떠 있는 먼지 티끌 위에서 살았습니다."
+          }
+        ]
+      },
+      {
+        "en": "The Earth is a very small stage in a vast cosmic arena. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot.",
+        "ko": "지구는 광대한 우주의 무대에서 아주 작은 무대에 불과합니다. 이 작은 픽셀의 한쪽 구석에 사는 거주자들이 거의 구별조차 되지 않는 다른 구석의 사람들에게 저지른 끝없는 잔혹 행위를 생각해 보십시오. 그들의 오해가 얼마나 잦았으며, 서로를 죽이려는 갈망이 얼마나 뜨거웠고, 증오가 얼마나 격렬했는지를 말입니다. 모든 장군들과 황제들이 흘린 피의 강을 생각해 보십시오. 겨우 점의 아주 작은 파편 위에서 영광과 승리 속에 잠시 동안의 주인이 되기 위해 흘린 그 수많은 피를 말입니다.",
+        "sentences": [
+          {
+            "en": "The Earth is a very small stage in a vast cosmic arena.",
+            "ko": "지구는 광대한 우주의 무대에서 아주 작은 무대에 불과합니다."
+          },
+          {
+            "en": "Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot.",
+            "ko": "모든 장군들과 황제들이 흘린 피의 강을 생각해 보십시오. 겨우 점의 아주 작은 파편 위에서 잠시 동안의 주인이 되기 위해 흘린 그 피를 말입니다."
+          }
+        ]
+      },
+      {
+        "en": "Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves. It underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known.",
+        "ko": "우리의 거만한 자세, 스스로 상상해 낸 자만심, 우리가 우주에서 특별한 특권을 누리는 위치에 있다는 착각은 이 희미한 빛의 한 점 앞에서 도전을 받습니다. 우리의 행성은 거대하게 감싸 안은 우주의 어둠 속에 떠 있는 외로운 티끌입니다. 이 암흑 속에서, 이 광대한 공간 속에서, 우리 자신으로부터 우리를 구원해 줄 도움이 다른 곳에서 올 것이라는 징후는 어디에도 없습니다. 이것은 우리가 서로를 더욱 친절하게 대하고, 우리가 아는 유일한 보금자리인 이 창백한 푸른 점을 보존하고 아껴야 할 엄중한 책임을 강조합니다.",
+        "sentences": [
+          {
+            "en": "Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light.",
+            "ko": "우리의 거만한 자세, 스스로 상상해 낸 자만심, 우리가 우주에서 특권을 누린다는 착각은 이 희미한 한 점 앞에서 도전을 받습니다."
+          },
+          {
+            "en": "Our planet is a lonely speck in the great enveloping cosmic dark.",
+            "ko": "우리의 행성은 거대한 우주의 어둠 속에 떠 있는 외로운 티끌입니다."
+          },
+          {
+            "en": "It underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known.",
+            "ko": "이것은 우리가 서로를 더욱 친절하게 대하고, 우리가 아는 유일한 보금자리인 이 창백한 푸른 점을 보존하고 아껴야 할 엄중한 책임을 강조합니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "우주의 광대함 속에서 지구는 햇빛 속에 떠도는 먼지 한 톨에 불과하다는 숭고한 겸양의 시각을 제시합니다.",
+      "인간의 오만과 끝없는 전쟁이 얼마나 덧없는지를 일깨우며 생명 존중의 철학을 설파합니다.",
+      "유일한 보금자리인 지구를 보존하고 인류가 서로를 친절하게 대해야 한다는 책무를 역설합니다."
+    ],
+    "quiz": [
+      {
+        "question": "What is Carl Sagan's central ethical message behind the 'Pale Blue Dot'?",
+        "options": [
+          "To deal more kindly with one another, and to preserve and cherish our only home.",
+          "To conquer neighboring galaxies with military power.",
+          "To ignore ecological issues and focus only on economic growth."
+        ],
+        "answer": 0,
+        "explanation": "Sagan emphasizes our shared duty to treat each other with kindness and cherish our fragile Earth."
+      }
+    ]
+  },
+  {
+    "id": "speech-chaplin",
+    "title": "Charlie Chaplin — The Great Dictator Final Speech (1940)",
+    "subtitle": "A passionate plea for universal brotherhood, compassion, and human liberty.",
+    "speaker": "Charlie Chaplin (Filmmaker & Humanitarian)",
+    "date": "October 15, 1940",
+    "category": "speeches",
+    "level": "B2",
+    "readTime": "4 min",
+    "wordCount": 460,
+    "keywords": [
+      "#인류애",
+      "#찰리채플린",
+      "#평화와자유",
+      "#위대한명연설"
+    ],
+    "paragraphs": [
+      {
+        "en": "I'm sorry, but I don't want to be an emperor. That's not my business. I don't want to rule or conquer anyone. I should like to help everyone if possible: Jew, Gentile, black man, white. We all want to help one another. Human beings are like that. We want to live by each other's happiness, not by each other's misery. We don't want to hate and despise one another. In this world there is room for everyone. And the good earth is rich and can provide for everyone.",
+        "ko": "미안하지만 저는 황제가 되고 싶지 않습니다. 그것은 제 일이 아닙니다. 저는 누군가를 지배하거나 정복하고 싶지 않습니다. 가능하다면 유대인이든 이방인이든, 흑인이든 백인이든 모든 사람을 돕고 싶습니다. 우리 모두는 서로 돕기를 원합니다. 인간이란 본래 그런 존재입니다. 우리는 타인의 불행이 아니라 타인의 행복 속에서 살아가고 싶어 합니다. 우리는 서로를 증오하고 경멸하기를 원치 않습니다. 이 세상에는 모든 사람을 위한 자리가 있으며, 이 풍요로운 대지는 모든 사람을 먹여 살릴 수 있습니다.",
+        "sentences": [
+          {
+            "en": "I'm sorry, but I don't want to be an emperor. That's not my business.",
+            "ko": "미안하지만 저는 황제가 되고 싶지 않습니다. 그것은 제 일이 아닙니다."
+          },
+          {
+            "en": "I don't want to rule or conquer anyone. I should like to help everyone if possible.",
+            "ko": "저는 누군가를 지배하거나 정복하고 싶지 않습니다. 가능하다면 모든 사람을 돕고 싶습니다."
+          },
+          {
+            "en": "We want to live by each other's happiness, not by each other's misery.",
+            "ko": "우리는 타인의 불행이 아니라 타인의 행복 속에서 살아가고 싶어 합니다."
+          },
+          {
+            "en": "In this world there is room for everyone. And the good earth is rich and can provide for everyone.",
+            "ko": "이 세상에는 모든 사람을 위한 자리가 있으며, 이 풍요로운 대지는 모든 사람을 먹여 살릴 수 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "The way of life can be free and beautiful, but we have lost the way. Greed has poisoned men's souls, has barricaded the world with hate, has goose-stepped us into misery and bloodshed. We have developed speed, but we have shut ourselves in. Machinery that gives abundance has left us in want. Our knowledge has made us cynical; our cleverness, hard and unkind. We think too much and feel too little. More than machinery we need humanity. More than cleverness we need kindness and gentleness.",
+        "ko": "삶의 방식은 자유롭고 아름다울 수 있지만, 우리는 그 길을 잃어버렸습니다. 탐욕이 인간의 영혼을 오염시켰고, 세상을 증오로 가로막았으며, 우리를 비참함과 유혈 사태로 몰아넣었습니다. 우리는 속도를 발전시켰지만 스스로를 그 안에 가두어버렸습니다. 풍요를 가져다주는 기계는 우리를 궁핍 속에 남겨두었습니다. 우리의 지식은 우리를 냉소적으로 만들었고, 영리함은 우리를 냉혹하고 불친절하게 만들었습니다. 우리는 너무 많이 생각하고 너무 적게 느낍니다. 우리에게 기계보다 더 필요한 것은 인간성입니다. 영리함보다 더 필요한 것은 친절과 다정함입니다.",
+        "sentences": [
+          {
+            "en": "The way of life can be free and beautiful, but we have lost the way.",
+            "ko": "삶의 방식은 자유롭고 아름다울 수 있지만, 우리는 그 길을 잃어버렸습니다."
+          },
+          {
+            "en": "Greed has poisoned men's souls, has barricaded the world with hate, has goose-stepped us into misery and bloodshed.",
+            "ko": "탐욕이 인간의 영혼을 오염시켰고, 세상을 증오로 가로막았으며, 우리를 비참함과 유혈 사태로 몰아넣었습니다."
+          },
+          {
+            "en": "We think too much and feel too little. More than machinery we need humanity. More than cleverness we need kindness and gentleness.",
+            "ko": "우리는 너무 많이 생각하고 너무 적게 느낍니다. 우리에게 기계보다 더 필요한 것은 인간성이며, 영리함보다 더 필요한 것은 친절과 다정함입니다."
+          }
+        ]
+      },
+      {
+        "en": "To those who can hear me, I say: do not despair. The misery that is now upon us is but the passing of greed, the bitterness of men who fear the way of human progress. The hate of men will pass, and dictators die, and the power they took from the people will return to the people. And so long as men die, liberty will never perish. Soldiers! Don't give yourselves to brutes, men who despise you, enslave you! Fight for liberty! Let us all unite!",
+        "ko": "제 목소리가 닿는 모든 분들께 말씀드립니다. 절망하지 마십시오. 지금 우리에게 닥친 비참함은 단지 지나가는 탐욕일 뿐이며, 인류 진보의 길을 두려워하는 자들의 쓰라림일 뿐입니다. 사람들의 증오는 지나갈 것이고 독재자들은 죽을 것이며, 그들이 민중에게서 빼앗은 권력은 다시 민중에게로 돌아갈 것입니다. 인간이 필멸하는 한, 자유는 결코 사라지지 않을 것입니다. 군인들이여! 여러분을 경멸하고 노예로 삼는 짐승 같은 자들에게 자신을 바치지 마십시오! 자유를 위해 싸우십시오! 우리 모두 하나로 뭉칩시다!",
+        "sentences": [
+          {
+            "en": "To those who can hear me, I say: do not despair.",
+            "ko": "제 목소리가 닿는 모든 분들께 말씀드립니다. 절망하지 마십시오."
+          },
+          {
+            "en": "The hate of men will pass, and dictators die, and the power they took from the people will return to the people.",
+            "ko": "사람들의 증오는 지나갈 것이고 독재자들은 죽을 것이며, 그들이 민중에게서 빼앗은 권력은 다시 민중에게로 돌아갈 것입니다."
+          },
+          {
+            "en": "And so long as men die, liberty will never perish. Soldiers! Fight for liberty! Let us all unite!",
+            "ko": "인간이 필멸하는 한, 자유는 결코 사라지지 않을 것입니다. 군인들이여! 자유를 위해 싸우십시오! 우리 모두 하나로 뭉칩시다!"
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "영화사상 가장 위대한 반전(反戰)과 인도주의의 외침이자 불멸의 명연설입니다.",
+      "기술과 기계의 발달보다 인간성과 친절함, 다정함이 인류에게 훨씬 더 소중함을 역설하였습니다.",
+      "독재와 억압은 일시적이며, 인류의 연대와 자유는 결코 죽지 않는다는 희망을 전합니다."
+    ],
+    "quiz": [
+      {
+        "question": "According to Chaplin, what do human beings need more than machinery and cleverness?",
+        "options": [
+          "Humanity, kindness, and gentleness",
+          "More industrial factories and speed",
+          "Stricter military discipline"
+        ],
+        "answer": 0,
+        "explanation": "Chaplin impassionedly proclaimed: 'More than machinery we need humanity. More than cleverness we need kindness and gentleness.'"
+      }
+    ]
   }
 ];

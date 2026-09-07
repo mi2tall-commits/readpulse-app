@@ -577,6 +577,50 @@
       pointer-events: auto;
     }
 
+    .card-keywords {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      margin-top: 0.1rem;
+      margin-bottom: 0.15rem;
+    }
+
+    .keyword-tag {
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: #38bdf8;
+      background: rgba(56, 189, 248, 0.12);
+      border: 1px solid rgba(56, 189, 248, 0.28);
+      border-radius: 9999px;
+      padding: 0.18rem 0.55rem;
+      transition: all 0.2s ease;
+      cursor: pointer;
+    }
+
+    .keyword-tag:hover {
+      background: rgba(56, 189, 248, 0.25);
+      border-color: #38bdf8;
+      transform: translateY(-1px);
+    }
+
+    .reader-keywords-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-top: 0.75rem;
+      margin-bottom: 0.25rem;
+    }
+
+    .reader-keyword-tag {
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: #38bdf8;
+      background: rgba(56, 189, 248, 0.15);
+      border: 1px solid rgba(56, 189, 248, 0.35);
+      border-radius: 9999px;
+      padding: 0.2rem 0.65rem;
+    }
+
     .card-title {
       font-size: 1.15rem;
       font-weight: 700;
@@ -1339,7 +1383,7 @@
       <div class="category-scroll" id="categoryTabs">
         <button class="filter-chip active" data-cat="all" onclick="filterCategory('all')">전체 (All)</button>
         <button class="filter-chip" data-cat="archived" onclick="filterCategory('archived')">📦 보관함 (<span id="archivedCountBadge">0</span>)</button>
-        <button class="filter-chip" data-cat="speeches" onclick="filterCategory('speeches')">🏛️ 미국 대통령 명연설</button>
+        <button class="filter-chip" data-cat="speeches" onclick="filterCategory('speeches')">🏛️ 세계 역사·명사 명연설</button>
         <button class="filter-chip" data-cat="tech" onclick="filterCategory('tech')">💻 IT / 기술</button>
         <button class="filter-chip" data-cat="science" onclick="filterCategory('science')">🔬 과학 / 우주</button>
         <button class="filter-chip" data-cat="economy" onclick="filterCategory('economy')">📈 경제 / 비즈니스</button>
@@ -1389,6 +1433,7 @@
           </button>
         </div>
         <h1 class="reader-title" id="readerTitle">Title</h1>
+        <div class="reader-keywords-row" id="readerKeywordsRow"></div>
         <p class="reader-subtitle" id="readerSubtitle">Subtitle</p>
       </div>
 
@@ -1790,15 +1835,31 @@
           catMatch = art.category === selectedCategory;
         }
         
+        const kwMatch = (art.keywords || []).some(k => 
+          k.toLowerCase().includes(query) || 
+          k.replace('#', '').toLowerCase().includes(query)
+        );
+
         const qMatch = !query || 
           art.title.toLowerCase().includes(query) ||
           (art.speaker && art.speaker.toLowerCase().includes(query)) ||
-          (art.subtitle && art.subtitle.toLowerCase().includes(query));
+          (art.subtitle && art.subtitle.toLowerCase().includes(query)) ||
+          kwMatch;
           
         return catMatch && qMatch;
       });
 
       renderArticleGrid();
+    }
+
+    function filterByKeyword(kw, event) {
+      if (event) event.stopPropagation();
+      const cleanKw = kw.replace('#', '');
+      const searchInput = document.getElementById('searchInput');
+      if (searchInput) {
+        searchInput.value = cleanKw;
+        applyFilters();
+      }
     }
 
     function renderArticleGrid() {
@@ -1826,6 +1887,10 @@
 
         const takeawaysHtml = (art.takeaways || []).slice(0, 3).map(t => `<li>${t}</li>`).join('');
 
+        const keywordsHtml = (art.keywords || []).map(k => `
+          <span class="keyword-tag" onclick="filterByKeyword('${escapeHtml(k)}', event)">${escapeHtml(k)}</span>
+        `).join('');
+
         const archiveBtnHtml = isSpeech ? '' : `
           <button class="btn-card-archive ${isArchived ? 'archived' : ''}" onclick="toggleArchiveArticle('${art.id}', event)" title="${isArchived ? '보관 해제' : '보관함에 저장'}">
             ${isArchived ? '📦 보관됨' : '📥 보관'}
@@ -1844,6 +1909,8 @@
                 ${archiveBtnHtml}
               </div>
             </div>
+
+            ${keywordsHtml ? `<div class="card-keywords">${keywordsHtml}</div>` : ''}
 
             <h3 class="card-title">${escapeHtml(art.title)}</h3>
             <p class="card-subtitle">${escapeHtml(art.subtitle || '')}</p>
@@ -1867,7 +1934,7 @@
 
     function getCategoryNameKo(cat) {
       const map = {
-        'speeches': '미국 대통령 명연설',
+        'speeches': '세계 역사·명사 명연설',
         'tech': 'IT / 기술',
         'science': '과학 / 우주',
         'economy': '경제 / 비즈니스',
@@ -1991,6 +2058,13 @@
 
       document.getElementById('readerTitle').innerText = currentArticle.title;
       document.getElementById('readerSubtitle').innerText = currentArticle.subtitle || '';
+
+      const rKeywordsEl = document.getElementById('readerKeywordsRow');
+      if (rKeywordsEl) {
+        rKeywordsEl.innerHTML = (currentArticle.keywords || []).map(k => `
+          <span class="reader-keyword-tag">${escapeHtml(k)}</span>
+        `).join('');
+      }
       
       const isLive = currentArticle.isLive;
       const isSpeech = currentArticle.category === 'speeches';

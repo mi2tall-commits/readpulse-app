@@ -1,4 +1,4 @@
-// ReadPulse AI - Comprehensive Lexical Vocabulary Dictionary
+// ReadPulse AI - Curated Pedagogical Vocabulary Dictionary
 const READPULSE_DICTIONARY = {
   "aerodynamic": {
     "ipa": "/ˌer.oʊ.daɪˈnæm.ɪk/",
@@ -435,5 +435,89 @@ const READPULSE_DICTIONARY = {
     "ko": "생체 지표, 생명체 존재 흔적",
     "cefr": "C1",
     "example": "Atmospheric methane and oxygen combinations serve as potential biosignatures."
+  },
+  "commencement": {
+    "ipa": "/kəˈmensmənt/",
+    "pos": "명사",
+    "ko": "졸업식, 시작",
+    "example": "I am honored to be with you today at your commencement."
+  },
+  "karma": {
+    "ipa": "/ˈkɑːrmə/",
+    "pos": "명사",
+    "ko": "업보, 인과응보",
+    "example": "You have to trust in something: your gut, destiny, life, karma."
+  },
+  "destiny": {
+    "ipa": "/ˈdestəni/",
+    "pos": "명사",
+    "ko": "운명",
+    "example": "Believing in your destiny will give you the confidence to follow your heart."
+  },
+  "diverge": {
+    "ipa": "/daɪˈvɜːrdʒ/",
+    "pos": "동사",
+    "ko": "갈라지다, 비전이 엇갈리다",
+    "example": "Our visions began to diverge and eventually we had a falling out."
+  },
+  "dogma": {
+    "ipa": "/ˈdɔːɡmə/",
+    "pos": "명사",
+    "ko": "도그마, 신조, 교리",
+    "example": "Don't be trapped by dogma, which is living with the results of other people's thinking."
+  },
+  "surrender": {
+    "ipa": "/səˈrendər/",
+    "pos": "동사",
+    "ko": "항복하다, 굴복하다",
+    "example": "We shall fight in the hills; we shall never surrender."
+  },
+  "deliverance": {
+    "ipa": "/dɪˈlɪvərəns/",
+    "pos": "명사",
+    "ko": "구출, 구조, 해방",
+    "example": "There was a victory inside this deliverance, which should be noted."
+  },
+  "subjugate": {
+    "ipa": "/ˈsʌbdʒəɡeɪt/",
+    "pos": "동사",
+    "ko": "정복하다, 복종시키다",
+    "example": "Even if this island were subjugated and starving, our Empire would carry on."
+  },
+  "illiteracy": {
+    "ipa": "/ɪˈlɪtərəsi/",
+    "pos": "명사",
+    "ko": "문맹",
+    "example": "Let us wage a global struggle against illiteracy, poverty and terrorism."
+  },
+  "obscurity": {
+    "ipa": "/əbˈskjʊrəti/",
+    "pos": "명사",
+    "ko": "어둠, 모호함, 무명",
+    "example": "In our obscurity, in all this vastness, there is no hint that help will come."
+  },
+  "delusion": {
+    "ipa": "/dɪˈluːʒn/",
+    "pos": "명사",
+    "ko": "착각, 망상",
+    "example": "The delusion that we have some privileged position in the Universe is challenged."
+  },
+  "barricade": {
+    "ipa": "/ˈbærɪkeɪd/",
+    "pos": "동사/명사",
+    "ko": "바리케이드를 치다, 가로막다",
+    "example": "Greed has barricaded the world with hate."
+  },
+  "cynical": {
+    "ipa": "/ˈsɪnɪkl/",
+    "pos": "형용사",
+    "ko": "냉소적인",
+    "example": "Our knowledge has made us cynical; our cleverness, hard and unkind."
+  },
+  "humanity": {
+    "ipa": "/hjuːˈmænəti/",
+    "pos": "명사",
+    "ko": "인간성, 인류애",
+    "example": "More than machinery we need humanity. More than cleverness we need kindness."
   }
 };
