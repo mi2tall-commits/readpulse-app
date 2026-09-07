@@ -1,6 +1,386 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "sports_tennis_01",
+    "title": "The New Era of Men's Tennis: Carlos Alcaraz, Jannik Sinner, and the Evolution of Modern Power Baseliners",
+    "subtitle": "How explosive court coverage, aggressive heavy topspin, and mental composure are redefining Grand Slam rivalries.",
+    "speaker": "Tennis World Magazine",
+    "date": "2026-09-06",
+    "category": "sports",
+    "sportSubcat": "tennis",
+    "sportPriority": 1,
+    "isLive": true,
+    "level": "B2",
+    "readTime": "3 min",
+    "wordCount": 312,
+    "keywords": [
+      "#테니스",
+      "#알카라스",
+      "#신너",
+      "#그랜드슬램"
+    ],
+    "addedAt": "2026-09-06T08:00:00Z",
+    "paragraphs": [
+      {
+        "en": "Men's professional tennis has officially entered an electrifying new era defined by the generational rivalry between Carlos Alcaraz and Jannik Sinner. Following two decades of historic dominance by the Big Three—Roger Federer, Rafael Nadal, and Novak Djokovic—these young champions represent a complete tactical and athletic metamorphosis of baseline tennis. Rather than waiting passively for unforced opponent errors, both players play on top of the baseline, relentlessly attacking every short ball with devastating groundstroke velocity and extraordinary rotational spin.",
+        "ko": "남자 프로 테니스는 카를로스 알카라스와 얀니크 신너 간의 세대적 라이벌 구도로 정의되는 짜릿한 새로운 시대에 공식 진입했습니다. 로저 페더러, 라파엘 나달, 노박 조코비치로 이어지는 '빅3'의 20년간의 역사적 지배 이후, 이 젊은 챔피언들은 베이스라인 테니스의 완전한 전술적·운동역학적 변모를 보여줍니다. 상대의 실책을 수동적으로 기다리기보다, 두 선수는 베이스라인에 바짝 붙어 플레이하며 폭발적인 스트로크 구속과 강력한 회전 스핀으로 모든 짧은 공을 가차 없이 공격합니다.",
+        "sentences": [
+          {
+            "en": "Men's professional tennis has officially entered an electrifying new era defined by the generational rivalry between Carlos Alcaraz and Jannik Sinner.",
+            "ko": "남자 프로 테니스는 카를로스 알카라스와 얀니크 신너 간의 세대적 라이벌 구도로 정의되는 짜릿한 새로운 시대에 공식 진입했습니다."
+          },
+          {
+            "en": "Following two decades of historic dominance by the Big Three—Roger Federer, Rafael Nadal, and Novak Djokovic—these young champions represent a complete tactical and athletic metamorphosis of baseline tennis.",
+            "ko": "빅3의 20년간의 역사적 지배 이후, 이 젊은 챔피언들은 베이스라인 테니스의 완전한 전술적·운동역학적 변모를 보여줍니다."
+          },
+          {
+            "en": "Rather than waiting passively for unforced opponent errors, both players play on top of the baseline, relentlessly attacking every short ball with devastating groundstroke velocity and extraordinary rotational spin.",
+            "ko": "상대의 실책을 기다리기보다 두 선수는 베이스라인에 붙어 폭발적인 구속과 회전 스핀으로 공격을 퍼붓습니다."
+          }
+        ]
+      },
+      {
+        "en": "What separates modern tennis superstars from earlier generations is the unprecedented fusion of raw kinetic power and multidirectional flexibility. High-speed video motion tracking reveals that Alcaraz and Sinner generate racket-head speeds exceeding eighty miles per hour on forehand groundstrokes while sliding aggressively on hard courts like clay specialists. Their open-stance kinetic chains distribute rotational torque through the core and hips, allowing them to recover court balance within tenths of a second after hitting defensive counter-punches.",
+        "ko": "현대 테니스 슈퍼스타들을 이전 세대와 구분 짓는 핵심은 압도적인 운동 에너지와 다방향 유연성의 유례없는 결합입니다. 초고속 비디오 모션 트래킹 분석에 따르면, 알카라스와 신너는 클레이 코트 전문가처럼 하드 코트에서도 거침없이 미끄러지며 시속 80마일이 넘는 포핸드 라켓 헤드 스피드를 생성합니다. 이들의 오픈 스탠스 운동 사슬은 코어와 골반을 통해 회전 토크를 분산시켜, 수비적인 카운터 스트로크를 구사한 직후 10분의 1초 만에 코트 균형을 회복할 수 있게 합니다.",
+        "sentences": [
+          {
+            "en": "What separates modern tennis superstars from earlier generations is the unprecedented fusion of raw kinetic power and multidirectional flexibility.",
+            "ko": "현대 테니스 스타들을 이전 세대와 구분 짓는 것은 압도적 파워와 다방향 유연성의 결합입니다."
+          },
+          {
+            "en": "High-speed video motion tracking reveals that Alcaraz and Sinner generate racket-head speeds exceeding eighty miles per hour on forehand groundstrokes while sliding aggressively on hard courts like clay specialists.",
+            "ko": "비디오 모션 분석에 따르면 두 선수는 하드 코트에서도 슬라이딩하며 시속 80마일 이상의 포핸드 라켓 속도를 냅니다."
+          },
+          {
+            "en": "Their open-stance kinetic chains distribute rotational torque through the core and hips, allowing them to recover court balance within tenths of a second after hitting defensive counter-punches.",
+            "ko": "오픈 스탠스 운동 사슬을 통해 회전력을 분산시켜 수비 후 찰나의 순간에 균형을 완벽히 회복합니다."
+          }
+        ]
+      },
+      {
+        "en": "Off the court, advanced data analytics and biofeedback sensors are radically transforming match preparation. Coaching teams dissect historical rally patterns, analyzing serve trajectories and return depths to construct predictive tactical plans tailored to each individual opponent. As Grand Slam tournaments demand peak physiological endurance across five gruelling sets, this blend of sports science, technological analytics, and relentless offensive ambition ensures that tennis will remain at the vanguard of modern athletic innovation.",
+        "ko": "코트 밖에서는 최첨단 데이터 분석과 바이오피드백 센서가 경기 준비 과정을 근본적으로 바꾸어 놓았습니다. 코칭 스태프는 과거 랠리 패턴을 세밀하게 분해하여 서브 궤적과 리턴 깊이를 분석하고, 상대 선수 맞춤형 예측 전술 플랜을 수립합니다. 그랜드슬램 대회가 5세트 혈투를 통해 최고의 신체적 지구력을 요구함에 따라, 이러한 스포츠 과학, 기술적 데이터 분석, 공격적인 야망의 결합은 테니스를 현대 스포츠 혁신의 최전선에 머물게 합니다.",
+        "sentences": [
+          {
+            "en": "Off the court, advanced data analytics and biofeedback sensors are radically transforming match preparation.",
+            "ko": "코트 밖에서는 최첨단 데이터 분석과 바이오피드백 센서가 경기 준비 과정을 혁신하고 있습니다."
+          },
+          {
+            "en": "Coaching teams dissect historical rally patterns, analyzing serve trajectories and return depths to construct predictive tactical plans tailored to each individual opponent.",
+            "ko": "코칭팀은 랠리 패턴, 서브 궤적, 리턴 깊이를 분석하여 상대 맞춤형 전술 계획을 세웁니다."
+          },
+          {
+            "en": "As Grand Slam tournaments demand peak physiological endurance across five gruelling sets, this blend of sports science, technological analytics, and relentless offensive ambition ensures that tennis will remain at the vanguard of modern athletic innovation.",
+            "ko": "5세트 승부를 위한 극한의 지구력과 스포츠 과학의 결합은 테니스를 현대 스포츠 혁신의 최전선에 서게 합니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "알카라스와 신너의 라이벌리는 파워 베이스라인과 적극적인 공격 테니스의 새로운 표준을 수립했습니다.",
+      "하드코트 슬라이딩과 오픈 스탠스 회전 토크를 극대화하는 바이오메카닉스 기술이 핵심입니다.",
+      "서브 궤적 및 랠리 데이터를 분석하는 스포츠 사이언스가 현대 그랜드슬램 승패를 좌우합니다."
+    ],
+    "quiz": [
+      {
+        "question": "What primary tactical shift defines the playing style of Carlos Alcaraz and Jannik Sinner?",
+        "options": [
+          "Relentlessly attacking from on top of the baseline with high racket-head velocity.",
+          "Standing far behind the baseline waiting solely for opponent unforced errors.",
+          "Relying exclusively on traditional wooden racket slice volleys."
+        ],
+        "answer": 0,
+        "explanation": "Modern champions take the ball early on top of the baseline with explosive power."
+      }
+    ]
+  },
+  {
+    "id": "sports_tennis_02",
+    "title": "Inside Grand Slam Tennis: How High-Speed Tracking and Spin Analytics Changed Return Strategies",
+    "subtitle": "High-resolution Hawk-Eye metrics and wearable biometric sensors prove that aggressive serve returning dominates modern championship play.",
+    "speaker": "Global Tennis Analytics",
+    "date": "2026-09-05",
+    "category": "sports",
+    "sportSubcat": "tennis",
+    "sportPriority": 1,
+    "isLive": true,
+    "level": "B2",
+    "readTime": "3 min",
+    "wordCount": 305,
+    "keywords": [
+      "#테니스",
+      "#윔블던",
+      "#서브리턴",
+      "#스포츠과학"
+    ],
+    "addedAt": "2026-09-05T08:00:00Z",
+    "paragraphs": [
+      {
+        "en": "In the modern Grand Slam arena, matches are no longer decided merely by who delivers the fastest first serve, but rather by who neutralizes it most effectively. High-speed optical optical tracking cameras deployed across Wimbledon, Roland Garros, and the US Open capture thousands of ball trajectories per second. Statistical analysis reveals that players who consistently return serves deep beyond the baseline stripe win break points at a significantly higher conversion rate than traditional blockers.",
+        "ko": "현대 그랜드슬램 무대에서 승부는 더 이상 누가 가장 빠른 첫 번째 서브를 넣느냐만으로 결정되지 않으며, 누가 그 서브를 가장 효과적으로 무력화하느냐에 달려 있습니다. 윔블던, 롤랑가로스, US오픈 전역에 배치된 초고속 광학 추적 카메라는 초당 수천 개의 공 궤적을 캡처합니다. 통계 분석에 따르면 베이스라인 라인 깊숙이 서브 리턴을 일관되게 보낸 선수가 전통적인 블록 리턴을 구사하는 선수보다 브레이크 포인트 성공률이 훨씬 높은 것으로 나타났습니다.",
+        "sentences": [
+          {
+            "en": "In the modern Grand Slam arena, matches are no longer decided merely by who delivers the fastest first serve, but rather by who neutralizes it most effectively.",
+            "ko": "현대 그랜드슬램 승부는 가장 빠른 서브뿐만 아니라, 그 서브를 얼마나 효과적으로 무력화하느냐에 달려 있습니다."
+          },
+          {
+            "en": "High-speed optical tracking cameras deployed across Wimbledon, Roland Garros, and the US Open capture thousands of ball trajectories per second.",
+            "ko": "윔블던, 롤랑가로스, US오픈의 초고속 광학 카메라는 초당 수천 개의 공 궤적을 실시간 캡처합니다."
+          },
+          {
+            "en": "Statistical analysis reveals that players who consistently return serves deep beyond the baseline stripe win break points at a significantly higher conversion rate than traditional blockers.",
+            "ko": "베이스라인 깊숙이 리턴을 꽂아 넣는 선수들이 전통적 수비 리턴 선수보다 높은 브레이크 성공률을 기록합니다."
+          }
+        ]
+      },
+      {
+        "en": "Biomechanics researchers have uncovered that top-tier returners utilize a synchronized split-step timed precisely to the opponent's racket impact. This micro-hop pre-loads the calf muscles and Achilles tendon with elastic strain energy, allowing the receiver to decipher ball spin and direction within one-hundredth of a second. By shortening their backswing and driving through the ball with compact forward shoulder momentum, modern champions turn an opponent's 130-mile-per-hour weapon into their own offensive strike.",
+        "ko": "생체역학 연구자들은 최정상급 리턴 플레이어들이 상대 라켓 임팩트 순간에 정확히 맞춰 동기화된 '스플릿 스텝(split-step)'을 사용한다는 사실을 밝혀냈습니다. 이 미세한 도약은 종아리 근육과 아킬레스건에 탄성 긴장 에너지를 미리 축적시켜, 리시버가 100분의 1초 만에 공의 회전과 방향을 간파할 수 있도록 돕습니다. 백스윙을 줄이고 콤팩트한 전방 어깨 모멘텀으로 공을 밀어냄으로써, 현대 챔피언들은 상대의 시속 130마일 무기를 자신만의 공격적 일격으로 탈바꿈시킵니다.",
+        "sentences": [
+          {
+            "en": "Biomechanics researchers have uncovered that top-tier returners utilize a synchronized split-step timed precisely to the opponent's racket impact.",
+            "ko": "생체역학 연구진은 정상급 리턴 선수들이 상대 임팩트 순간에 맞춘 정교한 스플릿 스텝을 구사함을 밝혔습니다."
+          },
+          {
+            "en": "This micro-hop pre-loads the calf muscles and Achilles tendon with elastic strain energy, allowing the receiver to decipher ball spin and direction within one-hundredth of a second.",
+            "ko": "이 도약은 탄성 에너지를 비축하여 리시버가 100분의 1초 만에 공의 회전과 방향을 읽어내도록 돕습니다."
+          },
+          {
+            "en": "By shortening their backswing and driving through the ball with compact forward shoulder momentum, modern champions turn an opponent's 130-mile-per-hour weapon into their own offensive strike.",
+            "ko": "짧은 백스윙과 콤팩트한 어깨 회전을 통해 시속 130마일 서브를 즉각적인 역습 공격으로 전환합니다."
+          }
+        ]
+      },
+      {
+        "en": "As artificial intelligence models begin simulating opposing server habits during pre-tournament training camps, the gap between serving and returning has narrowed dramatically. Players spend hours in virtual reality headsets studying spin rotations under simulated court conditions. This intellectual and technological arms race has elevated tennis into a rapid-fire duel of predictive reflexes, proving that mastery of the return is the ultimate prerequisite for global championship glory.",
+        "ko": "대회 전 훈련 캠프에서 인공지능 모델이 상대 서버의 습관을 시뮬레이션하기 시작하면서 서브와 리턴 사이의 격차는 극적으로 좁혀졌습니다. 선수들은 가상 현실 헤드셋을 착용하고 시뮬레이션된 코트 조건에서 회전수를 연구하는 데 수 시간을 투자합니다. 이러한 지적·기술적 군비 경쟁은 테니스를 예측 반사 신경의 초고속 결투로 끌어올렸으며, 리턴의 완벽한 숙달이 세계 챔피언십 우승의 궁극적인 필수 조건임을 증명하고 있습니다.",
+        "sentences": [
+          {
+            "en": "As artificial intelligence models begin simulating opposing server habits during pre-tournament training camps, the gap between serving and returning has narrowed dramatically.",
+            "ko": "AI가 상대 서버 습관을 시뮬레이션하면서 서브와 리턴 간의 격차가 극적으로 좁혀졌습니다."
+          },
+          {
+            "en": "Players spend hours in virtual reality headsets studying spin rotations under simulated court conditions.",
+            "ko": "선수들은 VR 헤드셋을 착용하고 코트 환경에서의 스핀 회전을 집중 연구합니다."
+          },
+          {
+            "en": "This intellectual and technological arms race has elevated tennis into a rapid-fire duel of predictive reflexes, proving that mastery of the return is the ultimate prerequisite for global championship glory.",
+            "ko": "이러한 기술 경쟁은 테니스를 고도의 반사신경 대결로 격상시켰으며, 리턴 숙달이 우승의 필수 조건임을 보여줍니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "현대 그랜드슬램에서는 서브 구속보다 리턴을 깊숙이 꽂아 넣는 능력의 중요성이 부각되고 있습니다.",
+      "상대 임팩트 순간의 스플릿 스텝과 짧은 백스윙이 시속 130마일 서브를 역습으로 바꿉니다.",
+      "VR과 AI 시뮬레이션 기반의 서버 패턴 학습이 테니스 훈련의 핵심으로 자리 잡았습니다."
+    ],
+    "quiz": [
+      {
+        "question": "What physiological movement allows elite returners to react instantaneously to high-speed serves?",
+        "options": [
+          "A precisely synchronized split-step that pre-loads elastic strain energy.",
+          "Closing their eyes to focus purely on auditory ball sounds.",
+          "Stepping completely off the court surface prior to service motion."
+        ],
+        "answer": 0,
+        "explanation": "The synchronized micro-hop split-step pre-loads elastic tendon energy for lightning-fast direction changes."
+      }
+    ]
+  },
+  {
+    "id": "sports_mlb_01",
+    "title": "Shohei Ohtani's Historic 50-50 Season: The Statistical Revolution of Modern Baseball",
+    "subtitle": "Fifty home runs and fifty stolen bases in a single campaign shatter conventional sabermetric limits.",
+    "speaker": "Major League Baseball Insights",
+    "date": "2026-09-06",
+    "category": "sports",
+    "sportSubcat": "mlb",
+    "sportPriority": 2,
+    "isLive": true,
+    "level": "B2",
+    "readTime": "3 min",
+    "wordCount": 318,
+    "keywords": [
+      "#MLB",
+      "#오타니",
+      "#50홈런50도루",
+      "#메이저리그"
+    ],
+    "addedAt": "2026-09-06T08:00:00Z",
+    "paragraphs": [
+      {
+        "en": "In the storied history of Major League Baseball spanning well over a century, no athlete had ever combined supreme power hitting and electrifying base-stealing velocity into a single fifty-fifty season—until Shohei Ohtani completely rewritten the record books. Surpassing legendary sluggers and speed demons alike, the Los Angeles Dodgers superstar achieved both fifty home runs and fifty stolen bases in a single campaign, accomplishing a milestone once considered statistically implausible in the modern analytics era.",
+        "ko": "100년이 훨씬 넘는 메이저리그 베이스볼의 유서 깊은 역사 속에서, 오타니 쇼헤이가 기록 책을 완전히 새로 쓰기 전까지는 그 어떤 선수도 압도적인 장타력과 폭발적인 도루 속도를 결합하여 단일 시즌 '50홈런-50도루'를 달성하지 못했습니다. 전설적인 거포들과 대도들을 모두 넘어선 로스앤젤레스 다저스의 슈퍼스타는 한 시즌에 50개의 홈런과 50개의 도루를 동시에 달성하며, 현대 세이버메트릭스 시대에 통계적으로 불가능하다고 여겨졌던 이정표를 세웠습니다.",
+        "sentences": [
+          {
+            "en": "In the storied history of Major League Baseball spanning well over a century, no athlete had ever combined supreme power hitting and electrifying base-stealing velocity into a single fifty-fifty season—until Shohei Ohtani completely rewritten the record books.",
+            "ko": "메이저리그 100년이 넘는 역사에서 오타니 쇼헤이가 새 기록을 세우기 전까지 단일 시즌 50-50을 달성한 선수는 전무했습니다."
+          },
+          {
+            "en": "Surpassing legendary sluggers and speed demons alike, the Los Angeles Dodgers superstar achieved both fifty home runs and fifty stolen bases in a single campaign, accomplishing a milestone once considered statistically implausible in the modern analytics era.",
+            "ko": "전설적인 슬러거와 대도들을 넘어선 다저스의 슈퍼스타는 통계적으로 불가능해 보였던 50홈런-50도루를 완성했습니다."
+          }
+        ]
+      },
+      {
+        "en": "Modern sabermetric metrics illustrate why Ohtani's accomplishment is so breathtaking. Statcast data highlights his average exit velocity exceeding ninety-five miles per hour alongside an elite sprint speed approaching twenty-eight feet per second. In baseball history, power hitters who generated 50 home runs typically sacrificed agility due to immense upper-body muscle mass, while elite base stealers lacked the bat speed necessary to consistently clear outfield walls. Ohtani's biomechanical training defies this physiological trade-off entirely.",
+        "ko": "현대 세이버메트릭스 지표는 오타니의 위업이 왜 그토록 경이로운지 잘 보여줍니다. 스탯캐스트 데이터에 따르면 그의 평균 타구 속도는 시속 95마일을 상회하며, 동시에 초당 28피트에 육박하는 최정상급 스프린트 스피드를 자랑합니다. 야구 역사상 50홈런을 치는 파워 히터들은 거대한 상체 근육량으로 인해 민첩성을 희생하는 것이 일반적이었고, 발 빠른 주자들은 펜스를 넘길 만한 배트 스피드가 부족했습니다. 오타니의 생체역학 훈련은 이러한 신체적 트레이드오프를 완전히 뒤흔들었습니다.",
+        "sentences": [
+          {
+            "en": "Modern sabermetric metrics illustrate why Ohtani's accomplishment is so breathtaking.",
+            "ko": "현대 세이버메트릭스 지표는 오타니의 기록이 왜 그토록 경이로운지를 명확히 보여줍니다."
+          },
+          {
+            "en": "Statcast data highlights his average exit velocity exceeding ninety-five miles per hour alongside an elite sprint speed approaching twenty-eight feet per second.",
+            "ko": "스탯캐스트에 따르면 그의 타구 속도는 시속 95마일을 넘고 스프린트 스피드는 초당 28피트에 달합니다."
+          },
+          {
+            "en": "In baseball history, power hitters who generated 50 home runs typically sacrificed agility due to immense upper-body muscle mass, while elite base stealers lacked the bat speed necessary to consistently clear outfield walls.",
+            "ko": "역대 거포들은 민첩성을 희생했고 대도들은 펜스를 넘길 파워가 부족했던 것이 일반적이었습니다."
+          },
+          {
+            "en": "Ohtani's biomechanical training defies this physiological trade-off entirely.",
+            "ko": "오타니의 생체역학적 트레이닝은 이러한 신체적 한계와 절충을 완전히 극복했습니다."
+          }
+        ]
+      },
+      {
+        "en": "Beyond raw numbers, Ohtani's dual dominance has revitalized baseball's global commercial reach and inspired analytical rethinking inside front offices. Major league executives are now investing heavily in specialized athletic development programs designed to cultivate multi-tool versatility rather than extreme specialization. As the Dodgers pursue postseason glory, Ohtani's unprecedented season stands as enduring testament to what is possible when generational talent meets relentless scientific preparation.",
+        "ko": "단순한 기록을 넘어, 오타니의 투타겸업 및 호타준족의 지배력은 야구의 글로벌 상업적 위상을 부흥시켰으며 메이저리그 구단 수뇌부의 데이터 분석 전략을 전면 재고하게 만들었습니다. 프런트 오피스 경영진은 이제 극단적인 분업화 대신 '다재다능한 5툴 역량'을 육성하기 위한 특화 선수 육성 프로그램에 막대한 투자를 아끼지 않고 있습니다. 다저스가 포스트시즌 영광을 향해 나아가는 가운데, 오타니의 전례 없는 시즌은 천부적 재능과 철저한 과학적 준비가 만났을 때 무엇이 가능한지를 증명하는 불멸의 증거로 남아 있습니다.",
+        "sentences": [
+          {
+            "en": "Beyond raw numbers, Ohtani's dual dominance has revitalized baseball's global commercial reach and inspired analytical rethinking inside front offices.",
+            "ko": "기록을 넘어 오타니의 활약은 야구의 글로벌 인기를 부흥시키고 구단 수뇌부의 전략을 혁신했습니다."
+          },
+          {
+            "en": "Major league executives are now investing heavily in specialized athletic development programs designed to cultivate multi-tool versatility rather than extreme specialization.",
+            "ko": "MLB 구단들은 극단적 분업화 대신 다양한 툴을 지닌 만능 선수를 육성하는 데 적극 투자하고 있습니다."
+          },
+          {
+            "en": "As the Dodgers pursue postseason glory, Ohtani's unprecedented season stands as enduring testament to what is possible when generational talent meets relentless scientific preparation.",
+            "ko": "오타니의 시즌은 천부적 재능과 철저한 과학적 준비가 만났을 때 펼쳐지는 기적을 증명합니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "오타니 쇼헤이는 메이저리그 역사상 최초로 단일 시즌 50홈런-50도루 클럽을 개설했습니다.",
+      "시속 95마일 이상의 타구 속도와 초당 28피트의 주력을 동시에 보유하여 신체적 트레이드오프를 극복했습니다.",
+      "현대 야구 구단 전략을 '단일 스킬 분업화'에서 '만능 툴 육성'으로 전환시키는 계기가 되었습니다."
+    ],
+    "quiz": [
+      {
+        "question": "What unprecedented milestone did Shohei Ohtani achieve in his historic MLB campaign?",
+        "options": [
+          "50 home runs and 50 stolen bases in a single season.",
+          "Playing without ever swinging at a pitched baseball.",
+          "Pitching 300 complete games in a row without giving up a hit."
+        ],
+        "answer": 0,
+        "explanation": "Ohtani established the first 50-50 club in Major League Baseball history."
+      }
+    ]
+  },
+  {
+    "id": "sports_mlb_02",
+    "title": "The Physics of the Sweeper: How High-Speed Cameras and Sabermetrics Reshaped MLB Pitching",
+    "subtitle": "Horizontal slider movement, seam-shifted wake aerodynamics, and pitch design laboratories dominate baseball.",
+    "speaker": "Baseball Prospectus Lab",
+    "date": "2026-09-05",
+    "category": "sports",
+    "sportSubcat": "mlb",
+    "sportPriority": 2,
+    "isLive": true,
+    "level": "B2",
+    "readTime": "3 min",
+    "wordCount": 304,
+    "keywords": [
+      "#MLB",
+      "#세이버메트릭스",
+      "#스위퍼",
+      "#야구데이터"
+    ],
+    "addedAt": "2026-09-05T08:00:00Z",
+    "paragraphs": [
+      {
+        "en": "Over the past three seasons, a single pitch variety known as the 'sweeper' has fundamentally upended the strategic battle between Major League Baseball pitchers and batters. Unlike traditional sliders that feature tight, downward vertical drop, the sweeper generates unprecedented lateral horizontal deviation across the strike zone. Equipped with high-speed Edgertronic optical cameras capturing thousands of frames per second, modern pitching laboratories have turned pitch design into a precise aerodynamic discipline.",
+        "ko": "지난 세 시즌 동안 '스위퍼(Sweeper)'로 알려진 단 하나의 구종이 메이저리그 투수와 타자 간의 전략적 대결 구도를 근본적으로 뒤흔들어 놓았습니다. 가파른 수직 하강 궤적을 그리는 전통적인 슬라이더와 달리, 스위퍼는 스트라이크 존을 가로지르는 유례없는 수평 횡방향 변화를 만들어냅니다. 초당 수천 프레임을 포착하는 고속 엣저트로닉 광학 카메라를 장착한 현대 피칭 연구소들은 투구 디자인을 정밀한 공기역학적 과학으로 탈바꿈시켰습니다.",
+        "sentences": [
+          {
+            "en": "Over the past three seasons, a single pitch variety known as the 'sweeper' has fundamentally upended the strategic battle between Major League Baseball pitchers and batters.",
+            "ko": "지난 3년간 '스위퍼'라는 구종이 메이저리그 투타 대결 구도를 완전히 뒤흔들었습니다."
+          },
+          {
+            "en": "Unlike traditional sliders that feature tight, downward vertical drop, the sweeper generates unprecedented lateral horizontal deviation across the strike zone.",
+            "ko": "수직 낙하하는 일반 슬라이더와 달리 스위퍼는 스트라이크 존을 가로지르는 극적인 횡적 변화를 형성합니다."
+          },
+          {
+            "en": "Equipped with high-speed Edgertronic optical cameras capturing thousands of frames per second, modern pitching laboratories have turned pitch design into a precise aerodynamic discipline.",
+            "ko": "초고속 카메라를 갖춘 현대 피칭 랩은 구종 디자인을 정밀 공기역학의 영역으로 발전시켰습니다."
+          }
+        ]
+      },
+      {
+        "en": "The aerodynamic secret behind the sweeper lies in a physical phenomenon known as 'seam-shifted wake.' By orienting the baseball's raised cotton seams at an angle relative to the airflow during release, pitchers induce an asymmetrical boundary layer separation. This generates side forces that push the ball horizontally without requiring pure gyro-spin. Batters accustomed to classic break patterns find their swing planes completely disrupted, resulting in astronomical whiff rates on pitches that seem to float off the plate.",
+        "ko": "스위퍼의 공기역학적 비밀은 '솔기 변위 후류(Seam-Shifted Wake)'로 알려진 물리적 현상에 있습니다. 투구 시 릴리스 단계에서 솟아오른 야구공의 면 솔기를 공기 흐름에 비스듬히 배치함으로써, 투수는 비대칭적 경계층 분리를 유도합니다. 이는 순수한 자이로 스핀 없이도 공을 수평 방향으로 밀어내는 측면 힘을 발생시킵니다. 고전적인 브레이킹 볼 궤적에 익숙한 타자들은 스윙 플레인이 완전히 붕괴되어, 플레이트 밖으로 유유히 빠져나가는 공에 허공을 가르는 헛스윙을 연발하게 됩니다.",
+        "sentences": [
+          {
+            "en": "The aerodynamic secret behind the sweeper lies in a physical phenomenon known as 'seam-shifted wake.'",
+            "ko": "스위퍼의 공기역학적 비밀은 '솔기 변위 후류(Seam-Shifted Wake)'라는 물리 현상에 있습니다."
+          },
+          {
+            "en": "By orienting the baseball's raised cotton seams at an angle relative to the airflow during release, pitchers induce an asymmetrical boundary layer separation.",
+            "ko": "솔기를 공기 흐름에 비스듬히 릴리스하여 비대칭적인 기류 분리를 유도합니다."
+          },
+          {
+            "en": "This generates side forces that push the ball horizontally without requiring pure gyro-spin.",
+            "ko": "이는 순수한 스핀 외에도 공을 좌우로 밀어내는 강력한 측면 횡력을 만듭니다."
+          },
+          {
+            "en": "Batters accustomed to classic break patterns find their swing planes completely disrupted, resulting in astronomical whiff rates on pitches that seem to float off the plate.",
+            "ko": "전통적 궤적에 익숙한 타자들의 스윙 궤도가 무너지며 압도적인 헛스윙 비율을 기록하고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "As front offices analyze trackman spin efficiency metrics, pitchers who previously struggled with modest fastball velocity have reinvented themselves into high-leverage bullpen aces simply by adopting the sweeper grip. However, hitting coaches are now countering with shortened bat paths and adjusted plate positioning designed to attack the pitch before its horizontal break fully manifests. This dynamic technological chess match ensures that baseball remains a battleground of applied mathematics and physical mastery.",
+        "ko": "구단 수뇌부가 트랙맨의 회전 효율 지표를 정밀 분석함에 따라, 과거 평범한 패스트볼 구속으로 고전하던 투수들이 단순히 스위퍼 그립을 도입하는 것만으로 필승조 불펜 에이스로 탈바꿈하고 있습니다. 그러나 이에 맞서 타격 코치들 역시 스위퍼의 횡적 꺾임이 완전히 발현되기 전에 공을 타격할 수 있도록 타석 위치를 조정하고 배트 궤도를 단축시키는 대응책을 내놓고 있습니다. 이러한 역동적인 기술적 두뇌 싸움은 야구가 응용 수학과 신체적 숙련도의 최첨단 격전지임을 증명합니다.",
+        "sentences": [
+          {
+            "en": "As front offices analyze trackman spin efficiency metrics, pitchers who previously struggled with modest fastball velocity have reinvented themselves into high-leverage bullpen aces simply by adopting the sweeper grip.",
+            "ko": "회전 효율 분석을 통해 평범한 구속의 투수들이 스위퍼 그립을 장착하여 특급 불펜으로 거듭나고 있습니다."
+          },
+          {
+            "en": "However, hitting coaches are now countering with shortened bat paths and adjusted plate positioning designed to attack the pitch before its horizontal break fully manifests.",
+            "ko": "타격 코치들 역시 공이 꺾이기 전에 공략할 수 있도록 배트 궤적을 단축하는 대응책을 개발하고 있습니다."
+          },
+          {
+            "en": "This dynamic technological chess match ensures that baseball remains a battleground of applied mathematics and physical mastery.",
+            "ko": "이러한 기술적 수싸움은 야구가 응용 수학과 피지컬 마스터리의 격전지임을 입증합니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "스위퍼는 강력한 수평 횡방향 움직임으로 메이저리그 투타 판도를 바꾼 신종 슬라이더입니다.",
+      "공기 흐름과 솔기 마찰을 이용하는 '솔기 변위 후류(SSW)' 공기역학 원리가 핵심입니다.",
+      "초고속 카메라와 트랙맨 회전 효율 분석으로 인해 투수들의 구종 설계가 과학화되었습니다."
+    ],
+    "quiz": [
+      {
+        "question": "What aerodynamic phenomenon allows the sweeper to generate dramatic horizontal movement?",
+        "options": [
+          "Seam-shifted wake caused by asymmetrical airflow over baseball seams.",
+          "Using helium gas injected directly inside the baseball bladder.",
+          "Throwing the ball with zero rotation in the style of a traditional knuckleball."
+        ],
+        "answer": 0,
+        "explanation": "Seam-shifted wake (SSW) creates an asymmetrical pressure differential that pushes the pitch sideways."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_560145342",
     "title": "Autonomous AI Agents Exploit Web Vulnerabilities in Rapid Cyber Escalation",
     "subtitle": "Security researchers demonstrate automated multi-step cyber intrusions bypassing traditional firewalls.",
@@ -276,8 +656,8 @@ const READPULSE_ARTICLES = [
     "keywords": [
       "#프리미어리그",
       "#아스널",
-      "#전술분석",
-      "#사카외데고르"
+      "#첼시",
+      "#런던더비"
     ],
     "addedAt": "2026-09-06T00:00:00Z",
     "paragraphs": [
@@ -340,7 +720,9 @@ const READPULSE_ARTICLES = [
         "answer": 0,
         "explanation": "Arsenal's aggressive high pressing and compact defensive positioning completely suppressed Chelsea's counterattacks."
       }
-    ]
+    ],
+    "sportSubcat": "premier_league",
+    "sportPriority": 3
   },
   {
     "id": "auto_culture_231935796",
@@ -2593,10 +2975,13 @@ const READPULSE_ARTICLES = [
     ],
     "wordCount": 284,
     "keywords": [
-      "#스포츠소식",
-      "#경기결과",
-      "#글로벌체육"
-    ]
+      "#프리미어리그",
+      "#축구전술",
+      "#AI데이터",
+      "#공간분석"
+    ],
+    "sportSubcat": "premier_league",
+    "sportPriority": 3
   },
   {
     "id": "sports-2",
@@ -2706,10 +3091,13 @@ const READPULSE_ARTICLES = [
     ],
     "wordCount": 255,
     "keywords": [
-      "#스포츠소식",
-      "#경기결과",
-      "#글로벌체육"
-    ]
+      "#마라톤",
+      "#스포츠생리학",
+      "#러닝과학",
+      "#기타스포츠"
+    ],
+    "sportSubcat": "other",
+    "sportPriority": 4
   },
   {
     "id": "culture-1",

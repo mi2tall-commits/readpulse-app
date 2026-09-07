@@ -519,5 +519,47 @@ const READPULSE_DICTIONARY = {
     "pos": "명사",
     "ko": "인간성, 인류애",
     "example": "More than machinery we need humanity. More than cleverness we need kindness."
+  },
+  "baseline": {
+    "ipa": "/ˈbeɪs.laɪn/",
+    "meaning": "베이스라인, 코트의 엔드라인, 기준선",
+    "cefr": "B1",
+    "ko": "베이스라인, 코트의 엔드라인, 기준선"
+  },
+  "sweeper": {
+    "ipa": "/ˈswiː.pɚ/",
+    "meaning": "스위퍼 (횡방향으로 크게 꺾이는 변종 슬라이더)",
+    "cefr": "B2",
+    "ko": "스위퍼 (횡방향으로 크게 꺾이는 변종 슬라이더)"
+  },
+  "sabermetric": {
+    "ipa": "/ˌseɪ.bɚˈmet.rɪk/",
+    "meaning": "세이버메트릭스의, 야구 통계학의",
+    "cefr": "B2",
+    "ko": "세이버메트릭스의, 야구 통계학의"
+  },
+  "kinetic": {
+    "ipa": "/kɪˈnet̬.ɪk/",
+    "meaning": "운동의, 운동 에너지의",
+    "cefr": "B2",
+    "ko": "운동의, 운동 에너지의"
+  },
+  "endurance": {
+    "ipa": "/ɪnˈdʊr.əns/",
+    "meaning": "지구력, 인내력",
+    "cefr": "B1",
+    "ko": "지구력, 인내력"
+  },
+  "metamorphosis": {
+    "ipa": "/ˌmet̬.əˈmɔːr.fə.sɪs/",
+    "meaning": "변모, 탈바꿈, 완전한 변신",
+    "cefr": "C1",
+    "ko": "변모, 탈바꿈, 완전한 변신"
+  },
+  "implausible": {
+    "ipa": "/ɪmˈplɑː.zə.bəl/",
+    "meaning": "믿기 어려운, 타당해 보이지 않는",
+    "cefr": "B2",
+    "ko": "믿기 어려운, 타당해 보이지 않는"
   }
 };

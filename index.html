@@ -621,6 +621,99 @@
       padding: 0.2rem 0.65rem;
     }
 
+    /* Sports Sub-Category Prioritized Filter & Badges */
+    .sports-subfilter-bar {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      padding: 0.55rem 0.85rem;
+      border-radius: var(--radius-md);
+      margin-top: -0.25rem;
+      overflow-x: auto;
+      scrollbar-width: thin;
+      animation: fadeIn 0.2s ease-in-out;
+    }
+
+    .sports-subfilter-label {
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--text-dim);
+      white-space: nowrap;
+    }
+
+    .sports-subchips-wrap {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      overflow-x: auto;
+    }
+
+    .sub-chip {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      padding: 0.32rem 0.7rem;
+      border-radius: 9999px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      white-space: nowrap;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      transition: all 0.2s ease;
+    }
+
+    .sub-chip:hover {
+      border-color: var(--border-strong);
+      color: var(--text-main);
+    }
+
+    .sub-chip.active {
+      background: var(--primary);
+      color: #fff;
+      border-color: var(--primary);
+      box-shadow: 0 2px 6px rgba(99, 102, 241, 0.3);
+      font-weight: 700;
+    }
+
+    .badge-sport-sub {
+      font-size: 0.68rem;
+      font-weight: 700;
+      padding: 0.18rem 0.5rem;
+      border-radius: 4px;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.2rem;
+      white-space: nowrap;
+    }
+
+    .badge-sport-tennis {
+      background: rgba(16, 185, 129, 0.15);
+      color: #10b981;
+      border: 1px solid rgba(16, 185, 129, 0.4);
+    }
+
+    .badge-sport-mlb {
+      background: rgba(59, 130, 246, 0.15);
+      color: #3b82f6;
+      border: 1px solid rgba(59, 130, 246, 0.4);
+    }
+
+    .badge-sport-premier_league {
+      background: rgba(168, 85, 247, 0.15);
+      color: #a855f7;
+      border: 1px solid rgba(168, 85, 247, 0.4);
+    }
+
+    .badge-sport-other {
+      background: rgba(245, 158, 11, 0.15);
+      color: #f59e0b;
+      border: 1px solid rgba(245, 158, 11, 0.4);
+    }
+
     .card-title {
       font-size: 1.15rem;
       font-weight: 700;
@@ -1391,6 +1484,18 @@
         <button class="filter-chip" data-cat="culture" onclick="filterCategory('culture')">🎨 문화 / 예술</button>
         <button class="filter-chip" data-cat="live" onclick="filterCategory('live')">🔴 실시간 속보</button>
       </div>
+
+      <!-- Sports Sub-Category Prioritized Filter (Shown when Sports category is selected) -->
+      <div class="sports-subfilter-bar" id="sportsSubFilter" style="display: none;">
+        <span class="sports-subfilter-label">종목 우선순위:</span>
+        <div class="sports-subchips-wrap">
+          <button class="sub-chip active" data-sub="all" onclick="filterSportsSub('all')">전체 스포츠</button>
+          <button class="sub-chip" data-sub="tennis" onclick="filterSportsSub('tennis')">🎾 1. 테니스</button>
+          <button class="sub-chip" data-sub="mlb" onclick="filterSportsSub('mlb')">⚾ 2. MLB</button>
+          <button class="sub-chip" data-sub="premier_league" onclick="filterSportsSub('premier_league')">⚽ 3. 프리미어리그</button>
+          <button class="sub-chip" data-sub="other" onclick="filterSportsSub('other')">🏃 4. 기타</button>
+        </div>
+      </div>
     </div>
 
     <!-- Article Cards Grid -->
@@ -1740,12 +1845,23 @@
         const archived = catArticles.filter(a => isArticleArchived(a.id));
         const unarchived = catArticles.filter(a => !isArticleArchived(a.id));
 
-        // Sort unarchived descending by addedAt / date (newest first)
-        unarchived.sort((a, b) => {
-          const dateA = new Date(a.addedAt || a.date || 0).getTime();
-          const dateB = new Date(b.addedAt || b.date || 0).getTime();
-          return dateB - dateA;
-        });
+        // Sort unarchived: for sports, sort by sportPriority first (1. Tennis -> 2. MLB -> 3. Premier League -> 4. Other)
+        if (cat === 'sports') {
+          unarchived.sort((a, b) => {
+            const pA = a.sportPriority || 99;
+            const pB = b.sportPriority || 99;
+            if (pA !== pB) return pA - pB;
+            const dateA = new Date(a.addedAt || a.date || 0).getTime();
+            const dateB = new Date(b.addedAt || b.date || 0).getTime();
+            return dateB - dateA;
+          });
+        } else {
+          unarchived.sort((a, b) => {
+            const dateA = new Date(a.addedAt || a.date || 0).getTime();
+            const dateB = new Date(b.addedAt || b.date || 0).getTime();
+            return dateB - dateA;
+          });
+        }
 
         // 3. Allocate remaining slots for unarchived news (Max 10 per category)
         const remainingSlots = Math.max(0, 10 - archived.length);
@@ -1807,8 +1923,33 @@
       applyTheme(next);
     }
 
+    let currentSportsSub = 'all';
+
+    function filterSportsSub(sub) {
+      currentSportsSub = sub;
+      document.querySelectorAll('#sportsSubFilter .sub-chip').forEach(chip => {
+        if (chip.getAttribute('data-sub') === sub) chip.classList.add('active');
+        else chip.classList.remove('active');
+      });
+      applyFilters();
+    }
+
     function filterCategory(cat) {
       selectedCategory = cat;
+      const sportsBar = document.getElementById('sportsSubFilter');
+      if (sportsBar) {
+        if (cat === 'sports') {
+          sportsBar.style.display = 'flex';
+        } else {
+          sportsBar.style.display = 'none';
+          currentSportsSub = 'all';
+          document.querySelectorAll('#sportsSubFilter .sub-chip').forEach(chip => {
+            if (chip.getAttribute('data-sub') === 'all') chip.classList.add('active');
+            else chip.classList.remove('active');
+          });
+        }
+      }
+
       document.querySelectorAll('#categoryTabs .filter-chip').forEach(chip => {
         if (chip.getAttribute('data-cat') === cat) chip.classList.add('active');
         else chip.classList.remove('active');
@@ -1831,6 +1972,12 @@
           catMatch = isArticleArchived(art.id);
         } else if (selectedCategory === 'live') {
           catMatch = art.isLive || (art.id && (art.id.startsWith('auto_') || art.id.startsWith('live_')));
+        } else if (selectedCategory === 'sports') {
+          if (currentSportsSub === 'all') {
+            catMatch = art.category === 'sports';
+          } else {
+            catMatch = art.category === 'sports' && (art.sportSubcat === currentSportsSub);
+          }
         } else {
           catMatch = art.category === selectedCategory;
         }
@@ -1848,6 +1995,18 @@
           
         return catMatch && qMatch;
       });
+
+      // Priority sort for Sports category: 1. Tennis -> 2. MLB -> 3. Premier League -> 4. Other
+      if (selectedCategory === 'sports') {
+        currentFilteredArticles.sort((a, b) => {
+          const pA = a.sportPriority || 99;
+          const pB = b.sportPriority || 99;
+          if (pA !== pB) return pA - pB;
+          const dateA = new Date(a.addedAt || a.date || 0).getTime();
+          const dateB = new Date(b.addedAt || b.date || 0).getTime();
+          return dateB - dateA;
+        });
+      }
 
       renderArticleGrid();
     }
@@ -1891,6 +2050,18 @@
           <span class="keyword-tag" onclick="filterByKeyword('${escapeHtml(k)}', event)">${escapeHtml(k)}</span>
         `).join('');
 
+        let sportBadgeHtml = '';
+        if (art.category === 'sports' && art.sportSubcat) {
+          const sportLabels = {
+            'tennis': '🎾 1. 테니스',
+            'mlb': '⚾ 2. MLB',
+            'premier_league': '⚽ 3. 프리미어리그',
+            'other': '🏃 4. 기타'
+          };
+          const label = sportLabels[art.sportSubcat] || '스포츠';
+          sportBadgeHtml = `<span class="badge-sport-sub badge-sport-${art.sportSubcat}">${label}</span>`;
+        }
+
         const archiveBtnHtml = isSpeech ? '' : `
           <button class="btn-card-archive ${isArchived ? 'archived' : ''}" onclick="toggleArchiveArticle('${art.id}', event)" title="${isArchived ? '보관 해제' : '보관함에 저장'}">
             ${isArchived ? '📦 보관됨' : '📥 보관'}
@@ -1902,6 +2073,7 @@
             <div class="card-meta-row">
               <div style="display:flex; align-items:center; gap:0.4rem; flex-wrap:wrap;">
                 <span class="badge-cat ${catClass}">${catLabel}</span>
+                ${sportBadgeHtml}
                 <span class="${retention.cssClass}">${retention.label}</span>
               </div>
               <div style="display:flex; align-items:center; gap:0.4rem;">
@@ -2069,7 +2241,17 @@
       const isLive = currentArticle.isLive;
       const isSpeech = currentArticle.category === 'speeches';
       const catBadge = document.getElementById('readerCatBadge');
-      catBadge.innerText = isLive ? '실시간 속보' : getCategoryNameKo(currentArticle.category);
+      let catText = isLive ? '실시간 속보' : getCategoryNameKo(currentArticle.category);
+      if (currentArticle.category === 'sports' && currentArticle.sportSubcat) {
+        const sportLabels = {
+          'tennis': '🎾 1. 테니스',
+          'mlb': '⚾ 2. MLB',
+          'premier_league': '⚽ 3. 프리미어리그',
+          'other': '🏃 4. 기타'
+        };
+        catText += ` • ${sportLabels[currentArticle.sportSubcat] || '스포츠'}`;
+      }
+      catBadge.innerText = catText;
       catBadge.className = 'badge-cat ' + (isLive ? 'live' : (isSpeech ? 'speeches' : ''));
 
       document.getElementById('readerLevelBadge').innerText = currentArticle.level || 'B2';

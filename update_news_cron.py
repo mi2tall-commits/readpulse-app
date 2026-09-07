@@ -15,7 +15,11 @@ FEEDS = [
     {"cat": "tech", "name": "BBC Technology", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"},
     {"cat": "science", "name": "BBC Science", "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"},
     {"cat": "economy", "name": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
-    {"cat": "sports", "name": "BBC Sports", "url": "https://feeds.bbci.co.uk/sport/rss.xml"},
+    # Prioritized Sports Feeds: 1. Tennis -> 2. MLB -> 3. Premier League -> 4. Other
+    {"cat": "sports", "subcat": "tennis", "priority": 1, "name": "BBC Tennis", "url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"},
+    {"cat": "sports", "subcat": "mlb", "priority": 2, "name": "ESPN MLB", "url": "https://www.espn.com/espn/rss/mlb/news"},
+    {"cat": "sports", "subcat": "premier_league", "priority": 3, "name": "BBC Premier League", "url": "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml"},
+    {"cat": "sports", "subcat": "other", "priority": 4, "name": "BBC Sports", "url": "https://feeds.bbci.co.uk/sport/rss.xml"},
     {"cat": "culture", "name": "BBC Arts", "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"}
 ]
 
@@ -106,10 +110,14 @@ def main():
                         "science": ["#최신과학", "#우주환경", "#과학뉴스"],
                         "economy": ["#세계경제", "#금융시장", "#비즈니스"],
                         "sports": ["#스포츠소식", "#경기결과", "#글로벌스포츠"],
+                        "tennis": ["#테니스", "#그랜드슬램", "#스포츠속보"],
+                        "mlb": ["#MLB", "#메이저리그", "#야구소식"],
+                        "premier_league": ["#프리미어리그", "#해외축구", "#EPL속보"],
+                        "other": ["#글로벌스포츠", "#스포츠소식"],
                         "culture": ["#문화예술", "#글로벌트렌드", "#엔터테인먼트"]
                     }
 
-                    new_articles.append({
+                    art_data = {
                         "id": art_id,
                         "title": top_item.get("title", "Breaking News"),
                         "subtitle": desc[:130] + "...",
@@ -121,7 +129,7 @@ def main():
                         "level": "B2",
                         "readTime": f"{max(2, total_words // 100)} min",
                         "wordCount": total_words,
-                        "keywords": cat_kw_map.get(f_info["cat"], ["#글로벌뉴스", "#최신속보"]),
+                        "keywords": cat_kw_map.get(f_info.get("subcat") or f_info["cat"], ["#글로벌뉴스", "#최신속보"]),
                         "paragraphs": paras_data,
                         "takeaways": [
                             f"글로벌 최신 소식: {top_item.get('title')}",
@@ -134,7 +142,12 @@ def main():
                             "answer": 0,
                             "explanation": "The title directly reflects the main subject."
                         }]
-                    })
+                    }
+                    if f_info.get("subcat"):
+                        art_data["sportSubcat"] = f_info["subcat"]
+                        art_data["sportPriority"] = f_info.get("priority", 4)
+
+                    new_articles.append(art_data)
         except Exception as e:
             print(f"Error fetching {f_info['name']}: {e}")
 
@@ -147,8 +160,16 @@ def main():
         capped_news = []
         for cat in ["tech", "science", "economy", "sports", "culture"]:
             cat_items = [a for a in updated_list if a.get("category") == cat]
-            # Sort descending by addedAt or date to retain newest
-            cat_items.sort(key=lambda x: str(x.get("addedAt") or x.get("date")), reverse=True)
+            if cat == "sports":
+                # Sort: 1. Tennis -> 2. MLB -> 3. Premier League -> 4. Other, then newest
+                cat_items.sort(key=lambda x: (
+                    x.get("sportPriority", 99),
+                    -datetime.fromisoformat(x.get("addedAt", "2000-01-01T00:00:00Z").replace("Z", "+00:00")).timestamp()
+                    if "T" in str(x.get("addedAt", "")) else 0
+                ))
+            else:
+                # Sort descending by addedAt or date to retain newest
+                cat_items.sort(key=lambda x: str(x.get("addedAt") or x.get("date")), reverse=True)
             capped_news.extend(cat_items[:10])
 
         final_list = capped_news + speeches
