@@ -3059,5 +3059,35 @@ const READPULSE_DICTIONARY = {
     "meaning": "지배하는, 압도적인",
     "cefr": "B2",
     "ko": "지배적인, 압도적인"
+  },
+  "bullpen": {
+    "ipa": "/ˈbʊl.pen/",
+    "meaning": "불펜 (구원 투수들이 몸을 푸는 곳 및 구원 투수진)",
+    "cefr": "B2",
+    "ko": "구원 투수진, 불펜"
+  },
+  "merseyside": {
+    "ipa": "/ˈmɝː.ziˌsaɪd/",
+    "meaning": "머지사이드 (리버풀을 포함한 잉글랜드 서북부 지역)",
+    "cefr": "B2",
+    "ko": "머지사이드 (리버풀 연고지)"
+  },
+  "rookie": {
+    "ipa": "/ˈrʊk.i/",
+    "meaning": "루키, 신인 선수",
+    "cefr": "B1",
+    "ko": "신인 선수, 루키"
+  },
+  "summit": {
+    "ipa": "/ˈsʌm.ɪt/",
+    "meaning": "정상, 최고봉, 정상회담",
+    "cefr": "B2",
+    "ko": "정상, 최고봉"
+  },
+  "silverware": {
+    "ipa": "/ˈsɪl.vɚ.wer/",
+    "meaning": "우승 트로피(은제 트로피), 은식기",
+    "cefr": "B2",
+    "ko": "우승 트로피"
   }
 };

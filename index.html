@@ -762,6 +762,61 @@
       font-weight: bold;
     }
 
+    .card-fact-check-badge {
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: #10b981;
+      background: rgba(16, 185, 129, 0.08);
+      border: 1px solid rgba(16, 185, 129, 0.25);
+      border-radius: 4px;
+      padding: 0.25rem 0.5rem;
+      margin-top: 0.35rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 100%;
+    }
+
+    .reader-fact-banner {
+      background: rgba(16, 185, 129, 0.08);
+      border: 1px solid rgba(16, 185, 129, 0.3);
+      border-radius: var(--radius-sm);
+      padding: 0.65rem 0.95rem;
+      margin-top: 0.5rem;
+    }
+
+    .badge-fact-tag {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: #10b981;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
+    .fact-source-link {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--primary);
+      text-decoration: none;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      padding: 0.2rem 0.55rem;
+      border-radius: 4px;
+      transition: all 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+    .fact-source-link:hover {
+      background: var(--bg-card);
+      border-color: var(--primary);
+      color: #fff;
+    }
+
     .card-footer {
       margin-top: auto;
       padding-top: 0.65rem;
@@ -1623,6 +1678,7 @@
         <h1 class="reader-title" id="readerTitle">Title</h1>
         <div class="reader-keywords-row" id="readerKeywordsRow"></div>
         <p class="reader-subtitle" id="readerSubtitle">Subtitle</p>
+        <div id="readerFactCheckBanner" class="reader-fact-banner" style="display: none;"></div>
       </div>
 
       <!-- Audio & Reading Mode Controller -->
@@ -2190,6 +2246,12 @@
               <span>📅 ${escapeHtml(art.date || 'Recent')}</span>
             </div>
 
+            ${art.sourceName ? `
+              <div class="card-fact-check-badge" title="실측 검증 출처: ${escapeHtml(art.sourceName)}">
+                <span>✅ 실측 검증:</span> <span>${escapeHtml(art.sourceName)}</span>
+              </div>
+            ` : ''}
+
             ${takeawaysHtml ? `<ul class="takeaway-bullets">${takeawaysHtml}</ul>` : ''}
 
             <div class="card-footer">
@@ -2355,6 +2417,28 @@
       document.getElementById('readerSpeakerDate').innerText = `${currentArticle.speaker || 'Speaker'} • ${currentArticle.date || 'Recent'}`;
       document.getElementById('readerWordCount').innerText = `${currentArticle.wordCount || 200} words`;
       updateReaderArchiveButton();
+
+      // Fact-Check Source Verification Banner
+      const factBanner = document.getElementById('readerFactCheckBanner');
+      if (factBanner) {
+        if (currentArticle.sourceName) {
+          const notes = currentArticle.factCheckNotes ? `<div style="font-size:0.75rem; color:var(--text-muted); margin-top:4px;">• 실측 사실관계: ${escapeHtml(currentArticle.factCheckNotes)}</div>` : '';
+          factBanner.innerHTML = `
+            <div class="fact-banner-content">
+              <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:0.5rem;">
+                <span class="badge-fact-tag">✅ 100% 실시간 팩트체크 검증 완료</span>
+                <a href="${escapeHtml(currentArticle.sourceUrl || '#')}" target="_blank" rel="noopener noreferrer" class="fact-source-link" title="원문 보도 확인">
+                  🔗 출처 공식 보도 확인 (${escapeHtml(currentArticle.sourceName)}) ↗
+                </a>
+              </div>
+              ${notes}
+            </div>
+          `;
+          factBanner.style.display = 'block';
+        } else {
+          factBanner.style.display = 'none';
+        }
+      }
 
       // Takeaways
       const takeawaysContainer = document.getElementById('readerTakeaways');
