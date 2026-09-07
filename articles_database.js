@@ -193,230 +193,10 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "sports_tennis_01",
-    "title": "A New Era in Tennis: Carlos Alcaraz and Jannik Sinner",
-    "subtitle": "Two young tennis stars are bringing fast, exciting power tennis to fans around the world.",
-    "speaker": "Tennis World Magazine",
-    "date": "2026-09-06",
-    "category": "sports",
-    "sportSubcat": "tennis",
-    "sportPriority": 1,
-    "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 248,
-    "keywords": [
-      "#테니스",
-      "#알카라스",
-      "#신너",
-      "#그랜드슬램"
-    ],
-    "addedAt": "2026-09-06T08:00:00Z",
-    "paragraphs": [
-      {
-        "en": "Men's tennis has entered an exciting new chapter with two young champions, Carlos Alcaraz and Jannik Sinner. For twenty years, fans loved watching the Big Three: Roger Federer, Rafael Nadal, and Novak Djokovic. Now, Alcaraz and Sinner are showing a new style of tennis. They do not wait for the other player to make mistakes. Instead, they stand close to the baseline and hit every ball with great speed and heavy spin.",
-        "ko": "남자 테니스는 카를로스 알카라스와 얀니크 신너라는 두 명의 젊은 챔피언과 함께 흥미진진한 새로운 장을 맞이했습니다. 지난 20년 동안 팬들은 페더러, 나달, 조코비치로 이어지는 '빅3'의 경기를 즐겨 보았습니다. 이제 알카라스와 신너는 새로운 스타일의 테니스를 보여주고 있습니다. 그들은 상대방의 실수를 기다리지 않고, 베이스라인 가까이 서서 빠른 속도와 강한 스핀으로 모든 공을 적극적으로 공격합니다.",
-        "sentences": [
-          {
-            "en": "Men's tennis has entered an exciting new chapter with two young champions, Carlos Alcaraz and Jannik Sinner.",
-            "ko": "남자 테니스는 카를로스 알카라스와 얀니크 신너라는 두 젊은 챔피언과 함께 새로운 장을 맞이했습니다."
-          },
-          {
-            "en": "For twenty years, fans loved watching the Big Three: Roger Federer, Rafael Nadal, and Novak Djokovic.",
-            "ko": "20년 동안 팬들은 페더러, 나달, 조코비치 '빅3'의 경기를 사랑했습니다."
-          },
-          {
-            "en": "Now, Alcaraz and Sinner are showing a new style of tennis.",
-            "ko": "이제 알카라스와 신너는 새로운 스타일의 테니스를 보여주고 있습니다."
-          },
-          {
-            "en": "They do not wait for the other player to make mistakes.",
-            "ko": "그들은 상대 선수의 실수를 수동적으로 기다리지 않습니다."
-          },
-          {
-            "en": "Instead, they stand close to the baseline and hit every ball with great speed and heavy spin.",
-            "ko": "대신 베이스라인에 바짝 붙어 빠른 속도와 강한 회전으로 공을 칩니다."
-          }
-        ]
-      },
-      {
-        "en": "Both players are remarkably fast and flexible on the court. High-speed video shows that their rackets move faster than eighty miles per hour when they hit forehands. Even on hard courts, they can slide smoothly to reach difficult balls. After hitting a strong defensive shot, they quickly regain their balance in less than a second.",
-        "ko": "두 선수 모두 코트 위에서 놀라울 정도로 빠르고 유연합니다. 고속 카메라 영상에 따르면 그들의 라켓은 포핸드를 칠 때 시속 80마일보다 빠르게 움직입니다. 하드 코트에서도 부드럽게 미끄러지며 어려운 공을 받아냅니다. 강한 수비 샷을 날린 후에도 1초도 안 되어 재빨리 균형을 되찾습니다.",
-        "sentences": [
-          {
-            "en": "Both players are remarkably fast and flexible on the court.",
-            "ko": "두 선수 모두 코트 위에서 놀라울 정도로 빠르고 유연합니다."
-          },
-          {
-            "en": "High-speed video shows that their rackets move faster than eighty miles per hour when they hit forehands.",
-            "ko": "고속 비디오에 따르면 포핸드를 칠 때 라켓 속도가 시속 80마일을 넘습니다."
-          },
-          {
-            "en": "Even on hard courts, they can slide smoothly to reach difficult balls.",
-            "ko": "하드 코트에서도 부드럽게 슬라이딩하며 어려운 공을 받아냅니다."
-          },
-          {
-            "en": "After hitting a strong defensive shot, they quickly regain their balance in less than a second.",
-            "ko": "수비 샷을 날린 뒤 1초도 되지 않아 빠르게 코트 균형을 회복합니다."
-          }
-        ]
-      },
-      {
-        "en": "Coaches also use modern data and sensors to prepare for big matches. They study how opponents serve and where the ball lands most often. In Grand Slam tournaments, matches can last for five long sets. With strong fitness, sharp technology, and positive energy, these two players are shaping the future of global tennis.",
-        "ko": "코치들 역시 큰 경기를 준비하기 위해 현대적인 데이터와 센서를 활용합니다. 상대가 서브를 어떻게 넣고 공이 주로 어디에 떨어지는지 면밀히 분석합니다. 그랜드슬램 대회는 5세트까지 길게 이어질 수 있습니다. 강한 체력, 첨단 기술, 그리고 긍정적인 에너지를 바탕으로 이 두 선수는 세계 테니스의 미래를 열어가고 있습니다.",
-        "sentences": [
-          {
-            "en": "Coaches also use modern data and sensors to prepare for big matches.",
-            "ko": "코치들은 큰 경기를 준비하기 위해 현대적 데이터와 센서를 활용합니다."
-          },
-          {
-            "en": "They study how opponents serve and where the ball lands most often.",
-            "ko": "상대 선수의 서브 방식과 공이 떨어지는 위치를 분석합니다."
-          },
-          {
-            "en": "In Grand Slam tournaments, matches can last for five long sets.",
-            "ko": "그랜드슬램 대회 경기에서는 5세트 혈투가 이어지기도 합니다."
-          },
-          {
-            "en": "With strong fitness, sharp technology, and positive energy, these two players are shaping the future of global tennis.",
-            "ko": "강한 체력과 데이터 분석, 열정으로 두 선수는 세계 테니스의 미래를 만들고 있습니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "알카라스와 신너는 빠른 템포와 강한 스핀으로 새로운 공격 테니스를 보여줍니다.",
-      "유연한 코트 움직임과 빠른 회복력으로 어떤 공이든 놓치지 않습니다.",
-      "데이터 분석과 체력 관리가 긴 5세트 그랜드슬램 승부의 핵심입니다."
-    ],
-    "quiz": [
-      {
-        "question": "What is special about the playing style of Alcaraz and Sinner?",
-        "options": [
-          "They attack near the baseline with high racket speed.",
-          "They only play defense from far behind the court.",
-          "They refuse to run during long matches."
-        ],
-        "answer": 0,
-        "explanation": "Both players play close to the baseline with fast and aggressive shots."
-      }
-    ]
-  },
-  {
-    "id": "sports_tennis_02",
-    "title": "Secrets of the Serve Return in Grand Slam Tennis",
-    "subtitle": "How smart footwork and fast reactions help players return 130 mph serves with ease.",
-    "speaker": "Global Tennis Analytics",
-    "date": "2026-09-05",
-    "category": "sports",
-    "sportSubcat": "tennis",
-    "sportPriority": 1,
-    "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 240,
-    "keywords": [
-      "#테니스",
-      "#윔블던",
-      "#서브리턴",
-      "#스포츠과학"
-    ],
-    "addedAt": "2026-09-05T08:00:00Z",
-    "paragraphs": [
-      {
-        "en": "In top tennis tournaments, serving fast is important, but returning the serve is even more critical. Cameras at Wimbledon and the US Open track every ball in high detail. Recent studies show that players who hit deep returns win far more break points. When the return lands deep near the baseline, the server cannot easily attack.",
-        "ko": "최고의 테니스 대회에서 빠른 서브도 중요하지만, 서브를 리턴하는 능력은 훨씬 더 중요합니다. 윔블던과 US오픈의 카메라는 모든 공을 정밀하게 추적합니다. 최근 연구에 따르면 공을 코트 깊숙이 리턴하는 선수가 브레이크 포인트를 훨씬 더 많이 가져옵니다. 리턴이 베이스라인 근처에 깊게 떨어지면 서버가 쉽게 공격할 수 없기 때문입니다.",
-        "sentences": [
-          {
-            "en": "In top tennis tournaments, serving fast is important, but returning the serve is even more critical.",
-            "ko": "일류 테니스 대회에서는 빠른 서브도 중요하지만, 리턴 능력이 더 중요합니다."
-          },
-          {
-            "en": "Cameras at Wimbledon and the US Open track every ball in high detail.",
-            "ko": "윔블던과 US오픈의 카메라들이 모든 공을 상세히 추적합니다."
-          },
-          {
-            "en": "Recent studies show that players who hit deep returns win far more break points.",
-            "ko": "최근 연구에 따르면 깊은 리턴을 치는 선수들이 브레이크 포인트를 더 많이 따냅니다."
-          },
-          {
-            "en": "When the return lands deep near the baseline, the server cannot easily attack.",
-            "ko": "공이 베이스라인 깊숙이 들어가면 상대가 쉽게 공격하지 못합니다."
-          }
-        ]
-      },
-      {
-        "en": "To react quickly, players use a small jump called a 'split-step'. Just as the opponent hits the ball, the receiver hops lightly onto both feet. This small hop gives the legs spring-like energy. The player can then dash left or right instantly. By using a short backswing, they hit the fast ball right in the center of the racket.",
-        "ko": "빠르게 반응하기 위해 선수들은 '스플릿 스텝'이라는 작은 점프 동작을 사용합니다. 상대가 공을 치는 바로 그 순간, 리시버는 양발로 가볍게 뜁니다. 이 작은 도약은 다리에 용수철 같은 탄성 에너지를 모아줍니다. 덕분에 선수는 즉시 좌우로 방향을 전환할 수 있습니다. 짧은 백스윙을 사용하여 빠른 공을 라켓 정중앙에 정확히 맞춥니다.",
-        "sentences": [
-          {
-            "en": "To react quickly, players use a small jump called a 'split-step'.",
-            "ko": "빠른 반응을 위해 선수들은 '스플릿 스텝'이라는 작은 점프를 활용합니다."
-          },
-          {
-            "en": "Just as the opponent hits the ball, the receiver hops lightly onto both feet.",
-            "ko": "상대가 공을 치는 순간, 받는 선수는 양발로 가볍게 뜁니다."
-          },
-          {
-            "en": "This small hop gives the legs spring-like energy.",
-            "ko": "이 가벼운 점프는 다리에 용수철 같은 에너지를 실어줍니다."
-          },
-          {
-            "en": "The player can then dash left or right instantly.",
-            "ko": "그 덕분에 선수는 좌우로 즉시 빠르게 움직일 수 있습니다."
-          },
-          {
-            "en": "By using a short backswing, they hit the fast ball right in the center of the racket.",
-            "ko": "짧은 백스윙으로 빠른 공을 라켓 중심에 정확히 맞춥니다."
-          }
-        ]
-      },
-      {
-        "en": "Many top players now train with computer programs and virtual reality headsets. They watch virtual servers hit hundreds of balls before real matches start. This helps their eyes and brains get used to high speeds. With good technique and regular practice, returning a fast serve becomes a powerful weapon.",
-        "ko": "많은 정상급 선수들이 이제 컴퓨터 프로그램과 VR 헤드셋으로 훈련합니다. 실제 경기가 시작되기 전에 가상 선수가 치는 수백 개의 서브를 미리 눈으로 익힙니다. 이는 눈과 뇌가 빠른 속도에 익숙해지도록 돕습니다. 올바른 기술과 꾸준한 연습을 통해 빠른 서브를 받아치는 리턴은 강력한 무기가 됩니다.",
-        "sentences": [
-          {
-            "en": "Many top players now train with computer programs and virtual reality headsets.",
-            "ko": "많은 정상급 선수들이 컴퓨터 프로그램과 VR 헤드셋으로 훈련합니다."
-          },
-          {
-            "en": "They watch virtual servers hit hundreds of balls before real matches start.",
-            "ko": "실제 경기 전에 가상 서버의 수백 개 서브를 미리 시청합니다."
-          },
-          {
-            "en": "This helps their eyes and brains get used to high speeds.",
-            "ko": "이는 눈과 뇌가 빠른 속도에 적응하도록 돕습니다."
-          },
-          {
-            "en": "With good technique and regular practice, returning a fast serve becomes a powerful weapon.",
-            "ko": "좋은 기술과 꾸준한 연습을 통해 서브 리턴은 최고의 무기가 됩니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "서브 리턴을 코트 깊숙이 보내는 것이 경기 승패를 결정짓는 핵심입니다.",
-      "상대 임팩트 타이밍에 맞춘 스플릿 스텝이 번개 같은 반응 속도를 만듭니다.",
-      "VR과 데이터 분석을 통해 현대 테니스 선수들은 빠른 공을 쉽게 읽어냅니다."
-    ],
-    "quiz": [
-      {
-        "question": "What is the purpose of the 'split-step' in tennis?",
-        "options": [
-          "To jump lightly and prepare legs to move quickly in any direction.",
-          "To take a long break between points.",
-          "To signal to the referee that you are ready."
-        ],
-        "answer": 0,
-        "explanation": "The split-step prepares the player to quickly move left or right."
-      }
-    ]
-  },
-  {
     "id": "sports_mlb_01",
-    "title": "Shohei Ohtani's Historic 50-50 Baseball Milestone",
-    "subtitle": "How the Los Angeles Dodgers superstar became the first player to hit 50 home runs and steal 50 bases.",
-    "speaker": "Major League Baseball Insights",
+    "title": "MLB September Pennant Race: Shohei Ohtani Leads Dodgers Postseason Push",
+    "subtitle": "As Major League Baseball enters its final month, the Los Angeles Dodgers battle for home-field advantage.",
+    "speaker": "MLB Network (Los Angeles)",
     "date": "2026-09-06",
     "category": "sports",
     "sportSubcat": "mlb",
@@ -424,307 +204,1197 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 252,
+    "wordCount": 246,
     "keywords": [
       "#MLB",
       "#오타니",
-      "#50홈런50도루",
-      "#메이저리그"
+      "#다저스",
+      "#페넌트레이스"
     ],
-    "addedAt": "2026-09-06T08:00:00Z",
+    "addedAt": "2026-09-06T21:00:00Z",
     "paragraphs": [
       {
-        "en": "In the long history of Major League Baseball, no player had ever hit 50 home runs and stolen 50 bases in the same season. Shohei Ohtani changed that forever. Playing for the Los Angeles Dodgers, the superstar reached this unbelievable milestone in an unforgettable game. Baseball experts were amazed because hitting for power and running fast usually require very different body types.",
-        "ko": "메이저리그 베이스볼의 오랜 역사 속에서, 단일 시즌에 50개의 홈런과 50개의 도루를 동시에 달성한 선수는 아무도 없었습니다. 오타니 쇼헤이가 그 역사를 영원히 바꾸어 놓았습니다. LA 다저스에서 활약 중인 이 슈퍼스타는 잊을 수 없는 경기에서 이 믿기 힘든 대기록을 완성했습니다. 보통 홈런을 치는 큰 힘과 빠른 주력은 서로 다른 체형을 필요로 하기 때문에 전문가들도 크게 놀랐습니다.",
+        "en": "September is the most exciting month in Major League Baseball because every single game matters. The Los Angeles Dodgers are fighting hard to win the National League West division title. Japanese superstar Shohei Ohtani continues to amaze baseball fans with his incredible combination of power hitting and fast base running.",
+        "ko": "9월은 모든 경기가 소중하기 때문에 메이저리그 베이스볼에서 가장 흥미진진한 달입니다. 로스앤젤레스 다저스는 내셔널리그 서부지구 우승 타이틀을 차지하기 위해 치열하게 싸우고 있습니다. 일본의 슈퍼스타 오타니 쇼헤이는 장타력과 빠른 주루를 앞세워 야구팬들을 계속해서 놀라게 하고 있습니다.",
         "sentences": [
           {
-            "en": "In the long history of Major League Baseball, no player had ever hit 50 home runs and stolen 50 bases in the same season.",
-            "ko": "메이저리그 오랜 역사상 단일 시즌 50홈런 50도루를 달성한 선수는 없었습니다."
+            "en": "September is the most exciting month in Major League Baseball because every single game matters.",
+            "ko": "9월은 모든 경기가 소중하기 때문에 메이저리그 베이스볼에서 가장 흥미진진한 달입니다."
           },
           {
-            "en": "Shohei Ohtani changed that forever.",
-            "ko": "오타니 쇼헤이가 그 역사를 영원히 바꾸었습니다."
+            "en": "The Los Angeles Dodgers are fighting hard to win the National League West division title.",
+            "ko": "로스앤젤레스 다저스는 내셔널리그 서부지구 우승 타이틀을 위해 치열하게 경쟁하고 있습니다."
           },
           {
-            "en": "Playing for the Los Angeles Dodgers, the superstar reached this unbelievable milestone in an unforgettable game.",
-            "ko": "LA 다저스에서 뛰며 이 슈퍼스타는 믿기 힘든 기록을 달성했습니다."
-          },
-          {
-            "en": "Baseball experts were amazed because hitting for power and running fast usually require very different body types.",
-            "ko": "장타력과 빠른 발은 보통 다른 체형을 요구하기에 전문가들도 놀랐습니다."
+            "en": "Japanese superstar Shohei Ohtani continues to amaze baseball fans with his incredible combination of power hitting and fast base running.",
+            "ko": "일본의 슈퍼스타 오타니 쇼헤이는 강력한 타격과 빠른 주루 능력으로 팬들을 연일 놀라게 하고 있습니다."
           }
         ]
       },
       {
-        "en": "Baseball numbers explain why Ohtani is so special. When he hits the ball, it travels faster than ninety-five miles per hour off his bat. At the same time, his running speed is as fast as the best sprinters in the league. Heavy hitters usually run slowly, and fast runners usually do not hit deep home runs. Ohtani trains his muscles carefully to have both immense power and great agility.",
-        "ko": "야구 통계 수치들은 오타니가 왜 그토록 특별한지 잘 보여줍니다. 그가 공을 치면 타구 속도가 시속 95마일을 훌쩍 넘깁니다. 동시에 그의 달리기 속도는 리그 최고의 스프린터만큼 빠릅니다. 보통 거포들은 느리게 달리고, 발 빠른 타자들은 깊은 홈런을 날리지 못합니다. 오타니는 엄청난 힘과 뛰어난 민첩성을 둘 다 갖추기 위해 근육을 세심하게 단련합니다.",
+        "en": "With the autumn postseason approaching quickly, stadiums are packed with loud and passionate crowds. Dodgers manager Dave Roberts praised his team for staying focused during this high-pressure pennant race. Ohtani delivered several clutch hits in late innings this week, proving why he is a top candidate for the Most Valuable Player award.",
+        "ko": "가을 포스트시즌이 빠르게 다가오면서 야구장은 열정적인 만원 관중으로 가득 차 있습니다. 다저스 감독 데이브 로버츠는 큰 부담감이 따르는 페넌트레이스 동안 집중력을 유지한 선수단을 칭찬했습니다. 오타니는 이번 주 경기 후반부 결정적인 클러치 안타를 잇달아 터뜨리며 왜 자신이 MVP 유력 후보인지 증명했습니다.",
         "sentences": [
           {
-            "en": "Baseball numbers explain why Ohtani is so special.",
-            "ko": "야구 기록 수치들은 오타니가 왜 특별한지 설명해 줍니다."
+            "en": "With the autumn postseason approaching quickly, stadiums are packed with loud and passionate crowds.",
+            "ko": "가을 포스트시즌이 다가오면서 경기장은 열정적인 관중들로 가득 차 있습니다."
           },
           {
-            "en": "When he hits the ball, it travels faster than ninety-five miles per hour off his bat.",
-            "ko": "그가 타격한 공은 배트에서 시속 95마일이 넘는 속도로 날아갑니다."
+            "en": "Dodgers manager Dave Roberts praised his team for staying focused during this high-pressure pennant race.",
+            "ko": "다저스 감독 데이브 로버츠는 긴장감 넘치는 순위 싸움 속에서 집중력을 발휘한 팀을 칭찬했습니다."
           },
           {
-            "en": "At the same time, his running speed is as fast as the best sprinters in the league.",
-            "ko": "동시에 그의 달리기 속도는 리그 최고 수준의 주자만큼 빠릅니다."
-          },
-          {
-            "en": "Heavy hitters usually run slowly, and fast runners usually do not hit deep home runs.",
-            "ko": "일반적으로 거포는 느리고, 빠른 주자는 홈런 파워가 부족합니다."
-          },
-          {
-            "en": "Ohtani trains his muscles carefully to have both immense power and great agility.",
-            "ko": "오타니는 파워와 민첩성을 모두 갖추도록 몸을 철저히 단련합니다."
+            "en": "Ohtani delivered several clutch hits in late innings this week, proving why he is a top candidate for the Most Valuable Player award.",
+            "ko": "오타니는 이번 주 후반 결정적인 적시타를 치며 MVP 유력 후보의 면모를 보여주었습니다."
           }
         ]
       },
       {
-        "en": "Fans everywhere admire Ohtani not only for his talent, but also for his hard work and humble attitude. Young athletes in many countries now want to learn how to hit, run, and pitch just like him. By breaking a record that stood unbroken for generations, Ohtani proved that human potential in sports has no boundaries.",
-        "ko": "전 세계의 팬들은 오타니의 재능뿐만 아니라 그의 성실한 노력과 겸손한 태도를 존경합니다. 많은 나라의 어린 운동선수들이 이제 그처럼 치고, 달리고, 던지는 법을 배우고 싶어 합니다. 오랫동안 깨지지 않았던 불멸의 기록을 경신함으로써, 오타니는 스포츠에서 인간의 잠재력에는 한계가 없음을 증명했습니다.",
+        "en": "Winning the division provides an important reward: extra rest days and home-field advantage in October. Fans across Southern California are dreaming of a World Series celebration. The next three weeks will decide which teams earn their tickets to baseball's biggest championship stage.",
+        "ko": "지구 우승을 차지하면 10월 포스트시즌에서 추가 휴식일과 홈구장 어드밴티지라는 중요한 보상을 얻게 됩니다. 미국 남부 캘리포니아의 팬들은 월드시리즈 우승 축제를 꿈꾸고 있습니다. 앞으로의 3주는 어떤 팀들이 야구 최고 무대인 가을 축제 티켓을 거머쥘지 결정할 것입니다.",
         "sentences": [
           {
-            "en": "Fans everywhere admire Ohtani not only for his talent, but also for his hard work and humble attitude.",
-            "ko": "전 세계 팬들은 오타니의 재능뿐 아니라 성실함과 겸손함을 존경합니다."
+            "en": "Winning the division provides an important reward: extra rest days and home-field advantage in October.",
+            "ko": "지구 우승을 차지하면 10월에 추가 휴식일과 홈 어드밴티지를 얻습니다."
           },
           {
-            "en": "Young athletes in many countries now want to learn how to hit, run, and pitch just like him.",
-            "ko": "많은 나라의 어린 선수들이 그처럼 치고 달리며 던지기를 꿈꿉니다."
+            "en": "Fans across Southern California are dreaming of a World Series celebration.",
+            "ko": "남부 캘리포니아 팬들은 월드시리즈 우승 축제를 손꼽아 기다리고 있습니다."
           },
           {
-            "en": "By breaking a record that stood unbroken for generations, Ohtani proved that human potential in sports has no boundaries.",
-            "ko": "오랜 기록을 깨뜨리며 오타니는 인간 잠재력에 한계가 없음을 입증했습니다."
+            "en": "The next three weeks will decide which teams earn their tickets to baseball's biggest championship stage.",
+            "ko": "앞으로 3주 동안 야구 최고의 챔피언십 무대로 향할 주인공들이 가려집니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "오타니 쇼헤이는 MLB 역사상 최초로 단일 시즌 50홈런-50도루를 달성했습니다.",
-      "강한 장타력과 빠른 주력을 동시에 유지하는 철저한 자기관리의 모범입니다.",
-      "야구 역사와 글로벌 팬들에게 깊은 영감과 감동을 전하고 있습니다."
+      "9월 메이저리그 페넌트레이스에서 오타니와 다저스가 가을야구 홈 어드밴티지를 위해 질주 중입니다.",
+      "오타니는 경기 후반 결정적인 클러치 안타를 연이어 기록하며 MVP 수상을 유력하게 만들고 있습니다.",
+      "지구 우승 팀은 10월 포스트시즌에서 체력 비축과 홈 경기 이점을 누리게 됩니다."
     ],
     "quiz": [
       {
-        "question": "What historic achievement did Shohei Ohtani accomplish?",
+        "question": "Why is winning the division title so valuable for baseball teams in September?",
         "options": [
-          "50 home runs and 50 stolen bases in one season.",
-          "Winning every single game without pitching.",
-          "Hitting 100 home runs in one month."
+          "It gives teams extra rest and home-field advantage in October.",
+          "It allows players to go on summer vacation immediately.",
+          "It cancels all remaining baseball games in America."
         ],
         "answer": 0,
-        "explanation": "Ohtani became the first player to achieve 50 home runs and 50 stolen bases."
+        "explanation": "Division winners earn extra rest and home-field advantage during the October postseason."
       }
     ]
   },
   {
     "id": "sports_mlb_02",
-    "title": "The Science of the Sweeper in Modern Baseball",
-    "subtitle": "Why this new sideways breaking pitch is giving Major League hitters a very hard time.",
-    "speaker": "Baseball Prospectus Lab",
-    "date": "2026-09-05",
+    "title": "Aaron Judge Powers Yankees in High-Stakes AL East Division Battle",
+    "subtitle": "The New York Yankees captain continues his home run tear as Baltimore keeps the division race close.",
+    "speaker": "ESPN Baseball (New York)",
+    "date": "2026-09-06",
     "category": "sports",
     "sportSubcat": "mlb",
     "sportPriority": 2,
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 242,
+    "wordCount": 244,
     "keywords": [
       "#MLB",
-      "#세이버메트릭스",
-      "#스위퍼",
-      "#야구데이터"
+      "#애런저지",
+      "#양키스",
+      "#홈런레이스"
     ],
-    "addedAt": "2026-09-05T08:00:00Z",
+    "addedAt": "2026-09-06T21:00:00Z",
     "paragraphs": [
       {
-        "en": "In recent baseball seasons, pitchers have introduced a popular new pitch called the 'sweeper'. A traditional slider drops down quickly toward the ground. In contrast, the sweeper bends sideways across home plate like a frisbee. High-speed optical cameras allow pitching coaches to design and measure this horizontal flight in great detail.",
-        "ko": "최근 야구 시즌에서 투수들은 '스위퍼'라고 불리는 인기 있는 새로운 구종을 선보였습니다. 전통적인 슬라이더는 땅을 향해 아래로 빠르게 떨어집니다. 반면에 스위퍼는 원반(프리즈비)처럼 홈 플레이트를 가로질러 옆으로 크게 휩쓸며 꺾입니다. 초고속 광학 카메라는 투수 코치들이 이러한 수평 비행 궤적을 매우 정밀하게 설계하고 측정할 수 있게 해줍니다.",
+        "en": "The battle for the American League East is one of the closest races in recent baseball memory. In New York, Yankees captain Aaron Judge has been hitting home runs at a historic pace. Every time Judge walks up to home plate at Yankee Stadium, thousands of fans stand up with cameras ready.",
+        "ko": "아메리칸리그 동부지구 우승 다툼은 최근 프로야구 역사상 가장 치열한 접전 중 하나입니다. 뉴욕 양키스의 주장 애런 저지는 역사적인 페이스로 홈런포를 가동하고 있습니다. 저지가 양키 스타디움 타석에 들어설 때마다 수천 명의 팬들이 카메라를 든 채 기립합니다.",
         "sentences": [
           {
-            "en": "In recent baseball seasons, pitchers have introduced a popular new pitch called the 'sweeper'.",
-            "ko": "최근 야구계에서 투수들은 '스위퍼'라는 새로운 구종을 선보였습니다."
+            "en": "The battle for the American League East is one of the closest races in recent baseball memory.",
+            "ko": "아메리칸리그 동부지구 우승 경쟁은 최근 야구계에서 가장 치열한 레이스 중 하나입니다."
           },
           {
-            "en": "A traditional slider drops down quickly toward the ground.",
-            "ko": "전통적인 슬라이더는 바닥을 향해 아래로 빠르게 떨어집니다."
+            "en": "In New York, Yankees captain Aaron Judge has been hitting home runs at a historic pace.",
+            "ko": "뉴욕 양키스의 주장 애런 저지는 엄청난 페이스로 홈런을 터뜨리고 있습니다."
           },
           {
-            "en": "In contrast, the sweeper bends sideways across home plate like a frisbee.",
-            "ko": "반면 스위퍼는 원반처럼 홈 플레이트 옆으로 크게 휩쓸리며 꺾입니다."
-          },
-          {
-            "en": "High-speed optical cameras allow pitching coaches to design and measure this horizontal flight in great detail.",
-            "ko": "초고속 카메라는 코치들이 이 횡적 궤적을 정밀하게 설계하도록 돕습니다."
+            "en": "Every time Judge walks up to home plate at Yankee Stadium, thousands of fans stand up with cameras ready.",
+            "ko": "저지가 타석에 들어설 때마다 수천 명의 팬들이 카메라를 켜고 일어섭니다."
           }
         ]
       },
       {
-        "en": "The secret of the sweeper comes from the airflow around the baseball seams. When the pitcher releases the ball at a specific angle, air moves unevenly over the raised stitches. This pushes the ball sideways without needing strange arm motions. Batters expecting a straight ball often swing and miss because the ball drifts away at the last second.",
-        "ko": "스위퍼의 비밀은 야구공 실밥 주위의 공기 흐름에서 비롯됩니다. 투수가 특정 각도로 공을 던지면, 튀어나온 실밥 위로 공기가 불균등하게 흐릅니다. 이는 무리한 팔 동작 없이도 공을 옆으로 밀어냅니다. 직구를 예상했던 타자들은 공이 마지막 순간에 옆으로 빠져나가기 때문에 허공에 방망이를 헛휘두르게 됩니다.",
+        "en": "The young Baltimore Orioles are challenging the Yankees for the division crown until the very last week. Baseball analysts note that Judge's plate discipline is the secret behind his high batting average. He rarely swings at bad pitches outside the strike zone, forcing pitchers to throw strikes over the middle of the plate.",
+        "ko": "젊은 볼티모어 오리올스는 시즌 마지막 주까지 양키스의 지구 우승을 거세게 위협하고 있습니다. 야구 분석가들은 저지의 뛰어난 선구안이 높은 타율과 파워의 비결이라고 강조합니다. 그는 스트라이크 존을 벗어난 나쁜 공에 거의 배트를 내지 않으며 투수들이 가운데로 공을 던지도록 유도합니다.",
         "sentences": [
           {
-            "en": "The secret of the sweeper comes from the airflow around the baseball seams.",
-            "ko": "스위퍼의 비밀은 야구공 실밥 주위의 공기 흐름에 있습니다."
+            "en": "The young Baltimore Orioles are challenging the Yankees for the division crown until the very last week.",
+            "ko": "젊은 볼티모어 오리올스는 시즌 끝까지 양키스의 우승을 위협하고 있습니다."
           },
           {
-            "en": "When the pitcher releases the ball at a specific angle, air moves unevenly over the raised stitches.",
-            "ko": "특정 각도로 공을 놓으면 실밥 위로 공기가 불균등하게 흐릅니다."
+            "en": "Baseball analysts note that Judge's plate discipline is the secret behind his high batting average.",
+            "ko": "야구 분석가들은 저지의 뛰어난 선구안을 높은 타율의 비결로 꼽습니다."
           },
           {
-            "en": "This pushes the ball sideways without needing strange arm motions.",
-            "ko": "이것이 무리한 팔 동작 없이도 공을 옆으로 밀어내는 힘을 만듭니다."
-          },
-          {
-            "en": "Batters expecting a straight ball often swing and miss because the ball drifts away at the last second.",
-            "ko": "직구를 예상한 타자들은 마지막 순간 옆으로 빠지는 공에 헛스윙을 합니다."
+            "en": "He rarely swings at bad pitches outside the strike zone, forcing pitchers to throw strikes over the middle of the plate.",
+            "ko": "그는 나쁜 공에 속지 않고 투수가 스트라이크 존에 던지도록 만듭니다."
           }
         ]
       },
       {
-        "en": "Because of this pitch, many pitchers have turned their careers around. Even pitchers without extreme fastball speed can now strike out great hitters. At the same time, batters are adjusting their stances to hit the ball earlier. This ongoing battle makes watching Major League Baseball more fun and scientific than ever.",
-        "ko": "이 구종 덕분에 많은 투수들이 선수 생활의 큰 전환점을 맞이했습니다. 아주 빠른 직구를 던지지 못하는 투수들도 이제 강타자들을 삼진으로 잡아낼 수 있습니다. 동시에 타자들도 공이 꺾이기 전에 미리 치기 위해 타격 자세를 조정하고 있습니다. 이러한 계속되는 승부는 메이저리그 야구를 그 어느 때보다 재미있고 과학적으로 만들어 줍니다.",
+        "en": "The Yankees hope to bring a World Series trophy back to the Bronx for the first time in many years. Team leaders say that remaining calm under pressure will decide their fate. Baseball fans everywhere are glued to their television screens to see how this thrilling race concludes.",
+        "ko": "양키스는 오랜만에 월드시리즈 트로피를 브롱크스로 다시 가져오기를 간절히 바라고 있습니다. 팀 베테랑들은 큰 압박감 속에서 평정심을 유지하는 것이 승부를 결정지을 것이라고 말합니다. 전 세계 야구 팬들은 이 숨막히는 순위 싸움이 어떻게 마무리될지 TV 중계에 몰입하고 있습니다.",
         "sentences": [
           {
-            "en": "Because of this pitch, many pitchers have turned their careers around.",
-            "ko": "이 구종 덕분에 많은 투수들이 극적인 반전을 이루어냈습니다."
+            "en": "The Yankees hope to bring a World Series trophy back to the Bronx for the first time in many years.",
+            "ko": "양키스는 오랜만에 월드시리즈 우승 트로피를 되찾기를 기대하고 있습니다."
           },
           {
-            "en": "Even pitchers without extreme fastball speed can now strike out great hitters.",
-            "ko": "빠른 직구가 없는 투수들도 이제 뛰어난 타자들을 삼진 처리합니다."
+            "en": "Team leaders say that remaining calm under pressure will decide their fate.",
+            "ko": "선수단 리더들은 큰 부담 속에서도 침착함을 유지하는 것이 중요하다고 말합니다."
           },
           {
-            "en": "At the same time, batters are adjusting their stances to hit the ball earlier.",
-            "ko": "동시에 타자들도 공을 일찍 공략하기 위해 자세를 고치고 있습니다."
-          },
-          {
-            "en": "This ongoing battle makes watching Major League Baseball more fun and scientific than ever.",
-            "ko": "이러한 맞대결은 메이저리그를 더욱 재미있고 과학적으로 만듭니다."
+            "en": "Baseball fans everywhere are glued to their television screens to see how this thrilling race concludes.",
+            "ko": "전 세계 야구 팬들은 이 짜릿한 순위 경쟁의 결말을 지켜보고 있습니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "스위퍼는 홈플레이트 옆으로 크게 휘어지는 새로운 스타일의 슬라이더입니다.",
-      "공의 실밥과 공기 흐름을 이용해 자연스러운 횡적 변화를 만들어냅니다.",
-      "구속이 빠르지 않은 투수들에게도 강력한 삼진 무기가 되고 있습니다."
+      "뉴욕 양키스의 주장 애런 저지가 역사적인 9월 홈런포를 가동하며 팀 타선을 이끌고 있습니다.",
+      "볼티모어 오리올스와의 치열한 AL 동부지구 1위 경쟁이 시즌 마지막까지 펼쳐지고 있습니다.",
+      "저지의 뛰어난 선구안(Plate Discipline)이 안정적인 출루와 장타의 핵심 원동력으로 분석됩니다."
     ],
     "quiz": [
       {
-        "question": "How does a sweeper pitch move compared to a traditional slider?",
+        "question": "What skill has helped Aaron Judge maintain a high batting average while hitting home runs?",
         "options": [
-          "It bends sideways horizontally like a frisbee.",
-          "It drops straight down into the dirt.",
-          "It stops completely still in mid-air."
+          "Careful plate discipline and avoiding bad pitches outside the zone.",
+          "Swinging wildly with eyes closed on every single pitch.",
+          "Running to third base before hitting the ball."
         ],
         "answer": 0,
-        "explanation": "A sweeper moves sideways across the plate rather than dropping vertically."
+        "explanation": "Judge's patient plate discipline allows him to wait for hittable strikes over the plate."
       }
     ]
   },
   {
-    "id": "auto_tech_560145342",
-    "title": "Smart AI Agents and Cybersecurity: What You Need to Know",
-    "subtitle": "How autonomous AI programs can find software bugs, and how experts protect computer systems.",
-    "speaker": "BBC Technology",
-    "date": "2026-09-04",
-    "category": "tech",
+    "id": "sports_pl_01",
+    "title": "Premier League September Showdown: Manchester City and Arsenal Renew Title Rivalry",
+    "subtitle": "Early season form suggests another epic title fight between Pep Guardiola and Mikel Arteta.",
+    "speaker": "Sky Sports Football (London)",
+    "date": "2026-09-06",
+    "category": "sports",
+    "sportSubcat": "premier_league",
+    "sportPriority": 3,
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 245,
+    "keywords": [
+      "#프리미어리그",
+      "#맨시티",
+      "#아스널",
+      "#우승경쟁"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "The new English Premier League season is off to a fast and competitive start this September. Reigning champions Manchester City and title challengers Arsenal have both shown great form in their opening matches. Fans across England are already preparing for another tense title race that could last all the way until May.",
+        "ko": "새로운 잉글랜드 프리미어리그 시즌이 이번 9월 빠르고 치열하게 시작되었습니다. 디펜딩 챔피언 맨체스터 시티와 도전자 아스널 모두 개막 초반 경기에서 뛰어난 경기력을 보여주었습니다. 잉글랜드 전역의 축구 팬들은 내년 5월까지 이어질 긴장감 넘치는 우승 경쟁을 벌써부터 기대하고 있습니다.",
+        "sentences": [
+          {
+            "en": "The new English Premier League season is off to a fast and competitive start this September.",
+            "ko": "잉글랜드 프리미어리그 새 시즌이 이번 9월 힘차게 막을 올렸습니다."
+          },
+          {
+            "en": "Reigning champions Manchester City and title challengers Arsenal have both shown great form in their opening matches.",
+            "ko": "챔피언 맨시티와 도전자 아스널 모두 초반부터 탄탄한 경기력을 보여주었습니다."
+          },
+          {
+            "en": "Fans across England are already preparing for another tense title race that could last all the way until May.",
+            "ko": "팬들은 내년 5월까지 이어질 치열한 우승 레이스를 벌써 기대하고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "Pep Guardiola's Manchester City relies on patient ball possession and clinical finishing inside the penalty box. Meanwhile, Mikel Arteta's Arsenal uses aggressive pressing and quick wing attacks to overwhelm opposing defenses. Both managers know each other extremely well, making their tactical battles fascinating for tactical experts.",
+        "ko": "펩 과르디올라 감독의 맨체스터 시티는 인내심 있는 볼 점유율과 페널티 박스 안에서의 날카로운 결정력에 집중합니다. 반면 미켈 아르테타 감독의 아스널은 강력한 전방 압박과 빠른 측면 공격으로 상대 수비를 무너뜨립니다. 두 감독은 서로의 전술을 훤히 꿰뚫고 있어 이들의 맞대결은 전술 전문가들을 매료시킵니다.",
+        "sentences": [
+          {
+            "en": "Pep Guardiola's Manchester City relies on patient ball possession and clinical finishing inside the penalty box.",
+            "ko": "맨체스터 시티는 침착한 패스 점유와 날카로운 골 결정력을 활용합니다."
+          },
+          {
+            "en": "Meanwhile, Mikel Arteta's Arsenal uses aggressive pressing and quick wing attacks to overwhelm opposing defenses.",
+            "ko": "아스널은 강한 전방 압박과 빠른 측면 돌파로 상대를 몰아붙입니다."
+          },
+          {
+            "en": "Both managers know each other extremely well, making their tactical battles fascinating for tactical experts.",
+            "ko": "두 감독은 서로를 너무나 잘 알기에 전술 대결이 더욱 흥미롭습니다."
+          }
+        ]
+      },
+      {
+        "en": "Every point won in September can make the difference between lifting the trophy or finishing second. Players must avoid fatigue as European Champions League fixtures begin alongside league duties. The stage is set for a thrilling football autumn in stadiums across the United Kingdom.",
+        "ko": "9월에 획득하는 승점 1점은 시즌 말미에 우승컵을 들어 올리느냐 2위에 머무느냐를 가르는 결정적 차이가 될 수 있습니다. 유럽 챔피언스리그 경기 일정이 리그와 함께 시작되면서 선수들은 피로 누적을 관리해야 합니다. 영국 전역의 경기장에서 짜릿한 가을 축구 전쟁이 펼쳐지고 있습니다.",
+        "sentences": [
+          {
+            "en": "Every point won in September can make the difference between lifting the trophy or finishing second.",
+            "ko": "9월에 따낸 승점 하나가 시즌 우승과 준우승을 가를 수 있습니다."
+          },
+          {
+            "en": "Players must avoid fatigue as European Champions League fixtures begin alongside league duties.",
+            "ko": "챔피언스리그 일정이 겹치므로 체력 관리가 매우 중요합니다."
+          },
+          {
+            "en": "The stage is set for a thrilling football autumn in stadiums across the United Kingdom.",
+            "ko": "영국 전역의 축구 경기장에서 뜨거운 가을 승부가 펼쳐집니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "2026-27 프리미어리그 개막 초반 맨체스터 시티와 아스널의 2강 우승 경쟁이 본격화되었습니다.",
+      "과르디올라의 점유율 축구와 아르테타의 강력한 압박 축구가 다시 한번 정면 격돌합니다.",
+      "챔피언스리그 조별리그 병행에 따른 선수단 체력 관리가 가을 레이스의 최대 변수입니다."
+    ],
+    "quiz": [
+      {
+        "question": "What tactical style does Arsenal use to challenge Manchester City?",
+        "options": [
+          "Aggressive pressing and quick wing attacks.",
+          "Standing completely still in the defensive penalty box.",
+          "Playing without a goalkeeper on the pitch."
+        ],
+        "answer": 0,
+        "explanation": "Arsenal relies on aggressive pressing and dynamic wing speed to break down defenses."
+      }
+    ]
+  },
+  {
+    "id": "sports_pl_02",
+    "title": "Captain Son Heung-min Inspires Tottenham's Attacking Football in New Season",
+    "subtitle": "The South Korean forward displays remarkable leadership and sharp finishing in North London.",
+    "speaker": "BBC Sport (London)",
+    "date": "2026-09-06",
+    "category": "sports",
+    "sportSubcat": "premier_league",
+    "sportPriority": 3,
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 242,
+    "keywords": [
+      "#프리미어리그",
+      "#손흥민",
+      "#토트넘",
+      "#캡틴리더십"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "Tottenham Hotspur fans are celebrating a positive start to their campaign, thanks to club captain Son Heung-min. The experienced South Korean forward has shown energy and composure in front of goal. Leading by example on and off the pitch, Son has helped younger teammates settle into the fast tempo of the Premier League.",
+        "ko": "토트넘 홋스퍼 팬들은 클럽의 캡틴 손흥민 덕분에 기분 좋은 시즌 출발을 축하하고 있습니다. 노련한 한국인 공격수 손흥민은 골문 앞에서 넘치는 에너지와 침착한 결정력을 보여주었습니다. 경기장 안팎에서 솔선수범하는 손흥민은 어린 팀 동료들이 프리미어리그의 빠른 템포에 잘 적응하도록 도왔습니다.",
+        "sentences": [
+          {
+            "en": "Tottenham Hotspur fans are celebrating a positive start to their campaign, thanks to club captain Son Heung-min.",
+            "ko": "토트넘 팬들은 주장 손흥민의 활약 덕분에 기분 좋은 시즌 출발을 기뻐하고 있습니다."
+          },
+          {
+            "en": "The experienced South Korean forward has shown energy and composure in front of goal.",
+            "ko": "노련한 공격수 손흥민은 골문 앞에서 강력한 에너지와 침착함을 보여주었습니다."
+          },
+          {
+            "en": "Leading by example on and off the pitch, Son has helped younger teammates settle into the fast tempo of the Premier League.",
+            "ko": "그는 솔선수범하며 어린 동료들이 리그 템포에 적응하도록 이끌었습니다."
+          }
+        ]
+      },
+      {
+        "en": "Manager Ange Postecoglou encourages his squad to attack without fear from the opening whistle. Son's smart movement behind defensive backlines creates space for midfielders to advance. In a recent weekend home fixture, Son scored a curling strike from outside the penalty box that sent the stadium into wild celebrations.",
+        "ko": "엔제 포스테코글루 감독은 선수단에게 경기 시작 휘슬부터 두려움 없이 공격할 것을 주문합니다. 상대 수비 뒷공간을 파고드는 손흥민의 영리한 움직임은 미드필더들이 전진할 수 있는 소중한 공간을 만들어냅니다. 최근 주말 홈 경기에서 손흥민은 페널티 박스 바깥에서 환상적인 감아차기 슛을 꽂아 넣으며 홈 팬들을 열광시켰습니다.",
+        "sentences": [
+          {
+            "en": "Manager Ange Postecoglou encourages his squad to attack without fear from the opening whistle.",
+            "ko": "포스테코글루 감독은 경기 시작부터 두려움 없는 공격 축구를 지시합니다."
+          },
+          {
+            "en": "Son's smart movement behind defensive backlines creates space for midfielders to advance.",
+            "ko": "수비 뒷공간을 허무는 손흥민의 침투는 동료들에게 넓은 공간을 열어줍니다."
+          },
+          {
+            "en": "In a recent weekend home fixture, Son scored a curling strike from outside the penalty box that sent the stadium into wild celebrations.",
+            "ko": "손흥민은 지난 주말 경기에서 환상적인 감아차기 골로 경기장을 열광의 도가니로 만들었습니다."
+          }
+        ]
+      },
+      {
+        "en": "Tottenham's ambition is to secure a top-four finish and return to Europe's elite competition. Son stated that team unity and humble hard work will remain their core values. Football supporters in London and Seoul look forward to watching more magic from their beloved captain.",
+        "ko": "토트넘의 이번 시즌 목표는 4위권 안에 진입하여 유럽 최고의 클럽 대항전에 복귀하는 것입니다. 손흥민은 팀의 단결력과 겸손한 헌신이 변치 않는 핵심 가치라고 강조했습니다. 런던과 서울의 축구 팬들은 사랑받는 캡틴이 보여줄 마법 같은 활약을 계속해서 기대하고 있습니다.",
+        "sentences": [
+          {
+            "en": "Tottenham's ambition is to secure a top-four finish and return to Europe's elite competition.",
+            "ko": "토트넘의 목표는 리그 4위 안에 들어 챔피언스리그에 복귀하는 것입니다."
+          },
+          {
+            "en": "Son stated that team unity and humble hard work will remain their core values.",
+            "ko": "손흥민은 원팀의 단결과 헌신이 팀의 가장 중요한 가치라고 강조했습니다."
+          },
+          {
+            "en": "Football supporters in London and Seoul look forward to watching more magic from their beloved captain.",
+            "ko": "런던과 서울의 팬들은 손흥민의 환상적인 플레이를 손꼽아 기다립니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "토트넘의 캡틴 손흥민이 시즌 초반 환상적인 감아차기 골과 탁월한 리더십으로 팀을 이끌고 있습니다.",
+      "포스테코글루 감독의 공격적인 전술 속에서 손흥민의 뒷공간 침투 능력이 핵심 무기로 작용합니다.",
+      "토트넘은 손흥민을 중심으로 4위 진입과 챔피언스리그 복귀를 정조준하고 있습니다."
+    ],
+    "quiz": [
+      {
+        "question": "What is Tottenham Hotspur's main goal for the current Premier League season?",
+        "options": [
+          "To secure a top-four finish and return to European competition.",
+          "To stop playing competitive football matches completely.",
+          "To move their home stadium to an iceberg in the Arctic."
+        ],
+        "answer": 0,
+        "explanation": "Tottenham aims to finish inside the top four and qualify for the Champions League."
+      }
+    ]
+  },
+  {
+    "id": "sports_f1_01",
+    "title": "Formula 1 Italian Grand Prix at Monza: High Speed and Passion for Ferrari",
+    "subtitle": "The historic 'Temple of Speed' witnesses roaring crowds as Ferrari battles for home victory.",
+    "speaker": "Sky Sports F1 (Monza)",
+    "date": "2026-09-06",
+    "category": "sports",
+    "sportSubcat": "other",
+    "sportPriority": 4,
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
     "wordCount": 240,
     "keywords": [
-      "#AI해킹",
-      "#자율에이전트",
-      "#사이버보안",
-      "#오픈AI"
+      "#F1",
+      "#페라리",
+      "#몬차",
+      "#이탈리아GP"
     ],
-    "addedAt": "2026-09-04T00:00:00Z",
+    "addedAt": "2026-09-06T21:00:00Z",
     "paragraphs": [
       {
-        "en": "Computer security experts are studying how smart artificial intelligence programs behave online. Recent tests show that teams of AI agents can scan websites and find software weaknesses without human help. Once an agent discovers a flaw, it can write computer code to test if the door is open. This happens much faster than traditional human testing.",
-        "ko": "컴퓨터 보안 전문가들은 똑똑한 인공지능 프로그램이 온라인에서 어떻게 행동하는지 연구하고 있습니다. 최근 테스트에 따르면 AI 에이전트 팀이 사람의 도움 없이 웹사이트를 검사하고 소프트웨어 취약점을 찾아낼 수 있는 것으로 나타났습니다. 에이전트가 허점을 발견하면 보안 문이 열려 있는지 테스트하는 코드를 직접 작성할 수 있습니다. 이는 전통적인 사람의 테스트보다 훨씬 빠르게 진행됩니다.",
+        "en": "Every September, motorsport fans turn their attention to the Autodromo Nazionale Monza for the Italian Grand Prix. Known as the Temple of Speed, Monza features long straight tracks where Formula 1 cars reach speeds over 350 kilometers per hour. The atmosphere is loud, colorful, and filled with passionate Ferrari supporters known as the Tifosi.",
+        "ko": "매년 9월이 되면 모터스포츠 팬들의 이목은 이탈리아 그랑프리가 열리는 몬차 국립 서킷으로 집중됩니다. '속도의 신전'으로 불리는 몬차는 F1 레이스카가 시속 350킬로미터 이상으로 질주하는 긴 직선 주로가 특징입니다. 경기장은 시끄럽고 다채로우며 '티포시'라 불리는 열정적인 페라리 팬들로 가득합니다.",
         "sentences": [
           {
-            "en": "Computer security experts are studying how smart artificial intelligence programs behave online.",
-            "ko": "컴퓨터 보안 전문가들은 AI 프로그램의 온라인 행동을 연구하고 있습니다."
+            "en": "Every September, motorsport fans turn their attention to the Autodromo Nazionale Monza for the Italian Grand Prix.",
+            "ko": "매년 9월 모터스포츠 팬들의 관심은 이탈리아 몬차 서킷으로 집중됩니다."
           },
           {
-            "en": "Recent tests show that teams of AI agents can scan websites and find software weaknesses without human help.",
-            "ko": "최근 테스트에 따르면 AI 에이전트는 사람 없이도 웹 취약점을 찾을 수 있습니다."
+            "en": "Known as the Temple of Speed, Monza features long straight tracks where Formula 1 cars reach speeds over 350 kilometers per hour.",
+            "ko": "'속도의 신전' 몬차는 시속 350km가 넘는 초고속 직선 코스로 유명합니다."
           },
           {
-            "en": "Once an agent discovers a flaw, it can write computer code to test if the door is open.",
-            "ko": "취약점을 찾으면 보안 문이 열려 있는지 테스트하는 코드를 작성합니다."
-          },
-          {
-            "en": "This happens much faster than traditional human testing.",
-            "ko": "이는 전통적인 사람이 하던 테스트보다 훨씬 더 빠릅니다."
+            "en": "The atmosphere is loud, colorful, and filled with passionate Ferrari supporters known as the Tifosi.",
+            "ko": "경기장 분위기는 열정적인 페라리 팬인 '티포시'들의 붉은 물결로 가득합니다."
           }
         ]
       },
       {
-        "en": "Major AI companies like OpenAI and Google are working hard to build safety rules. They want to make sure helpful assistants cannot be tricked into doing harmful things. However, some clever hackers still try to give confusing commands to bypass these rules. As AI models learn to use computer tools and files, maintaining strong digital defenses becomes essential.",
-        "ko": "오픈AI나 구글 같은 주요 AI 기업들은 안전 규칙을 세우기 위해 열심히 노력하고 있습니다. 그들은 유용한 AI 도우미가 해로운 일을 하도록 속임수에 넘어가지 않기를 바랍니다. 하지만 일부 교묘한 해커들은 여전히 이러한 규칙을 우회하기 위해 혼란스러운 명령어를 시도합니다. AI 모델이 컴퓨터 도구와 파일을 다루는 법을 배우면서 강력한 디지털 방어를 유지하는 것이 필수적이 되었습니다.",
+        "en": "Tire strategy is crucial on this fast circuit because cars race with low downforce to maximize top speed. Drivers must brake aggressively from high speeds into narrow chicanes without locking their front tires. Ferrari drivers used a bold one-stop pit strategy to challenge the dominant Red Bull and McLaren cars.",
+        "ko": "최고 속도를 극대화하기 위해 다운포스를 낮추고 달리는 이 고속 서킷에서는 타이어 전략이 매우 중요합니다. 드라이버들은 앞 타이어가 헛돌지 않도록 주의하며 고속에서 좁은 시케인 코너로 급격하게 감속해야 합니다. 페라리 드라이버들은 과감한 1스톱 피트스톱 전략으로 강력한 레드불과 맥라렌 차량에 맞섰습니다.",
         "sentences": [
           {
-            "en": "Major AI companies like OpenAI and Google are working hard to build safety rules.",
-            "ko": "오픈AI와 구글 등 주요 기업들은 안전 규칙을 만들기 위해 힘쓰고 있습니다."
+            "en": "Tire strategy is crucial on this fast circuit because cars race with low downforce to maximize top speed.",
+            "ko": "최고 속도를 높이기 위해 날개를 낮추기 때문에 타이어 관리가 결정적입니다."
           },
           {
-            "en": "They want to make sure helpful assistants cannot be tricked into doing harmful things.",
-            "ko": "AI 비서가 나쁜 행동을 하도록 속임수에 넘어가지 않게 방지합니다."
+            "en": "Drivers must brake aggressively from high speeds into narrow chicanes without locking their front tires.",
+            "ko": "드라이버들은 좁은 코너를 돌기 위해 고속에서 급격하게 브레이크를 밟아야 합니다."
           },
           {
-            "en": "However, some clever hackers still try to give confusing commands to bypass these rules.",
-            "ko": "하지만 일부 해커들은 규칙을 피하기 위해 교묘한 명령어를 시도합니다."
-          },
-          {
-            "en": "As AI models learn to use computer tools and files, maintaining strong digital defenses becomes essential.",
-            "ko": "AI가 컴퓨터 도구를 다루게 되면서 철저한 방어가 필수가 되었습니다."
+            "en": "Ferrari drivers used a bold one-stop pit strategy to challenge the dominant Red Bull and McLaren cars.",
+            "ko": "페라리는 과감한 1스톱 타이어 전략으로 경쟁 팀들의 허를 찔렀습니다."
           }
         ]
       },
       {
-        "en": "To defend against these threats, security teams are building defensive AI guardians. These programs watch for suspicious computer activity twenty-four hours a day. When an unusual request appears, the guardian blocks it immediately. By combining smart software with alert human experts, companies can keep user data safe and secure.",
-        "ko": "이러한 위협을 막기 위해 보안팀은 방어용 AI 수호자를 구축하고 있습니다. 이 프로그램들은 하루 24시간 동안 의심스러운 컴퓨터 활동을 감시합니다. 평소와 다른 비정상적인 요청이 나타나면 수호자가 이를 즉시 차단합니다. 똑똑한 소프트웨어와 경계심을 늦추지 않는 인간 전문가가 힘을 합쳐 기업들은 사용자의 데이터를 안전하게 지킬 수 있습니다.",
+        "en": "Standing on the famous Monza podium above thousands of cheering fans is every racing driver's dream. When the checkered flag waved, the Italian crowd erupted in joyful celebration. The Italian Grand Prix once again proved that raw speed and emotional human passion create unforgettable sports memories.",
+        "ko": "수천 명의 환호하는 팬들이 내려다보이는 유명한 몬차 포디움에 서는 것은 모든 레이서의 꿈입니다. 체커기가 휘날리자 이탈리아 관중들은 기쁨의 환호성을 터뜨렸습니다. 이번 이탈리아 그랑프리는 압도적인 속도와 뜨거운 인간의 열정이 만나 잊을 수 없는 스포츠 드라마를 만든다는 것을 다시금 증명했습니다.",
         "sentences": [
           {
-            "en": "To defend against these threats, security teams are building defensive AI guardians.",
-            "ko": "이러한 위협에 맞서 보안팀은 방어용 AI 감시 시스템을 만듭니다."
+            "en": "Standing on the famous Monza podium above thousands of cheering fans is every racing driver's dream.",
+            "ko": "수많은 팬들의 환호 속에서 몬차 포디움에 서는 것은 모든 드라이버의 꿈입니다."
           },
           {
-            "en": "These programs watch for suspicious computer activity twenty-four hours a day.",
-            "ko": "이 프로그램들은 하루 24시간 의심스러운 활동을 감시합니다."
+            "en": "When the checkered flag waved, the Italian crowd erupted in joyful celebration.",
+            "ko": "체커기가 펄럭이자 이탈리아 관중들은 열광적인 축제를 시작했습니다."
           },
           {
-            "en": "When an unusual request appears, the guardian blocks it immediately.",
-            "ko": "이상한 요청이 나타나면 방어 시스템이 즉각 차단합니다."
-          },
-          {
-            "en": "By combining smart software with alert human experts, companies can keep user data safe and secure.",
-            "ko": "소프트웨어와 사람 전문가의 협업으로 사용자 데이터를 안전하게 지킵니다."
+            "en": "The Italian Grand Prix once again proved that raw speed and emotional human passion create unforgettable sports memories.",
+            "ko": "이탈리아 그랑프리는 질주하는 속도와 팬들의 열정이 만드는 감동을 선사했습니다."
           }
         ]
       }
     ],
     "takeaways": [
-      "AI 에이전트는 웹사이트의 보안 취약점을 빠르게 발견할 수 있습니다.",
-      "기업들은 AI가 해킹에 오용되지 않도록 안전 가드레일을 지속적으로 강화합니다.",
-      "방어용 실시간 AI 모니터링 시스템으로 사용자 데이터를 철저히 보호합니다."
+      "9월 F1 '속도의 신전' 이탈리아 몬차 서킷에서 시속 350km가 넘는 초고속 레이스가 펼쳐졌습니다.",
+      "홈팀 페라리가 과감한 1스톱 타이어 전략으로 팬 '티포시'들의 열광적인 응원을 이끌어냈습니다.",
+      "저다운포스 세팅과 급제동 시케인 코너링이 몬차 그랑프리 승부의 핵심 열쇠입니다."
     ],
     "quiz": [
       {
-        "question": "How do companies protect their websites from automated AI attacks?",
+        "question": "What nickname is given to the famous Italian Monza racing circuit?",
         "options": [
-          "By using defensive AI guardians to monitor unusual activity 24/7.",
-          "By unplugging all computers forever.",
-          "By ignoring computer security entirely."
+          "The Temple of Speed.",
+          "The Quiet Garden of Turtles.",
+          "The Frozen Mountain Path."
         ],
         "answer": 0,
-        "explanation": "Defensive AI monitors and blocks suspicious requests in real time."
+        "explanation": "Monza is globally known as 'The Temple of Speed' due to its long, super-fast straight tracks."
+      }
+    ]
+  },
+  {
+    "id": "news_tech_01",
+    "title": "Apple Prepares September Global Event: Next-Generation iPhones and On-Device AI",
+    "subtitle": "Tech enthusiasts await new Apple Intelligence features and hardware upgrades at Steve Jobs Theater.",
+    "speaker": "TechCrunch (Cupertino)",
+    "date": "2026-09-06",
+    "category": "tech",
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 248,
+    "keywords": [
+      "#애플이벤트",
+      "#아이폰",
+      "#온디바이스AI",
+      "#애플인텔리전스"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "The global technology industry is getting ready for Apple's annual September launch event in California. Analysts expect Apple to unveil its newest smartphone lineup featuring faster processors and improved cameras. The biggest spotlight this year falls on Apple Intelligence, the company's personal artificial intelligence system.",
+        "ko": "글로벌 테크 업계는 미국 캘리포니아에서 열리는 연례 애플 9월 신제품 발표 행사를 앞두고 준비에 한창입니다. 전문가들은 애플이 더 빠른 프로세서와 향상된 카메라를 탑재한 최신 스마트폰 라인업을 공개할 것으로 예상합니다. 올해 가장 큰 스포트라이트는 애플의 온디바이스 개인화 인공지능 시스템인 '애플 인텔리전스'에 쏠리고 있습니다.",
+        "sentences": [
+          {
+            "en": "The global technology industry is getting ready for Apple's annual September launch event in California.",
+            "ko": "글로벌 IT 업계는 캘리포니아에서 열릴 9월 애플 신제품 발표 이벤트를 기다리고 있습니다."
+          },
+          {
+            "en": "Analysts expect Apple to unveil its newest smartphone lineup featuring faster processors and improved cameras.",
+            "ko": "분석가들은 더 강력한 프로세서와 카메라를 갖춘 새 스마트폰 공개를 예상합니다."
+          },
+          {
+            "en": "The biggest spotlight this year falls on Apple Intelligence, the company's personal artificial intelligence system.",
+            "ko": "올해 가장 큰 관심은 개인화 AI 시스템인 '애플 인텔리전스'에 쏠리고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "Unlike cloud-only systems, on-device AI processes private information directly on the user's phone. This approach protects user privacy and allows instant voice assistant answers even without an active internet connection. Developers are excited to build custom applications that understand user photos, emails, and daily calendar routines.",
+        "ko": "클라우드 전용 시스템과 달리, 온디바이스 AI는 사용자의 스마트폰 기기 내부에서 개인정보를 직접 처리합니다. 이러한 방식은 사용자 프라이버시를 안전하게 보호하며 인터넷 연결이 없는 상태에서도 음성 비서의 즉각적인 응답을 가능하게 합니다. 개발자들은 사용자의 사진, 이메일, 일상 캘린더 일정을 이해하는 맞춤형 앱 개발에 기대를 모으고 있습니다.",
+        "sentences": [
+          {
+            "en": "Unlike cloud-only systems, on-device AI processes private information directly on the user's phone.",
+            "ko": "온디바이스 AI는 개인정보를 스마트폰 내부에서 안전하게 직접 처리합니다."
+          },
+          {
+            "en": "This approach protects user privacy and allows instant voice assistant answers even without an active internet connection.",
+            "ko": "인터넷이 없어도 즉각 반응하며 사용자의 소중한 개인정보를 보호합니다."
+          },
+          {
+            "en": "Developers are excited to build custom applications that understand user photos, emails, and daily calendar routines.",
+            "ko": "개발자들은 사용자의 일상과 사진을 이해하는 새로운 맞춤형 앱 개발에 집중하고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "Industry rivals like Google and Samsung are also releasing intelligent mobile devices with neural chips. As smartphones become smarter everyday companions, consumers will enjoy smoother translation, photo editing, and automated note summaries. The September showcase will set the design trends for the entire electronics market heading into the holiday shopping season.",
+        "ko": "구글과 삼성 같은 업계 라이벌들도 신경망 칩(NPU)을 탑재한 지능형 모바일 기기를 연이어 선보이고 있습니다. 스마트폰이 일상 속 똑똑한 동반자로 진화함에 따라 소비자들은 더욱 매끄러운 실시간 통번역, 사진 편집, 자동 메모 요약 기능을 누릴 수 있게 될 것입니다. 이번 9월 신제품 공개는 연말 쇼핑 시즌을 앞두고 글로벌 전자제품 시장의 디자인 트렌드를 선도할 것입니다.",
+        "sentences": [
+          {
+            "en": "Industry rivals like Google and Samsung are also releasing intelligent mobile devices with neural chips.",
+            "ko": "구글과 삼성 등 라이벌 기업들도 신경망 칩 기반의 스마트 기기를 출시하고 있습니다."
+          },
+          {
+            "en": "As smartphones become smarter everyday companions, consumers will enjoy smoother translation, photo editing, and automated note summaries.",
+            "ko": "스마트폰이 똑똑해지면서 번역, 사진 편집, 문서 요약이 한층 편리해집니다."
+          },
+          {
+            "en": "The September showcase will set the design trends for the entire electronics market heading into the holiday shopping season.",
+            "ko": "이번 9월 행사는 올가을과 연말 IT 시장의 트렌드를 결정지을 것입니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "9월 애플 글로벌 이벤트에서 차세대 스마트폰과 개인 맞춤형 '애플 인텔리전스'가 공개됩니다.",
+      "온디바이스(On-device) AI 기술로 인터넷 연결 없이도 안전하고 빠른 프라이버시 중심 AI 처리가 가능해집니다.",
+      "모바일 기기 전반에 신경망 NPU가 보편화되면서 실시간 번역과 자동 요약 기능이 대폭 강화됩니다."
+    ],
+    "quiz": [
+      {
+        "question": "What is a major advantage of on-device AI compared to cloud-only AI?",
+        "options": [
+          "It protects user privacy by processing data directly on the phone.",
+          "It requires users to mail their phones to California every week.",
+          "It makes the phone screen completely black permanently."
+        ],
+        "answer": 0,
+        "explanation": "On-device AI keeps personal data secure on the user's hardware without sending everything to cloud servers."
+      }
+    ]
+  },
+  {
+    "id": "news_tech_02",
+    "title": "The Rise of Reasoning AI Agents: How Intelligent Models Transform Software",
+    "subtitle": "New artificial intelligence models can plan complex tasks, fix code, and think step-by-step.",
+    "speaker": "MIT Technology Review (Boston)",
+    "date": "2026-09-06",
+    "category": "tech",
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 246,
+    "keywords": [
+      "#AI에이전트",
+      "#소프트웨어",
+      "#추론모델",
+      "#자율코딩"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "Artificial intelligence is advancing beyond simple chat conversations into active software agents. Researchers have developed new reasoning models that can break complicated goals down into smaller, logical steps. Instead of just predicting the next word, these autonomous systems check their own work and correct mistakes before giving an answer.",
+        "ko": "인공지능이 단순한 대화형 챗봇을 넘어 스스로 행동하는 소프트웨어 에이전트로 빠르게 진화하고 있습니다. 연구자들은 복잡한 목표를 더 작고 논리적인 단계로 나누어 처리할 수 있는 새로운 추론형 AI 모델을 개발했습니다. 이 자율 시스템들은 단순히 다음 단어를 예측하는 것에 그치지 않고, 최종 답변을 내놓기 전에 자신의 작업을 스스로 검토하고 오류를 수정합니다.",
+        "sentences": [
+          {
+            "en": "Artificial intelligence is advancing beyond simple chat conversations into active software agents.",
+            "ko": "인공지능이 단순한 챗봇을 넘어 능동적인 소프트웨어 에이전트로 진화하고 있습니다."
+          },
+          {
+            "en": "Researchers have developed new reasoning models that can break complicated goals down into smaller, logical steps.",
+            "ko": "연구자들은 복잡한 과제를 작은 논리적 단위로 나누는 추론 모델을 개발했습니다."
+          },
+          {
+            "en": "Instead of just predicting the next word, these autonomous systems check their own work and correct mistakes before giving an answer.",
+            "ko": "이 시스템은 단어를 예측하는 대신 스스로 오류를 검토하고 수정합니다."
+          }
+        ]
+      },
+      {
+        "en": "In modern software development, AI agents help engineers write clean code, discover hidden security bugs, and manage cloud servers. Programmers describe what feature they want to build, and the agent writes test cases to verify the code works. This collaboration saves hundreds of hours and speeds up the delivery of useful computer tools.",
+        "ko": "현대 소프트웨어 개발 환경에서 AI 에이전트는 엔지니어들이 깔끔한 코드를 작성하고 숨겨진 보안 취약점을 찾아내며 클라우드 서버를 관리하도록 돕습니다. 프로그래머가 만들고자 하는 기능을 설명하면 에이전트가 코드가 정상 작동하는지 검증하는 테스트 케이스까지 작성합니다. 이러한 협업은 수백 시간의 작업 시간을 아껴주고 유용한 소프트웨어 도구의 출시를 크게 앞당깁니다.",
+        "sentences": [
+          {
+            "en": "In modern software development, AI agents help engineers write clean code, discover hidden security bugs, and manage cloud servers.",
+            "ko": "AI 에이전트는 엔지니어가 코드를 작성하고 버그를 찾으며 서버를 관리하도록 돕습니다."
+          },
+          {
+            "en": "Programmers describe what feature they want to build, and the agent writes test cases to verify the code works.",
+            "ko": "개발자가 기능을 설명하면 에이전트가 테스트 코드까지 작성해 검증합니다."
+          },
+          {
+            "en": "This collaboration saves hundreds of hours and speeds up the delivery of useful computer tools.",
+            "ko": "이러한 인간과 AI의 협업은 개발 시간을 단축하고 업무 효율을 극대화합니다."
+          }
+        ]
+      },
+      {
+        "en": "However, computer scientists emphasize that human supervision remains essential for safety and ethical standards. Agents must follow clear behavioral guidelines so they do not delete important files or produce incorrect calculations. As reasoning capabilities grow, people will spend less time on repetitive digital chores and more time on creative problem-solving.",
+        "ko": "그러나 컴퓨터 과학자들은 안전성과 윤리적 기준을 위해 인간의 감독이 여전히 필수적이라고 강조합니다. 에이전트가 중요한 파일을 실수로 삭제하거나 잘못된 계산을 내놓지 않도록 명확한 행동 규칙을 지키게 해야 합니다. AI의 추론 능력이 발전할수록 사람들은 반복적인 디지털 잡무에서 벗어나 창의적인 문제 해결에 더 많은 시간을 쏟게 될 것입니다.",
+        "sentences": [
+          {
+            "en": "However, computer scientists emphasize that human supervision remains essential for safety and ethical standards.",
+            "ko": "그러나 안전과 윤리를 위해 인간의 감독과 가이드라인은 여전히 중요합니다."
+          },
+          {
+            "en": "Agents must follow clear behavioral guidelines so they do not delete important files or produce incorrect calculations.",
+            "ko": "중요한 파일 삭제나 계산 오류를 방지하기 위해 엄격한 규칙 준수가 필요합니다."
+          },
+          {
+            "en": "As reasoning capabilities grow, people will spend less time on repetitive digital chores and more time on creative problem-solving.",
+            "ko": "AI가 발전할수록 인류는 반복 작업 대신 창의적인 문제 해결에 집중하게 됩니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "새로운 추론형 AI 모델이 작업을 단계별로 분해하고 자체 검증하는 자율 에이전트 시대를 열고 있습니다.",
+      "소프트웨어 엔지니어링에서 코드 생성, 버그 진단, 테스트 자동화까지 에이전트가 보조합니다.",
+      "오류 방지와 안전한 시스템 운영을 위해 명확한 행동 가이드라인과 인간의 감독이 강조됩니다."
+    ],
+    "quiz": [
+      {
+        "question": "How do reasoning AI agents differ from standard text generation models?",
+        "options": [
+          "They break problems into logical steps and check their work for errors.",
+          "They refuse to run on any computer connected to electricity.",
+          "They can only understand ancient Egyptian hieroglyphics."
+        ],
+        "answer": 0,
+        "explanation": "Reasoning agents break complex goals into structured sub-steps and self-verify their outputs."
+      }
+    ]
+  },
+  {
+    "id": "news_science_01",
+    "title": "NASA's Europa Clipper: Final Preparations for Mission to Jupiter's Ocean Moon",
+    "subtitle": "Scientists at Kennedy Space Center prepare the flagship spacecraft to search for conditions suitable for life.",
+    "speaker": "NASA Science News (Florida)",
+    "date": "2026-09-06",
+    "category": "science",
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 248,
+    "keywords": [
+      "#NASA",
+      "#에우로파클리퍼",
+      "#목성탐사",
+      "#우주생명체"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "At Kennedy Space Center in Florida, NASA engineers are finishing final safety checks on the Europa Clipper spacecraft. This ambitious flagship mission will travel hundreds of millions of kilometers to explore Europa, an icy moon orbiting Jupiter. Planetary scientists believe Europa hides a vast saltwater ocean beneath its frozen crust.",
+        "ko": "미국 플로리다주 케네디 우주센터에서 NASA 엔지니어들이 '에우로파 클리퍼' 우주선의 최종 안전 점검을 마무리하고 있습니다. 이 야심 찬 플래그십 우주 미션은 수억 킬로미터를 날아가 목성의 궤도를 도는 얼음 위성 에우로파를 집중 탐사할 예정입니다. 행성 과학자들은 에우로파의 두꺼운 얼음 지각 아래에 거대한 소금물 바다가 숨겨져 있다고 믿고 있습니다.",
+        "sentences": [
+          {
+            "en": "At Kennedy Space Center in Florida, NASA engineers are finishing final safety checks on the Europa Clipper spacecraft.",
+            "ko": "NASA 엔지니어들이 플로리다에서 에우로파 클리퍼 탐사선 최종 점검을 진행 중입니다."
+          },
+          {
+            "en": "This ambitious flagship mission will travel hundreds of millions of kilometers to explore Europa, an icy moon orbiting Jupiter.",
+            "ko": "이 탐사선은 수억 킬로미터를 날아가 목성의 얼음 위성 에우로파를 탐사합니다."
+          },
+          {
+            "en": "Planetary scientists believe Europa hides a vast saltwater ocean beneath its frozen crust.",
+            "ko": "과학자들은 에우로파 얼음 표면 아래에 거대한 바다가 존재한다고 보고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "Europa Clipper is the largest planetary spacecraft NASA has ever built for an interplanetary journey. It carries massive solar arrays that stretch as wide as a basketball court to gather faint sunlight near Jupiter. Advanced radar instruments will peer through the ice to measure the depth and chemical makeup of the hidden global sea.",
+        "ko": "에우로파 클리퍼는 NASA가 행성 간 탐사를 위해 제작한 우주선 중 역사상 가장 큰 크기를 자랑합니다. 목성 주변의 희미한 햇빛을 모으기 위해 농구 코트 크기만큼 넓게 펼쳐지는 거대한 태양광 패널 날개를 장착했습니다. 최첨단 얼음 투과 레이더 장비는 두꺼운 얼음을 뚫고 들어가 숨겨진 바다의 깊이와 화학적 성분을 측정할 것입니다.",
+        "sentences": [
+          {
+            "en": "Europa Clipper is the largest planetary spacecraft NASA has ever built for an interplanetary journey.",
+            "ko": "에우로파 클리퍼는 NASA가 행성 탐사를 위해 만든 우주선 중 역대 최대 규모입니다."
+          },
+          {
+            "en": "It carries massive solar arrays that stretch as wide as a basketball court to gather faint sunlight near Jupiter.",
+            "ko": "목성의 약한 햇빛을 모으기 위해 농구장 크기의 거대한 태양광 패널을 탑재했습니다."
+          },
+          {
+            "en": "Advanced radar instruments will peer through the ice to measure the depth and chemical makeup of the hidden global sea.",
+            "ko": "첨단 투과 레이더가 얼음 아래 바다의 깊이와 화학 성분을 정밀 측정합니다."
+          }
+        ]
+      },
+      {
+        "en": "The mission does not search directly for alien life, but rather seeks the essential ingredients: liquid water, energy, and organic chemicals. Finding that a habitable environment exists so far from the Sun would change our understanding of biology forever. Space fans around the world are counting down the days until launch.",
+        "ko": "이번 탐사는 외계 생명체를 직접 찾는 것이 아니라, 생명체가 살 수 있는 필수 요소인 액체 상태의 물, 에너지원, 유기 화합물이 존재하는지 확인하는 것을 목표로 합니다. 태양에서 이토록 멀리 떨어진 얼음 세상에 생명 친화적 환경이 존재한다는 것이 밝혀진다면 인류의 생명관은 영원히 바뀔 것입니다. 전 세계 우주 애호가들은 발사의 그날을 손꼽아 기다리고 있습니다.",
+        "sentences": [
+          {
+            "en": "The mission does not search directly for alien life, but rather seeks the essential ingredients: liquid water, energy, and organic chemicals.",
+            "ko": "이번 미션의 목표는 물, 에너지, 유기물 등 생명체 서식 가능 환경을 확인하는 것입니다."
+          },
+          {
+            "en": "Finding that a habitable environment exists so far from the Sun would change our understanding of biology forever.",
+            "ko": "태양과 먼 곳에서 생명 환경을 발견한다면 우주 생물학의 패러다임이 바뀝니다."
+          },
+          {
+            "en": "Space fans around the world are counting down the days until launch.",
+            "ko": "전 세계의 수많은 팬들이 역사적인 발사 카운트다운을 기다리고 있습니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "NASA의 역대 최대 행성 탐사선 에우로파 클리퍼가 목성의 얼음 위성 에우로파로 향할 준비를 마쳤습니다.",
+      "농구장 크기의 태양광 패널과 얼음 투과 레이더로 표면 아래 거대한 바다의 성분을 분석합니다.",
+      "액체 상태의 물과 에너지, 유기물의 존재 여부를 밝혀 태양계 생명 서식 가능성의 비밀을 풉니다."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary scientific goal of NASA's Europa Clipper mission?",
+        "options": [
+          "To determine if conditions suitable for life exist beneath Europa's icy surface.",
+          "To build human hotels and golf courses on Jupiter's gas rings.",
+          "To melt the moon of Europa completely using giant lasers."
+        ],
+        "answer": 0,
+        "explanation": "Europa Clipper investigates whether Europa's subsurface ocean possesses the ingredients for life."
+      }
+    ]
+  },
+  {
+    "id": "news_science_02",
+    "title": "James Webb Space Telescope Spots Habitable Exoplanet Atmospheres in Deep Space",
+    "subtitle": "Astronomers discover signs of water vapor and carbon molecules around distant rocky worlds.",
+    "speaker": "Nature Astronomy (Baltimore)",
+    "date": "2026-09-06",
+    "category": "science",
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 244,
+    "keywords": [
+      "#제임스웹",
+      "#우주망원경",
+      "#외계행성",
+      "#생명체신호"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "The James Webb Space Telescope continues to revolutionize astronomy by revealing secrets of deep cosmic space. Orbiting one million miles away from Earth, its giant gold-coated mirrors detect faint infrared light from faraway star systems. Recently, scientists analyzed starlight passing through the atmosphere of a rocky exoplanet located forty light-years away.",
+        "ko": "제임스 웹 우주망원경은 깊은 우주의 비밀을 밝혀내며 천문학의 역사를 새로 쓰고 있습니다. 지구에서 150만 킬로미터(100만 마일) 떨어진 궤도를 돌며, 거대한 금빛 반사경을 통해 먼 별빛에서 나오는 희미한 적외선을 포착합니다. 최근 과학자들은 지구에서 40광년 떨어진 암석형 외계 행성의 대기를 통과한 별빛 스펙트럼을 정밀 분석했습니다.",
+        "sentences": [
+          {
+            "en": "The James Webb Space Telescope continues to revolutionize astronomy by revealing secrets of deep cosmic space.",
+            "ko": "제임스 웹 우주망원경은 우주의 비밀을 밝히며 천문학을 혁신하고 있습니다."
+          },
+          {
+            "en": "Orbiting one million miles away from Earth, its giant gold-coated mirrors detect faint infrared light from faraway star systems.",
+            "ko": "지구에서 100만 마일 떨어진 궤도에서 희미한 적외선 빛을 포착합니다."
+          },
+          {
+            "en": "Recently, scientists analyzed starlight passing through the atmosphere of a rocky exoplanet located forty light-years away.",
+            "ko": "과학자들은 40광년 떨어진 암석 외계 행성의 대기를 통과한 빛을 분석했습니다."
+          }
+        ]
+      },
+      {
+        "en": "By studying the colors of light absorbed by the planet's sky, researchers detected traces of water vapor, carbon dioxide, and methane. These chemical signatures suggest that rocky worlds around smaller red dwarf stars can hold onto thick atmospheres. Previously, many astronomers worried that intense solar flares would blow away protective planetary skies.",
+        "ko": "행성의 대기에 흡수된 빛의 색상 파장을 분석함으로써 연구진은 수증기, 이산화탄소, 메탄의 흔적을 검출하는 데 성공했습니다. 이러한 화학적 지표는 작은 적색왜성 주변을 공전하는 암석 행성들도 두터운 대기를 보존할 수 있음을 시사합니다. 이전까지 많은 천문학자들은 강한 항성 플레어가 행성의 보호 대기를 날려버릴 것이라 우려했었습니다.",
+        "sentences": [
+          {
+            "en": "By studying the colors of light absorbed by the planet's sky, researchers detected traces of water vapor, carbon dioxide, and methane.",
+            "ko": "빛의 스펙트럼을 연구하여 대기 속 수증기, 이산화탄소, 메탄의 흔적을 찾았습니다."
+          },
+          {
+            "en": "These chemical signatures suggest that rocky worlds around smaller red dwarf stars can hold onto thick atmospheres.",
+            "ko": "이는 작은 별 주위의 암석 행성도 두꺼운 대기를 유지할 수 있음을 보여줍니다."
+          },
+          {
+            "en": "Previously, many astronomers worried that intense solar flares would blow away protective planetary skies.",
+            "ko": "이전에는 항성의 폭발로 대기가 모두 날아갔을 것이라는 우려가 많았습니다."
+          }
+        ]
+      },
+      {
+        "en": "Finding water vapor on a rocky exoplanet brings humanity one step closer to answering whether we are alone in the universe. Astronomers are now planning longer observations to confirm surface temperatures and weather patterns. The golden eye of the telescope is opening a new golden era of cosmic discovery.",
+        "ko": "암석형 외계 행성에서 수증기를 발견한 것은 '우주에 우리만 존재하는가'라는 오랜 질문에 인류가 한 걸음 더 다가섰음을 의미합니다. 천문학자들은 이제 행성의 표면 온도와 기상 패턴을 확인하기 위해 더 긴 관측 일정을 계획하고 있습니다. 제임스 웹 망원경의 황금빛 눈동자가 우주 탐사의 찬란한 황금기를 활짝 열어가고 있습니다.",
+        "sentences": [
+          {
+            "en": "Finding water vapor on a rocky exoplanet brings humanity one step closer to answering whether we are alone in the universe.",
+            "ko": "암석 행성에서 수증기를 찾음으로써 우주 생명체 확인에 한 걸음 더 다가섰습니다."
+          },
+          {
+            "en": "Astronomers are now planning longer observations to confirm surface temperatures and weather patterns.",
+            "ko": "천문학자들은 표면 온도와 날씨 패턴을 확인하기 위해 추가 관측을 준비 중입니다."
+          },
+          {
+            "en": "The golden eye of the telescope is opening a new golden era of cosmic discovery.",
+            "ko": "제임스 웹 망원경의 눈을 통해 우주 탐사의 새로운 전성기가 열리고 있습니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "제임스 웹 우주망원경이 40광년 밖 암석형 외계 행성 대기에서 수증기와 이산화탄소를 포착했습니다.",
+      "적색왜성 주변 행성도 대기를 보존할 수 있음이 확인되어 거주 가능 행성의 후보군이 크게 넓어졌습니다.",
+      "외계 생명체 거주 가능성 확인을 위해 표면 온도와 대기 순환에 대한 정밀 후속 관측이 진행됩니다."
+    ],
+    "quiz": [
+      {
+        "question": "What important chemical signs did the James Webb telescope detect in the exoplanet's atmosphere?",
+        "options": [
+          "Water vapor, carbon dioxide, and methane.",
+          "Liquid gasoline and diesel fuel oceans.",
+          "Solid gold bars falling from the clouds."
+        ],
+        "answer": 0,
+        "explanation": "Scientists detected water vapor, carbon dioxide, and methane in the atmosphere of the rocky world."
+      }
+    ]
+  },
+  {
+    "id": "news_economy_01",
+    "title": "Global Markets Await Federal Reserve September Interest Rate Decision",
+    "subtitle": "Investors and central banks watch closely as inflation cools and employment data takes center stage.",
+    "speaker": "Financial Times (New York)",
+    "date": "2026-09-06",
+    "category": "economy",
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 246,
+    "keywords": [
+      "#연준금리",
+      "#FOMC",
+      "#글로벌경제",
+      "#물가안정"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "Financial markets around the globe are holding their breath ahead of the Federal Reserve's September policy meeting. For two years, the United States central bank kept borrowing costs high to bring down consumer prices. Now, with inflation gradually cooling toward target levels, policymakers face their most important choice of the year.",
+        "ko": "전 세계 금융시장이 미국 연방준비제도(Fed)의 9월 연방공개시장위원회(FOMC) 정책 회의를 앞두고 숨을 죽이고 있습니다. 지난 2년간 미국 중앙은행은 소비자 물가를 잡기 위해 높은 대출 금리를 유지해 왔습니다. 이제 인플레이션이 점차 목표 수준으로 안정되면서 정책 입안자들은 올해 가장 중요한 통화정책 결정을 마주하게 되었습니다.",
+        "sentences": [
+          {
+            "en": "Financial markets around the globe are holding their breath ahead of the Federal Reserve's September policy meeting.",
+            "ko": "전 세계 금융시장이 9월 미 연방준비제도(Fed)의 금리 결정을 숨죽여 기다리고 있습니다."
+          },
+          {
+            "en": "For two years, the United States central bank kept borrowing costs high to bring down consumer prices.",
+            "ko": "미 중앙은행은 물가를 안정시키기 위해 지난 2년간 고금리 기조를 유지했습니다."
+          },
+          {
+            "en": "Now, with inflation gradually cooling toward target levels, policymakers face their most important choice of the year.",
+            "ko": "물가가 안정세로 돌아서면서 올해 가장 중요한 금리 결정의 순간을 맞았습니다."
+          }
+        ]
+      },
+      {
+        "en": "Lowering interest rates makes home mortgages and business loans cheaper, encouraging economic activity and hiring. However, moving too quickly could cause price inflation to return and hurt consumer wallets. Chairman Jerome Powell emphasized that the Fed will study fresh jobs reports before making any final monetary adjustments.",
+        "ko": "금리를 인하하면 주택 담보 대출과 기업 대출 이자 부담이 줄어들어 전반적인 경제 활동과 고용이 활성화됩니다. 하지만 금리를 너무 급격하게 내리면 물가가 다시 치솟아 소비자들의 살림살이에 부담을 줄 위험이 있습니다. 제롬 파월 연준 의장은 최종 통화 정책을 결정하기 전에 최신 고용 지표를 면밀히 검토할 것이라고 강조했습니다.",
+        "sentences": [
+          {
+            "en": "Lowering interest rates makes home mortgages and business loans cheaper, encouraging economic activity and hiring.",
+            "ko": "금리를 낮추면 대출 부담이 줄어 경제 투자와 고용이 활성화됩니다."
+          },
+          {
+            "en": "However, moving too quickly could cause price inflation to return and hurt consumer wallets.",
+            "ko": "그러나 금리를 너무 서둘러 내리면 물가가 다시 반등할 위험이 있습니다."
+          },
+          {
+            "en": "Chairman Jerome Powell emphasized that the Fed will study fresh jobs reports before making any final monetary adjustments.",
+            "ko": "파월 의장은 최종 결정 전에 최신 고용 보고서를 철저히 분석할 것이라고 밝혔습니다."
+          }
+        ]
+      },
+      {
+        "en": "Stock markets in New York, Tokyo, and Seoul have experienced volatile trading days as investors adjust their portfolios. Businesses hope lower borrowing costs will support investments in green energy and artificial intelligence infrastructure. The coming policy announcement will set the economic tone for international trade for the rest of the year.",
+        "ko": "뉴욕, 도쿄, 서울의 주식시장은 투자자들이 포트폴리오 비중을 재조정하면서 변동성 높은 장세를 보이고 있습니다. 기업들은 대출 비용이 낮아지면 친환경 에너지와 인공지능 인프라 구축에 대한 투자가 더욱 탄력을 받을 것으로 기대하고 있습니다. 곧 발표될 금리 정책은 남은 한 해 동안 글로벌 무역과 금융 시장의 방향타 역할을 할 것입니다.",
+        "sentences": [
+          {
+            "en": "Stock markets in New York, Tokyo, and Seoul have experienced volatile trading days as investors adjust their portfolios.",
+            "ko": "투자자들의 포트폴리오 조정 속에 뉴욕, 도쿄, 서울 증시의 변동성이 커졌습니다."
+          },
+          {
+            "en": "Businesses hope lower borrowing costs will support investments in green energy and artificial intelligence infrastructure.",
+            "ko": "기업들은 금리 인하가 친환경 에너지와 AI 인프라 투자 확대로 이어지길 바랍니다."
+          },
+          {
+            "en": "The coming policy announcement will set the economic tone for international trade for the rest of the year.",
+            "ko": "이번 금리 결정은 올 하반기 글로벌 경제와 무역의 흐름을 결정짓게 됩니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "9월 미국 연방준비제도(Fed)의 금리 결정을 앞두고 전 세계 투자자들의 이목이 집중되고 있습니다.",
+      "인플레이션 안정세와 고용 지표 둔화 신호 속에서 금리 인하 시점과 폭에 대한 논의가 활발합니다.",
+      "금리 결정은 기업 대출 부담 완화 및 AI·친환경 투자 활성화에 직접적인 영향을 미칩니다."
+    ],
+    "quiz": [
+      {
+        "question": "What is one expected benefit when a central bank lowers interest rates?",
+        "options": [
+          "Borrowing money becomes cheaper for homebuyers and growing businesses.",
+          "All bank accounts are immediately deleted by government officials.",
+          "Money stops being used and people trade exclusively with seashells."
+        ],
+        "answer": 0,
+        "explanation": "Lower interest rates reduce borrowing costs, making loans cheaper for citizens and enterprises."
+      }
+    ]
+  },
+  {
+    "id": "news_economy_02",
+    "title": "The Global AI Chip Frontier: New Semiconductor Mega-Foundries Take Shape",
+    "subtitle": "Nations race to build domestic chip manufacturing plants to secure the future of artificial intelligence.",
+    "speaker": "Bloomberg Technology (Taipei)",
+    "date": "2026-09-06",
+    "category": "economy",
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 245,
+    "keywords": [
+      "#반도체",
+      "#AI칩",
+      "#파운드리",
+      "#공급망"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "A historic construction boom is transforming the semiconductor industry across Asia, North America, and Europe. Governments are spending billions of dollars in subsidies to build giant chip manufacturing factories known as foundries. As artificial intelligence applications multiply, high-speed graphics chips and fast memory processors have become vital national assets.",
+        "ko": "아시아, 북미, 유럽에 걸쳐 반도체 제조 공장 건설 붐이 역사적인 규모로 일어나고 있습니다. 각국 정부는 '파운드리'로 불리는 거대한 반도체 생산 공장을 유치하기 위해 수십억 달러의 보조금을 투입하고 있습니다. 인공지능 응용 서비스가 폭발적으로 늘어나면서 초고속 그래픽 칩과 고대역폭 메모리 반도체는 국가의 핵심 자산이 되었습니다.",
+        "sentences": [
+          {
+            "en": "A historic construction boom is transforming the semiconductor industry across Asia, North America, and Europe.",
+            "ko": "아시아, 북미, 유럽 전역에서 거대한 반도체 공장 건설 붐이 일고 있습니다."
+          },
+          {
+            "en": "Governments are spending billions of dollars in subsidies to build giant chip manufacturing factories known as foundries.",
+            "ko": "각국 정부는 첨단 파운드리 공장을 짓기 위해 막대한 보조금을 지원하고 있습니다."
+          },
+          {
+            "en": "As artificial intelligence applications multiply, high-speed graphics chips and fast memory processors have become vital national assets.",
+            "ko": "AI 수요가 폭증하면서 고성능 그래픽 칩과 메모리는 핵심 전략 자산이 되었습니다."
+          }
+        ]
+      },
+      {
+        "en": "Building modern microchip fabrication plants requires extreme technical precision. Cleanrooms inside these facilities must be thousands of times cleaner than hospital operating rooms to avoid microscopic dust. Advanced lithography machines use extreme ultraviolet light to carve microscopic circuits that are thinner than a single strand of human DNA.",
+        "ko": "현대적인 반도체 제조 공장을 건설하기 위해서는 극한의 기술적 정밀도가 요구됩니다. 이 시설 내부의 클린룸은 눈에 보이지 않는 미세 먼지를 막기 위해 일반 병원 수술실보다 수천 배 더 청정해야 합니다. 첨단 극자외선(EUV) 노광 장비는 인간 DNA 한 가닥보다 더 얇은 미세 회로를 웨이퍼 위에 정밀하게 새겨 넣습니다.",
+        "sentences": [
+          {
+            "en": "Building modern microchip fabrication plants requires extreme technical precision.",
+            "ko": "첨단 반도체 팹을 건설하는 데는 극한의 기술 정밀도가 필요합니다."
+          },
+          {
+            "en": "Cleanrooms inside these facilities must be thousands of times cleaner than hospital operating rooms to avoid microscopic dust.",
+            "ko": "클린룸은 미세 먼지를 막기 위해 병원 수술실보다 수천 배 깨끗해야 합니다."
+          },
+          {
+            "en": "Advanced lithography machines use extreme ultraviolet light to carve microscopic circuits that are thinner than a single strand of human DNA.",
+            "ko": "극자외선(EUV) 장비는 DNA 한 가닥보다 얇은 미세 회로를 새겨 넣습니다."
+          }
+        ]
+      },
+      {
+        "en": "Securing local chip production shields countries from geopolitical tensions and shipping supply chain delays. Semiconductor leaders like TSMC, Samsung, and Intel are training thousands of specialized engineers to operate these high-tech plants. The race to manufacture tomorrow's AI silicon will determine global technological leadership for decades to come.",
+        "ko": "자국 내에 반도체 생산 기지를 확보하는 것은 지정학적 갈등과 글로벌 공급망 물류 대란의 위험으로부터 국가 경제를 보호합니다. TSMC, 삼성, 인텔과 같은 반도체 선도 기업들은 이 첨단 공장들을 가동하기 위해 수천 명의 전문 엔지니어를 육성하고 있습니다. 미래 AI 반도체를 제조하기 위한 글로벌 경쟁은 향후 수십 년간의 세계 기술 패권을 결정지을 것입니다.",
+        "sentences": [
+          {
+            "en": "Securing local chip production shields countries from geopolitical tensions and shipping supply chain delays.",
+            "ko": "자국 내 칩 생산 기지 확보는 지정학적 리스크와 공급망 위기를 막아줍니다."
+          },
+          {
+            "en": "Semiconductor leaders like TSMC, Samsung, and Intel are training thousands of specialized engineers to operate these high-tech plants.",
+            "ko": "TSMC, 삼성, 인텔 등은 첨단 팹 가동을 위해 전문 엔지니어를 대거 양성하고 있습니다."
+          },
+          {
+            "en": "The race to manufacture tomorrow's AI silicon will determine global technological leadership for decades to come.",
+            "ko": "차세대 AI 칩 제조 경쟁은 향후 수십 년간의 글로벌 기술 리더십을 좌우합니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "전 세계적으로 AI 반도체 자급률을 높이기 위한 메가 파운드리 건설 투자가 가속화되고 있습니다.",
+      "병원 수술실보다 수천 배 깨끗한 클린룸과 극자외선(EUV) 미세 공정이 기술 경쟁력의 핵심입니다.",
+      "국가별 반도체 보조금 정책과 글로벌 공급망 다변화가 기술 패권의 핵심 지표로 부상했습니다."
+    ],
+    "quiz": [
+      {
+        "question": "Why must semiconductor cleanrooms be kept exceptionally clean?",
+        "options": [
+          "Even microscopic dust particles can ruin ultra-thin microchip circuits.",
+          "Workers prefer wearing funny white suits for team photos.",
+          "Computers operate faster when covered in chocolate pudding."
+        ],
+        "answer": 0,
+        "explanation": "Microscopic dust can break micro-circuits that are thinner than human DNA, so cleanrooms must be pristine."
+      }
+    ]
+  },
+  {
+    "id": "news_culture_01",
+    "title": "Venice International Film Festival 2026: Global Cinema Celebrates on the Lido",
+    "subtitle": "Legendary directors and rising stars gather at the world's oldest film festival to premiere bold stories.",
+    "speaker": "Variety (Venice)",
+    "date": "2026-09-06",
+    "category": "culture",
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 245,
+    "keywords": [
+      "#베니스영화제",
+      "#황금사자상",
+      "#영화예술",
+      "#시네마"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "Every late summer, the romantic Italian island of Lido di Venezia becomes the center of world cinema. The 83rd Venice International Film Festival has officially opened, welcoming celebrated film directors and enthusiastic cinephiles from around the globe. As the oldest film festival on Earth, Venice sets the artistic benchmark for international movie excellence.",
+        "ko": "매년 늦여름이 되면 이탈리아의 낭만적인 섬 리도 디 베네치아가 세계 영화계의 중심지가 됩니다. 제83회 베니스 국제영화제가 전 세계 저명한 영화감독들과 열정적인 영화 팬들을 맞이하며 성대하게 개막했습니다. 지구상에서 가장 오랜 역사를 지닌 베니스 영화제는 세계 영화 예술의 높은 기준을 제시하고 있습니다.",
+        "sentences": [
+          {
+            "en": "Every late summer, the romantic Italian island of Lido di Venezia becomes the center of world cinema.",
+            "ko": "매년 늦여름 이탈리아 베네치아 리도 섬은 세계 영화계의 중심지로 변모합니다."
+          },
+          {
+            "en": "The 83rd Venice International Film Festival has officially opened, welcoming celebrated film directors and enthusiastic cinephiles from around the globe.",
+            "ko": "제83회 베니스 국제영화제가 개막하며 거장 감독들과 영화 팬들을 맞이했습니다."
+          },
+          {
+            "en": "As the oldest film festival on Earth, Venice sets the artistic benchmark for international movie excellence.",
+            "ko": "가장 오랜 전통을 지닌 베니스 영화제는 세계 영화 예술의 기준을 선도합니다."
+          }
+        ]
+      },
+      {
+        "en": "Audiences inside the historic screening halls erupted into long standing ovations after premiere showings of emotional dramas and historical biographies. Critics praise this year's competition lineup for exploring themes of human connection, historical memory, and climate resilience. Winning the prestigious Golden Lion trophy is considered one of the highest honors in film culture.",
+        "ko": "유서 깊은 상영관 내부의 관객들은 감동적인 드라마와 역사 전기 영화들의 첫 공개가 끝난 뒤 긴 기립박수를 보냈습니다. 영화 평론가들은 올해 경쟁 부문 진출작들이 인간적 유대, 역사의 기억, 기후 회복력 같은 깊이 있는 주제들을 탐구했다고 호평했습니다. 권위 있는 황금사자상 트로피를 수상하는 것은 영화 문화계에서 가장 영예로운 업적으로 꼽힙니다.",
+        "sentences": [
+          {
+            "en": "Audiences inside the historic screening halls erupted into long standing ovations after premiere showings of emotional dramas and historical biographies.",
+            "ko": "관객들은 감동적인 영화 시사회가 끝난 후 뜨거운 기립박수를 보냈습니다."
+          },
+          {
+            "en": "Critics praise this year's competition lineup for exploring themes of human connection, historical memory, and climate resilience.",
+            "ko": "평론가들은 인간의 유대와 역사, 기후 위기 등을 다룬 작품들을 호평했습니다."
+          },
+          {
+            "en": "Winning the prestigious Golden Lion trophy is considered one of the highest honors in film culture.",
+            "ko": "황금사자상 트로피를 수상하는 것은 영화계 최고의 영예 중 하나입니다."
+          }
+        ]
+      },
+      {
+        "en": "The Venice red carpet also serves as a famous platform where actors champion artistic freedom and international cultural exchange. Many films debuting here will later compete for major honors during the winter awards season. The festival reminds us that powerful visual storytelling continues to bring people together across all languages.",
+        "ko": "베니스의 레드 카펫은 배우들이 예술적 표현의 자유와 국제적인 문화 교류를 지지하는 유명한 무대이기도 합니다. 이곳 베니스에서 첫선을 보인 수많은 걸작들은 올겨울 주요 글로벌 영화상 시상식에서도 치열한 경쟁을 펼치게 될 것입니다. 베니스 영화제는 강력한 시각적 이야기의 힘이 모든 언어의 장벽을 넘어 인류를 하나로 묶어준다는 점을 다시금 일깨워줍니다.",
+        "sentences": [
+          {
+            "en": "The Venice red carpet also serves as a famous platform where actors champion artistic freedom and international cultural exchange.",
+            "ko": "베니스 레드카펫은 예술의 자유와 문화적 교류를 알리는 소중한 장입니다."
+          },
+          {
+            "en": "Many films debuting here will later compete for major honors during the winter awards season.",
+            "ko": "이곳에서 데뷔한 영화들은 올겨울 글로벌 시상식의 유력 후보가 됩니다."
+          },
+          {
+            "en": "The festival reminds us that powerful visual storytelling continues to bring people together across all languages.",
+            "ko": "이 영화제는 감동적인 스토리가 언어를 초월해 사람들을 하나로 묶는다는 점을 보여줍니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "9월 이탈리아 리도 섬에서 제83회 베니스 국제영화제가 개막하여 전 세계 시네필들의 환호를 받았습니다.",
+      "인간의 유대와 역사적 기억을 다룬 걸작들이 최고 영예인 황금사자상(Golden Lion)을 두고 경합합니다.",
+      "베니스에서 호평받은 작품들은 겨울 아카데미 시상식으로 이어지는 글로벌 어워드 시즌의 강력한 주자로 떠오릅니다."
+    ],
+    "quiz": [
+      {
+        "question": "What is the name of the top award presented at the Venice International Film Festival?",
+        "options": [
+          "The Golden Lion.",
+          "The Silver Banana.",
+          "The Diamond Bicycle."
+        ],
+        "answer": 0,
+        "explanation": "The highest prize awarded at the Venice Film Festival is the prestigious Golden Lion (Leone d'Oro)."
+      }
+    ]
+  },
+  {
+    "id": "news_culture_02",
+    "title": "The Global Rise of Webtoons and K-Content: How Digital Stories Captivate the World",
+    "subtitle": "Vertical scrolling comics from South Korea become global entertainment phenomena inspiring TV shows and games.",
+    "speaker": "The Korea Herald (Seoul)",
+    "date": "2026-09-06",
+    "category": "culture",
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 242,
+    "keywords": [
+      "#K웹툰",
+      "#K콘텐츠",
+      "#디지털스토리",
+      "#한류"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "Digital comics designed specifically for smartphone screens are taking the international entertainment market by storm. Originating in South Korea, webtoons use vertical scrolling format that makes reading effortless on mobile devices. Young readers from North America, Europe, and Southeast Asia read millions of episodes every single day on digital platforms.",
+        "ko": "스마트폰 화면에 최적화된 디지털 만화가 세계 엔터테인먼트 시장을 강타하고 있습니다. 한국에서 시작된 웹툰은 모바일 기기에서 손가락으로 가볍게 넘겨볼 수 있는 세로 스크롤 방식을 도입하여 읽기 편하게 만들었습니다. 북미, 유럽, 동남아시아의 젊은 독자층은 디지털 플랫폼에서 매일 수백만 편의 웹툰 에피소드를 소비하고 있습니다.",
+        "sentences": [
+          {
+            "en": "Digital comics designed specifically for smartphone screens are taking the international entertainment market by storm.",
+            "ko": "스마트폰 화면에 맞춘 디지털 만화가 세계 엔터테인먼트 시장을 휩쓸고 있습니다."
+          },
+          {
+            "en": "Originating in South Korea, webtoons use vertical scrolling format that makes reading effortless on mobile devices.",
+            "ko": "한국에서 시작된 웹툰은 모바일에 최적화된 세로 스크롤 방식으로 읽기 쉽습니다."
+          },
+          {
+            "en": "Young readers from North America, Europe, and Southeast Asia read millions of episodes every single day on digital platforms.",
+            "ko": "북미, 유럽, 동남아의 젊은 독자들이 매일 수백만 편의 에피소드를 즐깁니다."
+          }
+        ]
+      },
+      {
+        "en": "What makes webtoons so popular is their fast pacing and relatable emotional characters. Writers and digital illustrators produce engaging stories across romance, superhero fantasy, and psychological mystery. When a webtoon becomes successful, global streaming studios quickly adapt the story into high-budget live-action television series.",
+        "ko": "웹툰이 이토록 큰 인기를 끄는 이유는 빠른 스토리 전개와 깊이 공감할 수 있는 매력적인 캐릭터 덕분입니다. 작가들과 일러스트레이터들은 로맨스, 히어로 판타지, 심리 미스터리 등 다양한 장르에서 몰입도 높은 스토리를 창작합니다. 웹툰이 인기를 얻으면 글로벌 스트리밍 OTT 플랫폼들이 곧바로 대규모 실사 드라마 시리즈로 영상화합니다.",
+        "sentences": [
+          {
+            "en": "What makes webtoons so popular is their fast pacing and relatable emotional characters.",
+            "ko": "웹툰의 인기 비결은 빠른 전개 속도와 공감할 수 있는 입체적 캐릭터입니다."
+          },
+          {
+            "en": "Writers and digital illustrators produce engaging stories across romance, superhero fantasy, and psychological mystery.",
+            "ko": "작가들은 로맨스, 판타지, 미스터리 등 다채로운 장르의 스토리를 창작합니다."
+          },
+          {
+            "en": "When a webtoon becomes successful, global streaming studios quickly adapt the story into high-budget live-action television series.",
+            "ko": "웹툰이 흥행하면 글로벌 스트리밍 기업들이 대규모 실사 드라마로 제작합니다."
+          }
+        ]
+      },
+      {
+        "en": "This creative pipeline has turned digital webtoons into a primary engine for the ongoing Korean cultural wave. International artists are now creating original works directly on webtoon apps in their native languages. Modern digital storytelling proves that creative imagination knows no cultural or geographic boundaries.",
+        "ko": "이러한 창작 파이프라인은 디지털 웹툰을 오늘날 한류(K-Culture)의 핵심 성장 엔진으로 탈바꿈시켰습니다. 이제는 세계 각국의 현지 아티스트들도 자신의 모국어로 웹툰 앱에서 오리지널 작품을 직접 연재하고 있습니다. 현대의 디지털 스토리텔링은 창의적인 상상력 앞에는 문화나 국경의 장벽이 존재하지 않는다는 사실을 보여줍니다.",
+        "sentences": [
+          {
+            "en": "This creative pipeline has turned digital webtoons into a primary engine for the ongoing Korean cultural wave.",
+            "ko": "이러한 시스템은 웹툰을 한류 문화의 핵심적인 성장 동력으로 만들었습니다."
+          },
+          {
+            "en": "International artists are now creating original works directly on webtoon apps in their native languages.",
+            "ko": "이제는 해외 작가들도 각자의 모국어로 오리지널 웹툰을 활발히 창작합니다."
+          },
+          {
+            "en": "Modern digital storytelling proves that creative imagination knows no cultural or geographic boundaries.",
+            "ko": "디지털 스토리텔링은 창의적 상상력에 국경과 문화의 한계가 없음을 증명합니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "한국에서 탄생한 세로 스크롤 웹툰이 전 세계 모바일 Z세대를 사로잡으며 글로벌 문화 트렌드가 되었습니다.",
+      "인기 웹툰 IP가 넷플릭스 등 글로벌 OTT 실사 드라마와 애니메이션으로 재생산되는 슈퍼 IP 파이프라인이 정착했습니다.",
+      "현지 해외 작가들의 참여와 플랫폼 세계화를 통해 K-콘텐츠의 영향력이 국경을 넘어 확장되고 있습니다."
+    ],
+    "quiz": [
+      {
+        "question": "What mobile reading format helped make webtoons easy to read on smartphone screens?",
+        "options": [
+          "Vertical scrolling format.",
+          "Folding the phone into an origami swan.",
+          "Reading only when the screen is completely turned off."
+        ],
+        "answer": 0,
+        "explanation": "Vertical scrolling enables readers to browse comic panels naturally on smartphone screens."
       }
     ]
   },
@@ -907,88 +1577,6 @@ const READPULSE_ARTICLES = [
         "explanation": "The fund specifically targets regional economic renewal outside London's financial center."
       }
     ]
-  },
-  {
-    "id": "auto_sports_1075831895",
-    "title": "Tactical Masterclass: How Arsenal's High Press Dismantled Chelsea",
-    "subtitle": "Martin Odegaard and Bukayo Saka orchestrate a fluid attacking display to cement title ambitions.",
-    "speaker": "BBC Sports Football",
-    "date": "2026-09-06",
-    "category": "sports",
-    "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 290,
-    "keywords": [
-      "#프리미어리그",
-      "#아스널",
-      "#첼시",
-      "#런던더비"
-    ],
-    "addedAt": "2026-09-06T00:00:00Z",
-    "paragraphs": [
-      {
-        "en": "Arsenal reaffirmed their credentials as genuine Premier League title contenders with a commanding tactical performance against London rivals Chelsea. From the opening whistle, the Gunners executed a relentless high-pressing scheme that suffocated Chelsea's build-up play from deep defense, forcing repeatedly panicked turnovers in dangerous central areas.",
-        "ko": "아스널은 런던 라이벌 첼시를 상대로 압도적인 전술적 경기력을 선보이며 프리미어리그 우승 후보다운 면모를 다시 한번 입증했습니다. 경기 시작 휘슬이 울리자마자 거너스(아스널)는 첼시의 후방 빌드업을 숨 막히게 압박하는 가차 없는 전방 압박을 펼쳐, 위험한 중앙 지역에서 상대의 패스 실수를 끊임없이 유도해 냈습니다.",
-        "sentences": [
-          {
-            "en": "Arsenal reaffirmed their credentials as genuine Premier League title contenders with a commanding tactical performance against London rivals Chelsea.",
-            "ko": "아스널은 첼시를 상대로 압도적인 전술적 경기력을 선보이며 프리미어리그 우승 후보다운 면모를 입증했습니다."
-          },
-          {
-            "en": "From the opening whistle, the Gunners executed a relentless high-pressing scheme that suffocated Chelsea's build-up play from deep defense, forcing repeatedly panicked turnovers in dangerous central areas.",
-            "ko": "시작부터 아스널은 첼시의 후방 빌드업을 숨 막히게 압박하여 위험한 중앙 지역에서 턴오버를 지속적으로 유도했습니다."
-          }
-        ]
-      },
-      {
-        "en": "Club captain Martin Odegaard was the maestro of the afternoon, floating effortlessly between Chelsea's midfield lines to pick apart defensive pockets with surgical precision. Alongside him, Bukayo Saka tormented defenders on the right flank, combining explosive acceleration with composure in the penalty box to create two decisive goalscoring opportunities.",
-        "ko": "주장 마르틴 외데고르는 이날 오후의 지휘자였습니다. 첼시의 미드필드 라인 사이를 자유자재로 유영하며 수술칼처럼 정밀한 패스로 상대 수비 틈새를 공략했습니다. 그의 곁에서 부카요 사카는 오른쪽 측면 수비수들을 괴롭히며 폭발적인 가속력과 페널티 박스 안에서의 침착함을 결합해 두 번의 결정적인 득점 기회를 만들어냈습니다.",
-        "sentences": [
-          {
-            "en": "Club captain Martin Odegaard was the maestro of the afternoon, floating effortlessly between Chelsea's midfield lines to pick apart defensive pockets with surgical precision.",
-            "ko": "주장 외데고르는 미드필드 라인 사이를 자유자재로 유영하며 정밀한 패스로 수비 틈새를 공략했습니다."
-          },
-          {
-            "en": "Alongside him, Bukayo Saka tormented defenders on the right flank, combining explosive acceleration with composure in the penalty box to create two decisive goalscoring opportunities.",
-            "ko": "사카는 오른쪽 측면에서 폭발적인 스피드와 침착성으로 두 번의 결정적인 골 찬스를 창출했습니다."
-          }
-        ]
-      },
-      {
-        "en": "Tactical analysts pointed out that Arsenal's defensive compactness was just as vital as their attacking flair. By maintaining an aggressive high defensive line, Arsenal restricted Chelsea to speculative counter-attacks, proving that tactical discipline and collective synchrony remain the bedrock of modern championship teams.",
-        "ko": "전술 분석가들은 아스널의 수비적 응집력이 공격적 화려함 못지않게 중요했다고 지적했습니다. 공격적인 높은 수비 라인을 유지함으로써 아스널은 첼시의 공격을 단발성 역습으로 묶어두었으며, 전술적 규율과 팀 전체의 동시성이 현대 챔피언 팀의 핵심 초석임을 증명했습니다.",
-        "sentences": [
-          {
-            "en": "Tactical analysts pointed out that Arsenal's defensive compactness was just as vital as their attacking flair.",
-            "ko": "전술 분석가들은 아스널의 수비적 응집력이 공격력 못지않게 중요했다고 평가했습니다."
-          },
-          {
-            "en": "By maintaining an aggressive high defensive line, Arsenal restricted Chelsea to speculative counter-attacks, proving that tactical discipline and collective synchrony remain the bedrock of modern championship teams.",
-            "ko": "높은 수비 라인을 유지하며 상대 역습을 통제함으로써 전술적 규율과 조직력이 현대 축구의 핵심임을 증명했습니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "아스널의 조직적인 전방 압박이 첼시의 빌드업 전술을 무력화하며 완벽한 승리를 이끌었습니다.",
-      "주장 외데고르의 창의적인 경기 조율과 사카의 측면 돌파가 결정적인 차이를 만들어냈습니다.",
-      "현대 축구에서 수비 라인의 응집력과 높은 위치 선정이 챔피언십 우승의 핵심 열쇠임을 보여줍니다."
-    ],
-    "quiz": [
-      {
-        "question": "Which tactical element was highlighted as pivotal in neutralizing Chelsea's offense?",
-        "options": [
-          "A disciplined high press and compact defensive line.",
-          "Defending deep in their own penalty area for ninety minutes.",
-          "Committing frequent fouls to slow down play."
-        ],
-        "answer": 0,
-        "explanation": "Arsenal's aggressive high pressing and compact defensive positioning completely suppressed Chelsea's counterattacks."
-      }
-    ],
-    "sportSubcat": "premier_league",
-    "sportPriority": 3
   },
   {
     "id": "auto_culture_231935796",
@@ -2173,1430 +2761,6 @@ const READPULSE_ARTICLES = [
       "#고별사",
       "#국민통합",
       "#건국의원칙"
-    ]
-  },
-  {
-    "id": "tech-1",
-    "category": "tech",
-    "level": "A2-B1",
-    "title": "The Agentic AI Era: How Autonomous Agents Are Transforming Software Engineering",
-    "subtitle": "Beyond passive chatbots: Autonomous agents orchestrate end-to-end refactoring, testing, and deployment.",
-    "speaker": "MIT Technology Review / Tech Pulse",
-    "date": "September 2026",
-    "readTime": "3 min",
-    "paragraphs": [
-      {
-        "en": "The artificial intelligence landscape is undergoing a profound architectural transition from passive conversational models to proactive autonomous agents. For the past several years, large language models operated primarily as sophisticated text generators that required step-by-step human prompting to produce code snippets or answer technical inquiries. Today, agentic architectures equipped with reasoning loops, long-term memory systems, and tool-use capabilities are fundamentally redefining the software development lifecycle.",
-        "ko": "인공지능 분야는 수동적인 대화형 모델에서 능동적인 자율 에이전트로 중대한 구조적 전환을 겪고 있습니다. 지난 수년간 거대 언어 모델들은 코드 조각을 생성하거나 기술적 질문에 답하기 위해 사람의 단계별 프롬프트 입력을 필요로 하는 정교한 텍스트 생성기로 주로 작동했습니다. 그러나 오늘날 추론 루프, 장기 기억 시스템, 도구 활용 역량을 갖춘 에이전트 아키텍처는 소프트웨어 개발 수명 주기 자체를 근본적으로 재정의하고 있습니다.",
-        "sentences": [
-          {
-            "en": "The artificial intelligence landscape is undergoing a profound architectural transition from passive conversational models to proactive autonomous agents.",
-            "ko": "인공지능 생태계는 수동적인 대화형 모델에서 능동적인 자율 에이전트로 깊이 있는 구조적 전환을 맞이하고 있습니다."
-          },
-          {
-            "en": "For years, large language models operated primarily as sophisticated text generators requiring step-by-step human prompting.",
-            "ko": "지난 수년간 거대 언어 모델은 사람의 단계별 프롬프트에 의존하는 고도화된 텍스트 생성기로 작동했습니다."
-          },
-          {
-            "en": "Today, agentic architectures equipped with reasoning loops and tool-use capabilities are fundamentally redefining software development.",
-            "ko": "오늘날 추론 루프와 도구 활용 능력을 갖춘 에이전트 구조는 소프트웨어 개발을 근본적으로 바꾸어놓고 있습니다."
-          }
-        ]
-      },
-      {
-        "en": "Unlike traditional code autocomplete plugins that merely predict the next line of syntax, modern AI agents operate with goal-directed autonomy. When tasked with implementing a complex feature or resolving an ambiguous bug, an agent first constructs a multi-step execution plan. It inspects repository directory trees, traces call hierarchies, analyzes stack traces, runs local test suites, and iteratively patches its own syntax mistakes until the entire test suite passes without regression.",
-        "ko": "단순히 다음 줄의 문법을 예측하던 전통적인 코드 자동완성 플러그인과 달리, 최신 AI 에이전트는 목표 지향적 자율성을 가지고 작동합니다. 복잡한 기능을 구현하거나 모호한 버그를 해결하라는 작업이 주어지면, 에이전트는 먼저 다단계 실행 계획을 수립합니다. 저장소의 디렉터리 트리를 탐색하고, 호출 계층을 추적하며, 스택 추적 로그를 분석하고, 로컬 테스트를 실행하면서 전체 테스트가 역퇴행 없이 통과할 때까지 자신의 코드 오류를 반복적으로 수정합니다.",
-        "sentences": [
-          {
-            "en": "Unlike traditional code autocomplete plugins that merely predict the next line, modern AI agents operate with goal-directed autonomy.",
-            "ko": "단순히 다음 줄을 예측하던 전통적 자동완성과 달리 최신 AI 에이전트는 목표 지향적 자율성으로 구동됩니다."
-          },
-          {
-            "en": "When tasked with resolving a bug, an agent constructs an execution plan, inspects dependencies, and runs local test suites.",
-            "ko": "버그 수정 과업이 주어지면 에이전트는 실행 계획을 세우고 의존성을 검사하며 로컬 테스트를 직접 수행합니다."
-          },
-          {
-            "en": "It iteratively patches its own mistakes until the entire test suite passes without regression.",
-            "ko": "전체 테스트 스위트가 오류 없이 통과할 때까지 자신의 실수를 스스로 수정하며 완성도를 높입니다."
-          }
-        ]
-      },
-      {
-        "en": "Industry leaders report that software engineering teams utilizing multi-agent orchestration frameworks are achieving dramatic productivity gains. In benchmark trials, repetitive tasks such as writing comprehensive unit tests, migrating legacy frameworks to modern cloud standards, and maintaining API documentation have seen completion times drop by more than seventy percent. Developers are increasingly transitioning from manual typists to strategic systems architects who review, steer, and verify autonomous machine workflows.",
-        "ko": "업계 선도 기업들은 다중 에이전트 오케스트레이션 프레임워크를 활용하는 소프트웨어 엔지니어링 팀이 극적인 생산성 향상을 달성하고 있다고 보고합니다. 벤치마크 실험에서 포괄적인 단위 테스트 작성, 레거시 프레임워크의 최신 클라우드 표준으로의 마이그레이션, API 문서 유지 관리와 같은 반복 작업의 완료 시간이 70% 이상 단축되었습니다. 개발자들은 이제 손수 코드를 치는 타이피스트에서 자율적인 기계의 워크플로우를 검토하고 지휘하며 검증하는 전략적 시스템 아키텍트로 빠르게 전환하고 있습니다.",
-        "sentences": [
-          {
-            "en": "Software engineering teams utilizing multi-agent orchestration frameworks are achieving dramatic productivity gains.",
-            "ko": "다중 에이전트 프레임워크를 도입한 소프트웨어 엔지니어링 팀들은 비약적인 생산성 향상을 거두고 있습니다."
-          },
-          {
-            "en": "Repetitive tasks such as writing unit tests and migrating legacy frameworks have seen completion times drop by over seventy percent.",
-            "ko": "단위 테스트 작성과 레거시 마이그레이션 같은 반복 과업의 소요 시간이 70% 이상 단축되었습니다."
-          },
-          {
-            "en": "Developers are transitioning from manual typists to strategic systems architects who review and verify autonomous workflows.",
-            "ko": "개발자들은 단순 코더에서 벗어나 자율 워크플로우를 감독하고 검증하는 전략적 시스템 아키텍트로 진화하고 있습니다."
-          }
-        ]
-      },
-      {
-        "en": "However, this technological leap introduces formidable challenges regarding security, deterministic predictability, and architectural oversight. Unchecked agents operating in production repositories risk hallucinating unauthorized cloud dependencies or introducing subtle vulnerabilities that escape standard static analysis. As a consequence, enterprises are investing heavily in deterministic sandbox environments, automated audit logs, and rigorous human-in-the-loop approval gates before code reaches production servers.",
-        "ko": "그러나 이러한 기술적 도약은 보안, 결정론적 예측 가능성, 아키텍처 감독과 관련하여 만만치 않은 과제를 안겨줍니다. 프로덕션 저장소에서 통제되지 않은 채 작동하는 에이전트는 허가받지 않은 클라우드 종속성을 환각하거나 표준 정적 분석을 빠져나가는 미세한 취약점을 유입시킬 위험이 있습니다. 그 결과 기업들은 코드가 실제 프로덕션 서버에 도달하기 전에 엄격한 샌드박스 격리 환경, 자동화된 감사 로그, 인간 참여 승인 절차(Human-in-the-loop)에 막대한 투자를 집중하고 있습니다.",
-        "sentences": [
-          {
-            "en": "This technological leap introduces formidable challenges regarding security, predictability, and architectural oversight.",
-            "ko": "이러한 기술적 비약은 보안과 예측 가능성, 아키텍처 감독 측면에서 중대한 도전 과제를 동반합니다."
-          },
-          {
-            "en": "Unchecked agents operating in production risk introducing subtle vulnerabilities that escape standard static analysis.",
-            "ko": "통제되지 않은 에이전트는 기존 정적 분석을 우회하는 은밀한 취약점을 발생시킬 위험이 있습니다."
-          },
-          {
-            "en": "Enterprises are investing heavily in deterministic sandbox environments and rigorous human-in-the-loop approval gates.",
-            "ko": "기업들은 결정론적 샌드박스 격리 환경과 엄격한 인간 승인 관문에 대대적인 투자를 진행하고 있습니다."
-          }
-        ]
-      },
-      {
-        "en": "Looking toward the future, the frontier of agentic AI will expand from isolated development environments into enterprise-wide operational fabrics. Rather than replacing human creativity, autonomous agents promise to eliminate the cognitive friction of repetitive toil, allowing engineers to focus on higher-order system design and algorithmic innovation. The defining skill of the next decade will not be writing raw syntax, but orchestrating and steering fleets of intelligent digital collaborators.",
-        "ko": "미래를 내다볼 때, 에이전틱 AI의 개척지는 고립된 개발 환경을 넘어 기업 전반의 운영 생태계로 확장될 것입니다. 자율 에이전트는 인간의 창의성을 대체하기보다는 반복적인 고된 노동에서 오는 인지적 마찰을 제거하여, 엔지니어들이 더 높은 차원의 시스템 설계와 알고리즘 혁신에 집중할 수 있도록 도울 것입니다. 다가오는 10년 동안 가장 결정적인 역량은 직접 문법을 타이핑하는 것이 아니라, 지능형 디지털 협업체들을 지휘하고 조율하는 능력이 될 것입니다.",
-        "sentences": [
-          {
-            "en": "Looking toward the future, the frontier of agentic AI will expand into enterprise-wide operational fabrics.",
-            "ko": "미래를 향해 나아가며 에이전틱 AI의 지평은 기업 전반의 운영 체계로 뻗어나갈 것입니다."
-          },
-          {
-            "en": "Autonomous agents promise to eliminate the cognitive friction of repetitive toil, empowering higher-order human creativity.",
-            "ko": "자율 에이전트는 반복적 노고의 인지적 피로를 없애 인간의 고차원적 창의성을 북돋울 것입니다."
-          },
-          {
-            "en": "The defining skill of the next decade will be orchestrating and steering fleets of intelligent digital collaborators.",
-            "ko": "향후 10년을 지배할 결정적 능력은 지능형 디지털 협업 군단을 지휘하고 조율하는 역량입니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "AI 패러다임이 단순 프롬프트 기반 텍스트 생성에서 자율적 추론과 도구 실행을 갖춘 '에이전틱 아키텍처'로 전환되고 있습니다.",
-      "코드 탐색, 버그 추적, 단위 테스트 작성을 자율 수행함으로써 엔지니어링 반복 과업 시간을 70% 이상 단축하고 있습니다.",
-      "미래 소프트웨어 엔지니어링의 핵심 역량은 직접 코드를 타이핑하는 능력을 넘어 자율 에이전트 군단을 지휘하고 검증하는 '시스템 아키텍트' 역량으로 변화하고 있습니다."
-    ],
-    "quiz": [
-      {
-        "question": "What distinguishes modern AI agents from simple code autocomplete plugins?",
-        "options": [
-          "Goal-directed autonomy, reasoning loops, and multi-step tool use",
-          "Slower processing speeds and higher manual keyboard input",
-          "Complete lack of testing capabilities"
-        ],
-        "answer": 0,
-        "explanation": "Modern agents possess goal-directed autonomy, reasoning loops, memory, and the ability to execute tools across repositories."
-      },
-      {
-        "question": "What is becoming the primary role of developers in the agentic era?",
-        "options": [
-          "Strategic systems architects who orchestrate and verify autonomous workflows",
-          "Manual verbatim syntax typists",
-          "Hardware assembly technicians"
-        ],
-        "answer": 0,
-        "explanation": "Developers are shifting from manual typists to strategic systems architects overseeing fleets of autonomous agents."
-      }
-    ],
-    "wordCount": 328,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#디지털"
-    ]
-  },
-  {
-    "id": "tech-2",
-    "category": "tech",
-    "level": "A2-B1",
-    "title": "The Quantum Advantage Horizon: Commercial Readiness and Practical Cryptography",
-    "subtitle": "Fault-tolerant qubits and post-quantum cryptography: Navigating the transition to quantum computing.",
-    "speaker": "Nature Physics / Deep Tech Journal",
-    "date": "August 2026",
-    "readTime": "3 min",
-    "paragraphs": [
-      {
-        "en": "Quantum computing has traversed the perilous chasm between theoretical physics curiosity and commercial engineering reality. For decades, the discipline remained constrained by the tyranny of quantum decoherence—the fragility of physical qubits that collapse upon the slightest thermal fluctuation or electromagnetic interference. However, recent breakthroughs in topological error correction and neutral-atom architectures have finally propelled the industry into the era of fault-tolerant quantum computation.",
-        "ko": "양자 컴퓨팅은 이론 물리학적 호기심과 상업적 공학 현실 사이의 위험한 간극을 마침내 건넜습니다. 수십 년 동안 이 분야는 미세한 열 변동이나 전자기적 간섭에도 붕괴해 버리는 물리적 큐비트의 취약성, 즉 양자 결어긋남(decoherence)의 지배에 갇혀 있었습니다. 그러나 위상학적 오류 정정과 중성 원자 아키텍처의 획기적인 발전 덕분에 업계는 마침내 내결함성(fault-tolerant) 양자 컴퓨팅 시대로 진입했습니다.",
-        "sentences": [
-          {
-            "en": "Quantum computing has traversed the perilous chasm between theoretical curiosity and commercial engineering reality.",
-            "ko": "양자 컴퓨팅은 이론적 호기심과 상업적 공학 현실 사이의 험난한 간극을 극복해 냈습니다."
-          },
-          {
-            "en": "For decades, the field was constrained by quantum decoherence and physical qubit fragility.",
-            "ko": "수십 년간 이 분야는 미세한 환경 변화에도 무너지는 양자 결어긋남 현상에 발목을 잡혀 있었습니다."
-          },
-          {
-            "en": "Breakthroughs in topological error correction have propelled the industry into fault-tolerant computation.",
-            "ko": "위상학적 오류 정정 기술의 돌파구는 마침내 산업을 내결함성 연산 시대로 진입시켰습니다."
-          }
-        ]
-      },
-      {
-        "en": "The practical implications for materials science and molecular chemistry are nothing short of revolutionary. Classical supercomputers, despite their exascale processing power, struggle exponentially when simulating quantum mechanical interactions between complex molecular orbitals. Fault-tolerant quantum processors can simulate the binding affinities of novel pharmaceutical compounds in minutes rather than months, accelerating drug discovery pipelines for neurodegenerative diseases and revolutionizing the design of high-energy solid-state battery electrolytes.",
-        "ko": "재료 과학과 분자 화학에 미치는 실질적인 영향은 혁명적입니다. 기존 슈퍼컴퓨터는 엑사스케일 연산 능력에도 불구하고 복잡한 분자 오비탈 간의 양자역학적 상호작용을 시뮬레이션할 때 지수함수적인 연산 한계에 부딪힙니다. 반면 내결함성 양자 프로세서는 새로운 약물 화합물의 결합 친화도를 몇 달이 아닌 몇 분 만에 시뮬레이션할 수 있어, 신경퇴행성 질환의 신약 개발 일정을 단축하고 고에너지 전고체 배터리 전해질 설계를 근본적으로 혁신하고 있습니다.",
-        "sentences": [
-          {
-            "en": "The practical implications for materials science and molecular chemistry are revolutionary.",
-            "ko": "재료 과학과 분자 화학에 가져올 실질적 파급력은 그야말로 혁명적입니다."
-          },
-          {
-            "en": "Classical supercomputers struggle exponentially when simulating complex quantum mechanical interactions.",
-            "ko": "기존 슈퍼컴퓨터는 복잡한 양자역학적 분자 상호작용을 계산할 때 지수함수적인 한계에 직면합니다."
-          },
-          {
-            "en": "Quantum processors simulate drug binding affinities in minutes rather than months, accelerating clinical pipelines.",
-            "ko": "양자 프로세서는 수개월이 걸리던 신약 결합 시뮬레이션을 몇 분 만에 완수하여 연구 일정을 앞당깁니다."
-          }
-        ]
-      },
-      {
-        "en": "Simultaneously, the impending arrival of cryptographically relevant quantum computers poses an existential threat to global cybersecurity infrastructure. The RSA and elliptic-curve cryptography protocols that secure global banking networks, sovereign communications, and encrypted cloud storage rely on the mathematical difficulty of factoring enormous composite integers. Shor's algorithm, executed on a sufficiently scaled quantum system, can dismantle these cryptographic shields in polynomial time.",
-        "ko": "이와 동시에, 암호학적으로 유의미한 양자 컴퓨터의 등장은 글로벌 사이버 보안 인프라에 실존적인 위협을 제기합니다. 전 세계 금융 결제망, 주권 국가의 기밀 통신, 암호화된 클라우드 스토리지를 보호하는 RSA 및 타원곡선 암호화(ECC) 프로토콜은 거대한 합성수를 소인수분해하는 수학적 난이도에 의존하고 있습니다. 그러나 충분한 규모의 양자 시스템에서 실행되는 쇼어(Shor) 알고리즘은 이러한 암호화 방패를 다항 시간 내에 무력화할 수 있습니다.",
-        "sentences": [
-          {
-            "en": "The impending arrival of cryptographically relevant quantum computers poses an existential threat to cybersecurity.",
-            "ko": "암호 해독 능력을 갖춘 양자 컴퓨터의 등장은 사이버 보안 인프라에 중대한 위협을 가합니다."
-          },
-          {
-            "en": "RSA and elliptic-curve cryptography rely on the mathematical difficulty of factoring composite integers.",
-            "ko": "기존의 RSA와 타원곡선 암호 체계는 거대한 합성수를 소인수분해하는 수학적 난제에 기반하고 있습니다."
-          },
-          {
-            "en": "Shor's algorithm can dismantle traditional public-key cryptographic shields in polynomial time.",
-            "ko": "쇼어 알고리즘은 전통적인 공개키 암호화 방패를 다항 시간 안에 무력화할 수 있습니다."
-          }
-        ]
-      },
-      {
-        "en": "In response, governments and standards bodies worldwide have initiated mandatory transitions to Post-Quantum Cryptography standards. These novel mathematical lattice-based encryption algorithms are designed to resist attacks from both classical and quantum adversaries. Organizations that fail to audit their cryptographic inventory face severe exposure to 'harvest now, decrypt later' espionage campaigns, where adversarial actors intercept encrypted state secrets today in anticipation of decrypting them once quantum capability matures.",
-        "ko": "이에 대응하여 전 세계 정부와 표준화 기구는 양자내성암호(PQC) 표준으로의 의무적 전환을 시작했습니다. 이러한 새로운 격자 기반(Lattice-based) 암호화 알고리즘은 고전 컴퓨터와 양자 컴퓨터 양측의 모든 공격에 견디도록 설계되었습니다. 지금 자신의 암호화 자산을 감사하지 않는 조직은 '선 수집 후 해독(Harvest now, decrypt later)' 첩보 활동에 치명적으로 노출될 수 있습니다. 이는 적대 세력이 현재의 기밀 통신을 미리 가로채 저장해 둔 뒤, 향후 양자 컴퓨터가 성숙했을 때 해독하려는 전략입니다.",
-        "sentences": [
-          {
-            "en": "Governments worldwide have initiated mandatory transitions to Post-Quantum Cryptography standards.",
-            "ko": "전 세계 정부들은 양자내성암호(PQC) 표준으로의 필수적인 전환을 일제히 시작했습니다."
-          },
-          {
-            "en": "Lattice-based encryption algorithms are designed to resist attacks from both classical and quantum machines.",
-            "ko": "격자 기반 암호화 알고리즘은 고전 컴퓨터와 양자 컴퓨터의 모든 침투에 저항하도록 설계되었습니다."
-          },
-          {
-            "en": "Organizations face severe risks from 'harvest now, decrypt later' espionage if they delay cryptographic audits.",
-            "ko": "암호 감사를 지연하는 기관은 데이터를 미리 수집해 훗날 해독하려는 첩보 공격에 무방비로 노출됩니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "양자 컴퓨팅이 내결함성 오류 정정 기술을 통해 실험실을 벗어나 상업적 유용성 단계로 본격 진입했습니다.",
-      "신약 분자 구조 시뮬레이션 및 차세대 배터리 소재 개발 기간을 수개월에서 수분 단위로 단축하고 있습니다.",
-      "기존 RSA 암호 체계를 위협함에 따라, 격자 기반 양자내성암호(PQC) 전환이 글로벌 국가 안보의 최우선 과제로 부상했습니다."
-    ],
-    "quiz": [
-      {
-        "question": "What mathematical approach underpins post-quantum cryptography against quantum factoring attacks?",
-        "options": [
-          "Lattice-based encryption schemes",
-          "Simple Caesar cipher shifts",
-          "Linear regression models"
-        ],
-        "answer": 0,
-        "explanation": "Post-Quantum Cryptography relies heavily on complex lattice-based mathematical structures that resist quantum algorithms."
-      },
-      {
-        "question": "What is the primary danger of 'harvest now, decrypt later' espionage?",
-        "options": [
-          "Adversaries store encrypted data today to decrypt when quantum computers mature",
-          "Hardware chips melt during storage",
-          "Decryption keys expire after 24 hours"
-        ],
-        "answer": 0,
-        "explanation": "'Harvest now, decrypt later' refers to intercepting encrypted communications today with the intent of cracking them with future quantum systems."
-      }
-    ],
-    "wordCount": 256,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#디지털"
-    ]
-  },
-  {
-    "id": "tech-3",
-    "category": "tech",
-    "level": "A2-B1",
-    "title": "Autonomous Mobility at Scale: Commercial Robotaxis, Urban Safety, and Infrastructure Integration",
-    "subtitle": "From pilot programs to millions of driverless passenger miles: The economics and reality of autonomous fleets.",
-    "speaker": "Wired Mobility / Urban Tech Quarterly",
-    "date": "July 2026",
-    "readTime": "3 min",
-    "paragraphs": [
-      {
-        "en": "Autonomous mobility has graduated from constrained testing corridors into dense metropolitan commercial fleets. Across major urban centers including San Francisco, Phoenix, Wuhan, and Seoul, driverless robotaxis now serve millions of passenger trips weekly without human safety drivers behind the wheel. What was once considered an intractable robotics problem—navigating erratic pedestrians, emergency vehicles, and extreme weather—has yielded to multimodal end-to-end foundation vision models.",
-        "ko": "자율주행 모빌리티는 제한된 시험 주행 구역을 벗어나 밀집된 대도시 상업용 차량 서비스로 안착했습니다. 샌프란시스코, 피닉스, 우한, 서울 등 주요 대도시에서 운전석에 안전 요원이 탑승하지 않은 무인 로보택시가 매주 수백만 건의 승객 운송을 수행하고 있습니다. 예측할 수 없는 보행자, 긴급 차량, 악천후 속을 주행하는 까다로운 로봇 공학적 난제는 멀티모달 엔드투엔드 파운데이션 비전 모델의 도입으로 돌파구를 찾았습니다.",
-        "sentences": [
-          {
-            "en": "Autonomous mobility has graduated from constrained test corridors into dense commercial metropolitan fleets.",
-            "ko": "자율주행 모빌리티는 제한된 시험 구역을 넘어 대도시 상용 플릿으로 성공리에 진화했습니다."
-          },
-          {
-            "en": "Driverless robotaxis now complete millions of passenger trips weekly without safety operators behind the wheel.",
-            "ko": "운전석에 안전요원이 타지 않는 무인 로보택시가 매주 수백만 건의 여객 운송을 처리하고 있습니다."
-          },
-          {
-            "en": "Complex edge cases have yielded to multimodal end-to-end foundation vision models.",
-            "ko": "복잡한 엣지 케이스들은 멀티모달 엔드투엔드 파운데이션 비전 모델의 도입으로 해결되었습니다."
-          }
-        ]
-      },
-      {
-        "en": "The empirical safety records compiled over dozens of millions of fully driverless commercial miles present compelling evidence for public adoption. Actuarial data compiled by independent insurance institutes reveals that autonomous vehicles experience approximately eighty-five percent fewer injury-causing collisions per million miles compared to human-driven vehicles. Machines do not suffer from cognitive fatigue, visual distraction, chemical intoxication, or road rage—the four leading causes of vehicular fatalities worldwide.",
-        "ko": "수천만 마일의 완전 무인 상업 주행을 통해 축적된 실증적 안전 기록은 대중적 도입을 뒷받침하는 강력한 증거를 제시합니다. 독립 보험 연구 기관들이 집계한 계리 데이터에 따르면, 자율주행 차량은 인간 운전 차량에 비해 100만 마일당 인명 피해를 유발하는 충돌 사고가 약 85% 적은 것으로 나타났습니다. 기계는 전 세계 교통사고 사망 원인의 4대 요소인 인지 피로, 시각적 주의 산만, 음주 운전, 난폭 운전을 겪지 않기 때문입니다.",
-        "sentences": [
-          {
-            "en": "Empirical safety records over millions of driverless miles present compelling evidence for public adoption.",
-            "ko": "수천만 마일에 걸친 무인 주행 안전 데이터는 대중적 도입을 위한 강력한 설득력을 갖습니다."
-          },
-          {
-            "en": "Autonomous vehicles experience approximately eighty-five percent fewer injury-causing collisions than human drivers.",
-            "ko": "자율주행차는 인간 운전자에 비해 인명 피해 사고율이 약 85%나 낮게 나타납니다."
-          },
-          {
-            "en": "Machines do not suffer from fatigue, distraction, intoxication, or road rage.",
-            "ko": "기계는 인간의 주요 사고 원인인 피로, 주의 산만, 음주, 분노 운전의 영향을 받지 않습니다."
-          }
-        ]
-      },
-      {
-        "en": "Nevertheless, mass deployment continues to encounter friction from municipal policymakers, urban planners, and labor organizations. Cities grapple with curb space allocation, unexpected vehicle stalls that block transit arteries during sensor anomalies, and the fiscal impact of declining parking fee revenues. Simultaneously, commercial ride-hail drivers and transit unions are demanding structured workforce transition programs and statutory quotas to safeguard employment amidst systemic automation.",
-        "ko": "그럼에도 불구하고 대규모 배치는 시 정책 입안자, 도시 계획가, 노동 단체들과의 마찰에 계속 직면하고 있습니다. 각 도시들은 도로변 승하차 공간 배분, 센서 이상 시 교통 동맥을 가로막는 돌발 정지 현상, 주차 요금 수입 감소로 인한 재정적 영향과 씨름하고 있습니다. 동시에 택시 및 호출 차량 운전기사와 대중교통 노조는 전면적인 자동화 추세 속에서 일자리를 보호하기 위한 구조적 전업 지원 프로그램과 법적 쿼터제를 요구하고 있습니다.",
-        "sentences": [
-          {
-            "en": "Mass deployment continues to encounter friction from municipal policymakers and labor organizations.",
-            "ko": "대규모 확장은 지자체 정책 당국 및 노동 단체와의 적잖은 마찰에 직면해 있습니다."
-          },
-          {
-            "en": "Cities grapple with curb space allocation and unexpected transit blockages during sensor anomalies.",
-            "ko": "도시들은 승하차 구역 배분과 센서 오작동 시 발생하는 교통 체증 문제로 고심하고 있습니다."
-          },
-          {
-            "en": "Labor organizations demand structured transition programs to protect employment amidst systemic automation.",
-            "ko": "노동계는 광범위한 자동화 속에서 일자리를 지키기 위한 전업 지원책과 제도적 안전망을 요구합니다."
-          }
-        ]
-      },
-      {
-        "en": "The next frontier lies in integrating autonomous fleets with intelligent municipal infrastructure and dynamic energy grids. Vehicles equipped with bidirectional vehicle-to-everything (V2X) communications communicate directly with traffic signals to optimize arterial throughput. Furthermore, when plugged into charging hubs during off-peak hours, electric robotaxis function as distributed battery energy storage systems that stabilize renewable power grids.",
-        "ko": "다음 도전 과제는 자율주행 차량을 지능형 도시 인프라 및 가변 전력망과 유기적으로 통합하는 것입니다. 양방향 V2X(Vehicle-to-Everything) 통신을 탑재한 차량은 교통 신호등과 직접 소통하여 간선 도로의 교통 흐름을 최적화합니다. 나아가 전력 수요가 적은 시간대에 충전 허브에 연결된 전기 로보택시는 재생에너지 전력망을 안정화시키는 분산형 배터리 에너지 저장 장치(BESS) 역할까지 수행하게 됩니다.",
-        "sentences": [
-          {
-            "en": "The next frontier lies in integrating autonomous fleets with intelligent infrastructure and dynamic grids.",
-            "ko": "다음 단계는 자율주행 플릿을 지능형 도시 인프라 및 전력망과 유기적으로 통합하는 것입니다."
-          },
-          {
-            "en": "Vehicles equipped with V2X communications communicate directly with signals to optimize throughput.",
-            "ko": "V2X 통신을 갖춘 차량들은 신호 체계와 실시간 소통하며 교통 흐름을 극대화합니다."
-          },
-          {
-            "en": "Electric robotaxis function as distributed energy storage systems that stabilize renewable grids.",
-            "ko": "전기 로보택시는 재생에너지 전력망을 안정시키는 분산형 에너지 저장 기지로도 활약합니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "무인 로보택시가 주요 대도시에서 수백만 건의 상업 승객 운송을 성공적으로 수행하며 대중화 궤도에 올랐습니다.",
-      "인간 운전자의 부주의와 음주를 배제함으로써 인명 사고율을 85% 이상 낮추는 실증적 안전성을 입증했습니다.",
-      "단순 운송 수단을 넘어 도시 V2X 신호 연동 및 분산 전력망 안정화 배터리 자원으로서의 미래 가치가 주목받고 있습니다."
-    ],
-    "quiz": [
-      {
-        "question": "What reduction in injury collisions do empirical studies show for autonomous vehicles compared to human drivers?",
-        "options": [
-          "Approximately 85% fewer collisions",
-          "No measurable difference",
-          "10% increase in collisions"
-        ],
-        "answer": 0,
-        "explanation": "Actuarial data demonstrates an approximate 85% decrease in injury-causing accidents per million miles."
-      },
-      {
-        "question": "How can idle electric robotaxis assist the power grid when docked at charging hubs?",
-        "options": [
-          "As distributed battery energy storage systems to stabilize renewable energy",
-          "By consuming massive excess fossil fuels",
-          "By broadcasting wireless radio signals"
-        ],
-        "answer": 0,
-        "explanation": "Bidirectional charging enables autonomous electric fleets to function as distributed energy storage systems."
-      }
-    ],
-    "wordCount": 245,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#디지털"
-    ]
-  },
-  {
-    "id": "sci-1",
-    "category": "science",
-    "level": "A2-B1",
-    "title": "Peering into Cosmic Dawn: How the James Webb Space Telescope Rewrote Early Universe Astrophysics",
-    "subtitle": "Impossibly mature early galaxies and atmospheric biosignatures on temperate exoplanets challenge established models.",
-    "speaker": "Astrophysical Journal / Space Frontiers",
-    "date": "August 2026",
-    "readTime": "3 min",
-    "paragraphs": [
-      {
-        "en": "Stationed in gravitational equilibrium at the second Sun-Earth Lagrange point 1.5 million kilometers from our planet, the James Webb Space Telescope (JWST) has fundamentally rewritten observational cosmology. Equipped with a segmented gold-coated primary mirror measuring 6.5 meters across and cryogenically cooled infrared instruments, Webb was engineered to detect the faint, redshifted glow of the earliest luminous structures formed shortly after the Big Bang. The observations returned over the past four years have stunned researchers, directly contesting foundational models of galactic formation.",
-        "ko": "지구로부터 150만 킬로미터 떨어진 제2 태양-지구 라그랑주 점의 중력 평형점에 위치한 제임스 웹 우주망원경(JWST)은 관측 우주론의 교과서를 근본적으로 다시 썼습니다. 지름 6.5미터의 금으로 코팅된 분할 주경과 극저온으로 냉각된 적외선 관측 장비를 장착한 웹 망원경은, 빅뱅 직후 탄생한 최초의 발광 구조물이 방출하여 적색편이된 희미한 빛을 감지하도록 설계되었습니다. 지난 4년 동안 수신된 관측 결과는 은하 형성의 기존 이론 모델에 정면으로 도전하며 전 세계 천체물리학 연구자들을 경악시켰습니다.",
-        "sentences": [
-          {
-            "en": "Stationed 1.5 million kilometers away, the James Webb Space Telescope has fundamentally rewritten observational cosmology.",
-            "ko": "지구에서 150만 킬로미터 떨어진 곳에 위치한 제임스 웹 우주망원경은 관측 우주론을 근본적으로 다시 쓰고 있습니다."
-          },
-          {
-            "en": "Webb was engineered to detect the faint, redshifted glow of the earliest luminous structures formed after the Big Bang.",
-            "ko": "웹 망원경은 빅뱅 직후 생겨난 우주 최초의 천체들이 내뿜는 희미한 적색편이 빛을 포착하도록 설계되었습니다."
-          },
-          {
-            "en": "The observations returned have stunned researchers, directly contesting foundational models of galactic formation.",
-            "ko": "지금까지 관측된 결과들은 은하 형성에 관한 기존 표준 모델에 정면으로 도전하며 학계를 놀라게 했습니다."
-          }
-        ]
-      },
-      {
-        "en": "Prior to JWST, standard cosmological orthodoxy posited that the nascent universe grew hierarchically through gradual accretion, predicting that primordial galaxies formed during the first few hundred million years would appear small, diffuse, and sparsely populated with stars. Instead, Webb's deep-field spectroscopy has unveiled massive, luminous, and remarkably structured galaxies thriving merely 300 million years after the cosmic origin. Astrophysicists are actively debating whether these 'impossibly mature' structures imply higher star-formation efficiencies or the rapid collapse of primordial supermassive black holes that accelerated cosmic assembly.",
-        "ko": "JWST 이전의 표준 우주론 학설은 초기 우주가 점진적인 물질 강착을 통해 위계적으로 성장했다고 보았으며, 따라서 우주 탄생 후 수억 년 이내에 형성된 원시 은하들은 크기가 작고 희미하며 별들의 밀도가 낮을 것으로 예측했습니다. 그러나 웹의 심우주 분광 관측은 우주 기원 후 불과 3억 년 시점에 거대하고 밝으며 놀랍도록 체계적인 구조를 갖춘 은하들이 번성하고 있었음을 밝혀냈습니다. 천체물리학자들은 이처럼 '불가능할 정도로 성숙한' 구조들이 초기 별 형성 효율의 극적인 증가를 의미하는지, 아니면 원시 초대질량 블랙홀의 조기 붕괴가 은하 형성을 가속화했는지를 두고 열띤 논쟁을 벌이고 있습니다.",
-        "sentences": [
-          {
-            "en": "Prior to JWST, models predicted that primordial galaxies would appear small, diffuse, and sparsely populated.",
-            "ko": "JWST 이전의 표준 이론은 원시 은하들이 크기가 작고 희미하며 별의 밀도가 낮을 것이라고 예측했습니다."
-          },
-          {
-            "en": "Instead, Webb unveiled massive, luminous, and remarkably structured galaxies thriving merely 300 million years after the Big Bang.",
-            "ko": "그러나 웹 망원경은 빅뱅 후 불과 3억 년 시점에 이미 거대하고 밝게 빛나는 고도화된 은하들을 발견했습니다."
-          },
-          {
-            "en": "Astrophysicists are actively debating whether primordial black holes accelerated early cosmic assembly.",
-            "ko": "천체물리학자들은 초기 우주의 초대질량 블랙홀이 은하의 조기 탄생을 가속화했는지 여부를 활발히 논의 중입니다."
-          }
-        ]
-      },
-      {
-        "en": "Beyond peering back into deep cosmic time, Webb has achieved extraordinary milestones in characterizing the chemical atmospheres of nearby exoplanets. By capturing transmission spectra as temperate exoplanets transit in front of their host red dwarf stars, researchers have identified distinct atmospheric fingerprints of carbon dioxide, methane, sulfur dioxide, and water vapor. These delicate atmospheric measurements represent the vanguard of our technological quest to detect genuine biosignatures—chemical disequilibria that could betray the biological metabolism of extraterrestrial life.",
-        "ko": "먼 우주의 태초를 들여다보는 것을 넘어, 웹 망원경은 인근 외계행성의 대기 화학 성분을 분석하는 데 있어서도 경이로운 이정표를 달성했습니다. 온화한 기후의 외계행성이 중심 적색왜성 앞을 통과할 때의 투과 스펙트럼을 정밀 포착함으로써, 연구진은 이산화탄소, 메탄, 이산화황, 수증기의 뚜렷한 대기 화학 지문을 식별해 냈습니다. 이러한 정밀한 대기 측정은 외계 생명체의 생물학적 대사 활동을 암시하는 화학적 불균형, 즉 진정한 생체 지표(biosignature)를 찾아내기 위한 인류 과학 기술의 최전선을 대변하고 있습니다.",
-        "sentences": [
-          {
-            "en": "Beyond deep time, Webb has achieved extraordinary milestones in characterizing exoplanet atmospheres.",
-            "ko": "태초의 시간대를 관측하는 것 외에도 웹 망원경은 외계행성의 대기 화학 성분을 분석하는 놀라운 업적을 세웠습니다."
-          },
-          {
-            "en": "Researchers have identified distinct atmospheric fingerprints of carbon dioxide, methane, and water vapor.",
-            "ko": "연구원들은 이산화탄소, 메탄, 수증기 등 뚜렷한 대기 구성 분자들의 스펙트럼 지문을 확인했습니다."
-          },
-          {
-            "en": "These delicate measurements represent the vanguard of detecting genuine extraterrestrial biosignatures.",
-            "ko": "이 정교한 측정 기술은 외계 생명체의 생체 지표를 탐지하기 위한 인류 과학의 최전선입니다."
-          }
-        ]
-      },
-      {
-        "en": "The overarching legacy of the James Webb observatory is a profound epistemological humbling. By penetrating cosmic dust veils that blinded generations of ground-based and space telescopes, JWST has demonstrated that our models of the cosmos were incomplete approximations. In astrophysics, as in all empirical disciplines, the arrival of higher-resolution observational instruments does not merely confirm existing textbook theories; it illuminates an infinitely richer, more mysterious reality awaiting human comprehension.",
-        "ko": "제임스 웹 우주망원경이 남긴 가장 큰 유산은 우주에 대한 깊은 인식론적 겸허함입니다. 수세대에 걸친 지상 망원경과 기존 우주망원경의 시야를 가로막았던 성간 먼지 장막을 투과함으로써, JWST는 우리가 세웠던 우주 모델이 불완전한 근사치에 불과했음을 입증했습니다. 천체물리학에서뿐만 아니라 모든 실증 학문에서, 고해상도 관측 장비의 등장은 기존 교과서 이론을 단순히 확인하는 데 그치지 않고, 인류의 이해를 기다리는 훨씬 더 풍요롭고 신비로운 우주의 실체를 생생하게 밝혀줍니다.",
-        "sentences": [
-          {
-            "en": "The overarching legacy of the James Webb observatory is a profound epistemological humbling.",
-            "ko": "제임스 웹 천문대가 남긴 궁극적인 유산은 우주 앞에 서는 깊은 인식론적 겸허함입니다."
-          },
-          {
-            "en": "JWST demonstrated that previous models of cosmic evolution were incomplete approximations.",
-            "ko": "JWST는 이전의 우주 진화 모델들이 불완전한 추정에 불과했음을 명백히 보여주었습니다."
-          },
-          {
-            "en": "Higher-resolution instruments do not merely confirm textbooks; they illuminate an infinitely richer reality.",
-            "ko": "초정밀 관측 장비는 단순히 교과서를 확인하는 데 그치지 않고, 훨씬 더 경이로운 미지의 현실을 드러냅니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "제임스 웹 우주망원경(JWST)이 빅뱅 직후 3억 년 시점의 '불가능할 정도로 성숙한 은하'들을 발견하며 기존 표준 우주론을 뒤흔들었습니다.",
-      "외계행성의 통과 스펙트럼 분석을 통해 이산화탄소, 메탄, 수증기 등 대기 화학 성분을 정밀 포착하며 외계 생명체 탐사의 새 장을 열었습니다.",
-      "새로운 관측 도구의 등장이 기존 가설을 강화하기보다 인류의 지적 한계를 확장하고 새로운 과학적 패러다임을 연다는 점을 입증했습니다."
-    ],
-    "quiz": [
-      {
-        "question": "Where is the James Webb Space Telescope positioned for observational equilibrium?",
-        "options": [
-          "The second Sun-Earth Lagrange point (L2), 1.5 million km from Earth",
-          "In low Earth orbit alongside the ISS",
-          "Stationed on the lunar South Pole"
-        ],
-        "answer": 0,
-        "explanation": "JWST orbits the second Sun-Earth Lagrange point (L2), approximately 1.5 million kilometers from Earth."
-      },
-      {
-        "question": "What surprising early galaxy characteristic did JWST reveal that contradicted classical models?",
-        "options": [
-          "Massive, luminous, and well-structured galaxies merely 300 million years post-Big Bang",
-          "A completely empty universe devoid of all stars",
-          "Galaxies moving backward toward the singularity"
-        ],
-        "answer": 0,
-        "explanation": "Webb discovered unexpectedly massive and structured galaxies existing far earlier than hierarchical accretion models predicted."
-      }
-    ],
-    "wordCount": 310,
-    "keywords": [
-      "#과학우주",
-      "#연구발견",
-      "#자연과학"
-    ]
-  },
-  {
-    "id": "sci-2",
-    "category": "science",
-    "level": "A2-B1",
-    "title": "The Precision Genetic Revolution: Clinical Horizons and Epigenetic Frontiers of CRISPR",
-    "subtitle": "From ex vivo sickle cell breakthroughs to in vivo base editing: How molecular scissors are curing intractable diseases.",
-    "speaker": "Cellular Biotechnology / Global Science Review",
-    "date": "July 2026",
-    "readTime": "3 min",
-    "paragraphs": [
-      {
-        "en": "Gene editing has transitioned decisively from academic molecular biology laboratories into curative clinical medicine. The approval and real-world deployment of CRISPR-Cas9 therapies for sickle cell disease and beta-thalassemia marked a watershed moment in human therapeutics. Patients who historically endured debilitating chronic pain crises and frequent blood transfusions are now living free of symptoms, their defective hemoglobin genes permanently corrected at the hematopoietic stem cell level.",
-        "ko": "유전자 편집은 학술적인 분자생물학 실험실을 벗어나 난치병을 완치하는 임상 의학의 영역으로 결정적인 진입을 이뤘습니다. 겸상 적혈구 빈혈증과 베타 지중해빈혈에 대한 크리스퍼(CRISPR-Cas9) 유전자 치료제의 승인과 실제 환자 투여는 인류 치료학의 획기적인 분수령이 되었습니다. 평생 쇠약해지는 만성 통증과 잦은 수혈을 견뎌야 했던 환자들이 이제 증상 없이 살아가고 있으며, 조혈모세포 수준에서 결함이 있는 헤모글로빈 유전자가 영구적으로 교정되었습니다.",
-        "sentences": [
-          {
-            "en": "Gene editing has transitioned decisively from academic biology laboratories into curative clinical medicine.",
-            "ko": "유전자 편집 기술은 학술 연구실을 넘어 완치를 목표로 하는 임상 의학으로 확실하게 진화했습니다."
-          },
-          {
-            "en": "The deployment of CRISPR therapies for sickle cell disease marked a watershed moment in therapeutics.",
-            "ko": "겸상 적혈구 빈혈증에 대한 크리스퍼 치료제 상용화는 난치병 치료의 중대한 분수령이 되었습니다."
-          },
-          {
-            "en": "Defective hemoglobin genes are now permanently corrected at the stem cell level, freeing patients from pain.",
-            "ko": "결함이 있던 헤모글로빈 유전자가 줄기세포 수준에서 영구 교정되어 환자들을 고통에서 해방시키고 있습니다."
-          }
-        ]
-      },
-      {
-        "en": "The initial wave of therapies relied on ex vivo editing, where a patient's cells were harvested, engineered in a cleanroom bioreactor using viral or electroporation delivery, and subsequently infused back into the body following conditioning chemotherapy. Today, the frontier has accelerated toward in vivo gene editing. Using advanced lipid nanoparticles (LNPs) targeted to specific cell surface receptors, therapies are injected intravenously to directly correct pathological mutations inside human organs, most notably the liver, heart, and retinal tissues.",
-        "ko": "초기 유전자 치료제는 체외(ex vivo) 편집 방식에 의존했습니다. 이는 환자의 세포를 채취하여 무균 바이오리액터에서 바이러스나 전기천공법을 통해 유전자를 교정한 뒤, 전처치 항암 화학요법을 거쳐 체내에 다시 주입하는 방식이었습니다. 그러나 오늘날 기술의 최전선은 체내(in vivo) 유전자 편집으로 급속히 진화했습니다. 특정 세포 표면 수용체를 표적하는 정밀 지질 나노입자(LNP)를 활용하여, 정맥 주사를 통해 간, 심장, 망막 조직 내부의 병리학적 돌연변이를 체내에서 직접 교정할 수 있게 되었습니다.",
-        "sentences": [
-          {
-            "en": "Initial therapies relied on ex vivo editing, harvesting and engineering patient cells outside the body.",
-            "ko": "초기 치료법은 환자의 세포를 체외로 추출하여 배양실에서 유전자를 교정하는 방식에 의존했습니다."
-          },
-          {
-            "en": "Today, the frontier has accelerated toward in vivo editing via targeted lipid nanoparticles.",
-            "ko": "오늘날 치료 기술은 표적 지질 나노입자(LNP)를 통한 체내 직접 편집으로 가속화되었습니다."
-          },
-          {
-            "en": "Intravenous infusions now directly correct pathological mutations inside organs like the liver and retina.",
-            "ko": "정맥 주사를 통해 간이나 망막 등 체내 장기 세포의 유전 변이를 직접 교정하는 시대가 열렸습니다."
-          }
-        ]
-      },
-      {
-        "en": "Furthermore, precision has been dramatically amplified by the emergence of base editing and prime editing. While early CRISPR tools introduced double-stranded DNA breaks that carried risks of unintended insertions, deletions, or chromosomal translocations, base editors act as molecular pencils. They chemically convert individual nucleotide bases without cleaving the DNA backbone, virtually eliminating genomic scarring. Prime editing pushes this precision further, functioning as a search-and-replace word processor capable of correcting approximately ninety percent of known human pathogenic mutations.",
-        "ko": "나아가 염기 편집(Base editing)과 프라임 편집(Prime editing)의 등장으로 교정의 정밀도가 획기적으로 향상되었습니다. 초기 크리스퍼 도구는 DNA 이중 가닥을 완전히 절단하여 의도치 않은 유전자 결손이나 삽입, 염색체 전좌의 위험성을 내포하고 있었던 반면, 염기 편집기는 정밀한 '분자 연필'처럼 작동합니다. DNA 골격을 자르지 않고 단일 염기만을 화학적으로 치환함으로써 유전체 흉터의 발생을 원천 차단합니다. 프라임 편집은 정밀성을 더욱 높여 '찾아 바꾸기' 워드프로세서처럼 기능하며, 알려진 인간 유전성 질환 돌연변이의 약 90%를 교정할 수 있는 잠재력을 지니고 있습니다.",
-        "sentences": [
-          {
-            "en": "Precision has been amplified by the emergence of base editing and prime editing technologies.",
-            "ko": "염기 편집과 프라임 편집 기술의 등장으로 유전자 교정의 정밀성이 획기적으로 높아졌습니다."
-          },
-          {
-            "en": "Base editors chemically convert individual nucleotide bases without cleaving the DNA backbone.",
-            "ko": "염기 편집기는 DNA 이중 가닥을 자르지 않고 단일 염기만을 화학적으로 정밀 치환합니다."
-          },
-          {
-            "en": "Prime editing functions as a search-and-replace word processor capable of addressing ninety percent of known mutations.",
-            "ko": "프라임 편집은 '찾아 바꾸기' 기능처럼 작동하여 알려진 인간 유전 질환 돌연변이의 90%를 교정할 수 있습니다."
-          }
-        ]
-      },
-      {
-        "en": "Despite these breathtaking technological advances, formidable economic and bioethical questions loom. Commercial cell therapies currently command price tags exceeding two million dollars per patient, restricting access primarily to affluent healthcare systems. As somatic therapies advance into preventative medicine—such as permanently lowering cardiovascular risk by silencing cholesterol-regulating genes—society must navigate the precarious balance between life-saving therapeutic equity and the commercialization of genetic optimization.",
-        "ko": "이러한 눈부신 기술적 진보에도 불구하고 막대한 경제적, 생명윤리적 과제가 도사리고 있습니다. 현재 상용화된 유전자 치료제의 가격은 환자 1인당 200만 달러(약 27억 원)를 초과하여, 부유한 국가의 의료 체계에서만 주로 접근이 가능한 실정입니다. 나아가 체세포 치료가 콜레스테롤 조절 유전자를 영구 억제하여 심혈관 질환 위험을 낮추는 등 예방 의학 영역으로 확장됨에 따라, 인류는 생명을 구하는 치료적 형평성과 유전적 최적화의 상업화 사이에서 위태로운 균형점을 찾아야 합니다.",
-        "sentences": [
-          {
-            "en": "Commercial cell therapies currently command price tags exceeding two million dollars per patient.",
-            "ko": "상용화된 유전자 치료제는 환자당 200만 달러가 넘는 막대한 비용으로 치료 접근성 격차를 낳고 있습니다."
-          },
-          {
-            "en": "As somatic therapies expand into preventative medicine, society faces complex ethical debates.",
-            "ko": "체세포 치료가 심혈관 질환 예방 등 일상적 예방 의학으로 확장됨에 따라 윤리적 논쟁이 가열되고 있습니다."
-          },
-          {
-            "en": "Society must navigate the delicate balance between therapeutic equity and genetic commercialization.",
-            "ko": "인류 사회는 치료의 보편적 형평성과 유전적 상업화 사이에서 균형 있는 해법을 모색해야 합니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "크리스퍼 유전자 편집이 겸상 적혈구 빈혈증 등 난치성 희귀 질환의 완치 치료제로 승인되어 임상에 성공적으로 안착했습니다.",
-      "DNA 가닥을 절단하지 않는 '염기 편집'과 '프라임 편집' 기술이 발전하여 유전체 손상 위험 없이 90%의 질환 돌연변이 교정이 가능해졌습니다.",
-      "수십억 원에 달하는 치료 비용 장벽과 예방적 유전자 최적화에 대한 글로벌 생명윤리 기준 확립이 중요한 당면 과제입니다."
-    ],
-    "quiz": [
-      {
-        "question": "How do base editors differ fundamentally from first-generation CRISPR-Cas9 tools?",
-        "options": [
-          "They convert single nucleotides without double-stranded DNA breaks",
-          "They physically destroy the entire cell",
-          "They require radioactive isotopes for activation"
-        ],
-        "answer": 0,
-        "explanation": "Base editors alter specific nucleotide letters chemically without causing double-stranded DNA breaks, preventing genomic scarring."
-      },
-      {
-        "question": "What delivery vehicle enables in vivo gene editing directly inside human organs?",
-        "options": [
-          "Targeted lipid nanoparticles (LNPs)",
-          "Solid gold micro-needles",
-          "Synthetic glass capillaries"
-        ],
-        "answer": 0,
-        "explanation": "Targeted lipid nanoparticles (LNPs) encapsulate molecular editors and guide them directly into organ cells via intravenous infusion."
-      }
-    ],
-    "wordCount": 281,
-    "keywords": [
-      "#과학우주",
-      "#연구발견",
-      "#자연과학"
-    ]
-  },
-  {
-    "id": "sci-3",
-    "category": "science",
-    "level": "A2-B1",
-    "title": "Ocean Worlds of the Outer Solar System: Europa Clipper and the Search for Alien Life",
-    "subtitle": "Traversing radiation belts to analyze subsurface plumes and habitability beneath Jupiter's icy moon.",
-    "speaker": "Planetary Science Institute / NASA Frontiers",
-    "date": "July 2026",
-    "readTime": "3 min",
-    "paragraphs": [
-      {
-        "en": "The search for extraterrestrial biology in the solar system has shifted dramatically from the arid red deserts of Mars to the cryogenic ocean moons of the outer gas giants. Jupiter's moon Europa, encased in a global ice shell ten to twenty kilometers thick, conceals a subterranean liquid ocean containing more than twice the total volume of all Earth's oceans combined. Heated from within by tidal friction generated by Jupiter's colossal gravitational resonance, Europa represents our most promising biological oasis.",
-        "ko": "태양계 내 외계 생명체 탐사의 초점이 화성의 메마른 붉은 사막에서 외곽 거대 가스 행성 주위를 도는 극저온 바다 위성들로 극적인 이동을 마쳤습니다. 10~20킬로미터 두께의 전 행성적 얼음 껍질로 둘러싸인 목성의 위성 유로파(Europa)는 지구의 모든 바다를 합친 것보다 두 배 이상 많은 액체 바다를 얼음 표면 아래에 숨기고 있습니다. 목성의 거대한 중력 공명이 일으키는 조석 마찰열로 내부가 따뜻하게 유지되는 유로파는 인류에게 가장 유력한 생명체의 오아시스로 꼽힙니다.",
-        "sentences": [
-          {
-            "en": "The search for extraterrestrial biology has shifted from Mars to cryogenic outer ocean moons.",
-            "ko": "외계 생명체 탐사의 패러다임은 화성에서 외곽 태양계의 얼음 바다 위성들로 옮겨왔습니다."
-          },
-          {
-            "en": "Europa conceals a subterranean ocean containing more than twice the volume of Earth's oceans combined.",
-            "ko": "목성의 위성 유로파는 지구의 모든 바다를 합친 것보다 두 배가 넘는 액체 바다를 품고 있습니다."
-          },
-          {
-            "en": "Heated from within by tidal friction from Jupiter's gravity, Europa is a prime biological target.",
-            "ko": "목성의 중력이 유발하는 조석 마찰열로 데워지는 유로파는 외계 생명 탐사의 최우선 목표입니다."
-          }
-        ]
-      },
-      {
-        "en": "NASA's flagship Europa Clipper mission was engineered specifically to answer whether this dark abyssal environment possesses the fundamental ingredients for life: liquid water, essential chemical building blocks (carbon, hydrogen, nitrogen, oxygen, phosphorus, sulfur), and an enduring source of chemical energy. The spacecraft is executing dozens of low-altitude flybys, dipping within twenty-five kilometers of the fractured icy crust while enduring the punishing radiation belts of Jupiter's magnetosphere.",
-        "ko": "미 항공우주국(NASA)의 주력 탐사선인 유로파 클리퍼(Europa Clipper)는 이 어둡고 깊은 심해 환경이 생명체의 필수 3대 요소인 액체 상태의 물, 필수 화학 구성 요소(탄소, 수소, 질소, 산소, 인, 황), 그리고 지속적인 화학 에너지원을 갖추고 있는지를 규명하기 위해 특수 제작되었습니다. 탐사선은 목성 자기장의 가혹한 방사선대를 견뎌내면서, 갈라진 얼음 지각 위 25킬로미터 고도까지 초근접하는 수십 차례의 저고도 플라이바이(근접 비행)를 수행하고 있습니다.",
-        "sentences": [
-          {
-            "en": "NASA's Europa Clipper mission was engineered to determine if Europa possesses the ingredients for life.",
-            "ko": "NASA의 유로파 클리퍼 미션은 유로파가 생명체의 필수 조건을 갖추고 있는지 밝히기 위해 설계되었습니다."
-          },
-          {
-            "en": "Key requirements include liquid water, chemical building blocks, and an enduring source of chemical energy.",
-            "ko": "필수 요건에는 액체 상태의 물, 생명 구성 원소, 그리고 지속적인 화학 에너지 공급원이 포함됩니다."
-          },
-          {
-            "en": "The spacecraft executes dozens of low-altitude flybys within twenty-five kilometers of the icy crust.",
-            "ko": "탐사선은 얼음 지각 상공 25킬로미터까지 초근접하는 수십 차례의 플라이바이를 감행합니다."
-          }
-        ]
-      },
-      {
-        "en": "Equipped with ice-penetrating radar, surface dust analyzers, and mass spectrometers, the orbiter samples cryovolcanic plumes venting ocean vapor into the vacuum of space. By analyzing the organic complexity of ejected water-ice grains without requiring risky lander touch-downs on the chaotic terrain, scientists can reconstruct the geothermal chemistry of hydrothermal vents suspected to bubble upon Europa's silicate seafloor.",
-        "ko": "얼음 침투 레이더, 표면 먼지 분석기, 고분해능 질량 분석기를 탑재한 탐사선은 우주의 진공 속으로 바다 수증기를 뿜어내는 얼음 화산 분출물(플룸)을 직접 채취해 분석합니다. 험난한 얼음 지형에 착륙선을 착륙시키는 위험을 감수하지 않고도 우주로 분출된 얼음 알갱이의 유기물 복잡성을 분석함으로써, 과학자들은 유로파의 규산염 해저 바닥에서 솟구치는 열수구의 지구화학적 환경을 정확히 재구성할 수 있습니다.",
-        "sentences": [
-          {
-            "en": "Equipped with ice-penetrating radar and mass spectrometers, the orbiter samples cryovolcanic plumes.",
-            "ko": "얼음 침투 레이더와 질량 분석기를 장착한 탐사선은 우주로 뿜어지는 얼음 분출물을 포착합니다."
-          },
-          {
-            "en": "Scientists analyze organic molecules in ejected grains without requiring hazardous surface landings.",
-            "ko": "위험한 착륙 없이도 분출된 알갱이 속의 유기 분자를 분석해 심해의 화학적 구성을 파악합니다."
-          },
-          {
-            "en": "Data reconstructs the geochemical environment of hydrothermal vents on Europa's seafloor.",
-            "ko": "이 데이터를 통해 유로파 규산염 해저 바닥에 존재할 것으로 추정되는 열수구 환경을 복원합니다."
-          }
-        ]
-      },
-      {
-        "en": "The confirmation of even microbial life flourishing in Europa's pitch-black ocean would signify a monumental turning point in human intellectual history. It would demonstrate that life is not an idiosyncratic terrestrial accident, but a universal cosmic imperative that emerges wherever thermodynamic gradients and liquid water persist. As the Clipper relays its findings, humanity stands upon the threshold of answering the eternal question: Are we alone in the universe?",
-        "ko": "유로파의 칠흑 같은 심해에서 단세포 미생물 수준의 생명체라도 번성하고 있다는 사실이 확인된다면, 이는 인류 지성사에 기념비적인 대전환점이 될 것입니다. 그것은 생명이 지구라는 행성에서만 일어난 우연한 기적이 아니라, 열역학적 에너지와 액체 상태의 물이 존재하는 곳이라면 우주 어디에서나 필연적으로 피어나는 보편적 현상임을 증명하는 일이기 때문입니다. 클리퍼 탐사선이 전송할 데이터를 기다리며, 인류는 영원한 질문의 문턱에 서 있습니다. '우리는 우주에서 과연 혼자인가?'",
-        "sentences": [
-          {
-            "en": "The confirmation of microbial life in Europa's ocean would mark a monumental turning point in intellectual history.",
-            "ko": "유로파 심해에서 미생물 생명체가 확인된다면 인류 지성사에 거대한 분수령이 될 것입니다."
-          },
-          {
-            "en": "It would prove that life is not a terrestrial accident, but a universal cosmic phenomenon.",
-            "ko": "생명은 지구만의 우연한 사고가 아니라 우주 곳곳에서 탄생하는 보편적 법칙임을 입증하게 됩니다."
-          },
-          {
-            "en": "Humanity stands on the threshold of answering whether we are truly alone in the universe.",
-            "ko": "인류는 마침내 우리가 우주에서 홀로 존재하는가라는 근원적 질문의 해답 앞에 서 있습니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "외계 생명체 탐사의 중심이 화성에서 표면 아래 거대한 액체 바다를 품은 목성의 위성 유로파로 이동했습니다.",
-      "NASA 유로파 클리퍼 탐사선이 저고도 근접 비행을 통해 우주로 분출되는 수증기 플룸의 유기 화합물을 분석하고 있습니다.",
-      "유로파 해저 열수구에서 미생물이 확인된다면, 생명이 지구에만 국한되지 않는 우주의 보편적 법칙임을 증명하게 됩니다."
-    ],
-    "quiz": [
-      {
-        "question": "What primary geological feature makes Europa a prime candidate for extraterrestrial biology?",
-        "options": [
-          "A vast subsurface liquid water ocean beneath its global ice shell",
-          "An atmosphere composed entirely of pure oxygen",
-          "Active volcanic lava rivers covering its surface"
-        ],
-        "answer": 0,
-        "explanation": "Europa conceals a massive subsurface liquid ocean containing over twice the water volume of Earth's oceans combined."
-      },
-      {
-        "question": "How does Europa Clipper sample Europa's subterranean ocean without landing on the ice?",
-        "options": [
-          "By flying through and analyzing cryovolcanic plumes vented into space",
-          "By shooting deep-core nuclear torpedoes",
-          "By using optical lasers to melt surface trenches"
-        ],
-        "answer": 0,
-        "explanation": "Clipper uses mass spectrometers to sample water-ice grains ejected into space through cryovolcanic vapor plumes."
-      }
-    ],
-    "wordCount": 270,
-    "keywords": [
-      "#과학우주",
-      "#연구발견",
-      "#자연과학"
-    ]
-  },
-  {
-    "id": "econ-1",
-    "category": "economy",
-    "level": "A2-B1",
-    "title": "Global Monetary Policy in Transition: Navigating Central Bank Easing and Fiscal Headwinds",
-    "subtitle": "Interest rate normalization, stubborn services inflation, and sovereign debt pressures reshape global markets.",
-    "speaker": "Financial Times / Macroeconomics Review",
-    "date": "August 2026",
-    "readTime": "3 min",
-    "paragraphs": [
-      {
-        "en": "Global central banks are executing one of the most consequential policy pivots in modern macroeconomic history. Following the aggressive synchronized rate-hiking campaign deployed to crush post-pandemic inflation spikes, monetary authorities led by the Federal Reserve, the European Central Bank, and the Bank of England have embarked on coordinated easing cycles. However, unlike the zero-interest-rate environment that characterized the previous decade, policymakers are navigating a fragmented economic landscape defined by persistent services inflation and historic fiscal deficits.",
-        "ko": "전 세계 중앙은행들은 현대 거시경제 역사상 가장 중대한 정책 전환을 실행하고 있습니다. 팬데믹 이후 치솟았던 인플레이션을 꺾기 위해 전개했던 공격적인 긴축 금리 인상 공세에 이어, 미국 연방준비제도(Fed)와 유럽중앙은행(ECB), 영란은행(BOE)을 필두로 한 통화 당국들이 조율된 금리 인하 사이클에 착수했습니다. 그러나 지난 10년을 지배했던 초저금리 환경과 달리, 정책 입안자들은 끈적한 서비스 인플레이션과 역사적인 재정 적자로 정의되는 파편화된 경제 지형을 헤쳐 나가고 있습니다.",
-        "sentences": [
-          {
-            "en": "Global central banks are executing a consequential policy pivot toward monetary easing.",
-            "ko": "전 세계 중앙은행들은 통화 완화를 향한 중대한 정책적 피벗(방향 전환)을 실행하고 있습니다."
-          },
-          {
-            "en": "Following aggressive rate-hiking campaigns, authorities are synchronizing gradual rate cuts.",
-            "ko": "공격적인 금리 인상에 이어 주요 통화 당국은 점진적인 금리 인하 국면에 돌입했습니다."
-          },
-          {
-            "en": "Unlike the previous decade of zero rates, policymakers navigate persistent services inflation and fiscal deficits.",
-            "ko": "과거의 제로금리 시대와 달리 정책 당국은 끈질긴 서비스 물가와 막대한 재정 적자에 직면해 있습니다."
-          }
-        ]
-      },
-      {
-        "en": "The transition poses delicate tradeoffs for currency valuation, cross-border capital flows, and sovereign bond yields. While lower borrowing costs provide much-needed breathing room for commercial real estate developers, heavily indebted corporate borrowers, and mortgage holders, they risk rekindling underlying price pressures. In the United States and Europe, robust wage growth in labor-intensive service industries has created a structural inflation floor, preventing consumer price indices from settling neatly at central banks' two percent targets.",
-        "ko": "이러한 전환은 환율 가치, 국경 간 자본 이동, 국채 수익률에 미묘한 딜레마를 안겨줍니다. 차입 비용의 하락은 상업용 부동산 개발업체, 부채 부담이 큰 기업, 주택담보대출 차주들에게 절실한 숨통을 틔워주지만, 동시에 잠재적인 물가 상승 압력을 다시 자극할 위험을 내포하고 있습니다. 미국과 유럽의 경우, 노동 집약적인 서비스 산업에서의 견조한 임금 상승세가 구조적인 인플레이션 하한선을 형성하여, 소비자물가지수가 중앙은행의 목표치인 2%에 안정적으로 도달하는 것을 방해하고 있습니다.",
-        "sentences": [
-          {
-            "en": "The policy shift poses delicate tradeoffs for currency valuations and sovereign bond yields.",
-            "ko": "통화 정책의 변화는 환율과 국채 금리에 복합적인 상충 관계를 불러일으킵니다."
-          },
-          {
-            "en": "Lower borrowing costs relieve indebted corporations and mortgage holders but risk reigniting inflation.",
-            "ko": "대출 금리 인하는 부채가 많은 기업과 가계에 숨통을 틔워주지만 인플레이션을 재점화할 위험이 있습니다."
-          },
-          {
-            "en": "Robust wage growth in service industries creates a structural inflation floor above target levels.",
-            "ko": "서비스 부문의 강력한 임금 상승세는 물가 하락을 제한하는 구조적 하한선으로 작용하고 있습니다."
-          }
-        ]
-      },
-      {
-        "en": "Simultaneously, sovereign debt trajectories across the G7 economies have reached peacetime records. Decades of deficit spending, compounded by industrial subsidies for semiconductor manufacturing and clean energy transitions, have pushed debt-to-GDP ratios well beyond historical comfort levels. Bond vigilantes in fixed-income markets are exerting discipline, demanding higher term premiums for holding long-duration government bonds, thereby steepening yield curves even as policy benchmark rates decline.",
-        "ko": "이와 동시에 G7 주요 선진국의 국가 부채 비율은 평시 역사상 최고치를 경신했습니다. 수십 년간 누적된 재정 적자 지출에 반도체 제조 및 청정에너지 전환을 위한 천문학적인 산업 보조금이 더해지면서, GDP 대비 국가 부채 비율은 역사적 안정 범위를 훌쩍 넘어섰습니다. 채권 시장의 자경단(Bond vigilantes)은 장기 국채 보유에 대해 더 높은 기간 프리미엄을 요구하며 정부를 압박하고 있으며, 이로 인해 기준금리가 인하됨에도 불구하고 장기 금리가 오르는 수익률 곡선 스티프닝 현상이 나타나고 있습니다.",
-        "sentences": [
-          {
-            "en": "Sovereign debt trajectories across G7 economies have reached peacetime records.",
-            "ko": "G7 선진국의 국가 부채 수준은 전시가 아닌 평시 기준으로 사상 최고치에 달했습니다."
-          },
-          {
-            "en": "Industrial subsidies for semiconductors and green energy have expanded sovereign fiscal deficits.",
-            "ko": "반도체와 친환경 에너지에 대한 막대한 보조금 지급은 각국 정부의 재정 적자를 크게 확대시켰습니다."
-          },
-          {
-            "en": "Bond markets demand higher term premiums, steepening yield curves despite central bank rate cuts.",
-            "ko": "채권 시장은 더 높은 기간 프리미엄을 요구하며, 기준금리 인하에도 불구하고 장기 금리를 끌어올리고 있습니다."
-          }
-        ]
-      },
-      {
-        "en": "For international business strategists and institutional asset allocators, the era of predictable, synchronized macroeconomic cycles is over. Corporate leaders must navigate divergent currency trends, fragmented geopolitical supply networks, and higher structural hurdle rates for long-term capital investments. In this higher-for-longer regime, capital discipline, operational resilience, and balance sheet strength have once again become the paramount determinants of enterprise survival.",
-        "ko": "글로벌 비즈니스 전략가와 기관 투자자들에게 예측 가능하고 동조화되었던 과거의 거시경제 사이클은 완전히 끝났습니다. 기업 지도자들은 엇갈리는 환율 추세, 파편화된 지정학적 공급망, 장기 자본 투자를 위한 높아진 기준 수익률(hurdle rate) 속에서 회사를 이끌어야 합니다. 금리가 구조적으로 높은 수준을 유지하는 새로운 정상화(New Normal) 체제에서는 철저한 자본 규율, 운영 복원력, 그리고 튼튼한 대차대조표가 기업 생존을 가르는 가장 결정적인 요인으로 다시 부상했습니다.",
-        "sentences": [
-          {
-            "en": "The era of predictable, synchronized macroeconomic cycles has officially ended.",
-            "ko": "예측 가능하고 일관되게 동조화되었던 거시경제 사이클의 시대는 공식적으로 막을 내렸습니다."
-          },
-          {
-            "en": "Corporate leaders must navigate divergent currencies and higher structural investment hurdle rates.",
-            "ko": "기업 경영진은 엇갈리는 환율 변동과 한층 높아진 투자 기준 수익률을 돌파해야 합니다."
-          },
-          {
-            "en": "Capital discipline, resilience, and balance sheet strength are once again the paramount determinants of enterprise survival.",
-            "ko": "자본 규율과 위기 극복 능력, 탄탄한 재무 건전성이 기업 생존의 핵심 열쇠로 다시 자리 잡았습니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 중앙은행들이 긴축에서 금리 인하로 피벗을 단행했으나, 끈적한 서비스 물가로 인해 과거의 초저금리로 돌아가기는 어렵습니다.",
-      "선진국들의 국가 부채 급증으로 채권 시장의 기간 프리미엄이 상승하여 기준금리 인하에도 장기 금리가 고공행진하는 현상이 발생하고 있습니다.",
-      "기업들은 높아진 자본 비용과 공급망 분절화 속에서 생존하기 위해 철저한 재무 건전성과 자본 규율을 갖추어야 합니다."
-    ],
-    "quiz": [
-      {
-        "question": "What structural factor prevents inflation from dropping swiftly to central banks' 2% targets?",
-        "options": [
-          "Persistent wage growth in labor-intensive services",
-          "A complete global collapse in fossil fuel demand",
-          "Massive drops in worldwide housing rents"
-        ],
-        "answer": 0,
-        "explanation": "Sticky wage inflation in labor-intensive service industries acts as a structural floor resisting rapid price declines."
-      },
-      {
-        "question": "Why are long-term bond yields remaining elevated despite central bank benchmark rate cuts?",
-        "options": [
-          "Investors demand higher term premiums due to massive sovereign debt issuance",
-          "Central banks have completely stopped issuing money",
-          "All international banks have gone bankrupt"
-        ],
-        "answer": 0,
-        "explanation": "Bond markets demand higher term premiums to absorb historic levels of sovereign peacetime debt deficits."
-      }
-    ],
-    "wordCount": 271,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ]
-  },
-  {
-    "id": "econ-2",
-    "category": "economy",
-    "level": "A2-B1",
-    "title": "The Geopolitics of Semiconductor Fabrication: Subsidies, Foundries, and the Silicon Frontier",
-    "subtitle": "CHIPS acts, advanced packaging, and supply chain resilience: The trillion-dollar battle for technological sovereignty.",
-    "speaker": "The Economist / Global Industrial Policy",
-    "date": "July 2026",
-    "readTime": "3 min",
-    "paragraphs": [
-      {
-        "en": "Semiconductors have cemented their status as the apex strategic commodity of the twenty-first century. Often dubbed the 'crude oil of the modern digital economy,' sub-two-nanometer integrated circuits are the indispensable engines powering generative artificial intelligence, hypersonic defense avionics, autonomous navigation, and high-performance computing. Consequently, the global semiconductor supply chain—historically optimized for hyper-efficient geographic concentration—is being forcibly restructured along geopolitical contours.",
-        "ko": "반도체는 21세기 가장 중요한 전략 핵심 물자로 확고히 자리 잡았습니다. 흔히 '현대 디지털 경제의 원유'로 불리는 2나노미터 이하의 초미세 집적회로는 생성형 인공지능, 극초음속 국방 항공전자, 자율주행 내비게이션, 고성능 컴퓨팅을 구동하는 데 없어서는 안 될 핵심 엔진입니다. 그 결과, 역사적으로 고도의 지리적 집적과 효율성에 맞춰 최적화되었던 글로벌 반도체 공급망은 지정학적 경계선을 따라 전면적인 재편을 강요받고 있습니다.",
-        "sentences": [
-          {
-            "en": "Semiconductors have cemented their status as the apex strategic commodity of the modern century.",
-            "ko": "반도체는 현대 21세기 가장 중요한 최고 전략 물자로 확실히 자리매김했습니다."
-          },
-          {
-            "en": "Advanced integrated circuits are indispensable engines powering generative AI and defense avionics.",
-            "ko": "최첨단 집적회로는 생성형 AI와 첨단 국방 기술을 구동하는 필수적인 심장부입니다."
-          },
-          {
-            "en": "The global semiconductor supply chain is being forcibly restructured along geopolitical contours.",
-            "ko": "글로벌 반도체 공급망은 국가 간 지정학적 경계를 따라 급격하게 재편되고 있습니다."
-          }
-        ]
-      },
-      {
-        "en": "For decades, manufacturing capacity congregated predominantly in East Asia, with Taiwan and South Korea accounting for over eighty percent of global leading-edge foundry fabrication. While this geographic clustering yielded unprecedented economies of scale and lightning-fast process iterations, it introduced severe supply chain vulnerabilities. Natural disasters, geopolitical friction across the Taiwan Strait, or maritime chokepoint disruptions threatened to plunge the worldwide electronics industry into paralyzing chip famines.",
-        "ko": "수십 년 동안 반도체 제조 역량은 동아시아에 압도적으로 집중되어, 대만과 한국이 전 세계 최첨단 파운드리 생산의 80% 이상을 점유해 왔습니다. 이러한 지리적 집적은 전례 없는 규모의 경제와 눈부신 공정 혁신을 낳았지만, 동시에 치명적인 공급망 취약성을 야기했습니다. 자연재해, 대만 해협을 둘러싼 지정학적 긴장, 해상 물류 병목 현상은 글로벌 전자 산업 전체를 마비시키는 칩 기근 사태로 몰아넣을 잠재적 위험을 상시 품고 있었습니다.",
-        "sentences": [
-          {
-            "en": "For decades, manufacturing capacity congregated with Taiwan and South Korea dominating advanced fabrication.",
-            "ko": "수십 년간 대만과 한국이 첨단 반도체 파운드리 생산의 대부분을 지배해 왔습니다."
-          },
-          {
-            "en": "Geographic clustering yielded economies of scale but introduced acute systemic vulnerabilities.",
-            "ko": "지리적 집중은 규모의 경제를 창출했으나 심각한 시스템적 공급망 취약점을 낳았습니다."
-          },
-          {
-            "en": "Geopolitical friction or maritime disruptions threatened worldwide industrial shutdowns.",
-            "ko": "지정학적 분쟁이나 해상 물류 차질은 전 세계 제조업 셧다운을 위협하는 위험 요인이었습니다."
-          }
-        ]
-      },
-      {
-        "en": "In response, sovereign governments in North America, Europe, and Asia have mobilized hundreds of billions of dollars in public capital through landmark industrial legislation such as the U.S. CHIPS and Science Act and the European Chips Act. These state-backed initiatives provide direct subsidies, investment tax credits, and infrastructure guarantees to incentivize global chipmakers—such as TSMC, Samsung, and Intel—to construct mega-fabs domestically. However, establishing cutting-edge semiconductor ecosystems on foreign soil has exposed acute structural headwinds: exorbitant construction costs, chronic shortages of specialized cleanroom technicians, and complex cross-border regulatory compliance.",
-        "ko": "이에 대응하여 북미, 유럽, 아시아 각국 정부는 미국 칩스법(CHIPS Act)과 유럽 반도체법과 같은 획기적인 산업 육성 법안을 통해 수천억 달러에 달하는 공적 자금을 투입하고 있습니다. 이러한 국가 차원의 이니셔티브는 TSMC, 삼성전자, 인텔과 같은 글로벌 칩 제조업체들이 자국 영토 내에 메가 팹(대규모 공장)을 짓도록 장려하기 위해 직접 보조금, 투자 세액 공제, 인프라 지원을 제공합니다. 그러나 해외에 최첨단 반도체 생태계를 구축하는 과정은 막대한 건설 비용, 전문 클린룸 기술 인력의 만성적 부족, 복잡한 다국적 규제 준수라는 혹독한 구조적 난관에 부딪히고 있습니다.",
-        "sentences": [
-          {
-            "en": "Governments have mobilized hundreds of billions of dollars through landmark industrial legislation like the CHIPS Act.",
-            "ko": "각국 정부는 칩스법 등 파격적인 산업 정책을 통해 수천억 달러의 보조금을 쏟아붓고 있습니다."
-          },
-          {
-            "en": "Direct subsidies incentivize global foundries to construct state-of-the-art domestic mega-fabs.",
-            "ko": "직접 보조금을 지급하여 글로벌 파운드리들이 자국 내에 최첨단 대형 공장을 짓도록 유도하고 있습니다."
-          },
-          {
-            "en": "Building fabs on foreign soil has exposed high construction costs and shortages of specialized talent.",
-            "ko": "해외 팹 건설은 천문학적인 건설비와 반도체 전문 인력 부족이라는 거대한 장벽에 직면해 있습니다."
-          }
-        ]
-      },
-      {
-        "en": "Simultaneously, the competitive battleground is shifting toward advanced 3D packaging and extreme ultraviolet (EUV) lithography equipment. As physical transistor scaling nears atomic quantum limits, performance gains are increasingly unlocked by stacking logic and High Bandwidth Memory (HBM) vertically using silicon interposers. The mastery of these advanced packaging technologies, alongside domestic chemical precursor supply chains, will determine which nations preserve economic sovereignty and technological primacy in the artificial intelligence century.",
-        "ko": "동시에 경쟁의 격전지는 첨단 3D 패키징과 극자외선(EUV) 노광 장비로 이동하고 있습니다. 물리적 트랜지스터 미세화가 원자 단위의 양자역학적 한계에 다다름에 따라, 실리콘 인터포저를 활용하여 연산 로직과 고대역폭 메모리(HBM)를 수직으로 적층하는 패키징 기술을 통해 성능 혁신이 이루어지고 있습니다. 반도체 특수가스 및 핵심 소재의 안정적 공급망과 더불어 이러한 첨단 패키징 기술을 지배하는 국가가 인공지능 시대의 경제 주권과 기술 패권을 장악하게 될 것입니다.",
-        "sentences": [
-          {
-            "en": "The competitive battleground is shifting toward advanced 3D packaging and EUV lithography.",
-            "ko": "기술 패권의 승부처는 이제 첨단 3D 패키징과 EUV 노광 장비 분야로 이동하고 있습니다."
-          },
-          {
-            "en": "Performance gains are unlocked by stacking logic and High Bandwidth Memory vertically.",
-            "ko": "연산 칩과 고대역폭 메모리(HBM)를 수직으로 쌓아 올림으로써 물리적 한계를 뛰어넘는 성능을 냅니다."
-          },
-          {
-            "en": "Mastery of advanced packaging will determine technological primacy in the artificial intelligence century.",
-            "ko": "첨단 패키징 기술의 장악 여부가 인공지능 시대의 글로벌 기술 패권을 최종 결정할 것입니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "반도체가 21세기 디지털 경제와 국방의 최고 전략 물자로 격상되며 글로벌 공급망의 지정학적 재편이 가속화되고 있습니다.",
-      "미국과 유럽이 칩스법을 통해 수천억 달러 보조금을 지급하며 팹 자국화를 추진 중이나, 고비용과 전문 인력 부족이라는 과제에 직면해 있습니다.",
-      "미세화 한계를 돌파하기 위한 고대역폭 메모리(HBM) 및 3D 첨단 패키징 역량이 AI 시대 기술 주권의 핵심 열쇠로 떠올랐습니다."
-    ],
-    "quiz": [
-      {
-        "question": "What technological innovation has become critical to circumvent physical transistor scaling limits?",
-        "options": [
-          "Advanced 3D packaging and vertical HBM stacking",
-          "Returning to vacuum tubes",
-          "Eliminating silicon interposers entirely"
-        ],
-        "answer": 0,
-        "explanation": "Advanced 3D packaging and vertically stacking logic with High Bandwidth Memory (HBM) unlock performance beyond traditional planar scaling."
-      },
-      {
-        "question": "What primary vulnerability led nations to enact domestic semiconductor legislation?",
-        "options": [
-          "Extreme geographic concentration of advanced fabrication in East Asia",
-          "Excessive oversupply of free memory chips",
-          "Global decline in personal computer usage"
-        ],
-        "answer": 0,
-        "explanation": "Over 80% of leading-edge foundry fabrication was concentrated in East Asia, creating acute systemic supply chain risks."
-      }
-    ],
-    "wordCount": 283,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ]
-  },
-  {
-    "id": "sports-1",
-    "category": "sports",
-    "level": "A2-B1",
-    "title": "The Algorithmic Pitch: How Spatial Tracking and AI Analytics Are Redefining Global Football",
-    "subtitle": "Computer vision, expected threat models, and real-time tactical geometry transform the world's most popular sport.",
-    "speaker": "The Athletic / Sports Science Quarterly",
-    "date": "August 2026",
-    "readTime": "3 min",
-    "paragraphs": [
-      {
-        "en": "Association football, traditionally venerated as an intuitive art form driven by human flair and instinctive improvisation, is undergoing an irreversible mathematical revolution. Elite European clubs competing in the UEFA Champions League and English Premier League now deploy state-of-the-art optical tracking systems and computer vision algorithms capable of capturing twenty-nine skeletal data points per player at fifty frames per second. The resulting firehose of spatiotemporal data has fundamentally altered how matches are planned, analyzed, and won.",
-        "ko": "인간의 타고난 번뜩임과 본능적인 즉흥성에 의해 지배되는 직관의 예술로 오랫동안 칭송받아 온 축구가 돌이킬 수 없는 수학적 혁명을 겪고 있습니다. UEFA 챔피언스리그와 잉글랜드 프리미어리그에서 경쟁하는 유럽 명문 구단들은 이제 초당 50프레임의 속도로 선수당 29개의 골격 관절 좌표를 추적할 수 있는 최첨단 광학 추적 시스템과 컴퓨터 비전 알고리즘을 실시간으로 가동하고 있습니다. 이렇게 쏟아지는 시공간 데이터는 경기 전술이 수립되고, 분석되며, 승리를 쟁취하는 방식을 근본적으로 바꾸어 놓았습니다.",
-        "sentences": [
-          {
-            "en": "Association football is undergoing an irreversible mathematical and algorithmic revolution.",
-            "ko": "축구는 돌이킬 수 없는 수학적이고 알고리즘적인 전술 혁명을 겪고 있습니다."
-          },
-          {
-            "en": "Elite clubs deploy optical tracking capturing twenty-nine skeletal data points per player at fifty frames per second.",
-            "ko": "명문 클럽들은 초당 50프레임으로 선수당 29개의 골격 관절 데이터를 추적하는 광학 시스템을 가동합니다."
-          },
-          {
-            "en": "Spatiotemporal data has fundamentally altered how matches are planned, analyzed, and won.",
-            "ko": "이 방대한 시공간 데이터는 경기를 분석하고 승리 전략을 짜는 방식을 근본적으로 뒤바꿨습니다."
-          }
-        ]
-      },
-      {
-        "en": "The analytical vanguard has expanded far beyond rudimentary statistics such as possession percentage and pass completion rates. Advanced metrics such as Expected Goals (xG), Expected Threat (xT), and Pitch Control models measure how effectively a team manipulates defensive spatial geometry. Algorithms quantify the probability of an offensive possession culminating in a score from any coordinate on the pitch, enabling managers to design high-probability passing sequences and optimize defensive pressing triggers with mathematical precision.",
-        "ko": "데이터 분석의 최전선은 점유율이나 패스 성공률과 같은 원초적인 통계를 아득히 넘어섰습니다. 기대 득점(xG), 기대 위협도(xT), 피치 컨트롤(Pitch Control) 모델과 같은 고도화된 지표는 한 팀이 상대의 수비 공간 기하학을 얼마나 효과적으로 흔들고 통제하는지를 정밀 측정합니다. 알고리즘은 경기장 내 모든 위치에서 공격 전개가 득점으로 연결될 확률을 수학적으로 정량화하여, 감독들이 확률 높은 패스 경로를 설계하고 상대 압박의 타이밍을 수학적 정확성으로 최적화할 수 있도록 지원합니다.",
-        "sentences": [
-          {
-            "en": "The analytical vanguard has expanded far beyond possession percentage and pass counts.",
-            "ko": "현대 축구 분석은 단순 점유율이나 패스 횟수를 훌쩍 뛰어넘는 수준으로 발전했습니다."
-          },
-          {
-            "en": "Metrics like Expected Goals and Pitch Control quantify how teams manipulate defensive spatial geometry.",
-            "ko": "기대 득점(xG)과 피치 컨트롤 지표는 팀이 수비 공간을 어떻게 공략하는지를 정량화합니다."
-          },
-          {
-            "en": "Managers design high-probability passing sequences and pressing triggers with mathematical precision.",
-            "ko": "지도자들은 득점 확률이 극대화되는 패스 경로와 전방 압박 타이밍을 정밀 설계합니다."
-          }
-        ]
-      },
-      {
-        "en": "This empirical revolution extends directly into recruitment, talent scouting, and biometric injury prevention. Rather than relying solely on subjective subjective scout impressions, sporting directors utilize machine learning models to identify undervalued talent across secondary global leagues. Wearable biometric telemetry continuously monitors cardiac strain, muscular acceleration loads, and metabolic output during training, enabling sports medicine staffs to intervene and adjust workloads before acute hamstring tears or ligament sprains occur.",
-        "ko": "이러한 실증적 데이터 혁명은 선수 영입과 유망주 스카우팅, 생체 역학적 부상 예방 분야로도 직결됩니다. 스카우트의 주관적인 직관에만 의존하던 과거와 달리, 스포츠 디렉터들은 머신러닝 모델을 활용하여 전 세계 하부 리그에서 저평가된 진주 같은 인재들을 발굴합니다. 훈련 중 선수들이 착용하는 웨어러블 텔레메트리 장비는 심폐 부하, 근육 가속 부하, 대사 소모량을 쉼 없이 모니터링하여, 햄스트링 파열이나 인대 염좌 같은 치명적 부상이 발생하기 전에 의료진이 훈련량을 선제적으로 조절하도록 돕습니다.",
-        "sentences": [
-          {
-            "en": "The empirical revolution extends into recruitment, talent scouting, and biometric injury prevention.",
-            "ko": "이 데이터 혁명은 스카우트와 선수 영입, 생체 역학 기반의 부상 방지로 직결됩니다."
-          },
-          {
-            "en": "Sporting directors utilize machine learning to identify undervalued talent across global leagues.",
-            "ko": "구단들은 머신러닝 모델을 통해 전 세계 리그에서 저평가된 알짜배기 유망주를 발굴합니다."
-          },
-          {
-            "en": "Wearable telemetry monitors muscular loads, allowing medical staff to prevent soft-tissue tears proactively.",
-            "ko": "웨어러블 센서가 근육 부하를 실시간 모니터링하여 치명적인 근육 부상을 사전에 차단합니다."
-          }
-        ]
-      },
-      {
-        "en": "Yet, the quantitative transformation has ignited fervent philosophical debates regarding the romantic soul of the beautiful game. Traditionalists argue that algorithmic micromanagement risks homogenizing creative play, curbing eccentric individual dribblers in favor of sterile passing networks that maximize possession safety. Nevertheless, elite tacticians counter that spatial data does not suppress individual genius; rather, it creates the structural platforms that allow genuine creative brilliance to shine with devastating efficiency.",
-        "ko": "그러나 이러한 계량적 혁신은 '아름다운 게임'이라 불리는 축구의 낭만적 영혼을 둘러싼 뜨거운 철학적 논쟁을 촉발했습니다. 전통주의자들은 알고리즘에 의한 극단적인 통제가 축구의 창의성을 획일화하고, 번뜩이는 개인기를 선보이는 드리블러들을 위축시키며 오직 볼 소유 안전성만을 극대화하는 메마른 패스 게임을 낳는다고 비판합니다. 그럼에도 정상급 전술가들은 공간 데이터가 개인의 천재성을 억압하는 것이 아니라, 진정한 창의적 번뜩임이 파괴적인 효율성으로 폭발할 수 있는 구조적 무대를 만들어주는 것이라고 반박합니다.",
-        "sentences": [
-          {
-            "en": "The quantitative transformation has ignited debates regarding the romantic soul of the beautiful game.",
-            "ko": "정량적 데이터 분석의 확산은 축구의 낭만적 본질을 둘러싼 뜨거운 논쟁을 불러왔습니다."
-          },
-          {
-            "en": "Critics argue that algorithmic management homogenizes play and curbs creative individual dribblers.",
-            "ko": "비판론자들은 데이터 중심 전술이 플레이를 획일화하고 창의적인 드리블러를 위축시킨다고 지적합니다."
-          },
-          {
-            "en": "Tacticians counter that spatial data creates the structural foundation that empowers creative brilliance.",
-            "ko": "전술가들은 공간 데이터가 오히려 개인의 천재성이 빛을 발할 수 있는 최적의 무대를 열어준다고 맞섭니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "현대 축구가 초당 50프레임의 관절 추적 컴퓨터 비전과 공간 좌표 데이터 기반의 정밀 전술 시대로 진화했습니다.",
-      "기대 득점(xG)과 피치 컨트롤 지표를 통해 경기장 내 득점 확률을 극대화하는 전술적 패스 시퀀스가 설계되고 있습니다.",
-      "선수 스카우팅과 웨어러블 생체 역학 모니터링을 결합하여 선수 부상을 사전에 예방하고 구단 운영의 효율을 극대화하고 있습니다."
-    ],
-    "quiz": [
-      {
-        "question": "What advanced metric quantifies the territory controlled by a team at any given moment on the pitch?",
-        "options": [
-          "Pitch Control models",
-          "Simple corner kick counts",
-          "Yellow card tallies"
-        ],
-        "answer": 0,
-        "explanation": "Pitch Control models mathematically calculate the spatial territory dominated by players based on velocity and trajectory."
-      },
-      {
-        "question": "How do wearable telemetry systems protect elite athletes from acute injuries?",
-        "options": [
-          "By monitoring muscular acceleration loads and metabolic fatigue in real time",
-          "By shielding players with carbon-fiber armor",
-          "By reducing the total minutes in official matches"
-        ],
-        "answer": 0,
-        "explanation": "Wearables track muscular and cardiac loads, alerting coaches to fatigue before soft-tissue injuries occur."
-      }
-    ],
-    "wordCount": 284,
-    "keywords": [
-      "#프리미어리그",
-      "#축구전술",
-      "#AI데이터",
-      "#공간분석"
-    ],
-    "sportSubcat": "premier_league",
-    "sportPriority": 3
-  },
-  {
-    "id": "sports-2",
-    "category": "sports",
-    "level": "A2-B1",
-    "title": "Breaking the Two-Hour Marathon Barrier: Biomechanics, Carbon Plating, and Human Physiology",
-    "subtitle": "How super-shoes, metabolic thresholds, and aerodynamic drafting engineered the fastest distance times in history.",
-    "speaker": "Runner's World / Exercise Physiology Digest",
-    "date": "July 2026",
-    "readTime": "3 min",
-    "paragraphs": [
-      {
-        "en": "For nearly a century, running a standard 42.195-kilometer marathon in under two hours was considered humanly impossible. Exercise physiologists calculated that sustaining a pace of two minutes and fifty seconds per kilometer over twenty-six miles exceeded the thermodynamic limits of the human cardiovascular system. Yet, through the synergistic convergence of biomechanical footwear engineering, precision carbohydrate hydration, and aerodynamic drafting, the once-mythic sub-two-hour frontier has been definitively conquered.",
-        "ko": "거의 1세기 동안 42.195킬로미터 정규 마라톤을 2시간 이내에 완주하는 것은 인간의 생리학적 한계를 넘어서는 불가능의 영역으로 여겨졌습니다. 운동생리학자들은 1킬로미터당 2분 50초의 살인적인 페이스를 42킬로미터 내내 유지하는 것은 인간 심혈관계의 열역학적 한계를 초과한다고 계산했습니다. 그러나 생체 역학적 러닝화 공학, 정밀 탄수화물 수분 보충, 공기역학적 바람막이 편대 주행의 시너지 효과를 통해, 한때 신화로만 여겨졌던 '서브 2'의 장벽이 마침내 무너졌습니다.",
-        "sentences": [
-          {
-            "en": "Running a marathon in under two hours was long considered physiologically impossible.",
-            "ko": "마라톤을 2시간 이내에 달리는 것은 오랫동안 생리학적으로 불가능하다고 여겨졌습니다."
-          },
-          {
-            "en": "Maintaining a pace of 2:50 per kilometer exceeded traditional thermodynamic cardiovascular limits.",
-            "ko": "킬로미터당 2분 50초의 페이스를 유지하는 것은 전통적인 심혈관계의 한계를 초과하는 것이었습니다."
-          },
-          {
-            "en": "Through biomechanical footwear, precision nutrition, and drafting, the mythic frontier was conquered.",
-            "ko": "생체 역학 신발, 정밀 영양 공급, 바람막이 러닝의 융합으로 이 신화적 장벽은 정복되었습니다."
-          }
-        ]
-      },
-      {
-        "en": "The technological centerpiece of this transformation is the 'super-shoe' paradigm. By sandwiching a curved, stiff carbon-fiber plate within ultra-resilient polyether block amide (PEBA) foams, footwear engineers reduced the metabolic cost of running by roughly four percent. The shoe acts not merely as a shock-absorbing cushion, but as a mechanical spring and lever that minimizes energy lost at the metatarsophalangeal joint and returns propulsive kinetic force with every footstrike.",
-        "ko": "이러한 혁신의 기술적 중심에는 '슈퍼 슈즈(Super-shoes)' 패러다임이 있습니다. 초고탄성 폴리에테르 블록 아미드(PEBA) 폼 샌드위치 구조 사이에 휘어진 고탄성 탄소 섬유(카본) 플레이트를 삽입함으로써, 신발 공학자들은 달릴 때 소모되는 대사 비용을 약 4% 절감시켰습니다. 이 신발은 단순한 충격 흡수 쿠션을 넘어 기계적인 스프링이자 지렛대 역할을 하여, 발가락 관절에서 손실되는 에너지를 최소화하고 발이 지면에 닿을 때마다 추진력 있는 운동 에너지를 돌려줍니다.",
-        "sentences": [
-          {
-            "en": "The technological centerpiece of this transformation is the 'super-shoe' paradigm.",
-            "ko": "이러한 기록 단축 혁명의 기술적 핵심에는 '슈퍼 슈즈' 패러다임이 있습니다."
-          },
-          {
-            "en": "Sandwiching stiff carbon-fiber plates within resilient foams reduced metabolic energy cost by four percent.",
-            "ko": "고탄성 폼 사이에 탄소 섬유 판을 삽입하여 달리기 시 소모되는 에너지 비용을 약 4% 줄였습니다."
-          },
-          {
-            "en": "The shoe acts as a mechanical spring, returning propulsive kinetic force with every footstrike.",
-            "ko": "신발이 기계적 용수철처럼 작용하여 발이 땅을 디딜 때마다 강력한 추진력을 되돌려줍니다."
-          }
-        ]
-      },
-      {
-        "en": "Simultaneously, nutritional science has unlocked sustained cellular energy delivery through hydrogel carbohydrate matrices. In past decades, runners were constrained by the human gut's capacity to absorb only sixty grams of carbohydrates per hour without debilitating gastrointestinal distress. Modern hydrogel formulations encapsulate glucose and fructose in a protective alginate barrier, enabling runners to oxidize upwards of ninety to one hundred grams of carbohydrates hourly, preventing glycogen depletion during the critical final ten kilometers.",
-        "ko": "이와 동시에 영양 과학은 하이드로겔 탄수화물 매트릭스를 통해 지속적인 세포 에너지 공급을 실현했습니다. 과거 수십 년 동안 주자들은 심각한 위장 장애 없이 시간당 60그램의 탄수화물만을 흡수할 수 있는 인체 소화기관의 한계에 갇혀 있었습니다. 현대의 하이드로겔 제형은 포도당과 과당을 보호성 알지네이트 장벽으로 감싸 장까지 안전하게 운반함으로써, 선수들이 시간당 90~100그램 이상의 탄수화물을 산화시켜 에너지를 공급받게 함으로써 승부처인 마지막 10킬로미터 구간에서 글리코겐 고갈(벽에 부딪히는 현상)을 원천 차단합니다.",
-        "sentences": [
-          {
-            "en": "Nutritional science has unlocked sustained cellular energy via hydrogel carbohydrate matrices.",
-            "ko": "영양 과학은 하이드로겔 탄수화물 기술을 통해 지속적인 세포 에너지 공급을 가능케 했습니다."
-          },
-          {
-            "en": "Runners were historically limited to absorbing sixty grams of carbohydrates hourly without distress.",
-            "ko": "과거 러너들은 위장 장애 없이 시간당 60그램의 탄수화물을 흡수하는 것이 한계였습니다."
-          },
-          {
-            "en": "Hydrogels encapsulate sugars, enabling runners to oxidize up to one hundred grams hourly without glycogen crashes.",
-            "ko": "하이드로겔 제형은 시간당 최대 100g의 탄수화물 연소를 도와 막판 글리코겐 고갈을 막아줍니다."
-          }
-        ]
-      },
-      {
-        "en": "The conquering of the two-hour marathon stands as a testament to the synthesis of human grit and engineering excellence. It reminds us that biological limits are rarely immutable brick walls; rather, they are flexible frontiers waiting to be renegotiated when rigorous scientific inquiry empowers the indomitable human spirit.",
-        "ko": "마라톤 2시간 장벽의 돌파는 인간의 불굴의 투지와 첨단 과학 공학의 결합이 낳은 빛나는 증거입니다. 그것은 인간 생물학적 한계가 결코 넘을 수 없는 영구적인 콘크리트 벽이 아니라, 엄밀한 과학적 탐구가 꺾이지 않는 인간의 영혼과 만날 때 언제든 새롭게 확장될 수 있는 유연한 개척지임을 우리에게 일깨워줍니다.",
-        "sentences": [
-          {
-            "en": "Breaking the two-hour barrier is a testament to human grit and engineering excellence.",
-            "ko": "2시간 장벽 돌파는 인간의 강인한 투지와 첨단 공학의 융합이 만들어낸 역사적 결실입니다."
-          },
-          {
-            "en": "Biological limits are flexible frontiers waiting to be renegotiated through rigorous scientific inquiry.",
-            "ko": "인간의 생물학적 한계는 치밀한 과학적 탐구를 통해 언제든 새롭게 확장될 수 있는 개척지입니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "불가능으로 여겨졌던 마라톤 2시간 벽이 카본 플레이트 러닝화와 하이드로겔 영양학의 결합으로 돌파되었습니다.",
-      "PEBA 고탄성 폼과 카본 섬유 판의 탄성 복원력을 통해 달리기 대사 에너지 소모를 4% 절감시켰습니다.",
-      "하이드로겔 기술로 시간당 100g 이상의 탄수화물 흡수가 가능해지며 막판 체력 고갈(탈진)을 성공적으로 극복했습니다."
-    ],
-    "quiz": [
-      {
-        "question": "What technological feature in 'super-shoes' reduces the metabolic cost of running by roughly 4%?",
-        "options": [
-          "A curved carbon-fiber plate embedded within resilient PEBA foam",
-          "Heavy lead-lined soles",
-          "Internal electric motorized wheels"
-        ],
-        "answer": 0,
-        "explanation": "Curved carbon-fiber plates embedded in high-energy PEBA foam function as mechanical springs reducing running energy cost."
-      },
-      {
-        "question": "How do modern hydrogel matrices prevent runner 'hitting the wall' late in the marathon?",
-        "options": [
-          "By enabling the oxidation of 90-100g of carbohydrates hourly without gastrointestinal distress",
-          "By freezing leg muscles",
-          "By reducing heart rate to zero"
-        ],
-        "answer": 0,
-        "explanation": "Hydrogel encapsulation allows runners to absorb and oxidize up to 100g of carbohydrates hourly, preserving critical glycogen stores."
-      }
-    ],
-    "wordCount": 255,
-    "keywords": [
-      "#마라톤",
-      "#스포츠생리학",
-      "#러닝과학",
-      "#기타스포츠"
-    ],
-    "sportSubcat": "other",
-    "sportPriority": 4
-  },
-  {
-    "id": "culture-1",
-    "category": "culture",
-    "level": "A2-B1",
-    "title": "The Architecture of Global Fandom: The Transmedia Economics of the Korean Wave",
-    "subtitle": "Beyond chart-topping singles: Community platforms, synchronous virtual fan events, and participatory pop culture.",
-    "speaker": "Variety / Cultural Industry Review",
-    "date": "August 2026",
-    "readTime": "3 min",
-    "paragraphs": [
-      {
-        "en": "The global expansion of the Korean Wave (Hallyu) has matured from an episodic regional export into one of the most sophisticated transmedia business models in modern entertainment history. While Western music industries historically derived the lion's share of revenue from streaming subscriptions and physical stadium tours, Korean entertainment agencies pioneered an ecosystem that monetizes emotional connection and hyper-engaged participatory fandom across borderless digital platforms.",
-        "ko": "한류(Korean Wave)의 전 세계적 확산은 일시적인 지역 수출 현상을 넘어 현대 엔터테인먼트 역사상 가장 정교한 트랜스미디어 비즈니스 모델 중 하나로 완전히 성숙했습니다. 서구 음악 산업이 주로 음원 스트리밍 구독과 오프라인 스타디움 투어에 수익을 의존해 온 반면, 한국 기획사들은 국경 없는 디지털 플랫폼을 통해 정서적 유대감과 열정적인 팬덤의 참여를 수익화하는 입체적인 생태계를 개척했습니다.",
-        "sentences": [
-          {
-            "en": "The global expansion of the Korean Wave has matured into a sophisticated transmedia business model.",
-            "ko": "한류의 전 세계적 확장은 고도로 정교한 트랜스미디어 비즈니스 모델로 진화했습니다."
-          },
-          {
-            "en": "Western industries historically relied heavily on streaming subscriptions and traditional stadium touring.",
-            "ko": "서구 엔터테인먼트 산업은 역사적으로 단순 스트리밍 구독과 콘서트 투어 수익에 크게 의존했습니다."
-          },
-          {
-            "en": "Korean entertainment agencies pioneered platforms that monetize hyper-engaged participatory global fandom.",
-            "ko": "한국 기획사들은 국경 없는 플랫폼을 통해 팬들의 깊은 유대감과 참여를 결합한 새로운 모델을 열었습니다."
-          }
-        ]
-      },
-      {
-        "en": "Central to this economic architecture is the convergence of bespoke direct-to-consumer super-apps such as Weverse and Bubble. These proprietary platforms bypass traditional social media gatekeepers, establishing walled-garden environments where artists communicate directly with subscribers through real-time push messages, exclusive behind-the-scenes video content, and simultaneous multilingual translation. Fans do not passively consume a finished creative product; they co-create a dynamic cultural phenomenon through coordinated global streaming campaigns, charitable voting drives, and user-generated digital artwork.",
-        "ko": "이 경제 구조의 핵심은 위버스(Weverse)나 버블(Bubble)과 같은 맞춤형 D2C(Direct-to-Consumer) 슈퍼 앱의 결합입니다. 이러한 독자적인 플랫폼들은 전통적인 소셜 미디어 중개자를 거치지 않고, 아티스트가 실시간 푸시 메시지, 독점 비하인드 영상, 동시 다국어 번역을 통해 팬들과 직접 소통하는 폐쇄형 생태계를 구축합니다. 팬들은 완성된 문화 상품을 수동적으로 소비하는 데 그치지 않고, 글로벌 총공 스트리밍, 자선 기부 투표, 2차 디지털 창작물 제작을 통해 역동적인 문화 현상을 아티스트와 함께 공동 창조합니다.",
-        "sentences": [
-          {
-            "en": "Central to this architecture is the convergence of direct-to-consumer super-apps like Weverse and Bubble.",
-            "ko": "이 비즈니스 구조의 중심에는 위버스와 버블 같은 자체 D2C 슈퍼 앱의 결합이 자리하고 있습니다."
-          },
-          {
-            "en": "These proprietary platforms establish direct communication with fans via push messaging and multilingual translation.",
-            "ko": "독자적 플랫폼을 통해 실시간 메시지와 다국어 번역으로 스타와 팬이 직접 긴밀하게 소통합니다."
-          },
-          {
-            "en": "Fans co-create the cultural phenomenon through coordinated streaming campaigns and participatory projects.",
-            "ko": "팬들은 일사불란한 스트리밍 캠페인과 참여형 프로젝트를 통해 문화를 아티스트와 함께 만들어갑니다."
-          }
-        ]
-      },
-      {
-        "en": "Furthermore, the IP monetization strategy extends horizontally across episodic webtoons, mobile gaming franchises, luxury fashion ambassadorships, and immersive virtual reality fan engagements. A single musical comeback is treated as an expansive narrative event, complete with cinematic universe lore that unfolds across web series and episodic visual teasers. This serialized narrative framework fosters profound brand loyalty, driving unprecedented sales of physical collectible albums and high-margin merchandise despite the secular decline of physical media in Western markets.",
-        "ko": "나아가 IP(지식재산권) 수익화 전략은 웹툰, 모바일 게임 프랜차이즈, 명품 패션 앰버서더십, 몰입형 가상현실 팬미팅에 이르기까지 수평적으로 광범위하게 확장됩니다. 하나의 음반 컴백은 웹 시리즈와 티저 영상을 통해 공개되는 치밀한 시네마틱 유니버스 세계관을 갖춘 거대한 서사적 이벤트로 다루어집니다. 이러한 연속 서사 구조는 강력한 브랜드 충성도를 창출하여, 서구 시장에서 실물 음반이 쇠퇴하는 추세 속에서도 소장용 피지컬 앨범과 고마진 공식 굿즈의 기록적인 판매고를 견인하고 있습니다.",
-        "sentences": [
-          {
-            "en": "The IP monetization strategy extends horizontally across webtoons, luxury ambassadorships, and gaming.",
-            "ko": "지식재산권(IP) 전략은 웹툰, 명품 앰버서더, 모바일 게임 등으로 광범위하게 확장됩니다."
-          },
-          {
-            "en": "A single musical comeback is treated as an expansive narrative event with cinematic universe lore.",
-            "ko": "단 한 번의 컴백도 치밀한 세계관 서사가 담긴 거대한 문화 이벤트로 기획됩니다."
-          },
-          {
-            "en": "This serialized framework fosters intense loyalty, driving robust physical album and merchandise sales.",
-            "ko": "이러한 스토리텔링은 깊은 충성도를 낳아 피지컬 음반과 고부가가치 굿즈의 폭발적 소비로 이어집니다."
-          }
-        ]
-      },
-      {
-        "en": "As Hollywood studios, European fashion houses, and Silicon Valley platforms seek to replicate this participatory blueprint, Hallyu demonstrates that in the digital attention economy, community is the ultimate moat. When consumers feel a genuine sense of agency, belonging, and shared collective identity within a global community, cultural entertainment ceases to be a momentary distraction and becomes a transformative, lifelong passion.",
-        "ko": "할리우드 영화사, 유럽의 명품 패션 하우스, 실리콘밸리 플랫폼들이 이 참여형 팬덤 모델을 벤치마킹하려고 애쓰는 가운데, 한류는 디지털 관심 경제(Attention Economy) 시대에 있어 '커뮤니티'야말로 가장 강력하고 지속 가능한 경제적 해자(Moat)임을 여실히 입증하고 있습니다. 소비자가 글로벌 커뮤니티 안에서 주체적인 효능감과 소속감, 공유된 집단적 정체성을 체감할 때, 문화 콘텐츠는 단순한 일회성 오락을 넘어 삶을 변화시키는 평생의 열정으로 자리 잡게 됩니다.",
-        "sentences": [
-          {
-            "en": "Global entertainment leaders now study this participatory blueprint across music and fashion.",
-            "ko": "전 세계 엔터테인먼트 리더들은 한류의 참여형 팬덤 모델을 집중적으로 연구하고 있습니다."
-          },
-          {
-            "en": "Hallyu demonstrates that in the digital attention economy, community is the ultimate moat.",
-            "ko": "한류는 디지털 관심 경제 시대에 강력한 커뮤니티가 가장 견고한 비즈니스 해자임을 증명했습니다."
-          },
-          {
-            "en": "When consumers experience belonging and agency, entertainment becomes a transformative lifelong passion.",
-            "ko": "소속감과 주체성을 경험할 때 문화 콘텐츠는 단순 오락을 넘어 삶을 관통하는 열정으로 승화됩니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "한류가 단순한 음원 소비를 넘어 위버스 등 자체 D2C 플랫폼과 적극적인 팬 참여를 결합한 글로벌 비즈니스 모델로 도약했습니다.",
-      "웹툰, 게임, 명품 패션, 시네마틱 유니버스 서사를 아우르는 전방위적 IP 확장을 통해 피지컬 앨범과 굿즈의 기록적 소비를 창출하고 있습니다.",
-      "디지털 관심 경제 시대에 팬들이 주체성과 소속감을 느끼는 '커뮤니티 파워'가 엔터테인먼트 산업의 가장 강력한 경제적 해자임을 입증했습니다."
-    ],
-    "quiz": [
-      {
-        "question": "What technological platform model revolutionized direct fan engagement for K-pop agencies?",
-        "options": [
-          "Proprietary D2C super-apps with real-time translation (e.g., Weverse, Bubble)",
-          "Static newspaper print classifieds",
-          "Audio-only cassette tapes"
-        ],
-        "answer": 0,
-        "explanation": "Proprietary D2C apps like Weverse and Bubble provide direct, multilingual communication channels bypassing standard social platforms."
-      },
-      {
-        "question": "Why is 'community' considered the ultimate moat in the modern attention economy?",
-        "options": [
-          "It fosters profound belonging and active participatory co-creation among consumers",
-          "It lowers product manufacturing standards",
-          "It eliminates all international shipping costs"
-        ],
-        "answer": 0,
-        "explanation": "Community creates genuine belonging and participatory engagement, transforming passive listeners into lifelong cultural advocates."
-      }
-    ],
-    "wordCount": 272,
-    "keywords": [
-      "#문화예술",
-      "#트렌드",
-      "#글로벌컬처"
-    ]
-  },
-  {
-    "id": "culture-2",
-    "category": "culture",
-    "level": "A2-B1",
-    "title": "Fast Fashion's Reckoning: Circular Textiles, Digital Passports, and Sustainable Luxury",
-    "subtitle": "How stringent EU regulations and regenerative fiber science are transforming the global apparel industry.",
-    "speaker": "Vogue Business / Sustainable Design Forum",
-    "date": "July 2026",
-    "readTime": "3 min",
-    "paragraphs": [
-      {
-        "en": "The global fashion industry is confronting an unprecedented structural reckoning. Long criticized as one of the world's most ecologically destructive economic sectors—responsible for roughly ten percent of global greenhouse gas emissions and colossal volumes of synthetic microplastic ocean pollution—the traditional linear 'take, make, dispose' business model is being dismantled by both regulatory mandates and consumer backlash.",
-        "ko": "글로벌 패션 산업이 전례 없는 구조적 심판의 기로에 직면했습니다. 전 세계 온실가스 배출량의 약 10%를 차지하고 엄청난 양의 합성 미세 플라스틱 해양 오염을 유발하며 지구상에서 가장 생태학적으로 파괴적인 산업 중 하나로 오랫동안 비판받아 온 '채취, 제조, 폐기'의 전통적인 선형 비즈니스 모델이 각국 규제 당국의 철퇴와 소비자들의 반발로 인해 해체되고 있습니다.",
-        "sentences": [
-          {
-            "en": "The global fashion industry is confronting an unprecedented structural reckoning.",
-            "ko": "글로벌 패션 업계는 유례없는 구조적 전환과 심판의 기로에 섰습니다."
-          },
-          {
-            "en": "Responsible for roughly ten percent of carbon emissions, the linear model faces intense scrutiny.",
-            "ko": "탄소 배출의 약 10%를 차지하는 기존의 선형 소비 모델은 강력한 비판에 직면해 있습니다."
-          },
-          {
-            "en": "The traditional 'take, make, dispose' model is being dismantled by regulations and consumer shifts.",
-            "ko": "생산 후 쉽게 버리던 기존 패션 모델은 환경 규제와 소비자 의식 변화로 붕괴하고 있습니다."
-          }
-        ]
-      },
-      {
-        "en": "Leading this historic transition is the European Union's landmark Ecodesign for Sustainable Products Regulation and mandatory Digital Product Passports. Under these statutory frameworks, every garment sold across major markets must carry a scannable digital identity tracing its lifecycle from raw fiber cultivation and water-efficient dyeing to ethical factory labor standards and post-consumer recyclability. Garments engineered with unrecyclable blended fibers face punitive disposal tariffs.",
-        "ko": "이 역사적인 전환을 이끄는 것은 유럽연합(EU)의 기념비적인 '지속 가능한 제품을 위한 에코디자인 규정'과 의무화된 '디지털 제품 여권(DPP)' 제도입니다. 이러한 법적 체계에 따라 주요 시장에서 판매되는 모든 의류는 원자재 섬유 재배, 절수형 염색 공정, 윤리적 노동 기준, 소비자 사용 후 재활용성에 이르는 전체 수명 주기를 추적할 수 있는 스캔 가능한 디지털 식별 태그를 의무적으로 부착해야 합니다. 재활용이 불가능한 혼방 섬유로 제작된 의류에는 가혹한 폐기 관세가 부과됩니다.",
-        "sentences": [
-          {
-            "en": "Leading this transition is the EU's Ecodesign framework and mandatory Digital Product Passports.",
-            "ko": "이 변화를 주도하는 것은 유럽연합(EU)의 에코디자인 법안과 의무화된 디지털 제품 여권입니다."
-          },
-          {
-            "en": "Garments must carry a digital identity tracing raw fiber origins, dyeing ethics, and recyclability.",
-            "ko": "모든 의류는 원자재 출처부터 염색 공정, 재활용성에 이르는 전 과정을 증명하는 디지털 여권을 지녀야 합니다."
-          },
-          {
-            "en": "Garments engineered with unrecyclable blended synthetic fibers face punitive environmental tariffs.",
-            "ko": "재활용이 불가능한 혼합 합성 섬유로 만든 옷에는 징벌적인 환경 분담금이 부과됩니다."
-          }
-        ]
-      },
-      {
-        "en": "In response, textile innovators and luxury conglomerates are investing billions in biochemical circularity and regenerative agriculture. Cutting-edge recycling facilities utilize enzymatic bio-recycling to break down discarded polyester garments back into virgin-grade chemical monomers without thermal degradation. Concurrently, high-fashion ateliers are pioneering mycelium-based fungi leather, closed-loop citrus peel fibers, and biodegradable seaweed biopolymers that decompose harmlessly in soil.",
-        "ko": "이에 발맞추어 섬유 혁신 기업들과 글로벌 명품 대기업들은 생화학적 자원 순환과 재생 농업에 수십억 달러를 투자하고 있습니다. 최첨단 재활용 공장들은 열적 품질 저하 없이 버려진 폴리에스터 의류를 버진 등급의 순수 단량체로 분해해 내는 효소 기반 생체 재활용(Enzymatic recycling) 기술을 적용하고 있습니다. 동시에 하이패션 아틀리에들은 균사체(버섯 뿌리) 기반의 가죽, 감귤 껍질을 재활용한 순환형 섬유, 토양에서 무해하게 생분해되는 해조류 바이오폴리머를 앞다투어 선보이고 있습니다.",
-        "sentences": [
-          {
-            "en": "Textile innovators are investing billions in biochemical circularity and enzymatic recycling.",
-            "ko": "섬유 혁신 기업들은 수십억 달러를 효소 기반 생체 재활용 등 자원 순환 기술에 쏟아붓고 있습니다."
-          },
-          {
-            "en": "Enzymatic bio-recycling breaks down polyester garments back into virgin-grade monomers without degradation.",
-            "ko": "효소 재활용은 헌 옷을 품질 저하 없이 원료 상태인 고순도 단량체로 되돌려 놓습니다."
-          },
-          {
-            "en": "Luxury brands pioneer mycelium fungi leathers and biodegradable seaweed biopolymers.",
-            "ko": "명품 브랜드들은 버섯 균사체 가죽과 생분해성 해조류 섬유 등 친환경 신소재를 개척하고 있습니다."
-          }
-        ]
-      },
-      {
-        "en": "Ultimately, the emerging circular paradigm redefines luxury itself. In the twenty-first century, true luxury is no longer defined by fleeting seasonal novelty or conspicuous disposable consumption. Rather, authentic prestige belongs to enduring craftsmanship, transparent provenance, and garments designed to circulate gracefully through human culture across generations.",
-        "ko": "궁극적으로 이러한 순환 경제 패러다임은 럭셔리의 개념 자체를 새롭게 정의하고 있습니다. 21세기에 진정한 명품은 더 이상 덧없이 지나가는 계절별 유행이나 과시적인 일회용 소비로 규정되지 않습니다. 진정한 품격은 오래도록 지속되는 장인 정신, 투명한 생산 이력, 그리고 세대를 거쳐 인간 문화 속을 우아하게 순환하도록 설계된 옷에 깃들어 있습니다.",
-        "sentences": [
-          {
-            "en": "The emerging circular paradigm fundamentally redefines luxury itself.",
-            "ko": "새롭게 부상하는 순환 경제 패러다임은 럭셔리의 본질을 근본적으로 재정의합니다."
-          },
-          {
-            "en": "True luxury is no longer defined by fleeting novelty or disposable consumption.",
-            "ko": "진정한 명품은 더 이상 일회성 유행이나 과시적 낭비로 정의되지 않습니다."
-          },
-          {
-            "en": "Authentic prestige belongs to enduring craftsmanship and transparent ecological provenance.",
-            "ko": "진정한 가치는 시대를 초월하는 장인 정신과 투명한 친환경 생산 이력에서 비롯됩니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "유럽연합의 디지털 제품 여권(DPP) 의무화 등 강력한 글로벌 환경 규제로 인해 패스트패션의 선형 소비 구조가 해체되고 있습니다.",
-      "효소 기반 폴리에스터 분해 기술과 균사체(버섯) 가죽, 해조류 바이오폴리머 등 생화학적 자원 순환 섬유가 급성장하고 있습니다.",
-      "21세기 진정한 럭셔리의 척도가 일회성 유행에서 영속적인 장인 정신과 투명한 생산 이력으로 전환되고 있습니다."
-    ],
-    "quiz": [
-      {
-        "question": "What regulatory mandate requires European apparel to trace its lifecycle from fiber to recycling?",
-        "options": [
-          "Mandatory Digital Product Passports (DPP)",
-          "Universal international postal waivers",
-          "Mandatory free plastic packaging"
-        ],
-        "answer": 0,
-        "explanation": "Digital Product Passports (DPP) mandate complete supply-chain transparency and recyclability tracking."
-      },
-      {
-        "question": "How does enzymatic bio-recycling differ from traditional mechanical textile recycling?",
-        "options": [
-          "It breaks polyester down to virgin-grade chemical monomers without thermal degradation",
-          "It burns fabrics to generate electricity",
-          "It dissolves clothing in toxic acid rivers"
-        ],
-        "answer": 0,
-        "explanation": "Enzymatic recycling chemically breaks polymers into pristine virgin-grade monomers without downcycling."
-      }
-    ],
-    "wordCount": 222,
-    "keywords": [
-      "#문화예술",
-      "#트렌드",
-      "#글로벌컬처"
     ]
   },
   {

@@ -122,10 +122,9 @@ const READPULSE_DICTIONARY = {
   },
   "autonomous": {
     "ipa": "/ɑːˈtɑː.nə.məs/",
-    "pos": "형용사",
-    "ko": "자율적인, 자주적인",
+    "meaning": "자율의, 자주적인",
     "cefr": "B2",
-    "example": "Autonomous AI agents execute complex multi-step refactoring workflows."
+    "ko": "자율의, 스스로 행동하는"
   },
   "ephemeral": {
     "ipa": "/ɪˈfem.ər.əl/",
@@ -153,15 +152,15 @@ const READPULSE_DICTIONARY = {
   },
   "subsidies": {
     "ipa": "/ˈsʌb.sə.diz/",
-    "meaning": "보조금, 장려금",
+    "meaning": "보조금들, 정부 지원금",
     "cefr": "B2",
-    "ko": "보조금, 장려금"
+    "ko": "보조금들, 정부 지원금"
   },
   "lithography": {
     "ipa": "/lɪˈθɑː.ɡrə.fi/",
-    "meaning": "노광 공정, 석판 인쇄술",
+    "meaning": "노광 공정 (회로를 새기는 공정)",
     "cefr": "C1",
-    "ko": "노광 공정, 석판 인쇄술"
+    "ko": "반도체 회로 노광 기술"
   },
   "photovoltaics": {
     "ipa": "/ˌfoʊ.toʊ.vɑːlˈteɪ.ɪks/",
@@ -895,10 +894,9 @@ const READPULSE_DICTIONARY = {
   },
   "radar": {
     "ipa": "/ˈreɪ.dɑːr/",
-    "pos": "명사",
-    "ko": "레이더 (전파 탐지기)",
+    "meaning": "레이더, 전파 탐지기",
     "cefr": "B1",
-    "example": "Weather radar detects storm clouds."
+    "ko": "레이더, 전파 탐지기"
   },
   "cloud": {
     "ipa": "/klaʊd/",
@@ -2696,5 +2694,335 @@ const READPULSE_DICTIONARY = {
     "meaning": "방어하는, 타이틀을 지키는 (디펜딩)",
     "cefr": "B1",
     "ko": "타이틀을 방어하는"
+  },
+  "pennant": {
+    "ipa": "/ˈpen.ənt/",
+    "meaning": "우승기, 페넌트 (시즌 우승 경쟁)",
+    "cefr": "B2",
+    "ko": "우승기, 페넌트레이스"
+  },
+  "postseason": {
+    "ipa": "/ˈpoʊstˌsiː.zən/",
+    "meaning": "포스트시즌 (정규 시즌 후 결선 경기)",
+    "cefr": "B1",
+    "ko": "포스트시즌, 가을야구"
+  },
+  "discipline": {
+    "ipa": "/ˈdɪs.ə.plɪn/",
+    "meaning": "규율, 자제력, 선구안",
+    "cefr": "B2",
+    "ko": "자제력, 선구안"
+  },
+  "rivalry": {
+    "ipa": "/ˈraɪ.vəl.ri/",
+    "meaning": "라이벌 관계, 경쟁",
+    "cefr": "B2",
+    "ko": "라이벌 관계, 경쟁"
+  },
+  "possession": {
+    "ipa": "/pəˈzeʃ.ən/",
+    "meaning": "소유, 점유 (볼 점유율)",
+    "cefr": "B1",
+    "ko": "소유, 볼 점유율"
+  },
+  "chicane": {
+    "ipa": "/ʃɪˈkeɪn/",
+    "meaning": "시케인 (레이싱 서킷의 급커브 연속 코너)",
+    "cefr": "B2",
+    "ko": "시케인 (S자 감속 코너)"
+  },
+  "podium": {
+    "ipa": "/ˈpoʊ.di.əm/",
+    "meaning": "시상대, 포디움",
+    "cefr": "B1",
+    "ko": "시상대, 포디움"
+  },
+  "on-device": {
+    "ipa": "/ˌɑːn.dɪˈvaɪs/",
+    "meaning": "온디바이스 (기기 자체 처리 방식의)",
+    "cefr": "B2",
+    "ko": "기기 자체에서 구동되는"
+  },
+  "supervision": {
+    "ipa": "/ˌsuː.pɚˈvɪʒ.ən/",
+    "meaning": "감독, 관리, 통제",
+    "cefr": "B2",
+    "ko": "감독, 관리"
+  },
+  "flagship": {
+    "ipa": "/ˈflæɡ.ʃɪp/",
+    "meaning": "기함, 주력 제품/사업",
+    "cefr": "B2",
+    "ko": "주력의, 대표적인"
+  },
+  "crust": {
+    "ipa": "/krʌst/",
+    "meaning": "지각, 단단한 겉껍질",
+    "cefr": "B1",
+    "ko": "지각, 단단한 표면"
+  },
+  "exoplanet": {
+    "ipa": "/ˈek.soʊˌplæn.ɪt/",
+    "meaning": "외계 행성 (태양계 밖의 행성)",
+    "cefr": "B2",
+    "ko": "외계 행성"
+  },
+  "habitable": {
+    "ipa": "/ˈhæb.ə.t̬ə.bəl/",
+    "meaning": "거주 가능한, 살기에 적합한",
+    "cefr": "B2",
+    "ko": "생명체가 살 수 있는"
+  },
+  "inflation": {
+    "ipa": "/ɪnˈfleɪ.ʃən/",
+    "meaning": "물가 상승, 인플레이션",
+    "cefr": "B1",
+    "ko": "물가 상승, 인플레이션"
+  },
+  "mortgage": {
+    "ipa": "/ˈmɔːr.ɡɪdʒ/",
+    "meaning": "주택 담보 대출",
+    "cefr": "B1",
+    "ko": "주택 담보 대출"
+  },
+  "foundry": {
+    "ipa": "/ˈfaʊn.dri/",
+    "meaning": "파운드리 (반도체 위탁 생산 공장)",
+    "cefr": "B2",
+    "ko": "반도체 위탁 생산 공장"
+  },
+  "foundries": {
+    "ipa": "/ˈfaʊn.driz/",
+    "meaning": "파운드리 공장들",
+    "cefr": "B2",
+    "ko": "반도체 위탁 생산 공장들"
+  },
+  "cleanroom": {
+    "ipa": "/ˈkliːn.ruːm/",
+    "meaning": "클린룸 (반도체 무진 청정실)",
+    "cefr": "B2",
+    "ko": "반도체 무진 청정실"
+  },
+  "ovation": {
+    "ipa": "/oʊˈveɪ.ʃən/",
+    "meaning": "열렬한 박수, 환호",
+    "cefr": "B2",
+    "ko": "열렬한 박수, 기립 박수"
+  },
+  "biography": {
+    "ipa": "/baɪˈɑː.ɡrə.fi/",
+    "meaning": "전기, 일대기",
+    "cefr": "B1",
+    "ko": "전기, 인물 일대기"
+  },
+  "webtoon": {
+    "ipa": "/ˈweb.tuːn/",
+    "meaning": "웹툰 (모바일 디지털 만화)",
+    "cefr": "A2",
+    "ko": "웹툰, 모바일 만화"
+  },
+  "vertical": {
+    "ipa": "/ˈvɝː.t̬ɪ.kəl/",
+    "meaning": "수직의, 세로의",
+    "cefr": "B1",
+    "ko": "수직의, 세로의"
+  },
+  "scrolling": {
+    "ipa": "/ˈskroʊ.lɪŋ/",
+    "meaning": "스크롤하기 (화면 넘기기)",
+    "cefr": "A2",
+    "ko": "스크롤, 화면 넘김"
+  },
+  "smartphone": {
+    "ipa": "/ˈsmɑːrt.foʊn/",
+    "meaning": "스마트폰, 지능형 모바일 기기",
+    "cefr": "A1",
+    "ko": "스마트폰"
+  },
+  "smartphones": {
+    "ipa": "/ˈsmɑːrt.foʊnz/",
+    "meaning": "스마트폰들",
+    "cefr": "A1",
+    "ko": "스마트폰들"
+  },
+  "processor": {
+    "ipa": "/ˈprɑː.ses.ɚ/",
+    "meaning": "프로세서, 중앙 처리 장치(CPU/칩)",
+    "cefr": "B1",
+    "ko": "프로세서, 처리 장치"
+  },
+  "processors": {
+    "ipa": "/ˈprɑː.ses.ɚz/",
+    "meaning": "프로세서들",
+    "cefr": "B1",
+    "ko": "프로세서들"
+  },
+  "privacy": {
+    "ipa": "/ˈpraɪ.və.si/",
+    "meaning": "개인정보 보호, 사생활",
+    "cefr": "B1",
+    "ko": "개인정보 보호, 사생활"
+  },
+  "unveil": {
+    "ipa": "/ʌnˈveɪl/",
+    "meaning": "공개하다, 베일을 벗기다",
+    "cefr": "B2",
+    "ko": "공개하다, 발표하다"
+  },
+  "unveils": {
+    "ipa": "/ʌnˈveɪlz/",
+    "meaning": "공개하다, 발표하다",
+    "cefr": "B2",
+    "ko": "공개하다, 발표하다"
+  },
+  "lineup": {
+    "ipa": "/ˈlaɪn.ʌp/",
+    "meaning": "라인업, 제품군, 선수 명단",
+    "cefr": "B1",
+    "ko": "제품군, 라인업"
+  },
+  "neural": {
+    "ipa": "/ˈnʊr.əl/",
+    "meaning": "신경의, 신경망의",
+    "cefr": "B2",
+    "ko": "신경망의, 뉴럴"
+  },
+  "companion": {
+    "ipa": "/kəmˈpæn.jən/",
+    "meaning": "동반자, 친구, 도우미",
+    "cefr": "B1",
+    "ko": "동반자, 동행"
+  },
+  "companions": {
+    "ipa": "/kəmˈpæn.jənz/",
+    "meaning": "동반자들, 친구들",
+    "cefr": "B1",
+    "ko": "동반자들"
+  },
+  "device": {
+    "ipa": "/dɪˈvaɪs/",
+    "meaning": "기기, 장치",
+    "cefr": "A2",
+    "ko": "기기, 전자 장치"
+  },
+  "devices": {
+    "ipa": "/dɪˈvaɪ.sɪz/",
+    "meaning": "기기들, 장치들",
+    "cefr": "A2",
+    "ko": "기기들, 전자 장치들"
+  },
+  "saltwater": {
+    "ipa": "/ˈsɑːltˌwɑː.t̬ɚ/",
+    "meaning": "소금물, 염수, 바닷물",
+    "cefr": "B1",
+    "ko": "소금물, 바닷물"
+  },
+  "array": {
+    "ipa": "/əˈreɪ/",
+    "meaning": "배열, 집합체 (태양광 패널 배열)",
+    "cefr": "B2",
+    "ko": "배열, 집합체"
+  },
+  "arrays": {
+    "ipa": "/əˈreɪz/",
+    "meaning": "배열들, 패널판들",
+    "cefr": "B2",
+    "ko": "배열들, 패널판들"
+  },
+  "orbit": {
+    "ipa": "/ˈɔːr.bɪt/",
+    "meaning": "궤도, 궤도를 돌다",
+    "cefr": "B1",
+    "ko": "궤도, 궤도를 돌다"
+  },
+  "orbiting": {
+    "ipa": "/ˈɔːr.bɪ.t̬ɪŋ/",
+    "meaning": "궤도를 돌고 있는",
+    "cefr": "B1",
+    "ko": "궤도를 돌고 있는"
+  },
+  "vapor": {
+    "ipa": "/ˈveɪ.pɚ/",
+    "meaning": "수증기, 증기",
+    "cefr": "B1",
+    "ko": "수증기, 증기"
+  },
+  "infrared": {
+    "ipa": "/ˌɪn.frəˈred/",
+    "meaning": "적외선의",
+    "cefr": "B2",
+    "ko": "적외선의"
+  },
+  "borrowing": {
+    "ipa": "/ˈbɑːr.oʊ.ɪŋ/",
+    "meaning": "차입, 대출, 빌리기",
+    "cefr": "B1",
+    "ko": "대출, 자금 차입"
+  },
+  "mortgages": {
+    "ipa": "/ˈmɔːr.ɡɪ.dʒɪz/",
+    "meaning": "주택 담보 대출들",
+    "cefr": "B1",
+    "ko": "주택 담보 대출들"
+  },
+  "silicon": {
+    "ipa": "/ˈsɪl.ə.kən/",
+    "meaning": "실리콘, 규소 (반도체 소재)",
+    "cefr": "B2",
+    "ko": "실리콘, 반도체"
+  },
+  "subsidy": {
+    "ipa": "/ˈsʌb.sə.di/",
+    "meaning": "보조금, 장려금",
+    "cefr": "B2",
+    "ko": "보조금, 장려금"
+  },
+  "screenings": {
+    "ipa": "/ˈskriː.nɪŋz/",
+    "meaning": "영화 상영들, 시사회들",
+    "cefr": "B1",
+    "ko": "영화 상영들"
+  },
+  "screening": {
+    "ipa": "/ˈskriː.nɪŋ/",
+    "meaning": "영화 상영, 시사회",
+    "cefr": "B1",
+    "ko": "영화 상영, 시사회"
+  },
+  "cinephile": {
+    "ipa": "/ˈsɪn.ə.faɪl/",
+    "meaning": "영화광, 열성 영화 팬",
+    "cefr": "C1",
+    "ko": "영화광, 시네필"
+  },
+  "cinephiles": {
+    "ipa": "/ˈsɪn.ə.faɪlz/",
+    "meaning": "영화광들, 시네필들",
+    "cefr": "C1",
+    "ko": "영화광들, 시네필들"
+  },
+  "illustrator": {
+    "ipa": "/ˈɪl.ə.streɪ.t̬ɚ/",
+    "meaning": "삽화가, 일러스트레이터, 만화가",
+    "cefr": "B1",
+    "ko": "일러스트레이터, 삽화가"
+  },
+  "illustrators": {
+    "ipa": "/ˈɪl.ə.streɪ.t̬ɚz/",
+    "meaning": "일러스트레이터들, 삽화가들",
+    "cefr": "B1",
+    "ko": "일러스트레이터들"
+  },
+  "episode": {
+    "ipa": "/ˈep.ə.soʊd/",
+    "meaning": "에피소드, 1회분, 한 편",
+    "cefr": "A2",
+    "ko": "에피소드, 한 회분"
+  },
+  "episodes": {
+    "ipa": "/ˈep.ə.soʊdz/",
+    "meaning": "에피소드들, 회차들",
+    "cefr": "A2",
+    "ko": "에피소드들, 회차들"
   }
 };
