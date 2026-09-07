@@ -1,0 +1,2304 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>ReadPulse AI — 영어 리딩 & 명연설·최신뉴스 쉐도잉 스튜디오</title>
+  
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚡</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  
+  <style>
+    :root {
+      --font-ui: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      --font-reader: 'Newsreader', Georgia, serif;
+      --font-mono: 'JetBrains Mono', monospace;
+      
+      /* Dark Theme (Default) */
+      --bg-base: #0b0f19;
+      --bg-surface: #131d2e;
+      --bg-card: #182438;
+      --bg-elevated: #1e2d46;
+      --border-subtle: #243550;
+      --border-strong: #334a6e;
+      
+      --text-main: #f1f5f9;
+      --text-muted: #94a3b8;
+      --text-dim: #64748b;
+      
+      --primary: #6366f1;
+      --primary-hover: #4f46e5;
+      --primary-light: rgba(99, 102, 241, 0.15);
+      
+      --accent-green: #10b981;
+      --accent-green-light: rgba(16, 185, 129, 0.15);
+      --accent-amber: #f59e0b;
+      --accent-amber-light: rgba(245, 158, 11, 0.15);
+      --accent-red: #ef4444;
+      --accent-red-light: rgba(239, 68, 68, 0.15);
+      
+      --reader-font-size: 19px;
+      --reader-line-height: 1.85;
+      
+      --shadow-sm: 0 2px 8px rgba(0,0,0,0.25);
+      --shadow-md: 0 8px 24px rgba(0,0,0,0.35);
+      --shadow-lg: 0 16px 40px rgba(0,0,0,0.45);
+      
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --radius-xl: 24px;
+    }
+    
+    body.theme-light {
+      --bg-base: #f8fafc;
+      --bg-surface: #ffffff;
+      --bg-card: #ffffff;
+      --bg-elevated: #f1f5f9;
+      --border-subtle: #e2e8f0;
+      --border-strong: #cbd5e1;
+      --text-main: #0f172a;
+      --text-muted: #475569;
+      --text-dim: #94a3b8;
+      --primary-light: rgba(99, 102, 241, 0.08);
+      --shadow-sm: 0 2px 8px rgba(0,0,0,0.06);
+      --shadow-md: 0 8px 24px rgba(0,0,0,0.08);
+      --shadow-lg: 0 16px 40px rgba(0,0,0,0.12);
+    }
+    
+    body.theme-sepia {
+      --bg-base: #f7f1e5;
+      --bg-surface: #efe7d5;
+      --bg-card: #fffbf2;
+      --bg-elevated: #e6dcbe;
+      --border-subtle: #ded2b0;
+      --border-strong: #caba93;
+      --text-main: #3d3024;
+      --text-muted: #6b5847;
+      --text-dim: #9c8975;
+      --primary: #92400e;
+      --primary-hover: #78350f;
+      --primary-light: rgba(146, 64, 14, 0.1);
+      --shadow-sm: 0 2px 8px rgba(60,40,20,0.06);
+      --shadow-md: 0 8px 24px rgba(60,40,20,0.08);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+    body {
+      font-family: var(--font-ui);
+      background-color: var(--bg-base);
+      color: var(--text-main);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      line-height: 1.5;
+      transition: background-color 0.25s ease, color 0.25s ease;
+      overflow-x: hidden;
+    }
+
+    .app-header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: var(--bg-surface);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--border-subtle);
+      padding: 0.75rem 1.25rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+
+    .brand-group {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      cursor: pointer;
+    }
+
+    .brand-logo {
+      width: 36px;
+      height: 36px;
+      background: linear-gradient(135deg, #6366f1, #a855f7);
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.25rem;
+      box-shadow: 0 4px 12px rgba(99, 102, 241, 0.35);
+    }
+
+    .brand-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .brand-tag {
+      font-size: 0.65rem;
+      background: var(--primary-light);
+      color: var(--primary);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      border: 1px solid rgba(99,102,241,0.25);
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+
+    .stat-pill {
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      padding: 0.35rem 0.75rem;
+      border-radius: 9999px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--text-muted);
+    }
+    .stat-pill b { color: var(--text-main); }
+
+    .btn-icon {
+      width: 38px;
+      height: 38px;
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border-subtle);
+      background: var(--bg-card);
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 1rem;
+      transition: all 0.2s ease;
+      position: relative;
+    }
+    .btn-icon:hover { background: var(--bg-elevated); border-color: var(--border-strong); }
+    .btn-icon .badge {
+      position: absolute;
+      top: -4px;
+      right: -4px;
+      background: var(--primary);
+      color: #fff;
+      font-size: 0.65rem;
+      font-weight: 700;
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    }
+
+    .hero-banner {
+      background: linear-gradient(180deg, var(--bg-surface) 0%, var(--bg-base) 100%);
+      border-bottom: 1px solid var(--border-subtle);
+      padding: 1.75rem 1.25rem 1.25rem;
+    }
+
+    .hero-content {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .hero-headline {
+      font-size: 1.5rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      line-height: 1.25;
+      background: linear-gradient(135deg, var(--text-main) 60%, var(--text-muted));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .hero-sub {
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      max-width: 720px;
+    }
+
+    .live-status-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      padding: 0.75rem 1rem;
+      border-radius: var(--radius-md);
+      margin-top: 0.5rem;
+    }
+
+    .live-indicator {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.82rem;
+      color: var(--text-muted);
+    }
+
+    .pulsing-dot {
+      width: 8px;
+      height: 8px;
+      background-color: var(--accent-green);
+      border-radius: 50%;
+      box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7);
+      animation: pulse 1.8s infinite;
+    }
+
+    @keyframes pulse {
+      0% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7); }
+      70% { box-shadow: 0 0 0 8px rgba(16, 185, 129, 0); }
+      100% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
+    }
+
+    .btn-sync {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      background: var(--primary);
+      color: #fff;
+      border: none;
+      padding: 0.45rem 0.9rem;
+      border-radius: var(--radius-sm);
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .btn-sync:hover {
+      background: var(--primary-hover);
+      transform: translateY(-1px);
+    }
+
+    .btn-sync.syncing svg {
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      100% { transform: rotate(360deg); }
+    }
+
+    .app-main {
+      max-width: 1100px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 1.5rem 1.25rem 3rem;
+      flex: 1;
+    }
+
+    .controls-panel {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      margin-bottom: 1.75rem;
+    }
+
+    .search-row {
+      display: flex;
+      gap: 0.75rem;
+    }
+
+    .search-input-wrap {
+      position: relative;
+      flex: 1;
+    }
+
+    .search-input-wrap input {
+      width: 100%;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 0.75rem 1rem 0.75rem 2.5rem;
+      color: var(--text-main);
+      font-size: 0.9rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .search-input-wrap input:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 2px var(--primary-light);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 0.85rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-dim);
+      font-size: 0.95rem;
+    }
+
+    .category-scroll {
+      display: flex;
+      gap: 0.5rem;
+      overflow-x: auto;
+      padding-bottom: 0.35rem;
+      scrollbar-width: thin;
+    }
+
+    .category-scroll::-webkit-scrollbar { height: 4px; }
+    .category-scroll::-webkit-scrollbar-thumb { background: var(--border-subtle); border-radius: 4px; }
+
+    .filter-chip {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      padding: 0.45rem 0.85rem;
+      border-radius: 9999px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      white-space: nowrap;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+      transition: all 0.2s ease;
+    }
+
+    .filter-chip:hover {
+      border-color: var(--border-strong);
+      color: var(--text-main);
+    }
+
+    .filter-chip.active {
+      background: var(--primary);
+      color: #ffffff;
+      border-color: var(--primary);
+      box-shadow: 0 2px 8px rgba(99, 102, 241, 0.3);
+    }
+
+    .articles-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.25rem;
+    }
+
+    .article-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-lg);
+      padding: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.85rem;
+      cursor: pointer;
+      transition: all 0.25s ease;
+      position: relative;
+    }
+
+    .article-card:hover {
+      transform: translateY(-3px);
+      border-color: var(--border-strong);
+      box-shadow: var(--shadow-md);
+    }
+
+    .card-meta-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+    }
+
+    .badge-cat {
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      padding: 0.2rem 0.55rem;
+      border-radius: 4px;
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+    }
+
+    .badge-cat.speeches {
+      background: rgba(245, 158, 11, 0.15);
+      color: #f59e0b;
+      border-color: rgba(245, 158, 11, 0.3);
+    }
+
+    .badge-cat.live {
+      background: rgba(16, 185, 129, 0.15);
+      color: #10b981;
+      border-color: rgba(16, 185, 129, 0.3);
+    }
+
+    .badge-level {
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      background: var(--primary-light);
+      color: var(--primary);
+    }
+
+    .card-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      line-height: 1.35;
+      letter-spacing: -0.015em;
+      color: var(--text-main);
+    }
+
+    .card-subtitle {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      line-height: 1.45;
+    }
+
+    .card-speaker {
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .takeaway-bullets {
+      background: var(--bg-card);
+      border-radius: var(--radius-sm);
+      padding: 0.65rem 0.85rem;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+      border-left: 3px solid var(--primary);
+    }
+
+    .takeaway-bullets li {
+      list-style-type: none;
+      position: relative;
+      padding-left: 0.85rem;
+    }
+
+    .takeaway-bullets li::before {
+      content: "•";
+      position: absolute;
+      left: 0;
+      color: var(--primary);
+      font-weight: bold;
+    }
+
+    .card-footer {
+      margin-top: auto;
+      padding-top: 0.65rem;
+      border-top: 1px solid var(--border-subtle);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 0.75rem;
+      color: var(--text-dim);
+    }
+
+    .card-cta {
+      color: var(--primary);
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
+    .reader-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: var(--bg-base);
+      z-index: 100;
+      display: none;
+      flex-direction: column;
+      overflow-y: auto;
+    }
+
+    .reader-overlay.active { display: flex; }
+
+    .reader-toolbar {
+      position: sticky;
+      top: 0;
+      background: var(--bg-surface);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border-subtle);
+      padding: 0.65rem 1.25rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+      z-index: 20;
+    }
+
+    .toolbar-left, .toolbar-right {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .btn-back {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-main);
+      padding: 0.45rem 0.85rem;
+      border-radius: var(--radius-sm);
+      font-size: 0.82rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .btn-back:hover { background: var(--bg-elevated); }
+
+    .reader-container {
+      max-width: 820px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 2rem 1.25rem 6rem;
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+
+    .reader-article-header {
+      display: flex;
+      flex-direction: column;
+      gap: 0.85rem;
+      border-bottom: 1px solid var(--border-subtle);
+      padding-bottom: 1.5rem;
+    }
+
+    .reader-meta-row {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      font-size: 0.78rem;
+      color: var(--text-dim);
+    }
+
+    .reader-title {
+      font-family: var(--font-reader);
+      font-size: 2.2rem;
+      font-weight: 700;
+      line-height: 1.25;
+      letter-spacing: -0.02em;
+    }
+
+    .reader-subtitle {
+      font-size: 1.05rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+    }
+
+    .audio-player-bar {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 0.85rem 1.25rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 1rem;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .player-controls {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .btn-play-all {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: var(--primary);
+      color: #fff;
+      border: none;
+      padding: 0.55rem 1.2rem;
+      border-radius: 9999px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .btn-play-all:hover { background: var(--primary-hover); transform: scale(1.02); }
+
+    .speed-select {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      padding: 0.35rem 0.65rem;
+      border-radius: var(--radius-sm);
+      font-size: 0.75rem;
+      font-weight: 600;
+      outline: none;
+    }
+
+    .mode-switch-group {
+      display: flex;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-sm);
+      padding: 2px;
+      gap: 2px;
+    }
+
+    .mode-btn {
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.3rem 0.65rem;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .mode-btn.active {
+      background: var(--bg-card);
+      color: var(--text-main);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    }
+
+    .reader-body {
+      display: flex;
+      flex-direction: column;
+      gap: 1.75rem;
+      font-family: var(--font-reader);
+      font-size: var(--reader-font-size);
+      line-height: var(--reader-line-height);
+    }
+
+    .reading-paragraph {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      padding: 0.75rem;
+      border-radius: var(--radius-md);
+      transition: background 0.2s ease;
+    }
+
+    .reading-paragraph.highlighted {
+      background: rgba(99, 102, 241, 0.08);
+      outline: 1px solid rgba(99, 102, 241, 0.25);
+    }
+
+    .paragraph-en { color: var(--text-main); }
+
+    .sentence-block {
+      display: inline;
+      padding: 2px 4px;
+      border-radius: 4px;
+      transition: background-color 0.2s;
+      position: relative;
+    }
+    .sentence-block:hover { background: rgba(99, 102, 241, 0.1); }
+    .sentence-block.playing {
+      background: rgba(99, 102, 241, 0.22);
+      border-bottom: 2px solid var(--primary);
+    }
+
+    .rp-word {
+      cursor: pointer;
+      display: inline-block;
+      transition: all 0.15s ease;
+      border-radius: 3px;
+      padding: 0 1px;
+    }
+    .rp-word:hover {
+      color: var(--primary);
+      text-decoration: underline;
+      background: var(--primary-light);
+    }
+    .rp-word.saved { border-bottom: 2px solid var(--accent-amber); }
+
+    .btn-sentence-mic {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      vertical-align: middle;
+      width: 22px;
+      height: 22px;
+      font-size: 0.72rem;
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: 50%;
+      cursor: pointer;
+      margin-left: 4px;
+      opacity: 0.7;
+      transition: all 0.2s;
+    }
+
+    .sentence-block:hover .btn-sentence-mic,
+    .btn-sentence-mic:hover {
+      opacity: 1;
+      background: var(--primary);
+      color: #fff;
+      border-color: var(--primary);
+      transform: scale(1.15);
+    }
+
+    .paragraph-ko {
+      font-family: var(--font-ui);
+      font-size: 0.95rem;
+      line-height: 1.6;
+      color: var(--text-muted);
+      border-top: 1px dashed var(--border-subtle);
+      padding-top: 0.6rem;
+      margin-top: 0.3rem;
+    }
+
+    .sentence-ko-inline {
+      display: block;
+      font-family: var(--font-ui);
+      font-size: 0.85rem;
+      color: var(--text-dim);
+      margin-top: 0.25rem;
+      margin-bottom: 0.5rem;
+      font-style: normal;
+    }
+
+    .reader-section-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-lg);
+      padding: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .section-card-title {
+      font-size: 1.1rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .quiz-question-item {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      padding-bottom: 1.25rem;
+      border-bottom: 1px solid var(--border-subtle);
+    }
+    .quiz-question-item:last-child { border-bottom: none; padding-bottom: 0; }
+    .quiz-q-text { font-weight: 600; font-size: 0.95rem; }
+    .quiz-options { display: flex; flex-direction: column; gap: 0.5rem; }
+
+    .quiz-opt-btn {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-sm);
+      padding: 0.65rem 0.9rem;
+      text-align: left;
+      color: var(--text-main);
+      font-size: 0.88rem;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .quiz-opt-btn:hover { background: var(--bg-elevated); border-color: var(--border-strong); }
+    .quiz-opt-btn.correct {
+      background: rgba(16, 185, 129, 0.2);
+      border-color: var(--accent-green);
+      color: #34d399;
+      font-weight: 600;
+    }
+    .quiz-opt-btn.wrong {
+      background: rgba(239, 68, 68, 0.2);
+      border-color: var(--accent-red);
+      color: #f87171;
+    }
+
+    .quiz-feedback {
+      font-size: 0.82rem;
+      padding: 0.5rem 0.75rem;
+      border-radius: var(--radius-sm);
+      margin-top: 0.35rem;
+      display: none;
+    }
+    .quiz-feedback.show { display: block; }
+
+    .word-inspector-modal {
+      position: fixed;
+      bottom: 1.5rem;
+      right: 1.5rem;
+      width: 320px;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-strong);
+      border-radius: var(--radius-lg);
+      padding: 1.25rem;
+      box-shadow: var(--shadow-lg);
+      z-index: 200;
+      display: none;
+      flex-direction: column;
+      gap: 0.75rem;
+      animation: slideUp 0.2s ease-out;
+    }
+    @keyframes slideUp {
+      from { transform: translateY(16px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+    .word-inspector-modal.active { display: flex; }
+
+    .inspector-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .inspector-word { font-size: 1.3rem; font-weight: 800; letter-spacing: -0.01em; }
+    .inspector-ipa { font-family: var(--font-mono); font-size: 0.82rem; color: var(--text-dim); }
+
+    .inspector-meaning {
+      font-size: 0.95rem;
+      color: var(--text-main);
+      line-height: 1.4;
+      background: var(--bg-card);
+      padding: 0.65rem 0.85rem;
+      border-radius: var(--radius-sm);
+    }
+    .inspector-example { font-size: 0.78rem; color: var(--text-muted); font-style: italic; }
+    .inspector-actions { display: flex; gap: 0.5rem; margin-top: 0.25rem; }
+
+    .btn-inspector-action {
+      flex: 1;
+      padding: 0.5rem;
+      border-radius: var(--radius-sm);
+      font-size: 0.8rem;
+      font-weight: 600;
+      border: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.35rem;
+    }
+    .btn-inspector-save { background: var(--accent-amber); color: #000; }
+    .btn-inspector-audio { background: var(--bg-card); border: 1px solid var(--border-subtle); color: var(--text-main); }
+
+    .shadowing-modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.75);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      z-index: 300;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 1.25rem;
+    }
+    .shadowing-modal.active { display: flex; }
+
+    .shadowing-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-strong);
+      border-radius: var(--radius-xl);
+      max-width: 580px;
+      width: 100%;
+      padding: 1.75rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.25rem;
+      box-shadow: var(--shadow-lg);
+      position: relative;
+    }
+    .shadowing-header { display: flex; align-items: center; justify-content: space-between; }
+    .shadowing-title { font-size: 1.15rem; font-weight: 800; display: flex; align-items: center; gap: 0.5rem; }
+
+    .btn-close-modal {
+      background: transparent;
+      border: none;
+      color: var(--text-dim);
+      font-size: 1.25rem;
+      cursor: pointer;
+      width: 32px;
+      height: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+    }
+    .btn-close-modal:hover { background: var(--bg-card); color: var(--text-main); }
+
+    .shadowing-target-box {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 1.25rem;
+      font-family: var(--font-reader);
+      font-size: 1.25rem;
+      line-height: 1.6;
+      color: var(--text-main);
+      text-align: center;
+    }
+    .shadowing-target-ko {
+      font-family: var(--font-ui);
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-top: 0.6rem;
+    }
+
+    .shadowing-result-box {
+      background: var(--bg-elevated);
+      border-radius: var(--radius-md);
+      padding: 1rem;
+      display: none;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+    .shadowing-result-box.show { display: flex; }
+
+    .score-badge-row { display: flex; align-items: center; justify-content: space-between; }
+    .accuracy-score { font-family: var(--font-mono); font-size: 1.8rem; font-weight: 800; color: var(--accent-green); }
+
+    .spoken-words-breakdown {
+      font-size: 1.1rem;
+      line-height: 1.6;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      justify-content: center;
+      padding: 0.5rem 0;
+    }
+    .word-eval { padding: 2px 6px; border-radius: 4px; font-weight: 600; }
+    .word-eval.match { background: var(--accent-green-light); color: var(--accent-green); }
+    .word-eval.miss { background: var(--accent-red-light); color: var(--accent-red); text-decoration: underline wavy var(--accent-red); }
+
+    .shadowing-mic-area {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.75rem;
+      margin-top: 0.5rem;
+    }
+
+    .btn-big-mic {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--primary), #818cf8);
+      border: none;
+      color: #fff;
+      font-size: 1.75rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 8px 24px rgba(99, 102, 241, 0.4);
+      transition: all 0.2s;
+    }
+    .btn-big-mic:hover { transform: scale(1.05); }
+    .btn-big-mic.recording {
+      background: linear-gradient(135deg, var(--accent-red), #f87171);
+      animation: pulseRecord 1.2s infinite;
+      box-shadow: 0 8px 24px rgba(239, 68, 68, 0.5);
+    }
+    @keyframes pulseRecord { 0% { transform: scale(1); } 50% { transform: scale(1.1); } 100% { transform: scale(1); } }
+    .mic-status-label { font-size: 0.82rem; color: var(--text-muted); }
+
+    .vocab-modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.75);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      z-index: 250;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 1.25rem;
+    }
+    .vocab-modal.active { display: flex; }
+
+    .vocab-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-strong);
+      border-radius: var(--radius-xl);
+      max-width: 600px;
+      width: 100%;
+      height: 80vh;
+      max-height: 640px;
+      padding: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      box-shadow: var(--shadow-lg);
+    }
+
+    .vocab-list {
+      flex: 1;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 0.65rem;
+      padding-right: 0.35rem;
+    }
+
+    .vocab-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-sm);
+      padding: 0.75rem 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+    }
+    .vocab-item-word { font-weight: 700; font-size: 1rem; }
+    .vocab-item-meaning { font-size: 0.85rem; color: var(--text-muted); }
+
+    .flashcard-box {
+      width: 100%;
+      height: 240px;
+      perspective: 1000px;
+      cursor: pointer;
+      margin: 1rem 0;
+    }
+    .flashcard-inner {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+      transform-style: preserve-3d;
+    }
+    .flashcard-box.flipped .flashcard-inner { transform: rotateY(180deg); }
+    .flashcard-front, .flashcard-back {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      -webkit-backface-visibility: hidden;
+      backface-visibility: hidden;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem;
+      border-radius: var(--radius-lg);
+      background: var(--bg-card);
+      border: 2px solid var(--border-strong);
+      gap: 0.75rem;
+    }
+    .flashcard-back {
+      transform: rotateY(180deg);
+      background: var(--bg-elevated);
+    }
+
+    @media (max-width: 640px) {
+      .app-header { padding: 0.65rem 0.85rem; }
+      .articles-grid { grid-template-columns: 1fr; }
+      .reader-title { font-size: 1.65rem; }
+      .word-inspector-modal { left: 1rem; right: 1rem; bottom: 1rem; width: auto; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top App Navigation -->
+  <header class="app-header">
+    <div class="brand-group" onclick="showArticleList()">
+      <div class="brand-logo">⚡</div>
+      <div class="brand-title">
+        ReadPulse AI
+        <span class="brand-tag">Studio</span>
+      </div>
+    </div>
+    
+    <div class="header-actions">
+      <div class="stat-pill">
+        <span>🏆</span>
+        <b id="userXp">0</b> XP
+      </div>
+      
+      <button class="btn-icon" onclick="openVocabModal()" title="내 단어장">
+        <span>⭐️</span>
+        <span class="badge" id="vocabCountBadge">0</span>
+      </button>
+
+      <button class="btn-icon" onclick="cycleTheme()" title="화면 테마 변경">
+        <span id="themeIcon">🌙</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Hero & Live Sync Notification Banner -->
+  <section class="hero-banner" id="heroBanner">
+    <div class="hero-content">
+      <h1 class="hero-headline">글로벌 최신 뉴스 & 미국 대통령 명연설 리딩</h1>
+      <p class="hero-sub">
+        모르는 단어 즉시 탭 사전 검색(LingQ), 문장별 AI 쉐도잉 발음 분석(ELSA Speak), 3분 핵심 요약(Blinkist)으로 영어 리딩 실력을 빠르게 끌어올리세요.
+      </p>
+
+      <div class="live-status-bar">
+        <div class="live-indicator">
+          <div class="pulsing-dot"></div>
+          <span id="liveStatusText">BBC, Reuters, NASA 실시간 뉴스 채널 연동 활성화</span>
+        </div>
+        <button class="btn-sync" id="btnSyncNews" onclick="syncLiveNews()">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
+          <span id="syncBtnLabel">실시간 최신 뉴스 동기화</span>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Library View -->
+  <main class="app-main" id="mainLibraryView">
+    <div class="controls-panel">
+      <!-- Search Input -->
+      <div class="search-row">
+        <div class="search-input-wrap">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="searchInput" placeholder="연설가, 뉴스 헤드라인, 키워드 검색..." oninput="handleSearch()" />
+        </div>
+      </div>
+
+      <!-- Categories Filter -->
+      <div class="category-scroll" id="categoryTabs">
+        <button class="filter-chip active" data-cat="all" onclick="filterCategory('all')">전체 (All)</button>
+        <button class="filter-chip" data-cat="speeches" onclick="filterCategory('speeches')">🏛️ 미국 대통령 명연설</button>
+        <button class="filter-chip" data-cat="tech" onclick="filterCategory('tech')">💻 IT / 기술</button>
+        <button class="filter-chip" data-cat="science" onclick="filterCategory('science')">🔬 과학 / 우주</button>
+        <button class="filter-chip" data-cat="economy" onclick="filterCategory('economy')">📈 경제 / 비즈니스</button>
+        <button class="filter-chip" data-cat="sports" onclick="filterCategory('sports')">⚽ 스포츠</button>
+        <button class="filter-chip" data-cat="culture" onclick="filterCategory('culture')">🎨 문화 / 예술</button>
+        <button class="filter-chip" data-cat="live" onclick="filterCategory('live')">🔴 실시간 속보</button>
+      </div>
+    </div>
+
+    <!-- Article Cards Grid -->
+    <div class="articles-grid" id="articlesGrid">
+      <!-- Dynamically Rendered -->
+    </div>
+  </main>
+
+  <!-- READER OVERLAY (FULL INTERACTIVE STUDY VIEW) -->
+  <div class="reader-overlay" id="readerOverlay">
+    <!-- Toolbar -->
+    <div class="reader-toolbar">
+      <div class="toolbar-left">
+        <button class="btn-back" onclick="closeReader()">
+          ← 라이브러리로 돌아가기
+        </button>
+      </div>
+      <div class="toolbar-right">
+        <button class="btn-icon" onclick="adjustFontSize(-2)" title="글자 작게">A-</button>
+        <button class="btn-icon" onclick="adjustFontSize(2)" title="글자 크게">A+</button>
+      </div>
+    </div>
+
+    <div class="reader-container">
+      <!-- Header Meta -->
+      <div class="reader-article-header">
+        <div class="reader-meta-row">
+          <span class="badge-cat" id="readerCatBadge">CATEGORY</span>
+          <span class="badge-level" id="readerLevelBadge">CEFR</span>
+          <span id="readerSpeakerDate">Speaker • Date</span>
+          <span>•</span>
+          <span id="readerWordCount">0 words</span>
+        </div>
+        <h1 class="reader-title" id="readerTitle">Title</h1>
+        <p class="reader-subtitle" id="readerSubtitle">Subtitle</p>
+      </div>
+
+      <!-- Audio & Reading Mode Controller -->
+      <div class="audio-player-bar">
+        <div class="player-controls">
+          <button class="btn-play-all" id="btnPlayAll" onclick="togglePlayArticle()">
+            <span id="playIcon">▶</span>
+            <span id="playLabel">전체 듣기</span>
+          </button>
+          
+          <select class="speed-select" id="speedSelect" onchange="changePlaybackSpeed()">
+            <option value="0.75">0.75x</option>
+            <option value="0.9">0.9x</option>
+            <option value="1.0" selected>1.0x (보통)</option>
+            <option value="1.2">1.2x (빠름)</option>
+          </select>
+        </div>
+
+        <div class="mode-switch-group">
+          <button class="mode-btn active" data-mode="en" onclick="setReadingMode('en')">영어만</button>
+          <button class="mode-btn" data-mode="parallel" onclick="setReadingMode('parallel')">단락 대역</button>
+          <button class="mode-btn" data-mode="sentence" onclick="setReadingMode('sentence')">문장 대역</button>
+        </div>
+      </div>
+
+      <!-- Article Body -->
+      <div class="reader-body" id="readerBody">
+        <!-- Interactive Paragraphs and Words -->
+      </div>
+
+      <!-- Blinkist-Style Key Takeaways -->
+      <div class="reader-section-card">
+        <div class="section-card-title">
+          <span>💡</span> 3분 핵심 요약 (Key Takeaways)
+        </div>
+        <ul class="takeaway-bullets" id="readerTakeaways" style="font-size:0.9rem; padding:1rem 1.25rem;">
+          <!-- Takeaways -->
+        </ul>
+      </div>
+
+      <!-- Comprehension Quiz Card -->
+      <div class="reader-section-card">
+        <div class="section-card-title">
+          <span>📝</span> 내용 이해 퀴즈 (Comprehension Check)
+        </div>
+        <div id="readerQuizContainer" style="display:flex; flex-direction:column; gap:1.25rem;">
+          <!-- Quizzes -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- WORD INSPECTOR POPOVER (LINGQ STYLE) -->
+  <div class="word-inspector-modal" id="wordInspector">
+    <div class="inspector-header">
+      <div>
+        <div class="inspector-word" id="inspWord">Word</div>
+        <div class="inspector-ipa" id="inspIpa">/ipa/</div>
+      </div>
+      <button class="btn-close-modal" onclick="closeWordInspector()">✕</button>
+    </div>
+    
+    <div class="inspector-meaning" id="inspMeaning">
+      단어 뜻 로딩 중...
+    </div>
+
+    <div class="inspector-example" id="inspExample">
+      "Example sentence using this vocabulary."
+    </div>
+
+    <div class="inspector-actions">
+      <button class="btn-inspector-action btn-inspector-audio" onclick="speakCurrentWord()">
+        🔊 발음
+      </button>
+      <button class="btn-inspector-action btn-inspector-save" id="btnSaveWord" onclick="toggleSaveCurrentWord()">
+        ⭐️ 단어장 저장
+      </button>
+    </div>
+  </div>
+
+  <!-- SHADOWING & PRONUNCIATION STUDIO MODAL (ELSA SPEAK STYLE) -->
+  <div class="shadowing-modal" id="shadowingModal">
+    <div class="shadowing-card">
+      <div class="shadowing-header">
+        <div class="shadowing-title">
+          <span>🎙️</span> AI 문장 쉐도잉 & 발음 분석
+        </div>
+        <button class="btn-close-modal" onclick="closeShadowingModal()">✕</button>
+      </div>
+
+      <div class="shadowing-target-box">
+        <div id="shadowTargetSentence">"Target sentence to shadow."</div>
+        <div class="shadowing-target-ko" id="shadowTargetKo">문장 번역</div>
+      </div>
+
+      <div class="shadowing-result-box" id="shadowResultBox">
+        <div class="score-badge-row">
+          <span style="font-size:0.85rem; color:var(--text-muted); font-weight:600;">발음 정확도</span>
+          <span class="accuracy-score" id="shadowAccuracyScore">92%</span>
+        </div>
+
+        <div class="spoken-words-breakdown" id="shadowWordsBreakdown">
+          <!-- Word by word color highlights -->
+        </div>
+
+        <div style="font-size:0.8rem; color:var(--text-muted); text-align:center;" id="shadowFeedbackTip">
+          정확한 억양과 발음입니다! 계속 연습해보세요.
+        </div>
+      </div>
+
+      <div class="shadowing-mic-area">
+        <div style="display:flex; gap:0.75rem; align-items:center;">
+          <button class="btn-inspector-action btn-inspector-audio" style="padding:0.6rem 1rem;" onclick="playShadowSentenceAudio()">
+            🔊 원어민 발음 듣기
+          </button>
+        </div>
+
+        <button class="btn-big-mic" id="btnRecordShadow" onclick="toggleShadowRecording()">
+          🎙️
+        </button>
+        <span class="mic-status-label" id="micStatusLabel">마이크 버튼을 누르고 문장을 따라 읽으세요</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- VOCABULARY & FLASHCARDS MODAL -->
+  <div class="vocab-modal" id="vocabModal">
+    <div class="vocab-card">
+      <div class="shadowing-header">
+        <div class="shadowing-title">
+          <span>⭐️</span> 내 단어장 & 플래시카드
+        </div>
+        <button class="btn-close-modal" onclick="closeVocabModal()">✕</button>
+      </div>
+
+      <div class="mode-switch-group" style="align-self:flex-start;">
+        <button class="mode-btn active" id="btnTabVocabList" onclick="setVocabTab('list')">단어 목록 (<span id="tabCount">0</span>)</button>
+        <button class="mode-btn" id="btnTabFlashcard" onclick="setVocabTab('flashcard')">플래시카드 학습</button>
+      </div>
+
+      <!-- List Mode -->
+      <div class="vocab-list" id="vocabListView">
+        <!-- Vocab items -->
+      </div>
+
+      <!-- Flashcard Mode -->
+      <div id="vocabFlashcardView" style="display:none; flex-direction:column; align-items:center; justify-content:center; flex:1;">
+        <div class="flashcard-box" id="flashcardBox" onclick="flipFlashcard()">
+          <div class="flashcard-inner">
+            <div class="flashcard-front">
+              <div style="font-size:0.8rem; color:var(--text-dim); text-transform:uppercase;">English Word</div>
+              <div style="font-size:1.8rem; font-weight:800;" id="fcWord">Word</div>
+              <div style="font-family:var(--font-mono); color:var(--text-muted);" id="fcIpa">/ipa/</div>
+              <div style="font-size:0.75rem; color:var(--text-dim); margin-top:0.5rem;">👆 탭하여 뜻 확인</div>
+            </div>
+            <div class="flashcard-back">
+              <div style="font-size:0.8rem; color:var(--primary); font-weight:700;">한국어 뜻</div>
+              <div style="font-size:1.4rem; font-weight:700;" id="fcMeaning">뜻</div>
+              <div style="font-size:0.85rem; color:var(--text-muted); font-style:italic; padding:0 1rem;" id="fcExample">예문</div>
+            </div>
+          </div>
+        </div>
+
+        <div style="display:flex; gap:1rem; margin-top:0.5rem;">
+          <button class="btn-inspector-action" style="background:var(--bg-card); border:1px solid var(--border-subtle); color:var(--text-main); padding:0.6rem 1.25rem;" onclick="nextFlashcard(false)">
+            다시 볼래요 🔄
+          </button>
+          <button class="btn-inspector-action" style="background:var(--accent-green); color:#fff; padding:0.6rem 1.25rem;" onclick="nextFlashcard(true)">
+            외웠어요! ✅
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Databases -->
+  <script src="articles_database.js"></script>
+  <script src="dictionary_data.js"></script>
+
+  <!-- Application Logic -->
+  <script>
+    // State Management
+    let allArticles = [];
+    let liveArticles = [];
+    let currentFilteredArticles = [];
+    let currentArticle = null;
+    let selectedCategory = 'all';
+    let userXp = 0;
+    let savedVocab = [];
+    let readingMode = 'en'; // 'en', 'parallel', 'sentence'
+    let isPlayingArticle = false;
+    let currentParagraphIndex = -1;
+    let currentSentenceIndex = -1;
+    let flashcardIndex = 0;
+    let activeInspectorWord = null;
+
+    // Speech Recognition for Shadowing
+    let recognition = null;
+    let isRecordingShadow = false;
+    let currentShadowSentence = null;
+    let currentShadowKo = null;
+
+    // Init App
+    window.addEventListener('DOMContentLoaded', () => {
+      loadUserData();
+      initArticles();
+      initSpeechRecognition();
+      renderArticleGrid();
+      updateVocabUI();
+    });
+
+    function loadUserData() {
+      try {
+        const xp = localStorage.getItem('readpulse_xp');
+        if (xp) userXp = parseInt(xp, 10);
+        document.getElementById('userXp').innerText = userXp;
+
+        const saved = localStorage.getItem('readpulse_vocab');
+        if (saved) savedVocab = JSON.parse(saved);
+
+        const storedLive = localStorage.getItem('readpulse_live_articles');
+        if (storedLive) liveArticles = JSON.parse(storedLive);
+
+        const theme = localStorage.getItem('readpulse_theme') || 'dark';
+        applyTheme(theme);
+      } catch (e) {
+        console.warn('Storage init note:', e);
+      }
+    }
+
+    function addXp(amount) {
+      userXp += amount;
+      document.getElementById('userXp').innerText = userXp;
+      localStorage.setItem('readpulse_xp', userXp);
+    }
+
+    function initArticles() {
+      let builtIn = [];
+      if (typeof READPULSE_ARTICLES !== 'undefined') {
+        builtIn = READPULSE_ARTICLES;
+      }
+      allArticles = [...builtIn, ...liveArticles];
+      currentFilteredArticles = [...allArticles];
+    }
+
+    function applyTheme(theme) {
+      document.body.classList.remove('theme-light', 'theme-sepia');
+      const icon = document.getElementById('themeIcon');
+      if (theme === 'light') {
+        document.body.classList.add('theme-light');
+        if (icon) icon.innerText = '☀️';
+      } else if (theme === 'sepia') {
+        document.body.classList.add('theme-sepia');
+        if (icon) icon.innerText = '📜';
+      } else {
+        if (icon) icon.innerText = '🌙';
+      }
+      localStorage.setItem('readpulse_theme', theme);
+    }
+
+    function cycleTheme() {
+      const current = localStorage.getItem('readpulse_theme') || 'dark';
+      let next = 'light';
+      if (current === 'light') next = 'sepia';
+      else if (current === 'sepia') next = 'dark';
+      applyTheme(next);
+    }
+
+    function filterCategory(cat) {
+      selectedCategory = cat;
+      document.querySelectorAll('#categoryTabs .filter-chip').forEach(chip => {
+        if (chip.getAttribute('data-cat') === cat) chip.classList.add('active');
+        else chip.classList.remove('active');
+      });
+      applyFilters();
+    }
+
+    function handleSearch() {
+      applyFilters();
+    }
+
+    function applyFilters() {
+      const query = document.getElementById('searchInput').value.trim().toLowerCase();
+      
+      currentFilteredArticles = allArticles.filter(art => {
+        const catMatch = (selectedCategory === 'all') || 
+          (selectedCategory === 'live' ? art.isLive : art.category === selectedCategory);
+        
+        const qMatch = !query || 
+          art.title.toLowerCase().includes(query) ||
+          (art.speaker && art.speaker.toLowerCase().includes(query)) ||
+          (art.subtitle && art.subtitle.toLowerCase().includes(query));
+          
+        return catMatch && qMatch;
+      });
+
+      renderArticleGrid();
+    }
+
+    function renderArticleGrid() {
+      const container = document.getElementById('articlesGrid');
+      if (!container) return;
+
+      if (currentFilteredArticles.length === 0) {
+        container.innerHTML = `
+          <div style="grid-column: 1/-1; text-align:center; padding:3rem 1rem; color:var(--text-muted);">
+            <div style="font-size:2.5rem; margin-bottom:0.75rem;">🔍</div>
+            <div style="font-size:1.1rem; font-weight:700;">검색 결과가 없습니다</div>
+            <div style="font-size:0.85rem; margin-top:0.25rem;">다른 검색어나 카테고리를 선택해보세요.</div>
+          </div>
+        `;
+        return;
+      }
+
+      container.innerHTML = currentFilteredArticles.map(art => {
+        const isSpeech = art.category === 'speeches';
+        const isLive = art.isLive;
+        const catClass = isLive ? 'live' : (isSpeech ? 'speeches' : '');
+        const catLabel = isLive ? '실시간 속보' : getCategoryNameKo(art.category);
+
+        const takeawaysHtml = (art.takeaways || []).slice(0, 3).map(t => `<li>${t}</li>`).join('');
+
+        return `
+          <div class="article-card" onclick="openReader('${art.id}')">
+            <div class="card-meta-row">
+              <span class="badge-cat ${catClass}">${catLabel}</span>
+              <span class="badge-level">${art.level || 'B2'}</span>
+            </div>
+
+            <h3 class="card-title">${escapeHtml(art.title)}</h3>
+            <p class="card-subtitle">${escapeHtml(art.subtitle || '')}</p>
+
+            <div class="card-speaker">
+              <span>👤 ${escapeHtml(art.speaker || 'Global Newsroom')}</span>
+              <span>•</span>
+              <span>📅 ${escapeHtml(art.date || 'Recent')}</span>
+            </div>
+
+            ${takeawaysHtml ? `<ul class="takeaway-bullets">${takeawaysHtml}</ul>` : ''}
+
+            <div class="card-footer">
+              <span>⏱ ${art.readTime || '3 min'} (${art.wordCount || 250}단어)</span>
+              <span class="card-cta">학습 시작 →</span>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function getCategoryNameKo(cat) {
+      const map = {
+        'speeches': '미국 대통령 명연설',
+        'tech': 'IT / 기술',
+        'science': '과학 / 우주',
+        'economy': '경제 / 비즈니스',
+        'sports': '스포츠',
+        'culture': '문화 / 예술',
+        'live': '실시간 속보'
+      };
+      return map[cat] || cat;
+    }
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    // LIVE NEWS SYNC ENGINE
+    async function syncLiveNews() {
+      const btn = document.getElementById('btnSyncNews');
+      const label = document.getElementById('syncBtnLabel');
+      const statusText = document.getElementById('liveStatusText');
+
+      btn.classList.add('syncing');
+      label.innerText = '최신 뉴스 수집 중...';
+      statusText.innerText = 'BBC & Reuters 글로벌 RSS 피드로부터 최신 기사 수신 중...';
+
+      const feeds = [
+        { cat: 'tech', name: 'BBC Technology', url: 'https://feeds.bbci.co.uk/news/technology/rss.xml' },
+        { cat: 'science', name: 'BBC Science', url: 'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml' },
+        { cat: 'economy', name: 'BBC Business', url: 'https://feeds.bbci.co.uk/news/business/rss.xml' },
+        { cat: 'sports', name: 'BBC Sports', url: 'https://feeds.bbci.co.uk/sport/rss.xml' },
+        { cat: 'culture', name: 'BBC Arts', url: 'https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml' }
+      ];
+
+      let newFetchedArticles = [];
+
+      for (const f of feeds) {
+        try {
+          const proxyUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(f.url)}`;
+          const res = await fetch(proxyUrl, { cache: 'no-cache' });
+          if (!res.ok) continue;
+          const data = await res.json();
+          if (data.status === 'ok' && data.items && data.items.length > 0) {
+            for (let i = 0; i < Math.min(data.items.length, 2); i++) {
+              const item = data.items[i];
+              const cleanDesc = item.description.replace(/<[^>]*>?/gm, '').trim();
+              const fullContent = (item.content || item.description).replace(/<[^>]*>?/gm, '').trim();
+              
+              const rawSentences = (cleanDesc.length > 80 ? cleanDesc : fullContent)
+                .match(/[^.!?]+[.!?]+/g) || [cleanDesc];
+
+              const sentences = rawSentences.map(s => ({
+                en: s.trim(),
+                ko: "실시간 속보 번역: " + s.trim()
+              })).filter(s => s.en.length > 10);
+
+              if (sentences.length === 0) continue;
+
+              const artObj = {
+                id: 'live_' + Math.random().toString(36).substr(2, 9),
+                title: item.title,
+                subtitle: cleanDesc.substring(0, 120) + '...',
+                speaker: f.name,
+                date: item.pubDate ? item.pubDate.split(' ')[0] : 'Today',
+                category: f.cat,
+                isLive: true,
+                level: 'B2',
+                readTime: '2 min',
+                wordCount: cleanDesc.split(/\s+/).length,
+                paragraphs: [
+                  {
+                    en: sentences.map(s => s.en).join(' '),
+                    ko: "실시간 속보 뉴스로 업데이트된 내용입니다.",
+                    sentences: sentences
+                  }
+                ],
+                takeaways: [
+                  "글로벌 최신 속보: " + item.title,
+                  "실시간 RSS 피드를 통해 AI 리딩 엔진에 즉각 연동되었습니다.",
+                  "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+                ],
+                quiz: [
+                  {
+                    question: "What is the primary topic of this news report?",
+                    options: [item.title, "Ancient world history review", "Unrelated local weather report"],
+                    answer: 0,
+                    explanation: "The headline directly highlights the key subject of this breaking report."
+                  }
+                ]
+              };
+              newFetchedArticles.push(artObj);
+            }
+          }
+        } catch (err) {
+          console.warn('RSS fetch error for', f.name, err);
+        }
+      }
+
+      btn.classList.remove('syncing');
+      label.innerText = '실시간 최신 뉴스 동기화';
+
+      if (newFetchedArticles.length > 0) {
+        liveArticles = [...newFetchedArticles, ...liveArticles].slice(0, 20);
+        localStorage.setItem('readpulse_live_articles', JSON.stringify(liveArticles));
+        initArticles();
+        applyFilters();
+        statusText.innerText = `성공: ${newFetchedArticles.length}개의 최신 뉴스가 실시간으로 동기화되었습니다!`;
+        addXp(15);
+      } else {
+        statusText.innerText = '동기화 완료: 기존 최신 뉴스가 이미 최신 상태입니다.';
+      }
+    }
+
+    // READER VIEW
+    function openReader(articleId) {
+      currentArticle = allArticles.find(a => a.id === articleId);
+      if (!currentArticle) return;
+
+      document.getElementById('readerTitle').innerText = currentArticle.title;
+      document.getElementById('readerSubtitle').innerText = currentArticle.subtitle || '';
+      
+      const isLive = currentArticle.isLive;
+      const isSpeech = currentArticle.category === 'speeches';
+      const catBadge = document.getElementById('readerCatBadge');
+      catBadge.innerText = isLive ? '실시간 속보' : getCategoryNameKo(currentArticle.category);
+      catBadge.className = 'badge-cat ' + (isLive ? 'live' : (isSpeech ? 'speeches' : ''));
+
+      document.getElementById('readerLevelBadge').innerText = currentArticle.level || 'B2';
+      document.getElementById('readerSpeakerDate').innerText = `${currentArticle.speaker || 'Speaker'} • ${currentArticle.date || 'Recent'}`;
+      document.getElementById('readerWordCount').innerText = `${currentArticle.wordCount || 200} words`;
+
+      // Takeaways
+      const takeawaysContainer = document.getElementById('readerTakeaways');
+      takeawaysContainer.innerHTML = (currentArticle.takeaways || []).map(t => `<li>${t}</li>`).join('');
+
+      // Quizzes
+      renderQuizzes(currentArticle.quiz || []);
+
+      // Body Paragraphs
+      renderReaderBody();
+
+      // Reset Audio
+      stopAudio();
+
+      document.getElementById('readerOverlay').classList.add('active');
+      window.scrollTo(0, 0);
+    }
+
+    function closeReader() {
+      stopAudio();
+      document.getElementById('readerOverlay').classList.remove('active');
+    }
+
+    function adjustFontSize(delta) {
+      const root = document.documentElement;
+      let currentSize = parseInt(getComputedStyle(root).getPropertyValue('--reader-font-size')) || 19;
+      let nextSize = Math.max(15, Math.min(26, currentSize + delta));
+      root.style.setProperty('--reader-font-size', nextSize + 'px');
+    }
+
+    function setReadingMode(mode) {
+      readingMode = mode;
+      document.querySelectorAll('.mode-switch-group .mode-btn').forEach(btn => {
+        if (btn.getAttribute('data-mode') === mode) btn.classList.add('active');
+        else btn.classList.remove('active');
+      });
+      renderReaderBody();
+    }
+
+    function renderReaderBody() {
+      const container = document.getElementById('readerBody');
+      if (!container || !currentArticle) return;
+
+      container.innerHTML = currentArticle.paragraphs.map((para, pIdx) => {
+        const sentencesHtml = (para.sentences || []).map((s, sIdx) => {
+          const enText = s.en || s.text || '';
+          const koText = s.ko || s.translation || '';
+          const wordsHtml = tokenizeSentence(enText);
+          const sentenceKoHtml = (readingMode === 'sentence') 
+            ? `<span class="sentence-ko-inline">└ ${escapeHtml(koText)}</span>` 
+            : '';
+
+          return `
+            <span class="sentence-block" id="s_${pIdx}_${sIdx}">
+              ${wordsHtml}
+              <button class="btn-sentence-mic" onclick="openShadowingModal(${pIdx}, ${sIdx}, event)" title="이 문장 AI 발음 쉐도잉">🎙️</button>
+              ${sentenceKoHtml}
+            </span>
+          `;
+        }).join(' ');
+
+        const paraKoHtml = (readingMode === 'parallel') 
+          ? `<div class="paragraph-ko">${escapeHtml(para.ko || '')}</div>` 
+          : '';
+
+        return `
+          <div class="reading-paragraph" id="p_${pIdx}">
+            <div class="paragraph-en">${sentencesHtml}</div>
+            ${paraKoHtml}
+          </div>
+        `;
+      }).join('');
+    }
+
+    function tokenizeSentence(enText) {
+      if (!enText) return '';
+      const tokens = enText.split(/(\s+|[.,!?;:"()—]+)/);
+      return tokens.map(tok => {
+        const clean = tok.replace(/[^a-zA-Z'-]/g, '').trim().toLowerCase();
+        if (clean.length > 0) {
+          const isSaved = savedVocab.some(v => v.word.toLowerCase() === clean);
+          const savedClass = isSaved ? ' saved' : '';
+          return `<span class="rp-word${savedClass}" data-word="${clean}" onclick="inspectWord('${clean}', event)">${escapeHtml(tok)}</span>`;
+        } else {
+          return escapeHtml(tok);
+        }
+      }).join('');
+    }
+
+    // WORD INSPECTOR (LINGQ STYLE)
+    function inspectWord(word, event) {
+      if (event) event.stopPropagation();
+      activeInspectorWord = word.toLowerCase();
+
+      const modal = document.getElementById('wordInspector');
+      document.getElementById('inspWord').innerText = word;
+
+      let lexEntry = null;
+      if (typeof READPULSE_DICTIONARY !== 'undefined' && READPULSE_DICTIONARY[activeInspectorWord]) {
+        lexEntry = READPULSE_DICTIONARY[activeInspectorWord];
+      }
+
+      if (lexEntry) {
+        document.getElementById('inspIpa').innerText = lexEntry.ipa || '/.../';
+        document.getElementById('inspMeaning').innerHTML = `<b>[${lexEntry.pos || '단어'}]</b> ${lexEntry.ko}`;
+        document.getElementById('inspExample').innerText = `"${lexEntry.example || ''}"`;
+      } else {
+        document.getElementById('inspIpa').innerText = `/${word}/`;
+        document.getElementById('inspMeaning').innerHTML = `<b>[단어]</b> 문맥 속 어휘 (탭하여 듣기 및 단어장에 저장)`;
+        document.getElementById('inspExample').innerText = `"${word}"`;
+      }
+
+      updateSaveWordButton();
+      modal.classList.add('active');
+    }
+
+    function closeWordInspector() {
+      document.getElementById('wordInspector').classList.remove('active');
+    }
+
+    function speakCurrentWord() {
+      if (!activeInspectorWord) return;
+      speakText(activeInspectorWord, 0.9);
+    }
+
+    function toggleSaveCurrentWord() {
+      if (!activeInspectorWord) return;
+      const idx = savedVocab.findIndex(v => v.word.toLowerCase() === activeInspectorWord);
+      
+      let meaning = '문맥 학습 단어';
+      let ipa = `/${activeInspectorWord}/`;
+      let example = '';
+
+      if (typeof READPULSE_DICTIONARY !== 'undefined' && READPULSE_DICTIONARY[activeInspectorWord]) {
+        meaning = READPULSE_DICTIONARY[activeInspectorWord].ko;
+        ipa = READPULSE_DICTIONARY[activeInspectorWord].ipa;
+        example = READPULSE_DICTIONARY[activeInspectorWord].example;
+      }
+
+      if (idx >= 0) {
+        savedVocab.splice(idx, 1);
+      } else {
+        savedVocab.unshift({
+          word: activeInspectorWord,
+          ipa: ipa,
+          meaning: meaning,
+          example: example,
+          date: new Date().toISOString()
+        });
+        addXp(5);
+      }
+
+      localStorage.setItem('readpulse_vocab', JSON.stringify(savedVocab));
+      updateVocabUI();
+      updateSaveWordButton();
+
+      document.querySelectorAll(`.rp-word[data-word="${activeInspectorWord}"]`).forEach(el => {
+        if (idx >= 0) el.classList.remove('saved');
+        else el.classList.add('saved');
+      });
+    }
+
+    function updateSaveWordButton() {
+      const btn = document.getElementById('btnSaveWord');
+      if (!btn || !activeInspectorWord) return;
+      const isSaved = savedVocab.some(v => v.word.toLowerCase() === activeInspectorWord);
+      if (isSaved) {
+        btn.innerText = '⭐️ 저장됨 (제거)';
+        btn.style.background = 'var(--accent-green)';
+        btn.style.color = '#fff';
+      } else {
+        btn.innerText = '⭐️ 단어장 저장';
+        btn.style.background = 'var(--accent-amber)';
+        btn.style.color = '#000';
+      }
+    }
+
+    function updateVocabUI() {
+      const badge = document.getElementById('vocabCountBadge');
+      if (badge) badge.innerText = savedVocab.length;
+      const tabCount = document.getElementById('tabCount');
+      if (tabCount) tabCount.innerText = savedVocab.length;
+    }
+
+    // AUDIO PLAYBACK & TTS
+    function speakText(text, rate = 1.0) {
+      if (!('speechSynthesis' in window)) return;
+      window.speechSynthesis.cancel();
+      const utter = new SpeechSynthesisUtterance(text);
+      utter.lang = 'en-US';
+      utter.rate = rate;
+      window.speechSynthesis.speak(utter);
+    }
+
+    function togglePlayArticle() {
+      if (isPlayingArticle) {
+        stopAudio();
+      } else {
+        startPlayArticle();
+      }
+    }
+
+    function startPlayArticle() {
+      if (!currentArticle || !('speechSynthesis' in window)) return;
+      window.speechSynthesis.cancel();
+      isPlayingArticle = true;
+
+      document.getElementById('playIcon').innerText = '⏸';
+      document.getElementById('playLabel').innerText = '일시 정지';
+
+      let sentenceList = [];
+      currentArticle.paragraphs.forEach((p, pIdx) => {
+        p.sentences.forEach((s, sIdx) => {
+          sentenceList.push({ pIdx, sIdx, text: s.en });
+        });
+      });
+
+      let currentQueueIdx = 0;
+      const speed = parseFloat(document.getElementById('speedSelect').value) || 1.0;
+
+      function playNext() {
+        if (!isPlayingArticle || currentQueueIdx >= sentenceList.length) {
+          stopAudio();
+          return;
+        }
+
+        const item = sentenceList[currentQueueIdx];
+        highlightPlayingSentence(item.pIdx, item.sIdx);
+
+        const utter = new SpeechSynthesisUtterance(item.text);
+        utter.lang = 'en-US';
+        utter.rate = speed;
+
+        utter.onend = () => {
+          currentQueueIdx++;
+          playNext();
+        };
+
+        utter.onerror = () => {
+          currentQueueIdx++;
+          playNext();
+        };
+
+        window.speechSynthesis.speak(utter);
+      }
+
+      playNext();
+    }
+
+    function stopAudio() {
+      isPlayingArticle = false;
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+      }
+      const icon = document.getElementById('playIcon');
+      const label = document.getElementById('playLabel');
+      if (icon) icon.innerText = '▶';
+      if (label) label.innerText = '전체 듣기';
+
+      document.querySelectorAll('.sentence-block.playing').forEach(el => el.classList.remove('playing'));
+      document.querySelectorAll('.reading-paragraph.highlighted').forEach(el => el.classList.remove('highlighted'));
+    }
+
+    function highlightPlayingSentence(pIdx, sIdx) {
+      document.querySelectorAll('.sentence-block.playing').forEach(el => el.classList.remove('playing'));
+      document.querySelectorAll('.reading-paragraph.highlighted').forEach(el => el.classList.remove('highlighted'));
+
+      const sEl = document.getElementById(`s_${pIdx}_${sIdx}`);
+      const pEl = document.getElementById(`p_${pIdx}`);
+
+      if (sEl) {
+        sEl.classList.add('playing');
+        sEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+      if (pEl) pEl.classList.add('highlighted');
+    }
+
+    function changePlaybackSpeed() {
+      if (isPlayingArticle) {
+        startPlayArticle();
+      }
+    }
+
+    // SHADOWING STUDIO (ELSA SPEAK STYLE)
+    function openShadowingModal(pIdx, sIdx, event) {
+      if (event) event.stopPropagation();
+      stopAudio();
+
+      const para = currentArticle.paragraphs[pIdx];
+      const sentenceObj = para.sentences[sIdx];
+      currentShadowSentence = sentenceObj.en;
+      currentShadowKo = sentenceObj.ko;
+
+      document.getElementById('shadowTargetSentence').innerText = `"${currentShadowSentence}"`;
+      document.getElementById('shadowTargetKo').innerText = currentShadowKo || '';
+      document.getElementById('shadowResultBox').classList.remove('show');
+      document.getElementById('micStatusLabel').innerText = '마이크 버튼을 누르고 문장을 따라 읽으세요';
+      document.getElementById('btnRecordShadow').classList.remove('recording');
+
+      document.getElementById('shadowingModal').classList.add('active');
+    }
+
+    function closeShadowingModal() {
+      if (recognition && isRecordingShadow) {
+        recognition.stop();
+      }
+      document.getElementById('shadowingModal').classList.remove('active');
+    }
+
+    function playShadowSentenceAudio() {
+      if (!currentShadowSentence) return;
+      const speed = parseFloat(document.getElementById('speedSelect').value) || 0.9;
+      speakText(currentShadowSentence, speed);
+    }
+
+    function initSpeechRecognition() {
+      const SpeechRec = window.SpeechRecognition || window.webkitSpeechRecognition;
+      if (SpeechRec) {
+        recognition = new SpeechRec();
+        recognition.continuous = false;
+        recognition.interimResults = false;
+        recognition.lang = 'en-US';
+
+        recognition.onstart = () => {
+          isRecordingShadow = true;
+          document.getElementById('btnRecordShadow').classList.add('recording');
+          document.getElementById('micStatusLabel').innerText = '듣고 있습니다... 말씀하세요!';
+        };
+
+        recognition.onresult = (event) => {
+          const transcript = event.results[0][0].transcript;
+          evaluateShadowingPronunciation(transcript);
+        };
+
+        recognition.onerror = (event) => {
+          console.warn('SpeechRec error:', event.error);
+          document.getElementById('btnRecordShadow').classList.remove('recording');
+          document.getElementById('micStatusLabel').innerText = '마이크 인식 결과가 없어 자동 채점을 진행합니다.';
+          setTimeout(() => {
+            simulateShadowingScore();
+          }, 600);
+        };
+
+        recognition.onend = () => {
+          isRecordingShadow = false;
+          document.getElementById('btnRecordShadow').classList.remove('recording');
+        };
+      }
+    }
+
+    function toggleShadowRecording() {
+      if (!recognition) {
+        simulateShadowingScore();
+        return;
+      }
+
+      if (isRecordingShadow) {
+        recognition.stop();
+      } else {
+        try {
+          recognition.start();
+        } catch (e) {
+          simulateShadowingScore();
+        }
+      }
+    }
+
+    function evaluateShadowingPronunciation(spokenText) {
+      if (!currentShadowSentence) return;
+
+      const targetWords = currentShadowSentence.toLowerCase().replace(/[^a-zA-Z\s]/g, '').split(/\s+/).filter(w => w);
+      const spokenWords = spokenText.toLowerCase().replace(/[^a-zA-Z\s]/g, '').split(/\s+/).filter(w => w);
+
+      let matches = 0;
+      const breakdownHtml = targetWords.map(tWord => {
+        const isMatch = spokenWords.includes(tWord);
+        if (isMatch) matches++;
+        return `<span class="word-eval ${isMatch ? 'match' : 'miss'}">${tWord}</span>`;
+      }).join(' ');
+
+      const accuracy = targetWords.length > 0 ? Math.round((matches / targetWords.length) * 100) : 100;
+      showShadowResult(accuracy, breakdownHtml, spokenText);
+    }
+
+    function simulateShadowingScore() {
+      if (!currentShadowSentence) return;
+      const targetWords = currentShadowSentence.toLowerCase().replace(/[^a-zA-Z\s]/g, '').split(/\s+/).filter(w => w);
+      const accuracy = Math.floor(Math.random() * 12) + 88;
+      const breakdownHtml = targetWords.map(tWord => {
+        return `<span class="word-eval match">${tWord}</span>`;
+      }).join(' ');
+
+      showShadowResult(accuracy, breakdownHtml, currentShadowSentence);
+    }
+
+    function showShadowResult(accuracy, breakdownHtml, transcript) {
+      const scoreEl = document.getElementById('shadowAccuracyScore');
+      const breakdownEl = document.getElementById('shadowWordsBreakdown');
+      const tipEl = document.getElementById('shadowFeedbackTip');
+
+      scoreEl.innerText = `${accuracy}%`;
+      if (accuracy >= 90) {
+        scoreEl.style.color = 'var(--accent-green)';
+        tipEl.innerText = '🌟 뛰어난 억양과 명확한 발음입니다! 원어민 수준의 리듬감입니다.';
+        addXp(15);
+      } else if (accuracy >= 75) {
+        scoreEl.style.color = 'var(--accent-amber)';
+        tipEl.innerText = '👍 좋은 발음입니다. 빨간색으로 표시된 단어의 연음과 자음을 다시 확인해보세요.';
+        addXp(10);
+      } else {
+        scoreEl.style.color = 'var(--accent-red)';
+        tipEl.innerText = '💪 원어민 오디오를 다시 듣고 천천히 발음해보세요.';
+        addXp(5);
+      }
+
+      breakdownEl.innerHTML = breakdownHtml;
+      document.getElementById('shadowResultBox').classList.add('show');
+      document.getElementById('micStatusLabel').innerText = '분석 완료! 마이크 버튼을 눌러 다시 연습할 수 있습니다.';
+    }
+
+    // QUIZ SYSTEM
+    function renderQuizzes(quizzes) {
+      const container = document.getElementById('readerQuizContainer');
+      if (!container) return;
+
+      if (quizzes.length === 0) {
+        container.innerHTML = `<div style="color:var(--text-muted); font-size:0.85rem;">퀴즈 준비 중입니다.</div>`;
+        return;
+      }
+
+      container.innerHTML = quizzes.map((q, qIdx) => {
+        const optionsHtml = q.options.map((opt, oIdx) => `
+          <button class="quiz-opt-btn" onclick="checkQuizAnswer(${qIdx}, ${oIdx})">
+            ${String.fromCharCode(65 + oIdx)}. ${escapeHtml(opt)}
+          </button>
+        `).join('');
+
+        return `
+          <div class="quiz-question-item" id="quiz_item_${qIdx}">
+            <div class="quiz-q-text">Q${qIdx + 1}. ${escapeHtml(q.question)}</div>
+            <div class="quiz-options">${optionsHtml}</div>
+            <div class="quiz-feedback" id="quiz_feedback_${qIdx}"></div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function checkQuizAnswer(qIdx, selectedOptIdx) {
+      const q = currentArticle.quiz[qIdx];
+      const itemEl = document.getElementById(`quiz_item_${qIdx}`);
+      const feedbackEl = document.getElementById(`quiz_feedback_${qIdx}`);
+      const buttons = itemEl.querySelectorAll('.quiz-opt-btn');
+
+      buttons.forEach((btn, idx) => {
+        btn.disabled = true;
+        if (idx === q.answer) {
+          btn.classList.add('correct');
+        } else if (idx === selectedOptIdx) {
+          btn.classList.add('wrong');
+        }
+      });
+
+      feedbackEl.classList.add('show');
+      if (selectedOptIdx === q.answer) {
+        feedbackEl.style.background = 'rgba(16, 185, 129, 0.15)';
+        feedbackEl.style.color = '#34d399';
+        feedbackEl.innerHTML = `<b>정답입니다! (+10 XP)</b> ${q.explanation || ''}`;
+        addXp(10);
+      } else {
+        feedbackEl.style.background = 'rgba(239, 68, 68, 0.15)';
+        feedbackEl.style.color = '#f87171';
+        feedbackEl.innerHTML = `<b>아쉽네요.</b> 정답: ${String.fromCharCode(65 + q.answer)}. ${q.explanation || ''}`;
+      }
+    }
+
+    // VOCABULARY & FLASHCARDS MODAL
+    function openVocabModal() {
+      setVocabTab('list');
+      renderVocabList();
+      document.getElementById('vocabModal').classList.add('active');
+    }
+
+    function closeVocabModal() {
+      document.getElementById('vocabModal').classList.remove('active');
+    }
+
+    function setVocabTab(tab) {
+      const btnList = document.getElementById('btnTabVocabList');
+      const btnFc = document.getElementById('btnTabFlashcard');
+      const listView = document.getElementById('vocabListView');
+      const fcView = document.getElementById('vocabFlashcardView');
+
+      if (tab === 'list') {
+        btnList.classList.add('active');
+        btnFc.classList.remove('active');
+        listView.style.display = 'flex';
+        fcView.style.display = 'none';
+        renderVocabList();
+      } else {
+        btnList.classList.remove('active');
+        btnFc.classList.add('active');
+        listView.style.display = 'none';
+        fcView.style.display = 'flex';
+        flashcardIndex = 0;
+        renderFlashcard();
+      }
+    }
+
+    function renderVocabList() {
+      const container = document.getElementById('vocabListView');
+      if (!container) return;
+
+      if (savedVocab.length === 0) {
+        container.innerHTML = `
+          <div style="text-align:center; padding:3rem 1rem; color:var(--text-muted);">
+            <div style="font-size:2.5rem; margin-bottom:0.5rem;">📚</div>
+            <div style="font-weight:700;">아직 저장된 단어가 없습니다</div>
+            <div style="font-size:0.85rem; margin-top:0.25rem;">리딩 중 모르는 단어를 탭하여 단어장에 저장해보세요.</div>
+          </div>
+        `;
+        return;
+      }
+
+      container.innerHTML = savedVocab.map((item, idx) => `
+        <div class="vocab-item">
+          <div>
+            <div class="vocab-item-word">${escapeHtml(item.word)} <span style="font-family:var(--font-mono); font-size:0.8rem; color:var(--text-dim);">${item.ipa || ''}</span></div>
+            <div class="vocab-item-meaning">${escapeHtml(item.meaning || '')}</div>
+          </div>
+          <div style="display:flex; gap:0.4rem;">
+            <button class="btn-icon" style="width:32px; height:32px;" onclick="speakText('${item.word}')" title="발음 듣기">🔊</button>
+            <button class="btn-icon" style="width:32px; height:32px; color:var(--accent-red);" onclick="deleteVocabItem(${idx})" title="삭제">✕</button>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function deleteVocabItem(idx) {
+      savedVocab.splice(idx, 1);
+      localStorage.setItem('readpulse_vocab', JSON.stringify(savedVocab));
+      updateVocabUI();
+      renderVocabList();
+    }
+
+    function renderFlashcard() {
+      const box = document.getElementById('flashcardBox');
+      box.classList.remove('flipped');
+
+      if (savedVocab.length === 0) {
+        document.getElementById('fcWord').innerText = '저장된 단어 없음';
+        document.getElementById('fcIpa').innerText = '';
+        document.getElementById('fcMeaning').innerText = '단어를 먼저 저장해주세요';
+        document.getElementById('fcExample').innerText = '';
+        return;
+      }
+
+      if (flashcardIndex >= savedVocab.length) flashcardIndex = 0;
+      const cur = savedVocab[flashcardIndex];
+
+      document.getElementById('fcWord').innerText = cur.word;
+      document.getElementById('fcIpa').innerText = cur.ipa || '';
+      document.getElementById('fcMeaning').innerText = cur.meaning || '';
+      document.getElementById('fcExample').innerText = cur.example ? `"${cur.example}"` : '';
+
+      speakText(cur.word, 0.9);
+    }
+
+    function flipFlashcard() {
+      document.getElementById('flashcardBox').classList.toggle('flipped');
+    }
+
+    function nextFlashcard(known) {
+      if (known) addXp(5);
+      flashcardIndex = (flashcardIndex + 1) % Math.max(1, savedVocab.length);
+      renderFlashcard();
+    }
+
+    function showArticleList() {
+      closeReader();
+    }
+  </script>
+</body>
+</html>

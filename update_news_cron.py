@@ -1,0 +1,105 @@
+# -*- coding: utf-8 -*-
+"""
+Automated News Refresh Cron Script for ReadPulse AI
+Fetches latest breaking news from BBC RSS feeds (Technology, Science, Business, Sports, Entertainment)
+and updates the local articles_database.js automatically.
+"""
+import urllib.request
+import urllib.parse
+import json
+import os
+import re
+
+FEEDS = [
+    {"cat": "tech", "name": "BBC Technology", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"},
+    {"cat": "science", "name": "BBC Science", "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"},
+    {"cat": "economy", "name": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
+    {"cat": "sports", "name": "BBC Sports", "url": "https://feeds.bbci.co.uk/sport/rss.xml"},
+    {"cat": "culture", "name": "BBC Arts", "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"}
+]
+
+def fetch_rss_to_json(rss_url):
+    api_url = f"https://api.rss2json.com/v1/api.json?rss_url={urllib.parse.quote(rss_url)}"
+    req = urllib.request.Request(api_url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=10) as res:
+        return json.loads(res.read().decode('utf-8'))
+
+def main():
+    app_dir = os.path.dirname(os.path.abspath(__file__))
+    db_path = os.path.join(app_dir, "articles_database.js")
+    
+    print("Checking current database...")
+    if not os.path.exists(db_path):
+        print("articles_database.js not found.")
+        return
+
+    with open(db_path, "r", encoding="utf-8") as f:
+        content = f.read()
+    
+    match = re.search(r"(?:const|window\.)\s*READPULSE_ARTICLES\s*=\s*(\[.*\]);?", content, re.DOTALL)
+    if not match:
+        print("Could not parse articles array.")
+        return
+    
+    articles = json.loads(match.group(1))
+    print(f"Loaded {len(articles)} existing articles.")
+
+    new_articles = []
+    for f_info in FEEDS:
+        try:
+            print(f"Fetching {f_info['name']}...")
+            data = fetch_rss_to_json(f_info["url"])
+            if data.get("status") == "ok" and data.get("items"):
+                top_item = data["items"][0]
+                desc = re.sub(r"<[^>]*>", "", top_item.get("description", "")).strip()
+                raw_sentences = re.findall(r"[^.!?]+[.!?]+", desc) or [desc]
+                sentences = [{"en": s.strip(), "ko": "실시간 속보 번역: " + s.strip()} for s in raw_sentences if len(s.strip()) > 10]
+                
+                if sentences:
+                    art_id = f"auto_{f_info['cat']}_{abs(hash(top_item.get('title')))}"
+                    if any(a.get("id") == art_id for a in articles):
+                        continue
+                    
+                    new_articles.append({
+                        "id": art_id,
+                        "title": top_item.get("title", "Breaking News"),
+                        "subtitle": desc[:130] + "...",
+                        "speaker": f_info["name"],
+                        "date": top_item.get("pubDate", "Today").split(" ")[0],
+                        "category": f_info["cat"],
+                        "isLive": True,
+                        "level": "B2",
+                        "readTime": "2 min",
+                        "wordCount": len(desc.split()),
+                        "paragraphs": [{
+                            "en": " ".join([s["en"] for s in sentences]),
+                            "ko": "실시간 글로벌 최신 뉴스입니다.",
+                            "sentences": sentences
+                        }],
+                        "takeaways": [
+                            f"글로벌 최신 소식: {top_item.get('title')}",
+                            "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+                            "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+                        ],
+                        "quiz": [{
+                            "question": "What is the primary topic of this report?",
+                            "options": [top_item.get("title", "Breaking News"), "Historical retrospective", "Unrelated general weather"],
+                            "answer": 0,
+                            "explanation": "The title directly reflects the main subject."
+                        }]
+                    })
+        except Exception as e:
+            print(f"Error fetching {f_info['name']}: {e}")
+
+    if new_articles:
+        print(f"Found {len(new_articles)} new news stories!")
+        updated_list = new_articles + articles
+        new_content = f"// ReadPulse AI - Comprehensive English Reading & Speeches Database\nconst READPULSE_ARTICLES = {json.dumps(updated_list, ensure_ascii=False, indent=2)};\n"
+        with open(db_path, "w", encoding="utf-8") as f:
+            f.write(new_content)
+        print("Database updated successfully.")
+    else:
+        print("All news stories are already up-to-date.")
+
+if __name__ == "__main__":
+    main()
