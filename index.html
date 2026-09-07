@@ -1681,16 +1681,60 @@
       };
     }
 
+    function enforceTopicCapacityLimit(articles) {
+      // 1. Speeches are 100% exempt from topic quotas (permanent core collection)
+      const speeches = articles.filter(a => a.category === 'speeches');
+      
+      const categories = ['tech', 'science', 'economy', 'sports', 'culture'];
+      let resultArticles = [...speeches];
+
+      categories.forEach(cat => {
+        const catArticles = articles.filter(a => a.category === cat);
+        
+        // 2. Separate into Archived (Top Priority) and Unarchived
+        const archived = catArticles.filter(a => isArticleArchived(a.id));
+        const unarchived = catArticles.filter(a => !isArticleArchived(a.id));
+
+        // Sort unarchived descending by addedAt / date (newest first)
+        unarchived.sort((a, b) => {
+          const dateA = new Date(a.addedAt || a.date || 0).getTime();
+          const dateB = new Date(b.addedAt || b.date || 0).getTime();
+          return dateB - dateA;
+        });
+
+        // 3. Allocate remaining slots for unarchived news (Max 10 per category)
+        const remainingSlots = Math.max(0, 10 - archived.length);
+        const allowedUnarchived = unarchived.slice(0, remainingSlots);
+
+        // Combine: All archived + allowed newest unarchived
+        resultArticles.push(...archived, ...allowedUnarchived);
+      });
+
+      // Include any other categories if present
+      const otherArticles = articles.filter(a => a.category !== 'speeches' && !categories.includes(a.category));
+      if (otherArticles.length > 0) {
+        resultArticles.push(...otherArticles);
+      }
+
+      return resultArticles;
+    }
+
     function initArticles() {
       let builtIn = [];
       if (typeof READPULSE_ARTICLES !== 'undefined') {
         builtIn = READPULSE_ARTICLES;
       }
       const combined = [...builtIn, ...liveArticles];
-      allArticles = combined.filter(art => {
+
+      // Step 1: Filter out 7-day expired unarchived news
+      const activeArticles = combined.filter(art => {
         const ret = checkArticleRetention(art);
         return !ret.shouldPrune;
       });
+
+      // Step 2: Enforce topic capacity limit (max 10 per category, archive priority)
+      allArticles = enforceTopicCapacityLimit(activeArticles);
+
       currentFilteredArticles = [...allArticles];
       updateArchiveUI();
     }
@@ -2013,7 +2057,7 @@
       }
 
       localStorage.setItem('readpulse_archived_ids', JSON.stringify(archivedArticleIds));
-      updateArchiveUI();
+      initArticles();
       applyFilters();
       if (currentArticle && currentArticle.id === articleId) {
         updateReaderArchiveButton();
@@ -2210,7 +2254,7 @@
         if (artId && !archivedArticleIds.includes(artId)) {
           archivedArticleIds.push(artId);
           localStorage.setItem('readpulse_archived_ids', JSON.stringify(archivedArticleIds));
-          updateArchiveUI();
+          initArticles();
           applyFilters();
           updateReaderArchiveButton();
           showToast('⭐️ 단어가 저장되어 이 기사가 보관함(Archive)에 영구 보존됩니다!');

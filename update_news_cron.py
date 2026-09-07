@@ -96,10 +96,21 @@ def main():
     if new_articles:
         print(f"Found {len(new_articles)} new news stories!")
         updated_list = new_articles + articles
-        new_content = f"// ReadPulse AI - Comprehensive English Reading & Speeches Database\nconst READPULSE_ARTICLES = {json.dumps(updated_list, ensure_ascii=False, indent=2)};\n"
+
+        # Enforce max 10 articles per news topic (tech, science, economy, sports, culture)
+        speeches = [a for a in updated_list if a.get("category") == "speeches"]
+        capped_news = []
+        for cat in ["tech", "science", "economy", "sports", "culture"]:
+            cat_items = [a for a in updated_list if a.get("category") == cat]
+            # Sort descending by addedAt or date to retain newest
+            cat_items.sort(key=lambda x: str(x.get("addedAt") or x.get("date")), reverse=True)
+            capped_news.extend(cat_items[:10])
+
+        final_list = capped_news + speeches
+        new_content = f"// ReadPulse AI - Comprehensive English Reading & Speeches Database\nconst READPULSE_ARTICLES = {json.dumps(final_list, ensure_ascii=False, indent=2)};\n"
         with open(db_path, "w", encoding="utf-8") as f:
             f.write(new_content)
-        print("Database updated successfully.")
+        print(f"Database updated successfully ({len(final_list)} total articles, max 10 per category).")
     else:
         print("All news stories are already up-to-date.")
 
