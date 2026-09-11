@@ -16,7 +16,7 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 248,
+    "wordCount": 173,
     "keywords": [
       "#US오픈",
       "#사발렌카",
@@ -118,7 +118,7 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 242,
+    "wordCount": 154,
     "keywords": [
       "#US오픈",
       "#신너기권",
@@ -216,7 +216,7 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 246,
+    "wordCount": 152,
     "keywords": [
       "#MLB",
       "#오타니",
@@ -314,7 +314,7 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 244,
+    "wordCount": 153,
     "keywords": [
       "#MLB",
       "#양키스",
@@ -412,7 +412,7 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 245,
+    "wordCount": 149,
     "keywords": [
       "#프리미어리그",
       "#맨시티",
@@ -510,7 +510,7 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 244,
+    "wordCount": 148,
     "keywords": [
       "#프리미어리그",
       "#리버풀",
@@ -608,7 +608,7 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 242,
+    "wordCount": 158,
     "keywords": [
       "#F1",
       "#안토넬리",
@@ -704,7 +704,7 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 248,
+    "wordCount": 143,
     "keywords": [
       "#애플이벤트",
       "#아이폰18",
@@ -800,7 +800,7 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 246,
+    "wordCount": 146,
     "keywords": [
       "#추론AI",
       "#소프트웨어",
@@ -896,7 +896,7 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 248,
+    "wordCount": 155,
     "keywords": [
       "#NASA",
       "#에우로파클리퍼",
@@ -992,7 +992,7 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 244,
+    "wordCount": 152,
     "keywords": [
       "#제임스웹",
       "#우주망원경",
@@ -1088,7 +1088,7 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 246,
+    "wordCount": 153,
     "keywords": [
       "#연준금리",
       "#FOMC",
@@ -1184,7 +1184,7 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 245,
+    "wordCount": 145,
     "keywords": [
       "#반도체",
       "#AI칩",
@@ -1280,7 +1280,7 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 245,
+    "wordCount": 155,
     "keywords": [
       "#베니스영화제",
       "#황금사자상",
@@ -1376,7 +1376,7 @@ const READPULSE_ARTICLES = [
     "isLive": true,
     "level": "A2-B1",
     "readTime": "3 min",
-    "wordCount": 242,
+    "wordCount": 139,
     "keywords": [
       "#K웹툰",
       "#K콘텐츠",
@@ -2572,7 +2572,7 @@ const READPULSE_ARTICLES = [
     "category": "speeches",
     "level": "B2",
     "readTime": "4 min",
-    "wordCount": 512,
+    "wordCount": 330,
     "keywords": [
       "#인생철학",
       "#도전과실패",
@@ -2734,7 +2734,7 @@ const READPULSE_ARTICLES = [
     "category": "speeches",
     "level": "C1",
     "readTime": "4 min",
-    "wordCount": 448,
+    "wordCount": 233,
     "keywords": [
       "#역사적결의",
       "#윈스턴처칠",
@@ -2820,7 +2820,7 @@ const READPULSE_ARTICLES = [
     "category": "speeches",
     "level": "B2",
     "readTime": "4 min",
-    "wordCount": 420,
+    "wordCount": 196,
     "keywords": [
       "#노벨평화상",
       "#교육권",
@@ -2914,7 +2914,7 @@ const READPULSE_ARTICLES = [
     "category": "speeches",
     "level": "C1",
     "readTime": "4 min",
-    "wordCount": 435,
+    "wordCount": 259,
     "keywords": [
       "#우주철학",
       "#칼세이건",
@@ -3000,7 +3000,7 @@ const READPULSE_ARTICLES = [
     "category": "speeches",
     "level": "B2",
     "readTime": "4 min",
-    "wordCount": 460,
+    "wordCount": 259,
     "keywords": [
       "#인류애",
       "#찰리채플린",

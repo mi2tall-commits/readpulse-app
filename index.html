@@ -1980,11 +1980,24 @@
         const saved = localStorage.getItem('readpulse_vocab');
         if (saved) savedVocab = JSON.parse(saved);
 
-        const storedLive = localStorage.getItem('readpulse_live_articles');
-        if (storedLive) liveArticles = JSON.parse(storedLive);
-
         const savedArchived = localStorage.getItem('readpulse_archived_ids');
         if (savedArchived) archivedArticleIds = JSON.parse(savedArchived);
+
+        const storedLive = localStorage.getItem('readpulse_live_articles');
+        if (storedLive) {
+          liveArticles = JSON.parse(storedLive);
+          // 이전 버전의 동기화 버그로 저장된 "1줄짜리" 부실한 아티클을 정리
+          // (단, 이미 단어장/보관함에 연결된 기사는 학습 기록 보존을 위해 남겨둠)
+          const cleaned = liveArticles.filter(a => {
+            const words = (a.paragraphs || []).reduce((sum, p) => sum + (p.en || '').split(/\s+/).filter(Boolean).length, 0);
+            const isGoodQuality = (a.paragraphs || []).length >= 2 && words >= 40;
+            return isGoodQuality || isArticleArchived(a.id);
+          });
+          if (cleaned.length !== liveArticles.length) {
+            liveArticles = cleaned;
+            localStorage.setItem('readpulse_live_articles', JSON.stringify(liveArticles));
+          }
+        }
 
         const theme = localStorage.getItem('readpulse_theme') || 'dark';
         applyTheme(theme);
@@ -2013,8 +2026,14 @@
       }
 
       // 2. Curated core deep-dives (non-live, non-auto)
-      const isLiveNews = Boolean(article.isLive || (article.id && (article.id.startsWith('auto_') || article.id.startsWith('live_'))));
-      if (!isLiveNews) {
+      // 주의: isLive 플래그는 "🔴 실시간 속보" 배지/필터 표시에도 쓰이는데,
+      // 사람이 직접 취재/팩트체크한 큐레이션 아티클도 최신 헤드라인임을
+      // 보여주려고 isLive:true로 표시해둔 경우가 있다. 그래서 여기서는
+      // 보존(7일 후 자동 삭제) 여부를 isLive가 아니라 id 접두사(auto_/live_,
+      // 즉 실제 자동 수집 파이프라인 산출물인지)로만 판단해야 한다.
+      // isLive까지 같이 보면 큐레이션 아티클이 7일 뒤 조용히 삭제되어 버린다.
+      const isAutoFetched = Boolean(article.id && (article.id.startsWith('auto_') || article.id.startsWith('live_')));
+      if (!isAutoFetched) {
         return { isPermanent: true, label: '🏛️ 영구 보존', cssClass: 'badge-permanent', shouldPrune: false };
       }
 
@@ -2365,6 +2384,56 @@
       return paragraphs;
     }
 
+    function decodeHtmlEntities(str) {
+      return String(str)
+        .replace(/&nbsp;/g, ' ')
+        .replace(/&amp;/g, '&')
+        .replace(/&quot;/g, '"')
+        .replace(/&#0?39;/g, "'")
+        .replace(/&lt;/g, '<')
+        .replace(/&gt;/g, '>');
+    }
+
+    // RSS description/summary는 보통 1~2문장짜리 짧은 티저에 불과해서,
+    // 아무리 문단을 잘 나눠도 "1줄만 보이는" 문제가 근본적으로 해결되지 않는다.
+    // 그래서 원문 기사 페이지를 CORS 프록시로 직접 가져와 실제 본문 문단을
+    // 추출한다 (update_news_cron.py 서버 스크립트가 하는 것과 동일한 방식).
+    // 프록시가 막히거나 실패하면 null을 반환해 RSS 기반 폴백을 사용하게 한다.
+    async function fetchFullArticleParagraphs(url) {
+      if (!url) return null;
+      try {
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 9000);
+        const proxied = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(url);
+        const res = await fetch(proxied, { cache: 'no-cache', signal: controller.signal });
+        clearTimeout(timeoutId);
+        if (!res.ok) return null;
+
+        const html = await res.text();
+        const banned = ['copyright', 'cookie', 'bbc is not responsible', 'terms of use', 'sign up for', 'get in touch', 'this video can not be played'];
+        const rawParas = [...html.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/g)].map(m => m[1]);
+        const cleanParas = rawParas
+          .map(p => decodeHtmlEntities(p.replace(/<[^>]*>/g, '')).trim())
+          .filter(t => t.length > 60 && !banned.some(w => t.toLowerCase().includes(w)));
+
+        if (cleanParas.length < 2) return null;
+
+        return cleanParas.slice(0, 5).map(text => {
+          const sentMatches = text.match(/[^.!?]+[.!?]+/g) || [text];
+          const sentences = sentMatches.map(s => s.trim()).filter(s => s.length > 10);
+          const finalSentences = sentences.length ? sentences : [text];
+          return {
+            en: text,
+            ko: '실시간 뉴스 원문 기반 요약 문단입니다.',
+            sentences: finalSentences.map(s => ({ en: s, ko: '실시간 보도 번역: ' + s }))
+          };
+        });
+      } catch (e) {
+        console.warn('Full article fetch failed for', url, e);
+        return null;
+      }
+    }
+
     // LIVE NEWS SYNC ENGINE
     async function syncLiveNews() {
       const btn = document.getElementById('btnSyncNews');
@@ -2397,19 +2466,23 @@
               const cleanDesc = (item.description || '').replace(/<[^>]*>?/gm, '').trim();
               const fullContent = (item.content || item.description || '').replace(/<[^>]*>?/gm, '').trim();
 
-              // 더 풍부한 본문(fullContent)이 있으면 그것을 우선 사용 (짧은 요약만 쓰던 버그 수정)
-              const baseText = fullContent.length > cleanDesc.length ? fullContent : cleanDesc;
+              // 1순위: 원문 기사 페이지에서 실제 본문 문단을 직접 가져온다 (RSS 티저보다
+              // 훨씬 풍부해서 "1줄만 보이는" 문제를 근본적으로 해결)
+              let paragraphsData = item.link ? await fetchFullArticleParagraphs(item.link) : null;
 
-              const rawSentences = baseText.match(/[^.!?]+[.!?]+/g) || [baseText];
-              const cleanSentences = rawSentences.map(s => s.trim()).filter(s => s.length > 10);
+              if (!paragraphsData) {
+                // 2순위 폴백: 원문 스크래핑이 막히거나 실패하면 RSS 설명 중 더 긴 쪽을 사용
+                const baseText = fullContent.length > cleanDesc.length ? fullContent : cleanDesc;
+                const rawSentences = baseText.match(/[^.!?]+[.!?]+/g) || [baseText];
+                const cleanSentences = rawSentences.map(s => s.trim()).filter(s => s.length > 10);
+                if (cleanSentences.length === 0) continue;
+                // 여러 문장을 3문장 단위로 나눠서 다른 아티클과 동일한 리딩 구조를 갖도록 함
+                paragraphsData = chunkSentencesToParagraphs(cleanSentences, 3);
+              }
 
-              // 실제 리딩 학습에 부족한 1~2문장짜리 짧은 소스는 건너뛰어
-              // "1~3줄만 보이는" 부실한 아티클이 생성되지 않도록 최소 분량을 강제
-              const totalWords = cleanSentences.join(' ').split(/\s+/).filter(Boolean).length;
-              if (cleanSentences.length === 0 || totalWords < 40) continue;
-
-              // 여러 문장을 3~5개 문단으로 나눠서 다른 아티클과 동일한 리딩 구조를 갖도록 함
-              const paragraphsData = chunkSentencesToParagraphs(cleanSentences, 3);
+              // 실제 리딩 학습에 부족한 짧은 소스는 건너뛰어 부실한 아티클이 생성되지 않도록 함
+              const totalWords = paragraphsData.reduce((sum, p) => sum + p.en.split(/\s+/).filter(Boolean).length, 0);
+              if (totalWords < 40) continue;
 
               const artObj = {
                 id: 'live_' + Math.random().toString(36).substr(2, 9),
