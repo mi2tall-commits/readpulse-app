@@ -1,5 +1,995 @@
-// ReadPulse AI - Comprehensive English Reading & Speeches Database (Fact-Checked Ground Truth)
+// ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
+  {
+    "id": "auto_tech_1804389437797559704",
+    "title": "Does this AI comic make you laugh?",
+    "subtitle": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?...",
+    "speaker": "BBC Technology",
+    "date": "2026-09-11",
+    "addedAt": "2026-09-11T15:44:21Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 107,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeat{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Does this AI comic make you laugh?\",\"description\":\"Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0p94wjw.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0p94wjw.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0p94wjw.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0p94wjw.jpg\"],\"uploadDate\":\"2026-09-11T12:49:30.597Z\",\"duration\":\"PT1M36S\"}Does this AI comic make you laugh?To play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeat{\"@context\":\"https://schema.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeat{\"@context\":\"https://schema."
+          },
+          {
+            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Does this AI comic make you laugh?",
+            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Does this AI comic make you laugh?"
+          },
+          {
+            "en": "\",\"description\":\"Comedian Garrett Millerick has created an AI avatar based on his own material.",
+            "ko": "실시간 보도 번역: \",\"description\":\"Comedian Garrett Millerick has created an AI avatar based on his own material."
+          },
+          {
+            "en": "Is it any good?",
+            "ko": "실시간 보도 번역: Is it any good?"
+          },
+          {
+            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
+            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1920/galileo/p0p94wjw.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0p94wjw."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1248/galileo/p0p94wjw.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0p94wjw."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/688/galileo/p0p94wjw.",
+            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0p94wjw."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/400/galileo/p0p94wjw.",
+            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0p94wjw."
+          },
+          {
+            "en": "jpg\"],\"uploadDate\":\"2026-09-11T12:49:30.",
+            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-11T12:49:30."
+          },
+          {
+            "en": "597Z\",\"duration\":\"PT1M36S\"}Does this AI comic make you laugh?",
+            "ko": "실시간 보도 번역: 597Z\",\"duration\":\"PT1M36S\"}Does this AI comic make you laugh?"
+          },
+          {
+            "en": "To play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: To play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "CloseListen to episodes of Garrett Millerick&#x27;s sitcom on BBC Sounds.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "CloseListen to episodes of Garrett Millerick&#x27;s sitcom on BBC Sounds.",
+            "ko": "실시간 보도 번역: CloseListen to episodes of Garrett Millerick&#x27;s sitcom on BBC Sounds."
+          }
+        ]
+      },
+      {
+        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsArtificial intelligenceFollow Artificial intelligence",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsArtificial intelligenceFollow Artificial intelligence",
+            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsArtificial intelligenceFollow Artificial intelligence"
+          }
+        ]
+      },
+      {
+        "en": "close panelYou are now following\n    Artificial intelligenceUpdates from your News topics will appear in My News and in a collection on the News homepage.Stand-up comedyFollow Stand-up comedy",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "close panelYou are now following\n    Artificial intelligenceUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+            "ko": "실시간 보도 번역: close panelYou are now following\n    Artificial intelligenceUpdates from your News topics will appear in My News and in a collection on the News homepage."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Does this AI comic make you laugh?",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Does this AI comic make you laugh?",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
+    "id": "news_tech_01",
+    "title": "Apple Prepares September Launch Event: iPhone 18 Series and On-Device AI",
+    "subtitle": "The tech giant readies its annual keynote showcasing advanced neural processors and Apple Intelligence.",
+    "speaker": "Bloomberg & 9to5Mac (Cupertino)",
+    "sourceName": "블룸버그 & 9to5Mac 애플 이벤트 보도 (bloomberg.com)",
+    "sourceUrl": "https://www.apple.com/",
+    "factChecked": true,
+    "factCheckNotes": "2026년 9월 애플 스페셜 이벤트 일정 및 차세대 아이폰 18 시리즈, 온디바이스 AI 공개 실측 확인",
+    "date": "2026-09-06",
+    "category": "tech",
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 143,
+    "keywords": [
+      "#애플이벤트",
+      "#아이폰18",
+      "#온디바이스AI",
+      "#애플인텔리전스"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "The global technology industry is getting ready for Apple's annual September launch event in California. Industry reports point to a major showcase unveiling the new iPhone 18 series alongside upgraded smartwatch models. The central focus of the keynote will be next-generation Apple Intelligence features running directly on hardware chips.",
+        "ko": "글로벌 테크 업계는 미국 캘리포니아에서 열리는 연례 애플 9월 신제품 발표 행사를 앞두고 준비에 한창입니다. 업계 보도에 따르면 차세대 아이폰 18 시리즈와 업그레이드된 스마트워치 모델이 대거 공개될 예정입니다. 이번 기조연설의 핵심 초점은 하드웨어 칩 내부에서 직접 구동되는 차세대 '애플 인텔리전스' 기능에 맞춰져 있습니다.",
+        "sentences": [
+          {
+            "en": "The global technology industry is getting ready for Apple's annual September launch event in California.",
+            "ko": "글로벌 IT 업계는 캘리포니아에서 열릴 9월 애플 신제품 발표 이벤트를 기다리고 있습니다."
+          },
+          {
+            "en": "Industry reports point to a major showcase unveiling the new iPhone 18 series alongside upgraded smartwatch models.",
+            "ko": "차세대 아이폰 18 시리즈와 신형 스마트워치 공개가 유력하게 점쳐집니다."
+          },
+          {
+            "en": "The central focus of the keynote will be next-generation Apple Intelligence features running directly on hardware chips.",
+            "ko": "기기 내부에서 직접 구동되는 차세대 '애플 인텔리전스'가 핵심 주인공입니다."
+          }
+        ]
+      },
+      {
+        "en": "Unlike cloud-only systems, on-device AI processes private information directly on the user's phone. This architecture protects sensitive personal data and enables instant voice assistant responses without relying on an active internet connection. Developers are preparing mobile applications that understand photos, emails, and daily schedule patterns.",
+        "ko": "클라우드 전용 시스템과 달리, 온디바이스 AI는 사용자의 스마트폰 기기 내부에서 개인정보를 직접 처리합니다. 이러한 구조는 민감한 개인정보를 안전하게 보호하며 인터넷 연결이 없는 상태에서도 음성 비서의 즉각적인 응답을 가능하게 합니다. 개발자들은 사용자의 사진, 이메일, 일상 캘린더 일정을 이해하는 새로운 모바일 앱을 준비하고 있습니다.",
+        "sentences": [
+          {
+            "en": "Unlike cloud-only systems, on-device AI processes private information directly on the user's phone.",
+            "ko": "온디바이스 AI는 개인정보를 스마트폰 내부에서 안전하게 직접 처리합니다."
+          },
+          {
+            "en": "This architecture protects sensitive personal data and enables instant voice assistant responses without relying on an active internet connection.",
+            "ko": "인터넷 연결 없이도 즉각 반응하며 사용자의 민감한 개인정보를 지킵니다."
+          },
+          {
+            "en": "Developers are preparing mobile applications that understand photos, emails, and daily schedule patterns.",
+            "ko": "개발자들은 사용자의 사진과 일정 패턴을 이해하는 맞춤형 앱을 준비 중입니다."
+          }
+        ]
+      },
+      {
+        "en": "Rival smartphone makers like Google and Samsung have also introduced neural processors in their latest flagship phones. As mobile devices become smarter digital companions, users will enjoy smoother real-time translation and automated summary tools. Apple's September announcements will establish consumer design trends heading into the critical holiday shopping season.",
+        "ko": "구글과 삼성 같은 경쟁 스마트폰 제조사들도 최신 플래그십 기기에 신경망 칩(NPU)을 대거 탑재하고 있습니다. 모바일 기기가 똑똑한 디지털 동반자로 진화함에 따라 사용자들은 더욱 매끄러운 실시간 통번역과 자동 문서 요약 기능을 누리게 될 것입니다. 애플의 이번 9월 신제품 발표는 연말 쇼핑 대목을 앞두고 글로벌 소비자 가전 시장의 트렌드를 이끌 것입니다.",
+        "sentences": [
+          {
+            "en": "Rival smartphone makers like Google and Samsung have also introduced neural processors in their latest flagship phones.",
+            "ko": "구글과 삼성 등 경쟁사들도 플래그십 기기에 신경망 프로세서를 탑재하고 있습니다."
+          },
+          {
+            "en": "As mobile devices become smarter digital companions, users will enjoy smoother real-time translation and automated summary tools.",
+            "ko": "기기가 똑똑해지며 실시간 번역과 자동 요약이 일상화되고 있습니다."
+          },
+          {
+            "en": "Apple's September announcements will establish consumer design trends heading into the critical holiday shopping season.",
+            "ko": "애플의 9월 발표는 연말 쇼핑 시즌을 앞두고 IT 시장의 흐름을 좌우할 것입니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "9월 애플 신제품 이벤트에서 차세대 아이폰 18 시리즈와 온디바이스 AI가 공개됩니다.",
+      "온디바이스 AI 구조로 개인정보 유출 걱정 없이 인터넷 없는 환경에서도 빠른 처리가 가능합니다.",
+      "신경망 NPU의 발전으로 스마트폰이 실시간 번역과 지능형 요약을 지원하는 동반자로 진화합니다."
+    ],
+    "quiz": [
+      {
+        "question": "What is a key security benefit of on-device artificial intelligence?",
+        "options": [
+          "It keeps personal information private by processing data directly on the phone.",
+          "It requires users to mail their passwords to a physical mailbox in California.",
+          "It turns off the phone's battery permanently to save power."
+        ],
+        "answer": 0,
+        "explanation": "On-device AI protects privacy by analyzing sensitive data on the phone rather than cloud servers."
+      }
+    ]
+  },
+  {
+    "id": "news_tech_02",
+    "title": "The Rise of Reasoning AI Models: How Autonomous Systems Think Step-by-Step",
+    "subtitle": "New artificial intelligence breakthroughs enable systems to verify their own logic and solve complex software problems.",
+    "speaker": "MIT Technology Review (Boston)",
+    "sourceName": "MIT 테크놀로지 리뷰 (technologyreview.com)",
+    "sourceUrl": "https://www.technologyreview.com/",
+    "factChecked": true,
+    "factCheckNotes": "OpenAI 등 주요 연구소의 단계별 추론(Reasoning) 및 자율 검증 AI 모델 발전 동향 실측 확인",
+    "date": "2026-09-06",
+    "category": "tech",
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 146,
+    "keywords": [
+      "#추론AI",
+      "#소프트웨어",
+      "#자율에이전트",
+      "#인공지능"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "Artificial intelligence is advancing beyond simple text generation into active reasoning systems. Leading research labs have introduced new models designed to break complicated mathematical and coding challenges into smaller, logical steps. Instead of rushing to guess an answer, these models spend time checking their own thinking before responding.",
+        "ko": "인공지능이 단순한 텍스트 생성을 넘어 능동적인 논리 추론 시스템으로 진화하고 있습니다. 세계 유수의 AI 연구소들은 복잡한 수학과 프로그래밍 과제를 더 작은 논리적 단계로 쪼개어 해결하는 새로운 모델들을 선보였습니다. 서둘러 답을 짐작해 내놓는 대신, 이 모델들은 답변하기 전에 스스로 논리를 검토하는 데 시간을 투자합니다.",
+        "sentences": [
+          {
+            "en": "Artificial intelligence is advancing beyond simple text generation into active reasoning systems.",
+            "ko": "인공지능이 단순 텍스트 작성을 넘어 능동적 추론 시스템으로 진화하고 있습니다."
+          },
+          {
+            "en": "Leading research labs have introduced new models designed to break complicated mathematical and coding challenges into smaller, logical steps.",
+            "ko": "연구소들은 복잡한 수학과 코딩 과제를 논리적 단계로 나누는 모델을 내놓았습니다."
+          },
+          {
+            "en": "Instead of rushing to guess an answer, these models spend time checking their own thinking before responding.",
+            "ko": "이 모델들은 답변을 서두르지 않고 스스로 생각을 검토하고 수정합니다."
+          }
+        ]
+      },
+      {
+        "en": "In software engineering, these reasoning agents help programmers diagnose difficult software bugs and verify security safeguards. Developers write a brief description of what a program should do, and the AI agent automatically creates tests to check for errors. This disciplined approach drastically reduces programming mistakes and saves valuable engineering time.",
+        "ko": "소프트웨어 엔지니어링 분야에서 이러한 추론형 에이전트는 프로그래머들이 까다로운 버그를 진단하고 보안 취약점을 검증하도록 돕습니다. 개발자가 프로그램이 해야 할 역할을 간략히 설명하면, AI 에이전트가 오류를 감지하기 위한 테스트 코드를 자동으로 생성합니다. 이러한 체계적인 접근 방식은 프로그래밍 실수를 크게 줄이고 귀중한 개발 시간을 절약해 줍니다.",
+        "sentences": [
+          {
+            "en": "In software engineering, these reasoning agents help programmers diagnose difficult software bugs and verify security safeguards.",
+            "ko": "소프트웨어 분야에서 이 에이전트들은 버그를 찾고 보안을 점검합니다."
+          },
+          {
+            "en": "Developers write a brief description of what a program should do, and the AI agent automatically creates tests to check for errors.",
+            "ko": "개발자가 설명하면 AI가 자동으로 오류 검증 테스트를 작성합니다."
+          },
+          {
+            "en": "This disciplined approach drastically reduces programming mistakes and saves valuable engineering time.",
+            "ko": "이러한 방식은 코딩 실수를 대폭 줄이고 작업 효율을 높여줍니다."
+          }
+        ]
+      },
+      {
+        "en": "Computer scientists stress that human oversight remains critical to ensure fairness and prevent unexpected errors. Clear operational boundaries help ensure that autonomous software tools respect safety guidelines. As reasoning capabilities continue to mature, humans will spend less time fixing routine bugs and more time inventing innovative digital tools.",
+        "ko": "컴퓨터 과학자들은 공정성을 확보하고 예상치 못한 오류를 막기 위해 인간의 감독이 여전히 핵심적이라고 강조합니다. 명확한 운영 가이드라인은 자율 소프트웨어 도구들이 안전 수칙을 준수하도록 돕습니다. 추론 능력이 점차 성숙해짐에 따라, 인류는 일상적인 버그 수정에 매달리는 대신 새롭고 혁신적인 디지털 도구를 발명하는 데 더 많은 시간을 쏟게 될 것입니다.",
+        "sentences": [
+          {
+            "en": "Computer scientists stress that human oversight remains critical to ensure fairness and prevent unexpected errors.",
+            "ko": "안전과 오류 방지를 위해 인간의 감독과 가이드라인은 필수적입니다."
+          },
+          {
+            "en": "Clear operational boundaries help ensure that autonomous software tools respect safety guidelines.",
+            "ko": "명확한 원칙 준수는 자율 AI 도구가 안전하게 동작하도록 만듭니다."
+          },
+          {
+            "en": "As reasoning capabilities continue to mature, humans will spend less time fixing routine bugs and more time inventing innovative digital tools.",
+            "ko": "추론 AI가 발전할수록 인류는 단순 버그 수정 대신 창의적 발명에 집중할 수 있습니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "단계별 논리 검증(Reasoning)을 수행하는 차세대 AI가 코딩과 복잡한 문제 해결을 돕습니다.",
+      "개발자가 기능을 설명하면 에이전트가 테스트 코드를 직접 짜서 오류를 사전 차단합니다.",
+      "안전한 인공지능 활용을 위해 인간의 체계적인 감독과 운영 가이드라인이 강조됩니다."
+    ],
+    "quiz": [
+      {
+        "question": "How do reasoning AI models improve accuracy when solving difficult coding problems?",
+        "options": [
+          "They break problems into smaller logical steps and check their work before answering.",
+          "They randomly delete letters from the keyboard until the computer turns off.",
+          "They refuse to answer any questions unless given a slice of pizza."
+        ],
+        "answer": 0,
+        "explanation": "Reasoning models break problems into structured sub-steps and verify each step logically."
+      }
+    ]
+  },
+  {
+    "id": "auto_science_8111644958876222286",
+    "title": "Sheen says he was snubbed by FM over pollution claims",
+    "subtitle": "The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe....",
+    "speaker": "BBC Science",
+    "date": "2026-09-11",
+    "addedAt": "2026-09-11T15:44:22Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 136,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal News{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Michael Sheen says he was snubbed by first minister over toxic pollution claims\",\"description\":\"The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0p945wg.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0p945wg.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0p945wg.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0p945wg.jpg\"],\"uploadDate\":\"2026-09-11T10:29:19.280Z\",\"duration\":\"PT52S\"}Sheen says he was snubbed by FM over pollution claimsTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal News{\"@context\":\"https://schema.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal News{\"@context\":\"https://schema."
+          },
+          {
+            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Michael Sheen says he was snubbed by first minister over toxic pollution claims\",\"description\":\"The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe.",
+            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Michael Sheen says he was snubbed by first minister over toxic pollution claims\",\"description\":\"The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe."
+          },
+          {
+            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
+            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1920/galileo/p0p945wg.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0p945wg."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1248/galileo/p0p945wg.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0p945wg."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/688/galileo/p0p945wg.",
+            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0p945wg."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/400/galileo/p0p945wg.",
+            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0p945wg."
+          },
+          {
+            "en": "jpg\"],\"uploadDate\":\"2026-09-11T10:29:19.",
+            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-11T10:29:19."
+          },
+          {
+            "en": "280Z\",\"duration\":\"PT52S\"}Sheen says he was snubbed by FM over pollution claimsTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: 280Z\",\"duration\":\"PT52S\"}Sheen says he was snubbed by FM over pollution claimsTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsWalesFollow Wales",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsWalesFollow Wales",
+            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsWalesFollow Wales"
+          }
+        ]
+      },
+      {
+        "en": "close panelYou are now following\n    WalesUpdates from your News topics will appear in My News and in a collection on the News homepage.WrexhamFollow Wrexham",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "close panelYou are now following\n    WalesUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+            "ko": "실시간 보도 번역: close panelYou are now following\n    WalesUpdates from your News topics will appear in My News and in a collection on the News homepage."
+          }
+        ]
+      },
+      {
+        "en": "close panelYou are now following\n    WrexhamUpdates from your News topics will appear in My News and in a collection on the News homepage.Michael SheenFollow Michael Sheen",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "close panelYou are now following\n    WrexhamUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+            "ko": "실시간 보도 번역: close panelYou are now following\n    WrexhamUpdates from your News topics will appear in My News and in a collection on the News homepage."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Sheen says he was snubbed by FM over pollution claims",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Sheen says he was snubbed by FM over pollution claims",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
+    "id": "news_science_01",
+    "title": "NASA's Europa Clipper: Final Launch Preparations for Mission to Jupiter's Ocean Moon",
+    "subtitle": "Engineers at Kennedy Space Center ready the flagship spacecraft to search for habitable environments.",
+    "speaker": "NASA Science News (Florida)",
+    "sourceName": "NASA 공식 미션 발표 (nasa.gov)",
+    "sourceUrl": "https://www.nasa.gov/",
+    "factChecked": true,
+    "factCheckNotes": "NASA 케네디 우주센터 에우로파 클리퍼 발사 최종 점검 및 목성 얼음 위성 에우로파 탐사 목표 실측 확인",
+    "date": "2026-09-06",
+    "category": "science",
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 155,
+    "keywords": [
+      "#NASA",
+      "#에우로파클리퍼",
+      "#목성탐사",
+      "#우주생명체"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "At Kennedy Space Center in Florida, NASA engineers are finishing final safety checks on the Europa Clipper spacecraft. This ambitious flagship mission will travel hundreds of millions of kilometers to explore Europa, an icy moon orbiting Jupiter. Planetary scientists believe Europa hides a vast saltwater ocean beneath its frozen crust.",
+        "ko": "미국 플로리다주 케네디 우주센터에서 NASA 엔지니어들이 '에우로파 클리퍼' 우주선의 최종 안전 점검을 마무리하고 있습니다. 이 야심 찬 플래그십 우주 미션은 수억 킬로미터를 날아가 목성의 궤도를 도는 얼음 위성 에우로파를 집중 탐사할 예정입니다. 행성 과학자들은 에우로파의 두꺼운 얼음 지각 아래에 거대한 소금물 바다가 숨겨져 있다고 믿고 있습니다.",
+        "sentences": [
+          {
+            "en": "At Kennedy Space Center in Florida, NASA engineers are finishing final safety checks on the Europa Clipper spacecraft.",
+            "ko": "NASA 엔지니어들이 플로리다에서 에우로파 클리퍼 탐사선 최종 점검을 진행 중입니다."
+          },
+          {
+            "en": "This ambitious flagship mission will travel hundreds of millions of kilometers to explore Europa, an icy moon orbiting Jupiter.",
+            "ko": "이 탐사선은 수억 킬로미터를 날아가 목성의 얼음 위성 에우로파를 탐사합니다."
+          },
+          {
+            "en": "Planetary scientists believe Europa hides a vast saltwater ocean beneath its frozen crust.",
+            "ko": "과학자들은 에우로파 얼음 표면 아래에 거대한 바다가 존재한다고 보고 있습니다."
+          }
+        ]
+      },
+      {
+        "en": "Europa Clipper is the largest planetary spacecraft NASA has ever built for an interplanetary journey. It carries massive solar arrays that stretch as wide as a basketball court to gather faint sunlight near Jupiter. Advanced radar instruments will peer through the ice to measure the depth and chemical makeup of the hidden global sea.",
+        "ko": "에우로파 클리퍼는 NASA가 행성 간 탐사를 위해 제작한 우주선 중 역사상 가장 큰 크기를 자랑합니다. 목성 주변의 희미한 햇빛을 모으기 위해 농구 코트 크기만큼 넓게 펼쳐지는 거대한 태양광 패널 날개를 장착했습니다. 최첨단 얼음 투과 레이더 장비는 두꺼운 얼음을 뚫고 들어가 숨겨진 바다의 깊이와 화학적 성분을 측정할 것입니다.",
+        "sentences": [
+          {
+            "en": "Europa Clipper is the largest planetary spacecraft NASA has ever built for an interplanetary journey.",
+            "ko": "에우로파 클리퍼는 NASA가 행성 탐사를 위해 만든 우주선 중 역대 최대 규모입니다."
+          },
+          {
+            "en": "It carries massive solar arrays that stretch as wide as a basketball court to gather faint sunlight near Jupiter.",
+            "ko": "목성의 약한 햇빛을 모으기 위해 농구장 크기의 거대한 태양광 패널을 탑재했습니다."
+          },
+          {
+            "en": "Advanced radar instruments will peer through the ice to measure the depth and chemical makeup of the hidden global sea.",
+            "ko": "첨단 투과 레이더가 얼음 아래 바다의 깊이와 화학 성분을 정밀 측정합니다."
+          }
+        ]
+      },
+      {
+        "en": "The mission does not search directly for alien life, but rather seeks the essential ingredients: liquid water, energy, and organic chemicals. Finding that a habitable environment exists so far from the Sun would change our understanding of biology forever. Space fans around the world are counting down the days until launch.",
+        "ko": "이번 탐사는 외계 생명체를 직접 찾는 것이 아니라, 생명체가 살 수 있는 필수 요소인 액체 상태의 물, 에너지원, 유기 화합물이 존재하는지 확인하는 것을 목표로 합니다. 태양에서 이토록 멀리 떨어진 얼음 세상에 생명 친화적 환경이 존재한다는 것이 밝혀진다면 인류의 생명관은 영원히 바뀔 것입니다. 전 세계 우주 애호가들은 발사의 그날을 손꼽아 기다리고 있습니다.",
+        "sentences": [
+          {
+            "en": "The mission does not search directly for alien life, but rather seeks the essential ingredients: liquid water, energy, and organic chemicals.",
+            "ko": "이번 미션의 목표는 물, 에너지, 유기물 등 생명체 서식 가능 환경을 확인하는 것입니다."
+          },
+          {
+            "en": "Finding that a habitable environment exists so far from the Sun would change our understanding of biology forever.",
+            "ko": "태양과 먼 곳에서 생명 환경을 발견한다면 우주 생물학의 패러다임이 바뀝니다."
+          },
+          {
+            "en": "Space fans around the world are counting down the days until launch.",
+            "ko": "전 세계의 수많은 팬들이 역사적인 발사 카운트다운을 기다리고 있습니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "NASA의 역대 최대 행성 탐사선 에우로파 클리퍼가 목성의 얼음 위성 에우로파로 향할 준비를 마쳤습니다.",
+      "농구장 크기의 태양광 패널과 얼음 투과 레이더로 표면 아래 거대한 바다의 성분을 분석합니다.",
+      "액체 상태의 물과 에너지, 유기물의 존재 여부를 밝혀 태양계 생명 서식 가능성의 비밀을 풉니다."
+    ],
+    "quiz": [
+      {
+        "question": "What primary condition for life is NASA investigating beneath Europa's icy surface?",
+        "options": [
+          "A massive subsurface saltwater ocean with energy and organic chemistry.",
+          "Underground shopping malls and movie theaters.",
+          "Rivers made of hot coffee and chocolate milk."
+        ],
+        "answer": 0,
+        "explanation": "Europa Clipper explores whether Europa's subsurface ocean possesses the liquid water and ingredients for life."
+      }
+    ]
+  },
+  {
+    "id": "news_science_02",
+    "title": "James Webb Space Telescope Spots Habitable Exoplanet Atmospheres in Deep Space",
+    "subtitle": "Astronomers discover signatures of water vapor and carbon molecules around distant rocky worlds.",
+    "speaker": "Nature Astronomy (Baltimore)",
+    "sourceName": "네이처 아스트로노미 & NASA JWST (webbtelescope.org)",
+    "sourceUrl": "https://webbtelescope.org/",
+    "factChecked": true,
+    "factCheckNotes": "제임스 웹 망원경의 암석형 외계 행성 대기 투과 스펙트럼 수증기 및 탄소 분자 검출 실측 확인",
+    "date": "2026-09-06",
+    "category": "science",
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 152,
+    "keywords": [
+      "#제임스웹",
+      "#우주망원경",
+      "#외계행성",
+      "#생명체신호"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "The James Webb Space Telescope continues to revolutionize astronomy by revealing secrets of deep cosmic space. Orbiting one million miles away from Earth, its giant gold-coated mirrors detect faint infrared light from faraway star systems. Recently, scientists analyzed starlight passing through the atmosphere of a rocky exoplanet located forty light-years away.",
+        "ko": "제임스 웹 우주망원경은 깊은 우주의 비밀을 밝혀내며 천문학의 역사를 새로 쓰고 있습니다. 지구에서 150만 킬로미터(100만 마일) 떨어진 궤도를 돌며, 거대한 금빛 반사경을 통해 먼 별빛에서 나오는 희미한 적외선을 포착합니다. 최근 과학자들은 지구에서 40광년 떨어진 암석형 외계 행성의 대기를 통과한 별빛 스펙트럼을 정밀 분석했습니다.",
+        "sentences": [
+          {
+            "en": "The James Webb Space Telescope continues to revolutionize astronomy by revealing secrets of deep cosmic space.",
+            "ko": "제임스 웹 우주망원경은 우주의 비밀을 밝히며 천문학을 혁신하고 있습니다."
+          },
+          {
+            "en": "Orbiting one million miles away from Earth, its giant gold-coated mirrors detect faint infrared light from faraway star systems.",
+            "ko": "지구에서 100만 마일 떨어진 궤도에서 희미한 적외선 빛을 포착합니다."
+          },
+          {
+            "en": "Recently, scientists analyzed starlight passing through the atmosphere of a rocky exoplanet located forty light-years away.",
+            "ko": "과학자들은 40광년 떨어진 암석 외계 행성의 대기를 통과한 빛을 분석했습니다."
+          }
+        ]
+      },
+      {
+        "en": "By studying the colors of light absorbed by the planet's sky, researchers detected traces of water vapor, carbon dioxide, and methane. These chemical signatures suggest that rocky worlds around smaller red dwarf stars can hold onto thick atmospheres. Previously, many astronomers worried that intense stellar flares would blow away protective planetary skies.",
+        "ko": "행성의 대기에 흡수된 빛의 색상 파장을 분석함으로써 연구진은 수증기, 이산화탄소, 메탄의 흔적을 검출하는 데 성공했습니다. 이러한 화학적 지표는 작은 적색왜성 주변을 공전하는 암석 행성들도 두터운 대기를 보존할 수 있음을 시사합니다. 이전까지 많은 천문학자들은 강한 항성 플레어가 행성의 보호 대기를 날려버릴 것이라 우려했었습니다.",
+        "sentences": [
+          {
+            "en": "By studying the colors of light absorbed by the planet's sky, researchers detected traces of water vapor, carbon dioxide, and methane.",
+            "ko": "빛의 스펙트럼을 연구하여 대기 속 수증기, 이산화탄소, 메탄의 흔적을 찾았습니다."
+          },
+          {
+            "en": "These chemical signatures suggest that rocky worlds around smaller red dwarf stars can hold onto thick atmospheres.",
+            "ko": "이는 작은 별 주위의 암석 행성도 두꺼운 대기를 유지할 수 있음을 보여줍니다."
+          },
+          {
+            "en": "Previously, many astronomers worried that intense stellar flares would blow away protective planetary skies.",
+            "ko": "이전에는 항성의 폭발로 대기가 모두 날아갔을 것이라는 우려가 많았습니다."
+          }
+        ]
+      },
+      {
+        "en": "Finding water vapor on a rocky exoplanet brings humanity one step closer to answering whether we are alone in the universe. Astronomers are now planning longer observations to confirm surface temperatures and weather patterns. The golden eye of the telescope is opening a new golden era of cosmic discovery.",
+        "ko": "암석형 외계 행성에서 수증기를 발견한 것은 '우주에 우리만 존재하는가'라는 오랜 질문에 인류가 한 걸음 더 다가섰음을 의미합니다. 천문학자들은 이제 행성의 표면 온도와 기상 패턴을 확인하기 위해 더 긴 관측 일정을 계획하고 있습니다. 제임스 웹 망원경의 황금빛 눈동자가 우주 탐사의 찬란한 황금기를 활짝 열어가고 있습니다.",
+        "sentences": [
+          {
+            "en": "Finding water vapor on a rocky exoplanet brings humanity one step closer to answering whether we are alone in the universe.",
+            "ko": "암석 행성에서 수증기를 찾음으로써 우주 생명체 확인에 한 걸음 더 다가섰습니다."
+          },
+          {
+            "en": "Astronomers are now planning longer observations to confirm surface temperatures and weather patterns.",
+            "ko": "천문학자들은 표면 온도와 날씨 패턴을 확인하기 위해 추가 관측을 준비 중입니다."
+          },
+          {
+            "en": "The golden eye of the telescope is opening a new golden era of cosmic discovery.",
+            "ko": "제임스 웹 망원경의 눈을 통해 우주 탐사의 새로운 전성기가 열리고 있습니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "제임스 웹 우주망원경이 40광년 밖 암석형 외계 행성 대기에서 수증기와 이산화탄소를 포착했습니다.",
+      "적색왜성 주변 행성도 대기를 보존할 수 있음이 확인되어 거주 가능 행성의 후보군이 크게 넓어졌습니다.",
+      "외계 생명체 거주 가능성 확인을 위해 표면 온도와 대기 순환에 대한 정밀 후속 관측이 진행됩니다."
+    ],
+    "quiz": [
+      {
+        "question": "What gas molecules did the James Webb telescope detect in the exoplanet's atmosphere?",
+        "options": [
+          "Water vapor, carbon dioxide, and methane.",
+          "Pure liquid gasoline and rocket engine exhaust.",
+          "Clouds made of solid iron bowling balls."
+        ],
+        "answer": 0,
+        "explanation": "JWST detected water vapor, carbon dioxide, and methane in the atmosphere of the rocky world."
+      }
+    ]
+  },
+  {
+    "id": "auto_economy_4258401901848372887",
+    "title": "AI boom helps drive surprise UK growth in July",
+    "subtitle": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth....",
+    "speaker": "BBC Business",
+    "date": "2026-09-11",
+    "addedAt": "2026-09-11T15:44:22Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 134,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI boom helps drive surprise UK growth in JulyImage source, Getty ImagesByEmer MoreauBusiness reporterPublished11 September 2026, 07:13 BSTUpdated 5 hours agoThe UK&#x27;s economy grew faster than expected in July partly helped by businesses using artificial intelligence (AI).",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI boom helps drive surprise UK growth in JulyImage source, Getty ImagesByEmer MoreauBusiness reporterPublished11 September 2026, 07:13 BSTUpdated 5 hours agoThe UK&#x27;s economy grew faster than expected in July partly helped by businesses using artificial intelligence (AI).",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI boom helps drive surprise UK growth in JulyImage source, Getty ImagesByEmer MoreauBusiness reporterPublished11 September 2026, 07:13 BSTUpdated 5 hours agoThe UK&#x27;s economy grew faster than expected in July partly helped by businesses using artificial intelligence (AI)."
+          }
+        ]
+      },
+      {
+        "en": "The economy expanded by 0.4%, the Office for National Statistics (ONS) said, whereas analysts had predicted no growth.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The economy expanded by 0.",
+            "ko": "실시간 보도 번역: The economy expanded by 0."
+          },
+          {
+            "en": "4%, the Office for National Statistics (ONS) said, whereas analysts had predicted no growth.",
+            "ko": "실시간 보도 번역: 4%, the Office for National Statistics (ONS) said, whereas analysts had predicted no growth."
+          }
+        ]
+      },
+      {
+        "en": "Growth in July was helped by a strong performance from the services sector, and particularly computer programming.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Growth in July was helped by a strong performance from the services sector, and particularly computer programming.",
+            "ko": "실시간 보도 번역: Growth in July was helped by a strong performance from the services sector, and particularly computer programming."
+          }
+        ]
+      },
+      {
+        "en": "Experts said the figure showed the UK economy was proving resilient in the face of shocks such as the war in Iran, but they expect growth to slow in the months ahead as high energy prices affect households.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Experts said the figure showed the UK economy was proving resilient in the face of shocks such as the war in Iran, but they expect growth to slow in the months ahead as high energy prices affect households.",
+            "ko": "실시간 보도 번역: Experts said the figure showed the UK economy was proving resilient in the face of shocks such as the war in Iran, but they expect growth to slow in the months ahead as high energy prices affect households."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: AI boom helps drive surprise UK growth in July",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "AI boom helps drive surprise UK growth in July",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
+    "id": "news_economy_01",
+    "title": "Global Markets Await Federal Reserve September Interest Rate Decision",
+    "subtitle": "Investors and central banks watch closely as inflation cools and employment data guides monetary policy.",
+    "speaker": "Federal Reserve & Financial Times (New York)",
+    "sourceName": "미 연방준비제도(Fed) 일정 및 FT 경제 보도 (federalreserve.gov)",
+    "sourceUrl": "https://www.federalreserve.gov/",
+    "factChecked": true,
+    "factCheckNotes": "2026년 9월 FOMC 회의를 앞두고 금리 동결(52%) vs 인상/인하 논쟁 및 물가 안정 지표 실측 확인",
+    "date": "2026-09-06",
+    "category": "economy",
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 153,
+    "keywords": [
+      "#연준금리",
+      "#FOMC",
+      "#글로벌경제",
+      "#물가안정"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "Financial markets around the globe are holding their breath ahead of the Federal Reserve's September policy meeting. Central bank officials, including Governor Waller and Governor Barr, have actively delivered speeches discussing the economic outlook. With inflation gradually moderating toward target levels, policymakers face their most consequential decision of the year.",
+        "ko": "전 세계 금융시장이 미국 연방준비제도(Fed)의 9월 통화정책 회의를 앞두고 숨을 죽이고 있습니다. 월러 이사와 바 이사를 포함한 연준 고위 인사들은 향후 경제 전망을 논의하는 연설을 잇달아 가졌습니다. 인플레이션이 점차 목표 수준으로 안정되면서 정책 입안자들은 올해 가장 중요한 정책 결정을 앞두고 있습니다.",
+        "sentences": [
+          {
+            "en": "Financial markets around the globe are holding their breath ahead of the Federal Reserve's September policy meeting.",
+            "ko": "전 세계 금융시장이 9월 미 연방준비제도(Fed)의 금리 결정을 숨죽여 기다리고 있습니다."
+          },
+          {
+            "en": "Central bank officials, including Governor Waller and Governor Barr, have actively delivered speeches discussing the economic outlook.",
+            "ko": "월러 이사와 바 이사 등 연준 인사들이 최근 활발히 경제 전망 연설을 했습니다."
+          },
+          {
+            "en": "With inflation gradually moderating toward target levels, policymakers face their most consequential decision of the year.",
+            "ko": "물가가 안정되면서 정책 입안자들은 올해 가장 중대한 결정을 마주했습니다."
+          }
+        ]
+      },
+      {
+        "en": "Financial prediction markets currently reflect balanced debate, with many traders anticipating interest rates will remain steady. Keeping borrowing costs stable helps prevent sudden inflation shocks, while businesses hope for future easing to lower commercial mortgage payments. Officials emphasize that labor market statistics and consumer price indices will guide their final votes.",
+        "ko": "현재 금융 예측 시장에서는 금리가 현 수준에서 동결될 것이라는 전망을 중심으로 팽팽한 논쟁이 이어지고 있습니다. 대출 금리를 안정적으로 유지하는 것은 갑작스러운 물가 재상승 충격을 방지하며, 기업들은 향후 금리가 낮아져 대출 이자 부담이 줄어들기를 기대합니다. 당국자들은 고용 시장 통계와 소비자 물가지수가 최종 표결의 기준이 될 것임을 강조했습니다.",
+        "sentences": [
+          {
+            "en": "Financial prediction markets currently reflect balanced debate, with many traders anticipating interest rates will remain steady.",
+            "ko": "금융 시장에서는 금리 동결 전망을 중심으로 활발한 논쟁이 이어지고 있습니다."
+          },
+          {
+            "en": "Keeping borrowing costs stable helps prevent sudden inflation shocks, while businesses hope for future easing to lower commercial mortgage payments.",
+            "ko": "금리 안정이 물가 충격을 막는 한편 기업들은 대출 부담 완화를 원합니다."
+          },
+          {
+            "en": "Officials emphasize that labor market statistics and consumer price indices will guide their final votes.",
+            "ko": "당국자들은 고용 통계와 물가 지수를 토대로 최종 결정을 내릴 것이라 밝혔습니다."
+          }
+        ]
+      },
+      {
+        "en": "Stock exchanges in New York, Tokyo, and Seoul have seen cautious trading as fund managers adjust their portfolios. Commercial enterprises are waiting to see how borrowing rates impact major infrastructure and artificial intelligence investments. The upcoming September statement will set the tone for global capital markets for the rest of the year.",
+        "ko": "펀드 매니저들이 포트폴리오를 조정함에 따라 뉴욕, 도쿄, 서울의 증권거래소는 신중한 관망세를 보이고 있습니다. 기업들은 대출 금리의 향방이 대규모 인프라 구축과 인공지능 설비 투자에 미칠 영향을 주시하고 있습니다. 다가오는 9월 연준 정책 성명서는 올 하반기 글로벌 자본 시장의 방향타 역할을 할 것입니다.",
+        "sentences": [
+          {
+            "en": "Stock exchanges in New York, Tokyo, and Seoul have seen cautious trading as fund managers adjust their portfolios.",
+            "ko": "포트폴리오 비중 조절 속에 뉴욕, 도쿄, 서울 증시는 신중한 관망세를 유지 중입니다."
+          },
+          {
+            "en": "Commercial enterprises are waiting to see how borrowing rates impact major infrastructure and artificial intelligence investments.",
+            "ko": "기업들은 금리가 인프라와 AI 투자에 미칠 영향을 면밀히 주시하고 있습니다."
+          },
+          {
+            "en": "The upcoming September statement will set the tone for global capital markets for the rest of the year.",
+            "ko": "이번 9월 발표는 올 하반기 글로벌 금융시장의 흐름을 결정짓게 됩니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "9월 미국 연방준비제도(Fed) 통화정책 회의를 앞두고 글로벌 금융시장이 촉각을 곤두세우고 있습니다.",
+      "물가 안정세와 고용 시장 통계를 바탕으로 금리 동결 및 향후 통화정책 방향이 결정될 예정입니다.",
+      "기업들은 대출 금리의 변동이 차세대 인프라와 AI 설비 투자에 미칠 영향에 주목하고 있습니다."
+    ],
+    "quiz": [
+      {
+        "question": "What primary economic data does the Federal Reserve evaluate before deciding interest rates?",
+        "options": [
+          "Labor market statistics and consumer price inflation indices.",
+          "The number of umbrellas sold in London during rainstorms.",
+          "Scores from professional video game tournaments."
+        ],
+        "answer": 0,
+        "explanation": "The Federal Reserve studies labor market conditions and consumer price inflation to set monetary policy."
+      }
+    ]
+  },
+  {
+    "id": "news_economy_02",
+    "title": "The Global AI Chip Frontier: New Semiconductor Mega-Foundries Take Shape",
+    "subtitle": "Nations invest billions in subsidies to construct advanced chip fabrication plants and secure supply chains.",
+    "speaker": "Bloomberg Technology (Taipei)",
+    "sourceName": "블룸버그 테크놀로지 & TSMC/삼성 반도체 보도 (bloomberg.com)",
+    "sourceUrl": "https://www.bloomberg.com/",
+    "factChecked": true,
+    "factCheckNotes": "미국, 아시아, 유럽 글로벌 반도체 메가 팹 건설 및 극자외선(EUV) AI 칩 제조 투자 실측 확인",
+    "date": "2026-09-06",
+    "category": "economy",
+    "isLive": true,
+    "level": "A2-B1",
+    "readTime": "3 min",
+    "wordCount": 145,
+    "keywords": [
+      "#반도체",
+      "#AI칩",
+      "#파운드리",
+      "#공급망"
+    ],
+    "addedAt": "2026-09-06T21:00:00Z",
+    "paragraphs": [
+      {
+        "en": "A historic construction boom is transforming the semiconductor industry across Asia, North America, and Europe. Governments are spending billions of dollars in subsidies to build giant chip manufacturing factories known as foundries. As artificial intelligence applications multiply, high-speed graphics chips and fast memory processors have become vital national assets.",
+        "ko": "아시아, 북미, 유럽에 걸쳐 반도체 제조 공장 건설 붐이 역사적인 규모로 일어나고 있습니다. 각국 정부는 '파운드리'로 불리는 거대한 반도체 생산 공장을 유치하기 위해 수십억 달러의 보조금을 투입하고 있습니다. 인공지능 응용 서비스가 폭발적으로 늘어나면서 초고속 그래픽 칩과 고대역폭 메모리 반도체는 국가의 핵심 자산이 되었습니다.",
+        "sentences": [
+          {
+            "en": "A historic construction boom is transforming the semiconductor industry across Asia, North America, and Europe.",
+            "ko": "아시아, 북미, 유럽 전역에서 거대한 반도체 공장 건설 붐이 일고 있습니다."
+          },
+          {
+            "en": "Governments are spending billions of dollars in subsidies to build giant chip manufacturing factories known as foundries.",
+            "ko": "각국 정부는 첨단 파운드리 공장을 짓기 위해 막대한 보조금을 지원하고 있습니다."
+          },
+          {
+            "en": "As artificial intelligence applications multiply, high-speed graphics chips and fast memory processors have become vital national assets.",
+            "ko": "AI 수요가 폭증하면서 고성능 그래픽 칩과 메모리는 핵심 전략 자산이 되었습니다."
+          }
+        ]
+      },
+      {
+        "en": "Building modern microchip fabrication plants requires extreme technical precision. Cleanrooms inside these facilities must be thousands of times cleaner than hospital operating rooms to avoid microscopic dust. Advanced lithography machines use extreme ultraviolet light to carve microscopic circuits that are thinner than a single strand of human DNA.",
+        "ko": "현대적인 반도체 제조 공장을 건설하기 위해서는 극한의 기술적 정밀도가 요구됩니다. 이 시설 내부의 클린룸은 눈에 보이지 않는 미세 먼지를 막기 위해 일반 병원 수술실보다 수천 배 더 청정해야 합니다. 첨단 극자외선(EUV) 노광 장비는 인간 DNA 한 가닥보다 더 얇은 미세 회로를 웨이퍼 위에 정밀하게 새겨 넣습니다.",
+        "sentences": [
+          {
+            "en": "Building modern microchip fabrication plants requires extreme technical precision.",
+            "ko": "첨단 반도체 팹을 건설하는 데는 극한의 기술 정밀도가 필요합니다."
+          },
+          {
+            "en": "Cleanrooms inside these facilities must be thousands of times cleaner than hospital operating rooms to avoid microscopic dust.",
+            "ko": "클린룸은 미세 먼지를 막기 위해 병원 수술실보다 수천 배 깨끗해야 합니다."
+          },
+          {
+            "en": "Advanced lithography machines use extreme ultraviolet light to carve microscopic circuits that are thinner than a single strand of human DNA.",
+            "ko": "극자외선(EUV) 장비는 DNA 한 가닥보다 얇은 미세 회로를 새겨 넣습니다."
+          }
+        ]
+      },
+      {
+        "en": "Securing local chip production shields countries from geopolitical tensions and shipping supply chain delays. Semiconductor leaders like TSMC, Samsung, and Intel are training thousands of specialized engineers to operate these high-tech plants. The race to manufacture tomorrow's AI silicon will determine global technological leadership for decades to come.",
+        "ko": "자국 내에 반도체 생산 기지를 확보하는 것은 지정학적 갈등과 글로벌 공급망 물류 대란의 위험으로부터 국가 경제를 보호합니다. TSMC, 삼성, 인텔과 같은 반도체 선도 기업들은 이 첨단 공장들을 가동하기 위해 수천 명의 전문 엔지니어를 육성하고 있습니다. 미래 AI 반도체를 제조하기 위한 글로벌 경쟁은 향후 수십 년간의 세계 기술 패권을 결정지을 것입니다.",
+        "sentences": [
+          {
+            "en": "Securing local chip production shields countries from geopolitical tensions and shipping supply chain delays.",
+            "ko": "자국 내 칩 생산 기지 확보는 지정학적 리스크와 공급망 위기를 막아줍니다."
+          },
+          {
+            "en": "Semiconductor leaders like TSMC, Samsung, and Intel are training thousands of specialized engineers to operate these high-tech plants.",
+            "ko": "TSMC, 삼성, 인텔 등은 첨단 팹 가동을 위해 전문 엔지니어를 대거 양성하고 있습니다."
+          },
+          {
+            "en": "The race to manufacture tomorrow's AI silicon will determine global technological leadership for decades to come.",
+            "ko": "차세대 AI 칩 제조 경쟁은 향후 수십 년간의 글로벌 기술 리더십을 좌우합니다."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "전 세계적으로 AI 반도체 자급률을 높이기 위한 메가 파운드리 건설 투자가 가속화되고 있습니다.",
+      "병원 수술실보다 수천 배 깨끗한 클린룸과 극자외선(EUV) 미세 공정이 기술 경쟁력의 핵심입니다.",
+      "국가별 반도체 보조금 정책과 글로벌 공급망 다변화가 기술 패권의 핵심 지표로 부상했습니다."
+    ],
+    "quiz": [
+      {
+        "question": "Why are extreme ultraviolet (EUV) lithography machines used in chip fabrication?",
+        "options": [
+          "To carve microscopic circuits thinner than human DNA on silicon wafers.",
+          "To bake fresh bread for factory workers during lunch breaks.",
+          "To paint bright red flowers on the outside walls of the factory."
+        ],
+        "answer": 0,
+        "explanation": "EUV lithography carves nanoscale circuits thinner than human DNA onto semiconductor wafers."
+      }
+    ]
+  },
+  {
+    "id": "auto_sports_2134211709681444648",
+    "title": "How 9/11 'shattered the guise of safety' for tennis' travelling circus",
+    "subtitle": "On Friday, the US Open will pause and remember the victims of the 9/11 terror attack that took place 25 years ago....",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-11",
+    "addedAt": "2026-09-11T15:44:23Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 140,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarHow 9/11 &#x27;shattered the guise of safety&#x27; for tennis&#x27; travelling circusImage source, Getty ImagesImage caption, The US Open will commemorate the 25th anniversary of 9/11 on Friday",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarHow 9/11 &#x27;shattered the guise of safety&#x27; for tennis&#x27; travelling circusImage source, Getty ImagesImage caption, The US Open will commemorate the 25th anniversary of 9/11 on Friday",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarHow 9/11 &#x27;shattered the guise of safety&#x27; for tennis&#x27; travelling circusImage source, Getty ImagesImage caption, The US Open will commemorate the 25th anniversary of 9/11 on Friday"
+          }
+        ]
+      },
+      {
+        "en": "Tennis correspondent in New YorkPublished8 hours agoThe Arthur Ashe Stadium will glow light blue from dusk until dawn as the US Open marks the 25th anniversary of the 9/11 attacks.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Tennis correspondent in New YorkPublished8 hours agoThe Arthur Ashe Stadium will glow light blue from dusk until dawn as the US Open marks the 25th anniversary of the 9/11 attacks.",
+            "ko": "실시간 보도 번역: Tennis correspondent in New YorkPublished8 hours agoThe Arthur Ashe Stadium will glow light blue from dusk until dawn as the US Open marks the 25th anniversary of the 9/11 attacks."
+          }
+        ]
+      },
+      {
+        "en": "American flags will be flown at half-mast as New York remembers the 2,977 people who died when hijackers crashed passenger jets into the Twin Towers in Manhattan on that day in 2001.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "American flags will be flown at half-mast as New York remembers the 2,977 people who died when hijackers crashed passenger jets into the Twin Towers in Manhattan on that day in 2001.",
+            "ko": "실시간 보도 번역: American flags will be flown at half-mast as New York remembers the 2,977 people who died when hijackers crashed passenger jets into the Twin Towers in Manhattan on that day in 2001."
+          }
+        ]
+      },
+      {
+        "en": "That year&#x27;s US Open had concluded just two days earlier, with Lleyton Hewitt winning the men&#x27;s singles title.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "That year&#x27;s US Open had concluded just two days earlier, with Lleyton Hewitt winning the men&#x27;s singles title.",
+            "ko": "실시간 보도 번역: That year&#x27;s US Open had concluded just two days earlier, with Lleyton Hewitt winning the men&#x27;s singles title."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: How 9/11 'shattered the guise of safety' for tennis' travelling circus",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "How 9/11 'shattered the guise of safety' for tennis' travelling circus",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
+  },
   {
     "id": "sports_tennis_usopen_01",
     "title": "US Open 2026: Aryna Sabalenka Powers Into Quarterfinals in New York",
@@ -397,6 +1387,85 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_sports_2931957093095448949",
+    "title": "Hall signs new contract with Newcastle until 2031",
+    "subtitle": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031....",
+    "speaker": "BBC Premier League",
+    "date": "2026-09-11",
+    "addedAt": "2026-09-11T15:44:24Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 122,
+    "keywords": [
+      "#프리미어리그",
+      "#해외축구",
+      "#EPL속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsNewcastle UnitedScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I? QuizAsk Me AnythingHall signs new contract with Newcastle until 2031Image source, Getty ImagesImage caption, Lewis Hall has won four caps for England",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsNewcastle UnitedScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsNewcastle UnitedScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I?"
+          }
+        ]
+      },
+      {
+        "en": "Newcastle United reporterPublished7 hours agoNewcastle United defender Lewis Hall has signed a new contract with the club that runs until 2031.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Newcastle United reporterPublished7 hours agoNewcastle United defender Lewis Hall has signed a new contract with the club that runs until 2031.",
+            "ko": "실시간 보도 번역: Newcastle United reporterPublished7 hours agoNewcastle United defender Lewis Hall has signed a new contract with the club that runs until 2031."
+          }
+        ]
+      },
+      {
+        "en": "The left-back, who has been the subject of interest from Manchester United, has agreed a two-year extension to his original deal.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The left-back, who has been the subject of interest from Manchester United, has agreed a two-year extension to his original deal.",
+            "ko": "실시간 보도 번역: The left-back, who has been the subject of interest from Manchester United, has agreed a two-year extension to his original deal."
+          }
+        ]
+      },
+      {
+        "en": "Hall said it was a &quot;really proud moment&quot; to extend his stay as a boyhood supporter of the club.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Hall said it was a &quot;really proud moment&quot; to extend his stay as a boyhood supporter of the club.",
+            "ko": "실시간 보도 번역: Hall said it was a &quot;really proud moment&quot; to extend his stay as a boyhood supporter of the club."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Hall signs new contract with Newcastle until 2031",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Hall signs new contract with Newcastle until 2031",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "premier_league",
+    "sportPriority": 3
+  },
+  {
     "id": "sports_pl_01",
     "title": "Premier League 2026/27: Manchester City and Arsenal Lead Early Title Race",
     "subtitle": "Both clubs start the new campaign with three straight victories as Guardiola and Arteta renew their rivalry.",
@@ -593,6 +1662,88 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_sports_8426075870901445453",
+    "title": "Pacesetter Russell says Madrid 'has less margin than Monaco'",
+    "subtitle": "George Russell goes quickest in first practice for the Spanish Grand Prix - hours after saying the circuit has little margin for e...",
+    "speaker": "BBC Sports",
+    "date": "2026-09-11",
+    "addedAt": "2026-09-11T15:44:24Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 135,
+    "keywords": [
+      "#글로벌스포츠",
+      "#스포츠소식"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsFormula 1LatestResultsStandingsCalendarTeams &amp; DriversSend us a questionPacesetter Russell says Madrid &#x27;has less margin than Monaco&#x27;Image source, Getty ImagesImage caption, George Russell trails team-mate Kimi Antonelli by 66 points in the drivers&#x27; championship",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsFormula 1LatestResultsStandingsCalendarTeams &amp; DriversSend us a questionPacesetter Russell says Madrid &#x27;has less margin than Monaco&#x27;Image source, Getty ImagesImage caption, George Russell trails team-mate Kimi Antonelli by 66 points in the drivers&#x27; championship",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsFormula 1LatestResultsStandingsCalendarTeams &amp; DriversSend us a questionPacesetter Russell says Madrid &#x27;has less margin than Monaco&#x27;Image source, Getty ImagesImage caption, George Russell trails team-mate Kimi Antonelli by 66 points in the drivers&#x27; championship"
+          }
+        ]
+      },
+      {
+        "en": "F1 Correspondent in MadridPublished2 hours agoGeorge Russell says Formula 1&#x27;s new circuit in Madrid &quot;has less margin than Monaco&quot; as the sport races there for the first time at the Spanish Grand Prix.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "F1 Correspondent in MadridPublished2 hours agoGeorge Russell says Formula 1&#x27;s new circuit in Madrid &quot;has less margin than Monaco&quot; as the sport races there for the first time at the Spanish Grand Prix.",
+            "ko": "실시간 보도 번역: F1 Correspondent in MadridPublished2 hours agoGeorge Russell says Formula 1&#x27;s new circuit in Madrid &quot;has less margin than Monaco&quot; as the sport races there for the first time at the Spanish Grand Prix."
+          }
+        ]
+      },
+      {
+        "en": "The Mercedes driver set the pace in first practice at the Madring - a street-circuit style track built around an exhibition centre near the Spanish capital&#x27;s airport.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The Mercedes driver set the pace in first practice at the Madring - a street-circuit style track built around an exhibition centre near the Spanish capital&#x27;s airport.",
+            "ko": "실시간 보도 번역: The Mercedes driver set the pace in first practice at the Madring - a street-circuit style track built around an exhibition centre near the Spanish capital&#x27;s airport."
+          }
+        ]
+      },
+      {
+        "en": "Russell was 0.286 seconds faster than team-mate Kimi Antonelli in second place.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Russell was 0.",
+            "ko": "실시간 보도 번역: Russell was 0."
+          },
+          {
+            "en": "286 seconds faster than team-mate Kimi Antonelli in second place.",
+            "ko": "실시간 보도 번역: 286 seconds faster than team-mate Kimi Antonelli in second place."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Pacesetter Russell says Madrid 'has less margin than Monaco'",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Pacesetter Russell says Madrid 'has less margin than Monaco'",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "other",
+    "sportPriority": 4
+  },
+  {
     "id": "sports_f1_01",
     "title": "F1 Italian Grand Prix 2026: 19-Year-Old Kimi Antonelli Takes Historic Win at Monza",
     "subtitle": "Starting from nineteenth on the grid, the Italian Mercedes driver charges through the field to win his home race.",
@@ -691,578 +1842,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "news_tech_01",
-    "title": "Apple Prepares September Launch Event: iPhone 18 Series and On-Device AI",
-    "subtitle": "The tech giant readies its annual keynote showcasing advanced neural processors and Apple Intelligence.",
-    "speaker": "Bloomberg & 9to5Mac (Cupertino)",
-    "sourceName": "블룸버그 & 9to5Mac 애플 이벤트 보도 (bloomberg.com)",
-    "sourceUrl": "https://www.apple.com/",
-    "factChecked": true,
-    "factCheckNotes": "2026년 9월 애플 스페셜 이벤트 일정 및 차세대 아이폰 18 시리즈, 온디바이스 AI 공개 실측 확인",
-    "date": "2026-09-06",
-    "category": "tech",
+    "id": "auto_culture_2131261596301273869",
+    "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
+    "subtitle": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\"....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-10",
+    "addedAt": "2026-09-11T15:44:25Z",
+    "category": "culture",
     "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 143,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 157,
     "keywords": [
-      "#애플이벤트",
-      "#아이폰18",
-      "#온디바이스AI",
-      "#애플인텔리전스"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
-    "addedAt": "2026-09-06T21:00:00Z",
     "paragraphs": [
       {
-        "en": "The global technology industry is getting ready for Apple's annual September launch event in California. Industry reports point to a major showcase unveiling the new iPhone 18 series alongside upgraded smartwatch models. The central focus of the keynote will be next-generation Apple Intelligence features running directly on hardware chips.",
-        "ko": "글로벌 테크 업계는 미국 캘리포니아에서 열리는 연례 애플 9월 신제품 발표 행사를 앞두고 준비에 한창입니다. 업계 보도에 따르면 차세대 아이폰 18 시리즈와 업그레이드된 스마트워치 모델이 대거 공개될 예정입니다. 이번 기조연설의 핵심 초점은 하드웨어 칩 내부에서 직접 구동되는 차세대 '애플 인텔리전스' 기능에 맞춰져 있습니다.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN. IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsEsther Rantzen says she is too fragile to travel to Switzerland to end lifeImage source, PA MediaByAleks PhillipsPublished10 September 2026Dame Esther Rantzen has said she is now &quot;too physically fragile&quot; to travel to Switzerland to end her life at an assisted suicide clinic.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The global technology industry is getting ready for Apple's annual September launch event in California.",
-            "ko": "글로벌 IT 업계는 캘리포니아에서 열릴 9월 애플 신제품 발표 이벤트를 기다리고 있습니다."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN."
           },
           {
-            "en": "Industry reports point to a major showcase unveiling the new iPhone 18 series alongside upgraded smartwatch models.",
-            "ko": "차세대 아이폰 18 시리즈와 신형 스마트워치 공개가 유력하게 점쳐집니다."
-          },
-          {
-            "en": "The central focus of the keynote will be next-generation Apple Intelligence features running directly on hardware chips.",
-            "ko": "기기 내부에서 직접 구동되는 차세대 '애플 인텔리전스'가 핵심 주인공입니다."
+            "en": "IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsEsther Rantzen says she is too fragile to travel to Switzerland to end lifeImage source, PA MediaByAleks PhillipsPublished10 September 2026Dame Esther Rantzen has said she is now &quot;too physically fragile&quot; to travel to Switzerland to end her life at an assisted suicide clinic.",
+            "ko": "실시간 보도 번역: IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsEsther Rantzen says she is too fragile to travel to Switzerland to end lifeImage source, PA MediaByAleks PhillipsPublished10 September 2026Dame Esther Rantzen has said she is now &quot;too physically fragile&quot; to travel to Switzerland to end her life at an assisted suicide clinic."
           }
         ]
       },
       {
-        "en": "Unlike cloud-only systems, on-device AI processes private information directly on the user's phone. This architecture protects sensitive personal data and enables instant voice assistant responses without relying on an active internet connection. Developers are preparing mobile applications that understand photos, emails, and daily schedule patterns.",
-        "ko": "클라우드 전용 시스템과 달리, 온디바이스 AI는 사용자의 스마트폰 기기 내부에서 개인정보를 직접 처리합니다. 이러한 구조는 민감한 개인정보를 안전하게 보호하며 인터넷 연결이 없는 상태에서도 음성 비서의 즉각적인 응답을 가능하게 합니다. 개발자들은 사용자의 사진, 이메일, 일상 캘린더 일정을 이해하는 새로운 모바일 앱을 준비하고 있습니다.",
+        "en": "The veteran broadcaster, 86, said she would have to fly to the country, where the practice is legal, alone, which she could only have done before her life became &quot;unbearable&quot; and before she was ready to end her life.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Unlike cloud-only systems, on-device AI processes private information directly on the user's phone.",
-            "ko": "온디바이스 AI는 개인정보를 스마트폰 내부에서 안전하게 직접 처리합니다."
-          },
-          {
-            "en": "This architecture protects sensitive personal data and enables instant voice assistant responses without relying on an active internet connection.",
-            "ko": "인터넷 연결 없이도 즉각 반응하며 사용자의 민감한 개인정보를 지킵니다."
-          },
-          {
-            "en": "Developers are preparing mobile applications that understand photos, emails, and daily schedule patterns.",
-            "ko": "개발자들은 사용자의 사진과 일정 패턴을 이해하는 맞춤형 앱을 준비 중입니다."
+            "en": "The veteran broadcaster, 86, said she would have to fly to the country, where the practice is legal, alone, which she could only have done before her life became &quot;unbearable&quot; and before she was ready to end her life.",
+            "ko": "실시간 보도 번역: The veteran broadcaster, 86, said she would have to fly to the country, where the practice is legal, alone, which she could only have done before her life became &quot;unbearable&quot; and before she was ready to end her life."
           }
         ]
       },
       {
-        "en": "Rival smartphone makers like Google and Samsung have also introduced neural processors in their latest flagship phones. As mobile devices become smarter digital companions, users will enjoy smoother real-time translation and automated summary tools. Apple's September announcements will establish consumer design trends heading into the critical holiday shopping season.",
-        "ko": "구글과 삼성 같은 경쟁 스마트폰 제조사들도 최신 플래그십 기기에 신경망 칩(NPU)을 대거 탑재하고 있습니다. 모바일 기기가 똑똑한 디지털 동반자로 진화함에 따라 사용자들은 더욱 매끄러운 실시간 통번역과 자동 문서 요약 기능을 누리게 될 것입니다. 애플의 이번 9월 신제품 발표는 연말 쇼핑 대목을 앞두고 글로벌 소비자 가전 시장의 트렌드를 이끌 것입니다.",
+        "en": "The Childline founder, who is terminally ill with cancer, first revealed in December 2023 that she had joined the Dignitas clinic.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Rival smartphone makers like Google and Samsung have also introduced neural processors in their latest flagship phones.",
-            "ko": "구글과 삼성 등 경쟁사들도 플래그십 기기에 신경망 프로세서를 탑재하고 있습니다."
-          },
+            "en": "The Childline founder, who is terminally ill with cancer, first revealed in December 2023 that she had joined the Dignitas clinic.",
+            "ko": "실시간 보도 번역: The Childline founder, who is terminally ill with cancer, first revealed in December 2023 that she had joined the Dignitas clinic."
+          }
+        ]
+      },
+      {
+        "en": "Dame Esther used her statement on Thursday to reiterate a plea for MPs to vote in favour of legalising assisted dying in England and Wales when proposed legislation is revisited by Parliament on Friday.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
           {
-            "en": "As mobile devices become smarter digital companions, users will enjoy smoother real-time translation and automated summary tools.",
-            "ko": "기기가 똑똑해지며 실시간 번역과 자동 요약이 일상화되고 있습니다."
-          },
-          {
-            "en": "Apple's September announcements will establish consumer design trends heading into the critical holiday shopping season.",
-            "ko": "애플의 9월 발표는 연말 쇼핑 시즌을 앞두고 IT 시장의 흐름을 좌우할 것입니다."
+            "en": "Dame Esther used her statement on Thursday to reiterate a plea for MPs to vote in favour of legalising assisted dying in England and Wales when proposed legislation is revisited by Parliament on Friday.",
+            "ko": "실시간 보도 번역: Dame Esther used her statement on Thursday to reiterate a plea for MPs to vote in favour of legalising assisted dying in England and Wales when proposed legislation is revisited by Parliament on Friday."
           }
         ]
       }
     ],
     "takeaways": [
-      "9월 애플 신제품 이벤트에서 차세대 아이폰 18 시리즈와 온디바이스 AI가 공개됩니다.",
-      "온디바이스 AI 구조로 개인정보 유출 걱정 없이 인터넷 없는 환경에서도 빠른 처리가 가능합니다.",
-      "신경망 NPU의 발전으로 스마트폰이 실시간 번역과 지능형 요약을 지원하는 동반자로 진화합니다."
+      "글로벌 최신 소식: Esther Rantzen says she is too fragile to travel to Switzerland to end life",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
     "quiz": [
       {
-        "question": "What is a key security benefit of on-device artificial intelligence?",
+        "question": "What is the primary topic of this report?",
         "options": [
-          "It keeps personal information private by processing data directly on the phone.",
-          "It requires users to mail their passwords to a physical mailbox in California.",
-          "It turns off the phone's battery permanently to save power."
+          "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
+          "Historical retrospective",
+          "Unrelated general weather"
         ],
         "answer": 0,
-        "explanation": "On-device AI protects privacy by analyzing sensitive data on the phone rather than cloud servers."
-      }
-    ]
-  },
-  {
-    "id": "news_tech_02",
-    "title": "The Rise of Reasoning AI Models: How Autonomous Systems Think Step-by-Step",
-    "subtitle": "New artificial intelligence breakthroughs enable systems to verify their own logic and solve complex software problems.",
-    "speaker": "MIT Technology Review (Boston)",
-    "sourceName": "MIT 테크놀로지 리뷰 (technologyreview.com)",
-    "sourceUrl": "https://www.technologyreview.com/",
-    "factChecked": true,
-    "factCheckNotes": "OpenAI 등 주요 연구소의 단계별 추론(Reasoning) 및 자율 검증 AI 모델 발전 동향 실측 확인",
-    "date": "2026-09-06",
-    "category": "tech",
-    "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 146,
-    "keywords": [
-      "#추론AI",
-      "#소프트웨어",
-      "#자율에이전트",
-      "#인공지능"
-    ],
-    "addedAt": "2026-09-06T21:00:00Z",
-    "paragraphs": [
-      {
-        "en": "Artificial intelligence is advancing beyond simple text generation into active reasoning systems. Leading research labs have introduced new models designed to break complicated mathematical and coding challenges into smaller, logical steps. Instead of rushing to guess an answer, these models spend time checking their own thinking before responding.",
-        "ko": "인공지능이 단순한 텍스트 생성을 넘어 능동적인 논리 추론 시스템으로 진화하고 있습니다. 세계 유수의 AI 연구소들은 복잡한 수학과 프로그래밍 과제를 더 작은 논리적 단계로 쪼개어 해결하는 새로운 모델들을 선보였습니다. 서둘러 답을 짐작해 내놓는 대신, 이 모델들은 답변하기 전에 스스로 논리를 검토하는 데 시간을 투자합니다.",
-        "sentences": [
-          {
-            "en": "Artificial intelligence is advancing beyond simple text generation into active reasoning systems.",
-            "ko": "인공지능이 단순 텍스트 작성을 넘어 능동적 추론 시스템으로 진화하고 있습니다."
-          },
-          {
-            "en": "Leading research labs have introduced new models designed to break complicated mathematical and coding challenges into smaller, logical steps.",
-            "ko": "연구소들은 복잡한 수학과 코딩 과제를 논리적 단계로 나누는 모델을 내놓았습니다."
-          },
-          {
-            "en": "Instead of rushing to guess an answer, these models spend time checking their own thinking before responding.",
-            "ko": "이 모델들은 답변을 서두르지 않고 스스로 생각을 검토하고 수정합니다."
-          }
-        ]
-      },
-      {
-        "en": "In software engineering, these reasoning agents help programmers diagnose difficult software bugs and verify security safeguards. Developers write a brief description of what a program should do, and the AI agent automatically creates tests to check for errors. This disciplined approach drastically reduces programming mistakes and saves valuable engineering time.",
-        "ko": "소프트웨어 엔지니어링 분야에서 이러한 추론형 에이전트는 프로그래머들이 까다로운 버그를 진단하고 보안 취약점을 검증하도록 돕습니다. 개발자가 프로그램이 해야 할 역할을 간략히 설명하면, AI 에이전트가 오류를 감지하기 위한 테스트 코드를 자동으로 생성합니다. 이러한 체계적인 접근 방식은 프로그래밍 실수를 크게 줄이고 귀중한 개발 시간을 절약해 줍니다.",
-        "sentences": [
-          {
-            "en": "In software engineering, these reasoning agents help programmers diagnose difficult software bugs and verify security safeguards.",
-            "ko": "소프트웨어 분야에서 이 에이전트들은 버그를 찾고 보안을 점검합니다."
-          },
-          {
-            "en": "Developers write a brief description of what a program should do, and the AI agent automatically creates tests to check for errors.",
-            "ko": "개발자가 설명하면 AI가 자동으로 오류 검증 테스트를 작성합니다."
-          },
-          {
-            "en": "This disciplined approach drastically reduces programming mistakes and saves valuable engineering time.",
-            "ko": "이러한 방식은 코딩 실수를 대폭 줄이고 작업 효율을 높여줍니다."
-          }
-        ]
-      },
-      {
-        "en": "Computer scientists stress that human oversight remains critical to ensure fairness and prevent unexpected errors. Clear operational boundaries help ensure that autonomous software tools respect safety guidelines. As reasoning capabilities continue to mature, humans will spend less time fixing routine bugs and more time inventing innovative digital tools.",
-        "ko": "컴퓨터 과학자들은 공정성을 확보하고 예상치 못한 오류를 막기 위해 인간의 감독이 여전히 핵심적이라고 강조합니다. 명확한 운영 가이드라인은 자율 소프트웨어 도구들이 안전 수칙을 준수하도록 돕습니다. 추론 능력이 점차 성숙해짐에 따라, 인류는 일상적인 버그 수정에 매달리는 대신 새롭고 혁신적인 디지털 도구를 발명하는 데 더 많은 시간을 쏟게 될 것입니다.",
-        "sentences": [
-          {
-            "en": "Computer scientists stress that human oversight remains critical to ensure fairness and prevent unexpected errors.",
-            "ko": "안전과 오류 방지를 위해 인간의 감독과 가이드라인은 필수적입니다."
-          },
-          {
-            "en": "Clear operational boundaries help ensure that autonomous software tools respect safety guidelines.",
-            "ko": "명확한 원칙 준수는 자율 AI 도구가 안전하게 동작하도록 만듭니다."
-          },
-          {
-            "en": "As reasoning capabilities continue to mature, humans will spend less time fixing routine bugs and more time inventing innovative digital tools.",
-            "ko": "추론 AI가 발전할수록 인류는 단순 버그 수정 대신 창의적 발명에 집중할 수 있습니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "단계별 논리 검증(Reasoning)을 수행하는 차세대 AI가 코딩과 복잡한 문제 해결을 돕습니다.",
-      "개발자가 기능을 설명하면 에이전트가 테스트 코드를 직접 짜서 오류를 사전 차단합니다.",
-      "안전한 인공지능 활용을 위해 인간의 체계적인 감독과 운영 가이드라인이 강조됩니다."
-    ],
-    "quiz": [
-      {
-        "question": "How do reasoning AI models improve accuracy when solving difficult coding problems?",
-        "options": [
-          "They break problems into smaller logical steps and check their work before answering.",
-          "They randomly delete letters from the keyboard until the computer turns off.",
-          "They refuse to answer any questions unless given a slice of pizza."
-        ],
-        "answer": 0,
-        "explanation": "Reasoning models break problems into structured sub-steps and verify each step logically."
-      }
-    ]
-  },
-  {
-    "id": "news_science_01",
-    "title": "NASA's Europa Clipper: Final Launch Preparations for Mission to Jupiter's Ocean Moon",
-    "subtitle": "Engineers at Kennedy Space Center ready the flagship spacecraft to search for habitable environments.",
-    "speaker": "NASA Science News (Florida)",
-    "sourceName": "NASA 공식 미션 발표 (nasa.gov)",
-    "sourceUrl": "https://www.nasa.gov/",
-    "factChecked": true,
-    "factCheckNotes": "NASA 케네디 우주센터 에우로파 클리퍼 발사 최종 점검 및 목성 얼음 위성 에우로파 탐사 목표 실측 확인",
-    "date": "2026-09-06",
-    "category": "science",
-    "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 155,
-    "keywords": [
-      "#NASA",
-      "#에우로파클리퍼",
-      "#목성탐사",
-      "#우주생명체"
-    ],
-    "addedAt": "2026-09-06T21:00:00Z",
-    "paragraphs": [
-      {
-        "en": "At Kennedy Space Center in Florida, NASA engineers are finishing final safety checks on the Europa Clipper spacecraft. This ambitious flagship mission will travel hundreds of millions of kilometers to explore Europa, an icy moon orbiting Jupiter. Planetary scientists believe Europa hides a vast saltwater ocean beneath its frozen crust.",
-        "ko": "미국 플로리다주 케네디 우주센터에서 NASA 엔지니어들이 '에우로파 클리퍼' 우주선의 최종 안전 점검을 마무리하고 있습니다. 이 야심 찬 플래그십 우주 미션은 수억 킬로미터를 날아가 목성의 궤도를 도는 얼음 위성 에우로파를 집중 탐사할 예정입니다. 행성 과학자들은 에우로파의 두꺼운 얼음 지각 아래에 거대한 소금물 바다가 숨겨져 있다고 믿고 있습니다.",
-        "sentences": [
-          {
-            "en": "At Kennedy Space Center in Florida, NASA engineers are finishing final safety checks on the Europa Clipper spacecraft.",
-            "ko": "NASA 엔지니어들이 플로리다에서 에우로파 클리퍼 탐사선 최종 점검을 진행 중입니다."
-          },
-          {
-            "en": "This ambitious flagship mission will travel hundreds of millions of kilometers to explore Europa, an icy moon orbiting Jupiter.",
-            "ko": "이 탐사선은 수억 킬로미터를 날아가 목성의 얼음 위성 에우로파를 탐사합니다."
-          },
-          {
-            "en": "Planetary scientists believe Europa hides a vast saltwater ocean beneath its frozen crust.",
-            "ko": "과학자들은 에우로파 얼음 표면 아래에 거대한 바다가 존재한다고 보고 있습니다."
-          }
-        ]
-      },
-      {
-        "en": "Europa Clipper is the largest planetary spacecraft NASA has ever built for an interplanetary journey. It carries massive solar arrays that stretch as wide as a basketball court to gather faint sunlight near Jupiter. Advanced radar instruments will peer through the ice to measure the depth and chemical makeup of the hidden global sea.",
-        "ko": "에우로파 클리퍼는 NASA가 행성 간 탐사를 위해 제작한 우주선 중 역사상 가장 큰 크기를 자랑합니다. 목성 주변의 희미한 햇빛을 모으기 위해 농구 코트 크기만큼 넓게 펼쳐지는 거대한 태양광 패널 날개를 장착했습니다. 최첨단 얼음 투과 레이더 장비는 두꺼운 얼음을 뚫고 들어가 숨겨진 바다의 깊이와 화학적 성분을 측정할 것입니다.",
-        "sentences": [
-          {
-            "en": "Europa Clipper is the largest planetary spacecraft NASA has ever built for an interplanetary journey.",
-            "ko": "에우로파 클리퍼는 NASA가 행성 탐사를 위해 만든 우주선 중 역대 최대 규모입니다."
-          },
-          {
-            "en": "It carries massive solar arrays that stretch as wide as a basketball court to gather faint sunlight near Jupiter.",
-            "ko": "목성의 약한 햇빛을 모으기 위해 농구장 크기의 거대한 태양광 패널을 탑재했습니다."
-          },
-          {
-            "en": "Advanced radar instruments will peer through the ice to measure the depth and chemical makeup of the hidden global sea.",
-            "ko": "첨단 투과 레이더가 얼음 아래 바다의 깊이와 화학 성분을 정밀 측정합니다."
-          }
-        ]
-      },
-      {
-        "en": "The mission does not search directly for alien life, but rather seeks the essential ingredients: liquid water, energy, and organic chemicals. Finding that a habitable environment exists so far from the Sun would change our understanding of biology forever. Space fans around the world are counting down the days until launch.",
-        "ko": "이번 탐사는 외계 생명체를 직접 찾는 것이 아니라, 생명체가 살 수 있는 필수 요소인 액체 상태의 물, 에너지원, 유기 화합물이 존재하는지 확인하는 것을 목표로 합니다. 태양에서 이토록 멀리 떨어진 얼음 세상에 생명 친화적 환경이 존재한다는 것이 밝혀진다면 인류의 생명관은 영원히 바뀔 것입니다. 전 세계 우주 애호가들은 발사의 그날을 손꼽아 기다리고 있습니다.",
-        "sentences": [
-          {
-            "en": "The mission does not search directly for alien life, but rather seeks the essential ingredients: liquid water, energy, and organic chemicals.",
-            "ko": "이번 미션의 목표는 물, 에너지, 유기물 등 생명체 서식 가능 환경을 확인하는 것입니다."
-          },
-          {
-            "en": "Finding that a habitable environment exists so far from the Sun would change our understanding of biology forever.",
-            "ko": "태양과 먼 곳에서 생명 환경을 발견한다면 우주 생물학의 패러다임이 바뀝니다."
-          },
-          {
-            "en": "Space fans around the world are counting down the days until launch.",
-            "ko": "전 세계의 수많은 팬들이 역사적인 발사 카운트다운을 기다리고 있습니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "NASA의 역대 최대 행성 탐사선 에우로파 클리퍼가 목성의 얼음 위성 에우로파로 향할 준비를 마쳤습니다.",
-      "농구장 크기의 태양광 패널과 얼음 투과 레이더로 표면 아래 거대한 바다의 성분을 분석합니다.",
-      "액체 상태의 물과 에너지, 유기물의 존재 여부를 밝혀 태양계 생명 서식 가능성의 비밀을 풉니다."
-    ],
-    "quiz": [
-      {
-        "question": "What primary condition for life is NASA investigating beneath Europa's icy surface?",
-        "options": [
-          "A massive subsurface saltwater ocean with energy and organic chemistry.",
-          "Underground shopping malls and movie theaters.",
-          "Rivers made of hot coffee and chocolate milk."
-        ],
-        "answer": 0,
-        "explanation": "Europa Clipper explores whether Europa's subsurface ocean possesses the liquid water and ingredients for life."
-      }
-    ]
-  },
-  {
-    "id": "news_science_02",
-    "title": "James Webb Space Telescope Spots Habitable Exoplanet Atmospheres in Deep Space",
-    "subtitle": "Astronomers discover signatures of water vapor and carbon molecules around distant rocky worlds.",
-    "speaker": "Nature Astronomy (Baltimore)",
-    "sourceName": "네이처 아스트로노미 & NASA JWST (webbtelescope.org)",
-    "sourceUrl": "https://webbtelescope.org/",
-    "factChecked": true,
-    "factCheckNotes": "제임스 웹 망원경의 암석형 외계 행성 대기 투과 스펙트럼 수증기 및 탄소 분자 검출 실측 확인",
-    "date": "2026-09-06",
-    "category": "science",
-    "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 152,
-    "keywords": [
-      "#제임스웹",
-      "#우주망원경",
-      "#외계행성",
-      "#생명체신호"
-    ],
-    "addedAt": "2026-09-06T21:00:00Z",
-    "paragraphs": [
-      {
-        "en": "The James Webb Space Telescope continues to revolutionize astronomy by revealing secrets of deep cosmic space. Orbiting one million miles away from Earth, its giant gold-coated mirrors detect faint infrared light from faraway star systems. Recently, scientists analyzed starlight passing through the atmosphere of a rocky exoplanet located forty light-years away.",
-        "ko": "제임스 웹 우주망원경은 깊은 우주의 비밀을 밝혀내며 천문학의 역사를 새로 쓰고 있습니다. 지구에서 150만 킬로미터(100만 마일) 떨어진 궤도를 돌며, 거대한 금빛 반사경을 통해 먼 별빛에서 나오는 희미한 적외선을 포착합니다. 최근 과학자들은 지구에서 40광년 떨어진 암석형 외계 행성의 대기를 통과한 별빛 스펙트럼을 정밀 분석했습니다.",
-        "sentences": [
-          {
-            "en": "The James Webb Space Telescope continues to revolutionize astronomy by revealing secrets of deep cosmic space.",
-            "ko": "제임스 웹 우주망원경은 우주의 비밀을 밝히며 천문학을 혁신하고 있습니다."
-          },
-          {
-            "en": "Orbiting one million miles away from Earth, its giant gold-coated mirrors detect faint infrared light from faraway star systems.",
-            "ko": "지구에서 100만 마일 떨어진 궤도에서 희미한 적외선 빛을 포착합니다."
-          },
-          {
-            "en": "Recently, scientists analyzed starlight passing through the atmosphere of a rocky exoplanet located forty light-years away.",
-            "ko": "과학자들은 40광년 떨어진 암석 외계 행성의 대기를 통과한 빛을 분석했습니다."
-          }
-        ]
-      },
-      {
-        "en": "By studying the colors of light absorbed by the planet's sky, researchers detected traces of water vapor, carbon dioxide, and methane. These chemical signatures suggest that rocky worlds around smaller red dwarf stars can hold onto thick atmospheres. Previously, many astronomers worried that intense stellar flares would blow away protective planetary skies.",
-        "ko": "행성의 대기에 흡수된 빛의 색상 파장을 분석함으로써 연구진은 수증기, 이산화탄소, 메탄의 흔적을 검출하는 데 성공했습니다. 이러한 화학적 지표는 작은 적색왜성 주변을 공전하는 암석 행성들도 두터운 대기를 보존할 수 있음을 시사합니다. 이전까지 많은 천문학자들은 강한 항성 플레어가 행성의 보호 대기를 날려버릴 것이라 우려했었습니다.",
-        "sentences": [
-          {
-            "en": "By studying the colors of light absorbed by the planet's sky, researchers detected traces of water vapor, carbon dioxide, and methane.",
-            "ko": "빛의 스펙트럼을 연구하여 대기 속 수증기, 이산화탄소, 메탄의 흔적을 찾았습니다."
-          },
-          {
-            "en": "These chemical signatures suggest that rocky worlds around smaller red dwarf stars can hold onto thick atmospheres.",
-            "ko": "이는 작은 별 주위의 암석 행성도 두꺼운 대기를 유지할 수 있음을 보여줍니다."
-          },
-          {
-            "en": "Previously, many astronomers worried that intense stellar flares would blow away protective planetary skies.",
-            "ko": "이전에는 항성의 폭발로 대기가 모두 날아갔을 것이라는 우려가 많았습니다."
-          }
-        ]
-      },
-      {
-        "en": "Finding water vapor on a rocky exoplanet brings humanity one step closer to answering whether we are alone in the universe. Astronomers are now planning longer observations to confirm surface temperatures and weather patterns. The golden eye of the telescope is opening a new golden era of cosmic discovery.",
-        "ko": "암석형 외계 행성에서 수증기를 발견한 것은 '우주에 우리만 존재하는가'라는 오랜 질문에 인류가 한 걸음 더 다가섰음을 의미합니다. 천문학자들은 이제 행성의 표면 온도와 기상 패턴을 확인하기 위해 더 긴 관측 일정을 계획하고 있습니다. 제임스 웹 망원경의 황금빛 눈동자가 우주 탐사의 찬란한 황금기를 활짝 열어가고 있습니다.",
-        "sentences": [
-          {
-            "en": "Finding water vapor on a rocky exoplanet brings humanity one step closer to answering whether we are alone in the universe.",
-            "ko": "암석 행성에서 수증기를 찾음으로써 우주 생명체 확인에 한 걸음 더 다가섰습니다."
-          },
-          {
-            "en": "Astronomers are now planning longer observations to confirm surface temperatures and weather patterns.",
-            "ko": "천문학자들은 표면 온도와 날씨 패턴을 확인하기 위해 추가 관측을 준비 중입니다."
-          },
-          {
-            "en": "The golden eye of the telescope is opening a new golden era of cosmic discovery.",
-            "ko": "제임스 웹 망원경의 눈을 통해 우주 탐사의 새로운 전성기가 열리고 있습니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "제임스 웹 우주망원경이 40광년 밖 암석형 외계 행성 대기에서 수증기와 이산화탄소를 포착했습니다.",
-      "적색왜성 주변 행성도 대기를 보존할 수 있음이 확인되어 거주 가능 행성의 후보군이 크게 넓어졌습니다.",
-      "외계 생명체 거주 가능성 확인을 위해 표면 온도와 대기 순환에 대한 정밀 후속 관측이 진행됩니다."
-    ],
-    "quiz": [
-      {
-        "question": "What gas molecules did the James Webb telescope detect in the exoplanet's atmosphere?",
-        "options": [
-          "Water vapor, carbon dioxide, and methane.",
-          "Pure liquid gasoline and rocket engine exhaust.",
-          "Clouds made of solid iron bowling balls."
-        ],
-        "answer": 0,
-        "explanation": "JWST detected water vapor, carbon dioxide, and methane in the atmosphere of the rocky world."
-      }
-    ]
-  },
-  {
-    "id": "news_economy_01",
-    "title": "Global Markets Await Federal Reserve September Interest Rate Decision",
-    "subtitle": "Investors and central banks watch closely as inflation cools and employment data guides monetary policy.",
-    "speaker": "Federal Reserve & Financial Times (New York)",
-    "sourceName": "미 연방준비제도(Fed) 일정 및 FT 경제 보도 (federalreserve.gov)",
-    "sourceUrl": "https://www.federalreserve.gov/",
-    "factChecked": true,
-    "factCheckNotes": "2026년 9월 FOMC 회의를 앞두고 금리 동결(52%) vs 인상/인하 논쟁 및 물가 안정 지표 실측 확인",
-    "date": "2026-09-06",
-    "category": "economy",
-    "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 153,
-    "keywords": [
-      "#연준금리",
-      "#FOMC",
-      "#글로벌경제",
-      "#물가안정"
-    ],
-    "addedAt": "2026-09-06T21:00:00Z",
-    "paragraphs": [
-      {
-        "en": "Financial markets around the globe are holding their breath ahead of the Federal Reserve's September policy meeting. Central bank officials, including Governor Waller and Governor Barr, have actively delivered speeches discussing the economic outlook. With inflation gradually moderating toward target levels, policymakers face their most consequential decision of the year.",
-        "ko": "전 세계 금융시장이 미국 연방준비제도(Fed)의 9월 통화정책 회의를 앞두고 숨을 죽이고 있습니다. 월러 이사와 바 이사를 포함한 연준 고위 인사들은 향후 경제 전망을 논의하는 연설을 잇달아 가졌습니다. 인플레이션이 점차 목표 수준으로 안정되면서 정책 입안자들은 올해 가장 중요한 정책 결정을 앞두고 있습니다.",
-        "sentences": [
-          {
-            "en": "Financial markets around the globe are holding their breath ahead of the Federal Reserve's September policy meeting.",
-            "ko": "전 세계 금융시장이 9월 미 연방준비제도(Fed)의 금리 결정을 숨죽여 기다리고 있습니다."
-          },
-          {
-            "en": "Central bank officials, including Governor Waller and Governor Barr, have actively delivered speeches discussing the economic outlook.",
-            "ko": "월러 이사와 바 이사 등 연준 인사들이 최근 활발히 경제 전망 연설을 했습니다."
-          },
-          {
-            "en": "With inflation gradually moderating toward target levels, policymakers face their most consequential decision of the year.",
-            "ko": "물가가 안정되면서 정책 입안자들은 올해 가장 중대한 결정을 마주했습니다."
-          }
-        ]
-      },
-      {
-        "en": "Financial prediction markets currently reflect balanced debate, with many traders anticipating interest rates will remain steady. Keeping borrowing costs stable helps prevent sudden inflation shocks, while businesses hope for future easing to lower commercial mortgage payments. Officials emphasize that labor market statistics and consumer price indices will guide their final votes.",
-        "ko": "현재 금융 예측 시장에서는 금리가 현 수준에서 동결될 것이라는 전망을 중심으로 팽팽한 논쟁이 이어지고 있습니다. 대출 금리를 안정적으로 유지하는 것은 갑작스러운 물가 재상승 충격을 방지하며, 기업들은 향후 금리가 낮아져 대출 이자 부담이 줄어들기를 기대합니다. 당국자들은 고용 시장 통계와 소비자 물가지수가 최종 표결의 기준이 될 것임을 강조했습니다.",
-        "sentences": [
-          {
-            "en": "Financial prediction markets currently reflect balanced debate, with many traders anticipating interest rates will remain steady.",
-            "ko": "금융 시장에서는 금리 동결 전망을 중심으로 활발한 논쟁이 이어지고 있습니다."
-          },
-          {
-            "en": "Keeping borrowing costs stable helps prevent sudden inflation shocks, while businesses hope for future easing to lower commercial mortgage payments.",
-            "ko": "금리 안정이 물가 충격을 막는 한편 기업들은 대출 부담 완화를 원합니다."
-          },
-          {
-            "en": "Officials emphasize that labor market statistics and consumer price indices will guide their final votes.",
-            "ko": "당국자들은 고용 통계와 물가 지수를 토대로 최종 결정을 내릴 것이라 밝혔습니다."
-          }
-        ]
-      },
-      {
-        "en": "Stock exchanges in New York, Tokyo, and Seoul have seen cautious trading as fund managers adjust their portfolios. Commercial enterprises are waiting to see how borrowing rates impact major infrastructure and artificial intelligence investments. The upcoming September statement will set the tone for global capital markets for the rest of the year.",
-        "ko": "펀드 매니저들이 포트폴리오를 조정함에 따라 뉴욕, 도쿄, 서울의 증권거래소는 신중한 관망세를 보이고 있습니다. 기업들은 대출 금리의 향방이 대규모 인프라 구축과 인공지능 설비 투자에 미칠 영향을 주시하고 있습니다. 다가오는 9월 연준 정책 성명서는 올 하반기 글로벌 자본 시장의 방향타 역할을 할 것입니다.",
-        "sentences": [
-          {
-            "en": "Stock exchanges in New York, Tokyo, and Seoul have seen cautious trading as fund managers adjust their portfolios.",
-            "ko": "포트폴리오 비중 조절 속에 뉴욕, 도쿄, 서울 증시는 신중한 관망세를 유지 중입니다."
-          },
-          {
-            "en": "Commercial enterprises are waiting to see how borrowing rates impact major infrastructure and artificial intelligence investments.",
-            "ko": "기업들은 금리가 인프라와 AI 투자에 미칠 영향을 면밀히 주시하고 있습니다."
-          },
-          {
-            "en": "The upcoming September statement will set the tone for global capital markets for the rest of the year.",
-            "ko": "이번 9월 발표는 올 하반기 글로벌 금융시장의 흐름을 결정짓게 됩니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "9월 미국 연방준비제도(Fed) 통화정책 회의를 앞두고 글로벌 금융시장이 촉각을 곤두세우고 있습니다.",
-      "물가 안정세와 고용 시장 통계를 바탕으로 금리 동결 및 향후 통화정책 방향이 결정될 예정입니다.",
-      "기업들은 대출 금리의 변동이 차세대 인프라와 AI 설비 투자에 미칠 영향에 주목하고 있습니다."
-    ],
-    "quiz": [
-      {
-        "question": "What primary economic data does the Federal Reserve evaluate before deciding interest rates?",
-        "options": [
-          "Labor market statistics and consumer price inflation indices.",
-          "The number of umbrellas sold in London during rainstorms.",
-          "Scores from professional video game tournaments."
-        ],
-        "answer": 0,
-        "explanation": "The Federal Reserve studies labor market conditions and consumer price inflation to set monetary policy."
-      }
-    ]
-  },
-  {
-    "id": "news_economy_02",
-    "title": "The Global AI Chip Frontier: New Semiconductor Mega-Foundries Take Shape",
-    "subtitle": "Nations invest billions in subsidies to construct advanced chip fabrication plants and secure supply chains.",
-    "speaker": "Bloomberg Technology (Taipei)",
-    "sourceName": "블룸버그 테크놀로지 & TSMC/삼성 반도체 보도 (bloomberg.com)",
-    "sourceUrl": "https://www.bloomberg.com/",
-    "factChecked": true,
-    "factCheckNotes": "미국, 아시아, 유럽 글로벌 반도체 메가 팹 건설 및 극자외선(EUV) AI 칩 제조 투자 실측 확인",
-    "date": "2026-09-06",
-    "category": "economy",
-    "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 145,
-    "keywords": [
-      "#반도체",
-      "#AI칩",
-      "#파운드리",
-      "#공급망"
-    ],
-    "addedAt": "2026-09-06T21:00:00Z",
-    "paragraphs": [
-      {
-        "en": "A historic construction boom is transforming the semiconductor industry across Asia, North America, and Europe. Governments are spending billions of dollars in subsidies to build giant chip manufacturing factories known as foundries. As artificial intelligence applications multiply, high-speed graphics chips and fast memory processors have become vital national assets.",
-        "ko": "아시아, 북미, 유럽에 걸쳐 반도체 제조 공장 건설 붐이 역사적인 규모로 일어나고 있습니다. 각국 정부는 '파운드리'로 불리는 거대한 반도체 생산 공장을 유치하기 위해 수십억 달러의 보조금을 투입하고 있습니다. 인공지능 응용 서비스가 폭발적으로 늘어나면서 초고속 그래픽 칩과 고대역폭 메모리 반도체는 국가의 핵심 자산이 되었습니다.",
-        "sentences": [
-          {
-            "en": "A historic construction boom is transforming the semiconductor industry across Asia, North America, and Europe.",
-            "ko": "아시아, 북미, 유럽 전역에서 거대한 반도체 공장 건설 붐이 일고 있습니다."
-          },
-          {
-            "en": "Governments are spending billions of dollars in subsidies to build giant chip manufacturing factories known as foundries.",
-            "ko": "각국 정부는 첨단 파운드리 공장을 짓기 위해 막대한 보조금을 지원하고 있습니다."
-          },
-          {
-            "en": "As artificial intelligence applications multiply, high-speed graphics chips and fast memory processors have become vital national assets.",
-            "ko": "AI 수요가 폭증하면서 고성능 그래픽 칩과 메모리는 핵심 전략 자산이 되었습니다."
-          }
-        ]
-      },
-      {
-        "en": "Building modern microchip fabrication plants requires extreme technical precision. Cleanrooms inside these facilities must be thousands of times cleaner than hospital operating rooms to avoid microscopic dust. Advanced lithography machines use extreme ultraviolet light to carve microscopic circuits that are thinner than a single strand of human DNA.",
-        "ko": "현대적인 반도체 제조 공장을 건설하기 위해서는 극한의 기술적 정밀도가 요구됩니다. 이 시설 내부의 클린룸은 눈에 보이지 않는 미세 먼지를 막기 위해 일반 병원 수술실보다 수천 배 더 청정해야 합니다. 첨단 극자외선(EUV) 노광 장비는 인간 DNA 한 가닥보다 더 얇은 미세 회로를 웨이퍼 위에 정밀하게 새겨 넣습니다.",
-        "sentences": [
-          {
-            "en": "Building modern microchip fabrication plants requires extreme technical precision.",
-            "ko": "첨단 반도체 팹을 건설하는 데는 극한의 기술 정밀도가 필요합니다."
-          },
-          {
-            "en": "Cleanrooms inside these facilities must be thousands of times cleaner than hospital operating rooms to avoid microscopic dust.",
-            "ko": "클린룸은 미세 먼지를 막기 위해 병원 수술실보다 수천 배 깨끗해야 합니다."
-          },
-          {
-            "en": "Advanced lithography machines use extreme ultraviolet light to carve microscopic circuits that are thinner than a single strand of human DNA.",
-            "ko": "극자외선(EUV) 장비는 DNA 한 가닥보다 얇은 미세 회로를 새겨 넣습니다."
-          }
-        ]
-      },
-      {
-        "en": "Securing local chip production shields countries from geopolitical tensions and shipping supply chain delays. Semiconductor leaders like TSMC, Samsung, and Intel are training thousands of specialized engineers to operate these high-tech plants. The race to manufacture tomorrow's AI silicon will determine global technological leadership for decades to come.",
-        "ko": "자국 내에 반도체 생산 기지를 확보하는 것은 지정학적 갈등과 글로벌 공급망 물류 대란의 위험으로부터 국가 경제를 보호합니다. TSMC, 삼성, 인텔과 같은 반도체 선도 기업들은 이 첨단 공장들을 가동하기 위해 수천 명의 전문 엔지니어를 육성하고 있습니다. 미래 AI 반도체를 제조하기 위한 글로벌 경쟁은 향후 수십 년간의 세계 기술 패권을 결정지을 것입니다.",
-        "sentences": [
-          {
-            "en": "Securing local chip production shields countries from geopolitical tensions and shipping supply chain delays.",
-            "ko": "자국 내 칩 생산 기지 확보는 지정학적 리스크와 공급망 위기를 막아줍니다."
-          },
-          {
-            "en": "Semiconductor leaders like TSMC, Samsung, and Intel are training thousands of specialized engineers to operate these high-tech plants.",
-            "ko": "TSMC, 삼성, 인텔 등은 첨단 팹 가동을 위해 전문 엔지니어를 대거 양성하고 있습니다."
-          },
-          {
-            "en": "The race to manufacture tomorrow's AI silicon will determine global technological leadership for decades to come.",
-            "ko": "차세대 AI 칩 제조 경쟁은 향후 수십 년간의 글로벌 기술 리더십을 좌우합니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "전 세계적으로 AI 반도체 자급률을 높이기 위한 메가 파운드리 건설 투자가 가속화되고 있습니다.",
-      "병원 수술실보다 수천 배 깨끗한 클린룸과 극자외선(EUV) 미세 공정이 기술 경쟁력의 핵심입니다.",
-      "국가별 반도체 보조금 정책과 글로벌 공급망 다변화가 기술 패권의 핵심 지표로 부상했습니다."
-    ],
-    "quiz": [
-      {
-        "question": "Why are extreme ultraviolet (EUV) lithography machines used in chip fabrication?",
-        "options": [
-          "To carve microscopic circuits thinner than human DNA on silicon wafers.",
-          "To bake fresh bread for factory workers during lunch breaks.",
-          "To paint bright red flowers on the outside walls of the factory."
-        ],
-        "answer": 0,
-        "explanation": "EUV lithography carves nanoscale circuits thinner than human DNA onto semiconductor wafers."
+        "explanation": "The title directly reflects the main subject."
       }
     ]
   },
