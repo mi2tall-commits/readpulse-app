@@ -1542,10 +1542,69 @@
     }
 
     @media (max-width: 640px) {
-      .app-header { padding: 0.65rem 0.85rem; }
-      .articles-grid { grid-template-columns: 1fr; }
-      .reader-title { font-size: 1.65rem; }
-      .word-inspector-modal { left: 1rem; right: 1rem; bottom: 1rem; width: auto; }
+      /* Header: 좁은 화면에서 겹치거나 잘리지 않도록 압축 */
+      .app-header { padding: 0.6rem 0.75rem; gap: 0.5rem; }
+      .brand-title { font-size: 1rem; gap: 0.3rem; }
+      .brand-tag { display: none; }
+      .brand-logo { width: 32px; height: 32px; font-size: 1.05rem; }
+      .header-actions { gap: 0.4rem; }
+      .stat-pill { padding: 0.3rem 0.55rem; font-size: 0.75rem; }
+      .btn-icon { width: 34px; height: 34px; font-size: 0.9rem; }
+
+      .hero-banner { padding: 1.25rem 0.9rem 1rem; }
+      .hero-headline { font-size: 1.25rem; }
+      .hero-sub { font-size: 0.84rem; }
+      .live-status-bar { padding: 0.65rem 0.75rem; }
+      .btn-sync { width: 100%; justify-content: center; }
+      .live-status-bar { flex-direction: column; align-items: stretch; }
+
+      .app-main { padding: 1.1rem 0.9rem 2.5rem; }
+      .articles-grid { grid-template-columns: 1fr; gap: 1rem; }
+      .article-card { padding: 1.1rem; }
+      .card-title { font-size: 1.05rem; }
+
+      /* Reader: 본문 가독성 확보 (좌우 여백 축소, 탭 영역 확대) */
+      .reader-toolbar { padding: 0.55rem 0.85rem; }
+      .btn-back { padding: 0.4rem 0.7rem; font-size: 0.78rem; }
+      .reader-container { padding: 1.25rem 0.9rem 5rem; gap: 1.5rem; }
+      .reader-title { font-size: 1.5rem; }
+      .reader-subtitle { font-size: 0.95rem; }
+      .reader-meta-row { font-size: 0.72rem; }
+      .btn-reader-archive { padding: 0.35rem 0.7rem; font-size: 0.76rem; }
+
+      /* 오디오 플레이어: 각 컨트롤을 세로로 쌓아 탭하기 쉽게 */
+      .audio-player-bar { flex-direction: column; align-items: stretch; padding: 0.75rem 0.9rem; gap: 0.65rem; }
+      .player-controls { justify-content: space-between; }
+      .btn-play-all { flex: 1; justify-content: center; }
+      .speed-select { flex-shrink: 0; }
+      .mode-switch-group { justify-content: stretch; }
+      .mode-switch-group .mode-btn { flex: 1; padding: 0.45rem 0.4rem; font-size: 0.72rem; }
+
+      .reading-paragraph { padding: 0.6rem 0.35rem; gap: 0.6rem; }
+      :root { --reader-font-size: 18px; --reader-line-height: 1.8; }
+      .rp-word { padding: 3px 2px; line-height: 1.9; }
+      .btn-sentence-mic { width: 26px; height: 26px; font-size: 0.78rem; }
+      .sentence-ko-inline { font-size: 0.88rem; }
+      .paragraph-ko { font-size: 0.92rem; }
+
+      .reader-section-card { padding: 1.1rem; }
+      .quiz-opt-btn { padding: 0.75rem 0.85rem; font-size: 0.9rem; }
+
+      /* 팝업/모달: 화면을 최대한 활용하고 여백을 줄여 텍스트가 더 잘 보이게 */
+      .word-inspector-modal { left: 0.75rem; right: 0.75rem; bottom: 0.75rem; width: auto; padding: 1rem; }
+      .inspector-word { font-size: 1.2rem; }
+      .external-dict-row { gap: 0.3rem; }
+      .btn-dict-link { font-size: 0.7rem; padding: 0.3rem 0.5rem; }
+
+      .shadowing-modal, .vocab-modal { padding: 0.75rem; }
+      .shadowing-card, .vocab-card { padding: 1.1rem; }
+      .vocab-card { height: 85vh; }
+      .shadowing-target-box { font-size: 1.05rem; padding: 1rem; }
+      .btn-big-mic { width: 64px; height: 64px; font-size: 1.5rem; }
+      .flashcard-box { height: 200px; }
+
+      .toast-box { left: 1rem; right: 1rem; transform: translateY(100px); width: auto; text-align: center; justify-content: center; }
+      .toast-box.show { transform: translateY(0); }
     }
   </style>
 </head>
@@ -1889,6 +1948,12 @@
     let currentSentenceIndex = -1;
     let flashcardIndex = 0;
     let activeInspectorWord = null;
+    let dynamicDictCache = {};
+    try {
+      dynamicDictCache = JSON.parse(localStorage.getItem('readpulse_dynamic_dict') || '{}');
+    } catch (e) {
+      dynamicDictCache = {};
+    }
 
     // Speech Recognition for Shadowing
     let recognition = null;
@@ -2285,6 +2350,21 @@
         .replace(/"/g, '&quot;');
     }
 
+    // 문장 배열을 여러 문단(기본 3문장 단위)으로 묶어 다른 큐레이션 아티클과
+    // 동일한 "3~5문단" 리딩 구조를 만든다 (한 문단에 모든 문장을 몰아넣던 버그 수정)
+    function chunkSentencesToParagraphs(sentences, chunkSize = 3) {
+      const paragraphs = [];
+      for (let i = 0; i < sentences.length; i += chunkSize) {
+        const chunk = sentences.slice(i, i + chunkSize);
+        paragraphs.push({
+          en: chunk.join(' '),
+          ko: '실시간 속보 번역 요약입니다.',
+          sentences: chunk.map(s => ({ en: s, ko: '실시간 속보 번역: ' + s }))
+        });
+      }
+      return paragraphs;
+    }
+
     // LIVE NEWS SYNC ENGINE
     async function syncLiveNews() {
       const btn = document.getElementById('btnSyncNews');
@@ -2314,37 +2394,35 @@
           if (data.status === 'ok' && data.items && data.items.length > 0) {
             for (let i = 0; i < Math.min(data.items.length, 2); i++) {
               const item = data.items[i];
-              const cleanDesc = item.description.replace(/<[^>]*>?/gm, '').trim();
-              const fullContent = (item.content || item.description).replace(/<[^>]*>?/gm, '').trim();
-              
-              const rawSentences = (cleanDesc.length > 80 ? cleanDesc : fullContent)
-                .match(/[^.!?]+[.!?]+/g) || [cleanDesc];
+              const cleanDesc = (item.description || '').replace(/<[^>]*>?/gm, '').trim();
+              const fullContent = (item.content || item.description || '').replace(/<[^>]*>?/gm, '').trim();
 
-              const sentences = rawSentences.map(s => ({
-                en: s.trim(),
-                ko: "실시간 속보 번역: " + s.trim()
-              })).filter(s => s.en.length > 10);
+              // 더 풍부한 본문(fullContent)이 있으면 그것을 우선 사용 (짧은 요약만 쓰던 버그 수정)
+              const baseText = fullContent.length > cleanDesc.length ? fullContent : cleanDesc;
 
-              if (sentences.length === 0) continue;
+              const rawSentences = baseText.match(/[^.!?]+[.!?]+/g) || [baseText];
+              const cleanSentences = rawSentences.map(s => s.trim()).filter(s => s.length > 10);
+
+              // 실제 리딩 학습에 부족한 1~2문장짜리 짧은 소스는 건너뛰어
+              // "1~3줄만 보이는" 부실한 아티클이 생성되지 않도록 최소 분량을 강제
+              const totalWords = cleanSentences.join(' ').split(/\s+/).filter(Boolean).length;
+              if (cleanSentences.length === 0 || totalWords < 40) continue;
+
+              // 여러 문장을 3~5개 문단으로 나눠서 다른 아티클과 동일한 리딩 구조를 갖도록 함
+              const paragraphsData = chunkSentencesToParagraphs(cleanSentences, 3);
 
               const artObj = {
                 id: 'live_' + Math.random().toString(36).substr(2, 9),
                 title: item.title,
-                subtitle: cleanDesc.substring(0, 120) + '...',
+                subtitle: cleanDesc.substring(0, 120) + (cleanDesc.length > 120 ? '...' : ''),
                 speaker: f.name,
                 date: item.pubDate ? item.pubDate.split(' ')[0] : 'Today',
                 category: f.cat,
                 isLive: true,
                 level: 'B2',
-                readTime: '2 min',
-                wordCount: cleanDesc.split(/\s+/).length,
-                paragraphs: [
-                  {
-                    en: sentences.map(s => s.en).join(' '),
-                    ko: "실시간 속보 뉴스로 업데이트된 내용입니다.",
-                    sentences: sentences
-                  }
-                ],
+                readTime: `${Math.max(2, Math.round(totalWords / 100))} min`,
+                wordCount: totalWords,
+                paragraphs: paragraphsData,
                 takeaways: [
                   "글로벌 최신 속보: " + item.title,
                   "실시간 RSS 피드를 통해 AI 리딩 엔진에 즉각 연동되었습니다.",
@@ -2660,6 +2738,44 @@
       return null;
     }
 
+    // 큐레이션 사전(463단어)에 없는 단어는 무료 번역 API로 실제 한글 뜻을 조회해서
+    // 캐시에 저장한다. ("단어장 대부분에 뜻이 안 보인다" 버그의 근본 원인 수정)
+    async function fetchExternalMeaning(word) {
+      const key = word.toLowerCase();
+      if (dynamicDictCache[key]) return dynamicDictCache[key];
+      try {
+        const res = await fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(word)}&langpair=en|ko`);
+        if (!res.ok) return '';
+        const data = await res.json();
+        const translated = data && data.responseData ? (data.responseData.translatedText || '').trim() : '';
+        if (translated && translated.toLowerCase() !== key) {
+          dynamicDictCache[key] = translated;
+          localStorage.setItem('readpulse_dynamic_dict', JSON.stringify(dynamicDictCache));
+          return translated;
+        }
+      } catch (e) {
+        console.warn('External meaning fetch failed for', word, e);
+      }
+      return '';
+    }
+
+    // 이미 단어장에 저장된 단어의 뜻이 나중에 API로 조회되면 그 값으로 갱신
+    function syncSavedMeaning(word, meaning) {
+      const w = word.toLowerCase();
+      let changed = false;
+      savedVocab.forEach(v => {
+        if (v.word.toLowerCase() === w && (!v.meaning || v.meaning.includes('학습 단어') || v.meaning.includes('조회하는 중'))) {
+          v.meaning = meaning;
+          changed = true;
+        }
+      });
+      if (changed) {
+        localStorage.setItem('readpulse_vocab', JSON.stringify(savedVocab));
+        const vocabModal = document.getElementById('vocabModal');
+        if (vocabModal && vocabModal.classList.contains('active')) renderVocabList();
+      }
+    }
+
     // WORD INSPECTOR (LINGQ STYLE WITH VISIBLE KOREAN DEFINITIONS)
     function inspectWord(word, event) {
       if (event) event.stopPropagation();
@@ -2688,8 +2804,25 @@
         ipaEl.innerText = `/${word}/`;
         if (posEl) posEl.innerText = '문맥 어휘';
         if (cefrEl) cefrEl.innerText = '학습';
-        meaningEl.innerText = `‘${word}’ (아래 포털 사전 버튼으로 상세 뜻을 확인하고 단어장에 저장하세요)`;
         exampleEl.innerText = `"${word}"`;
+
+        const cachedMeaning = dynamicDictCache[activeInspectorWord];
+        if (cachedMeaning) {
+          meaningEl.innerText = cachedMeaning;
+        } else {
+          meaningEl.innerText = '뜻을 조회하는 중...';
+          const lookupWord = word;
+          fetchExternalMeaning(lookupWord).then(meaning => {
+            // 사용자가 그 사이 다른 단어를 눌렀으면 화면을 덮어쓰지 않음
+            if (activeInspectorWord !== lookupWord.toLowerCase()) return;
+            if (meaning) {
+              meaningEl.innerText = meaning;
+              syncSavedMeaning(lookupWord, meaning);
+            } else {
+              meaningEl.innerText = `‘${lookupWord}’ (아래 포털 사전 버튼으로 상세 뜻을 확인하고 단어장에 저장하세요)`;
+            }
+          });
+        }
       }
 
       // Update 1-click external dictionary links
@@ -2718,9 +2851,18 @@
       const idx = savedVocab.findIndex(v => v.word.toLowerCase() === activeInspectorWord);
       
       const lookupRes = lookupDictionaryEntry(activeInspectorWord);
-      let meaning = lookupRes && lookupRes.entry ? (lookupRes.entry.ko || lookupRes.entry.meaning) : `‘${activeInspectorWord}’ 학습 단어`;
-      let ipa = lookupRes && lookupRes.entry ? lookupRes.entry.ipa : `/${activeInspectorWord}/`;
+      const savedWord = activeInspectorWord;
+      let meaning = lookupRes && lookupRes.entry
+        ? (lookupRes.entry.ko || lookupRes.entry.meaning)
+        : (dynamicDictCache[savedWord] || `‘${savedWord}’ 학습 단어 (뜻 조회 중...)`);
+      let ipa = lookupRes && lookupRes.entry ? lookupRes.entry.ipa : `/${savedWord}/`;
       let example = lookupRes && lookupRes.entry ? lookupRes.entry.example : '';
+
+      // 큐레이션 사전에도, 캐시에도 없는 단어는 저장과 동시에 번역을 조회해서
+      // 잠시 후 단어장 항목의 뜻을 자동으로 채워 넣는다.
+      if (!lookupRes && !dynamicDictCache[savedWord]) {
+        fetchExternalMeaning(savedWord).then(m => { if (m) syncSavedMeaning(savedWord, m); });
+      }
 
       if (idx >= 0) {
         savedVocab.splice(idx, 1);

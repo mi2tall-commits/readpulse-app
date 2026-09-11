@@ -73,7 +73,8 @@ def main():
                 top_item = data["items"][0]
                 article_link = top_item.get("link", "")
                 scraped_paras = fetch_article_body_paragraphs(article_link) if article_link else []
-                
+                desc = re.sub(r"<[^>]*>", "", top_item.get("description", "") or top_item.get("content", "") or "").strip()
+
                 paras_data = []
                 total_words = 0
                 if scraped_paras and len(scraped_paras) >= 2:
@@ -88,16 +89,19 @@ def main():
                             "sentences": [{"en": s, "ko": "실시간 보도 번역: " + s} for s in p_sentences]
                         })
                 else:
-                    # Fallback to combined sentences if substantive
-                    raw_sentences = re.findall(r"[^.!?]+[.!?]+", desc) or [desc]
-                    sentences = [{"en": s.strip(), "ko": "실시간 속보 번역: " + s.strip()} for s in raw_sentences if len(s.strip()) > 10]
-                    if len(desc.split()) >= 80:
+                    # Fallback: RSS 설명만으로 문단을 구성할 때도 문장을 3개씩 묶어
+                    # 여러 문단으로 나눔 (모든 문장을 한 문단에 몰아넣던 버그 수정)
+                    raw_sentences = [s.strip() for s in re.findall(r"[^.!?]+[.!?]+", desc) if len(s.strip()) > 10]
+                    if len(desc.split()) >= 80 and raw_sentences:
                         total_words = len(desc.split())
-                        paras_data = [{
-                            "en": desc,
-                            "ko": "실시간 글로벌 최신 뉴스입니다.",
-                            "sentences": sentences
-                        }]
+                        chunk_size = 3
+                        for i in range(0, len(raw_sentences), chunk_size):
+                            chunk = raw_sentences[i:i + chunk_size]
+                            paras_data.append({
+                                "en": " ".join(chunk),
+                                "ko": "실시간 글로벌 최신 뉴스입니다.",
+                                "sentences": [{"en": s, "ko": "실시간 속보 번역: " + s} for s in chunk]
+                            })
 
                 # Only accept articles with substantial reading substance (at least 80 words)
                 if paras_data and total_words >= 80:
