@@ -1942,6 +1942,7 @@
     let userXp = 0;
     let savedVocab = [];
     let archivedArticleIds = [];
+    let viewedArticleIds = [];
     let readingMode = 'en'; // 'en', 'parallel', 'sentence'
     let isPlayingArticle = false;
     let currentParagraphIndex = -1;
@@ -1999,6 +2000,21 @@
           }
         }
 
+        const savedViewed = localStorage.getItem('readpulse_viewed_ids');
+        if (savedViewed) {
+          viewedArticleIds = JSON.parse(savedViewed);
+        } else {
+          // "미열람 아티클 조기 삭제" 기능이 새로 생기면서, 이 기록이 아예
+          // 없던 기존 사용자가 예전에 이미 읽어본 기사까지 "미열람"으로
+          // 오인해 갑자기 삭제되지 않도록, 최초 1회에 한해 현재 존재하는
+          // 모든 아티클(큐레이션 DB + 캐시된 실시간 아티클)을 "열람함"
+          // 상태로 마이그레이션한다.
+          const staticIds = (typeof READPULSE_ARTICLES !== 'undefined' ? READPULSE_ARTICLES : []).map(a => a.id);
+          const liveIds = liveArticles.map(a => a.id);
+          viewedArticleIds = [...staticIds, ...liveIds].filter(Boolean);
+          localStorage.setItem('readpulse_viewed_ids', JSON.stringify(viewedArticleIds));
+        }
+
         const theme = localStorage.getItem('readpulse_theme') || 'dark';
         applyTheme(theme);
       } catch (e) {
@@ -2025,24 +2041,18 @@
         return { isPermanent: true, label: '🏛️ 영구 보존', cssClass: 'badge-permanent', shouldPrune: false };
       }
 
-      // 2. Curated core deep-dives (non-live, non-auto)
-      // 주의: isLive 플래그는 "🔴 실시간 속보" 배지/필터 표시에도 쓰이는데,
-      // 사람이 직접 취재/팩트체크한 큐레이션 아티클도 최신 헤드라인임을
-      // 보여주려고 isLive:true로 표시해둔 경우가 있다. 그래서 여기서는
-      // 보존(7일 후 자동 삭제) 여부를 isLive가 아니라 id 접두사(auto_/live_,
-      // 즉 실제 자동 수집 파이프라인 산출물인지)로만 판단해야 한다.
-      // isLive까지 같이 보면 큐레이션 아티클이 7일 뒤 조용히 삭제되어 버린다.
-      const isAutoFetched = Boolean(article.id && (article.id.startsWith('auto_') || article.id.startsWith('live_')));
-      if (!isAutoFetched) {
-        return { isPermanent: true, label: '🏛️ 영구 보존', cssClass: 'badge-permanent', shouldPrune: false };
-      }
-
-      // 3. Check if archived (manually or via vocab)
+      // 2. Check if archived (manually or via vocab) - 사용자가 직접 보관한 것은 영구 보존
       if (isArticleArchived(article.id)) {
         return { isPermanent: true, isArchived: true, label: '📦 보관됨', cssClass: 'badge-archived', shouldPrune: false };
       }
 
-      // 4. Calculate 7-day expiration for live/auto news
+      // 3. 뉴스/스포츠 아티클(큐레이션 여부와 무관하게 전부) 공통 보관 정책:
+      //    - 최대 7주(49일)가 지나면 무조건 삭제
+      //    - 등록 후 7일 동안 한 번도 열어보지 않았다면 7주를 기다리지 않고 조기 삭제
+      //      (안 볼 기사가 계속 쌓이는 것을 방지)
+      const HARD_CAP_DAYS = 49; // 7주
+      const UNREAD_CLEANUP_DAYS = 7; // 7일 넘게 미열람 시 조기 삭제
+
       const dateStr = article.addedAt || article.date;
       let articleDate = new Date(dateStr);
       if (isNaN(articleDate.getTime())) {
@@ -2050,14 +2060,29 @@
       }
 
       const now = new Date();
-      const diffMs = now.getTime() - articleDate.getTime();
-      const diffDays = diffMs / (1000 * 60 * 60 * 24);
+      const diffDays = (now.getTime() - articleDate.getTime()) / (1000 * 60 * 60 * 24);
+      const hasBeenViewed = viewedArticleIds.includes(article.id);
 
-      if (diffDays >= 7) {
+      if (diffDays >= HARD_CAP_DAYS) {
+        return { shouldPrune: true };
+      }
+      if (!hasBeenViewed && diffDays >= UNREAD_CLEANUP_DAYS) {
         return { shouldPrune: true };
       }
 
-      const daysLeft = Math.max(1, Math.ceil(7 - diffDays));
+      if (!hasBeenViewed) {
+        const daysLeftToOpen = Math.max(1, Math.ceil(UNREAD_CLEANUP_DAYS - diffDays));
+        return {
+          isPermanent: false,
+          isArchived: false,
+          daysLeft: daysLeftToOpen,
+          label: `👀 ${daysLeftToOpen}일 내 미열람 시 삭제`,
+          cssClass: 'badge-countdown',
+          shouldPrune: false
+        };
+      }
+
+      const daysLeft = Math.max(1, Math.ceil(HARD_CAP_DAYS - diffDays));
       return {
         isPermanent: false,
         isArchived: false,
@@ -2124,7 +2149,7 @@
       }
       const combined = [...builtIn, ...liveArticles];
 
-      // Step 1: Filter out 7-day expired unarchived news
+      // Step 1: Filter out expired unarchived news (7주 초과, 또는 7일간 미열람)
       const activeArticles = combined.filter(art => {
         const ret = checkArticleRetention(art);
         return !ret.shouldPrune;
@@ -2534,9 +2559,16 @@
     }
 
     // READER VIEW
+    function markArticleViewed(articleId) {
+      if (!articleId || viewedArticleIds.includes(articleId)) return;
+      viewedArticleIds.push(articleId);
+      localStorage.setItem('readpulse_viewed_ids', JSON.stringify(viewedArticleIds));
+    }
+
     function openReader(articleId) {
       currentArticle = allArticles.find(a => a.id === articleId);
       if (!currentArticle) return;
+      markArticleViewed(articleId);
 
       document.getElementById('readerTitle').innerText = currentArticle.title;
       document.getElementById('readerSubtitle').innerText = currentArticle.subtitle || '';
