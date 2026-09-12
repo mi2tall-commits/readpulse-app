@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_2636062316786271951",
+    "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+    "subtitle": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-12",
+    "addedAt": "2026-09-12T02:47:40Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 127,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPlayStation gambles with 18-rated Wolverine game - will it pay off?Image source, Sony/MarvelByTom GerkenTechnology reporterPublished1 hour agoOn Tuesday, Sony will release Marvel&#x27;s Wolverine - the biggest game exclusive to the PlayStation 5 this year.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPlayStation gambles with 18-rated Wolverine game - will it pay off?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPlayStation gambles with 18-rated Wolverine game - will it pay off?"
+          },
+          {
+            "en": "Image source, Sony/MarvelByTom GerkenTechnology reporterPublished1 hour agoOn Tuesday, Sony will release Marvel&#x27;s Wolverine - the biggest game exclusive to the PlayStation 5 this year.",
+            "ko": "실시간 보도 번역: Image source, Sony/MarvelByTom GerkenTechnology reporterPublished1 hour agoOn Tuesday, Sony will release Marvel&#x27;s Wolverine - the biggest game exclusive to the PlayStation 5 this year."
+          }
+        ]
+      },
+      {
+        "en": "It&#x27;s made by Insomniac, the studio responsible for the recent Spider-Man titles, which have sold 50 million copies in recent years.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It&#x27;s made by Insomniac, the studio responsible for the recent Spider-Man titles, which have sold 50 million copies in recent years.",
+            "ko": "실시간 보도 번역: It&#x27;s made by Insomniac, the studio responsible for the recent Spider-Man titles, which have sold 50 million copies in recent years."
+          }
+        ]
+      },
+      {
+        "en": "But unlike the friendly neighbourhood superhero, Wolverine has a Pegi-18 rating in the UK, meaning a child cannot legally buy the game, and it contains considerable levels of blood, gore and violence.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "But unlike the friendly neighbourhood superhero, Wolverine has a Pegi-18 rating in the UK, meaning a child cannot legally buy the game, and it contains considerable levels of blood, gore and violence.",
+            "ko": "실시간 보도 번역: But unlike the friendly neighbourhood superhero, Wolverine has a Pegi-18 rating in the UK, meaning a child cannot legally buy the game, and it contains considerable levels of blood, gore and violence."
+          }
+        ]
+      },
+      {
+        "en": "It represents a gamble for the studio responsible for some of Sony&#x27;s biggest hits - will it turn out to have been worth it?",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It represents a gamble for the studio responsible for some of Sony&#x27;s biggest hits - will it turn out to have been worth it?",
+            "ko": "실시간 보도 번역: It represents a gamble for the studio responsible for some of Sony&#x27;s biggest hits - will it turn out to have been worth it?"
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1804389437797559704",
     "title": "Does this AI comic make you laugh?",
     "subtitle": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?...",
@@ -326,6 +407,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_951195284403363986",
+    "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
+    "subtitle": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales....",
+    "speaker": "BBC Science",
+    "date": "2026-09-11",
+    "addedAt": "2026-09-12T02:47:41Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 138,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsBattle to save the tiny, gooey snail only found in one lake in the UKImage source, Dudley ZooImage caption, The glutinous snail was once widespread in the UK, but is now only found in one Welsh lake",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsBattle to save the tiny, gooey snail only found in one lake in the UKImage source, Dudley ZooImage caption, The glutinous snail was once widespread in the UK, but is now only found in one Welsh lake",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsBattle to save the tiny, gooey snail only found in one lake in the UKImage source, Dudley ZooImage caption, The glutinous snail was once widespread in the UK, but is now only found in one Welsh lake"
+          }
+        ]
+      },
+      {
+        "en": "A tiny snail found in only one lake in the UK has been dubbed as precious as an Egyptian artefact as conservationists bid to save it.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "A tiny snail found in only one lake in the UK has been dubbed as precious as an Egyptian artefact as conservationists bid to save it.",
+            "ko": "실시간 보도 번역: A tiny snail found in only one lake in the UK has been dubbed as precious as an Egyptian artefact as conservationists bid to save it."
+          }
+        ]
+      },
+      {
+        "en": "Several British zoos are setting up so-called ark populations of the glutinous snail, one of Europe&#x27;s rarest species, using creatures bred in a back garden in Ceredigion.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Several British zoos are setting up so-called ark populations of the glutinous snail, one of Europe&#x27;s rarest species, using creatures bred in a back garden in Ceredigion.",
+            "ko": "실시간 보도 번역: Several British zoos are setting up so-called ark populations of the glutinous snail, one of Europe&#x27;s rarest species, using creatures bred in a back garden in Ceredigion."
+          }
+        ]
+      },
+      {
+        "en": "&quot;Beguiled by their cuteness,&quot; conservationist Ian Hughes has made it his &quot;life-defining&quot; mission to protect the threatened mollusc, which was once widespread in UK waters.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;Beguiled by their cuteness,&quot; conservationist Ian Hughes has made it his &quot;life-defining&quot; mission to protect the threatened mollusc, which was once widespread in UK waters.",
+            "ko": "실시간 보도 번역: &quot;Beguiled by their cuteness,&quot; conservationist Ian Hughes has made it his &quot;life-defining&quot; mission to protect the threatened mollusc, which was once widespread in UK waters."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Battle to save the tiny, gooey snail only found in one lake in the UK",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Battle to save the tiny, gooey snail only found in one lake in the UK",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_8111644958876222286",
     "title": "Sheen says he was snubbed by FM over pollution claims",
     "subtitle": "The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe....",
@@ -639,6 +797,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_8573213645443955560",
+    "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+    "subtitle": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\"....",
+    "speaker": "BBC Business",
+    "date": "2026-09-11",
+    "addedAt": "2026-09-12T02:47:42Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 157,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRyanair boss O&#x27;Leary defends &#x27;high-fare rapists&#x27; airlines remarksImage source, Getty ImagesByKaty Austin, Transport correspondent and Mitchell Labiak, Business reporterPublished11 September 2026Ryanair chief executive Michael O&#x27;Leary has refused to apologise to a rape crisis centre which criticised him for describing rival airlines as &quot;high-fare rapists&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRyanair boss O&#x27;Leary defends &#x27;high-fare rapists&#x27; airlines remarksImage source, Getty ImagesByKaty Austin, Transport correspondent and Mitchell Labiak, Business reporterPublished11 September 2026Ryanair chief executive Michael O&#x27;Leary has refused to apologise to a rape crisis centre which criticised him for describing rival airlines as &quot;high-fare rapists&quot;.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRyanair boss O&#x27;Leary defends &#x27;high-fare rapists&#x27; airlines remarksImage source, Getty ImagesByKaty Austin, Transport correspondent and Mitchell Labiak, Business reporterPublished11 September 2026Ryanair chief executive Michael O&#x27;Leary has refused to apologise to a rape crisis centre which criticised him for describing rival airlines as &quot;high-fare rapists&quot;."
+          }
+        ]
+      },
+      {
+        "en": "Speaking to journalists, O&#x27;Leary said some people were &quot;desperate to get to Ryanair&#x27;s low fares because they can&#x27;t afford to fly with the high-fare rapists around Europe&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Speaking to journalists, O&#x27;Leary said some people were &quot;desperate to get to Ryanair&#x27;s low fares because they can&#x27;t afford to fly with the high-fare rapists around Europe&quot;.",
+            "ko": "실시간 보도 번역: Speaking to journalists, O&#x27;Leary said some people were &quot;desperate to get to Ryanair&#x27;s low fares because they can&#x27;t afford to fly with the high-fare rapists around Europe&quot;."
+          }
+        ]
+      },
+      {
+        "en": "O&#x27;Leary doubled-down on his choice of words when asked about them at the time, and later refused to apologise when the Dublin Rape Crisis Centre (DRCC) wrote to him asking for apology, in a letter seen by the BBC.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "O&#x27;Leary doubled-down on his choice of words when asked about them at the time, and later refused to apologise when the Dublin Rape Crisis Centre (DRCC) wrote to him asking for apology, in a letter seen by the BBC.",
+            "ko": "실시간 보도 번역: O&#x27;Leary doubled-down on his choice of words when asked about them at the time, and later refused to apologise when the Dublin Rape Crisis Centre (DRCC) wrote to him asking for apology, in a letter seen by the BBC."
+          }
+        ]
+      },
+      {
+        "en": "Ireland&#x27;s deputy premier Simon Harris said it was &quot;clearly an inappropriate use of language&quot; and that O&#x27;Leary &quot;should have moved to rectify it&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Ireland&#x27;s deputy premier Simon Harris said it was &quot;clearly an inappropriate use of language&quot; and that O&#x27;Leary &quot;should have moved to rectify it&quot;.",
+            "ko": "실시간 보도 번역: Ireland&#x27;s deputy premier Simon Harris said it was &quot;clearly an inappropriate use of language&quot; and that O&#x27;Leary &quot;should have moved to rectify it&quot;."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_4258401901848372887",
     "title": "AI boom helps drive surprise UK growth in July",
     "subtitle": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth....",
@@ -910,6 +1145,85 @@ const READPULSE_ARTICLES = [
         "explanation": "EUV lithography carves nanoscale circuits thinner than human DNA onto semiconductor wafers."
       }
     ]
+  },
+  {
+    "id": "auto_sports_7176955704714194314",
+    "title": "Zverev through to third Grand Slam final in a row",
+    "subtitle": "Alexander Zverev beats Karen Khachanov at the US Open to reach a third Grand Slam final in a row and continue his bid for a second...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-11",
+    "addedAt": "2026-09-12T02:47:43Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 128,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev through to third Grand Slam final in a rowImage source, Getty ImagesImage caption, Alexander Zverev is into his second US Open final",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev through to third Grand Slam final in a rowImage source, Getty ImagesImage caption, Alexander Zverev is into his second US Open final",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev through to third Grand Slam final in a rowImage source, Getty ImagesImage caption, Alexander Zverev is into his second US Open final"
+          }
+        ]
+      },
+      {
+        "en": "Alexander Zverev beat Karen Khachanov at the US Open to reach a third Grand Slam final in a row and continue his bid for a second major of the year.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Alexander Zverev beat Karen Khachanov at the US Open to reach a third Grand Slam final in a row and continue his bid for a second major of the year.",
+            "ko": "실시간 보도 번역: Alexander Zverev beat Karen Khachanov at the US Open to reach a third Grand Slam final in a row and continue his bid for a second major of the year."
+          }
+        ]
+      },
+      {
+        "en": "The top seed put in a commanding performance to beat the Russian 6-3 7-6 (9-7) 7-6 (8-6).",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The top seed put in a commanding performance to beat the Russian 6-3 7-6 (9-7) 7-6 (8-6).",
+            "ko": "실시간 보도 번역: The top seed put in a commanding performance to beat the Russian 6-3 7-6 (9-7) 7-6 (8-6)."
+          }
+        ]
+      },
+      {
+        "en": "Germany&#x27;s Zverev is the favourite in New York after ending his long wait for a Grand Slam title with his French Open triumph in June.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Germany&#x27;s Zverev is the favourite in New York after ending his long wait for a Grand Slam title with his French Open triumph in June.",
+            "ko": "실시간 보도 번역: Germany&#x27;s Zverev is the favourite in New York after ending his long wait for a Grand Slam title with his French Open triumph in June."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Zverev through to third Grand Slam final in a row",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Zverev through to third Grand Slam final in a row",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_2134211709681444648",
@@ -1387,6 +1701,85 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_sports_5773041071458961252",
+    "title": "Like Benzema &amp; as good as Haaland - Alonso on Joao Pedro",
+    "subtitle": "Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and...",
+    "speaker": "BBC Premier League",
+    "date": "2026-09-11",
+    "addedAt": "2026-09-12T02:47:44Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 176,
+    "keywords": [
+      "#프리미어리그",
+      "#해외축구",
+      "#EPL속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsChelseaScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I? QuizAsk Me AnythingLike Benzema &amp; as good as Haaland - Alonso on Joao PedroImage source, Getty ImagesImage caption, Joao Pedro has scored 25 goals since joining Chelsea at the beginning of last season, including one in a Club World Cup final success",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsChelseaScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsChelseaScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I?"
+          }
+        ]
+      },
+      {
+        "en": "Football reporter at Cobham Training CentrePublished5 hours agoXabi Alonso says Chelsea striker Joao Pedro is similar in style to his former Real Madrid team-mate Karim Benzema - and at a comparable level to Manchester City&#x27;s Erling Haaland.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Football reporter at Cobham Training CentrePublished5 hours agoXabi Alonso says Chelsea striker Joao Pedro is similar in style to his former Real Madrid team-mate Karim Benzema - and at a comparable level to Manchester City&#x27;s Erling Haaland.",
+            "ko": "실시간 보도 번역: Football reporter at Cobham Training CentrePublished5 hours agoXabi Alonso says Chelsea striker Joao Pedro is similar in style to his former Real Madrid team-mate Karim Benzema - and at a comparable level to Manchester City&#x27;s Erling Haaland."
+          }
+        ]
+      },
+      {
+        "en": "The Brazil international, 24, has scored twice and provided two assists in his first three games of the season - and was named the Premier League&#x27;s Player of the Month on Friday.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The Brazil international, 24, has scored twice and provided two assists in his first three games of the season - and was named the Premier League&#x27;s Player of the Month on Friday.",
+            "ko": "실시간 보도 번역: The Brazil international, 24, has scored twice and provided two assists in his first three games of the season - and was named the Premier League&#x27;s Player of the Month on Friday."
+          }
+        ]
+      },
+      {
+        "en": "It was the first time Joao Pedro has won the award as he finished ahead of team-mate Cole Palmer, who was Chelsea&#x27;s previous recipient in September 2024.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It was the first time Joao Pedro has won the award as he finished ahead of team-mate Cole Palmer, who was Chelsea&#x27;s previous recipient in September 2024.",
+            "ko": "실시간 보도 번역: It was the first time Joao Pedro has won the award as he finished ahead of team-mate Cole Palmer, who was Chelsea&#x27;s previous recipient in September 2024."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Like Benzema &amp; as good as Haaland - Alonso on Joao Pedro",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Like Benzema &amp; as good as Haaland - Alonso on Joao Pedro",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "premier_league",
+    "sportPriority": 3
+  },
+  {
     "id": "auto_sports_2931957093095448949",
     "title": "Hall signs new contract with Newcastle until 2031",
     "subtitle": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031....",
@@ -1662,69 +2055,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_sports_8426075870901445453",
-    "title": "Pacesetter Russell says Madrid 'has less margin than Monaco'",
-    "subtitle": "George Russell goes quickest in first practice for the Spanish Grand Prix - hours after saying the circuit has little margin for e...",
-    "speaker": "BBC Sports",
+    "id": "auto_culture_3804402130661019030",
+    "title": "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
+    "subtitle": "The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly....",
+    "speaker": "BBC Arts",
     "date": "2026-09-11",
-    "addedAt": "2026-09-11T15:44:24Z",
-    "category": "sports",
+    "addedAt": "2026-09-12T02:47:45Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 135,
+    "wordCount": 123,
     "keywords": [
-      "#글로벌스포츠",
-      "#스포츠소식"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsFormula 1LatestResultsStandingsCalendarTeams &amp; DriversSend us a questionPacesetter Russell says Madrid &#x27;has less margin than Monaco&#x27;Image source, Getty ImagesImage caption, George Russell trails team-mate Kimi Antonelli by 66 points in the drivers&#x27; championship",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStacey Solomon and Alesha Dixon to host The Voice UK in ITV revampImage source, Getty ImagesImage caption, Solomon and Dixon will replace Emma Willis, who is leaving The Voice to front Strictly Come Dancing",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsFormula 1LatestResultsStandingsCalendarTeams &amp; DriversSend us a questionPacesetter Russell says Madrid &#x27;has less margin than Monaco&#x27;Image source, Getty ImagesImage caption, George Russell trails team-mate Kimi Antonelli by 66 points in the drivers&#x27; championship",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsFormula 1LatestResultsStandingsCalendarTeams &amp; DriversSend us a questionPacesetter Russell says Madrid &#x27;has less margin than Monaco&#x27;Image source, Getty ImagesImage caption, George Russell trails team-mate Kimi Antonelli by 66 points in the drivers&#x27; championship"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStacey Solomon and Alesha Dixon to host The Voice UK in ITV revampImage source, Getty ImagesImage caption, Solomon and Dixon will replace Emma Willis, who is leaving The Voice to front Strictly Come Dancing",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStacey Solomon and Alesha Dixon to host The Voice UK in ITV revampImage source, Getty ImagesImage caption, Solomon and Dixon will replace Emma Willis, who is leaving The Voice to front Strictly Come Dancing"
           }
         ]
       },
       {
-        "en": "F1 Correspondent in MadridPublished2 hours agoGeorge Russell says Formula 1&#x27;s new circuit in Madrid &quot;has less margin than Monaco&quot; as the sport races there for the first time at the Spanish Grand Prix.",
+        "en": "Alesha Dixon and Stacey Solomon are to host The Voice UK as part of a revamp of the show announced by ITV.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "F1 Correspondent in MadridPublished2 hours agoGeorge Russell says Formula 1&#x27;s new circuit in Madrid &quot;has less margin than Monaco&quot; as the sport races there for the first time at the Spanish Grand Prix.",
-            "ko": "실시간 보도 번역: F1 Correspondent in MadridPublished2 hours agoGeorge Russell says Formula 1&#x27;s new circuit in Madrid &quot;has less margin than Monaco&quot; as the sport races there for the first time at the Spanish Grand Prix."
+            "en": "Alesha Dixon and Stacey Solomon are to host The Voice UK as part of a revamp of the show announced by ITV.",
+            "ko": "실시간 보도 번역: Alesha Dixon and Stacey Solomon are to host The Voice UK as part of a revamp of the show announced by ITV."
           }
         ]
       },
       {
-        "en": "The Mercedes driver set the pace in first practice at the Madring - a street-circuit style track built around an exhibition centre near the Spanish capital&#x27;s airport.",
+        "en": "The pair replace Emma Willis, who has presented the singing contest since 2014 but recently left to front the BBC&#x27;s Strictly Come Dancing.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Mercedes driver set the pace in first practice at the Madring - a street-circuit style track built around an exhibition centre near the Spanish capital&#x27;s airport.",
-            "ko": "실시간 보도 번역: The Mercedes driver set the pace in first practice at the Madring - a street-circuit style track built around an exhibition centre near the Spanish capital&#x27;s airport."
+            "en": "The pair replace Emma Willis, who has presented the singing contest since 2014 but recently left to front the BBC&#x27;s Strictly Come Dancing.",
+            "ko": "실시간 보도 번역: The pair replace Emma Willis, who has presented the singing contest since 2014 but recently left to front the BBC&#x27;s Strictly Come Dancing."
           }
         ]
       },
       {
-        "en": "Russell was 0.286 seconds faster than team-mate Kimi Antonelli in second place.",
+        "en": "ITV also confirmed earlier reports that singer Cheryl and rapper Aitch will join the The Voice as coaches, sitting in the show&#x27;s famous giant red chairs.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Russell was 0.",
-            "ko": "실시간 보도 번역: Russell was 0."
-          },
-          {
-            "en": "286 seconds faster than team-mate Kimi Antonelli in second place.",
-            "ko": "실시간 보도 번역: 286 seconds faster than team-mate Kimi Antonelli in second place."
+            "en": "ITV also confirmed earlier reports that singer Cheryl and rapper Aitch will join the The Voice as coaches, sitting in the show&#x27;s famous giant red chairs.",
+            "ko": "실시간 보도 번역: ITV also confirmed earlier reports that singer Cheryl and rapper Aitch will join the The Voice as coaches, sitting in the show&#x27;s famous giant red chairs."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Pacesetter Russell says Madrid 'has less margin than Monaco'",
+      "글로벌 최신 소식: Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1732,112 +2122,12 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Pacesetter Russell says Madrid 'has less margin than Monaco'",
+          "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "other",
-    "sportPriority": 4
-  },
-  {
-    "id": "sports_f1_01",
-    "title": "F1 Italian Grand Prix 2026: 19-Year-Old Kimi Antonelli Takes Historic Win at Monza",
-    "subtitle": "Starting from nineteenth on the grid, the Italian Mercedes driver charges through the field to win his home race.",
-    "speaker": "Formula 1 Official (Monza)",
-    "sourceName": "포뮬러 1 공식 경기 결과 (formula1.com)",
-    "sourceUrl": "https://www.formula1.com/",
-    "factChecked": true,
-    "factCheckNotes": "2026년 9월 6일 몬차 이탈리아 GP에서 19세 키미 안토넬리(메르세데스)가 19그리드에서 출발해 1966년 이후 최초로 이탈리아인 홈 우승 달성 실측 확인",
-    "date": "2026-09-06",
-    "category": "sports",
-    "sportSubcat": "other",
-    "sportPriority": 4,
-    "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 158,
-    "keywords": [
-      "#F1",
-      "#안토넬리",
-      "#몬차우승",
-      "#이탈리아GP"
-    ],
-    "addedAt": "2026-09-06T21:00:00Z",
-    "paragraphs": [
-      {
-        "en": "The 2026 Italian Grand Prix at Monza produced one of the most remarkable upset victories in Formula 1 history. Nineteen-year-old Italian driver Kimi Antonelli, racing for Mercedes, started the race all the way back in nineteenth position. Driving with fearless speed on the Temple of Speed, Antonelli overtook rival cars one by one.",
-        "ko": "몬차에서 열린 2026 포뮬러 1 이탈리아 그랑프리는 F1 역사상 가장 놀라운 역전 우승 드라마 중 하나를 탄생시켰습니다. 메르세데스 소속의 19세 이탈리아 신성 키미 안토넬리는 무려 19번 그리드 맨 뒤쪽에서 출발했습니다. '속도의 신전' 몬차 서킷에서 두려움 없는 질주를 펼친 안토넬리는 라이벌 머신들을 하나씩 추월해 나갔습니다.",
-        "sentences": [
-          {
-            "en": "The 2026 Italian Grand Prix at Monza produced one of the most remarkable upset victories in Formula 1 history.",
-            "ko": "2026 F1 이탈리아 그랑프리에서 역사적인 대역전 우승이 탄생했습니다."
-          },
-          {
-            "en": "Nineteen-year-old Italian driver Kimi Antonelli, racing for Mercedes, started the race all the way back in nineteenth position.",
-            "ko": "메르세데스의 19세 이탈리아인 키미 안토넬리는 19번 그리드에서 출발했습니다."
-          },
-          {
-            "en": "Driving with fearless speed on the Temple of Speed, Antonelli overtook rival cars one by one.",
-            "ko": "'속도의 신전'에서 두려움 없는 속도로 앞차들을 하나씩 추월했습니다."
-          }
-        ]
-      },
-      {
-        "en": "The historic race saw early drama when Ferrari's Charles Leclerc crashed out on the second lap. Mercedes executed a brilliant tire pit strategy, allowing Antonelli and teammate George Russell to gain crucial track position. Antonelli held off a late challenge from Red Bull's Max Verstappen to take the checkered flag.",
-        "ko": "이번 역사적인 레이스는 경기 2랩 만에 페라리의 샤를 르클레르가 충돌 사고로 조기 리타이어하며 큰 충격을 안겼습니다. 메르세데스 팀은 환상적인 타이어 피트스톱 전략을 구사하여 안토넬리와 팀 동료 조지 러셀이 상위권 트랙 포지션을 확보하도록 도왔습니다. 안토넬리는 경기 후반 레드불의 막스 베르스타펜의 거센 추격을 뿌리치고 체커기를 받았습니다.",
-        "sentences": [
-          {
-            "en": "The historic race saw early drama when Ferrari's Charles Leclerc crashed out on the second lap.",
-            "ko": "페라리의 르클레르가 2랩 만에 충돌로 탈락하는 대이변이 있었습니다."
-          },
-          {
-            "en": "Mercedes executed a brilliant tire pit strategy, allowing Antonelli and teammate George Russell to gain crucial track position.",
-            "ko": "메르세데스는 완벽한 타이어 전략으로 상위권 순위를 장악했습니다."
-          },
-          {
-            "en": "Antonelli held off a late challenge from Red Bull's Max Verstappen to take the checkered flag.",
-            "ko": "안토넬리는 막스 베르스타펜의 추격을 막아내며 가장 먼저 결승선을 통과했습니다."
-          }
-        ]
-      },
-      {
-        "en": "With this victory, Antonelli becomes the first Italian driver to win his home Grand Prix since Ludovico Scarfiotti won in 1966. Over one hundred thousand fans flooded the track in Monza, waving flags and singing in pure joy. The young rookie proved that talent, brave driving, and smart team strategy can create pure sports magic.",
-        "ko": "이번 우승으로 안토넬리는 1966년 루도비코 스카르피오티 이후 무려 60년 만에 홈 그랑프리에서 우승한 최초의 이탈리아 드라이버가 되었습니다. 10만 명이 넘는 관중들이 몬차 트랙으로 쏟아져 나와 깃발을 흔들며 기쁨의 노래를 불렀습니다. 이 젊은 루키는 뛰어난 재능과 용감한 드라이빙, 영리한 팀 전략이 모여 마법 같은 스포츠 드라마를 만든다는 것을 증명했습니다.",
-        "sentences": [
-          {
-            "en": "With this victory, Antonelli becomes the first Italian driver to win his home Grand Prix since Ludovico Scarfiotti won in 1966.",
-            "ko": "안토넬리는 1966년 이후 60년 만에 홈 그랑프리를 제패한 이탈리아인이 되었습니다."
-          },
-          {
-            "en": "Over one hundred thousand fans flooded the track in Monza, waving flags and singing in pure joy.",
-            "ko": "10만 명의 팬들이 트랙으로 쏟아져 나와 기쁨의 환호성을 질렀습니다."
-          },
-          {
-            "en": "The young rookie proved that talent, brave driving, and smart team strategy can create pure sports magic.",
-            "ko": "어린 루키는 용기 있는 질주와 팀 전략이 스포츠의 기적을 만든다는 것을 보여주었습니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "19세 이탈리아 드라이버 키미 안토넬리(메르세데스)가 19그리드에서 출발해 몬차 이탈리아 GP에서 기적의 우승을 거두었습니다.",
-      "1966년 이후 60년 만에 홈 그랑프리를 제패한 최초의 이탈리아인으로 F1 역사에 이름을 새겼습니다.",
-      "메르세데스는 러셀과 함께 1-2 피니시를 달성했으며, 베르스타펜이 3위로 포디움에 올랐습니다."
-    ],
-    "quiz": [
-      {
-        "question": "What historic record did Kimi Antonelli achieve at the 2026 Italian Grand Prix?",
-        "options": [
-          "He became the first Italian driver to win his home race since 1966.",
-          "He drove the entire race backwards in reverse gear.",
-          "He changed all four tires by himself while driving at top speed."
-        ],
-        "answer": 0,
-        "explanation": "Antonelli became the first Italian driver since Ludovico Scarfiotti in 1966 to win the Italian Grand Prix."
       }
     ]
   },
