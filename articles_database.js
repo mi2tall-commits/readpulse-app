@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_5662687317051047111",
+    "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+    "subtitle": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-12",
+    "addedAt": "2026-09-12T14:52:24Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 129,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPlayStation gambles with 18-rated Wolverine game - will it pay off?Image source, Sony/MarvelByTom GerkenTechnology reporterPublished12 September 2026, 01:35 BSTOn Tuesday, Sony will release Marvel&#x27;s Wolverine - the biggest game exclusive to the PlayStation 5 this year.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPlayStation gambles with 18-rated Wolverine game - will it pay off?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPlayStation gambles with 18-rated Wolverine game - will it pay off?"
+          },
+          {
+            "en": "Image source, Sony/MarvelByTom GerkenTechnology reporterPublished12 September 2026, 01:35 BSTOn Tuesday, Sony will release Marvel&#x27;s Wolverine - the biggest game exclusive to the PlayStation 5 this year.",
+            "ko": "실시간 보도 번역: Image source, Sony/MarvelByTom GerkenTechnology reporterPublished12 September 2026, 01:35 BSTOn Tuesday, Sony will release Marvel&#x27;s Wolverine - the biggest game exclusive to the PlayStation 5 this year."
+          }
+        ]
+      },
+      {
+        "en": "It&#x27;s made by Insomniac, the studio responsible for the recent Spider-Man titles, which have sold 50 million copies in recent years.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It&#x27;s made by Insomniac, the studio responsible for the recent Spider-Man titles, which have sold 50 million copies in recent years.",
+            "ko": "실시간 보도 번역: It&#x27;s made by Insomniac, the studio responsible for the recent Spider-Man titles, which have sold 50 million copies in recent years."
+          }
+        ]
+      },
+      {
+        "en": "But unlike the friendly neighbourhood superhero, Wolverine has a Pegi-18 rating in the UK, meaning a child cannot legally buy the game, and it contains considerable levels of blood, gore and violence.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "But unlike the friendly neighbourhood superhero, Wolverine has a Pegi-18 rating in the UK, meaning a child cannot legally buy the game, and it contains considerable levels of blood, gore and violence.",
+            "ko": "실시간 보도 번역: But unlike the friendly neighbourhood superhero, Wolverine has a Pegi-18 rating in the UK, meaning a child cannot legally buy the game, and it contains considerable levels of blood, gore and violence."
+          }
+        ]
+      },
+      {
+        "en": "It represents a gamble for the studio responsible for some of Sony&#x27;s biggest hits - will it turn out to have been worth it?",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It represents a gamble for the studio responsible for some of Sony&#x27;s biggest hits - will it turn out to have been worth it?",
+            "ko": "실시간 보도 번역: It represents a gamble for the studio responsible for some of Sony&#x27;s biggest hits - will it turn out to have been worth it?"
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_2636062316786271951",
     "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
     "subtitle": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac....",
@@ -407,6 +488,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_1050572806143463747",
+    "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
+    "subtitle": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales....",
+    "speaker": "BBC Science",
+    "date": "2026-09-12",
+    "addedAt": "2026-09-12T14:52:25Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 138,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsBattle to save the tiny, gooey snail only found in one lake in the UKImage source, Dudley ZooImage caption, The glutinous snail was once widespread in the UK, but is now only found in one Welsh lake",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsBattle to save the tiny, gooey snail only found in one lake in the UKImage source, Dudley ZooImage caption, The glutinous snail was once widespread in the UK, but is now only found in one Welsh lake",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsBattle to save the tiny, gooey snail only found in one lake in the UKImage source, Dudley ZooImage caption, The glutinous snail was once widespread in the UK, but is now only found in one Welsh lake"
+          }
+        ]
+      },
+      {
+        "en": "A tiny snail found in only one lake in the UK has been dubbed as precious as an Egyptian artefact as conservationists bid to save it.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "A tiny snail found in only one lake in the UK has been dubbed as precious as an Egyptian artefact as conservationists bid to save it.",
+            "ko": "실시간 보도 번역: A tiny snail found in only one lake in the UK has been dubbed as precious as an Egyptian artefact as conservationists bid to save it."
+          }
+        ]
+      },
+      {
+        "en": "Several British zoos are setting up so-called ark populations of the glutinous snail, one of Europe&#x27;s rarest species, using creatures bred in a back garden in Ceredigion.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Several British zoos are setting up so-called ark populations of the glutinous snail, one of Europe&#x27;s rarest species, using creatures bred in a back garden in Ceredigion.",
+            "ko": "실시간 보도 번역: Several British zoos are setting up so-called ark populations of the glutinous snail, one of Europe&#x27;s rarest species, using creatures bred in a back garden in Ceredigion."
+          }
+        ]
+      },
+      {
+        "en": "&quot;Beguiled by their cuteness,&quot; conservationist Ian Hughes has made it his &quot;life-defining&quot; mission to protect the threatened mollusc, which was once widespread in UK waters.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;Beguiled by their cuteness,&quot; conservationist Ian Hughes has made it his &quot;life-defining&quot; mission to protect the threatened mollusc, which was once widespread in UK waters.",
+            "ko": "실시간 보도 번역: &quot;Beguiled by their cuteness,&quot; conservationist Ian Hughes has made it his &quot;life-defining&quot; mission to protect the threatened mollusc, which was once widespread in UK waters."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Battle to save the tiny, gooey snail only found in one lake in the UK",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Battle to save the tiny, gooey snail only found in one lake in the UK",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_951195284403363986",
     "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
     "subtitle": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales....",
@@ -797,6 +955,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_3344869893819325748",
+    "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+    "subtitle": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\"....",
+    "speaker": "BBC Business",
+    "date": "2026-09-11",
+    "addedAt": "2026-09-12T14:52:25Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 157,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRyanair boss O&#x27;Leary defends &#x27;high-fare rapists&#x27; airlines remarksImage source, Getty ImagesByKaty Austin, Transport correspondent and Mitchell Labiak, Business reporterPublished11 September 2026Ryanair chief executive Michael O&#x27;Leary has refused to apologise to a rape crisis centre which criticised him for describing rival airlines as &quot;high-fare rapists&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRyanair boss O&#x27;Leary defends &#x27;high-fare rapists&#x27; airlines remarksImage source, Getty ImagesByKaty Austin, Transport correspondent and Mitchell Labiak, Business reporterPublished11 September 2026Ryanair chief executive Michael O&#x27;Leary has refused to apologise to a rape crisis centre which criticised him for describing rival airlines as &quot;high-fare rapists&quot;.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRyanair boss O&#x27;Leary defends &#x27;high-fare rapists&#x27; airlines remarksImage source, Getty ImagesByKaty Austin, Transport correspondent and Mitchell Labiak, Business reporterPublished11 September 2026Ryanair chief executive Michael O&#x27;Leary has refused to apologise to a rape crisis centre which criticised him for describing rival airlines as &quot;high-fare rapists&quot;."
+          }
+        ]
+      },
+      {
+        "en": "Speaking to journalists, O&#x27;Leary said some people were &quot;desperate to get to Ryanair&#x27;s low fares because they can&#x27;t afford to fly with the high-fare rapists around Europe&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Speaking to journalists, O&#x27;Leary said some people were &quot;desperate to get to Ryanair&#x27;s low fares because they can&#x27;t afford to fly with the high-fare rapists around Europe&quot;.",
+            "ko": "실시간 보도 번역: Speaking to journalists, O&#x27;Leary said some people were &quot;desperate to get to Ryanair&#x27;s low fares because they can&#x27;t afford to fly with the high-fare rapists around Europe&quot;."
+          }
+        ]
+      },
+      {
+        "en": "O&#x27;Leary doubled-down on his choice of words when asked about them at the time, and later refused to apologise when the Dublin Rape Crisis Centre (DRCC) wrote to him asking for apology, in a letter seen by the BBC.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "O&#x27;Leary doubled-down on his choice of words when asked about them at the time, and later refused to apologise when the Dublin Rape Crisis Centre (DRCC) wrote to him asking for apology, in a letter seen by the BBC.",
+            "ko": "실시간 보도 번역: O&#x27;Leary doubled-down on his choice of words when asked about them at the time, and later refused to apologise when the Dublin Rape Crisis Centre (DRCC) wrote to him asking for apology, in a letter seen by the BBC."
+          }
+        ]
+      },
+      {
+        "en": "Ireland&#x27;s deputy premier Simon Harris said it was &quot;clearly an inappropriate use of language&quot; and that O&#x27;Leary &quot;should have moved to rectify it&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Ireland&#x27;s deputy premier Simon Harris said it was &quot;clearly an inappropriate use of language&quot; and that O&#x27;Leary &quot;should have moved to rectify it&quot;.",
+            "ko": "실시간 보도 번역: Ireland&#x27;s deputy premier Simon Harris said it was &quot;clearly an inappropriate use of language&quot; and that O&#x27;Leary &quot;should have moved to rectify it&quot;."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_8573213645443955560",
     "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
     "subtitle": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\"....",
@@ -1145,6 +1380,85 @@ const READPULSE_ARTICLES = [
         "explanation": "EUV lithography carves nanoscale circuits thinner than human DNA onto semiconductor wafers."
       }
     ]
+  },
+  {
+    "id": "auto_sports_7787322110728578405",
+    "title": "American Shelton to face Zverev in US Open final",
+    "subtitle": "Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final to earn a spot in Sunday's final against number one s...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-12",
+    "addedAt": "2026-09-12T14:52:26Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 151,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarAmerican Shelton to face Zverev in US Open finalImage source, Getty ImagesImage caption, Ben Shelton will appear in his first Grand Slam singles final on Sunday",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarAmerican Shelton to face Zverev in US Open finalImage source, Getty ImagesImage caption, Ben Shelton will appear in his first Grand Slam singles final on Sunday",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarAmerican Shelton to face Zverev in US Open finalImage source, Getty ImagesImage caption, Ben Shelton will appear in his first Grand Slam singles final on Sunday"
+          }
+        ]
+      },
+      {
+        "en": "Ben Shelton powered his way into the US Open final with an impressive four-set win over Frances Tiafoe in an epic all-American semi-final.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Ben Shelton powered his way into the US Open final with an impressive four-set win over Frances Tiafoe in an epic all-American semi-final.",
+            "ko": "실시간 보도 번역: Ben Shelton powered his way into the US Open final with an impressive four-set win over Frances Tiafoe in an epic all-American semi-final."
+          }
+        ]
+      },
+      {
+        "en": "Both players were bidding to reach their first Grand Slam final and put on a show for a raucous crowd on Arthur Ashe Stadium, with eighth seed Shelton coming from a set down to win 4-6 6-3 6-3 7-5.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Both players were bidding to reach their first Grand Slam final and put on a show for a raucous crowd on Arthur Ashe Stadium, with eighth seed Shelton coming from a set down to win 4-6 6-3 6-3 7-5.",
+            "ko": "실시간 보도 번역: Both players were bidding to reach their first Grand Slam final and put on a show for a raucous crowd on Arthur Ashe Stadium, with eighth seed Shelton coming from a set down to win 4-6 6-3 6-3 7-5."
+          }
+        ]
+      },
+      {
+        "en": "Neither American was overawed by the occasion and they lived up to their reputations as dazzling shot-makers but, after three hours and 17 minutes, it was Shelton who won through.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Neither American was overawed by the occasion and they lived up to their reputations as dazzling shot-makers but, after three hours and 17 minutes, it was Shelton who won through.",
+            "ko": "실시간 보도 번역: Neither American was overawed by the occasion and they lived up to their reputations as dazzling shot-makers but, after three hours and 17 minutes, it was Shelton who won through."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: American Shelton to face Zverev in US Open final",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "American Shelton to face Zverev in US Open final",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_7176955704714194314",
@@ -1701,6 +2015,89 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_sports_1927800823953715479",
+    "title": "New Man City signings desperate to win - Dias",
+    "subtitle": "Manchester City have brought in summer signings who are \"desperate to win\" and the whole squad is \"buying into the idea\" of new ma...",
+    "speaker": "BBC Premier League",
+    "date": "2026-09-12",
+    "addedAt": "2026-09-12T14:52:27Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 157,
+    "keywords": [
+      "#프리미어리그",
+      "#해외축구",
+      "#EPL속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsManchester CityScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I? QuizAsk Me AnythingNew Man City signings desperate to win - DiasTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsManchester CityScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsManchester CityScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I?"
+          },
+          {
+            "en": "QuizAsk Me AnythingNew Man City signings desperate to win - DiasTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: QuizAsk Me AnythingNew Man City signings desperate to win - DiasTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "Manchester City reporterPublished9 hours agoManchester City have brought in summer signings who are &quot;desperate to win&quot; and the whole squad is &quot;buying into the idea&quot; of new manager Enzo Maresca, says new captain Ruben Dias.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Manchester City reporterPublished9 hours agoManchester City have brought in summer signings who are &quot;desperate to win&quot; and the whole squad is &quot;buying into the idea&quot; of new manager Enzo Maresca, says new captain Ruben Dias.",
+            "ko": "실시간 보도 번역: Manchester City reporterPublished9 hours agoManchester City have brought in summer signings who are &quot;desperate to win&quot; and the whole squad is &quot;buying into the idea&quot; of new manager Enzo Maresca, says new captain Ruben Dias."
+          }
+        ]
+      },
+      {
+        "en": "City spent a Premier League record £458m during the recent transfer window, with incomings including midfield trio Enzo Fernandez, Elliot Anderson and Ayyoub Bouaddi.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "City spent a Premier League record £458m during the recent transfer window, with incomings including midfield trio Enzo Fernandez, Elliot Anderson and Ayyoub Bouaddi.",
+            "ko": "실시간 보도 번역: City spent a Premier League record £458m during the recent transfer window, with incomings including midfield trio Enzo Fernandez, Elliot Anderson and Ayyoub Bouaddi."
+          }
+        ]
+      },
+      {
+        "en": "But the club also recouped more than £300m in sales and lost the experience of players such as 2024 Ballon d&#x27;Or winner Rodri, former captain Bernardo Silva and England international John Stones.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "But the club also recouped more than £300m in sales and lost the experience of players such as 2024 Ballon d&#x27;Or winner Rodri, former captain Bernardo Silva and England international John Stones.",
+            "ko": "실시간 보도 번역: But the club also recouped more than £300m in sales and lost the experience of players such as 2024 Ballon d&#x27;Or winner Rodri, former captain Bernardo Silva and England international John Stones."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: New Man City signings desperate to win - Dias",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "New Man City signings desperate to win - Dias",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "premier_league",
+    "sportPriority": 3
+  },
+  {
     "id": "auto_sports_5773041071458961252",
     "title": "Like Benzema &amp; as good as Haaland - Alonso on Joao Pedro",
     "subtitle": "Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and...",
@@ -1859,198 +2256,79 @@ const READPULSE_ARTICLES = [
     "sportPriority": 3
   },
   {
-    "id": "sports_pl_01",
-    "title": "Premier League 2026/27: Manchester City and Arsenal Lead Early Title Race",
-    "subtitle": "Both clubs start the new campaign with three straight victories as Guardiola and Arteta renew their rivalry.",
-    "speaker": "Premier League Official & Sky Sports (London)",
-    "sourceName": "프리미어리그 공식 순위 (premierleague.com)",
-    "sourceUrl": "https://www.premierleague.com/",
-    "factChecked": true,
-    "factCheckNotes": "2026/27 시즌 개막 후 맨시티와 아스널 모두 3전 전승(승점 9점)으로 리그 선두권 형성 공식 확인",
-    "date": "2026-09-06",
-    "category": "sports",
-    "sportSubcat": "premier_league",
-    "sportPriority": 3,
+    "id": "auto_culture_5535281917219671350",
+    "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+    "subtitle": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-12",
+    "addedAt": "2026-09-12T14:52:29Z",
+    "category": "culture",
     "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
+    "level": "B2",
+    "readTime": "2 min",
     "wordCount": 149,
     "keywords": [
-      "#프리미어리그",
-      "#맨시티",
-      "#아스널",
-      "#개막3연승"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
-    "addedAt": "2026-09-06T21:00:00Z",
     "paragraphs": [
       {
-        "en": "The new 2026/27 English Premier League season is off to a fast and competitive start this September. Reigning champions Manchester City and fierce rivals Arsenal have both won their first three matches, earning a perfect nine points. Football analysts in the United Kingdom predict another tense title chase between the two powerhouse clubs.",
-        "ko": "새로운 2026/27 잉글랜드 프리미어리그 시즌이 이번 9월 빠르고 치열하게 시작되었습니다. 디펜딩 챔피언 맨체스터 시티와 강력한 라이벌 아스널 모두 개막 후 3경기를 전승으로 장식하며 승점 9점을 챙겼습니다. 영국의 축구 전문가들은 두 빅클럽 간에 다시 한번 팽팽한 우승 경쟁이 펼쳐질 것으로 전망합니다.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastFive minutes to steal a Renoir: Why museum thefts are becoming bolder across EuropeImage source, Reuters/Museum RenoirImage caption, The latest heist, at the Renoir museum in the south of France, saw thieves break in by cutting through a fence with an electric knife and hacksaw",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The new 2026/27 English Premier League season is off to a fast and competitive start this September.",
-            "ko": "새로운 2026/27 프리미어리그 시즌이 9월 시작부터 뜨겁게 달아오르고 있습니다."
-          },
-          {
-            "en": "Reigning champions Manchester City and fierce rivals Arsenal have both won their first three matches, earning a perfect nine points.",
-            "ko": "맨체스터 시티와 아스널 모두 개막 3연승으로 승점 9점 만점을 기록했습니다."
-          },
-          {
-            "en": "Football analysts in the United Kingdom predict another tense title chase between the two powerhouse clubs.",
-            "ko": "영국 축구 분석가들은 두 강팀의 치열한 우승 레이스를 전망하고 있습니다."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastFive minutes to steal a Renoir: Why museum thefts are becoming bolder across EuropeImage source, Reuters/Museum RenoirImage caption, The latest heist, at the Renoir museum in the south of France, saw thieves break in by cutting through a fence with an electric knife and hacksaw",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastFive minutes to steal a Renoir: Why museum thefts are becoming bolder across EuropeImage source, Reuters/Museum RenoirImage caption, The latest heist, at the Renoir museum in the south of France, saw thieves break in by cutting through a fence with an electric knife and hacksaw"
           }
         ]
       },
       {
-        "en": "Pep Guardiola's Manchester City relies on patient ball possession and clinical finishing inside the penalty box. Meanwhile, Mikel Arteta's Arsenal plays with aggressive pressing and quick wing attacks to break down opposing defenses. Both managers know each other's tactical systems well, making their upcoming head-to-head clashes deeply exciting.",
-        "ko": "펩 과르디올라 감독의 맨체스터 시티는 인내심 있는 볼 점유율과 페널티 박스 안에서의 날카로운 결정력에 집중합니다. 반면 미켈 아르테타 감독의 아스널은 강력한 전방 압박과 빠른 측면 돌파로 상대 수비를 무너뜨립니다. 두 감독은 서로의 전술 시스템을 훤히 꿰뚫고 있어 앞으로의 맞대결이 더욱 흥미진진합니다.",
+        "en": "When thieves broke into a French museum earlier this week and stole four paintings by the impressionist artist Pierre-Auguste Renoir, worth millions of euros, not everyone was surprised.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Pep Guardiola's Manchester City relies on patient ball possession and clinical finishing inside the penalty box.",
-            "ko": "맨체스터 시티는 침착한 볼 점유율과 날카로운 골 결정력을 활용합니다."
-          },
-          {
-            "en": "Meanwhile, Mikel Arteta's Arsenal plays with aggressive pressing and quick wing attacks to break down opposing defenses.",
-            "ko": "아스널은 강한 전방 압박과 빠른 측면 공격으로 상대를 흔듭니다."
-          },
-          {
-            "en": "Both managers know each other's tactical systems well, making their upcoming head-to-head clashes deeply exciting.",
-            "ko": "두 감독 모두 서로의 전술을 잘 알고 있어 맞대결에 큰 관심이 쏠립니다."
+            "en": "When thieves broke into a French museum earlier this week and stole four paintings by the impressionist artist Pierre-Auguste Renoir, worth millions of euros, not everyone was surprised.",
+            "ko": "실시간 보도 번역: When thieves broke into a French museum earlier this week and stole four paintings by the impressionist artist Pierre-Auguste Renoir, worth millions of euros, not everyone was surprised."
           }
         ]
       },
       {
-        "en": "Every point won in September can make the difference between lifting the trophy or finishing second in May. Squad depth will be tested soon as European Champions League group matches begin alongside domestic league games. Supporters across England are thrilled to see world-class football return to sold-out stadiums.",
-        "ko": "9월에 획득하는 승점 1점은 내년 5월에 우승 트로피를 들어 올리느냐 2위에 머무느냐를 가르는 결정적 차이가 될 수 있습니다. 유럽 챔피언스리그 조별리그 경기가 리그 경기와 병행되기 시작하면 선수층의 깊이가 시험대에 오를 것입니다. 잉글랜드 전역의 축구 팬들은 만원 관중 속에서 펼쳐지는 세계 정상급 축구에 열광하고 있습니다.",
+        "en": "Just last month, the European policing agency (Europol) had warned that museum thefts across Europe were growing increasingly brazen.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Every point won in September can make the difference between lifting the trophy or finishing second in May.",
-            "ko": "9월에 따낸 승점 하나가 시즌 우승과 준우승을 가를 수 있습니다."
-          },
+            "en": "Just last month, the European policing agency (Europol) had warned that museum thefts across Europe were growing increasingly brazen.",
+            "ko": "실시간 보도 번역: Just last month, the European policing agency (Europol) had warned that museum thefts across Europe were growing increasingly brazen."
+          }
+        ]
+      },
+      {
+        "en": "And just days before the Renoir heist, internationally known art detective Arthur Brand predicted to the BBC that more high-profile burglaries were likely - particularly in the wake of the successful robbery at the Louvre in Paris last October.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
           {
-            "en": "Squad depth will be tested soon as European Champions League group matches begin alongside domestic league games.",
-            "ko": "챔피언스리그 일정이 겹치면서 선수층의 깊이가 본격 시험대에 오릅니다."
-          },
-          {
-            "en": "Supporters across England are thrilled to see world-class football return to sold-out stadiums.",
-            "ko": "팬들은 매진된 경기장에서 세계 최고 수준의 축구를 즐기고 있습니다."
+            "en": "And just days before the Renoir heist, internationally known art detective Arthur Brand predicted to the BBC that more high-profile burglaries were likely - particularly in the wake of the successful robbery at the Louvre in Paris last October.",
+            "ko": "실시간 보도 번역: And just days before the Renoir heist, internationally known art detective Arthur Brand predicted to the BBC that more high-profile burglaries were likely - particularly in the wake of the successful robbery at the Louvre in Paris last October."
           }
         ]
       }
     ],
     "takeaways": [
-      "2026/27 프리미어리그 개막 초반 맨시티와 아스널이 나란히 3연승(승점 9점)을 달리며 선두권을 형성했습니다.",
-      "과르디올라의 점유율 축구와 아르테타의 강력한 전방 압박 전술이 다시 한번 정면 격돌합니다.",
-      "유럽 챔피언스리그 경기 일정이 시작됨에 따라 로테이션과 스쿼드 깊이가 중요한 변수가 됩니다."
+      "글로벌 최신 소식: Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
     "quiz": [
       {
-        "question": "How many matches did Manchester City and Arsenal win to open their 2026/27 Premier League seasons?",
+        "question": "What is the primary topic of this report?",
         "options": [
-          "Three straight victories (nine points).",
-          "Zero matches because all stadiums were closed.",
-          "Fifty matches in one single afternoon."
+          "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+          "Historical retrospective",
+          "Unrelated general weather"
         ],
         "answer": 0,
-        "explanation": "Both clubs opened the 2026/27 campaign with 3 wins from 3 matches for a perfect 9 points."
-      }
-    ]
-  },
-  {
-    "id": "sports_pl_02",
-    "title": "Premier League 2026/27: Liverpool Begins Dynamic New Era Under Andoni Iraola",
-    "subtitle": "The Basque manager introduces intense pressing and vertical transitions at Anfield.",
-    "speaker": "Liverpool FC & Premier League Official (Liverpool)",
-    "sourceName": "리버풀 FC 공식 발표 (liverpoolfc.com)",
-    "sourceUrl": "https://www.liverpoolfc.com/",
-    "factChecked": true,
-    "factCheckNotes": "안도니 이라올라(Andoni Iraola) 신임 감독 지휘 아래 리버풀 2026/27 프리미어리그 개막전(뉴캐슬 원정) 돌입 실측 확인",
-    "date": "2026-09-06",
-    "category": "sports",
-    "sportSubcat": "premier_league",
-    "sportPriority": 3,
-    "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 148,
-    "keywords": [
-      "#프리미어리그",
-      "#리버풀",
-      "#이라올라감독",
-      "#안필드"
-    ],
-    "addedAt": "2026-09-06T21:00:00Z",
-    "paragraphs": [
-      {
-        "en": "Liverpool Football Club has entered an exciting new chapter with the arrival of head coach Andoni Iraola. Appointed this summer, the Spanish manager brings a modern tactical philosophy focused on high-energy pressing and rapid ball movement. Supporters at Anfield are enthusiastic about the bold identity Iraola is building.",
-        "ko": "리버풀 축구 클럽이 안도니 이라올라 신임 감독의 부임과 함께 흥미진진한 새로운 장을 열었습니다. 올여름 지휘봉을 잡은 스페인 출신의 이라올라 감독은 강력한 전방 압박과 빠른 볼 전개에 초점을 맞춘 현대적인 전술 철학을 도입했습니다. 안필드의 서포터들은 이라올라 감독이 구축하고 있는 과감한 팀 컬러에 큰 기대를 걸고 있습니다.",
-        "sentences": [
-          {
-            "en": "Liverpool Football Club has entered an exciting new chapter with the arrival of head coach Andoni Iraola.",
-            "ko": "리버풀 축구 클럽이 안도니 이라올라 신임 감독과 함께 새 시대를 열었습니다."
-          },
-          {
-            "en": "Appointed this summer, the Spanish manager brings a modern tactical philosophy focused on high-energy pressing and rapid ball movement.",
-            "ko": "올여름 부임한 이라올라 감독은 강한 압박과 빠른 패스 전술을 팀에 이식했습니다."
-          },
-          {
-            "en": "Supporters at Anfield are enthusiastic about the bold identity Iraola is building.",
-            "ko": "안필드의 팬들은 이라올라 감독이 만들어가는 역동적인 팀 스타일에 열광하고 있습니다."
-          }
-        ]
-      },
-      {
-        "en": "During their opening matches, Liverpool's players won the ball back quickly in the attacking half of the pitch. Fast wingers created dangerous scoring chances by attacking behind opposing defenders. Iraola emphasized that disciplined positioning and physical fitness are required to sustain his demanding tactical style over ninety minutes.",
-        "ko": "개막전과 초반 경기 동안 리버풀 선수들은 상대 진영에서 공을 빠르게 가로채는 위력적인 모습을 보여주었습니다. 빠른 측면 공격수들은 상대 수비 뒷공간을 파고들며 결정적인 득점 기회를 만들어냈습니다. 이라올라 감독은 90분 내내 높은 활동량을 요구하는 전술을 유지하기 위해서는 철저한 위치 선정과 강인한 체력이 필수적이라고 강조했습니다.",
-        "sentences": [
-          {
-            "en": "During their opening matches, Liverpool's players won the ball back quickly in the attacking half of the pitch.",
-            "ko": "초반 경기에서 리버풀은 상대 진영에서 빠른 볼 탈환을 선보였습니다."
-          },
-          {
-            "en": "Fast wingers created dangerous scoring chances by attacking behind opposing defenders.",
-            "ko": "빠른 윙어들은 수비 뒷공간을 공략하며 결정적인 찬스를 만들었습니다."
-          },
-          {
-            "en": "Iraola emphasized that disciplined positioning and physical fitness are required to sustain his demanding tactical style over ninety minutes.",
-            "ko": "이라올라는 90분간 전술을 수행하기 위한 포지셔닝과 체력을 강조했습니다."
-          }
-        ]
-      },
-      {
-        "en": "Liverpool's main goal for the 2026/27 campaign is to challenge for major domestic trophies and return to the European summit. Team leaders have praised the new coaching staff for their clear communication and positive atmosphere. Football fans are watching closely to see if Iraola's dynamic style can bring silverware back to Merseyside.",
-        "ko": "리버풀의 2026/27 시즌 핵심 목표는 주요 국내 대회 우승을 노리고 유럽 최고의 자리에 다시 복귀하는 것입니다. 팀의 베테랑 선수들은 명확한 소통과 긍정적인 라커룸 분위기를 조성한 새 코칭스태프를 높이 평가했습니다. 축구 팬들은 이라올라의 역동적인 축구가 머지사이드에 새로운 우승 트로피를 안겨줄 수 있을지 주목하고 있습니다.",
-        "sentences": [
-          {
-            "en": "Liverpool's main goal for the 2026/27 campaign is to challenge for major domestic trophies and return to the European summit.",
-            "ko": "리버풀의 이번 시즌 목표는 리그 우승 경쟁과 유럽 정상 복귀입니다."
-          },
-          {
-            "en": "Team leaders have praised the new coaching staff for their clear communication and positive atmosphere.",
-            "ko": "주요 선수들은 명확한 소통을 보여준 코칭스태프를 높이 평가했습니다."
-          },
-          {
-            "en": "Football fans are watching closely to see if Iraola's dynamic style can bring silverware back to Merseyside.",
-            "ko": "팬들은 이라올라의 축구가 리버풀에 트로피를 선사할지 지켜보고 있습니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "리버풀이 2026/27 시즌 신임 감독 안도니 이라올라 체제로 공식 출범했습니다.",
-      "강한 전방 압박과 빠른 공수 전환을 바탕으로 안필드에 새로운 역동성을 불어넣고 있습니다.",
-      "선수단 체력 관리와 포지셔닝을 앞세워 프리미어리그 및 유럽 대회 우승을 조준하고 있습니다."
-    ],
-    "quiz": [
-      {
-        "question": "Who is the newly appointed manager leading Liverpool in the 2026/27 Premier League season?",
-        "options": [
-          "Andoni Iraola.",
-          "A fictional pirate captain from a cartoon.",
-          "A medieval knight in shining armor."
-        ],
-        "answer": 0,
-        "explanation": "Spanish manager Andoni Iraola was appointed to lead Liverpool for the 2026/27 season."
+        "explanation": "The title directly reflects the main subject."
       }
     ]
   },
