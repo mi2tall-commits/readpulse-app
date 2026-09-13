@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_306021949040832964",
+    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "subtitle": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-12",
+    "addedAt": "2026-09-13T02:46:04Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 121,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaAnthropic boss Dario Amodei calls for AI development to slow downImage source, ReutersImage caption, There was no alternative to developing AI, Anthropic boss Dario Amodei said",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaAnthropic boss Dario Amodei calls for AI development to slow downImage source, ReutersImage caption, There was no alternative to developing AI, Anthropic boss Dario Amodei said",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaAnthropic boss Dario Amodei calls for AI development to slow downImage source, ReutersImage caption, There was no alternative to developing AI, Anthropic boss Dario Amodei said"
+          }
+        ]
+      },
+      {
+        "en": "The head of AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The head of AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored.",
+            "ko": "실시간 보도 번역: The head of AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored."
+          }
+        ]
+      },
+      {
+        "en": "In an essay, Dario Amodei said developing AI was not in question, but the risks associated with it were &quot;serious&quot; and companies and governments must be given time to address them.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "In an essay, Dario Amodei said developing AI was not in question, but the risks associated with it were &quot;serious&quot; and companies and governments must be given time to address them.",
+            "ko": "실시간 보도 번역: In an essay, Dario Amodei said developing AI was not in question, but the risks associated with it were &quot;serious&quot; and companies and governments must be given time to address them."
+          }
+        ]
+      },
+      {
+        "en": "The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk, have both said they agree with Amodei.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk, have both said they agree with Amodei.",
+            "ko": "실시간 보도 번역: The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk, have both said they agree with Amodei."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Anthropic boss Dario Amodei calls for AI development to slow down",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_5662687317051047111",
     "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
     "subtitle": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac....",
@@ -488,6 +565,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_3022214901193996176",
+    "title": "Five night sky events to look out for this autumn",
+    "subtitle": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky....",
+    "speaker": "BBC Science",
+    "date": "2026-09-12",
+    "addedAt": "2026-09-13T02:46:04Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 105,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceFive night sky events to look out for this autumnImage source, Getty ImagesImage caption, This year&#x27;s November full moon will appear as a supermoon. This is 2025&#x27;s November Beaver Moon captured above forests in Hungary",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceFive night sky events to look out for this autumnImage source, Getty ImagesImage caption, This year&#x27;s November full moon will appear as a supermoon.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceFive night sky events to look out for this autumnImage source, Getty ImagesImage caption, This year&#x27;s November full moon will appear as a supermoon."
+          }
+        ]
+      },
+      {
+        "en": "Autumn brings longer nights to the northern hemisphere, offering more opportunities to get outside and look up at the night sky.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Autumn brings longer nights to the northern hemisphere, offering more opportunities to get outside and look up at the night sky.",
+            "ko": "실시간 보도 번역: Autumn brings longer nights to the northern hemisphere, offering more opportunities to get outside and look up at the night sky."
+          }
+        ]
+      },
+      {
+        "en": "There is plenty to look out for over the coming months, from impressive meteor showers to dazzling star clusters.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "There is plenty to look out for over the coming months, from impressive meteor showers to dazzling star clusters.",
+            "ko": "실시간 보도 번역: There is plenty to look out for over the coming months, from impressive meteor showers to dazzling star clusters."
+          }
+        ]
+      },
+      {
+        "en": "The series of spectacles begins with the Pleiades as the autumn nights draw in.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The series of spectacles begins with the Pleiades as the autumn nights draw in.",
+            "ko": "실시간 보도 번역: The series of spectacles begins with the Pleiades as the autumn nights draw in."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Five night sky events to look out for this autumn",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Five night sky events to look out for this autumn",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_1050572806143463747",
     "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
     "subtitle": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales....",
@@ -955,6 +1109,87 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_7130062568505314027",
+    "title": "US prices remain high as fuel costs squeeze household budgets",
+    "subtitle": "Prices in the US rose 3.4% in the 12 months to August,  according to the latest official report on inflation....",
+    "speaker": "BBC Business",
+    "date": "2026-09-11",
+    "addedAt": "2026-09-13T02:46:05Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 144,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaUS prices remain high as fuel costs squeeze household budgetsImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished11 September 2026Prices in the US rose by 3.4% in the year to August, with the cost of living pushed up by higher gasoline prices, official figures show.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaUS prices remain high as fuel costs squeeze household budgetsImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished11 September 2026Prices in the US rose by 3.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaUS prices remain high as fuel costs squeeze household budgetsImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished11 September 2026Prices in the US rose by 3."
+          },
+          {
+            "en": "4% in the year to August, with the cost of living pushed up by higher gasoline prices, official figures show.",
+            "ko": "실시간 보도 번역: 4% in the year to August, with the cost of living pushed up by higher gasoline prices, official figures show."
+          }
+        ]
+      },
+      {
+        "en": "The overall inflation rate was unchanged from July, according to the Bureau of Labor Statistics (BLS).",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The overall inflation rate was unchanged from July, according to the Bureau of Labor Statistics (BLS).",
+            "ko": "실시간 보도 번역: The overall inflation rate was unchanged from July, according to the Bureau of Labor Statistics (BLS)."
+          }
+        ]
+      },
+      {
+        "en": "It comes ahead of the Federal Reserve making its latest interest rate decision next week, with growing expectations they will be increased in a bid to slow the rate at which prices are rising.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It comes ahead of the Federal Reserve making its latest interest rate decision next week, with growing expectations they will be increased in a bid to slow the rate at which prices are rising.",
+            "ko": "실시간 보도 번역: It comes ahead of the Federal Reserve making its latest interest rate decision next week, with growing expectations they will be increased in a bid to slow the rate at which prices are rising."
+          }
+        ]
+      },
+      {
+        "en": "US household budgets have come under mounting pressure, especially at the fuel pumps, with a gallon of diesel hitting a new all-time high of more than $6 on average on Friday.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "US household budgets have come under mounting pressure, especially at the fuel pumps, with a gallon of diesel hitting a new all-time high of more than $6 on average on Friday.",
+            "ko": "실시간 보도 번역: US household budgets have come under mounting pressure, especially at the fuel pumps, with a gallon of diesel hitting a new all-time high of more than $6 on average on Friday."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: US prices remain high as fuel costs squeeze household budgets",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "US prices remain high as fuel costs squeeze household budgets",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_3344869893819325748",
     "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
     "subtitle": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\"....",
@@ -1380,6 +1615,85 @@ const READPULSE_ARTICLES = [
         "explanation": "EUV lithography carves nanoscale circuits thinner than human DNA onto semiconductor wafers."
       }
     ]
+  },
+  {
+    "id": "auto_sports_1224680077901216058",
+    "title": "Rybakina wins US Open to inflict further pain on Sabalenka",
+    "subtitle": "Elena Rybakina demonstrates why she is the best women's player in the world by beating Aryna Sabalenka to win her first US Open ti...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-12",
+    "addedAt": "2026-09-13T02:46:05Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 163,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarRybakina wins US Open to inflict further pain on SabalenkaImage source, Getty ImagesImage caption, Elena Rybakina has now won the Australian Open, Wimbledon and the US Open",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarRybakina wins US Open to inflict further pain on SabalenkaImage source, Getty ImagesImage caption, Elena Rybakina has now won the Australian Open, Wimbledon and the US Open",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarRybakina wins US Open to inflict further pain on SabalenkaImage source, Getty ImagesImage caption, Elena Rybakina has now won the Australian Open, Wimbledon and the US Open"
+          }
+        ]
+      },
+      {
+        "en": "BBC Sport tennis news reporterPublished12 September 2026Updated 2 hours agoElena Rybakina demonstrated why she is the best women&#x27;s player in the world by beating two-time defending champion Aryna Sabalenka to win her first US Open title.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC Sport tennis news reporterPublished12 September 2026Updated 2 hours agoElena Rybakina demonstrated why she is the best women&#x27;s player in the world by beating two-time defending champion Aryna Sabalenka to win her first US Open title.",
+            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished12 September 2026Updated 2 hours agoElena Rybakina demonstrated why she is the best women&#x27;s player in the world by beating two-time defending champion Aryna Sabalenka to win her first US Open title."
+          }
+        ]
+      },
+      {
+        "en": "Kazakhstan&#x27;s Rybakina already knew she would be the new world number one after Saturday&#x27;s final regardless of the result, and she celebrated with a 6-4 5-7 6-2 victory over the player she will replace.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Kazakhstan&#x27;s Rybakina already knew she would be the new world number one after Saturday&#x27;s final regardless of the result, and she celebrated with a 6-4 5-7 6-2 victory over the player she will replace.",
+            "ko": "실시간 보도 번역: Kazakhstan&#x27;s Rybakina already knew she would be the new world number one after Saturday&#x27;s final regardless of the result, and she celebrated with a 6-4 5-7 6-2 victory over the player she will replace."
+          }
+        ]
+      },
+      {
+        "en": "Rybakina was the more composed of the two throughout as she claimed the third Grand Slam title of her career, having triumphed at Wimbledon in 2022 and the Australian Open earlier this year.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Rybakina was the more composed of the two throughout as she claimed the third Grand Slam title of her career, having triumphed at Wimbledon in 2022 and the Australian Open earlier this year.",
+            "ko": "실시간 보도 번역: Rybakina was the more composed of the two throughout as she claimed the third Grand Slam title of her career, having triumphed at Wimbledon in 2022 and the Australian Open earlier this year."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Rybakina wins US Open to inflict further pain on Sabalenka",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Rybakina wins US Open to inflict further pain on Sabalenka",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_7787322110728578405",
@@ -2015,6 +2329,89 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_sports_1066371583299562867",
+    "title": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
+    "subtitle": "Arsenal produced a gritty 2-0 win against Sunderland, but Mikel Arteta fumed about the penalty that could have cost his side a res...",
+    "speaker": "BBC Premier League",
+    "date": "2026-09-12",
+    "addedAt": "2026-09-13T02:46:06Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 114,
+    "keywords": [
+      "#프리미어리그",
+      "#해외축구",
+      "#EPL속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsArsenalScores &amp; FixturesTableLive Match UpdatesTransfersAsk Me AnythingWho Am I? Quiz&#x27;Today the game was unprotected&#x27; - Arteta fumes but Arsenal surviveTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsArsenalScores &amp; FixturesTableLive Match UpdatesTransfersAsk Me AnythingWho Am I?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsArsenalScores &amp; FixturesTableLive Match UpdatesTransfersAsk Me AnythingWho Am I?"
+          },
+          {
+            "en": "Quiz&#x27;Today the game was unprotected&#x27; - Arteta fumes but Arsenal surviveTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: Quiz&#x27;Today the game was unprotected&#x27; - Arteta fumes but Arsenal surviveTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "Arsenal hold off energetic Sunderland to continue perfect title defence",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Arsenal hold off energetic Sunderland to continue perfect title defence",
+            "ko": "실시간 보도 번역: Arsenal hold off energetic Sunderland to continue perfect title defence"
+          }
+        ]
+      },
+      {
+        "en": "Arsenal&#x27;s duality was there for all to see in their 2-0 win at Sunderland: gritty defence and moments of genius.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Arsenal&#x27;s duality was there for all to see in their 2-0 win at Sunderland: gritty defence and moments of genius.",
+            "ko": "실시간 보도 번역: Arsenal&#x27;s duality was there for all to see in their 2-0 win at Sunderland: gritty defence and moments of genius."
+          }
+        ]
+      },
+      {
+        "en": "But things could have turned out very differently had a crucial 121-second period gone the other way.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "But things could have turned out very differently had a crucial 121-second period gone the other way.",
+            "ko": "실시간 보도 번역: But things could have turned out very differently had a crucial 121-second period gone the other way."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: 'Today the game was unprotected' - Arteta fumes but Arsenal survive",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "premier_league",
+    "sportPriority": 3
+  },
+  {
     "id": "auto_sports_1927800823953715479",
     "title": "New Man City signings desperate to win - Dias",
     "subtitle": "Manchester City have brought in summer signings who are \"desperate to win\" and the whole squad is \"buying into the idea\" of new ma...",
@@ -2098,66 +2495,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 3
   },
   {
-    "id": "auto_sports_5773041071458961252",
-    "title": "Like Benzema &amp; as good as Haaland - Alonso on Joao Pedro",
-    "subtitle": "Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and...",
-    "speaker": "BBC Premier League",
-    "date": "2026-09-11",
-    "addedAt": "2026-09-12T02:47:44Z",
-    "category": "sports",
+    "id": "auto_culture_6145392037112422090",
+    "title": "Diljit Dosanjh makes history under the famous Wembley arch",
+    "subtitle": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-12",
+    "addedAt": "2026-09-13T02:46:06Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 176,
+    "wordCount": 107,
     "keywords": [
-      "#프리미어리그",
-      "#해외축구",
-      "#EPL속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsChelseaScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I? QuizAsk Me AnythingLike Benzema &amp; as good as Haaland - Alonso on Joao PedroImage source, Getty ImagesImage caption, Joao Pedro has scored 25 goals since joining Chelsea at the beginning of last season, including one in a Club World Cup final success",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished3 hours agoOn Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsChelseaScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsChelseaScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I?"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished3 hours agoOn Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished3 hours agoOn Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!"
           }
         ]
       },
       {
-        "en": "Football reporter at Cobham Training CentrePublished5 hours agoXabi Alonso says Chelsea striker Joao Pedro is similar in style to his former Real Madrid team-mate Karim Benzema - and at a comparable level to Manchester City&#x27;s Erling Haaland.",
+        "en": "Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Football reporter at Cobham Training CentrePublished5 hours agoXabi Alonso says Chelsea striker Joao Pedro is similar in style to his former Real Madrid team-mate Karim Benzema - and at a comparable level to Manchester City&#x27;s Erling Haaland.",
-            "ko": "실시간 보도 번역: Football reporter at Cobham Training CentrePublished5 hours agoXabi Alonso says Chelsea striker Joao Pedro is similar in style to his former Real Madrid team-mate Karim Benzema - and at a comparable level to Manchester City&#x27;s Erling Haaland."
+            "en": "Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;.",
+            "ko": "실시간 보도 번역: Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;."
           }
         ]
       },
       {
-        "en": "The Brazil international, 24, has scored twice and provided two assists in his first three games of the season - and was named the Premier League&#x27;s Player of the Month on Friday.",
+        "en": "Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Brazil international, 24, has scored twice and provided two assists in his first three games of the season - and was named the Premier League&#x27;s Player of the Month on Friday.",
-            "ko": "실시간 보도 번역: The Brazil international, 24, has scored twice and provided two assists in his first three games of the season - and was named the Premier League&#x27;s Player of the Month on Friday."
+            "en": "Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said.",
+            "ko": "실시간 보도 번역: Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said."
           }
         ]
       },
       {
-        "en": "It was the first time Joao Pedro has won the award as he finished ahead of team-mate Cole Palmer, who was Chelsea&#x27;s previous recipient in September 2024.",
+        "en": "Addressing his fans, he reflected on the significance of the occasion. &quot;This moment will go down in the history books,&quot; he said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It was the first time Joao Pedro has won the award as he finished ahead of team-mate Cole Palmer, who was Chelsea&#x27;s previous recipient in September 2024.",
-            "ko": "실시간 보도 번역: It was the first time Joao Pedro has won the award as he finished ahead of team-mate Cole Palmer, who was Chelsea&#x27;s previous recipient in September 2024."
+            "en": "Addressing his fans, he reflected on the significance of the occasion.",
+            "ko": "실시간 보도 번역: Addressing his fans, he reflected on the significance of the occasion."
+          },
+          {
+            "en": "&quot;This moment will go down in the history books,&quot; he said.",
+            "ko": "실시간 보도 번역: &quot;This moment will go down in the history books,&quot; he said."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Like Benzema &amp; as good as Haaland - Alonso on Joao Pedro",
+      "글로벌 최신 소식: Diljit Dosanjh makes history under the famous Wembley arch",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2165,95 +2566,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Like Benzema &amp; as good as Haaland - Alonso on Joao Pedro",
+          "Diljit Dosanjh makes history under the famous Wembley arch",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "premier_league",
-    "sportPriority": 3
-  },
-  {
-    "id": "auto_sports_2931957093095448949",
-    "title": "Hall signs new contract with Newcastle until 2031",
-    "subtitle": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031....",
-    "speaker": "BBC Premier League",
-    "date": "2026-09-11",
-    "addedAt": "2026-09-11T15:44:24Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 122,
-    "keywords": [
-      "#프리미어리그",
-      "#해외축구",
-      "#EPL속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsNewcastle UnitedScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I? QuizAsk Me AnythingHall signs new contract with Newcastle until 2031Image source, Getty ImagesImage caption, Lewis Hall has won four caps for England",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsNewcastle UnitedScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsNewcastle UnitedScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I?"
-          }
-        ]
-      },
-      {
-        "en": "Newcastle United reporterPublished7 hours agoNewcastle United defender Lewis Hall has signed a new contract with the club that runs until 2031.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Newcastle United reporterPublished7 hours agoNewcastle United defender Lewis Hall has signed a new contract with the club that runs until 2031.",
-            "ko": "실시간 보도 번역: Newcastle United reporterPublished7 hours agoNewcastle United defender Lewis Hall has signed a new contract with the club that runs until 2031."
-          }
-        ]
-      },
-      {
-        "en": "The left-back, who has been the subject of interest from Manchester United, has agreed a two-year extension to his original deal.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The left-back, who has been the subject of interest from Manchester United, has agreed a two-year extension to his original deal.",
-            "ko": "실시간 보도 번역: The left-back, who has been the subject of interest from Manchester United, has agreed a two-year extension to his original deal."
-          }
-        ]
-      },
-      {
-        "en": "Hall said it was a &quot;really proud moment&quot; to extend his stay as a boyhood supporter of the club.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Hall said it was a &quot;really proud moment&quot; to extend his stay as a boyhood supporter of the club.",
-            "ko": "실시간 보도 번역: Hall said it was a &quot;really proud moment&quot; to extend his stay as a boyhood supporter of the club."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Hall signs new contract with Newcastle until 2031",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Hall signs new contract with Newcastle until 2031",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "premier_league",
-    "sportPriority": 3
+    ]
   },
   {
     "id": "auto_culture_5535281917219671350",
