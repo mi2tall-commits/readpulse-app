@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_807163735592402354",
+    "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+    "subtitle": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-13",
+    "addedAt": "2026-09-13T15:29:35Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 118,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI staff &#x27;genuinely frightened&#x27; for humanity&#x27;s future, ex-Anthropic researcher tells BBCTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI staff &#x27;genuinely frightened&#x27; for humanity&#x27;s future, ex-Anthropic researcher tells BBCTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI staff &#x27;genuinely frightened&#x27; for humanity&#x27;s future, ex-Anthropic researcher tells BBCTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "&#x27;There is a possibility of human extinction,&#x27; former Anthropic employee says about AI",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&#x27;There is a possibility of human extinction,&#x27; former Anthropic employee says about AI",
+            "ko": "실시간 보도 번역: &#x27;There is a possibility of human extinction,&#x27; former Anthropic employee says about AI"
+          }
+        ]
+      },
+      {
+        "en": "An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were &quot;genuinely frightened&quot; about the speed of its advancements and what it could mean for humanity.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were &quot;genuinely frightened&quot; about the speed of its advancements and what it could mean for humanity.",
+            "ko": "실시간 보도 번역: An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were &quot;genuinely frightened&quot; about the speed of its advancements and what it could mean for humanity."
+          }
+        ]
+      },
+      {
+        "en": "&quot;I believe that if we don&#x27;t slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future,&quot; he said.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;I believe that if we don&#x27;t slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future,&quot; he said.",
+            "ko": "실시간 보도 번역: &quot;I believe that if we don&#x27;t slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future,&quot; he said."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_306021949040832964",
     "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
     "subtitle": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide....",
@@ -565,6 +642,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_1005199252393972868",
+    "title": "Five night sky events to look out for this autumn",
+    "subtitle": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky....",
+    "speaker": "BBC Science",
+    "date": "2026-09-12",
+    "addedAt": "2026-09-13T15:29:36Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 105,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceFive night sky events to look out for this autumnImage source, Getty ImagesImage caption, This year&#x27;s November full moon will appear as a supermoon. This is 2025&#x27;s November Beaver Moon captured above forests in Hungary",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceFive night sky events to look out for this autumnImage source, Getty ImagesImage caption, This year&#x27;s November full moon will appear as a supermoon.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceFive night sky events to look out for this autumnImage source, Getty ImagesImage caption, This year&#x27;s November full moon will appear as a supermoon."
+          }
+        ]
+      },
+      {
+        "en": "Autumn brings longer nights to the northern hemisphere, offering more opportunities to get outside and look up at the night sky.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Autumn brings longer nights to the northern hemisphere, offering more opportunities to get outside and look up at the night sky.",
+            "ko": "실시간 보도 번역: Autumn brings longer nights to the northern hemisphere, offering more opportunities to get outside and look up at the night sky."
+          }
+        ]
+      },
+      {
+        "en": "There is plenty to look out for over the coming months, from impressive meteor showers to dazzling star clusters.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "There is plenty to look out for over the coming months, from impressive meteor showers to dazzling star clusters.",
+            "ko": "실시간 보도 번역: There is plenty to look out for over the coming months, from impressive meteor showers to dazzling star clusters."
+          }
+        ]
+      },
+      {
+        "en": "The series of spectacles begins with the Pleiades as the autumn nights draw in.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The series of spectacles begins with the Pleiades as the autumn nights draw in.",
+            "ko": "실시간 보도 번역: The series of spectacles begins with the Pleiades as the autumn nights draw in."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Five night sky events to look out for this autumn",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Five night sky events to look out for this autumn",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_3022214901193996176",
     "title": "Five night sky events to look out for this autumn",
     "subtitle": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky....",
@@ -1109,6 +1263,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_807163735592402354",
+    "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+    "subtitle": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks....",
+    "speaker": "BBC Business",
+    "date": "2026-09-13",
+    "addedAt": "2026-09-13T15:29:36Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 118,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI staff &#x27;genuinely frightened&#x27; for humanity&#x27;s future, ex-Anthropic researcher tells BBCTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI staff &#x27;genuinely frightened&#x27; for humanity&#x27;s future, ex-Anthropic researcher tells BBCTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI staff &#x27;genuinely frightened&#x27; for humanity&#x27;s future, ex-Anthropic researcher tells BBCTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "&#x27;There is a possibility of human extinction,&#x27; former Anthropic employee says about AI",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&#x27;There is a possibility of human extinction,&#x27; former Anthropic employee says about AI",
+            "ko": "실시간 보도 번역: &#x27;There is a possibility of human extinction,&#x27; former Anthropic employee says about AI"
+          }
+        ]
+      },
+      {
+        "en": "An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were &quot;genuinely frightened&quot; about the speed of its advancements and what it could mean for humanity.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were &quot;genuinely frightened&quot; about the speed of its advancements and what it could mean for humanity.",
+            "ko": "실시간 보도 번역: An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were &quot;genuinely frightened&quot; about the speed of its advancements and what it could mean for humanity."
+          }
+        ]
+      },
+      {
+        "en": "&quot;I believe that if we don&#x27;t slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future,&quot; he said.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;I believe that if we don&#x27;t slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future,&quot; he said.",
+            "ko": "실시간 보도 번역: &quot;I believe that if we don&#x27;t slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future,&quot; he said."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_7130062568505314027",
     "title": "US prices remain high as fuel costs squeeze household budgets",
     "subtitle": "Prices in the US rose 3.4% in the 12 months to August,  according to the latest official report on inflation....",
@@ -1615,6 +1846,89 @@ const READPULSE_ARTICLES = [
         "explanation": "EUV lithography carves nanoscale circuits thinner than human DNA onto semiconductor wafers."
       }
     ]
+  },
+  {
+    "id": "auto_sports_352829184912820918",
+    "title": "From struggling to walk to lifting trophy - how Rybakina triumphed",
+    "subtitle": "Elena Rybakina arrived in New York unable to walk without pain after injuring her foot. She leaves the city as the US Open champio...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-13",
+    "addedAt": "2026-09-13T15:29:36Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 145,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarFrom struggling to walk to lifting trophy - how Rybakina triumphedImage source, Getty ImagesImage caption, Elena Rybakina has won two of the four Grand Slam singles titles available in 2026",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarFrom struggling to walk to lifting trophy - how Rybakina triumphedImage source, Getty ImagesImage caption, Elena Rybakina has won two of the four Grand Slam singles titles available in 2026",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarFrom struggling to walk to lifting trophy - how Rybakina triumphedImage source, Getty ImagesImage caption, Elena Rybakina has won two of the four Grand Slam singles titles available in 2026"
+          }
+        ]
+      },
+      {
+        "en": "Elena Rybakina arrived in New York unable to walk without pain after injuring her foot. She leaves the city as the US Open champion and new world number one.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Elena Rybakina arrived in New York unable to walk without pain after injuring her foot.",
+            "ko": "실시간 보도 번역: Elena Rybakina arrived in New York unable to walk without pain after injuring her foot."
+          },
+          {
+            "en": "She leaves the city as the US Open champion and new world number one.",
+            "ko": "실시간 보도 번역: She leaves the city as the US Open champion and new world number one."
+          }
+        ]
+      },
+      {
+        "en": "Kazakhstan&#x27;s Rybakina produced a brilliant performance to beat two-time defending champion Aryna Sabalenka 6-4 5-7 6-2 in Saturday&#x27;s final and repeat her Australian Open success against the same player in January.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Kazakhstan&#x27;s Rybakina produced a brilliant performance to beat two-time defending champion Aryna Sabalenka 6-4 5-7 6-2 in Saturday&#x27;s final and repeat her Australian Open success against the same player in January.",
+            "ko": "실시간 보도 번역: Kazakhstan&#x27;s Rybakina produced a brilliant performance to beat two-time defending champion Aryna Sabalenka 6-4 5-7 6-2 in Saturday&#x27;s final and repeat her Australian Open success against the same player in January."
+          }
+        ]
+      },
+      {
+        "en": "Clutching the trophy on Saturday night, Rybakina reflected that &quot;some magic is happening&quot; for her after her difficult lead-in to the tournament.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Clutching the trophy on Saturday night, Rybakina reflected that &quot;some magic is happening&quot; for her after her difficult lead-in to the tournament.",
+            "ko": "실시간 보도 번역: Clutching the trophy on Saturday night, Rybakina reflected that &quot;some magic is happening&quot; for her after her difficult lead-in to the tournament."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: From struggling to walk to lifting trophy - how Rybakina triumphed",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "From struggling to walk to lifting trophy - how Rybakina triumphed",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_1224680077901216058",
@@ -2329,17 +2643,17 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_sports_1066371583299562867",
-    "title": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
-    "subtitle": "Arsenal produced a gritty 2-0 win against Sunderland, but Mikel Arteta fumed about the penalty that could have cost his side a res...",
+    "id": "auto_sports_4431795291470016343",
+    "title": "Fixed v fluid - the opposing approaches of Maresca and Carrick",
+    "subtitle": "Enzo Maresca and Michael Carrick will go head to head in Sunday's Manchester derby, with their teams set up very differently....",
     "speaker": "BBC Premier League",
-    "date": "2026-09-12",
-    "addedAt": "2026-09-13T02:46:06Z",
+    "date": "2026-09-13",
+    "addedAt": "2026-09-13T15:29:39Z",
     "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 114,
+    "wordCount": 153,
     "keywords": [
       "#프리미어리그",
       "#해외축구",
@@ -2347,52 +2661,48 @@ const READPULSE_ARTICLES = [
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsArsenalScores &amp; FixturesTableLive Match UpdatesTransfersAsk Me AnythingWho Am I? Quiz&#x27;Today the game was unprotected&#x27; - Arteta fumes but Arsenal surviveTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsPremier LeagueScores &amp; FixturesTableFollow Your TeamTransfersTop ScorersGossipFixed v fluid - the opposing approaches of Maresca and CarrickImage caption, Enzo Maresca&#x27;s City will face Michael Carrick&#x27;s United on Sunday",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsArsenalScores &amp; FixturesTableLive Match UpdatesTransfersAsk Me AnythingWho Am I?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsArsenalScores &amp; FixturesTableLive Match UpdatesTransfersAsk Me AnythingWho Am I?"
-          },
-          {
-            "en": "Quiz&#x27;Today the game was unprotected&#x27; - Arteta fumes but Arsenal surviveTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: Quiz&#x27;Today the game was unprotected&#x27; - Arteta fumes but Arsenal surviveTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsPremier LeagueScores &amp; FixturesTableFollow Your TeamTransfersTop ScorersGossipFixed v fluid - the opposing approaches of Maresca and CarrickImage caption, Enzo Maresca&#x27;s City will face Michael Carrick&#x27;s United on Sunday",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsPremier LeagueScores &amp; FixturesTableFollow Your TeamTransfersTop ScorersGossipFixed v fluid - the opposing approaches of Maresca and CarrickImage caption, Enzo Maresca&#x27;s City will face Michael Carrick&#x27;s United on Sunday"
           }
         ]
       },
       {
-        "en": "Arsenal hold off energetic Sunderland to continue perfect title defence",
+        "en": "Football tactics correspondentPublished9 hours agoThere are many things that Manchester City and Manchester United have in common - but one thing decisively separates them this season.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Arsenal hold off energetic Sunderland to continue perfect title defence",
-            "ko": "실시간 보도 번역: Arsenal hold off energetic Sunderland to continue perfect title defence"
+            "en": "Football tactics correspondentPublished9 hours agoThere are many things that Manchester City and Manchester United have in common - but one thing decisively separates them this season.",
+            "ko": "실시간 보도 번역: Football tactics correspondentPublished9 hours agoThere are many things that Manchester City and Manchester United have in common - but one thing decisively separates them this season."
           }
         ]
       },
       {
-        "en": "Arsenal&#x27;s duality was there for all to see in their 2-0 win at Sunderland: gritty defence and moments of genius.",
+        "en": "Based just five miles apart and united by a shared desire to return to the top of the Premier League, their gameplans are almost diametrically opposed.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Arsenal&#x27;s duality was there for all to see in their 2-0 win at Sunderland: gritty defence and moments of genius.",
-            "ko": "실시간 보도 번역: Arsenal&#x27;s duality was there for all to see in their 2-0 win at Sunderland: gritty defence and moments of genius."
+            "en": "Based just five miles apart and united by a shared desire to return to the top of the Premier League, their gameplans are almost diametrically opposed.",
+            "ko": "실시간 보도 번역: Based just five miles apart and united by a shared desire to return to the top of the Premier League, their gameplans are almost diametrically opposed."
           }
         ]
       },
       {
-        "en": "But things could have turned out very differently had a crucial 121-second period gone the other way.",
+        "en": "The best teams in the world often play in similar ways, as demonstrated in last season&#x27;s Champions League final between between Paris St-Germain and Arsenal - teams who use similar shapes, look to dominate the ball, and encourage rotations into fixed positions.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But things could have turned out very differently had a crucial 121-second period gone the other way.",
-            "ko": "실시간 보도 번역: But things could have turned out very differently had a crucial 121-second period gone the other way."
+            "en": "The best teams in the world often play in similar ways, as demonstrated in last season&#x27;s Champions League final between between Paris St-Germain and Arsenal - teams who use similar shapes, look to dominate the ball, and encourage rotations into fixed positions.",
+            "ko": "실시간 보도 번역: The best teams in the world often play in similar ways, as demonstrated in last season&#x27;s Champions League final between between Paris St-Germain and Arsenal - teams who use similar shapes, look to dominate the ball, and encourage rotations into fixed positions."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'Today the game was unprotected' - Arteta fumes but Arsenal survive",
+      "글로벌 최신 소식: Fixed v fluid - the opposing approaches of Maresca and Carrick",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2400,7 +2710,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
+          "Fixed v fluid - the opposing approaches of Maresca and Carrick",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2412,70 +2722,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 3
   },
   {
-    "id": "auto_sports_1927800823953715479",
-    "title": "New Man City signings desperate to win - Dias",
-    "subtitle": "Manchester City have brought in summer signings who are \"desperate to win\" and the whole squad is \"buying into the idea\" of new ma...",
-    "speaker": "BBC Premier League",
+    "id": "auto_culture_611870033178026403",
+    "title": "Diljit Dosanjh makes history under the famous Wembley arch",
+    "subtitle": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue....",
+    "speaker": "BBC Arts",
     "date": "2026-09-12",
-    "addedAt": "2026-09-12T14:52:27Z",
-    "category": "sports",
+    "addedAt": "2026-09-13T15:29:39Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 157,
+    "wordCount": 109,
     "keywords": [
-      "#프리미어리그",
-      "#해외축구",
-      "#EPL속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsManchester CityScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I? QuizAsk Me AnythingNew Man City signings desperate to win - DiasTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026, 00:06 BSTOn Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsManchester CityScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsManchester CityScores &amp; FixturesTableLive Match UpdatesTransfersWho Am I?"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026, 00:06 BSTOn Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026, 00:06 BSTOn Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!"
+          }
+        ]
+      },
+      {
+        "en": "Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;.",
+            "ko": "실시간 보도 번역: Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;."
+          }
+        ]
+      },
+      {
+        "en": "Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said.",
+            "ko": "실시간 보도 번역: Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said."
+          }
+        ]
+      },
+      {
+        "en": "Addressing his fans, he reflected on the significance of the occasion. &quot;This moment will go down in the history books,&quot; he said.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Addressing his fans, he reflected on the significance of the occasion.",
+            "ko": "실시간 보도 번역: Addressing his fans, he reflected on the significance of the occasion."
           },
           {
-            "en": "QuizAsk Me AnythingNew Man City signings desperate to win - DiasTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: QuizAsk Me AnythingNew Man City signings desperate to win - DiasTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Manchester City reporterPublished9 hours agoManchester City have brought in summer signings who are &quot;desperate to win&quot; and the whole squad is &quot;buying into the idea&quot; of new manager Enzo Maresca, says new captain Ruben Dias.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Manchester City reporterPublished9 hours agoManchester City have brought in summer signings who are &quot;desperate to win&quot; and the whole squad is &quot;buying into the idea&quot; of new manager Enzo Maresca, says new captain Ruben Dias.",
-            "ko": "실시간 보도 번역: Manchester City reporterPublished9 hours agoManchester City have brought in summer signings who are &quot;desperate to win&quot; and the whole squad is &quot;buying into the idea&quot; of new manager Enzo Maresca, says new captain Ruben Dias."
-          }
-        ]
-      },
-      {
-        "en": "City spent a Premier League record £458m during the recent transfer window, with incomings including midfield trio Enzo Fernandez, Elliot Anderson and Ayyoub Bouaddi.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "City spent a Premier League record £458m during the recent transfer window, with incomings including midfield trio Enzo Fernandez, Elliot Anderson and Ayyoub Bouaddi.",
-            "ko": "실시간 보도 번역: City spent a Premier League record £458m during the recent transfer window, with incomings including midfield trio Enzo Fernandez, Elliot Anderson and Ayyoub Bouaddi."
-          }
-        ]
-      },
-      {
-        "en": "But the club also recouped more than £300m in sales and lost the experience of players such as 2024 Ballon d&#x27;Or winner Rodri, former captain Bernardo Silva and England international John Stones.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "But the club also recouped more than £300m in sales and lost the experience of players such as 2024 Ballon d&#x27;Or winner Rodri, former captain Bernardo Silva and England international John Stones.",
-            "ko": "실시간 보도 번역: But the club also recouped more than £300m in sales and lost the experience of players such as 2024 Ballon d&#x27;Or winner Rodri, former captain Bernardo Silva and England international John Stones."
+            "en": "&quot;This moment will go down in the history books,&quot; he said.",
+            "ko": "실시간 보도 번역: &quot;This moment will go down in the history books,&quot; he said."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: New Man City signings desperate to win - Dias",
+      "글로벌 최신 소식: Diljit Dosanjh makes history under the famous Wembley arch",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2483,16 +2793,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "New Man City signings desperate to win - Dias",
+          "Diljit Dosanjh makes history under the famous Wembley arch",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "premier_league",
-    "sportPriority": 3
+    ]
   },
   {
     "id": "auto_culture_6145392037112422090",
