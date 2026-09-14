@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_4952081422686546791",
+    "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+    "subtitle": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\"....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-13",
+    "addedAt": "2026-09-14T03:00:18Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 106,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaTrump downplays warnings of AI risks, citing rivalry with ChinaTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaTrump downplays warnings of AI risks, citing rivalry with ChinaTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaTrump downplays warnings of AI risks, citing rivalry with ChinaTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "President Trump says &#x27;negative forces&#x27; bringing up AI risks that won&#x27;t happen",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "President Trump says &#x27;negative forces&#x27; bringing up AI risks that won&#x27;t happen",
+            "ko": "실시간 보도 번역: President Trump says &#x27;negative forces&#x27; bringing up AI risks that won&#x27;t happen"
+          }
+        ]
+      },
+      {
+        "en": "US President Donald Trump has downplayed risks posed by artificial intelligence following days of dire warnings by experts.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "US President Donald Trump has downplayed risks posed by artificial intelligence following days of dire warnings by experts.",
+            "ko": "실시간 보도 번역: US President Donald Trump has downplayed risks posed by artificial intelligence following days of dire warnings by experts."
+          }
+        ]
+      },
+      {
+        "en": "&quot;You have a lot of very negative forces that are bringing it up that shouldn&#x27;t be bringing it up and they&#x27;re bringing up things that won&#x27;t happen,&quot; Trump said during a visit to Ireland.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;You have a lot of very negative forces that are bringing it up that shouldn&#x27;t be bringing it up and they&#x27;re bringing up things that won&#x27;t happen,&quot; Trump said during a visit to Ireland.",
+            "ko": "실시간 보도 번역: &quot;You have a lot of very negative forces that are bringing it up that shouldn&#x27;t be bringing it up and they&#x27;re bringing up things that won&#x27;t happen,&quot; Trump said during a visit to Ireland."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Trump downplays warnings of AI risks, citing rivalry with China",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Trump downplays warnings of AI risks, citing rivalry with China",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_807163735592402354",
     "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
     "subtitle": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks....",
@@ -642,6 +719,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_2087514975478591970",
+    "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
+    "subtitle": "A new report warns Himalayan glaciers are melting faster, threatening India’s water, economy and communities....",
+    "speaker": "BBC Science",
+    "date": "2026-09-13",
+    "addedAt": "2026-09-14T03:00:18Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 161,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaThe Himalayas are melting faster - and India&#x27;s economy is &#x27;at risk&#x27;Image source, Nur Photo via Getty ImagesImage caption, India&#x27;s government says 56 glacial lakes had been classified as &quot;very high risk&quot;",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaThe Himalayas are melting faster - and India&#x27;s economy is &#x27;at risk&#x27;Image source, Nur Photo via Getty ImagesImage caption, India&#x27;s government says 56 glacial lakes had been classified as &quot;very high risk&quot;",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaThe Himalayas are melting faster - and India&#x27;s economy is &#x27;at risk&#x27;Image source, Nur Photo via Getty ImagesImage caption, India&#x27;s government says 56 glacial lakes had been classified as &quot;very high risk&quot;"
+          }
+        ]
+      },
+      {
+        "en": "India correspondentPublished4 hours agoThe Himalayas are approaching a dangerous threshold as glaciers melt faster, glacial lakes grow more unstable and the mountains face a widening gap in monitoring, according to new research.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "India correspondentPublished4 hours agoThe Himalayas are approaching a dangerous threshold as glaciers melt faster, glacial lakes grow more unstable and the mountains face a widening gap in monitoring, according to new research.",
+            "ko": "실시간 보도 번역: India correspondentPublished4 hours agoThe Himalayas are approaching a dangerous threshold as glaciers melt faster, glacial lakes grow more unstable and the mountains face a widening gap in monitoring, according to new research."
+          }
+        ]
+      },
+      {
+        "en": "The findings come in the aftermath of devastating floods in Nepal and Tibet, which killed more than 1,300 people and caused widespread destruction, highlighting the growing risks from a rapidly changing Himalayan environment.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The findings come in the aftermath of devastating floods in Nepal and Tibet, which killed more than 1,300 people and caused widespread destruction, highlighting the growing risks from a rapidly changing Himalayan environment.",
+            "ko": "실시간 보도 번역: The findings come in the aftermath of devastating floods in Nepal and Tibet, which killed more than 1,300 people and caused widespread destruction, highlighting the growing risks from a rapidly changing Himalayan environment."
+          }
+        ]
+      },
+      {
+        "en": "Himalayan glaciers are now losing mass 65% faster than they were a decade ago, the report by global consultancy Systemiq, produced with the Integrated Mountain Initiative and with technical contributions from the International Centre for Integrated Mountain Development (ICIMOD) and GB Pant National Institute of Himalayan Environment, says.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Himalayan glaciers are now losing mass 65% faster than they were a decade ago, the report by global consultancy Systemiq, produced with the Integrated Mountain Initiative and with technical contributions from the International Centre for Integrated Mountain Development (ICIMOD) and GB Pant National Institute of Himalayan Environment, says.",
+            "ko": "실시간 보도 번역: Himalayan glaciers are now losing mass 65% faster than they were a decade ago, the report by global consultancy Systemiq, produced with the Integrated Mountain Initiative and with technical contributions from the International Centre for Integrated Mountain Development (ICIMOD) and GB Pant National Institute of Himalayan Environment, says."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: The Himalayas are melting faster - and India's economy is 'at risk'",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "The Himalayas are melting faster - and India's economy is 'at risk'",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_1005199252393972868",
     "title": "Five night sky events to look out for this autumn",
     "subtitle": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky....",
@@ -1263,6 +1417,87 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_3122585877548045968",
+    "title": "Gloomy forecast for tenants as rent rises set to speed up",
+    "subtitle": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla....",
+    "speaker": "BBC Business",
+    "date": "2026-09-13",
+    "addedAt": "2026-09-14T03:00:19Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 157,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessGloomy forecast for tenants as rent rises set to speed upImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished3 hours agoThe rising cost of renting a home in the UK has accelerated after a three-year slowdown - with tenants told to expect more pain to come.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessGloomy forecast for tenants as rent rises set to speed upImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished3 hours agoThe rising cost of renting a home in the UK has accelerated after a three-year slowdown - with tenants told to expect more pain to come.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessGloomy forecast for tenants as rent rises set to speed upImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished3 hours agoThe rising cost of renting a home in the UK has accelerated after a three-year slowdown - with tenants told to expect more pain to come."
+          }
+        ]
+      },
+      {
+        "en": "Average rental costs for new tenancies were up 2.6% in July compared with a year earlier, according to property website Zoopla.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Average rental costs for new tenancies were up 2.",
+            "ko": "실시간 보도 번역: Average rental costs for new tenancies were up 2."
+          },
+          {
+            "en": "6% in July compared with a year earlier, according to property website Zoopla.",
+            "ko": "실시간 보도 번역: 6% in July compared with a year earlier, according to property website Zoopla."
+          }
+        ]
+      },
+      {
+        "en": "That remains lower than the rate of rising prices in general, but the property portal has forecast annual rent rises among privately rented homes will hit 4% or 5% by the end of the year.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "That remains lower than the rate of rising prices in general, but the property portal has forecast annual rent rises among privately rented homes will hit 4% or 5% by the end of the year.",
+            "ko": "실시간 보도 번역: That remains lower than the rate of rising prices in general, but the property portal has forecast annual rent rises among privately rented homes will hit 4% or 5% by the end of the year."
+          }
+        ]
+      },
+      {
+        "en": "It said there were fewer homes available to rent and - with potential first-time buyers put off by higher mortgage rates - competition for rental places in some areas was more intense.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It said there were fewer homes available to rent and - with potential first-time buyers put off by higher mortgage rates - competition for rental places in some areas was more intense.",
+            "ko": "실시간 보도 번역: It said there were fewer homes available to rent and - with potential first-time buyers put off by higher mortgage rates - competition for rental places in some areas was more intense."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Gloomy forecast for tenants as rent rises set to speed up",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Gloomy forecast for tenants as rent rises set to speed up",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_807163735592402354",
     "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
     "subtitle": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks....",
@@ -1846,6 +2081,85 @@ const READPULSE_ARTICLES = [
         "explanation": "EUV lithography carves nanoscale circuits thinner than human DNA onto semiconductor wafers."
       }
     ]
+  },
+  {
+    "id": "auto_sports_5222193758280795044",
+    "title": "Zverev caps transformational year with US Open triumph",
+    "subtitle": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-13",
+    "addedAt": "2026-09-14T03:00:19Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 160,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev caps transformational year with US Open triumphImage source, Getty ImagesImage caption, Alexander Zverev has finally landed his first US Open title, six years after losing in the 2020 final",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev caps transformational year with US Open triumphImage source, Getty ImagesImage caption, Alexander Zverev has finally landed his first US Open title, six years after losing in the 2020 final",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev caps transformational year with US Open triumphImage source, Getty ImagesImage caption, Alexander Zverev has finally landed his first US Open title, six years after losing in the 2020 final"
+          }
+        ]
+      },
+      {
+        "en": "BBC Sport tennis news reporterPublished13 September 2026Alexander Zverev used his greater experience to beat home hope Ben Shelton in the US Open final and quiet a partisan crowd hoping to laud a rare American men&#x27;s champion.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC Sport tennis news reporterPublished13 September 2026Alexander Zverev used his greater experience to beat home hope Ben Shelton in the US Open final and quiet a partisan crowd hoping to laud a rare American men&#x27;s champion.",
+            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished13 September 2026Alexander Zverev used his greater experience to beat home hope Ben Shelton in the US Open final and quiet a partisan crowd hoping to laud a rare American men&#x27;s champion."
+          }
+        ]
+      },
+      {
+        "en": "German top seed Zverev lifted a heavy burden by winning his first major title at this year&#x27;s French Open and has quickly added another with a 6-3 7-6 (7-2) 5-7 6-2 victory over Shelton in New York.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "German top seed Zverev lifted a heavy burden by winning his first major title at this year&#x27;s French Open and has quickly added another with a 6-3 7-6 (7-2) 5-7 6-2 victory over Shelton in New York.",
+            "ko": "실시간 보도 번역: German top seed Zverev lifted a heavy burden by winning his first major title at this year&#x27;s French Open and has quickly added another with a 6-3 7-6 (7-2) 5-7 6-2 victory over Shelton in New York."
+          }
+        ]
+      },
+      {
+        "en": "At the start of the season, there were question marks over whether 29-year-old Zverev would ever win one of the sport&#x27;s most prestigious prizes.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "At the start of the season, there were question marks over whether 29-year-old Zverev would ever win one of the sport&#x27;s most prestigious prizes.",
+            "ko": "실시간 보도 번역: At the start of the season, there were question marks over whether 29-year-old Zverev would ever win one of the sport&#x27;s most prestigious prizes."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Zverev caps transformational year with US Open triumph",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Zverev caps transformational year with US Open triumph",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_352829184912820918",
@@ -2643,66 +2957,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_sports_4431795291470016343",
-    "title": "Fixed v fluid - the opposing approaches of Maresca and Carrick",
-    "subtitle": "Enzo Maresca and Michael Carrick will go head to head in Sunday's Manchester derby, with their teams set up very differently....",
-    "speaker": "BBC Premier League",
-    "date": "2026-09-13",
-    "addedAt": "2026-09-13T15:29:39Z",
-    "category": "sports",
+    "id": "auto_culture_8352899774812207123",
+    "title": "Diljit Dosanjh makes history under the famous Wembley arch",
+    "subtitle": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-12",
+    "addedAt": "2026-09-14T03:00:20Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 153,
+    "wordCount": 110,
     "keywords": [
-      "#프리미어리그",
-      "#해외축구",
-      "#EPL속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsPremier LeagueScores &amp; FixturesTableFollow Your TeamTransfersTop ScorersGossipFixed v fluid - the opposing approaches of Maresca and CarrickImage caption, Enzo Maresca&#x27;s City will face Michael Carrick&#x27;s United on Sunday",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archImage source, Getty ImagesByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026On Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsPremier LeagueScores &amp; FixturesTableFollow Your TeamTransfersTop ScorersGossipFixed v fluid - the opposing approaches of Maresca and CarrickImage caption, Enzo Maresca&#x27;s City will face Michael Carrick&#x27;s United on Sunday",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsPremier LeagueScores &amp; FixturesTableFollow Your TeamTransfersTop ScorersGossipFixed v fluid - the opposing approaches of Maresca and CarrickImage caption, Enzo Maresca&#x27;s City will face Michael Carrick&#x27;s United on Sunday"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archImage source, Getty ImagesByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026On Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archImage source, Getty ImagesByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026On Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!"
           }
         ]
       },
       {
-        "en": "Football tactics correspondentPublished9 hours agoThere are many things that Manchester City and Manchester United have in common - but one thing decisively separates them this season.",
+        "en": "Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Football tactics correspondentPublished9 hours agoThere are many things that Manchester City and Manchester United have in common - but one thing decisively separates them this season.",
-            "ko": "실시간 보도 번역: Football tactics correspondentPublished9 hours agoThere are many things that Manchester City and Manchester United have in common - but one thing decisively separates them this season."
+            "en": "Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;.",
+            "ko": "실시간 보도 번역: Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;."
           }
         ]
       },
       {
-        "en": "Based just five miles apart and united by a shared desire to return to the top of the Premier League, their gameplans are almost diametrically opposed.",
+        "en": "Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Based just five miles apart and united by a shared desire to return to the top of the Premier League, their gameplans are almost diametrically opposed.",
-            "ko": "실시간 보도 번역: Based just five miles apart and united by a shared desire to return to the top of the Premier League, their gameplans are almost diametrically opposed."
+            "en": "Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said.",
+            "ko": "실시간 보도 번역: Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said."
           }
         ]
       },
       {
-        "en": "The best teams in the world often play in similar ways, as demonstrated in last season&#x27;s Champions League final between between Paris St-Germain and Arsenal - teams who use similar shapes, look to dominate the ball, and encourage rotations into fixed positions.",
+        "en": "Addressing his fans, he reflected on the significance of the occasion. &quot;This moment will go down in the history books,&quot; he said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The best teams in the world often play in similar ways, as demonstrated in last season&#x27;s Champions League final between between Paris St-Germain and Arsenal - teams who use similar shapes, look to dominate the ball, and encourage rotations into fixed positions.",
-            "ko": "실시간 보도 번역: The best teams in the world often play in similar ways, as demonstrated in last season&#x27;s Champions League final between between Paris St-Germain and Arsenal - teams who use similar shapes, look to dominate the ball, and encourage rotations into fixed positions."
+            "en": "Addressing his fans, he reflected on the significance of the occasion.",
+            "ko": "실시간 보도 번역: Addressing his fans, he reflected on the significance of the occasion."
+          },
+          {
+            "en": "&quot;This moment will go down in the history books,&quot; he said.",
+            "ko": "실시간 보도 번역: &quot;This moment will go down in the history books,&quot; he said."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Fixed v fluid - the opposing approaches of Maresca and Carrick",
+      "글로벌 최신 소식: Diljit Dosanjh makes history under the famous Wembley arch",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2710,16 +3028,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Fixed v fluid - the opposing approaches of Maresca and Carrick",
+          "Diljit Dosanjh makes history under the famous Wembley arch",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "premier_league",
-    "sportPriority": 3
+    ]
   },
   {
     "id": "auto_culture_611870033178026403",
