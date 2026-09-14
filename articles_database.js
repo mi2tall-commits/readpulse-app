@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1579324089810079154",
+    "title": "Why are there concerns AI could threaten humanity, and how real are they?",
+    "subtitle": "Existential fears about AI have once again reared their head - here's what you need to know....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-14",
+    "addedAt": "2026-09-14T17:29:29Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 129,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechWhy are there concerns AI could threaten humanity, and how real are they?Image source, Getty ImagesImage caption, Calls for AI regulation are growing as concerned researchers and bosses issue disconcerting warnings about the tech&#x27;s potential",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechWhy are there concerns AI could threaten humanity, and how real are they?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechWhy are there concerns AI could threaten humanity, and how real are they?"
+          }
+        ]
+      },
+      {
+        "en": "In recent weeks, warnings about potential dangers of AI have spurred calls for coordinated action to slow the technology&#x27;s development.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "In recent weeks, warnings about potential dangers of AI have spurred calls for coordinated action to slow the technology&#x27;s development.",
+            "ko": "실시간 보도 번역: In recent weeks, warnings about potential dangers of AI have spurred calls for coordinated action to slow the technology&#x27;s development."
+          }
+        ]
+      },
+      {
+        "en": "Claims by current and former researchers that the tech will endanger humanity - with one suggesting there is a greater than 10% chance of it &quot;killing all humans&quot; - have raised alarm bells.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Claims by current and former researchers that the tech will endanger humanity - with one suggesting there is a greater than 10% chance of it &quot;killing all humans&quot; - have raised alarm bells.",
+            "ko": "실시간 보도 번역: Claims by current and former researchers that the tech will endanger humanity - with one suggesting there is a greater than 10% chance of it &quot;killing all humans&quot; - have raised alarm bells."
+          }
+        ]
+      },
+      {
+        "en": "Major developers OpenAI and Anthropic have urged lawmakers to regulate it, though some perhaps cynically suggest this move aims to cement their dominance over rivals.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Major developers OpenAI and Anthropic have urged lawmakers to regulate it, though some perhaps cynically suggest this move aims to cement their dominance over rivals.",
+            "ko": "실시간 보도 번역: Major developers OpenAI and Anthropic have urged lawmakers to regulate it, though some perhaps cynically suggest this move aims to cement their dominance over rivals."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Why are there concerns AI could threaten humanity, and how real are they?",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Why are there concerns AI could threaten humanity, and how real are they?",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_4952081422686546791",
     "title": "Trump downplays warnings of AI risks, citing rivalry with China",
     "subtitle": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\"....",
@@ -719,6 +796,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_92309545252494964",
+    "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+    "subtitle": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses....",
+    "speaker": "BBC Science",
+    "date": "2026-09-14",
+    "addedAt": "2026-09-14T17:29:30Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 130,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastZambians warned not to eat dead wildlife after anthrax kills dozens of animalsImage source, ReutersImage caption, Anthrax mainly affects grazing animals and can lead to sudden death (file photo)",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastZambians warned not to eat dead wildlife after anthrax kills dozens of animalsImage source, ReutersImage caption, Anthrax mainly affects grazing animals and can lead to sudden death (file photo)",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastZambians warned not to eat dead wildlife after anthrax kills dozens of animalsImage source, ReutersImage caption, Anthrax mainly affects grazing animals and can lead to sudden death (file photo)"
+          }
+        ]
+      },
+      {
+        "en": "Authorities in Zambia have warned people not to eat meat from wildlife after dozens of wild animals, including hippos, elephants, buffalo and a crocodile died following an anthrax outbreak.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Authorities in Zambia have warned people not to eat meat from wildlife after dozens of wild animals, including hippos, elephants, buffalo and a crocodile died following an anthrax outbreak.",
+            "ko": "실시간 보도 번역: Authorities in Zambia have warned people not to eat meat from wildlife after dozens of wild animals, including hippos, elephants, buffalo and a crocodile died following an anthrax outbreak."
+          }
+        ]
+      },
+      {
+        "en": "A disaster management agency official said over the weekend that 12 people had been infected with the disease after consuming dead wildlife in the Munyamadzi River area.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "A disaster management agency official said over the weekend that 12 people had been infected with the disease after consuming dead wildlife in the Munyamadzi River area.",
+            "ko": "실시간 보도 번역: A disaster management agency official said over the weekend that 12 people had been infected with the disease after consuming dead wildlife in the Munyamadzi River area."
+          }
+        ]
+      },
+      {
+        "en": "The official urged the public not to consume meat from animals that die naturally or from unknown causes, while urging the public to report any such cases.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The official urged the public not to consume meat from animals that die naturally or from unknown causes, while urging the public to report any such cases.",
+            "ko": "실시간 보도 번역: The official urged the public not to consume meat from animals that die naturally or from unknown causes, while urging the public to report any such cases."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_2087514975478591970",
     "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
     "subtitle": "A new report warns Himalayan glaciers are melting faster, threatening India’s water, economy and communities....",
@@ -1417,6 +1571,87 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_3097835139810571845",
+    "title": "Petrol and diesel prices hit highest since 2022",
+    "subtitle": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated....",
+    "speaker": "BBC Business",
+    "date": "2026-09-14",
+    "addedAt": "2026-09-14T17:29:32Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 130,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPetrol and diesel prices hit highest since 2022Image source, Maskot/Getty ImagesPublished2 March 2026Updated 5 hours agoPetrol and diesel prices have both hit the highest levels since 2022 as the conflict in the Middle East continues to impact drivers&#x27; finances.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPetrol and diesel prices hit highest since 2022Image source, Maskot/Getty ImagesPublished2 March 2026Updated 5 hours agoPetrol and diesel prices have both hit the highest levels since 2022 as the conflict in the Middle East continues to impact drivers&#x27; finances.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPetrol and diesel prices hit highest since 2022Image source, Maskot/Getty ImagesPublished2 March 2026Updated 5 hours agoPetrol and diesel prices have both hit the highest levels since 2022 as the conflict in the Middle East continues to impact drivers&#x27; finances."
+          }
+        ]
+      },
+      {
+        "en": "The average price of a litre of petrol now stands at 169.68p, according to the RAC motoring body, while diesel has risen to 191.68p.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The average price of a litre of petrol now stands at 169.",
+            "ko": "실시간 보도 번역: The average price of a litre of petrol now stands at 169."
+          },
+          {
+            "en": "68p, according to the RAC motoring body, while diesel has risen to 191.",
+            "ko": "실시간 보도 번역: 68p, according to the RAC motoring body, while diesel has risen to 191."
+          }
+        ]
+      },
+      {
+        "en": "The cost of filling up a vehicle is back to where it was after Russia launched a full-scale invasion of Ukraine more than four years ago.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The cost of filling up a vehicle is back to where it was after Russia launched a full-scale invasion of Ukraine more than four years ago.",
+            "ko": "실시간 보도 번역: The cost of filling up a vehicle is back to where it was after Russia launched a full-scale invasion of Ukraine more than four years ago."
+          }
+        ]
+      },
+      {
+        "en": "The US-Israel war with Iran has severely disrupted the production and transportation of oil across the region.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The US-Israel war with Iran has severely disrupted the production and transportation of oil across the region.",
+            "ko": "실시간 보도 번역: The US-Israel war with Iran has severely disrupted the production and transportation of oil across the region."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Petrol and diesel prices hit highest since 2022",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Petrol and diesel prices hit highest since 2022",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_3122585877548045968",
     "title": "Gloomy forecast for tenants as rent rises set to speed up",
     "subtitle": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla....",
@@ -2081,6 +2316,85 @@ const READPULSE_ARTICLES = [
         "explanation": "EUV lithography carves nanoscale circuits thinner than human DNA onto semiconductor wafers."
       }
     ]
+  },
+  {
+    "id": "auto_sports_1692676018627810958",
+    "title": "Zverev turns US Open tears into triumph",
+    "subtitle": "How a more composed Alexander Zverev stayed 'zen-like' to beat Ben Shelton and win the US Open, six years after a heart-breaking d...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-14",
+    "addedAt": "2026-09-14T17:29:32Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 144,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev turns US Open tears into triumphImage source, Getty ImagesImage caption, Alexander Zverev is the second German man to win the US Open in the Open era after Boris Becker",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev turns US Open tears into triumphImage source, Getty ImagesImage caption, Alexander Zverev is the second German man to win the US Open in the Open era after Boris Becker",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev turns US Open tears into triumphImage source, Getty ImagesImage caption, Alexander Zverev is the second German man to win the US Open in the Open era after Boris Becker"
+          }
+        ]
+      },
+      {
+        "en": "As he stepped up to the baseline, Alexander Zverev could be forgiven for letting his mind slip back to the last time he served for the US Open title.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "As he stepped up to the baseline, Alexander Zverev could be forgiven for letting his mind slip back to the last time he served for the US Open title.",
+            "ko": "실시간 보도 번역: As he stepped up to the baseline, Alexander Zverev could be forgiven for letting his mind slip back to the last time he served for the US Open title."
+          }
+        ]
+      },
+      {
+        "en": "Six years ago, the German top seed threw away a two-set lead in a devastating loss to Dominic Thiem, having served for the match in the fifth set.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Six years ago, the German top seed threw away a two-set lead in a devastating loss to Dominic Thiem, having served for the match in the fifth set.",
+            "ko": "실시간 보도 번역: Six years ago, the German top seed threw away a two-set lead in a devastating loss to Dominic Thiem, having served for the match in the fifth set."
+          }
+        ]
+      },
+      {
+        "en": "This time, instead of his own nerves, it was American Ben Shelton and the majority of the 24,000-strong crowd that stood in Zverev&#x27;s way.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "This time, instead of his own nerves, it was American Ben Shelton and the majority of the 24,000-strong crowd that stood in Zverev&#x27;s way.",
+            "ko": "실시간 보도 번역: This time, instead of his own nerves, it was American Ben Shelton and the majority of the 24,000-strong crowd that stood in Zverev&#x27;s way."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Zverev turns US Open tears into triumph",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Zverev turns US Open tears into triumph",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_5222193758280795044",
@@ -2859,100 +3173,79 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "sports_mlb_02",
-    "title": "AL East Pennant Race: Yankees Chase Rays as Aaron Judge Nears Return",
-    "subtitle": "The Tampa Bay Rays lead the division as New York fights for first place while Judge faces live pitching.",
-    "speaker": "MLB.com & Fangraphs (New York)",
-    "sourceName": "MLB 공식 순위표 & Fangraphs 통계 (mlb.com)",
-    "sourceUrl": "https://www.mlb.com/yankees",
-    "factChecked": true,
-    "factCheckNotes": "탬파베이 레이스 AL 동부 1위, 양키스 4게임 차 2위 추격, 애런 저지 9월 5일 라이브 배팅 재개 실측 확인",
-    "date": "2026-09-06",
-    "category": "sports",
-    "sportSubcat": "mlb",
-    "sportPriority": 2,
+    "id": "auto_culture_1821852477103099367",
+    "title": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
+    "subtitle": "Beef stars Oscar Isaac and Carey Mulligan are among the nominees at the ceremony in Los Angeles....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-13",
+    "addedAt": "2026-09-14T17:29:36Z",
+    "category": "culture",
     "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 153,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 133,
     "keywords": [
-      "#MLB",
-      "#양키스",
-      "#애런저지",
-      "#AL동부"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
-    "addedAt": "2026-09-06T21:00:00Z",
     "paragraphs": [
       {
-        "en": "The American League East division race is heating up as baseball enters its critical final stretch. The Tampa Bay Rays currently hold first place with eighty-five wins, four games ahead of the New York Yankees. The Yankees are fighting fiercely in second place, hoping to overtake Tampa Bay before the regular season ends.",
-        "ko": "프로야구 정규시즌이 막바지 승부처에 접어들면서 아메리칸리그 동부지구 순위 싸움이 뜨겁게 달아오르고 있습니다. 탬파베이 레이스가 85승을 거두며 뉴욕 양키스에 4경기 차 앞선 1위를 달리고 있습니다. 양키스는 정규시즌이 끝나기 전 탬파베이를 따라잡기 위해 2위 자리에서 맹추격을 펼치고 있습니다.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEmmy Awards: How to watch, who is nominated and why Heated Rivalry is missingImage source, Getty ImagesImage caption, Zendaya is the only Euphoria star to be nominated for an acting award",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The American League East division race is heating up as baseball enters its critical final stretch.",
-            "ko": "아메리칸리그 동부지구 우승 경쟁이 시즌 막바지 결정적 국면에 접어들었습니다."
-          },
-          {
-            "en": "The Tampa Bay Rays currently hold first place with eighty-five wins, four games ahead of the New York Yankees.",
-            "ko": "탬파베이 레이스가 85승으로 양키스에 4게임 차 앞선 1위를 기록 중입니다."
-          },
-          {
-            "en": "The Yankees are fighting fiercely in second place, hoping to overtake Tampa Bay before the regular season ends.",
-            "ko": "양키스는 시즌 종료 전 역전을 노리며 2위에서 맹렬한 추격전을 벌이고 있습니다."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEmmy Awards: How to watch, who is nominated and why Heated Rivalry is missingImage source, Getty ImagesImage caption, Zendaya is the only Euphoria star to be nominated for an acting award",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEmmy Awards: How to watch, who is nominated and why Heated Rivalry is missingImage source, Getty ImagesImage caption, Zendaya is the only Euphoria star to be nominated for an acting award"
           }
         ]
       },
       {
-        "en": "Yankees fans received encouraging news this weekend regarding team captain Aaron Judge. Judge has been on the injured list with a rib issue, but he began facing live pitching at Yankee Stadium on September fifth. Even while playing in only fifty-nine games this year, Judge managed to hit seventeen home runs.",
-        "ko": "양키스 팬들은 이번 주말 팀의 주장 애런 저지와 관련해 반가운 소식을 접했습니다. 저지는 갈비뼈 부상으로 부상자 명단(IL)에 올라 있었으나, 9월 5일 양키 스타디움에서 라이브 배팅을 시작했습니다. 올해 단 59경기에만 출전했음에도 불구하고 저지는 17개의 홈런을 터뜨리는 압도적인 파워를 과시했습니다.",
+        "en": "Beef, Hacks, Pluribus and The Pitt are a few of the TV shows nominated at this year&#x27;s Emmy Awards, which take place on Monday in Los Angeles.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Yankees fans received encouraging news this weekend regarding team captain Aaron Judge.",
-            "ko": "양키스 팬들은 이번 주말 주장 애런 저지의 부상 회복 소식을 반겼습니다."
-          },
-          {
-            "en": "Judge has been on the injured list with a rib issue, but he began facing live pitching at Yankee Stadium on September fifth.",
-            "ko": "저지는 갈비뼈 부상 중이었으나 9월 5일 양키 스타디움에서 라이브 피칭 타격을 시작했습니다."
-          },
-          {
-            "en": "Even while playing in only fifty-nine games this year, Judge managed to hit seventeen home runs.",
-            "ko": "그는 올해 단 59경기 출전만으로도 17개의 홈런을 기록했습니다."
+            "en": "Beef, Hacks, Pluribus and The Pitt are a few of the TV shows nominated at this year&#x27;s Emmy Awards, which take place on Monday in Los Angeles.",
+            "ko": "실시간 보도 번역: Beef, Hacks, Pluribus and The Pitt are a few of the TV shows nominated at this year&#x27;s Emmy Awards, which take place on Monday in Los Angeles."
           }
         ]
       },
       {
-        "en": "A healthy return for Judge could provide the extra power the Yankees need during the intense pennant race. Both the Rays and Yankees are likely to secure postseason berths, but winning the division title guarantees valuable rest. Baseball fans in New York are watching every pitch with great excitement.",
-        "ko": "저지가 건강하게 복귀한다면 치열한 페넌트레이스에서 양키스 타선에 큰 힘을 실어줄 수 있습니다. 탬파베이 레이스와 양키스 모두 포스트시즌 진출이 유력하지만, 지구 우승을 차지하면 소중한 휴식일을 보장받을 수 있습니다. 뉴욕의 야구 팬들은 매 투구마다 큰 기대를 걸고 지켜보고 있습니다.",
+        "en": "Widow&#x27;s Bay, DTF St Louis, Slow Horses, The Bear and Abbott Elementary are also competing for prizes at the ceremony, which is seen as the US television industry&#x27;s most prestigious event.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A healthy return for Judge could provide the extra power the Yankees need during the intense pennant race.",
-            "ko": "저지의 복귀는 치열한 순위 싸움 중인 양키스 타선에 큰 파워를 보태줄 것입니다."
-          },
+            "en": "Widow&#x27;s Bay, DTF St Louis, Slow Horses, The Bear and Abbott Elementary are also competing for prizes at the ceremony, which is seen as the US television industry&#x27;s most prestigious event.",
+            "ko": "실시간 보도 번역: Widow&#x27;s Bay, DTF St Louis, Slow Horses, The Bear and Abbott Elementary are also competing for prizes at the ceremony, which is seen as the US television industry&#x27;s most prestigious event."
+          }
+        ]
+      },
+      {
+        "en": "Actors nominated for trophies include Zendaya, Noah Wyle, Sarah Snook and Colman Domingo, while Matthew Rhys, Carey Mulligan and Jack Lowden are among the British nominees.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
           {
-            "en": "Both the Rays and Yankees are likely to secure postseason berths, but winning the division title guarantees valuable rest.",
-            "ko": "양키스와 레이스 모두 가을야구 진출이 유력하지만 지구 우승은 귀중한 휴식을 줍니다."
-          },
-          {
-            "en": "Baseball fans in New York are watching every pitch with great excitement.",
-            "ko": "뉴욕의 야구팬들은 매 경기 투구 하나하나에 열광하고 있습니다."
+            "en": "Actors nominated for trophies include Zendaya, Noah Wyle, Sarah Snook and Colman Domingo, while Matthew Rhys, Carey Mulligan and Jack Lowden are among the British nominees.",
+            "ko": "실시간 보도 번역: Actors nominated for trophies include Zendaya, Noah Wyle, Sarah Snook and Colman Domingo, while Matthew Rhys, Carey Mulligan and Jack Lowden are among the British nominees."
           }
         ]
       }
     ],
     "takeaways": [
-      "탬파베이 레이스가 AL 동부 1위(85승)를 달리고 있으며, 양키스가 4게임 차 2위로 맹추격 중입니다.",
-      "갈비뼈 부상으로 결장 중이던 양키스 주장 애런 저지가 9월 5일 라이브 배팅을 시작하며 복귀에 시동을 걸었습니다.",
-      "저지는 올 시즌 59경기 만에 17홈런을 기록했으며, 9월 복귀 시 팀 타선의 핵심 열쇠가 될 전망입니다."
+      "글로벌 최신 소식: Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
     "quiz": [
       {
-        "question": "Which team currently holds first place in the American League East division?",
+        "question": "What is the primary topic of this report?",
         "options": [
-          "The Tampa Bay Rays.",
-          "A team from Antarctica made of penguins.",
-          "A local high school team from Kansas."
+          "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
+          "Historical retrospective",
+          "Unrelated general weather"
         ],
         "answer": 0,
-        "explanation": "The Tampa Bay Rays hold first place in the AL East with 85 wins, 4 games ahead of the Yankees."
+        "explanation": "The title directly reflects the main subject."
       }
     ]
   },
