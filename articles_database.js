@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_5728553344766705952",
+    "title": "Pubs in England and Wales to allow digital ID apps to prove age",
+    "subtitle": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-14",
+    "addedAt": "2026-09-15T16:05:33Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 150,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPubs in England and Wales to allow digital ID apps to prove ageImage source, Getty ImagesByChris VallanceSenior technology reporterPublished15 September 2026, 00:07 BSTAlcohol buyers will be able to use a digital ID app on their phones to prove their age under new rules introduced on Tuesday.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPubs in England and Wales to allow digital ID apps to prove ageImage source, Getty ImagesByChris VallanceSenior technology reporterPublished15 September 2026, 00:07 BSTAlcohol buyers will be able to use a digital ID app on their phones to prove their age under new rules introduced on Tuesday.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPubs in England and Wales to allow digital ID apps to prove ageImage source, Getty ImagesByChris VallanceSenior technology reporterPublished15 September 2026, 00:07 BSTAlcohol buyers will be able to use a digital ID app on their phones to prove their age under new rules introduced on Tuesday."
+          }
+        ]
+      },
+      {
+        "en": "Pubs and shops in England and Wales can use the tech in addition to current physical forms of ID - with the government saying a digital option will make age-checks quicker and more secure for customers and staff.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Pubs and shops in England and Wales can use the tech in addition to current physical forms of ID - with the government saying a digital option will make age-checks quicker and more secure for customers and staff.",
+            "ko": "실시간 보도 번역: Pubs and shops in England and Wales can use the tech in addition to current physical forms of ID - with the government saying a digital option will make age-checks quicker and more secure for customers and staff."
+          }
+        ]
+      },
+      {
+        "en": "Customers will be able to choose ID apps from a range of suppliers such as the Post Office, Yoti or Luciditi, provided they are on a government-approved list.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Customers will be able to choose ID apps from a range of suppliers such as the Post Office, Yoti or Luciditi, provided they are on a government-approved list.",
+            "ko": "실시간 보도 번역: Customers will be able to choose ID apps from a range of suppliers such as the Post Office, Yoti or Luciditi, provided they are on a government-approved list."
+          }
+        ]
+      },
+      {
+        "en": "The change means businesses will no longer be required to let people use physical ID, but the government contends most establishments would.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The change means businesses will no longer be required to let people use physical ID, but the government contends most establishments would.",
+            "ko": "실시간 보도 번역: The change means businesses will no longer be required to let people use physical ID, but the government contends most establishments would."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Pubs in England and Wales to allow digital ID apps to prove age",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Pubs in England and Wales to allow digital ID apps to prove age",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_4889364691183608982",
     "title": "Pubs in England and Wales to allow digital ID apps to prove age",
     "subtitle": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents....",
@@ -777,98 +854,135 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "news_tech_02",
-    "title": "The Rise of Reasoning AI Models: How Autonomous Systems Think Step-by-Step",
-    "subtitle": "New artificial intelligence breakthroughs enable systems to verify their own logic and solve complex software problems.",
-    "speaker": "MIT Technology Review (Boston)",
-    "sourceName": "MIT 테크놀로지 리뷰 (technologyreview.com)",
-    "sourceUrl": "https://www.technologyreview.com/",
-    "factChecked": true,
-    "factCheckNotes": "OpenAI 등 주요 연구소의 단계별 추론(Reasoning) 및 자율 검증 AI 모델 발전 동향 실측 확인",
-    "date": "2026-09-06",
-    "category": "tech",
+    "id": "auto_science_109381875754336775",
+    "title": "Will El Niño bring winter snow to the UK?",
+    "subtitle": "Will El Niño bring winter snow to the UK? Matt Taylor looks ahead to the autumn and winter months....",
+    "speaker": "BBC Science",
+    "date": "2026-09-15",
+    "addedAt": "2026-09-15T16:05:34Z",
+    "category": "science",
     "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 146,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 125,
     "keywords": [
-      "#추론AI",
-      "#소프트웨어",
-      "#자율에이전트",
-      "#인공지능"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
-    "addedAt": "2026-09-06T21:00:00Z",
     "paragraphs": [
       {
-        "en": "Artificial intelligence is advancing beyond simple text generation into active reasoning systems. Leading research labs have introduced new models designed to break complicated mathematical and coding challenges into smaller, logical steps. Instead of rushing to guess an answer, these models spend time checking their own thinking before responding.",
-        "ko": "인공지능이 단순한 텍스트 생성을 넘어 능동적인 논리 추론 시스템으로 진화하고 있습니다. 세계 유수의 AI 연구소들은 복잡한 수학과 프로그래밍 과제를 더 작은 논리적 단계로 쪼개어 해결하는 새로운 모델들을 선보였습니다. 서둘러 답을 짐작해 내놓는 대신, 이 모델들은 답변하기 전에 스스로 논리를 검토하는 데 시간을 투자합니다.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimate{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Weather: Will El Niño mean a snowy winter forecast?\",\"description\":\"Will El Niño bring winter snow to the UK? Matt Taylor looks ahead to the autumn and winter months.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0p9prrr.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0p9prrr.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0p9prrr.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0p9prrr.jpg\"],\"uploadDate\":\"2026-09-15T10:43:14.800Z\",\"duration\":\"PT50S\"}Will El Niño bring winter snow to the UK?To play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Artificial intelligence is advancing beyond simple text generation into active reasoning systems.",
-            "ko": "인공지능이 단순 텍스트 작성을 넘어 능동적 추론 시스템으로 진화하고 있습니다."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimate{\"@context\":\"https://schema.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimate{\"@context\":\"https://schema."
           },
           {
-            "en": "Leading research labs have introduced new models designed to break complicated mathematical and coding challenges into smaller, logical steps.",
-            "ko": "연구소들은 복잡한 수학과 코딩 과제를 논리적 단계로 나누는 모델을 내놓았습니다."
+            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Weather: Will El Niño mean a snowy winter forecast?",
+            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Weather: Will El Niño mean a snowy winter forecast?"
           },
           {
-            "en": "Instead of rushing to guess an answer, these models spend time checking their own thinking before responding.",
-            "ko": "이 모델들은 답변을 서두르지 않고 스스로 생각을 검토하고 수정합니다."
+            "en": "\",\"description\":\"Will El Niño bring winter snow to the UK?",
+            "ko": "실시간 보도 번역: \",\"description\":\"Will El Niño bring winter snow to the UK?"
+          },
+          {
+            "en": "Matt Taylor looks ahead to the autumn and winter months.",
+            "ko": "실시간 보도 번역: Matt Taylor looks ahead to the autumn and winter months."
+          },
+          {
+            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
+            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1920/galileo/p0p9prrr.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0p9prrr."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1248/galileo/p0p9prrr.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0p9prrr."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/688/galileo/p0p9prrr.",
+            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0p9prrr."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/400/galileo/p0p9prrr.",
+            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0p9prrr."
+          },
+          {
+            "en": "jpg\"],\"uploadDate\":\"2026-09-15T10:43:14.",
+            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-15T10:43:14."
+          },
+          {
+            "en": "800Z\",\"duration\":\"PT50S\"}Will El Niño bring winter snow to the UK?",
+            "ko": "실시간 보도 번역: 800Z\",\"duration\":\"PT50S\"}Will El Niño bring winter snow to the UK?"
+          },
+          {
+            "en": "To play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: To play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "In software engineering, these reasoning agents help programmers diagnose difficult software bugs and verify security safeguards. Developers write a brief description of what a program should do, and the AI agent automatically creates tests to check for errors. This disciplined approach drastically reduces programming mistakes and saves valuable engineering time.",
-        "ko": "소프트웨어 엔지니어링 분야에서 이러한 추론형 에이전트는 프로그래머들이 까다로운 버그를 진단하고 보안 취약점을 검증하도록 돕습니다. 개발자가 프로그램이 해야 할 역할을 간략히 설명하면, AI 에이전트가 오류를 감지하기 위한 테스트 코드를 자동으로 생성합니다. 이러한 체계적인 접근 방식은 프로그래밍 실수를 크게 줄이고 귀중한 개발 시간을 절약해 줍니다.",
+        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsEl NiñoFollow El Niño",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In software engineering, these reasoning agents help programmers diagnose difficult software bugs and verify security safeguards.",
-            "ko": "소프트웨어 분야에서 이 에이전트들은 버그를 찾고 보안을 점검합니다."
-          },
-          {
-            "en": "Developers write a brief description of what a program should do, and the AI agent automatically creates tests to check for errors.",
-            "ko": "개발자가 설명하면 AI가 자동으로 오류 검증 테스트를 작성합니다."
-          },
-          {
-            "en": "This disciplined approach drastically reduces programming mistakes and saves valuable engineering time.",
-            "ko": "이러한 방식은 코딩 실수를 대폭 줄이고 작업 효율을 높여줍니다."
+            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsEl NiñoFollow El Niño",
+            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsEl NiñoFollow El Niño"
           }
         ]
       },
       {
-        "en": "Computer scientists stress that human oversight remains critical to ensure fairness and prevent unexpected errors. Clear operational boundaries help ensure that autonomous software tools respect safety guidelines. As reasoning capabilities continue to mature, humans will spend less time fixing routine bugs and more time inventing innovative digital tools.",
-        "ko": "컴퓨터 과학자들은 공정성을 확보하고 예상치 못한 오류를 막기 위해 인간의 감독이 여전히 핵심적이라고 강조합니다. 명확한 운영 가이드라인은 자율 소프트웨어 도구들이 안전 수칙을 준수하도록 돕습니다. 추론 능력이 점차 성숙해짐에 따라, 인류는 일상적인 버그 수정에 매달리는 대신 새롭고 혁신적인 디지털 도구를 발명하는 데 더 많은 시간을 쏟게 될 것입니다.",
+        "en": "close panelYou are now following\n    El NiñoUpdates from your News topics will appear in My News and in a collection on the News homepage.ClimateFollow Climate",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Computer scientists stress that human oversight remains critical to ensure fairness and prevent unexpected errors.",
-            "ko": "안전과 오류 방지를 위해 인간의 감독과 가이드라인은 필수적입니다."
-          },
+            "en": "close panelYou are now following\n    El NiñoUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+            "ko": "실시간 보도 번역: close panelYou are now following\n    El NiñoUpdates from your News topics will appear in My News and in a collection on the News homepage."
+          }
+        ]
+      },
+      {
+        "en": "close panelYou are now following\n    ClimateUpdates from your News topics will appear in My News and in a collection on the News homepage.SnowFollow Snow",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
           {
-            "en": "Clear operational boundaries help ensure that autonomous software tools respect safety guidelines.",
-            "ko": "명확한 원칙 준수는 자율 AI 도구가 안전하게 동작하도록 만듭니다."
-          },
-          {
-            "en": "As reasoning capabilities continue to mature, humans will spend less time fixing routine bugs and more time inventing innovative digital tools.",
-            "ko": "추론 AI가 발전할수록 인류는 단순 버그 수정 대신 창의적 발명에 집중할 수 있습니다."
+            "en": "close panelYou are now following\n    ClimateUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+            "ko": "실시간 보도 번역: close panelYou are now following\n    ClimateUpdates from your News topics will appear in My News and in a collection on the News homepage."
           }
         ]
       }
     ],
     "takeaways": [
-      "단계별 논리 검증(Reasoning)을 수행하는 차세대 AI가 코딩과 복잡한 문제 해결을 돕습니다.",
-      "개발자가 기능을 설명하면 에이전트가 테스트 코드를 직접 짜서 오류를 사전 차단합니다.",
-      "안전한 인공지능 활용을 위해 인간의 체계적인 감독과 운영 가이드라인이 강조됩니다."
+      "글로벌 최신 소식: Will El Niño bring winter snow to the UK?",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
     "quiz": [
       {
-        "question": "How do reasoning AI models improve accuracy when solving difficult coding problems?",
+        "question": "What is the primary topic of this report?",
         "options": [
-          "They break problems into smaller logical steps and check their work before answering.",
-          "They randomly delete letters from the keyboard until the computer turns off.",
-          "They refuse to answer any questions unless given a slice of pizza."
+          "Will El Niño bring winter snow to the UK?",
+          "Historical retrospective",
+          "Unrelated general weather"
         ],
         "answer": 0,
-        "explanation": "Reasoning models break problems into structured sub-steps and verify each step logically."
+        "explanation": "The title directly reflects the main subject."
       }
     ]
   },
@@ -1673,98 +1787,87 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "news_science_02",
-    "title": "James Webb Space Telescope Spots Habitable Exoplanet Atmospheres in Deep Space",
-    "subtitle": "Astronomers discover signatures of water vapor and carbon molecules around distant rocky worlds.",
-    "speaker": "Nature Astronomy (Baltimore)",
-    "sourceName": "네이처 아스트로노미 & NASA JWST (webbtelescope.org)",
-    "sourceUrl": "https://webbtelescope.org/",
-    "factChecked": true,
-    "factCheckNotes": "제임스 웹 망원경의 암석형 외계 행성 대기 투과 스펙트럼 수증기 및 탄소 분자 검출 실측 확인",
-    "date": "2026-09-06",
-    "category": "science",
+    "id": "auto_economy_9212017722523387158",
+    "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+    "subtitle": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness....",
+    "speaker": "BBC Business",
+    "date": "2026-09-15",
+    "addedAt": "2026-09-15T16:05:34Z",
+    "category": "economy",
     "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 152,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 166,
     "keywords": [
-      "#제임스웹",
-      "#우주망원경",
-      "#외계행성",
-      "#생명체신호"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
-    "addedAt": "2026-09-06T21:00:00Z",
     "paragraphs": [
       {
-        "en": "The James Webb Space Telescope continues to revolutionize astronomy by revealing secrets of deep cosmic space. Orbiting one million miles away from Earth, its giant gold-coated mirrors detect faint infrared light from faraway star systems. Recently, scientists analyzed starlight passing through the atmosphere of a rocky exoplanet located forty light-years away.",
-        "ko": "제임스 웹 우주망원경은 깊은 우주의 비밀을 밝혀내며 천문학의 역사를 새로 쓰고 있습니다. 지구에서 150만 킬로미터(100만 마일) 떨어진 궤도를 돌며, 거대한 금빛 반사경을 통해 먼 별빛에서 나오는 희미한 적외선을 포착합니다. 최근 과학자들은 지구에서 40광년 떨어진 암석형 외계 행성의 대기를 통과한 별빛 스펙트럼을 정밀 분석했습니다.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessState pension likely to top £13,000 a year as UK wage growth slows to 3.9%Image source, Getty ImagesByEmer Moreau, Business reporter and Kevin Peachey, Cost of living correspondentPublished15 September 2026, 07:12 BSTUpdated 4 hours agoThe state pension is expected to top £13,000 a year, reigniting the debate about its long-term affordability and generational fairness.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The James Webb Space Telescope continues to revolutionize astronomy by revealing secrets of deep cosmic space.",
-            "ko": "제임스 웹 우주망원경은 우주의 비밀을 밝히며 천문학을 혁신하고 있습니다."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessState pension likely to top £13,000 a year as UK wage growth slows to 3.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessState pension likely to top £13,000 a year as UK wage growth slows to 3."
           },
           {
-            "en": "Orbiting one million miles away from Earth, its giant gold-coated mirrors detect faint infrared light from faraway star systems.",
-            "ko": "지구에서 100만 마일 떨어진 궤도에서 희미한 적외선 빛을 포착합니다."
-          },
-          {
-            "en": "Recently, scientists analyzed starlight passing through the atmosphere of a rocky exoplanet located forty light-years away.",
-            "ko": "과학자들은 40광년 떨어진 암석 외계 행성의 대기를 통과한 빛을 분석했습니다."
+            "en": "9%Image source, Getty ImagesByEmer Moreau, Business reporter and Kevin Peachey, Cost of living correspondentPublished15 September 2026, 07:12 BSTUpdated 4 hours agoThe state pension is expected to top £13,000 a year, reigniting the debate about its long-term affordability and generational fairness.",
+            "ko": "실시간 보도 번역: 9%Image source, Getty ImagesByEmer Moreau, Business reporter and Kevin Peachey, Cost of living correspondentPublished15 September 2026, 07:12 BSTUpdated 4 hours agoThe state pension is expected to top £13,000 a year, reigniting the debate about its long-term affordability and generational fairness."
           }
         ]
       },
       {
-        "en": "By studying the colors of light absorbed by the planet's sky, researchers detected traces of water vapor, carbon dioxide, and methane. These chemical signatures suggest that rocky worlds around smaller red dwarf stars can hold onto thick atmospheres. Previously, many astronomers worried that intense stellar flares would blow away protective planetary skies.",
-        "ko": "행성의 대기에 흡수된 빛의 색상 파장을 분석함으로써 연구진은 수증기, 이산화탄소, 메탄의 흔적을 검출하는 데 성공했습니다. 이러한 화학적 지표는 작은 적색왜성 주변을 공전하는 암석 행성들도 두터운 대기를 보존할 수 있음을 시사합니다. 이전까지 많은 천문학자들은 강한 항성 플레어가 행성의 보호 대기를 날려버릴 것이라 우려했었습니다.",
+        "en": "The full, flat-rate state pension is expected to rise by £488 a year in April, based on the latest official earnings figure released on Tuesday.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "By studying the colors of light absorbed by the planet's sky, researchers detected traces of water vapor, carbon dioxide, and methane.",
-            "ko": "빛의 스펙트럼을 연구하여 대기 속 수증기, 이산화탄소, 메탄의 흔적을 찾았습니다."
-          },
-          {
-            "en": "These chemical signatures suggest that rocky worlds around smaller red dwarf stars can hold onto thick atmospheres.",
-            "ko": "이는 작은 별 주위의 암석 행성도 두꺼운 대기를 유지할 수 있음을 보여줍니다."
-          },
-          {
-            "en": "Previously, many astronomers worried that intense stellar flares would blow away protective planetary skies.",
-            "ko": "이전에는 항성의 폭발로 대기가 모두 날아갔을 것이라는 우려가 많았습니다."
+            "en": "The full, flat-rate state pension is expected to rise by £488 a year in April, based on the latest official earnings figure released on Tuesday.",
+            "ko": "실시간 보도 번역: The full, flat-rate state pension is expected to rise by £488 a year in April, based on the latest official earnings figure released on Tuesday."
           }
         ]
       },
       {
-        "en": "Finding water vapor on a rocky exoplanet brings humanity one step closer to answering whether we are alone in the universe. Astronomers are now planning longer observations to confirm surface temperatures and weather patterns. The golden eye of the telescope is opening a new golden era of cosmic discovery.",
-        "ko": "암석형 외계 행성에서 수증기를 발견한 것은 '우주에 우리만 존재하는가'라는 오랜 질문에 인류가 한 걸음 더 다가섰음을 의미합니다. 천문학자들은 이제 행성의 표면 온도와 기상 패턴을 확인하기 위해 더 긴 관측 일정을 계획하고 있습니다. 제임스 웹 망원경의 황금빛 눈동자가 우주 탐사의 찬란한 황금기를 활짝 열어가고 있습니다.",
+        "en": "The so-called triple lock pension policy guarantees that the state pension will increase by either average wage growth, inflation or 2.5% - whichever is highest.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Finding water vapor on a rocky exoplanet brings humanity one step closer to answering whether we are alone in the universe.",
-            "ko": "암석 행성에서 수증기를 찾음으로써 우주 생명체 확인에 한 걸음 더 다가섰습니다."
+            "en": "The so-called triple lock pension policy guarantees that the state pension will increase by either average wage growth, inflation or 2.",
+            "ko": "실시간 보도 번역: The so-called triple lock pension policy guarantees that the state pension will increase by either average wage growth, inflation or 2."
           },
           {
-            "en": "Astronomers are now planning longer observations to confirm surface temperatures and weather patterns.",
-            "ko": "천문학자들은 표면 온도와 날씨 패턴을 확인하기 위해 추가 관측을 준비 중입니다."
-          },
+            "en": "5% - whichever is highest.",
+            "ko": "실시간 보도 번역: 5% - whichever is highest."
+          }
+        ]
+      },
+      {
+        "en": "Labour made a manifesto pledge to keep the triple lock until 2029, however economists have warned about the cost of the policy ahead of the Budget although pensioner groups say many people still face poverty in old age.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
           {
-            "en": "The golden eye of the telescope is opening a new golden era of cosmic discovery.",
-            "ko": "제임스 웹 망원경의 눈을 통해 우주 탐사의 새로운 전성기가 열리고 있습니다."
+            "en": "Labour made a manifesto pledge to keep the triple lock until 2029, however economists have warned about the cost of the policy ahead of the Budget although pensioner groups say many people still face poverty in old age.",
+            "ko": "실시간 보도 번역: Labour made a manifesto pledge to keep the triple lock until 2029, however economists have warned about the cost of the policy ahead of the Budget although pensioner groups say many people still face poverty in old age."
           }
         ]
       }
     ],
     "takeaways": [
-      "제임스 웹 우주망원경이 40광년 밖 암석형 외계 행성 대기에서 수증기와 이산화탄소를 포착했습니다.",
-      "적색왜성 주변 행성도 대기를 보존할 수 있음이 확인되어 거주 가능 행성의 후보군이 크게 넓어졌습니다.",
-      "외계 생명체 거주 가능성 확인을 위해 표면 온도와 대기 순환에 대한 정밀 후속 관측이 진행됩니다."
+      "글로벌 최신 소식: State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
     "quiz": [
       {
-        "question": "What gas molecules did the James Webb telescope detect in the exoplanet's atmosphere?",
+        "question": "What is the primary topic of this report?",
         "options": [
-          "Water vapor, carbon dioxide, and methane.",
-          "Pure liquid gasoline and rocket engine exhaust.",
-          "Clouds made of solid iron bowling balls."
+          "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+          "Historical retrospective",
+          "Unrelated general weather"
         ],
         "answer": 0,
-        "explanation": "JWST detected water vapor, carbon dioxide, and methane in the atmosphere of the rocky world."
+        "explanation": "The title directly reflects the main subject."
       }
     ]
   },
@@ -2497,100 +2600,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "news_economy_02",
-    "title": "The Global AI Chip Frontier: New Semiconductor Mega-Foundries Take Shape",
-    "subtitle": "Nations invest billions in subsidies to construct advanced chip fabrication plants and secure supply chains.",
-    "speaker": "Bloomberg Technology (Taipei)",
-    "sourceName": "블룸버그 테크놀로지 & TSMC/삼성 반도체 보도 (bloomberg.com)",
-    "sourceUrl": "https://www.bloomberg.com/",
-    "factChecked": true,
-    "factCheckNotes": "미국, 아시아, 유럽 글로벌 반도체 메가 팹 건설 및 극자외선(EUV) AI 칩 제조 투자 실측 확인",
-    "date": "2026-09-06",
-    "category": "economy",
+    "id": "auto_sports_3009503571985452815",
+    "title": "From Challenger Tour to Davis Cup - GB's Samuel on 'surreal' year",
+    "subtitle": "Briton Toby Samuel is to make his Davis Cup debut for Great Britain after what he calls a \"surreal\" 12 months....",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-14",
+    "addedAt": "2026-09-15T16:05:35Z",
+    "category": "sports",
     "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 145,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 172,
     "keywords": [
-      "#반도체",
-      "#AI칩",
-      "#파운드리",
-      "#공급망"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
-    "addedAt": "2026-09-06T21:00:00Z",
     "paragraphs": [
       {
-        "en": "A historic construction boom is transforming the semiconductor industry across Asia, North America, and Europe. Governments are spending billions of dollars in subsidies to build giant chip manufacturing factories known as foundries. As artificial intelligence applications multiply, high-speed graphics chips and fast memory processors have become vital national assets.",
-        "ko": "아시아, 북미, 유럽에 걸쳐 반도체 제조 공장 건설 붐이 역사적인 규모로 일어나고 있습니다. 각국 정부는 '파운드리'로 불리는 거대한 반도체 생산 공장을 유치하기 위해 수십억 달러의 보조금을 투입하고 있습니다. 인공지능 응용 서비스가 폭발적으로 늘어나면서 초고속 그래픽 칩과 고대역폭 메모리 반도체는 국가의 핵심 자산이 되었습니다.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel to make Davis Cup debut after &#x27;surreal&#x27; yearImage source, Getty ImagesImage caption, Toby Samuel made his US Open debut last month, his third Grand Slam appearance this year",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A historic construction boom is transforming the semiconductor industry across Asia, North America, and Europe.",
-            "ko": "아시아, 북미, 유럽 전역에서 거대한 반도체 공장 건설 붐이 일고 있습니다."
-          },
-          {
-            "en": "Governments are spending billions of dollars in subsidies to build giant chip manufacturing factories known as foundries.",
-            "ko": "각국 정부는 첨단 파운드리 공장을 짓기 위해 막대한 보조금을 지원하고 있습니다."
-          },
-          {
-            "en": "As artificial intelligence applications multiply, high-speed graphics chips and fast memory processors have become vital national assets.",
-            "ko": "AI 수요가 폭증하면서 고성능 그래픽 칩과 메모리는 핵심 전략 자산이 되었습니다."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel to make Davis Cup debut after &#x27;surreal&#x27; yearImage source, Getty ImagesImage caption, Toby Samuel made his US Open debut last month, his third Grand Slam appearance this year",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel to make Davis Cup debut after &#x27;surreal&#x27; yearImage source, Getty ImagesImage caption, Toby Samuel made his US Open debut last month, his third Grand Slam appearance this year"
           }
         ]
       },
       {
-        "en": "Building modern microchip fabrication plants requires extreme technical precision. Cleanrooms inside these facilities must be thousands of times cleaner than hospital operating rooms to avoid microscopic dust. Advanced lithography machines use extreme ultraviolet light to carve microscopic circuits that are thinner than a single strand of human DNA.",
-        "ko": "현대적인 반도체 제조 공장을 건설하기 위해서는 극한의 기술적 정밀도가 요구됩니다. 이 시설 내부의 클린룸은 눈에 보이지 않는 미세 먼지를 막기 위해 일반 병원 수술실보다 수천 배 더 청정해야 합니다. 첨단 극자외선(EUV) 노광 장비는 인간 DNA 한 가닥보다 더 얇은 미세 회로를 웨이퍼 위에 정밀하게 새겨 넣습니다.",
+        "en": "Toby Samuel says it was &quot;one of the best moments in my life&quot; when he was selected in Great Britain&#x27;s Davis Cup team to face Ecuador this weekend after a breakthrough year.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Building modern microchip fabrication plants requires extreme technical precision.",
-            "ko": "첨단 반도체 팹을 건설하는 데는 극한의 기술 정밀도가 필요합니다."
-          },
-          {
-            "en": "Cleanrooms inside these facilities must be thousands of times cleaner than hospital operating rooms to avoid microscopic dust.",
-            "ko": "클린룸은 미세 먼지를 막기 위해 병원 수술실보다 수천 배 깨끗해야 합니다."
-          },
-          {
-            "en": "Advanced lithography machines use extreme ultraviolet light to carve microscopic circuits that are thinner than a single strand of human DNA.",
-            "ko": "극자외선(EUV) 장비는 DNA 한 가닥보다 얇은 미세 회로를 새겨 넣습니다."
+            "en": "Toby Samuel says it was &quot;one of the best moments in my life&quot; when he was selected in Great Britain&#x27;s Davis Cup team to face Ecuador this weekend after a breakthrough year.",
+            "ko": "실시간 보도 번역: Toby Samuel says it was &quot;one of the best moments in my life&quot; when he was selected in Great Britain&#x27;s Davis Cup team to face Ecuador this weekend after a breakthrough year."
           }
         ]
       },
       {
-        "en": "Securing local chip production shields countries from geopolitical tensions and shipping supply chain delays. Semiconductor leaders like TSMC, Samsung, and Intel are training thousands of specialized engineers to operate these high-tech plants. The race to manufacture tomorrow's AI silicon will determine global technological leadership for decades to come.",
-        "ko": "자국 내에 반도체 생산 기지를 확보하는 것은 지정학적 갈등과 글로벌 공급망 물류 대란의 위험으로부터 국가 경제를 보호합니다. TSMC, 삼성, 인텔과 같은 반도체 선도 기업들은 이 첨단 공장들을 가동하기 위해 수천 명의 전문 엔지니어를 육성하고 있습니다. 미래 AI 반도체를 제조하기 위한 글로벌 경쟁은 향후 수십 년간의 세계 기술 패권을 결정지을 것입니다.",
+        "en": "The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Securing local chip production shields countries from geopolitical tensions and shipping supply chain delays.",
-            "ko": "자국 내 칩 생산 기지 확보는 지정학적 리스크와 공급망 위기를 막아줍니다."
-          },
+            "en": "The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams.",
+            "ko": "실시간 보도 번역: The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams."
+          }
+        ]
+      },
+      {
+        "en": "&quot;It&#x27;s surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I&#x27;m sat here ready to play the Davis Cup - it&#x27;s crazy,&quot; he told BBC Points West.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
           {
-            "en": "Semiconductor leaders like TSMC, Samsung, and Intel are training thousands of specialized engineers to operate these high-tech plants.",
-            "ko": "TSMC, 삼성, 인텔 등은 첨단 팹 가동을 위해 전문 엔지니어를 대거 양성하고 있습니다."
-          },
-          {
-            "en": "The race to manufacture tomorrow's AI silicon will determine global technological leadership for decades to come.",
-            "ko": "차세대 AI 칩 제조 경쟁은 향후 수십 년간의 글로벌 기술 리더십을 좌우합니다."
+            "en": "&quot;It&#x27;s surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I&#x27;m sat here ready to play the Davis Cup - it&#x27;s crazy,&quot; he told BBC Points West.",
+            "ko": "실시간 보도 번역: &quot;It&#x27;s surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I&#x27;m sat here ready to play the Davis Cup - it&#x27;s crazy,&quot; he told BBC Points West."
           }
         ]
       }
     ],
     "takeaways": [
-      "전 세계적으로 AI 반도체 자급률을 높이기 위한 메가 파운드리 건설 투자가 가속화되고 있습니다.",
-      "병원 수술실보다 수천 배 깨끗한 클린룸과 극자외선(EUV) 미세 공정이 기술 경쟁력의 핵심입니다.",
-      "국가별 반도체 보조금 정책과 글로벌 공급망 다변화가 기술 패권의 핵심 지표로 부상했습니다."
+      "글로벌 최신 소식: From Challenger Tour to Davis Cup - GB's Samuel on 'surreal' year",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
     "quiz": [
       {
-        "question": "Why are extreme ultraviolet (EUV) lithography machines used in chip fabrication?",
+        "question": "What is the primary topic of this report?",
         "options": [
-          "To carve microscopic circuits thinner than human DNA on silicon wafers.",
-          "To bake fresh bread for factory workers during lunch breaks.",
-          "To paint bright red flowers on the outside walls of the factory."
+          "From Challenger Tour to Davis Cup - GB's Samuel on 'surreal' year",
+          "Historical retrospective",
+          "Unrelated general weather"
         ],
         "answer": 0,
-        "explanation": "EUV lithography carves nanoscale circuits thinner than human DNA onto semiconductor wafers."
+        "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_2887979529471664674",
@@ -3331,100 +3417,79 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "sports_tennis_usopen_02",
-    "title": "US Open 2026: With Sinner Sidelined, Men's Draw Opens for Alcaraz and Zverev",
-    "subtitle": "The knee injury withdrawal of world number one Jannik Sinner creates an unpredictable fight for the championship.",
-    "speaker": "ATP Tour & US Open Official (New York)",
-    "sourceName": "ATP 공식 부상 기권 발표 (atptour.com)",
-    "sourceUrl": "https://www.atptour.com/",
-    "factChecked": true,
-    "factCheckNotes": "세계 1위 신너의 오른쪽 무릎 힘줄염 부상 개막 전 기권 및 츠베레프(1번 시드), 알카라스(2번 시드) 우승 경쟁 실측 확인",
-    "date": "2026-09-06",
-    "category": "sports",
-    "sportSubcat": "tennis",
-    "sportPriority": 1,
+    "id": "auto_culture_1953380217991533900",
+    "title": "Five things you may not know about Emmy history-maker Matthew Rhys",
+    "subtitle": "The Welsh actor became the first person to win two lead acting prizes in one night at the Emmy Awards....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-15",
+    "addedAt": "2026-09-15T16:05:36Z",
+    "category": "culture",
     "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 154,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 132,
     "keywords": [
-      "#US오픈",
-      "#신너기권",
-      "#알카라스",
-      "#아서애시"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
-    "addedAt": "2026-09-06T20:00:00Z",
     "paragraphs": [
       {
-        "en": "The 2026 US Open men's singles championship is full of drama and unexpected twists. Tennis fans were shocked when world number one Jannik Sinner had to withdraw before the tournament due to a right knee injury. Without the top-ranked Italian superstar on the courts of Flushing Meadows, the battle for the trophy is completely wide open.",
-        "ko": "2026 US오픈 남자 단식 챔피언십은 극적인 드라마와 예상치 못한 반전으로 가득 차 있습니다. 세계 1위 얀니크 신너가 오른쪽 무릎 부상으로 대회 개막 전 전격 기권하자 테니스 팬들은 큰 충격을 받았습니다. 플러싱 메도스 코트에 세계 1위 이탈리아 슈퍼스타가 없는 상황에서, 우승 트로피를 향한 경쟁은 완전히 안갯속에 빠졌습니다.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFive things you may not know about Emmy history-maker Matthew RhysImage source, Getty ImagesImage caption, Matthew Rhys, who grew up in Cardiff made history at the Emmy Awards, becoming the first person to win two lead acting prizes in one night",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 2026 US Open men's singles championship is full of drama and unexpected twists.",
-            "ko": "2026 US오픈 남자 단식 챔피언십은 극적인 반전과 드라마로 가득합니다."
-          },
-          {
-            "en": "Tennis fans were shocked when world number one Jannik Sinner had to withdraw before the tournament due to a right knee injury.",
-            "ko": "세계 1위 신너가 무릎 부상으로 대회 직전 기권하자 팬들은 큰 충격을 받았습니다."
-          },
-          {
-            "en": "Without the top-ranked Italian superstar on the courts of Flushing Meadows, the battle for the trophy is completely wide open.",
-            "ko": "세계 1위가 없는 가운데 플러싱 메도스의 우승 경쟁은 완전히 활짝 열렸습니다."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFive things you may not know about Emmy history-maker Matthew RhysImage source, Getty ImagesImage caption, Matthew Rhys, who grew up in Cardiff made history at the Emmy Awards, becoming the first person to win two lead acting prizes in one night",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFive things you may not know about Emmy history-maker Matthew RhysImage source, Getty ImagesImage caption, Matthew Rhys, who grew up in Cardiff made history at the Emmy Awards, becoming the first person to win two lead acting prizes in one night"
           }
         ]
       },
       {
-        "en": "Top-seeded Alexander Zverev and Spain's Carlos Alcaraz are now the main favorites to capture the crown. Alcaraz has thrilled the New York crowd with his lightning-fast sprint speed and creative drop shots. Meanwhile, American stars Frances Tiafoe and Ben Shelton have used their explosive serves to advance deep into the second week.",
-        "ko": "이제 1번 시드 알렉산더 츠베레프와 스페인의 카를로스 알카라스가 가장 유력한 우승 후보로 꼽힙니다. 알카라스는 번개 같은 스피드와 창의적인 드롭샷으로 뉴욕 관중들을 열광시켰습니다. 한편 미국의 프랜시스 티아포와 벤 셸턴은 폭발적인 서브를 앞세워 대회 2주 차 깊숙이 진출했습니다.",
+        "en": "Hollywood actor Matthew Rhys has made history at the Emmys by becoming the first person to win two lead acting prizes in one night.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Top-seeded Alexander Zverev and Spain's Carlos Alcaraz are now the main favorites to capture the crown.",
-            "ko": "1번 시드 츠베레프와 2번 시드 알카라스가 유력한 우승 후보로 떠올랐습니다."
-          },
-          {
-            "en": "Alcaraz has thrilled the New York crowd with his lightning-fast sprint speed and creative drop shots.",
-            "ko": "알카라스는 번개 같은 스피드와 절묘한 드롭샷으로 관중들을 사로잡았습니다."
-          },
-          {
-            "en": "Meanwhile, American stars Frances Tiafoe and Ben Shelton have used their explosive serves to advance deep into the second week.",
-            "ko": "미국의 티아포와 벤 셸턴도 강력한 서브로 16강과 8강에 진출했습니다."
+            "en": "Hollywood actor Matthew Rhys has made history at the Emmys by becoming the first person to win two lead acting prizes in one night.",
+            "ko": "실시간 보도 번역: Hollywood actor Matthew Rhys has made history at the Emmys by becoming the first person to win two lead acting prizes in one night."
           }
         ]
       },
       {
-        "en": "Sinner was recently spotted watching the Formula 1 race in Italy while continuing his knee recovery. In New York, every remaining player understands that a historic opportunity has arrived. With no single dominating champion, Arthur Ashe Stadium will witness an unpredictable fight for Grand Slam glory.",
-        "ko": "신너는 최근 무릎 회복을 이어가는 동안 이탈리아 F1 레이스를 관람하는 모습이 포착되기도 했습니다. 뉴욕에 남아 있는 모든 선수들은 역사적인 절호의 기회가 찾아왔음을 잘 알고 있습니다. 절대적인 독주자가 없는 상황에서 아서 애시 스타디움은 그랜드슬램 영광을 차지하기 위한 예측 불허의 명승부를 맞이하고 있습니다.",
+        "en": "He was named best lead actor in a limited series for the psychological thriller The Beast In Me, and best lead actor in a comedy for his role in Widow&#x27;s Bay.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Sinner was recently spotted watching the Formula 1 race in Italy while continuing his knee recovery.",
-            "ko": "신너는 무릎 치료 중 이탈리아 F1 그랑프리를 관람하는 모습이 포착되었습니다."
-          },
+            "en": "He was named best lead actor in a limited series for the psychological thriller The Beast In Me, and best lead actor in a comedy for his role in Widow&#x27;s Bay.",
+            "ko": "실시간 보도 번역: He was named best lead actor in a limited series for the psychological thriller The Beast In Me, and best lead actor in a comedy for his role in Widow&#x27;s Bay."
+          }
+        ]
+      },
+      {
+        "en": "Here are five things you may not already know about the history-making 51-year-old.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
           {
-            "en": "In New York, every remaining player understands that a historic opportunity has arrived.",
-            "ko": "뉴욕에 남은 선수들은 역사적인 우승 기회가 왔음을 직감하고 있습니다."
-          },
-          {
-            "en": "With no single dominating champion, Arthur Ashe Stadium will witness an unpredictable fight for Grand Slam glory.",
-            "ko": "절대 강자가 부재한 아서 애시 스타디움은 예측 불허의 명승부를 예고합니다."
+            "en": "Here are five things you may not already know about the history-making 51-year-old.",
+            "ko": "실시간 보도 번역: Here are five things you may not already know about the history-making 51-year-old."
           }
         ]
       }
     ],
     "takeaways": [
-      "세계 1위 얀니크 신너가 무릎 부상으로 2026 US오픈 개막 전 기권하여 남자 단식 우승 판도가 활짝 열렸습니다.",
-      "1번 시드 츠베레프와 2번 시드 알카라스가 유력 후보이며, 티아포와 셸턴 등 미국 스타들도 돌풍을 이어가고 있습니다.",
-      "신너의 부재 속에 아서 애시 스타디움에서 올해 마지막 그랜드슬램 트로피를 향한 치열한 각축전이 펼쳐지고 있습니다."
+      "글로벌 최신 소식: Five things you may not know about Emmy history-maker Matthew Rhys",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
     "quiz": [
       {
-        "question": "Why did Jannik Sinner miss the 2026 US Open tennis championship?",
+        "question": "What is the primary topic of this report?",
         "options": [
-          "He withdrew prior to the event due to a right knee injury.",
-          "He decided to become an astronaut on a mission to Saturn.",
-          "He lost his tennis shoes at an airport luggage carousel."
+          "Five things you may not know about Emmy history-maker Matthew Rhys",
+          "Historical retrospective",
+          "Unrelated general weather"
         ],
         "answer": 0,
-        "explanation": "Sinner had to withdraw on August 21 due to knee tendinous inflammation."
+        "explanation": "The title directly reflects the main subject."
       }
     ]
   },
@@ -4153,102 +4218,6 @@ const READPULSE_ARTICLES = [
         ],
         "answer": 0,
         "explanation": "Actor and filmmaker George Clooney was honored with a lifetime achievement award at the opening festivities."
-      }
-    ]
-  },
-  {
-    "id": "news_culture_02",
-    "title": "The Global Rise of Webtoons: South Korean Digital Comics Transform Entertainment",
-    "subtitle": "Vertical scrolling comics capture international smartphone readers, inspiring global television series.",
-    "speaker": "Variety & The Korea Herald (Seoul)",
-    "sourceName": "버라이어티 & 코리아헤럴드 문화 보도 (variety.com)",
-    "sourceUrl": "https://variety.com/",
-    "factChecked": true,
-    "factCheckNotes": "한국에서 시작된 모바일 세로 스크롤 웹툰의 글로벌 플랫폼 확장 및 실사 OTT 드라마 제작 파이프라인 실측 확인",
-    "date": "2026-09-06",
-    "category": "culture",
-    "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 139,
-    "keywords": [
-      "#K웹툰",
-      "#K콘텐츠",
-      "#디지털만화",
-      "#글로벌한류"
-    ],
-    "addedAt": "2026-09-06T21:00:00Z",
-    "paragraphs": [
-      {
-        "en": "Digital comics designed specifically for smartphone screens are taking the international entertainment market by storm. Originating in South Korea, webtoons use vertical scrolling format that makes reading effortless on mobile devices. Young readers from North America, Europe, and Southeast Asia read millions of episodes every single day on digital platforms.",
-        "ko": "스마트폰 화면에 최적화된 디지털 만화가 세계 엔터테인먼트 시장을 강타하고 있습니다. 한국에서 시작된 웹툰은 모바일 기기에서 손가락으로 가볍게 넘겨볼 수 있는 세로 스크롤 방식을 도입하여 읽기 편하게 만들었습니다. 북미, 유럽, 동남아시아의 젊은 독자층은 디지털 플랫폼에서 매일 수백만 편의 웹툰 에피소드를 소비하고 있습니다.",
-        "sentences": [
-          {
-            "en": "Digital comics designed specifically for smartphone screens are taking the international entertainment market by storm.",
-            "ko": "스마트폰 화면에 맞춘 디지털 만화가 세계 엔터테인먼트 시장을 휩쓸고 있습니다."
-          },
-          {
-            "en": "Originating in South Korea, webtoons use vertical scrolling format that makes reading effortless on mobile devices.",
-            "ko": "한국에서 시작된 웹툰은 모바일에 최적화된 세로 스크롤 방식으로 읽기 쉽습니다."
-          },
-          {
-            "en": "Young readers from North America, Europe, and Southeast Asia read millions of episodes every single day on digital platforms.",
-            "ko": "북미, 유럽, 동남아의 젊은 독자들이 매일 수백만 편의 에피소드를 즐깁니다."
-          }
-        ]
-      },
-      {
-        "en": "What makes webtoons so popular is their fast pacing and relatable emotional characters. Writers and digital illustrators produce engaging stories across romance, superhero fantasy, and psychological mystery. When a webtoon becomes successful, global streaming studios quickly adapt the story into high-budget live-action television series.",
-        "ko": "웹툰이 이토록 큰 인기를 끄는 이유는 빠른 스토리 전개와 깊이 공감할 수 있는 매력적인 캐릭터 덕분입니다. 작가들과 일러스트레이터들은 로맨스, 히어로 판타지, 심리 미스터리 등 다양한 장르에서 몰입도 높은 스토리를 창작합니다. 웹툰이 인기를 얻으면 글로벌 스트리밍 OTT 플랫폼들이 곧바로 대규모 실사 드라마 시리즈로 영상화합니다.",
-        "sentences": [
-          {
-            "en": "What makes webtoons so popular is their fast pacing and relatable emotional characters.",
-            "ko": "웹툰의 인기 비결은 빠른 전개 속도와 공감할 수 있는 입체적 캐릭터입니다."
-          },
-          {
-            "en": "Writers and digital illustrators produce engaging stories across romance, superhero fantasy, and psychological mystery.",
-            "ko": "작가들은 로맨스, 판타지, 미스터리 등 다채로운 장르의 스토리를 창작합니다."
-          },
-          {
-            "en": "When a webtoon becomes successful, global streaming studios quickly adapt the story into high-budget live-action television series.",
-            "ko": "웹툰이 흥행하면 글로벌 스트리밍 기업들이 대규모 실사 드라마로 제작합니다."
-          }
-        ]
-      },
-      {
-        "en": "This creative pipeline has turned digital webtoons into a primary engine for the ongoing Korean cultural wave. International artists are now creating original works directly on webtoon apps in their native languages. Modern digital storytelling proves that creative imagination knows no cultural or geographic boundaries.",
-        "ko": "이러한 창작 파이프라인은 디지털 웹툰을 오늘날 한류(K-Culture)의 핵심 성장 엔진으로 탈바꿈시켰습니다. 이제는 세계 각국의 현지 아티스트들도 자신의 모국어로 웹툰 앱에서 오리지널 작품을 직접 연재하고 있습니다. 현대의 디지털 스토리텔링은 창의적인 상상력 앞에는 문화나 국경의 장벽이 존재하지 않는다는 사실을 보여줍니다.",
-        "sentences": [
-          {
-            "en": "This creative pipeline has turned digital webtoons into a primary engine for the ongoing Korean cultural wave.",
-            "ko": "이러한 시스템은 웹툰을 한류 문화의 핵심적인 성장 동력으로 만들었습니다."
-          },
-          {
-            "en": "International artists are now creating original works directly on webtoon apps in their native languages.",
-            "ko": "이제는 해외 작가들도 각자의 모국어로 오리지널 웹툰을 활발히 창작합니다."
-          },
-          {
-            "en": "Modern digital storytelling proves that creative imagination knows no cultural or geographic boundaries.",
-            "ko": "디지털 스토리텔링은 창의적 상상력에 국경과 문화의 한계가 없음을 증명합니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "한국에서 탄생한 세로 스크롤 웹툰이 전 세계 모바일 Z세대를 사로잡으며 글로벌 문화 트렌드가 되었습니다.",
-      "인기 웹툰 IP가 넷플릭스 등 글로벌 OTT 실사 드라마와 애니메이션으로 재생산되는 슈퍼 IP 파이프라인이 정착했습니다.",
-      "현지 해외 작가들의 참여와 플랫폼 세계화를 통해 K-콘텐츠의 영향력이 국경을 넘어 확장되고 있습니다."
-    ],
-    "quiz": [
-      {
-        "question": "What mobile reading format helped make webtoons easy to read on smartphone screens?",
-        "options": [
-          "Vertical scrolling format.",
-          "Folding the phone into an origami swan.",
-          "Reading only when the screen is completely turned off."
-        ],
-        "answer": 0,
-        "explanation": "Vertical scrolling enables readers to browse comic panels naturally on smartphone screens."
       }
     ]
   },
