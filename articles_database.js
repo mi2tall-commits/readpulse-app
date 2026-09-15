@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_4889364691183608982",
+    "title": "Pubs in England and Wales to allow digital ID apps to prove age",
+    "subtitle": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-14",
+    "addedAt": "2026-09-15T03:02:48Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 148,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatPubs in England and Wales to allow digital ID apps to prove ageImage source, Getty ImagesByChris VallanceSenior technology reporterPublished3 hours agoAlcohol buyers will be able to use a digital ID app on their phones to prove their age under new rules introduced on Tuesday.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatPubs in England and Wales to allow digital ID apps to prove ageImage source, Getty ImagesByChris VallanceSenior technology reporterPublished3 hours agoAlcohol buyers will be able to use a digital ID app on their phones to prove their age under new rules introduced on Tuesday.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatPubs in England and Wales to allow digital ID apps to prove ageImage source, Getty ImagesByChris VallanceSenior technology reporterPublished3 hours agoAlcohol buyers will be able to use a digital ID app on their phones to prove their age under new rules introduced on Tuesday."
+          }
+        ]
+      },
+      {
+        "en": "Pubs and shops in England and Wales can use the tech in addition to current physical forms of ID - with the government saying a digital option will make age-checks quicker and more secure for customers and staff.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Pubs and shops in England and Wales can use the tech in addition to current physical forms of ID - with the government saying a digital option will make age-checks quicker and more secure for customers and staff.",
+            "ko": "실시간 보도 번역: Pubs and shops in England and Wales can use the tech in addition to current physical forms of ID - with the government saying a digital option will make age-checks quicker and more secure for customers and staff."
+          }
+        ]
+      },
+      {
+        "en": "Customers will be able to choose ID apps from a range of suppliers such as the Post Office, Yoti or Luciditi, provided they are on a government-approved list.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Customers will be able to choose ID apps from a range of suppliers such as the Post Office, Yoti or Luciditi, provided they are on a government-approved list.",
+            "ko": "실시간 보도 번역: Customers will be able to choose ID apps from a range of suppliers such as the Post Office, Yoti or Luciditi, provided they are on a government-approved list."
+          }
+        ]
+      },
+      {
+        "en": "The change means businesses will no longer be required to let people use physical ID, but the government contends most establishments would.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The change means businesses will no longer be required to let people use physical ID, but the government contends most establishments would.",
+            "ko": "실시간 보도 번역: The change means businesses will no longer be required to let people use physical ID, but the government contends most establishments would."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Pubs in England and Wales to allow digital ID apps to prove age",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Pubs in England and Wales to allow digital ID apps to prove age",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1579324089810079154",
     "title": "Why are there concerns AI could threaten humanity, and how real are they?",
     "subtitle": "Existential fears about AI have once again reared their head - here's what you need to know....",
@@ -796,6 +873,127 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_1231599758863847857",
+    "title": "Mass nesting brings swarms of turtles to Mexican beach",
+    "subtitle": "Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said....",
+    "speaker": "BBC Science",
+    "date": "2026-09-15",
+    "addedAt": "2026-09-15T03:02:48Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 130,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Mass nesting brings swarms of turtles to Mexican beach\",\"description\":\"Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0p9n3hz.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0p9n3hz.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0p9n3hz.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0p9n3hz.jpg\"],\"uploadDate\":\"2026-09-15T01:08:55.342Z\",\"duration\":\"PT30S\"}Mass nesting brings swarms of turtles to Mexican beachTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East{\"@context\":\"https://schema.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East{\"@context\":\"https://schema."
+          },
+          {
+            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Mass nesting brings swarms of turtles to Mexican beach\",\"description\":\"Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.",
+            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Mass nesting brings swarms of turtles to Mexican beach\",\"description\":\"Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said."
+          },
+          {
+            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
+            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1920/galileo/p0p9n3hz.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0p9n3hz."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1248/galileo/p0p9n3hz.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0p9n3hz."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/688/galileo/p0p9n3hz.",
+            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0p9n3hz."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/400/galileo/p0p9n3hz.",
+            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0p9n3hz."
+          },
+          {
+            "en": "jpg\"],\"uploadDate\":\"2026-09-15T01:08:55.",
+            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-15T01:08:55."
+          },
+          {
+            "en": "342Z\",\"duration\":\"PT30S\"}Mass nesting brings swarms of turtles to Mexican beachTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: 342Z\",\"duration\":\"PT30S\"}Mass nesting brings swarms of turtles to Mexican beachTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "CloseThousands of olive ridley turtles came to La Escobilla beach in Oaxaca, Mexico, to lay their eggs within 48 hours, according to sanctuary officials.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "CloseThousands of olive ridley turtles came to La Escobilla beach in Oaxaca, Mexico, to lay their eggs within 48 hours, according to sanctuary officials.",
+            "ko": "실시간 보도 번역: CloseThousands of olive ridley turtles came to La Escobilla beach in Oaxaca, Mexico, to lay their eggs within 48 hours, according to sanctuary officials."
+          }
+        ]
+      },
+      {
+        "en": "The natural phenomenon is known as &quot;la arribada&quot;, meaning &quot;the arrival&quot;, and sees hundreds of thousands of the amphibians swim ashore in southern Mexico.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The natural phenomenon is known as &quot;la arribada&quot;, meaning &quot;the arrival&quot;, and sees hundreds of thousands of the amphibians swim ashore in southern Mexico.",
+            "ko": "실시간 보도 번역: The natural phenomenon is known as &quot;la arribada&quot;, meaning &quot;the arrival&quot;, and sees hundreds of thousands of the amphibians swim ashore in southern Mexico."
+          }
+        ]
+      },
+      {
+        "en": "This is the sixth wave of the creatures in the nesting season, which started in March.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "This is the sixth wave of the creatures in the nesting season, which started in March.",
+            "ko": "실시간 보도 번역: This is the sixth wave of the creatures in the nesting season, which started in March."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Mass nesting brings swarms of turtles to Mexican beach",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Mass nesting brings swarms of turtles to Mexican beach",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_92309545252494964",
     "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
     "subtitle": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses....",
@@ -1571,6 +1769,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_5138433281111162635",
+    "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+    "subtitle": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement....",
+    "speaker": "BBC Business",
+    "date": "2026-09-15",
+    "addedAt": "2026-09-15T03:02:48Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 128,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI &#x27;kill switch&#x27; may need to be mandatory, Anthropic co-founder tells BBCTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI &#x27;kill switch&#x27; may need to be mandatory, Anthropic co-founder tells BBCTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI &#x27;kill switch&#x27; may need to be mandatory, Anthropic co-founder tells BBCTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "AI &quot;more powerful by the day&quot;, Anthropic co-founder tells BBC",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "AI &quot;more powerful by the day&quot;, Anthropic co-founder tells BBC",
+            "ko": "실시간 보도 번역: AI &quot;more powerful by the day&quot;, Anthropic co-founder tells BBC"
+          }
+        ]
+      },
+      {
+        "en": "An artificial intelligence &quot;kill switch&quot; which can be checked by a third party may need to be mandatory for companies, a co-founder of one of the world&#x27;s largest AI firms has told the BBC.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "An artificial intelligence &quot;kill switch&quot; which can be checked by a third party may need to be mandatory for companies, a co-founder of one of the world&#x27;s largest AI firms has told the BBC.",
+            "ko": "실시간 보도 번역: An artificial intelligence &quot;kill switch&quot; which can be checked by a third party may need to be mandatory for companies, a co-founder of one of the world&#x27;s largest AI firms has told the BBC."
+          }
+        ]
+      },
+      {
+        "en": "Jack Clark, one of seven founders of Anthropic, said a way of shutting off AI software completely if it gets too dangerous was something society &quot;might want to eventually pass rules around&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Jack Clark, one of seven founders of Anthropic, said a way of shutting off AI software completely if it gets too dangerous was something society &quot;might want to eventually pass rules around&quot;.",
+            "ko": "실시간 보도 번역: Jack Clark, one of seven founders of Anthropic, said a way of shutting off AI software completely if it gets too dangerous was something society &quot;might want to eventually pass rules around&quot;."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_3097835139810571845",
     "title": "Petrol and diesel prices hit highest since 2022",
     "subtitle": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated....",
@@ -2316,6 +2591,85 @@ const READPULSE_ARTICLES = [
         "explanation": "EUV lithography carves nanoscale circuits thinner than human DNA onto semiconductor wafers."
       }
     ]
+  },
+  {
+    "id": "auto_sports_2887979529471664674",
+    "title": "From Challenger Tour to Davis Cup - GB's Samuel on 'surreal' year",
+    "subtitle": "Briton Toby Samuel is to make his Davis Cup debut for Great Britain after what he calls a \"surreal\" 12 months....",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-14",
+    "addedAt": "2026-09-15T03:02:49Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 172,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel to make Davis Cup debut after &#x27;surreal&#x27; yearImage source, Getty ImagesImage caption, Toby Samuel made his US Open debut last month, his third Grand Slam appearance this year",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel to make Davis Cup debut after &#x27;surreal&#x27; yearImage source, Getty ImagesImage caption, Toby Samuel made his US Open debut last month, his third Grand Slam appearance this year",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel to make Davis Cup debut after &#x27;surreal&#x27; yearImage source, Getty ImagesImage caption, Toby Samuel made his US Open debut last month, his third Grand Slam appearance this year"
+          }
+        ]
+      },
+      {
+        "en": "Toby Samuel says it was &quot;one of the best moments in my life&quot; when he was selected in Great Britain&#x27;s Davis Cup team to face Ecuador this weekend after a breakthrough year.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Toby Samuel says it was &quot;one of the best moments in my life&quot; when he was selected in Great Britain&#x27;s Davis Cup team to face Ecuador this weekend after a breakthrough year.",
+            "ko": "실시간 보도 번역: Toby Samuel says it was &quot;one of the best moments in my life&quot; when he was selected in Great Britain&#x27;s Davis Cup team to face Ecuador this weekend after a breakthrough year."
+          }
+        ]
+      },
+      {
+        "en": "The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams.",
+            "ko": "실시간 보도 번역: The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams."
+          }
+        ]
+      },
+      {
+        "en": "&quot;It&#x27;s surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I&#x27;m sat here ready to play the Davis Cup - it&#x27;s crazy,&quot; he told BBC Points West.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;It&#x27;s surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I&#x27;m sat here ready to play the Davis Cup - it&#x27;s crazy,&quot; he told BBC Points West.",
+            "ko": "실시간 보도 번역: &quot;It&#x27;s surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I&#x27;m sat here ready to play the Davis Cup - it&#x27;s crazy,&quot; he told BBC Points West."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: From Challenger Tour to Davis Cup - GB's Samuel on 'surreal' year",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "From Challenger Tour to Davis Cup - GB's Samuel on 'surreal' year",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_1692676018627810958",
@@ -3075,100 +3429,79 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "sports_mlb_01",
-    "title": "MLB September Pennant Race: Shohei Ohtani and Dodgers Lead NL West",
-    "subtitle": "With thirty home runs and strong team pitching, the Los Angeles Dodgers prepare for the October postseason.",
-    "speaker": "MLB.com Official (Los Angeles)",
-    "sourceName": "MLB 공식 통계 및 순위 (mlb.com)",
-    "sourceUrl": "https://www.mlb.com/",
-    "factChecked": true,
-    "factCheckNotes": "오타니 2026 시즌 30홈런 기록 및 다저스 NL 서부지구 선두 유지, 9월 29일 포스트시즌 개막 확인",
-    "date": "2026-09-06",
-    "category": "sports",
-    "sportSubcat": "mlb",
-    "sportPriority": 2,
+    "id": "auto_culture_6785963234234341578",
+    "title": "In pictures: Stars on red carpet at Emmy Awards in LA",
+    "subtitle": "The biggest night in the US TV calendar is taking place, and stars are on the Emmy Awards red carpet....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-15",
+    "addedAt": "2026-09-15T03:02:49Z",
+    "category": "culture",
     "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 152,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 104,
     "keywords": [
-      "#MLB",
-      "#오타니",
-      "#다저스",
-      "#페넌트레이스"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
-    "addedAt": "2026-09-06T21:00:00Z",
     "paragraphs": [
       {
-        "en": "September is the final and most exciting month of the Major League Baseball regular season. The Los Angeles Dodgers currently lead the National League West division and are in prime position to reach the playoffs. Japanese superstar Shohei Ohtani has hit thirty home runs while serving as the team's designated hitter.",
-        "ko": "9월은 메이저리그 베이스볼 정규 시즌의 마지막이자 가장 흥미진진한 달입니다. 로스앤젤레스 다저스는 현재 내셔널리그 서부지구 1위를 달리며 포스트시즌 진출의 유리한 고지를 점하고 있습니다. 일본의 슈퍼스타 오타니 쇼헤이는 팀의 지명타자로 활약하며 이번 시즌 30개의 홈런을 쏘아 올렸습니다.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsIn pictures: Stars on red carpet at Emmy Awards in LAImage source, ReutersImage caption, Zendaya was in the running for her third Emmy win for best actress in a drama series for Euphoria",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "September is the final and most exciting month of the Major League Baseball regular season.",
-            "ko": "9월은 메이저리그 베이스볼 정규 시즌의 마지막이자 가장 긴장감 넘치는 달입니다."
-          },
-          {
-            "en": "The Los Angeles Dodgers currently lead the National League West division and are in prime position to reach the playoffs.",
-            "ko": "로스앤젤레스 다저스는 내셔널리그 서부지구 1위를 지키며 가을야구 진출을 앞두고 있습니다."
-          },
-          {
-            "en": "Japanese superstar Shohei Ohtani has hit thirty home runs while serving as the team's designated hitter.",
-            "ko": "일본 슈퍼스타 오타니 쇼헤이는 지명타자로 나서며 시즌 30홈런을 기록하고 있습니다."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsIn pictures: Stars on red carpet at Emmy Awards in LAImage source, ReutersImage caption, Zendaya was in the running for her third Emmy win for best actress in a drama series for Euphoria",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsIn pictures: Stars on red carpet at Emmy Awards in LAImage source, ReutersImage caption, Zendaya was in the running for her third Emmy win for best actress in a drama series for Euphoria"
           }
         ]
       },
       {
-        "en": "Earlier this year, Ohtani also pitched effectively, posting an eight-and-two record before team doctors advised him to rest his arm. With the regular season ending on September twenty-seventh, the Dodgers are focusing on player health and tactical preparation. Manager Dave Roberts praised his squad for showing strong teamwork through a long summer schedule.",
-        "ko": "올해 초 오타니는 마운드에서도 8승 2패를 기록하며 뛰어난 피칭을 선보였으나, 구단 의료진의 권고에 따라 팔 피로 누적을 방지하기 위해 투구를 쉬고 있습니다. 9월 27일 정규 시즌이 종료됨에 따라 다저스는 선수들의 건강 관리와 전술적 완성도에 집중하고 있습니다. 데이브 로버츠 감독은 긴 여름 일정 동안 끈끈한 팀워크를 보여준 선수단을 격려했습니다.",
+        "en": "The biggest night in the US TV calendar has taken place in Los Angeles, recognising the hottest shows of the past year.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Earlier this year, Ohtani also pitched effectively, posting an eight-and-two record before team doctors advised him to rest his arm.",
-            "ko": "올해 초 오타니는 투수로서도 8승 2패를 기록한 뒤 팔 보호를 위해 투구를 쉬고 있습니다."
-          },
-          {
-            "en": "With the regular season ending on September twenty-seventh, the Dodgers are focusing on player health and tactical preparation.",
-            "ko": "9월 27일 정규 시즌 종료를 앞두고 다저스는 선수단 건강 관리에 총력을 기울입니다."
-          },
-          {
-            "en": "Manager Dave Roberts praised his squad for showing strong teamwork through a long summer schedule.",
-            "ko": "데이브 로버츠 감독은 기나긴 여름을 견뎌낸 팀원들의 단결력을 칭찬했습니다."
+            "en": "The biggest night in the US TV calendar has taken place in Los Angeles, recognising the hottest shows of the past year.",
+            "ko": "실시간 보도 번역: The biggest night in the US TV calendar has taken place in Los Angeles, recognising the hottest shows of the past year."
           }
         ]
       },
       {
-        "en": "Dodgers fans across Southern California are eager to see the team capture the National League pennant in October. Playoff baseball requires dependable bullpen pitching and timely extra-base hits. The remaining weeks will test whether the Dodgers can maintain their winning momentum all the way to the World Series.",
-        "ko": "남부 캘리포니아의 다저스 팬들은 팀이 10월 내셔널리그 페넌트 우승을 차지하기를 간절히 바라고 있습니다. 가을 포스트시즌 야구는 안정적인 불펜 투수진과 결정적인 순간 터져 나오는 장타를 필요로 합니다. 남은 정규시즌 몇 주는 다저스가 월드시리즈 무대까지 이 승리의 기세를 이어갈 수 있을지를 시험할 것입니다.",
+        "en": "Stars walked a blue version of the traditional red carpet ahead of the Emmy Awards ceremony at the Peacock Theater.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Dodgers fans across Southern California are eager to see the team capture the National League pennant in October.",
-            "ko": "다저스 팬들은 10월 내셔널리그 우승 트로피를 차지하기를 기대하고 있습니다."
-          },
+            "en": "Stars walked a blue version of the traditional red carpet ahead of the Emmy Awards ceremony at the Peacock Theater.",
+            "ko": "실시간 보도 번역: Stars walked a blue version of the traditional red carpet ahead of the Emmy Awards ceremony at the Peacock Theater."
+          }
+        ]
+      },
+      {
+        "en": "Image source, EPAImage caption, Zendaya wore a floor-length jewelled Prada gown",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
           {
-            "en": "Playoff baseball requires dependable bullpen pitching and timely extra-base hits.",
-            "ko": "포스트시즌 야구에서는 든든한 구원 투수진과 결정적 장타력이 필수적입니다."
-          },
-          {
-            "en": "The remaining weeks will test whether the Dodgers can maintain their winning momentum all the way to the World Series.",
-            "ko": "남은 기간은 다저스가 월드시리즈까지 승리의 기세를 유지할 수 있는지 보여줄 것입니다."
+            "en": "Image source, EPAImage caption, Zendaya wore a floor-length jewelled Prada gown",
+            "ko": "실시간 보도 번역: Image source, EPAImage caption, Zendaya wore a floor-length jewelled Prada gown"
           }
         ]
       }
     ],
     "takeaways": [
-      "다저스가 9월 내셔널리그 서부지구 1위를 달리며 포스트시즌 진출을 예약했습니다.",
-      "오타니 쇼헤이는 지명타자로 시즌 30홈런을 기록하며 타선의 중심 역할을 수행 중입니다.",
-      "9월 27일 정규시즌 종료 후 9월 29일부터 본격적인 10월 가을야구가 시작됩니다."
+      "글로벌 최신 소식: In pictures: Stars on red carpet at Emmy Awards in LA",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
     "quiz": [
       {
-        "question": "How many home runs has Shohei Ohtani hit in the 2026 MLB regular season?",
+        "question": "What is the primary topic of this report?",
         "options": [
-          "Thirty home runs.",
-          "Zero home runs.",
-          "Five hundred home runs in one weekend."
+          "In pictures: Stars on red carpet at Emmy Awards in LA",
+          "Historical retrospective",
+          "Unrelated general weather"
         ],
         "answer": 0,
-        "explanation": "Ohtani has recorded 30 home runs for the Los Angeles Dodgers during the 2026 season."
+        "explanation": "The title directly reflects the main subject."
       }
     ]
   },
