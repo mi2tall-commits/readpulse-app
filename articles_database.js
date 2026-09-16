@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_7945574342406032535",
+    "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+    "subtitle": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to hu...",
+    "speaker": "BBC Technology",
+    "date": "2026-09-16",
+    "addedAt": "2026-09-16T02:59:00Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 139,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI boss says world &#x27;right to be afraid&#x27; but &#x27;should trust&#x27; AI firmsTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI boss says world &#x27;right to be afraid&#x27; but &#x27;should trust&#x27; AI firmsTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI boss says world &#x27;right to be afraid&#x27; but &#x27;should trust&#x27; AI firmsTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "OpenAI boss Sam Altman thinks people should have more faith in his company and others like it to do the right thing when it comes to artificial intelligence (AI) development amid rising public concerns about all the risks.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "OpenAI boss Sam Altman thinks people should have more faith in his company and others like it to do the right thing when it comes to artificial intelligence (AI) development amid rising public concerns about all the risks.",
+            "ko": "실시간 보도 번역: OpenAI boss Sam Altman thinks people should have more faith in his company and others like it to do the right thing when it comes to artificial intelligence (AI) development amid rising public concerns about all the risks."
+          }
+        ]
+      },
+      {
+        "en": "&quot;The world should trust that we are going to do the right thing because it&#x27;s the right thing and we feel the magnitude of this,&quot; Altman said on Tuesday during a conference in San Francisco.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;The world should trust that we are going to do the right thing because it&#x27;s the right thing and we feel the magnitude of this,&quot; Altman said on Tuesday during a conference in San Francisco.",
+            "ko": "실시간 보도 번역: &quot;The world should trust that we are going to do the right thing because it&#x27;s the right thing and we feel the magnitude of this,&quot; Altman said on Tuesday during a conference in San Francisco."
+          }
+        ]
+      },
+      {
+        "en": "However, Altman noted that people were justified in their fears around AI, as the capability of the tools has progressed rapidly.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "However, Altman noted that people were justified in their fears around AI, as the capability of the tools has progressed rapidly.",
+            "ko": "실시간 보도 번역: However, Altman noted that people were justified in their fears around AI, as the capability of the tools has progressed rapidly."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_5728553344766705952",
     "title": "Pubs in England and Wales to allow digital ID apps to prove age",
     "subtitle": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents....",
@@ -758,98 +835,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "news_tech_01",
-    "title": "Apple Prepares September Launch Event: iPhone 18 Series and On-Device AI",
-    "subtitle": "The tech giant readies its annual keynote showcasing advanced neural processors and Apple Intelligence.",
-    "speaker": "Bloomberg & 9to5Mac (Cupertino)",
-    "sourceName": "블룸버그 & 9to5Mac 애플 이벤트 보도 (bloomberg.com)",
-    "sourceUrl": "https://www.apple.com/",
-    "factChecked": true,
-    "factCheckNotes": "2026년 9월 애플 스페셜 이벤트 일정 및 차세대 아이폰 18 시리즈, 온디바이스 AI 공개 실측 확인",
-    "date": "2026-09-06",
-    "category": "tech",
+    "id": "auto_science_7884845924566777056",
+    "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+    "subtitle": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies....",
+    "speaker": "BBC Science",
+    "date": "2026-09-16",
+    "addedAt": "2026-09-16T02:59:00Z",
+    "category": "science",
     "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 143,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 159,
     "keywords": [
-      "#애플이벤트",
-      "#아이폰18",
-      "#온디바이스AI",
-      "#애플인텔리전스"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
-    "addedAt": "2026-09-06T21:00:00Z",
     "paragraphs": [
       {
-        "en": "The global technology industry is getting ready for Apple's annual September launch event in California. Industry reports point to a major showcase unveiling the new iPhone 18 series alongside upgraded smartwatch models. The central focus of the keynote will be next-generation Apple Intelligence features running directly on hardware chips.",
-        "ko": "글로벌 테크 업계는 미국 캘리포니아에서 열리는 연례 애플 9월 신제품 발표 행사를 앞두고 준비에 한창입니다. 업계 보도에 따르면 차세대 아이폰 18 시리즈와 업그레이드된 스마트워치 모델이 대거 공개될 예정입니다. 이번 기조연설의 핵심 초점은 하드웨어 칩 내부에서 직접 구동되는 차세대 '애플 인텔리전스' 기능에 맞춰져 있습니다.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateThird Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers Image source, Getty ImagesByMatt McGrathEnvironment correspondentPublished2 hours agoHeathrow&#x27;s third runway cannot be approved without changes to current climate policies, the government&#x27;s advisers have said.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The global technology industry is getting ready for Apple's annual September launch event in California.",
-            "ko": "글로벌 IT 업계는 캘리포니아에서 열릴 9월 애플 신제품 발표 이벤트를 기다리고 있습니다."
-          },
-          {
-            "en": "Industry reports point to a major showcase unveiling the new iPhone 18 series alongside upgraded smartwatch models.",
-            "ko": "차세대 아이폰 18 시리즈와 신형 스마트워치 공개가 유력하게 점쳐집니다."
-          },
-          {
-            "en": "The central focus of the keynote will be next-generation Apple Intelligence features running directly on hardware chips.",
-            "ko": "기기 내부에서 직접 구동되는 차세대 '애플 인텔리전스'가 핵심 주인공입니다."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateThird Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers Image source, Getty ImagesByMatt McGrathEnvironment correspondentPublished2 hours agoHeathrow&#x27;s third runway cannot be approved without changes to current climate policies, the government&#x27;s advisers have said.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateThird Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers Image source, Getty ImagesByMatt McGrathEnvironment correspondentPublished2 hours agoHeathrow&#x27;s third runway cannot be approved without changes to current climate policies, the government&#x27;s advisers have said."
           }
         ]
       },
       {
-        "en": "Unlike cloud-only systems, on-device AI processes private information directly on the user's phone. This architecture protects sensitive personal data and enables instant voice assistant responses without relying on an active internet connection. Developers are preparing mobile applications that understand photos, emails, and daily schedule patterns.",
-        "ko": "클라우드 전용 시스템과 달리, 온디바이스 AI는 사용자의 스마트폰 기기 내부에서 개인정보를 직접 처리합니다. 이러한 구조는 민감한 개인정보를 안전하게 보호하며 인터넷 연결이 없는 상태에서도 음성 비서의 즉각적인 응답을 가능하게 합니다. 개발자들은 사용자의 사진, 이메일, 일상 캘린더 일정을 이해하는 새로운 모바일 앱을 준비하고 있습니다.",
+        "en": "The Climate Change Committee (CCC) , externalsaid expansion can still go ahead but only if  the aviation industry funds cleaner fuels and pays for machines that suck carbon dioxide out of the air.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Unlike cloud-only systems, on-device AI processes private information directly on the user's phone.",
-            "ko": "온디바이스 AI는 개인정보를 스마트폰 내부에서 안전하게 직접 처리합니다."
-          },
-          {
-            "en": "This architecture protects sensitive personal data and enables instant voice assistant responses without relying on an active internet connection.",
-            "ko": "인터넷 연결 없이도 즉각 반응하며 사용자의 민감한 개인정보를 지킵니다."
-          },
-          {
-            "en": "Developers are preparing mobile applications that understand photos, emails, and daily schedule patterns.",
-            "ko": "개발자들은 사용자의 사진과 일정 패턴을 이해하는 맞춤형 앱을 준비 중입니다."
+            "en": "The Climate Change Committee (CCC) , externalsaid expansion can still go ahead but only if  the aviation industry funds cleaner fuels and pays for machines that suck carbon dioxide out of the air.",
+            "ko": "실시간 보도 번역: The Climate Change Committee (CCC) , externalsaid expansion can still go ahead but only if  the aviation industry funds cleaner fuels and pays for machines that suck carbon dioxide out of the air."
           }
         ]
       },
       {
-        "en": "Rival smartphone makers like Google and Samsung have also introduced neural processors in their latest flagship phones. As mobile devices become smarter digital companions, users will enjoy smoother real-time translation and automated summary tools. Apple's September announcements will establish consumer design trends heading into the critical holiday shopping season.",
-        "ko": "구글과 삼성 같은 경쟁 스마트폰 제조사들도 최신 플래그십 기기에 신경망 칩(NPU)을 대거 탑재하고 있습니다. 모바일 기기가 똑똑한 디지털 동반자로 진화함에 따라 사용자들은 더욱 매끄러운 실시간 통번역과 자동 문서 요약 기능을 누리게 될 것입니다. 애플의 이번 9월 신제품 발표는 연말 쇼핑 대목을 앞두고 글로벌 소비자 가전 시장의 트렌드를 이끌 것입니다.",
+        "en": "Making the industry pay could push up the cost of flying with a return trip to Alicante costing around £150 more by 2050, and a return to New York up £400 in today&#x27;s prices, it said.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Rival smartphone makers like Google and Samsung have also introduced neural processors in their latest flagship phones.",
-            "ko": "구글과 삼성 등 경쟁사들도 플래그십 기기에 신경망 프로세서를 탑재하고 있습니다."
+            "en": "Making the industry pay could push up the cost of flying with a return trip to Alicante costing around £150 more by 2050, and a return to New York up £400 in today&#x27;s prices, it said.",
+            "ko": "실시간 보도 번역: Making the industry pay could push up the cost of flying with a return trip to Alicante costing around £150 more by 2050, and a return to New York up £400 in today&#x27;s prices, it said."
+          }
+        ]
+      },
+      {
+        "en": "Once built, the expanded airport would produce more carbon dioxide than any other single sector of the economy by 2050. Heathrow said expansion and climate goals were &quot;not a choice&quot; and it would deliver both.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Once built, the expanded airport would produce more carbon dioxide than any other single sector of the economy by 2050.",
+            "ko": "실시간 보도 번역: Once built, the expanded airport would produce more carbon dioxide than any other single sector of the economy by 2050."
           },
           {
-            "en": "As mobile devices become smarter digital companions, users will enjoy smoother real-time translation and automated summary tools.",
-            "ko": "기기가 똑똑해지며 실시간 번역과 자동 요약이 일상화되고 있습니다."
-          },
-          {
-            "en": "Apple's September announcements will establish consumer design trends heading into the critical holiday shopping season.",
-            "ko": "애플의 9월 발표는 연말 쇼핑 시즌을 앞두고 IT 시장의 흐름을 좌우할 것입니다."
+            "en": "Heathrow said expansion and climate goals were &quot;not a choice&quot; and it would deliver both.",
+            "ko": "실시간 보도 번역: Heathrow said expansion and climate goals were &quot;not a choice&quot; and it would deliver both."
           }
         ]
       }
     ],
     "takeaways": [
-      "9월 애플 신제품 이벤트에서 차세대 아이폰 18 시리즈와 온디바이스 AI가 공개됩니다.",
-      "온디바이스 AI 구조로 개인정보 유출 걱정 없이 인터넷 없는 환경에서도 빠른 처리가 가능합니다.",
-      "신경망 NPU의 발전으로 스마트폰이 실시간 번역과 지능형 요약을 지원하는 동반자로 진화합니다."
+      "글로벌 최신 소식: Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
     "quiz": [
       {
-        "question": "What is a key security benefit of on-device artificial intelligence?",
+        "question": "What is the primary topic of this report?",
         "options": [
-          "It keeps personal information private by processing data directly on the phone.",
-          "It requires users to mail their passwords to a physical mailbox in California.",
-          "It turns off the phone's battery permanently to save power."
+          "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+          "Historical retrospective",
+          "Unrelated general weather"
         ],
         "answer": 0,
-        "explanation": "On-device AI protects privacy by analyzing sensitive data on the phone rather than cloud servers."
+        "explanation": "The title directly reflects the main subject."
       }
     ]
   },
@@ -1691,98 +1753,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "news_science_01",
-    "title": "NASA's Europa Clipper: Final Launch Preparations for Mission to Jupiter's Ocean Moon",
-    "subtitle": "Engineers at Kennedy Space Center ready the flagship spacecraft to search for habitable environments.",
-    "speaker": "NASA Science News (Florida)",
-    "sourceName": "NASA 공식 미션 발표 (nasa.gov)",
-    "sourceUrl": "https://www.nasa.gov/",
-    "factChecked": true,
-    "factCheckNotes": "NASA 케네디 우주센터 에우로파 클리퍼 발사 최종 점검 및 목성 얼음 위성 에우로파 탐사 목표 실측 확인",
-    "date": "2026-09-06",
-    "category": "science",
+    "id": "auto_economy_840978518842708295",
+    "title": "Complaints to watchdog about water firms jump 84%",
+    "subtitle": "Many complaints were about affordability, after customers saw steep hikes to bills....",
+    "speaker": "BBC Business",
+    "date": "2026-09-15",
+    "addedAt": "2026-09-16T02:59:00Z",
+    "category": "economy",
     "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 155,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 141,
     "keywords": [
-      "#NASA",
-      "#에우로파클리퍼",
-      "#목성탐사",
-      "#우주생명체"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
-    "addedAt": "2026-09-06T21:00:00Z",
     "paragraphs": [
       {
-        "en": "At Kennedy Space Center in Florida, NASA engineers are finishing final safety checks on the Europa Clipper spacecraft. This ambitious flagship mission will travel hundreds of millions of kilometers to explore Europa, an icy moon orbiting Jupiter. Planetary scientists believe Europa hides a vast saltwater ocean beneath its frozen crust.",
-        "ko": "미국 플로리다주 케네디 우주센터에서 NASA 엔지니어들이 '에우로파 클리퍼' 우주선의 최종 안전 점검을 마무리하고 있습니다. 이 야심 찬 플래그십 우주 미션은 수억 킬로미터를 날아가 목성의 궤도를 도는 얼음 위성 에우로파를 집중 탐사할 예정입니다. 행성 과학자들은 에우로파의 두꺼운 얼음 지각 아래에 거대한 소금물 바다가 숨겨져 있다고 믿고 있습니다.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessComplaints to watchdog about water firms jump 84%Image source, iStock / Getty ImagesImage caption, Many water customers in England and Wales saw steep bill hikes this year",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "At Kennedy Space Center in Florida, NASA engineers are finishing final safety checks on the Europa Clipper spacecraft.",
-            "ko": "NASA 엔지니어들이 플로리다에서 에우로파 클리퍼 탐사선 최종 점검을 진행 중입니다."
-          },
-          {
-            "en": "This ambitious flagship mission will travel hundreds of millions of kilometers to explore Europa, an icy moon orbiting Jupiter.",
-            "ko": "이 탐사선은 수억 킬로미터를 날아가 목성의 얼음 위성 에우로파를 탐사합니다."
-          },
-          {
-            "en": "Planetary scientists believe Europa hides a vast saltwater ocean beneath its frozen crust.",
-            "ko": "과학자들은 에우로파 얼음 표면 아래에 거대한 바다가 존재한다고 보고 있습니다."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessComplaints to watchdog about water firms jump 84%Image source, iStock / Getty ImagesImage caption, Many water customers in England and Wales saw steep bill hikes this year",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessComplaints to watchdog about water firms jump 84%Image source, iStock / Getty ImagesImage caption, Many water customers in England and Wales saw steep bill hikes this year"
           }
         ]
       },
       {
-        "en": "Europa Clipper is the largest planetary spacecraft NASA has ever built for an interplanetary journey. It carries massive solar arrays that stretch as wide as a basketball court to gather faint sunlight near Jupiter. Advanced radar instruments will peer through the ice to measure the depth and chemical makeup of the hidden global sea.",
-        "ko": "에우로파 클리퍼는 NASA가 행성 간 탐사를 위해 제작한 우주선 중 역사상 가장 큰 크기를 자랑합니다. 목성 주변의 희미한 햇빛을 모으기 위해 농구 코트 크기만큼 넓게 펼쳐지는 거대한 태양광 패널 날개를 장착했습니다. 최첨단 얼음 투과 레이더 장비는 두꺼운 얼음을 뚫고 들어가 숨겨진 바다의 깊이와 화학적 성분을 측정할 것입니다.",
+        "en": "The number of complaints made by households about water companies to the industry watchdog has risen by a record 84% in a year, driven by customer concern and confusion over rising bills.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Europa Clipper is the largest planetary spacecraft NASA has ever built for an interplanetary journey.",
-            "ko": "에우로파 클리퍼는 NASA가 행성 탐사를 위해 만든 우주선 중 역대 최대 규모입니다."
-          },
-          {
-            "en": "It carries massive solar arrays that stretch as wide as a basketball court to gather faint sunlight near Jupiter.",
-            "ko": "목성의 약한 햇빛을 모으기 위해 농구장 크기의 거대한 태양광 패널을 탑재했습니다."
-          },
-          {
-            "en": "Advanced radar instruments will peer through the ice to measure the depth and chemical makeup of the hidden global sea.",
-            "ko": "첨단 투과 레이더가 얼음 아래 바다의 깊이와 화학 성분을 정밀 측정합니다."
+            "en": "The number of complaints made by households about water companies to the industry watchdog has risen by a record 84% in a year, driven by customer concern and confusion over rising bills.",
+            "ko": "실시간 보도 번역: The number of complaints made by households about water companies to the industry watchdog has risen by a record 84% in a year, driven by customer concern and confusion over rising bills."
           }
         ]
       },
       {
-        "en": "The mission does not search directly for alien life, but rather seeks the essential ingredients: liquid water, energy, and organic chemicals. Finding that a habitable environment exists so far from the Sun would change our understanding of biology forever. Space fans around the world are counting down the days until launch.",
-        "ko": "이번 탐사는 외계 생명체를 직접 찾는 것이 아니라, 생명체가 살 수 있는 필수 요소인 액체 상태의 물, 에너지원, 유기 화합물이 존재하는지 확인하는 것을 목표로 합니다. 태양에서 이토록 멀리 떨어진 얼음 세상에 생명 친화적 환경이 존재한다는 것이 밝혀진다면 인류의 생명관은 영원히 바뀔 것입니다. 전 세계 우주 애호가들은 발사의 그날을 손꼽아 기다리고 있습니다.",
+        "en": "The Consumer Council for Water (CCW) said the year-on-year increase was the highest in its 20-year history and showed &quot;just how dissatisfied&quot; many people were.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The mission does not search directly for alien life, but rather seeks the essential ingredients: liquid water, energy, and organic chemicals.",
-            "ko": "이번 미션의 목표는 물, 에너지, 유기물 등 생명체 서식 가능 환경을 확인하는 것입니다."
+            "en": "The Consumer Council for Water (CCW) said the year-on-year increase was the highest in its 20-year history and showed &quot;just how dissatisfied&quot; many people were.",
+            "ko": "실시간 보도 번역: The Consumer Council for Water (CCW) said the year-on-year increase was the highest in its 20-year history and showed &quot;just how dissatisfied&quot; many people were."
+          }
+        ]
+      },
+      {
+        "en": "Water customers in England and Wales have been hit with steep price hikes in recent years. The regulator Ofwat has also allowed firms to put up bills by 36% between 2025 and 2030.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Water customers in England and Wales have been hit with steep price hikes in recent years.",
+            "ko": "실시간 보도 번역: Water customers in England and Wales have been hit with steep price hikes in recent years."
           },
           {
-            "en": "Finding that a habitable environment exists so far from the Sun would change our understanding of biology forever.",
-            "ko": "태양과 먼 곳에서 생명 환경을 발견한다면 우주 생물학의 패러다임이 바뀝니다."
-          },
-          {
-            "en": "Space fans around the world are counting down the days until launch.",
-            "ko": "전 세계의 수많은 팬들이 역사적인 발사 카운트다운을 기다리고 있습니다."
+            "en": "The regulator Ofwat has also allowed firms to put up bills by 36% between 2025 and 2030.",
+            "ko": "실시간 보도 번역: The regulator Ofwat has also allowed firms to put up bills by 36% between 2025 and 2030."
           }
         ]
       }
     ],
     "takeaways": [
-      "NASA의 역대 최대 행성 탐사선 에우로파 클리퍼가 목성의 얼음 위성 에우로파로 향할 준비를 마쳤습니다.",
-      "농구장 크기의 태양광 패널과 얼음 투과 레이더로 표면 아래 거대한 바다의 성분을 분석합니다.",
-      "액체 상태의 물과 에너지, 유기물의 존재 여부를 밝혀 태양계 생명 서식 가능성의 비밀을 풉니다."
+      "글로벌 최신 소식: Complaints to watchdog about water firms jump 84%",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
     "quiz": [
       {
-        "question": "What primary condition for life is NASA investigating beneath Europa's icy surface?",
+        "question": "What is the primary topic of this report?",
         "options": [
-          "A massive subsurface saltwater ocean with energy and organic chemistry.",
-          "Underground shopping malls and movie theaters.",
-          "Rivers made of hot coffee and chocolate milk."
+          "Complaints to watchdog about water firms jump 84%",
+          "Historical retrospective",
+          "Unrelated general weather"
         ],
         "answer": 0,
-        "explanation": "Europa Clipper explores whether Europa's subsurface ocean possesses the liquid water and ingredients for life."
+        "explanation": "The title directly reflects the main subject."
       }
     ]
   },
@@ -2504,100 +2551,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "news_economy_01",
-    "title": "Global Markets Await Federal Reserve September Interest Rate Decision",
-    "subtitle": "Investors and central banks watch closely as inflation cools and employment data guides monetary policy.",
-    "speaker": "Federal Reserve & Financial Times (New York)",
-    "sourceName": "미 연방준비제도(Fed) 일정 및 FT 경제 보도 (federalreserve.gov)",
-    "sourceUrl": "https://www.federalreserve.gov/",
-    "factChecked": true,
-    "factCheckNotes": "2026년 9월 FOMC 회의를 앞두고 금리 동결(52%) vs 인상/인하 논쟁 및 물가 안정 지표 실측 확인",
-    "date": "2026-09-06",
-    "category": "economy",
+    "id": "auto_sports_3328759754092935651",
+    "title": "Draper decides not to play again this season",
+    "subtitle": "Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of ...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-15",
+    "addedAt": "2026-09-16T02:59:00Z",
+    "category": "sports",
     "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 153,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 137,
     "keywords": [
-      "#연준금리",
-      "#FOMC",
-      "#글로벌경제",
-      "#물가안정"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
-    "addedAt": "2026-09-06T21:00:00Z",
     "paragraphs": [
       {
-        "en": "Financial markets around the globe are holding their breath ahead of the Federal Reserve's September policy meeting. Central bank officials, including Governor Waller and Governor Barr, have actively delivered speeches discussing the economic outlook. With inflation gradually moderating toward target levels, policymakers face their most consequential decision of the year.",
-        "ko": "전 세계 금융시장이 미국 연방준비제도(Fed)의 9월 통화정책 회의를 앞두고 숨을 죽이고 있습니다. 월러 이사와 바 이사를 포함한 연준 고위 인사들은 향후 경제 전망을 논의하는 연설을 잇달아 가졌습니다. 인플레이션이 점차 목표 수준으로 안정되면서 정책 입안자들은 올해 가장 중요한 정책 결정을 앞두고 있습니다.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDraper decides not to play again this seasonImage source, Getty ImagesImage caption, Draper reached the US Open semi-finals in 2024",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Financial markets around the globe are holding their breath ahead of the Federal Reserve's September policy meeting.",
-            "ko": "전 세계 금융시장이 9월 미 연방준비제도(Fed)의 금리 결정을 숨죽여 기다리고 있습니다."
-          },
-          {
-            "en": "Central bank officials, including Governor Waller and Governor Barr, have actively delivered speeches discussing the economic outlook.",
-            "ko": "월러 이사와 바 이사 등 연준 인사들이 최근 활발히 경제 전망 연설을 했습니다."
-          },
-          {
-            "en": "With inflation gradually moderating toward target levels, policymakers face their most consequential decision of the year.",
-            "ko": "물가가 안정되면서 정책 입안자들은 올해 가장 중대한 결정을 마주했습니다."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDraper decides not to play again this seasonImage source, Getty ImagesImage caption, Draper reached the US Open semi-finals in 2024",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDraper decides not to play again this seasonImage source, Getty ImagesImage caption, Draper reached the US Open semi-finals in 2024"
           }
         ]
       },
       {
-        "en": "Financial prediction markets currently reflect balanced debate, with many traders anticipating interest rates will remain steady. Keeping borrowing costs stable helps prevent sudden inflation shocks, while businesses hope for future easing to lower commercial mortgage payments. Officials emphasize that labor market statistics and consumer price indices will guide their final votes.",
-        "ko": "현재 금융 예측 시장에서는 금리가 현 수준에서 동결될 것이라는 전망을 중심으로 팽팽한 논쟁이 이어지고 있습니다. 대출 금리를 안정적으로 유지하는 것은 갑작스러운 물가 재상승 충격을 방지하며, 기업들은 향후 금리가 낮아져 대출 이자 부담이 줄어들기를 기대합니다. 당국자들은 고용 시장 통계와 소비자 물가지수가 최종 표결의 기준이 될 것임을 강조했습니다.",
+        "en": "Tennis correspondentPublished15 September 2026Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of next year.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Financial prediction markets currently reflect balanced debate, with many traders anticipating interest rates will remain steady.",
-            "ko": "금융 시장에서는 금리 동결 전망을 중심으로 활발한 논쟁이 이어지고 있습니다."
-          },
-          {
-            "en": "Keeping borrowing costs stable helps prevent sudden inflation shocks, while businesses hope for future easing to lower commercial mortgage payments.",
-            "ko": "금리 안정이 물가 충격을 막는 한편 기업들은 대출 부담 완화를 원합니다."
-          },
-          {
-            "en": "Officials emphasize that labor market statistics and consumer price indices will guide their final votes.",
-            "ko": "당국자들은 고용 통계와 물가 지수를 토대로 최종 결정을 내릴 것이라 밝혔습니다."
+            "en": "Tennis correspondentPublished15 September 2026Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of next year.",
+            "ko": "실시간 보도 번역: Tennis correspondentPublished15 September 2026Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of next year."
           }
         ]
       },
       {
-        "en": "Stock exchanges in New York, Tokyo, and Seoul have seen cautious trading as fund managers adjust their portfolios. Commercial enterprises are waiting to see how borrowing rates impact major infrastructure and artificial intelligence investments. The upcoming September statement will set the tone for global capital markets for the rest of the year.",
-        "ko": "펀드 매니저들이 포트폴리오를 조정함에 따라 뉴욕, 도쿄, 서울의 증권거래소는 신중한 관망세를 보이고 있습니다. 기업들은 대출 금리의 향방이 대규모 인프라 구축과 인공지능 설비 투자에 미칠 영향을 주시하고 있습니다. 다가오는 9월 연준 정책 성명서는 올 하반기 글로벌 자본 시장의 방향타 역할을 할 것입니다.",
+        "en": "The 24-year-old has been suffering with bone bruising in his serving arm and has only played nine events since last year&#x27;s Wimbledon.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Stock exchanges in New York, Tokyo, and Seoul have seen cautious trading as fund managers adjust their portfolios.",
-            "ko": "포트폴리오 비중 조절 속에 뉴욕, 도쿄, 서울 증시는 신중한 관망세를 유지 중입니다."
-          },
+            "en": "The 24-year-old has been suffering with bone bruising in his serving arm and has only played nine events since last year&#x27;s Wimbledon.",
+            "ko": "실시간 보도 번역: The 24-year-old has been suffering with bone bruising in his serving arm and has only played nine events since last year&#x27;s Wimbledon."
+          }
+        ]
+      },
+      {
+        "en": "Draper missed the US Open, after losing in the first round in Montreal and Cincinnati last month - and was in tears during his defeat to France&#x27;s Terence Atmane in Canada.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
           {
-            "en": "Commercial enterprises are waiting to see how borrowing rates impact major infrastructure and artificial intelligence investments.",
-            "ko": "기업들은 금리가 인프라와 AI 투자에 미칠 영향을 면밀히 주시하고 있습니다."
-          },
-          {
-            "en": "The upcoming September statement will set the tone for global capital markets for the rest of the year.",
-            "ko": "이번 9월 발표는 올 하반기 글로벌 금융시장의 흐름을 결정짓게 됩니다."
+            "en": "Draper missed the US Open, after losing in the first round in Montreal and Cincinnati last month - and was in tears during his defeat to France&#x27;s Terence Atmane in Canada.",
+            "ko": "실시간 보도 번역: Draper missed the US Open, after losing in the first round in Montreal and Cincinnati last month - and was in tears during his defeat to France&#x27;s Terence Atmane in Canada."
           }
         ]
       }
     ],
     "takeaways": [
-      "9월 미국 연방준비제도(Fed) 통화정책 회의를 앞두고 글로벌 금융시장이 촉각을 곤두세우고 있습니다.",
-      "물가 안정세와 고용 시장 통계를 바탕으로 금리 동결 및 향후 통화정책 방향이 결정될 예정입니다.",
-      "기업들은 대출 금리의 변동이 차세대 인프라와 AI 설비 투자에 미칠 영향에 주목하고 있습니다."
+      "글로벌 최신 소식: Draper decides not to play again this season",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
     "quiz": [
       {
-        "question": "What primary economic data does the Federal Reserve evaluate before deciding interest rates?",
+        "question": "What is the primary topic of this report?",
         "options": [
-          "Labor market statistics and consumer price inflation indices.",
-          "The number of umbrellas sold in London during rainstorms.",
-          "Scores from professional video game tournaments."
+          "Draper decides not to play again this season",
+          "Historical retrospective",
+          "Unrelated general weather"
         ],
         "answer": 0,
-        "explanation": "The Federal Reserve studies labor market conditions and consumer price inflation to set monetary policy."
+        "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_3009503571985452815",
@@ -3315,104 +3345,83 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "sports_tennis_usopen_01",
-    "title": "US Open 2026: Aryna Sabalenka Powers Into Quarterfinals in New York",
-    "subtitle": "The defending champion defeats American Taylor Townsend 6-4, 6-3 in front of an electric Arthur Ashe crowd.",
-    "speaker": "WTA Tour & US Open Official (New York)",
-    "sourceName": "WTA 공식 경기 리포트 (wtatennis.com)",
-    "sourceUrl": "https://www.wtatennis.com/",
-    "factChecked": true,
-    "factCheckNotes": "2026 US오픈 16강전에서 사발렌카가 타운센드를 6-4, 6-3으로 꺾고 8강(준준결승) 진출 공식 확인",
-    "date": "2026-09-06",
-    "category": "sports",
-    "sportSubcat": "tennis",
-    "sportPriority": 1,
+    "id": "auto_culture_798356922271902107",
+    "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+    "subtitle": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on sta...",
+    "speaker": "BBC Arts",
+    "date": "2026-09-16",
+    "addedAt": "2026-09-16T02:59:01Z",
+    "category": "culture",
     "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 173,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 146,
     "keywords": [
-      "#US오픈",
-      "#사발렌카",
-      "#8강진출",
-      "#아서애시"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
-    "addedAt": "2026-09-06T20:00:00Z",
     "paragraphs": [
       {
-        "en": "The 2026 US Open tennis tournament in New York is reaching its most thrilling moments. Defending champion Aryna Sabalenka showed her incredible strength by defeating American star Taylor Townsend in a dramatic fourth-round match. Playing under the bright lights of Arthur Ashe Stadium, the world's largest tennis arena, Sabalenka won with a clean score of 6-4, 6-3.",
-        "ko": "뉴욕에서 열리고 있는 2026 US오픈 테니스 대회가 가장 짜릿한 순간을 맞이하고 있습니다. 디펜딩 챔피언 아리나 사발렌카는 극적인 16강전 경기에서 미국의 강자 테일러 타운센드를 꺾고 자신의 압도적인 힘을 보여주었습니다. 세계 최대 테니스 경기장인 아서 애시 스타디움의 밝은 조명 아래서, 사발렌카는 6-4, 6-3의 깔끔한 스코어로 승리했습니다.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAll support acts on Ed Sheeran&#x27;s US tour quit after Macklemore droppedImage source, Getty ImagesImage caption, Ed Sheeran issued a statement on Tuesday saying it was the promoter&#x27;s decision to drop Macklemore from his upcoming US tour dates",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 2026 US Open tennis tournament in New York is reaching its most thrilling moments.",
-            "ko": "뉴욕에서 열리고 있는 2026 US오픈 테니스 대회가 가장 짜릿한 순간에 접어들었습니다."
-          },
-          {
-            "en": "Defending champion Aryna Sabalenka showed her incredible strength by defeating American star Taylor Townsend in a dramatic fourth-round match.",
-            "ko": "디펜딩 챔피언 아리나 사발렌카는 극적인 16강전에서 테일러 타운센드를 꺾고 괴력을 발휘했습니다."
-          },
-          {
-            "en": "Playing under the bright lights of Arthur Ashe Stadium, the world's largest tennis arena, Sabalenka won with a clean score of 6-4, 6-3.",
-            "ko": "세계 최대 테니스 경기장인 아서 애시 스타디움에서 사발렌카는 세트스코어 6-4, 6-3 완승을 거두었습니다."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAll support acts on Ed Sheeran&#x27;s US tour quit after Macklemore droppedImage source, Getty ImagesImage caption, Ed Sheeran issued a statement on Tuesday saying it was the promoter&#x27;s decision to drop Macklemore from his upcoming US tour dates",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAll support acts on Ed Sheeran&#x27;s US tour quit after Macklemore droppedImage source, Getty ImagesImage caption, Ed Sheeran issued a statement on Tuesday saying it was the promoter&#x27;s decision to drop Macklemore from his upcoming US tour dates"
           }
         ]
       },
       {
-        "en": "Townsend played with clever court variety, using quick drop shots and attacking net volleys that excited the passionate home fans. However, Sabalenka stayed calm during the critical break points of the second set. She served with great power, reaching speeds over one hundred and fifteen miles per hour. Her mental toughness allowed her to control the match from the baseline.",
-        "ko": "타운센드는 영리하고 다채로운 코트 플레이를 펼쳤으며, 날카로운 드롭샷과 네트 발리 공격으로 홈 팬들을 열광시켰습니다. 그러나 사발렌카는 2세트 결정적인 브레이크 포인트 순간에도 침착함을 잃지 않았습니다. 그녀는 시속 115마일이 넘는 강력한 파워 서브를 꽂아 넣었습니다. 사발렌카의 강한 멘탈은 베이스라인에서 경기를 지배하게 만들었습니다.",
+        "en": "Music correspondentPublished15 September 2026Updated 1 hour agoAll of the remaining support acts on Ed Sheeran&#x27;s US tour have quit, after the rapper Macklemore was dropped from the line-up for making pro-Palestinian remarks on stage.",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Townsend played with clever court variety, using quick drop shots and attacking net volleys that excited the passionate home fans.",
-            "ko": "타운센드는 빠른 드롭샷과 공격적인 네트 발리로 홈 팬들을 열광시켰습니다."
-          },
-          {
-            "en": "However, Sabalenka stayed calm during the critical break points of the second set.",
-            "ko": "하지만 사발렌카는 2세트 중요한 브레이크 포인트에서도 침착함을 유지했습니다."
-          },
-          {
-            "en": "She served with great power, reaching speeds over one hundred and fifteen miles per hour.",
-            "ko": "그녀는 시속 115마일이 넘는 강력한 파워 서브를 연이어 넣었습니다."
-          },
-          {
-            "en": "Her mental toughness allowed her to control the match from the baseline.",
-            "ko": "그녀의 강인한 정신력 덕분에 베이스라인에서 랠리를 주도할 수 있었습니다."
+            "en": "Music correspondentPublished15 September 2026Updated 1 hour agoAll of the remaining support acts on Ed Sheeran&#x27;s US tour have quit, after the rapper Macklemore was dropped from the line-up for making pro-Palestinian remarks on stage.",
+            "ko": "실시간 보도 번역: Music correspondentPublished15 September 2026Updated 1 hour agoAll of the remaining support acts on Ed Sheeran&#x27;s US tour have quit, after the rapper Macklemore was dropped from the line-up for making pro-Palestinian remarks on stage."
           }
         ]
       },
       {
-        "en": "With this impressive victory, Sabalenka advances to the quarterfinals, where she will face Marta Kostyuk or Linda Noskova. In her post-match interview, she thanked the New York crowd for their high energy and loud support. Fans are now eagerly looking forward to the tournament's second week, where the battle for the prestigious championship trophy will intensify.",
-        "ko": "이번 인상적인 승리로 사발렌카는 8강(준준결승)에 진출하여 마르타 코스튜크 또는 린다 노스코바와 맞붙게 됩니다. 경기 후 인터뷰에서 그녀는 뜨거운 에너지와 열렬한 응원을 보내준 뉴욕 관중들에게 감사를 표했습니다. 팬들은 이제 권위 있는 우승 트로피를 향한 경쟁이 더욱 치열해질 대회 2주 차를 손꼽아 기다리고 있습니다.",
+        "en": "Among them were Finneas, the brother of pop star Billie Eilish, who said in a statement: &quot;Artists must not be silenced when they speak up for the oppressed.&quot;",
+        "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "With this impressive victory, Sabalenka advances to the quarterfinals, where she will face Marta Kostyuk or Linda Noskova.",
-            "ko": "이번 승리로 사발렌카는 8강에 올라 코스튜크 또는 노스코바와 맞붙습니다."
+            "en": "Among them were Finneas, the brother of pop star Billie Eilish, who said in a statement: &quot;Artists must not be silenced when they speak up for the oppressed.",
+            "ko": "실시간 보도 번역: Among them were Finneas, the brother of pop star Billie Eilish, who said in a statement: &quot;Artists must not be silenced when they speak up for the oppressed."
+          }
+        ]
+      },
+      {
+        "en": "Irish singer-songwriter Aaron Rowe and Danish band Lukas Graham also announced their departure. Irish folk band Beoga, who perform with Sheeran on stage every night, dropped out too.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Irish singer-songwriter Aaron Rowe and Danish band Lukas Graham also announced their departure.",
+            "ko": "실시간 보도 번역: Irish singer-songwriter Aaron Rowe and Danish band Lukas Graham also announced their departure."
           },
           {
-            "en": "In her post-match interview, she thanked the New York crowd for their high energy and loud support.",
-            "ko": "경기 후 인터뷰에서 그녀는 뜨거운 에너지를 보낸 뉴욕 관중들에게 감사 인사를 전했습니다."
-          },
-          {
-            "en": "Fans are now eagerly looking forward to the tournament's second week, where the battle for the prestigious championship trophy will intensify.",
-            "ko": "팬들은 이제 우승 트로피를 향한 열기가 고조될 대회 2주 차를 기대하고 있습니다."
+            "en": "Irish folk band Beoga, who perform with Sheeran on stage every night, dropped out too.",
+            "ko": "실시간 보도 번역: Irish folk band Beoga, who perform with Sheeran on stage every night, dropped out too."
           }
         ]
       }
     ],
     "takeaways": [
-      "디펜딩 챔피언 사발렌카가 16강에서 타운센드를 6-4, 6-3으로 완파하고 8강(준준결승)에 진출했습니다.",
-      "아서 애시 스타디움에서 시속 115마일(약 185km)의 강력한 서브로 위기를 넘겼습니다.",
-      "8강에서 코스튜크 또는 노스코바와 4강 진출 티켓을 두고 격돌합니다."
+      "글로벌 최신 소식: All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
     "quiz": [
       {
-        "question": "What was the final score of Aryna Sabalenka's fourth-round victory over Taylor Townsend?",
+        "question": "What is the primary topic of this report?",
         "options": [
-          "6-4, 6-3 in straight sets.",
-          "100 to zero with no balls served.",
-          "They decided to share the trophy without playing."
+          "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+          "Historical retrospective",
+          "Unrelated general weather"
         ],
         "answer": 0,
-        "explanation": "Sabalenka defeated Townsend in straight sets with a clean score of 6-4, 6-3."
+        "explanation": "The title directly reflects the main subject."
       }
     ]
   },
@@ -4122,102 +4131,6 @@ const READPULSE_ARTICLES = [
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "news_culture_01",
-    "title": "83rd Venice International Film Festival: Global Cinema Premieres on the Lido",
-    "subtitle": "The world's oldest film festival honors George Clooney and showcases bold international stories.",
-    "speaker": "La Biennale di Venezia Official (Venice)",
-    "sourceName": "베니스 국제영화제 공식 발표 (labiennale.org)",
-    "sourceUrl": "https://www.labiennale.org/",
-    "factChecked": true,
-    "factCheckNotes": "2026년 9월 리도 섬 제83회 베니스 국제영화제 개막, 조지 클루니 공로상 수상 및 공식 경쟁작 상영 실측 확인",
-    "date": "2026-09-06",
-    "category": "culture",
-    "isLive": true,
-    "level": "A2-B1",
-    "readTime": "3 min",
-    "wordCount": 155,
-    "keywords": [
-      "#베니스영화제",
-      "#황금사자상",
-      "#조지클루니",
-      "#시네마"
-    ],
-    "addedAt": "2026-09-06T21:00:00Z",
-    "paragraphs": [
-      {
-        "en": "Every late summer, the romantic Italian island of Lido di Venezia becomes the center of world cinema. The 83rd Venice International Film Festival has officially opened, welcoming celebrated film directors and enthusiastic cinephiles from around the globe. As the oldest film festival on Earth, Venice sets the artistic benchmark for international movie excellence.",
-        "ko": "매년 늦여름이 되면 이탈리아의 낭만적인 섬 리도 디 베네치아가 세계 영화계의 중심지가 됩니다. 제83회 베니스 국제영화제가 전 세계 저명한 영화감독들과 열정적인 영화 팬들을 맞이하며 성대하게 개막했습니다. 지구상에서 가장 오랜 역사를 지닌 베니스 영화제는 세계 영화 예술의 높은 기준을 제시하고 있습니다.",
-        "sentences": [
-          {
-            "en": "Every late summer, the romantic Italian island of Lido di Venezia becomes the center of world cinema.",
-            "ko": "매년 늦여름 이탈리아 베네치아 리도 섬은 세계 영화계의 중심지로 변모합니다."
-          },
-          {
-            "en": "The 83rd Venice International Film Festival has officially opened, welcoming celebrated film directors and enthusiastic cinephiles from around the globe.",
-            "ko": "제83회 베니스 국제영화제가 개막하며 거장 감독들과 영화 팬들을 맞이했습니다."
-          },
-          {
-            "en": "As the oldest film festival on Earth, Venice sets the artistic benchmark for international movie excellence.",
-            "ko": "가장 오랜 전통을 지닌 베니스 영화제는 세계 영화 예술의 기준을 선도합니다."
-          }
-        ]
-      },
-      {
-        "en": "The opening festivities featured Hollywood icon George Clooney receiving a lifetime achievement honor for his decades of cinematic storytelling. Audiences inside the historic screening halls erupted into long standing ovations after premiere showings of emotional dramas and historical biographies. Films competing on the Lido are vying for the prestigious Golden Lion trophy.",
-        "ko": "개막 행사에서는 수십 년간 영화 예술에 헌신한 할리우드의 아이콘 조지 클루니가 평생공로상을 수상하며 큰 주목을 받았습니다. 유서 깊은 상영관 내부의 관객들은 감동적인 드라마와 역사 전기 영화들의 첫 공개가 끝난 뒤 긴 기립박수를 보냈습니다. 리도 섬에서 경합하는 작품들은 영화제 최고 영예인 권위 있는 황금사자상 트로피를 두고 경쟁하고 있습니다.",
-        "sentences": [
-          {
-            "en": "The opening festivities featured Hollywood icon George Clooney receiving a lifetime achievement honor for his decades of cinematic storytelling.",
-            "ko": "개막식에서는 영화인 조지 클루니가 평생공로상을 수상했습니다."
-          },
-          {
-            "en": "Audiences inside the historic screening halls erupted into long standing ovations after premiere showings of emotional dramas and historical biographies.",
-            "ko": "관객들은 감동적인 드라마 시사회 후 뜨거운 기립박수를 보냈습니다."
-          },
-          {
-            "en": "Films competing on the Lido are vying for the prestigious Golden Lion trophy.",
-            "ko": "경쟁작들은 최고 영예인 황금사자상 트로피를 두고 치열하게 경합 중입니다."
-          }
-        ]
-      },
-      {
-        "en": "The Venice red carpet also serves as a famous platform where actors champion artistic freedom and international cultural exchange. Many films debuting here will later compete for major honors during the winter awards season. The festival reminds us that powerful visual storytelling continues to bring people together across all languages.",
-        "ko": "베니스의 레드 카펫은 배우들이 예술적 표현의 자유와 국제적인 문화 교류를 지지하는 유명한 무대이기도 합니다. 이곳 베니스에서 첫선을 보인 수많은 걸작들은 올겨울 주요 글로벌 영화상 시상식에서도 치열한 경쟁을 펼치게 될 것입니다. 베니스 영화제는 강력한 시각적 이야기의 힘이 모든 언어의 장벽을 넘어 인류를 하나로 묶어준다는 점을 다시금 일깨워줍니다.",
-        "sentences": [
-          {
-            "en": "The Venice red carpet also serves as a famous platform where actors champion artistic freedom and international cultural exchange.",
-            "ko": "베니스 레드카펫은 예술의 자유와 문화적 교류를 알리는 소중한 장입니다."
-          },
-          {
-            "en": "Many films debuting here will later compete for major honors during the winter awards season.",
-            "ko": "이곳에서 데뷔한 영화들은 올겨울 글로벌 시상식의 유력 후보가 됩니다."
-          },
-          {
-            "en": "The festival reminds us that powerful visual storytelling continues to bring people together across all languages.",
-            "ko": "이 영화제는 감동적인 스토리가 언어를 초월해 사람들을 하나로 묶는다는 점을 보여줍니다."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "제83회 베니스 국제영화제가 개막하여 조지 클루니의 공로상 수상과 함께 성대한 막을 올렸습니다.",
-      "전 세계 거장들의 신작들이 최고 권위의 황금사자상(Golden Lion)을 두고 리도 섬에서 경합합니다.",
-      "베니스 영화제 출품작들은 올겨울 아카데미 시상식으로 이어지는 글로벌 영화상의 강력한 주자가 됩니다."
-    ],
-    "quiz": [
-      {
-        "question": "Who was honored with a lifetime achievement award at the opening of the 2026 Venice Film Festival?",
-        "options": [
-          "George Clooney.",
-          "A cartoon rabbit from a cereal box.",
-          "An anonymous scuba diver from the Venetian canals."
-        ],
-        "answer": 0,
-        "explanation": "Actor and filmmaker George Clooney was honored with a lifetime achievement award at the opening festivities."
       }
     ]
   },
