@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_3845883844946398472",
+    "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+    "subtitle": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to hu...",
+    "speaker": "BBC Technology",
+    "date": "2026-09-16",
+    "addedAt": "2026-09-16T15:58:31Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 126,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI boss says world &#x27;right to be afraid&#x27; but should trust AI firmsTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI boss says world &#x27;right to be afraid&#x27; but should trust AI firmsTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI boss says world &#x27;right to be afraid&#x27; but should trust AI firmsTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "The boss of ChatGPT-maker OpenAI says people should have more faith in AI firms to keep the tech safe, amid rising public concerns about the risks.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The boss of ChatGPT-maker OpenAI says people should have more faith in AI firms to keep the tech safe, amid rising public concerns about the risks.",
+            "ko": "실시간 보도 번역: The boss of ChatGPT-maker OpenAI says people should have more faith in AI firms to keep the tech safe, amid rising public concerns about the risks."
+          }
+        ]
+      },
+      {
+        "en": "&quot;The world should trust that we are going to do the right thing because it&#x27;s the right thing and we feel the magnitude of this,&quot; Sam Altman said on Tuesday during a conference in San Francisco.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;The world should trust that we are going to do the right thing because it&#x27;s the right thing and we feel the magnitude of this,&quot; Sam Altman said on Tuesday during a conference in San Francisco.",
+            "ko": "실시간 보도 번역: &quot;The world should trust that we are going to do the right thing because it&#x27;s the right thing and we feel the magnitude of this,&quot; Sam Altman said on Tuesday during a conference in San Francisco."
+          }
+        ]
+      },
+      {
+        "en": "He accepted people were justified in being concerned about AI, as the capability of the tools has progressed rapidly.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "He accepted people were justified in being concerned about AI, as the capability of the tools has progressed rapidly.",
+            "ko": "실시간 보도 번역: He accepted people were justified in being concerned about AI, as the capability of the tools has progressed rapidly."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_7945574342406032535",
     "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
     "subtitle": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to hu...",
@@ -702,122 +779,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1804389437797559704",
-    "title": "Does this AI comic make you laugh?",
-    "subtitle": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?...",
-    "speaker": "BBC Technology",
-    "date": "2026-09-11",
-    "addedAt": "2026-09-11T15:44:21Z",
-    "category": "tech",
+    "id": "auto_science_5782316484075305414",
+    "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
+    "subtitle": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness....",
+    "speaker": "BBC Science",
+    "date": "2026-09-16",
+    "addedAt": "2026-09-16T15:58:31Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 107,
+    "wordCount": 136,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeat{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Does this AI comic make you laugh?\",\"description\":\"Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0p94wjw.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0p94wjw.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0p94wjw.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0p94wjw.jpg\"],\"uploadDate\":\"2026-09-11T12:49:30.597Z\",\"duration\":\"PT1M36S\"}Does this AI comic make you laugh?To play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceColombia and Brazil deadliest countries for environmental activists, report saysImage source, ORLANDO SIERRA/AFP via Getty ImagesImage caption, Juan López was one of the environmentalists killed in Latin America recent years. The anti-mining activist was shot in Honduras in 2024.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeat{\"@context\":\"https://schema.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeat{\"@context\":\"https://schema."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceColombia and Brazil deadliest countries for environmental activists, report saysImage source, ORLANDO SIERRA/AFP via Getty ImagesImage caption, Juan López was one of the environmentalists killed in Latin America recent years.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceColombia and Brazil deadliest countries for environmental activists, report saysImage source, ORLANDO SIERRA/AFP via Getty ImagesImage caption, Juan López was one of the environmentalists killed in Latin America recent years."
           },
           {
-            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Does this AI comic make you laugh?",
-            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Does this AI comic make you laugh?"
-          },
-          {
-            "en": "\",\"description\":\"Comedian Garrett Millerick has created an AI avatar based on his own material.",
-            "ko": "실시간 보도 번역: \",\"description\":\"Comedian Garrett Millerick has created an AI avatar based on his own material."
-          },
-          {
-            "en": "Is it any good?",
-            "ko": "실시간 보도 번역: Is it any good?"
-          },
-          {
-            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
-            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1920/galileo/p0p94wjw.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0p94wjw."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1248/galileo/p0p94wjw.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0p94wjw."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/688/galileo/p0p94wjw.",
-            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0p94wjw."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/400/galileo/p0p94wjw.",
-            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0p94wjw."
-          },
-          {
-            "en": "jpg\"],\"uploadDate\":\"2026-09-11T12:49:30.",
-            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-11T12:49:30."
-          },
-          {
-            "en": "597Z\",\"duration\":\"PT1M36S\"}Does this AI comic make you laugh?",
-            "ko": "실시간 보도 번역: 597Z\",\"duration\":\"PT1M36S\"}Does this AI comic make you laugh?"
-          },
-          {
-            "en": "To play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: To play this video you need to enable JavaScript in your browser."
+            "en": "The anti-mining activist was shot in Honduras in 2024.",
+            "ko": "실시간 보도 번역: The anti-mining activist was shot in Honduras in 2024."
           }
         ]
       },
       {
-        "en": "CloseListen to episodes of Garrett Millerick&#x27;s sitcom on BBC Sounds.",
+        "en": "Colombia has again topped the list of countries with the highest number of killings of land and environmental activists, according to an annual report by campaign group Global Witness, external.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "CloseListen to episodes of Garrett Millerick&#x27;s sitcom on BBC Sounds.",
-            "ko": "실시간 보도 번역: CloseListen to episodes of Garrett Millerick&#x27;s sitcom on BBC Sounds."
+            "en": "Colombia has again topped the list of countries with the highest number of killings of land and environmental activists, according to an annual report by campaign group Global Witness, external.",
+            "ko": "실시간 보도 번역: Colombia has again topped the list of countries with the highest number of killings of land and environmental activists, according to an annual report by campaign group Global Witness, external."
           }
         ]
       },
       {
-        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsArtificial intelligenceFollow Artificial intelligence",
+        "en": "Out of at least 124 activists killed globally in 2025, 39 were murdered in Colombia, followed by Brazil with 26.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsArtificial intelligenceFollow Artificial intelligence",
-            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsArtificial intelligenceFollow Artificial intelligence"
+            "en": "Out of at least 124 activists killed globally in 2025, 39 were murdered in Colombia, followed by Brazil with 26.",
+            "ko": "실시간 보도 번역: Out of at least 124 activists killed globally in 2025, 39 were murdered in Colombia, followed by Brazil with 26."
           }
         ]
       },
       {
-        "en": "close panelYou are now following\n    Artificial intelligenceUpdates from your News topics will appear in My News and in a collection on the News homepage.Stand-up comedyFollow Stand-up comedy",
+        "en": "Global Witness says that 85% of the documented killings took place in Latin America, making it the deadliest region for every year since the group started publishing its reports in 2012.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "close panelYou are now following\n    Artificial intelligenceUpdates from your News topics will appear in My News and in a collection on the News homepage.",
-            "ko": "실시간 보도 번역: close panelYou are now following\n    Artificial intelligenceUpdates from your News topics will appear in My News and in a collection on the News homepage."
+            "en": "Global Witness says that 85% of the documented killings took place in Latin America, making it the deadliest region for every year since the group started publishing its reports in 2012.",
+            "ko": "실시간 보도 번역: Global Witness says that 85% of the documented killings took place in Latin America, making it the deadliest region for every year since the group started publishing its reports in 2012."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Does this AI comic make you laugh?",
+      "글로벌 최신 소식: Colombia and Brazil deadliest countries for environmental activists, report says",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -825,7 +850,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Does this AI comic make you laugh?",
+          "Colombia and Brazil deadliest countries for environmental activists, report says",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1632,110 +1657,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_8111644958876222286",
-    "title": "Sheen says he was snubbed by FM over pollution claims",
-    "subtitle": "The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe....",
-    "speaker": "BBC Science",
-    "date": "2026-09-11",
-    "addedAt": "2026-09-11T15:44:22Z",
-    "category": "science",
+    "id": "auto_economy_4383879239455881009",
+    "title": "Petrol and diesel price rises push UK inflation higher",
+    "subtitle": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth....",
+    "speaker": "BBC Business",
+    "date": "2026-09-16",
+    "addedAt": "2026-09-16T15:58:31Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 136,
+    "wordCount": 134,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal News{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Michael Sheen says he was snubbed by first minister over toxic pollution claims\",\"description\":\"The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0p945wg.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0p945wg.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0p945wg.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0p945wg.jpg\"],\"uploadDate\":\"2026-09-11T10:29:19.280Z\",\"duration\":\"PT52S\"}Sheen says he was snubbed by FM over pollution claimsTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPetrol and diesel price rises push UK inflation higher Image source, Getty ImagesByDearbail JordanBusiness reporterPublished16 September 2026, 07:06 BSTUpdated 1 hour agoRises in petrol, diesel and airfares pushed UK inflation up to its highest level in five months in the year to August.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal News{\"@context\":\"https://schema.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal News{\"@context\":\"https://schema."
-          },
-          {
-            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Michael Sheen says he was snubbed by first minister over toxic pollution claims\",\"description\":\"The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe.",
-            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Michael Sheen says he was snubbed by first minister over toxic pollution claims\",\"description\":\"The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe."
-          },
-          {
-            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
-            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1920/galileo/p0p945wg.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0p945wg."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1248/galileo/p0p945wg.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0p945wg."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/688/galileo/p0p945wg.",
-            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0p945wg."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/400/galileo/p0p945wg.",
-            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0p945wg."
-          },
-          {
-            "en": "jpg\"],\"uploadDate\":\"2026-09-11T10:29:19.",
-            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-11T10:29:19."
-          },
-          {
-            "en": "280Z\",\"duration\":\"PT52S\"}Sheen says he was snubbed by FM over pollution claimsTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: 280Z\",\"duration\":\"PT52S\"}Sheen says he was snubbed by FM over pollution claimsTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPetrol and diesel price rises push UK inflation higher Image source, Getty ImagesByDearbail JordanBusiness reporterPublished16 September 2026, 07:06 BSTUpdated 1 hour agoRises in petrol, diesel and airfares pushed UK inflation up to its highest level in five months in the year to August.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPetrol and diesel price rises push UK inflation higher Image source, Getty ImagesByDearbail JordanBusiness reporterPublished16 September 2026, 07:06 BSTUpdated 1 hour agoRises in petrol, diesel and airfares pushed UK inflation up to its highest level in five months in the year to August."
           }
         ]
       },
       {
-        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsWalesFollow Wales",
+        "en": "Inflation accelerated to 3.1% from 2.9%, according to the Office for National Statistics (ONS).",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsWalesFollow Wales",
-            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsWalesFollow Wales"
+            "en": "Inflation accelerated to 3.",
+            "ko": "실시간 보도 번역: Inflation accelerated to 3."
+          },
+          {
+            "en": "9%, according to the Office for National Statistics (ONS).",
+            "ko": "실시간 보도 번역: 9%, according to the Office for National Statistics (ONS)."
           }
         ]
       },
       {
-        "en": "close panelYou are now following\n    WalesUpdates from your News topics will appear in My News and in a collection on the News homepage.WrexhamFollow Wrexham",
+        "en": "The cost of filling up a vehicle soared in August as the conflict in the Middle East continued to disrupt global oil supplies. Petrol prices jumped to their highest for nearly four years, the ONS said, while diesel also rocketed.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "close panelYou are now following\n    WalesUpdates from your News topics will appear in My News and in a collection on the News homepage.",
-            "ko": "실시간 보도 번역: close panelYou are now following\n    WalesUpdates from your News topics will appear in My News and in a collection on the News homepage."
+            "en": "The cost of filling up a vehicle soared in August as the conflict in the Middle East continued to disrupt global oil supplies.",
+            "ko": "실시간 보도 번역: The cost of filling up a vehicle soared in August as the conflict in the Middle East continued to disrupt global oil supplies."
+          },
+          {
+            "en": "Petrol prices jumped to their highest for nearly four years, the ONS said, while diesel also rocketed.",
+            "ko": "실시간 보도 번역: Petrol prices jumped to their highest for nearly four years, the ONS said, while diesel also rocketed."
           }
         ]
       },
       {
-        "en": "close panelYou are now following\n    WrexhamUpdates from your News topics will appear in My News and in a collection on the News homepage.Michael SheenFollow Michael Sheen",
+        "en": "Meanwhile, the cost of flying jumped during the key month for summer getaways.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "close panelYou are now following\n    WrexhamUpdates from your News topics will appear in My News and in a collection on the News homepage.",
-            "ko": "실시간 보도 번역: close panelYou are now following\n    WrexhamUpdates from your News topics will appear in My News and in a collection on the News homepage."
+            "en": "Meanwhile, the cost of flying jumped during the key month for summer getaways.",
+            "ko": "실시간 보도 번역: Meanwhile, the cost of flying jumped during the key month for summer getaways."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Sheen says he was snubbed by FM over pollution claims",
+      "글로벌 최신 소식: Petrol and diesel price rises push UK inflation higher",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1743,7 +1732,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Sheen says he was snubbed by FM over pollution claims",
+          "Petrol and diesel price rises push UK inflation higher",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2470,70 +2459,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_4258401901848372887",
-    "title": "AI boom helps drive surprise UK growth in July",
-    "subtitle": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth....",
-    "speaker": "BBC Business",
-    "date": "2026-09-11",
-    "addedAt": "2026-09-11T15:44:22Z",
-    "category": "economy",
+    "id": "auto_sports_3747823117172328964",
+    "title": "Draper decides not to play again this season",
+    "subtitle": "Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of ...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-15",
+    "addedAt": "2026-09-16T15:58:31Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 134,
+    "wordCount": 137,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI boom helps drive surprise UK growth in JulyImage source, Getty ImagesByEmer MoreauBusiness reporterPublished11 September 2026, 07:13 BSTUpdated 5 hours agoThe UK&#x27;s economy grew faster than expected in July partly helped by businesses using artificial intelligence (AI).",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDraper decides not to play again this seasonImage source, Getty ImagesImage caption, Draper reached the US Open semi-finals in 2024",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI boom helps drive surprise UK growth in JulyImage source, Getty ImagesByEmer MoreauBusiness reporterPublished11 September 2026, 07:13 BSTUpdated 5 hours agoThe UK&#x27;s economy grew faster than expected in July partly helped by businesses using artificial intelligence (AI).",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI boom helps drive surprise UK growth in JulyImage source, Getty ImagesByEmer MoreauBusiness reporterPublished11 September 2026, 07:13 BSTUpdated 5 hours agoThe UK&#x27;s economy grew faster than expected in July partly helped by businesses using artificial intelligence (AI)."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDraper decides not to play again this seasonImage source, Getty ImagesImage caption, Draper reached the US Open semi-finals in 2024",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDraper decides not to play again this seasonImage source, Getty ImagesImage caption, Draper reached the US Open semi-finals in 2024"
           }
         ]
       },
       {
-        "en": "The economy expanded by 0.4%, the Office for National Statistics (ONS) said, whereas analysts had predicted no growth.",
+        "en": "Tennis correspondentPublished15 September 2026Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of next year.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The economy expanded by 0.",
-            "ko": "실시간 보도 번역: The economy expanded by 0."
-          },
-          {
-            "en": "4%, the Office for National Statistics (ONS) said, whereas analysts had predicted no growth.",
-            "ko": "실시간 보도 번역: 4%, the Office for National Statistics (ONS) said, whereas analysts had predicted no growth."
+            "en": "Tennis correspondentPublished15 September 2026Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of next year.",
+            "ko": "실시간 보도 번역: Tennis correspondentPublished15 September 2026Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of next year."
           }
         ]
       },
       {
-        "en": "Growth in July was helped by a strong performance from the services sector, and particularly computer programming.",
+        "en": "The 24-year-old has been suffering with bone bruising in his serving arm and has only played nine events since last year&#x27;s Wimbledon.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Growth in July was helped by a strong performance from the services sector, and particularly computer programming.",
-            "ko": "실시간 보도 번역: Growth in July was helped by a strong performance from the services sector, and particularly computer programming."
+            "en": "The 24-year-old has been suffering with bone bruising in his serving arm and has only played nine events since last year&#x27;s Wimbledon.",
+            "ko": "실시간 보도 번역: The 24-year-old has been suffering with bone bruising in his serving arm and has only played nine events since last year&#x27;s Wimbledon."
           }
         ]
       },
       {
-        "en": "Experts said the figure showed the UK economy was proving resilient in the face of shocks such as the war in Iran, but they expect growth to slow in the months ahead as high energy prices affect households.",
+        "en": "Draper missed the US Open, after losing in the first round in Montreal and Cincinnati last month - and was in tears during his defeat to France&#x27;s Terence Atmane in Canada.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Experts said the figure showed the UK economy was proving resilient in the face of shocks such as the war in Iran, but they expect growth to slow in the months ahead as high energy prices affect households.",
-            "ko": "실시간 보도 번역: Experts said the figure showed the UK economy was proving resilient in the face of shocks such as the war in Iran, but they expect growth to slow in the months ahead as high energy prices affect households."
+            "en": "Draper missed the US Open, after losing in the first round in Montreal and Cincinnati last month - and was in tears during his defeat to France&#x27;s Terence Atmane in Canada.",
+            "ko": "실시간 보도 번역: Draper missed the US Open, after losing in the first round in Montreal and Cincinnati last month - and was in tears during his defeat to France&#x27;s Terence Atmane in Canada."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: AI boom helps drive surprise UK growth in July",
+      "글로벌 최신 소식: Draper decides not to play again this season",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2541,14 +2526,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "AI boom helps drive surprise UK growth in July",
+          "Draper decides not to play again this season",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_3328759754092935651",
@@ -3266,66 +3253,74 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_2134211709681444648",
-    "title": "How 9/11 'shattered the guise of safety' for tennis' travelling circus",
-    "subtitle": "On Friday, the US Open will pause and remember the victims of the 9/11 terror attack that took place 25 years ago....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-11",
-    "addedAt": "2026-09-11T15:44:23Z",
-    "category": "sports",
+    "id": "auto_culture_3700160023946897194",
+    "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
+    "subtitle": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-16",
+    "addedAt": "2026-09-16T15:58:32Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 140,
+    "wordCount": 150,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarHow 9/11 &#x27;shattered the guise of safety&#x27; for tennis&#x27; travelling circusImage source, Getty ImagesImage caption, The US Open will commemorate the 25th anniversary of 9/11 on Friday",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow being music&#x27;s Mr Nice Guy contributed to biggest crisis of Ed Sheeran&#x27;s careerTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarHow 9/11 &#x27;shattered the guise of safety&#x27; for tennis&#x27; travelling circusImage source, Getty ImagesImage caption, The US Open will commemorate the 25th anniversary of 9/11 on Friday",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarHow 9/11 &#x27;shattered the guise of safety&#x27; for tennis&#x27; travelling circusImage source, Getty ImagesImage caption, The US Open will commemorate the 25th anniversary of 9/11 on Friday"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow being music&#x27;s Mr Nice Guy contributed to biggest crisis of Ed Sheeran&#x27;s careerTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow being music&#x27;s Mr Nice Guy contributed to biggest crisis of Ed Sheeran&#x27;s careerTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Tennis correspondent in New YorkPublished8 hours agoThe Arthur Ashe Stadium will glow light blue from dusk until dawn as the US Open marks the 25th anniversary of the 9/11 attacks.",
+        "en": "Music correspondentPublished4 hours agoSinger Ed Sheeran is facing the biggest controversy of his career after a storm over a decision to drop support act Macklemore from his US stadium tour following the rapper&#x27;s on-stage pro-Palestinian comments.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Tennis correspondent in New YorkPublished8 hours agoThe Arthur Ashe Stadium will glow light blue from dusk until dawn as the US Open marks the 25th anniversary of the 9/11 attacks.",
-            "ko": "실시간 보도 번역: Tennis correspondent in New YorkPublished8 hours agoThe Arthur Ashe Stadium will glow light blue from dusk until dawn as the US Open marks the 25th anniversary of the 9/11 attacks."
+            "en": "Music correspondentPublished4 hours agoSinger Ed Sheeran is facing the biggest controversy of his career after a storm over a decision to drop support act Macklemore from his US stadium tour following the rapper&#x27;s on-stage pro-Palestinian comments.",
+            "ko": "실시간 보도 번역: Music correspondentPublished4 hours agoSinger Ed Sheeran is facing the biggest controversy of his career after a storm over a decision to drop support act Macklemore from his US stadium tour following the rapper&#x27;s on-stage pro-Palestinian comments."
           }
         ]
       },
       {
-        "en": "American flags will be flown at half-mast as New York remembers the 2,977 people who died when hijackers crashed passenger jets into the Twin Towers in Manhattan on that day in 2001.",
+        "en": "Sheeran is one of the most successful songwriters of all time. He has sold more than 120 million records and spent more than 1,000 weeks on the US album charts.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "American flags will be flown at half-mast as New York remembers the 2,977 people who died when hijackers crashed passenger jets into the Twin Towers in Manhattan on that day in 2001.",
-            "ko": "실시간 보도 번역: American flags will be flown at half-mast as New York remembers the 2,977 people who died when hijackers crashed passenger jets into the Twin Towers in Manhattan on that day in 2001."
+            "en": "Sheeran is one of the most successful songwriters of all time.",
+            "ko": "실시간 보도 번역: Sheeran is one of the most successful songwriters of all time."
+          },
+          {
+            "en": "He has sold more than 120 million records and spent more than 1,000 weeks on the US album charts.",
+            "ko": "실시간 보도 번역: He has sold more than 120 million records and spent more than 1,000 weeks on the US album charts."
           }
         ]
       },
       {
-        "en": "That year&#x27;s US Open had concluded just two days earlier, with Lleyton Hewitt winning the men&#x27;s singles title.",
+        "en": "Part of his appeal - apart from those insidiously catchy songs - is his everyman persona. He looks and dresses like a fan on the train home from Glastonbury, rather than one of the festival&#x27;s headliners.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "That year&#x27;s US Open had concluded just two days earlier, with Lleyton Hewitt winning the men&#x27;s singles title.",
-            "ko": "실시간 보도 번역: That year&#x27;s US Open had concluded just two days earlier, with Lleyton Hewitt winning the men&#x27;s singles title."
+            "en": "Part of his appeal - apart from those insidiously catchy songs - is his everyman persona.",
+            "ko": "실시간 보도 번역: Part of his appeal - apart from those insidiously catchy songs - is his everyman persona."
+          },
+          {
+            "en": "He looks and dresses like a fan on the train home from Glastonbury, rather than one of the festival&#x27;s headliners.",
+            "ko": "실시간 보도 번역: He looks and dresses like a fan on the train home from Glastonbury, rather than one of the festival&#x27;s headliners."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: How 9/11 'shattered the guise of safety' for tennis' travelling circus",
+      "글로벌 최신 소식: How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3333,16 +3328,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "How 9/11 'shattered the guise of safety' for tennis' travelling circus",
+          "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_798356922271902107",
@@ -4045,87 +4038,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_2131261596301273869",
-    "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
-    "subtitle": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\"....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-10",
-    "addedAt": "2026-09-11T15:44:25Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 157,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN. IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsEsther Rantzen says she is too fragile to travel to Switzerland to end lifeImage source, PA MediaByAleks PhillipsPublished10 September 2026Dame Esther Rantzen has said she is now &quot;too physically fragile&quot; to travel to Switzerland to end her life at an assisted suicide clinic.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN."
-          },
-          {
-            "en": "IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsEsther Rantzen says she is too fragile to travel to Switzerland to end lifeImage source, PA MediaByAleks PhillipsPublished10 September 2026Dame Esther Rantzen has said she is now &quot;too physically fragile&quot; to travel to Switzerland to end her life at an assisted suicide clinic.",
-            "ko": "실시간 보도 번역: IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsEsther Rantzen says she is too fragile to travel to Switzerland to end lifeImage source, PA MediaByAleks PhillipsPublished10 September 2026Dame Esther Rantzen has said she is now &quot;too physically fragile&quot; to travel to Switzerland to end her life at an assisted suicide clinic."
-          }
-        ]
-      },
-      {
-        "en": "The veteran broadcaster, 86, said she would have to fly to the country, where the practice is legal, alone, which she could only have done before her life became &quot;unbearable&quot; and before she was ready to end her life.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The veteran broadcaster, 86, said she would have to fly to the country, where the practice is legal, alone, which she could only have done before her life became &quot;unbearable&quot; and before she was ready to end her life.",
-            "ko": "실시간 보도 번역: The veteran broadcaster, 86, said she would have to fly to the country, where the practice is legal, alone, which she could only have done before her life became &quot;unbearable&quot; and before she was ready to end her life."
-          }
-        ]
-      },
-      {
-        "en": "The Childline founder, who is terminally ill with cancer, first revealed in December 2023 that she had joined the Dignitas clinic.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The Childline founder, who is terminally ill with cancer, first revealed in December 2023 that she had joined the Dignitas clinic.",
-            "ko": "실시간 보도 번역: The Childline founder, who is terminally ill with cancer, first revealed in December 2023 that she had joined the Dignitas clinic."
-          }
-        ]
-      },
-      {
-        "en": "Dame Esther used her statement on Thursday to reiterate a plea for MPs to vote in favour of legalising assisted dying in England and Wales when proposed legislation is revisited by Parliament on Friday.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Dame Esther used her statement on Thursday to reiterate a plea for MPs to vote in favour of legalising assisted dying in England and Wales when proposed legislation is revisited by Parliament on Friday.",
-            "ko": "실시간 보도 번역: Dame Esther used her statement on Thursday to reiterate a plea for MPs to vote in favour of legalising assisted dying in England and Wales when proposed legislation is revisited by Parliament on Friday."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Esther Rantzen says she is too fragile to travel to Switzerland to end life",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
           "Historical retrospective",
           "Unrelated general weather"
         ],
