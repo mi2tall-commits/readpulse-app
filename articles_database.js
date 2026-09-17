@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_7435151888124003488",
+    "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+    "subtitle": "Evan Speigel says it would be \"an important step forward for the industry\" in an interview with the BBC....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-16",
+    "addedAt": "2026-09-17T03:02:20Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 122,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatSnapchat considering daily time limits for teens, boss tells BBCTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatSnapchat considering daily time limits for teens, boss tells BBCTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatSnapchat considering daily time limits for teens, boss tells BBCTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "Watch: CEO Evan Spiegel tells the BBC he would consider a time limit on Snapchat",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Watch: CEO Evan Spiegel tells the BBC he would consider a time limit on Snapchat",
+            "ko": "실시간 보도 번역: Watch: CEO Evan Spiegel tells the BBC he would consider a time limit on Snapchat"
+          }
+        ]
+      },
+      {
+        "en": "The boss of Snapchat-parent Snap Inc says the firm would be &quot;willing to implement&quot; time limits for teens, following a call from Meta for it to take action.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The boss of Snapchat-parent Snap Inc says the firm would be &quot;willing to implement&quot; time limits for teens, following a call from Meta for it to take action.",
+            "ko": "실시간 보도 번역: The boss of Snapchat-parent Snap Inc says the firm would be &quot;willing to implement&quot; time limits for teens, following a call from Meta for it to take action."
+          }
+        ]
+      },
+      {
+        "en": "Evan Spiegel told the BBC in an interview at the company&#x27;s California headquarters that setting a maximum amount of time that young users could spend on the app could be &quot;an important step forward for the industry.&quot;",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Evan Spiegel told the BBC in an interview at the company&#x27;s California headquarters that setting a maximum amount of time that young users could spend on the app could be &quot;an important step forward for the industry.",
+            "ko": "실시간 보도 번역: Evan Spiegel told the BBC in an interview at the company&#x27;s California headquarters that setting a maximum amount of time that young users could spend on the app could be &quot;an important step forward for the industry."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_3845883844946398472",
     "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
     "subtitle": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to hu...",
@@ -698,70 +775,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_2636062316786271951",
-    "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
-    "subtitle": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-12",
-    "addedAt": "2026-09-12T02:47:40Z",
-    "category": "tech",
+    "id": "auto_science_1830353060159118751",
+    "title": "Part-human part-mouse brain developed in science breakthrough",
+    "subtitle": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells....",
+    "speaker": "BBC Science",
+    "date": "2026-09-16",
+    "addedAt": "2026-09-17T03:02:20Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 127,
+    "wordCount": 111,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPlayStation gambles with 18-rated Wolverine game - will it pay off?Image source, Sony/MarvelByTom GerkenTechnology reporterPublished1 hour agoOn Tuesday, Sony will release Marvel&#x27;s Wolverine - the biggest game exclusive to the PlayStation 5 this year.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatPart-human part-mouse brain developed in science breakthroughImage source, Getty ImagesImage caption, The research has raised questions about what it means to alter the way laboratory  animals think and feel",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPlayStation gambles with 18-rated Wolverine game - will it pay off?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPlayStation gambles with 18-rated Wolverine game - will it pay off?"
-          },
-          {
-            "en": "Image source, Sony/MarvelByTom GerkenTechnology reporterPublished1 hour agoOn Tuesday, Sony will release Marvel&#x27;s Wolverine - the biggest game exclusive to the PlayStation 5 this year.",
-            "ko": "실시간 보도 번역: Image source, Sony/MarvelByTom GerkenTechnology reporterPublished1 hour agoOn Tuesday, Sony will release Marvel&#x27;s Wolverine - the biggest game exclusive to the PlayStation 5 this year."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatPart-human part-mouse brain developed in science breakthroughImage source, Getty ImagesImage caption, The research has raised questions about what it means to alter the way laboratory  animals think and feel",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatPart-human part-mouse brain developed in science breakthroughImage source, Getty ImagesImage caption, The research has raised questions about what it means to alter the way laboratory  animals think and feel"
           }
         ]
       },
       {
-        "en": "It&#x27;s made by Insomniac, the studio responsible for the recent Spider-Man titles, which have sold 50 million copies in recent years.",
+        "en": "Neuroscientists in the US have successfully adapted mice to have functioning human cells inside their own brains.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It&#x27;s made by Insomniac, the studio responsible for the recent Spider-Man titles, which have sold 50 million copies in recent years.",
-            "ko": "실시간 보도 번역: It&#x27;s made by Insomniac, the studio responsible for the recent Spider-Man titles, which have sold 50 million copies in recent years."
+            "en": "Neuroscientists in the US have successfully adapted mice to have functioning human cells inside their own brains.",
+            "ko": "실시간 보도 번역: Neuroscientists in the US have successfully adapted mice to have functioning human cells inside their own brains."
           }
         ]
       },
       {
-        "en": "But unlike the friendly neighbourhood superhero, Wolverine has a Pegi-18 rating in the UK, meaning a child cannot legally buy the game, and it contains considerable levels of blood, gore and violence.",
+        "en": "The researchers hope that potential treatments for psychiatric and neurodevelopmental diseases that only occur in humans could now be tested on the laboratory rodents.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But unlike the friendly neighbourhood superhero, Wolverine has a Pegi-18 rating in the UK, meaning a child cannot legally buy the game, and it contains considerable levels of blood, gore and violence.",
-            "ko": "실시간 보도 번역: But unlike the friendly neighbourhood superhero, Wolverine has a Pegi-18 rating in the UK, meaning a child cannot legally buy the game, and it contains considerable levels of blood, gore and violence."
+            "en": "The researchers hope that potential treatments for psychiatric and neurodevelopmental diseases that only occur in humans could now be tested on the laboratory rodents.",
+            "ko": "실시간 보도 번역: The researchers hope that potential treatments for psychiatric and neurodevelopmental diseases that only occur in humans could now be tested on the laboratory rodents."
           }
         ]
       },
       {
-        "en": "It represents a gamble for the studio responsible for some of Sony&#x27;s biggest hits - will it turn out to have been worth it?",
+        "en": "While mice with brains that are partly human might sound like a Kafkaesque experiment, the scientists said these are not &quot;mice that think like humans&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It represents a gamble for the studio responsible for some of Sony&#x27;s biggest hits - will it turn out to have been worth it?",
-            "ko": "실시간 보도 번역: It represents a gamble for the studio responsible for some of Sony&#x27;s biggest hits - will it turn out to have been worth it?"
+            "en": "While mice with brains that are partly human might sound like a Kafkaesque experiment, the scientists said these are not &quot;mice that think like humans&quot;.",
+            "ko": "실시간 보도 번역: While mice with brains that are partly human might sound like a Kafkaesque experiment, the scientists said these are not &quot;mice that think like humans&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+      "글로벌 최신 소식: Part-human part-mouse brain developed in science breakthrough",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -769,7 +842,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+          "Part-human part-mouse brain developed in science breakthrough",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1580,66 +1653,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_951195284403363986",
-    "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
-    "subtitle": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales....",
-    "speaker": "BBC Science",
-    "date": "2026-09-11",
-    "addedAt": "2026-09-12T02:47:41Z",
-    "category": "science",
+    "id": "auto_economy_792827393984407421",
+    "title": "Interest rates hold expected but Bank of England facing tough choices",
+    "subtitle": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year....",
+    "speaker": "BBC Business",
+    "date": "2026-09-16",
+    "addedAt": "2026-09-17T03:02:20Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 138,
+    "wordCount": 155,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsBattle to save the tiny, gooey snail only found in one lake in the UKImage source, Dudley ZooImage caption, The glutinous snail was once widespread in the UK, but is now only found in one Welsh lake",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessInterest rates hold expected but Bank of England facing tough choicesImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished3 hours agoPolicymakers at the Bank of England are expected to keep interest rates unchanged despite price rises accelerating due to the prolonged conflict in the Middle East.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsBattle to save the tiny, gooey snail only found in one lake in the UKImage source, Dudley ZooImage caption, The glutinous snail was once widespread in the UK, but is now only found in one Welsh lake",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsBattle to save the tiny, gooey snail only found in one lake in the UKImage source, Dudley ZooImage caption, The glutinous snail was once widespread in the UK, but is now only found in one Welsh lake"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessInterest rates hold expected but Bank of England facing tough choicesImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished3 hours agoPolicymakers at the Bank of England are expected to keep interest rates unchanged despite price rises accelerating due to the prolonged conflict in the Middle East.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessInterest rates hold expected but Bank of England facing tough choicesImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished3 hours agoPolicymakers at the Bank of England are expected to keep interest rates unchanged despite price rises accelerating due to the prolonged conflict in the Middle East."
           }
         ]
       },
       {
-        "en": "A tiny snail found in only one lake in the UK has been dubbed as precious as an Egyptian artefact as conservationists bid to save it.",
+        "en": "The nine-member Monetary Policy Committee (MPC) has been meeting amid a backdrop of increasing global energy prices and interest rate rises around the world.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A tiny snail found in only one lake in the UK has been dubbed as precious as an Egyptian artefact as conservationists bid to save it.",
-            "ko": "실시간 보도 번역: A tiny snail found in only one lake in the UK has been dubbed as precious as an Egyptian artefact as conservationists bid to save it."
+            "en": "The nine-member Monetary Policy Committee (MPC) has been meeting amid a backdrop of increasing global energy prices and interest rate rises around the world.",
+            "ko": "실시간 보도 번역: The nine-member Monetary Policy Committee (MPC) has been meeting amid a backdrop of increasing global energy prices and interest rate rises around the world."
           }
         ]
       },
       {
-        "en": "Several British zoos are setting up so-called ark populations of the glutinous snail, one of Europe&#x27;s rarest species, using creatures bred in a back garden in Ceredigion.",
+        "en": "Economists expect the MPC to hold the benchmark Bank rate at 3.75% for a sixth consecutive meeting but analysts are more divided on whether the rate will need to go up before the end of the year.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Several British zoos are setting up so-called ark populations of the glutinous snail, one of Europe&#x27;s rarest species, using creatures bred in a back garden in Ceredigion.",
-            "ko": "실시간 보도 번역: Several British zoos are setting up so-called ark populations of the glutinous snail, one of Europe&#x27;s rarest species, using creatures bred in a back garden in Ceredigion."
+            "en": "Economists expect the MPC to hold the benchmark Bank rate at 3.",
+            "ko": "실시간 보도 번역: Economists expect the MPC to hold the benchmark Bank rate at 3."
+          },
+          {
+            "en": "75% for a sixth consecutive meeting but analysts are more divided on whether the rate will need to go up before the end of the year.",
+            "ko": "실시간 보도 번역: 75% for a sixth consecutive meeting but analysts are more divided on whether the rate will need to go up before the end of the year."
           }
         ]
       },
       {
-        "en": "&quot;Beguiled by their cuteness,&quot; conservationist Ian Hughes has made it his &quot;life-defining&quot; mission to protect the threatened mollusc, which was once widespread in UK waters.",
+        "en": "The Bank rate is crucial in setting the benchmark for banks and other lenders in setting interest for individuals and businesses borrowing and saving money.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Beguiled by their cuteness,&quot; conservationist Ian Hughes has made it his &quot;life-defining&quot; mission to protect the threatened mollusc, which was once widespread in UK waters.",
-            "ko": "실시간 보도 번역: &quot;Beguiled by their cuteness,&quot; conservationist Ian Hughes has made it his &quot;life-defining&quot; mission to protect the threatened mollusc, which was once widespread in UK waters."
+            "en": "The Bank rate is crucial in setting the benchmark for banks and other lenders in setting interest for individuals and businesses borrowing and saving money.",
+            "ko": "실시간 보도 번역: The Bank rate is crucial in setting the benchmark for banks and other lenders in setting interest for individuals and businesses borrowing and saving money."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Battle to save the tiny, gooey snail only found in one lake in the UK",
+      "글로벌 최신 소식: Interest rates hold expected but Bank of England facing tough choices",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1647,7 +1724,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Battle to save the tiny, gooey snail only found in one lake in the UK",
+          "Interest rates hold expected but Bank of England facing tough choices",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2382,66 +2459,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_8573213645443955560",
-    "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-    "subtitle": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\"....",
-    "speaker": "BBC Business",
-    "date": "2026-09-11",
-    "addedAt": "2026-09-12T02:47:42Z",
-    "category": "economy",
+    "id": "auto_sports_4017126599956477685",
+    "title": "Charlotte to host WTA Finals from 2027",
+    "subtitle": "The WTA Finals will take place in the American city of Charlotte from 2027 on a three-year deal....",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-16",
+    "addedAt": "2026-09-17T03:02:21Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 157,
+    "wordCount": 138,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRyanair boss O&#x27;Leary defends &#x27;high-fare rapists&#x27; airlines remarksImage source, Getty ImagesByKaty Austin, Transport correspondent and Mitchell Labiak, Business reporterPublished11 September 2026Ryanair chief executive Michael O&#x27;Leary has refused to apologise to a rape crisis centre which criticised him for describing rival airlines as &quot;high-fare rapists&quot;.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCharlotte to host WTA Finals from 2027Image source, Getty ImagesImage caption, Elena Rybakina won the 2025 WTA Finals in Saudi Arabia",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRyanair boss O&#x27;Leary defends &#x27;high-fare rapists&#x27; airlines remarksImage source, Getty ImagesByKaty Austin, Transport correspondent and Mitchell Labiak, Business reporterPublished11 September 2026Ryanair chief executive Michael O&#x27;Leary has refused to apologise to a rape crisis centre which criticised him for describing rival airlines as &quot;high-fare rapists&quot;.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRyanair boss O&#x27;Leary defends &#x27;high-fare rapists&#x27; airlines remarksImage source, Getty ImagesByKaty Austin, Transport correspondent and Mitchell Labiak, Business reporterPublished11 September 2026Ryanair chief executive Michael O&#x27;Leary has refused to apologise to a rape crisis centre which criticised him for describing rival airlines as &quot;high-fare rapists&quot;."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCharlotte to host WTA Finals from 2027Image source, Getty ImagesImage caption, Elena Rybakina won the 2025 WTA Finals in Saudi Arabia",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCharlotte to host WTA Finals from 2027Image source, Getty ImagesImage caption, Elena Rybakina won the 2025 WTA Finals in Saudi Arabia"
           }
         ]
       },
       {
-        "en": "Speaking to journalists, O&#x27;Leary said some people were &quot;desperate to get to Ryanair&#x27;s low fares because they can&#x27;t afford to fly with the high-fare rapists around Europe&quot;.",
+        "en": "Tennis correspondentPublished16 September 2026The American city of Charlotte in North Carolina has been chosen as the new home of the season-ending WTA Finals.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Speaking to journalists, O&#x27;Leary said some people were &quot;desperate to get to Ryanair&#x27;s low fares because they can&#x27;t afford to fly with the high-fare rapists around Europe&quot;.",
-            "ko": "실시간 보도 번역: Speaking to journalists, O&#x27;Leary said some people were &quot;desperate to get to Ryanair&#x27;s low fares because they can&#x27;t afford to fly with the high-fare rapists around Europe&quot;."
+            "en": "Tennis correspondentPublished16 September 2026The American city of Charlotte in North Carolina has been chosen as the new home of the season-ending WTA Finals.",
+            "ko": "실시간 보도 번역: Tennis correspondentPublished16 September 2026The American city of Charlotte in North Carolina has been chosen as the new home of the season-ending WTA Finals."
           }
         ]
       },
       {
-        "en": "O&#x27;Leary doubled-down on his choice of words when asked about them at the time, and later refused to apologise when the Dublin Rape Crisis Centre (DRCC) wrote to him asking for apology, in a letter seen by the BBC.",
+        "en": "The WTA says it wants to create the &quot;Super Bowl of women&#x27;s sports&quot; and is hoping the three-year deal will bring more stability to an event that has had six hosts in seven years.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "O&#x27;Leary doubled-down on his choice of words when asked about them at the time, and later refused to apologise when the Dublin Rape Crisis Centre (DRCC) wrote to him asking for apology, in a letter seen by the BBC.",
-            "ko": "실시간 보도 번역: O&#x27;Leary doubled-down on his choice of words when asked about them at the time, and later refused to apologise when the Dublin Rape Crisis Centre (DRCC) wrote to him asking for apology, in a letter seen by the BBC."
+            "en": "The WTA says it wants to create the &quot;Super Bowl of women&#x27;s sports&quot; and is hoping the three-year deal will bring more stability to an event that has had six hosts in seven years.",
+            "ko": "실시간 보도 번역: The WTA says it wants to create the &quot;Super Bowl of women&#x27;s sports&quot; and is hoping the three-year deal will bring more stability to an event that has had six hosts in seven years."
           }
         ]
       },
       {
-        "en": "Ireland&#x27;s deputy premier Simon Harris said it was &quot;clearly an inappropriate use of language&quot; and that O&#x27;Leary &quot;should have moved to rectify it&quot;.",
+        "en": "A planned 10-year stay in Shenzhen ended after just one year, with Guadalajara, Fort Worth, Cancun and Riyadh all taking turns since. Crowds have often been disappointing.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Ireland&#x27;s deputy premier Simon Harris said it was &quot;clearly an inappropriate use of language&quot; and that O&#x27;Leary &quot;should have moved to rectify it&quot;.",
-            "ko": "실시간 보도 번역: Ireland&#x27;s deputy premier Simon Harris said it was &quot;clearly an inappropriate use of language&quot; and that O&#x27;Leary &quot;should have moved to rectify it&quot;."
+            "en": "A planned 10-year stay in Shenzhen ended after just one year, with Guadalajara, Fort Worth, Cancun and Riyadh all taking turns since.",
+            "ko": "실시간 보도 번역: A planned 10-year stay in Shenzhen ended after just one year, with Guadalajara, Fort Worth, Cancun and Riyadh all taking turns since."
+          },
+          {
+            "en": "Crowds have often been disappointing.",
+            "ko": "실시간 보도 번역: Crowds have often been disappointing."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+      "글로벌 최신 소식: Charlotte to host WTA Finals from 2027",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2449,14 +2530,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+          "Charlotte to host WTA Finals from 2027",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_3747823117172328964",
@@ -3174,66 +3257,74 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_7176955704714194314",
-    "title": "Zverev through to third Grand Slam final in a row",
-    "subtitle": "Alexander Zverev beats Karen Khachanov at the US Open to reach a third Grand Slam final in a row and continue his bid for a second...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-11",
-    "addedAt": "2026-09-12T02:47:43Z",
-    "category": "sports",
+    "id": "auto_culture_5792154907310114069",
+    "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
+    "subtitle": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-16",
+    "addedAt": "2026-09-17T03:02:22Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 128,
+    "wordCount": 150,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev through to third Grand Slam final in a rowImage source, Getty ImagesImage caption, Alexander Zverev is into his second US Open final",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow being music&#x27;s Mr Nice Guy contributed to biggest crisis of Ed Sheeran&#x27;s careerTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev through to third Grand Slam final in a rowImage source, Getty ImagesImage caption, Alexander Zverev is into his second US Open final",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev through to third Grand Slam final in a rowImage source, Getty ImagesImage caption, Alexander Zverev is into his second US Open final"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow being music&#x27;s Mr Nice Guy contributed to biggest crisis of Ed Sheeran&#x27;s careerTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow being music&#x27;s Mr Nice Guy contributed to biggest crisis of Ed Sheeran&#x27;s careerTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Alexander Zverev beat Karen Khachanov at the US Open to reach a third Grand Slam final in a row and continue his bid for a second major of the year.",
+        "en": "Music correspondentPublished16 September 2026Singer Ed Sheeran is facing the biggest controversy of his career after a storm over a decision to drop support act Macklemore from his US stadium tour following the rapper&#x27;s on-stage pro-Palestinian comments.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Alexander Zverev beat Karen Khachanov at the US Open to reach a third Grand Slam final in a row and continue his bid for a second major of the year.",
-            "ko": "실시간 보도 번역: Alexander Zverev beat Karen Khachanov at the US Open to reach a third Grand Slam final in a row and continue his bid for a second major of the year."
+            "en": "Music correspondentPublished16 September 2026Singer Ed Sheeran is facing the biggest controversy of his career after a storm over a decision to drop support act Macklemore from his US stadium tour following the rapper&#x27;s on-stage pro-Palestinian comments.",
+            "ko": "실시간 보도 번역: Music correspondentPublished16 September 2026Singer Ed Sheeran is facing the biggest controversy of his career after a storm over a decision to drop support act Macklemore from his US stadium tour following the rapper&#x27;s on-stage pro-Palestinian comments."
           }
         ]
       },
       {
-        "en": "The top seed put in a commanding performance to beat the Russian 6-3 7-6 (9-7) 7-6 (8-6).",
+        "en": "Sheeran is one of the most successful songwriters of all time. He has sold more than 120 million records and spent more than 1,000 weeks on the US album charts.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The top seed put in a commanding performance to beat the Russian 6-3 7-6 (9-7) 7-6 (8-6).",
-            "ko": "실시간 보도 번역: The top seed put in a commanding performance to beat the Russian 6-3 7-6 (9-7) 7-6 (8-6)."
+            "en": "Sheeran is one of the most successful songwriters of all time.",
+            "ko": "실시간 보도 번역: Sheeran is one of the most successful songwriters of all time."
+          },
+          {
+            "en": "He has sold more than 120 million records and spent more than 1,000 weeks on the US album charts.",
+            "ko": "실시간 보도 번역: He has sold more than 120 million records and spent more than 1,000 weeks on the US album charts."
           }
         ]
       },
       {
-        "en": "Germany&#x27;s Zverev is the favourite in New York after ending his long wait for a Grand Slam title with his French Open triumph in June.",
+        "en": "Part of his appeal - apart from those insidiously catchy songs - is his everyman persona. He looks and dresses like a fan on the train home from Glastonbury, rather than one of the festival&#x27;s headliners.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Germany&#x27;s Zverev is the favourite in New York after ending his long wait for a Grand Slam title with his French Open triumph in June.",
-            "ko": "실시간 보도 번역: Germany&#x27;s Zverev is the favourite in New York after ending his long wait for a Grand Slam title with his French Open triumph in June."
+            "en": "Part of his appeal - apart from those insidiously catchy songs - is his everyman persona.",
+            "ko": "실시간 보도 번역: Part of his appeal - apart from those insidiously catchy songs - is his everyman persona."
+          },
+          {
+            "en": "He looks and dresses like a fan on the train home from Glastonbury, rather than one of the festival&#x27;s headliners.",
+            "ko": "실시간 보도 번역: He looks and dresses like a fan on the train home from Glastonbury, rather than one of the festival&#x27;s headliners."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Zverev through to third Grand Slam final in a row",
+      "글로벌 최신 소식: How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3241,16 +3332,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Zverev through to third Grand Slam final in a row",
+          "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_3700160023946897194",
@@ -3961,83 +4050,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_3804402130661019030",
-    "title": "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
-    "subtitle": "The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-11",
-    "addedAt": "2026-09-12T02:47:45Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 123,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStacey Solomon and Alesha Dixon to host The Voice UK in ITV revampImage source, Getty ImagesImage caption, Solomon and Dixon will replace Emma Willis, who is leaving The Voice to front Strictly Come Dancing",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStacey Solomon and Alesha Dixon to host The Voice UK in ITV revampImage source, Getty ImagesImage caption, Solomon and Dixon will replace Emma Willis, who is leaving The Voice to front Strictly Come Dancing",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStacey Solomon and Alesha Dixon to host The Voice UK in ITV revampImage source, Getty ImagesImage caption, Solomon and Dixon will replace Emma Willis, who is leaving The Voice to front Strictly Come Dancing"
-          }
-        ]
-      },
-      {
-        "en": "Alesha Dixon and Stacey Solomon are to host The Voice UK as part of a revamp of the show announced by ITV.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Alesha Dixon and Stacey Solomon are to host The Voice UK as part of a revamp of the show announced by ITV.",
-            "ko": "실시간 보도 번역: Alesha Dixon and Stacey Solomon are to host The Voice UK as part of a revamp of the show announced by ITV."
-          }
-        ]
-      },
-      {
-        "en": "The pair replace Emma Willis, who has presented the singing contest since 2014 but recently left to front the BBC&#x27;s Strictly Come Dancing.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The pair replace Emma Willis, who has presented the singing contest since 2014 but recently left to front the BBC&#x27;s Strictly Come Dancing.",
-            "ko": "실시간 보도 번역: The pair replace Emma Willis, who has presented the singing contest since 2014 but recently left to front the BBC&#x27;s Strictly Come Dancing."
-          }
-        ]
-      },
-      {
-        "en": "ITV also confirmed earlier reports that singer Cheryl and rapper Aitch will join the The Voice as coaches, sitting in the show&#x27;s famous giant red chairs.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "ITV also confirmed earlier reports that singer Cheryl and rapper Aitch will join the The Voice as coaches, sitting in the show&#x27;s famous giant red chairs.",
-            "ko": "실시간 보도 번역: ITV also confirmed earlier reports that singer Cheryl and rapper Aitch will join the The Voice as coaches, sitting in the show&#x27;s famous giant red chairs."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
           "Historical retrospective",
           "Unrelated general weather"
         ],
