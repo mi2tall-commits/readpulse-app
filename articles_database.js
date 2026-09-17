@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1159270704539786674",
+    "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+    "subtitle": "The comments were made at a summit in Scotland with participants from AI giants including Nvidia, OpenAI and Anthropic....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-17",
+    "addedAt": "2026-09-17T16:05:19Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 150,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechKing Charles warns of &#x27;existential danger&#x27; of AI falling into wrong handsImage source, ReutersByLaura Cress, Technology reporter and Shiona McCallum, Senior technology reporterPublished17 September 2026, 13:58 BSTUpdated 1 hour agoKing Charles has warned AI executives of the &quot;existential dangers&quot; posed by the technology falling into the wrong hands.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechKing Charles warns of &#x27;existential danger&#x27; of AI falling into wrong handsImage source, ReutersByLaura Cress, Technology reporter and Shiona McCallum, Senior technology reporterPublished17 September 2026, 13:58 BSTUpdated 1 hour agoKing Charles has warned AI executives of the &quot;existential dangers&quot; posed by the technology falling into the wrong hands.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechKing Charles warns of &#x27;existential danger&#x27; of AI falling into wrong handsImage source, ReutersByLaura Cress, Technology reporter and Shiona McCallum, Senior technology reporterPublished17 September 2026, 13:58 BSTUpdated 1 hour agoKing Charles has warned AI executives of the &quot;existential dangers&quot; posed by the technology falling into the wrong hands."
+          }
+        ]
+      },
+      {
+        "en": "He made the comments at a summit he had convened at Dumfries House in Ayrshire to discuss how the tech can be used to benefit society.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "He made the comments at a summit he had convened at Dumfries House in Ayrshire to discuss how the tech can be used to benefit society.",
+            "ko": "실시간 보도 번역: He made the comments at a summit he had convened at Dumfries House in Ayrshire to discuss how the tech can be used to benefit society."
+          }
+        ]
+      },
+      {
+        "en": "Those gathered at the meeting also included Kanishka Narayan, the UK&#x27;s AI Minister, the Pope&#x27;s advisor, and participants from AI giants such as Nvidia, OpenAI and Anthropic.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Those gathered at the meeting also included Kanishka Narayan, the UK&#x27;s AI Minister, the Pope&#x27;s advisor, and participants from AI giants such as Nvidia, OpenAI and Anthropic.",
+            "ko": "실시간 보도 번역: Those gathered at the meeting also included Kanishka Narayan, the UK&#x27;s AI Minister, the Pope&#x27;s advisor, and participants from AI giants such as Nvidia, OpenAI and Anthropic."
+          }
+        ]
+      },
+      {
+        "en": "It comes amid a series of recent warnings from people inside the industry about the rapidly evolving capabilities of advanced or &quot;frontier&quot; AI models and the regulation needed to keep them in check.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It comes amid a series of recent warnings from people inside the industry about the rapidly evolving capabilities of advanced or &quot;frontier&quot; AI models and the regulation needed to keep them in check.",
+            "ko": "실시간 보도 번역: It comes amid a series of recent warnings from people inside the industry about the rapidly evolving capabilities of advanced or &quot;frontier&quot; AI models and the regulation needed to keep them in check."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: King Charles warns of 'existential danger' of AI falling into wrong hands",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "King Charles warns of 'existential danger' of AI falling into wrong hands",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_7435151888124003488",
     "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
     "subtitle": "Evan Speigel says it would be \"an important step forward for the industry\" in an interview with the BBC....",
@@ -694,70 +771,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_5662687317051047111",
-    "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
-    "subtitle": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-12",
-    "addedAt": "2026-09-12T14:52:24Z",
-    "category": "tech",
+    "id": "auto_science_6846894248394830304",
+    "title": "The farmer who turned to singing after bovine TB silenced his fields",
+    "subtitle": "Dairy farmer Mervyn Kelso struggled with the sadness of the empty fields when he lost his entire herd to bovine TB....",
+    "speaker": "BBC Science",
+    "date": "2026-09-17",
+    "addedAt": "2026-09-17T16:05:20Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 129,
+    "wordCount": 127,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPlayStation gambles with 18-rated Wolverine game - will it pay off?Image source, Sony/MarvelByTom GerkenTechnology reporterPublished12 September 2026, 01:35 BSTOn Tuesday, Sony will release Marvel&#x27;s Wolverine - the biggest game exclusive to the PlayStation 5 this year.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN. IrelandN. Ireland PoliticsThe farmer who turned to singing after bovine TB silenced his fieldsImage caption, Mervyn Kelso lost his whole herd to bovine TB",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPlayStation gambles with 18-rated Wolverine game - will it pay off?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPlayStation gambles with 18-rated Wolverine game - will it pay off?"
-          },
-          {
-            "en": "Image source, Sony/MarvelByTom GerkenTechnology reporterPublished12 September 2026, 01:35 BSTOn Tuesday, Sony will release Marvel&#x27;s Wolverine - the biggest game exclusive to the PlayStation 5 this year.",
-            "ko": "실시간 보도 번역: Image source, Sony/MarvelByTom GerkenTechnology reporterPublished12 September 2026, 01:35 BSTOn Tuesday, Sony will release Marvel&#x27;s Wolverine - the biggest game exclusive to the PlayStation 5 this year."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN."
           }
         ]
       },
       {
-        "en": "It&#x27;s made by Insomniac, the studio responsible for the recent Spider-Man titles, which have sold 50 million copies in recent years.",
+        "en": "Agriculture and environment correspondent, BBC News NIPublished17 September 2026, 06:43 BSTUpdated 6 hours agoWhen bovine TB led to the loss of his entire herd,  dairy farmer Mervyn Kelso struggled with the sadness of the empty fields and the silence of the milking yard.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It&#x27;s made by Insomniac, the studio responsible for the recent Spider-Man titles, which have sold 50 million copies in recent years.",
-            "ko": "실시간 보도 번역: It&#x27;s made by Insomniac, the studio responsible for the recent Spider-Man titles, which have sold 50 million copies in recent years."
+            "en": "Agriculture and environment correspondent, BBC News NIPublished17 September 2026, 06:43 BSTUpdated 6 hours agoWhen bovine TB led to the loss of his entire herd,  dairy farmer Mervyn Kelso struggled with the sadness of the empty fields and the silence of the milking yard.",
+            "ko": "실시간 보도 번역: Agriculture and environment correspondent, BBC News NIPublished17 September 2026, 06:43 BSTUpdated 6 hours agoWhen bovine TB led to the loss of his entire herd,  dairy farmer Mervyn Kelso struggled with the sadness of the empty fields and the silence of the milking yard."
           }
         ]
       },
       {
-        "en": "But unlike the friendly neighbourhood superhero, Wolverine has a Pegi-18 rating in the UK, meaning a child cannot legally buy the game, and it contains considerable levels of blood, gore and violence.",
+        "en": "It was a traumatic time for a man who had farmed his whole life, and it was hard watching his neighbours tend to their cows.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But unlike the friendly neighbourhood superhero, Wolverine has a Pegi-18 rating in the UK, meaning a child cannot legally buy the game, and it contains considerable levels of blood, gore and violence.",
-            "ko": "실시간 보도 번역: But unlike the friendly neighbourhood superhero, Wolverine has a Pegi-18 rating in the UK, meaning a child cannot legally buy the game, and it contains considerable levels of blood, gore and violence."
+            "en": "It was a traumatic time for a man who had farmed his whole life, and it was hard watching his neighbours tend to their cows.",
+            "ko": "실시간 보도 번역: It was a traumatic time for a man who had farmed his whole life, and it was hard watching his neighbours tend to their cows."
           }
         ]
       },
       {
-        "en": "It represents a gamble for the studio responsible for some of Sony&#x27;s biggest hits - will it turn out to have been worth it?",
+        "en": "His sister suggested he should join the Farmers&#x27; Choir and that turned out to be a &quot;great lifter&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It represents a gamble for the studio responsible for some of Sony&#x27;s biggest hits - will it turn out to have been worth it?",
-            "ko": "실시간 보도 번역: It represents a gamble for the studio responsible for some of Sony&#x27;s biggest hits - will it turn out to have been worth it?"
+            "en": "His sister suggested he should join the Farmers&#x27; Choir and that turned out to be a &quot;great lifter&quot;.",
+            "ko": "실시간 보도 번역: His sister suggested he should join the Farmers&#x27; Choir and that turned out to be a &quot;great lifter&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+      "글로벌 최신 소식: The farmer who turned to singing after bovine TB silenced his fields",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -765,7 +838,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+          "The farmer who turned to singing after bovine TB silenced his fields",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1576,66 +1649,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_1050572806143463747",
-    "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
-    "subtitle": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales....",
-    "speaker": "BBC Science",
-    "date": "2026-09-12",
-    "addedAt": "2026-09-12T14:52:25Z",
-    "category": "science",
+    "id": "auto_economy_61417539579767331",
+    "title": "Interest rates held but Bank signals rise if energy prices stay high",
+    "subtitle": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue....",
+    "speaker": "BBC Business",
+    "date": "2026-09-17",
+    "addedAt": "2026-09-17T16:05:20Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 138,
+    "wordCount": 177,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsBattle to save the tiny, gooey snail only found in one lake in the UKImage source, Dudley ZooImage caption, The glutinous snail was once widespread in the UK, but is now only found in one Welsh lake",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessInterest rates held but Bank signals rise if energy prices stay highImage source, Getty ImagesByDearbail Jordan, Business reporter and Kevin Peachey, Cost of living correspondentPublished17 September 2026, 00:15 BSTUpdated 1 hour agoThe Bank of England has held interest rates for the sixth time in a row but said they are likely to rise if high energy prices caused by the conflict in the Middle East continue.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsBattle to save the tiny, gooey snail only found in one lake in the UKImage source, Dudley ZooImage caption, The glutinous snail was once widespread in the UK, but is now only found in one Welsh lake",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsBattle to save the tiny, gooey snail only found in one lake in the UKImage source, Dudley ZooImage caption, The glutinous snail was once widespread in the UK, but is now only found in one Welsh lake"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessInterest rates held but Bank signals rise if energy prices stay highImage source, Getty ImagesByDearbail Jordan, Business reporter and Kevin Peachey, Cost of living correspondentPublished17 September 2026, 00:15 BSTUpdated 1 hour agoThe Bank of England has held interest rates for the sixth time in a row but said they are likely to rise if high energy prices caused by the conflict in the Middle East continue.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessInterest rates held but Bank signals rise if energy prices stay highImage source, Getty ImagesByDearbail Jordan, Business reporter and Kevin Peachey, Cost of living correspondentPublished17 September 2026, 00:15 BSTUpdated 1 hour agoThe Bank of England has held interest rates for the sixth time in a row but said they are likely to rise if high energy prices caused by the conflict in the Middle East continue."
           }
         ]
       },
       {
-        "en": "A tiny snail found in only one lake in the UK has been dubbed as precious as an Egyptian artefact as conservationists bid to save it.",
+        "en": "The main Bank rate has been kept at 3.75% despite an uptick in the rate of inflation.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A tiny snail found in only one lake in the UK has been dubbed as precious as an Egyptian artefact as conservationists bid to save it.",
-            "ko": "실시간 보도 번역: A tiny snail found in only one lake in the UK has been dubbed as precious as an Egyptian artefact as conservationists bid to save it."
+            "en": "The main Bank rate has been kept at 3.",
+            "ko": "실시간 보도 번역: The main Bank rate has been kept at 3."
+          },
+          {
+            "en": "75% despite an uptick in the rate of inflation.",
+            "ko": "실시간 보도 번역: 75% despite an uptick in the rate of inflation."
           }
         ]
       },
       {
-        "en": "Several British zoos are setting up so-called ark populations of the glutinous snail, one of Europe&#x27;s rarest species, using creatures bred in a back garden in Ceredigion.",
+        "en": "The US-Israel war with Iran has disrupted global energy supplies which has led to a sharp increase in petrol and diesel prices.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Several British zoos are setting up so-called ark populations of the glutinous snail, one of Europe&#x27;s rarest species, using creatures bred in a back garden in Ceredigion.",
-            "ko": "실시간 보도 번역: Several British zoos are setting up so-called ark populations of the glutinous snail, one of Europe&#x27;s rarest species, using creatures bred in a back garden in Ceredigion."
+            "en": "The US-Israel war with Iran has disrupted global energy supplies which has led to a sharp increase in petrol and diesel prices.",
+            "ko": "실시간 보도 번역: The US-Israel war with Iran has disrupted global energy supplies which has led to a sharp increase in petrol and diesel prices."
           }
         ]
       },
       {
-        "en": "&quot;Beguiled by their cuteness,&quot; conservationist Ian Hughes has made it his &quot;life-defining&quot; mission to protect the threatened mollusc, which was once widespread in UK waters.",
+        "en": "Bank of England governor Andrew Bailey said the longer the volatility in energy prices persists, &quot;the bigger the impact it will have on inflation and the more likely it is we will need to raise [the] Bank rate to ensure that inflation falls back to our 2% target&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Beguiled by their cuteness,&quot; conservationist Ian Hughes has made it his &quot;life-defining&quot; mission to protect the threatened mollusc, which was once widespread in UK waters.",
-            "ko": "실시간 보도 번역: &quot;Beguiled by their cuteness,&quot; conservationist Ian Hughes has made it his &quot;life-defining&quot; mission to protect the threatened mollusc, which was once widespread in UK waters."
+            "en": "Bank of England governor Andrew Bailey said the longer the volatility in energy prices persists, &quot;the bigger the impact it will have on inflation and the more likely it is we will need to raise [the] Bank rate to ensure that inflation falls back to our 2% target&quot;.",
+            "ko": "실시간 보도 번역: Bank of England governor Andrew Bailey said the longer the volatility in energy prices persists, &quot;the bigger the impact it will have on inflation and the more likely it is we will need to raise [the] Bank rate to ensure that inflation falls back to our 2% target&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Battle to save the tiny, gooey snail only found in one lake in the UK",
+      "글로벌 최신 소식: Interest rates held but Bank signals rise if energy prices stay high",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1643,7 +1720,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Battle to save the tiny, gooey snail only found in one lake in the UK",
+          "Interest rates held but Bank signals rise if energy prices stay high",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2382,66 +2459,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_3344869893819325748",
-    "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-    "subtitle": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\"....",
-    "speaker": "BBC Business",
-    "date": "2026-09-11",
-    "addedAt": "2026-09-12T14:52:25Z",
-    "category": "economy",
+    "id": "auto_sports_7666817238768414058",
+    "title": "Six-time Grand Slam champion Salisbury retires",
+    "subtitle": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis....",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-17",
+    "addedAt": "2026-09-17T16:05:20Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 157,
+    "wordCount": 128,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRyanair boss O&#x27;Leary defends &#x27;high-fare rapists&#x27; airlines remarksImage source, Getty ImagesByKaty Austin, Transport correspondent and Mitchell Labiak, Business reporterPublished11 September 2026Ryanair chief executive Michael O&#x27;Leary has refused to apologise to a rape crisis centre which criticised him for describing rival airlines as &quot;high-fare rapists&quot;.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Salisbury won doubles titles at the Australian Open and US Open",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRyanair boss O&#x27;Leary defends &#x27;high-fare rapists&#x27; airlines remarksImage source, Getty ImagesByKaty Austin, Transport correspondent and Mitchell Labiak, Business reporterPublished11 September 2026Ryanair chief executive Michael O&#x27;Leary has refused to apologise to a rape crisis centre which criticised him for describing rival airlines as &quot;high-fare rapists&quot;.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRyanair boss O&#x27;Leary defends &#x27;high-fare rapists&#x27; airlines remarksImage source, Getty ImagesByKaty Austin, Transport correspondent and Mitchell Labiak, Business reporterPublished11 September 2026Ryanair chief executive Michael O&#x27;Leary has refused to apologise to a rape crisis centre which criticised him for describing rival airlines as &quot;high-fare rapists&quot;."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Salisbury won doubles titles at the Australian Open and US Open",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Salisbury won doubles titles at the Australian Open and US Open"
           }
         ]
       },
       {
-        "en": "Speaking to journalists, O&#x27;Leary said some people were &quot;desperate to get to Ryanair&#x27;s low fares because they can&#x27;t afford to fly with the high-fare rapists around Europe&quot;.",
+        "en": "Tennis correspondentPublished5 hours agoFormer world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Speaking to journalists, O&#x27;Leary said some people were &quot;desperate to get to Ryanair&#x27;s low fares because they can&#x27;t afford to fly with the high-fare rapists around Europe&quot;.",
-            "ko": "실시간 보도 번역: Speaking to journalists, O&#x27;Leary said some people were &quot;desperate to get to Ryanair&#x27;s low fares because they can&#x27;t afford to fly with the high-fare rapists around Europe&quot;."
+            "en": "Tennis correspondentPublished5 hours agoFormer world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis.",
+            "ko": "실시간 보도 번역: Tennis correspondentPublished5 hours agoFormer world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis."
           }
         ]
       },
       {
-        "en": "O&#x27;Leary doubled-down on his choice of words when asked about them at the time, and later refused to apologise when the Dublin Rape Crisis Centre (DRCC) wrote to him asking for apology, in a letter seen by the BBC.",
+        "en": "Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "O&#x27;Leary doubled-down on his choice of words when asked about them at the time, and later refused to apologise when the Dublin Rape Crisis Centre (DRCC) wrote to him asking for apology, in a letter seen by the BBC.",
-            "ko": "실시간 보도 번역: O&#x27;Leary doubled-down on his choice of words when asked about them at the time, and later refused to apologise when the Dublin Rape Crisis Centre (DRCC) wrote to him asking for apology, in a letter seen by the BBC."
+            "en": "Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire.",
+            "ko": "실시간 보도 번역: Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire."
           }
         ]
       },
       {
-        "en": "Ireland&#x27;s deputy premier Simon Harris said it was &quot;clearly an inappropriate use of language&quot; and that O&#x27;Leary &quot;should have moved to rectify it&quot;.",
+        "en": "The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Ireland&#x27;s deputy premier Simon Harris said it was &quot;clearly an inappropriate use of language&quot; and that O&#x27;Leary &quot;should have moved to rectify it&quot;.",
-            "ko": "실시간 보도 번역: Ireland&#x27;s deputy premier Simon Harris said it was &quot;clearly an inappropriate use of language&quot; and that O&#x27;Leary &quot;should have moved to rectify it&quot;."
+            "en": "The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles.",
+            "ko": "실시간 보도 번역: The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+      "글로벌 최신 소식: Six-time Grand Slam champion Salisbury retires",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2449,14 +2526,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+          "Six-time Grand Slam champion Salisbury retires",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_4017126599956477685",
@@ -3178,66 +3257,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_7787322110728578405",
-    "title": "American Shelton to face Zverev in US Open final",
-    "subtitle": "Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final to earn a spot in Sunday's final against number one s...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-12",
-    "addedAt": "2026-09-12T14:52:26Z",
-    "category": "sports",
+    "id": "auto_culture_8612572886287367936",
+    "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
+    "subtitle": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-17",
+    "addedAt": "2026-09-17T16:05:23Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 151,
+    "wordCount": 146,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarAmerican Shelton to face Zverev in US Open finalImage source, Getty ImagesImage caption, Ben Shelton will appear in his first Grand Slam singles final on Sunday",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlashTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarAmerican Shelton to face Zverev in US Open finalImage source, Getty ImagesImage caption, Ben Shelton will appear in his first Grand Slam singles final on Sunday",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarAmerican Shelton to face Zverev in US Open finalImage source, Getty ImagesImage caption, Ben Shelton will appear in his first Grand Slam singles final on Sunday"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlashTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlashTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Ben Shelton powered his way into the US Open final with an impressive four-set win over Frances Tiafoe in an epic all-American semi-final.",
+        "en": "Robert Kraft, the US stadium owner who had pro-Palestinian rapper Macklemore removed as Ed Sheeran&#x27;s opening act, says Sheeran asked him to match his own $2m (£1.5m) donation for &quot;aid in the region&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Ben Shelton powered his way into the US Open final with an impressive four-set win over Frances Tiafoe in an epic all-American semi-final.",
-            "ko": "실시간 보도 번역: Ben Shelton powered his way into the US Open final with an impressive four-set win over Frances Tiafoe in an epic all-American semi-final."
+            "en": "Robert Kraft, the US stadium owner who had pro-Palestinian rapper Macklemore removed as Ed Sheeran&#x27;s opening act, says Sheeran asked him to match his own $2m (£1.",
+            "ko": "실시간 보도 번역: Robert Kraft, the US stadium owner who had pro-Palestinian rapper Macklemore removed as Ed Sheeran&#x27;s opening act, says Sheeran asked him to match his own $2m (£1."
+          },
+          {
+            "en": "5m) donation for &quot;aid in the region&quot;.",
+            "ko": "실시간 보도 번역: 5m) donation for &quot;aid in the region&quot;."
           }
         ]
       },
       {
-        "en": "Both players were bidding to reach their first Grand Slam final and put on a show for a raucous crowd on Arthur Ashe Stadium, with eighth seed Shelton coming from a set down to win 4-6 6-3 6-3 7-5.",
+        "en": "It came after Macklemore said he would donate $1m (£750,000) to Palestinian organisations, challenging Kraft to match him.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Both players were bidding to reach their first Grand Slam final and put on a show for a raucous crowd on Arthur Ashe Stadium, with eighth seed Shelton coming from a set down to win 4-6 6-3 6-3 7-5.",
-            "ko": "실시간 보도 번역: Both players were bidding to reach their first Grand Slam final and put on a show for a raucous crowd on Arthur Ashe Stadium, with eighth seed Shelton coming from a set down to win 4-6 6-3 6-3 7-5."
+            "en": "It came after Macklemore said he would donate $1m (£750,000) to Palestinian organisations, challenging Kraft to match him.",
+            "ko": "실시간 보도 번역: It came after Macklemore said he would donate $1m (£750,000) to Palestinian organisations, challenging Kraft to match him."
           }
         ]
       },
       {
-        "en": "Neither American was overawed by the occasion and they lived up to their reputations as dazzling shot-makers but, after three hours and 17 minutes, it was Shelton who won through.",
+        "en": "Kraft, who owns the New England Patriots, wrote on Wednesday: &quot;Earlier today, before Macklemore challenged me to match his donation, Ed called me and asked me to commit $2 million to match his donation to aid in the region to fight this humanitarian crisis.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Neither American was overawed by the occasion and they lived up to their reputations as dazzling shot-makers but, after three hours and 17 minutes, it was Shelton who won through.",
-            "ko": "실시간 보도 번역: Neither American was overawed by the occasion and they lived up to their reputations as dazzling shot-makers but, after three hours and 17 minutes, it was Shelton who won through."
+            "en": "Kraft, who owns the New England Patriots, wrote on Wednesday: &quot;Earlier today, before Macklemore challenged me to match his donation, Ed called me and asked me to commit $2 million to match his donation to aid in the region to fight this humanitarian crisis.",
+            "ko": "실시간 보도 번역: Kraft, who owns the New England Patriots, wrote on Wednesday: &quot;Earlier today, before Macklemore challenged me to match his donation, Ed called me and asked me to commit $2 million to match his donation to aid in the region to fight this humanitarian crisis."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: American Shelton to face Zverev in US Open final",
+      "글로벌 최신 소식: Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3245,16 +3328,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "American Shelton to face Zverev in US Open final",
+          "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_5792154907310114069",
@@ -3973,83 +4054,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Diljit Dosanjh makes history under the famous Wembley arch",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_5535281917219671350",
-    "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
-    "subtitle": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-12",
-    "addedAt": "2026-09-12T14:52:29Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 149,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastFive minutes to steal a Renoir: Why museum thefts are becoming bolder across EuropeImage source, Reuters/Museum RenoirImage caption, The latest heist, at the Renoir museum in the south of France, saw thieves break in by cutting through a fence with an electric knife and hacksaw",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastFive minutes to steal a Renoir: Why museum thefts are becoming bolder across EuropeImage source, Reuters/Museum RenoirImage caption, The latest heist, at the Renoir museum in the south of France, saw thieves break in by cutting through a fence with an electric knife and hacksaw",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastFive minutes to steal a Renoir: Why museum thefts are becoming bolder across EuropeImage source, Reuters/Museum RenoirImage caption, The latest heist, at the Renoir museum in the south of France, saw thieves break in by cutting through a fence with an electric knife and hacksaw"
-          }
-        ]
-      },
-      {
-        "en": "When thieves broke into a French museum earlier this week and stole four paintings by the impressionist artist Pierre-Auguste Renoir, worth millions of euros, not everyone was surprised.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "When thieves broke into a French museum earlier this week and stole four paintings by the impressionist artist Pierre-Auguste Renoir, worth millions of euros, not everyone was surprised.",
-            "ko": "실시간 보도 번역: When thieves broke into a French museum earlier this week and stole four paintings by the impressionist artist Pierre-Auguste Renoir, worth millions of euros, not everyone was surprised."
-          }
-        ]
-      },
-      {
-        "en": "Just last month, the European policing agency (Europol) had warned that museum thefts across Europe were growing increasingly brazen.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Just last month, the European policing agency (Europol) had warned that museum thefts across Europe were growing increasingly brazen.",
-            "ko": "실시간 보도 번역: Just last month, the European policing agency (Europol) had warned that museum thefts across Europe were growing increasingly brazen."
-          }
-        ]
-      },
-      {
-        "en": "And just days before the Renoir heist, internationally known art detective Arthur Brand predicted to the BBC that more high-profile burglaries were likely - particularly in the wake of the successful robbery at the Louvre in Paris last October.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "And just days before the Renoir heist, internationally known art detective Arthur Brand predicted to the BBC that more high-profile burglaries were likely - particularly in the wake of the successful robbery at the Louvre in Paris last October.",
-            "ko": "실시간 보도 번역: And just days before the Renoir heist, internationally known art detective Arthur Brand predicted to the BBC that more high-profile burglaries were likely - particularly in the wake of the successful robbery at the Louvre in Paris last October."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
           "Historical retrospective",
           "Unrelated general weather"
         ],
