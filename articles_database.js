@@ -1,6 +1,91 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_333284205661216149",
+    "title": "The virtual worlds where robots are trained",
+    "subtitle": "Training systems that allow robots to negotiate the real world are getting more sophisticated....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-17",
+    "addedAt": "2026-09-18T15:41:30Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 119,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThe virtual worlds where robots are trainedTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThe virtual worlds where robots are trainedTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThe virtual worlds where robots are trainedTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "Freddo the robot walks across the office and takes a plastic bottled offered by a staff member.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Freddo the robot walks across the office and takes a plastic bottled offered by a staff member.",
+            "ko": "실시간 보도 번역: Freddo the robot walks across the office and takes a plastic bottled offered by a staff member."
+          }
+        ]
+      },
+      {
+        "en": "Given that a robot recently beat Usain Bolt&#x27;s 100m sprint record, it&#x27;s not the most startling achievement.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Given that a robot recently beat Usain Bolt&#x27;s 100m sprint record, it&#x27;s not the most startling achievement.",
+            "ko": "실시간 보도 번역: Given that a robot recently beat Usain Bolt&#x27;s 100m sprint record, it&#x27;s not the most startling achievement."
+          }
+        ]
+      },
+      {
+        "en": "But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive. It took just a few minutes to develop those skills and upload them to Freddo. His developers say rival systems could take days to attain such skills.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive.",
+            "ko": "실시간 보도 번역: But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive."
+          },
+          {
+            "en": "It took just a few minutes to develop those skills and upload them to Freddo.",
+            "ko": "실시간 보도 번역: It took just a few minutes to develop those skills and upload them to Freddo."
+          },
+          {
+            "en": "His developers say rival systems could take days to attain such skills.",
+            "ko": "실시간 보도 번역: His developers say rival systems could take days to attain such skills."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: The virtual worlds where robots are trained",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "The virtual worlds where robots are trained",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1662757250554432665",
     "title": "The virtual worlds where robots are trained",
     "subtitle": "Training systems that allow robots to negotiate the real world are getting more sophisticated....",
@@ -702,66 +787,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_807163735592402354",
-    "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-    "subtitle": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-13",
-    "addedAt": "2026-09-13T15:29:35Z",
-    "category": "tech",
+    "id": "auto_science_2021849837547932372",
+    "title": "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
+    "subtitle": "Michael Sheen said his meeting with the first minister was \"early days but that's really encouraging\"....",
+    "speaker": "BBC Science",
+    "date": "2026-09-18",
+    "addedAt": "2026-09-18T15:41:30Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 118,
+    "wordCount": 123,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI staff &#x27;genuinely frightened&#x27; for humanity&#x27;s future, ex-Anthropic researcher tells BBCTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsMichael Sheen&#x27;s &#x27;constructive&#x27; meeting with first minister over toxic dumping claimsImage source, Parliament TVImage caption, Michael Sheen, seen here speaking to the Welsh Affairs Committee, says his meeting with the first minister was &quot;early days but that&#x27;s really encouraging&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI staff &#x27;genuinely frightened&#x27; for humanity&#x27;s future, ex-Anthropic researcher tells BBCTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI staff &#x27;genuinely frightened&#x27; for humanity&#x27;s future, ex-Anthropic researcher tells BBCTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsMichael Sheen&#x27;s &#x27;constructive&#x27; meeting with first minister over toxic dumping claimsImage source, Parliament TVImage caption, Michael Sheen, seen here speaking to the Welsh Affairs Committee, says his meeting with the first minister was &quot;early days but that&#x27;s really encouraging&quot;",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsMichael Sheen&#x27;s &#x27;constructive&#x27; meeting with first minister over toxic dumping claimsImage source, Parliament TVImage caption, Michael Sheen, seen here speaking to the Welsh Affairs Committee, says his meeting with the first minister was &quot;early days but that&#x27;s really encouraging&quot;"
           }
         ]
       },
       {
-        "en": "&#x27;There is a possibility of human extinction,&#x27; former Anthropic employee says about AI",
+        "en": "Hollywood actor Michael Sheen said he had a &quot;constructive&quot; meeting with First Minister Rhun ap Iorwerth over toxic dumping claims raised in his BBC documentary.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&#x27;There is a possibility of human extinction,&#x27; former Anthropic employee says about AI",
-            "ko": "실시간 보도 번역: &#x27;There is a possibility of human extinction,&#x27; former Anthropic employee says about AI"
+            "en": "Hollywood actor Michael Sheen said he had a &quot;constructive&quot; meeting with First Minister Rhun ap Iorwerth over toxic dumping claims raised in his BBC documentary.",
+            "ko": "실시간 보도 번역: Hollywood actor Michael Sheen said he had a &quot;constructive&quot; meeting with First Minister Rhun ap Iorwerth over toxic dumping claims raised in his BBC documentary."
           }
         ]
       },
       {
-        "en": "An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were &quot;genuinely frightened&quot; about the speed of its advancements and what it could mean for humanity.",
+        "en": "Buried with Michael Sheen explores toxic chemical dumping in 14 sites in Wales and England.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were &quot;genuinely frightened&quot; about the speed of its advancements and what it could mean for humanity.",
-            "ko": "실시간 보도 번역: An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were &quot;genuinely frightened&quot; about the speed of its advancements and what it could mean for humanity."
+            "en": "Buried with Michael Sheen explores toxic chemical dumping in 14 sites in Wales and England.",
+            "ko": "실시간 보도 번역: Buried with Michael Sheen explores toxic chemical dumping in 14 sites in Wales and England."
           }
         ]
       },
       {
-        "en": "&quot;I believe that if we don&#x27;t slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future,&quot; he said.",
+        "en": "Sheen initially said an offer to meet the first minister &quot;was not taken up&quot; before the documentary was broadcast in August.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;I believe that if we don&#x27;t slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future,&quot; he said.",
-            "ko": "실시간 보도 번역: &quot;I believe that if we don&#x27;t slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future,&quot; he said."
+            "en": "Sheen initially said an offer to meet the first minister &quot;was not taken up&quot; before the documentary was broadcast in August.",
+            "ko": "실시간 보도 번역: Sheen initially said an offer to meet the first minister &quot;was not taken up&quot; before the documentary was broadcast in August."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "글로벌 최신 소식: Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -769,7 +854,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+          "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1580,66 +1665,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_1005199252393972868",
-    "title": "Five night sky events to look out for this autumn",
-    "subtitle": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky....",
-    "speaker": "BBC Science",
-    "date": "2026-09-12",
-    "addedAt": "2026-09-13T15:29:36Z",
-    "category": "science",
+    "id": "auto_economy_6864454595460829523",
+    "title": "Flight chaos caused by software defect, says air traffic control body",
+    "subtitle": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected....",
+    "speaker": "BBC Business",
+    "date": "2026-09-18",
+    "addedAt": "2026-09-18T15:41:31Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 105,
+    "wordCount": 127,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceFive night sky events to look out for this autumnImage source, Getty ImagesImage caption, This year&#x27;s November full moon will appear as a supermoon. This is 2025&#x27;s November Beaver Moon captured above forests in Hungary",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessFlight chaos caused by &#x27;millisecond&#x27; software defect, report saysImage source, Dan Kitwood/Getty ImagesImage caption, Thousands of passengers were delayed by the NATS outage",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceFive night sky events to look out for this autumnImage source, Getty ImagesImage caption, This year&#x27;s November full moon will appear as a supermoon.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceFive night sky events to look out for this autumnImage source, Getty ImagesImage caption, This year&#x27;s November full moon will appear as a supermoon."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessFlight chaos caused by &#x27;millisecond&#x27; software defect, report saysImage source, Dan Kitwood/Getty ImagesImage caption, Thousands of passengers were delayed by the NATS outage",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessFlight chaos caused by &#x27;millisecond&#x27; software defect, report saysImage source, Dan Kitwood/Getty ImagesImage caption, Thousands of passengers were delayed by the NATS outage"
           }
         ]
       },
       {
-        "en": "Autumn brings longer nights to the northern hemisphere, offering more opportunities to get outside and look up at the night sky.",
+        "en": "An air traffic control failure that sparked widespread travel chaos earlier this month was caused by a &quot;software defect&quot; affecting the system underpinning UK air space management, the national air traffic service Nats has said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Autumn brings longer nights to the northern hemisphere, offering more opportunities to get outside and look up at the night sky.",
-            "ko": "실시간 보도 번역: Autumn brings longer nights to the northern hemisphere, offering more opportunities to get outside and look up at the night sky."
+            "en": "An air traffic control failure that sparked widespread travel chaos earlier this month was caused by a &quot;software defect&quot; affecting the system underpinning UK air space management, the national air traffic service Nats has said.",
+            "ko": "실시간 보도 번역: An air traffic control failure that sparked widespread travel chaos earlier this month was caused by a &quot;software defect&quot; affecting the system underpinning UK air space management, the national air traffic service Nats has said."
           }
         ]
       },
       {
-        "en": "There is plenty to look out for over the coming months, from impressive meteor showers to dazzling star clusters.",
+        "en": "The problem happened &quot;in the space of a millisecond&quot;, Nats said, leading to the system producing corrupted data.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "There is plenty to look out for over the coming months, from impressive meteor showers to dazzling star clusters.",
-            "ko": "실시간 보도 번역: There is plenty to look out for over the coming months, from impressive meteor showers to dazzling star clusters."
+            "en": "The problem happened &quot;in the space of a millisecond&quot;, Nats said, leading to the system producing corrupted data.",
+            "ko": "실시간 보도 번역: The problem happened &quot;in the space of a millisecond&quot;, Nats said, leading to the system producing corrupted data."
           }
         ]
       },
       {
-        "en": "The series of spectacles begins with the Pleiades as the autumn nights draw in.",
+        "en": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected, with some sleeping on airport floors or getting stuck overseas.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The series of spectacles begins with the Pleiades as the autumn nights draw in.",
-            "ko": "실시간 보도 번역: The series of spectacles begins with the Pleiades as the autumn nights draw in."
+            "en": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected, with some sleeping on airport floors or getting stuck overseas.",
+            "ko": "실시간 보도 번역: The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected, with some sleeping on airport floors or getting stuck overseas."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Five night sky events to look out for this autumn",
+      "글로벌 최신 소식: Flight chaos caused by software defect, says air traffic control body",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1647,7 +1732,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Five night sky events to look out for this autumn",
+          "Flight chaos caused by software defect, says air traffic control body",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2386,66 +2471,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_807163735592402354",
-    "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-    "subtitle": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks....",
-    "speaker": "BBC Business",
-    "date": "2026-09-13",
-    "addedAt": "2026-09-13T15:29:36Z",
-    "category": "economy",
+    "id": "auto_sports_5466548141536516652",
+    "title": "Six-time Grand Slam champion Salisbury retires",
+    "subtitle": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis....",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-17",
+    "addedAt": "2026-09-18T15:41:31Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 118,
+    "wordCount": 129,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI staff &#x27;genuinely frightened&#x27; for humanity&#x27;s future, ex-Anthropic researcher tells BBCTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Joe Salisbury won doubles titles at the Australian Open and US Open",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI staff &#x27;genuinely frightened&#x27; for humanity&#x27;s future, ex-Anthropic researcher tells BBCTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI staff &#x27;genuinely frightened&#x27; for humanity&#x27;s future, ex-Anthropic researcher tells BBCTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Joe Salisbury won doubles titles at the Australian Open and US Open",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Joe Salisbury won doubles titles at the Australian Open and US Open"
           }
         ]
       },
       {
-        "en": "&#x27;There is a possibility of human extinction,&#x27; former Anthropic employee says about AI",
+        "en": "Tennis correspondentPublished17 September 2026Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&#x27;There is a possibility of human extinction,&#x27; former Anthropic employee says about AI",
-            "ko": "실시간 보도 번역: &#x27;There is a possibility of human extinction,&#x27; former Anthropic employee says about AI"
+            "en": "Tennis correspondentPublished17 September 2026Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis.",
+            "ko": "실시간 보도 번역: Tennis correspondentPublished17 September 2026Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis."
           }
         ]
       },
       {
-        "en": "An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were &quot;genuinely frightened&quot; about the speed of its advancements and what it could mean for humanity.",
+        "en": "Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were &quot;genuinely frightened&quot; about the speed of its advancements and what it could mean for humanity.",
-            "ko": "실시간 보도 번역: An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were &quot;genuinely frightened&quot; about the speed of its advancements and what it could mean for humanity."
+            "en": "Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire.",
+            "ko": "실시간 보도 번역: Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire."
           }
         ]
       },
       {
-        "en": "&quot;I believe that if we don&#x27;t slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future,&quot; he said.",
+        "en": "The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;I believe that if we don&#x27;t slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future,&quot; he said.",
-            "ko": "실시간 보도 번역: &quot;I believe that if we don&#x27;t slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future,&quot; he said."
+            "en": "The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles.",
+            "ko": "실시간 보도 번역: The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "글로벌 최신 소식: Six-time Grand Slam champion Salisbury retires",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2453,14 +2538,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+          "Six-time Grand Slam champion Salisbury retires",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_3111503738484685240",
@@ -3178,70 +3265,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_352829184912820918",
-    "title": "From struggling to walk to lifting trophy - how Rybakina triumphed",
-    "subtitle": "Elena Rybakina arrived in New York unable to walk without pain after injuring her foot. She leaves the city as the US Open champio...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-13",
-    "addedAt": "2026-09-13T15:29:36Z",
-    "category": "sports",
+    "id": "auto_culture_4034335309832152966",
+    "title": "British rapper Sway dies aged 44",
+    "subtitle": "Sway, whose hits included Still Speedin' and Level Up, was living in Ghana at the time of his death....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-18",
+    "addedAt": "2026-09-18T15:41:33Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 145,
+    "wordCount": 115,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarFrom struggling to walk to lifting trophy - how Rybakina triumphedImage source, Getty ImagesImage caption, Elena Rybakina has won two of the four Grand Slam singles titles available in 2026",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsBritish rapper Sway dies aged 44Image source, Getty ImagesByMark SavageMusic correspondentPublished4 hours agoThe award-winning British-Ghanaian rap artist Sway DaSafo has died at the age of 44.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarFrom struggling to walk to lifting trophy - how Rybakina triumphedImage source, Getty ImagesImage caption, Elena Rybakina has won two of the four Grand Slam singles titles available in 2026",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarFrom struggling to walk to lifting trophy - how Rybakina triumphedImage source, Getty ImagesImage caption, Elena Rybakina has won two of the four Grand Slam singles titles available in 2026"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsBritish rapper Sway dies aged 44Image source, Getty ImagesByMark SavageMusic correspondentPublished4 hours agoThe award-winning British-Ghanaian rap artist Sway DaSafo has died at the age of 44.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsBritish rapper Sway dies aged 44Image source, Getty ImagesByMark SavageMusic correspondentPublished4 hours agoThe award-winning British-Ghanaian rap artist Sway DaSafo has died at the age of 44."
           }
         ]
       },
       {
-        "en": "Elena Rybakina arrived in New York unable to walk without pain after injuring her foot. She leaves the city as the US Open champion and new world number one.",
+        "en": "He was the first unsigned rapper to win a Mobo Award in 2006, and scored a top 10 hit in 2012 with the single Level Up.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Elena Rybakina arrived in New York unable to walk without pain after injuring her foot.",
-            "ko": "실시간 보도 번역: Elena Rybakina arrived in New York unable to walk without pain after injuring her foot."
-          },
-          {
-            "en": "She leaves the city as the US Open champion and new world number one.",
-            "ko": "실시간 보도 번역: She leaves the city as the US Open champion and new world number one."
+            "en": "He was the first unsigned rapper to win a Mobo Award in 2006, and scored a top 10 hit in 2012 with the single Level Up.",
+            "ko": "실시간 보도 번역: He was the first unsigned rapper to win a Mobo Award in 2006, and scored a top 10 hit in 2012 with the single Level Up."
           }
         ]
       },
       {
-        "en": "Kazakhstan&#x27;s Rybakina produced a brilliant performance to beat two-time defending champion Aryna Sabalenka 6-4 5-7 6-2 in Saturday&#x27;s final and repeat her Australian Open success against the same player in January.",
+        "en": "The news was first shared online by the Mobo organisation, and confirmed to the BBC by the musician&#x27;s friend Kash Ahmad, who said he died at his home in Ghana.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Kazakhstan&#x27;s Rybakina produced a brilliant performance to beat two-time defending champion Aryna Sabalenka 6-4 5-7 6-2 in Saturday&#x27;s final and repeat her Australian Open success against the same player in January.",
-            "ko": "실시간 보도 번역: Kazakhstan&#x27;s Rybakina produced a brilliant performance to beat two-time defending champion Aryna Sabalenka 6-4 5-7 6-2 in Saturday&#x27;s final and repeat her Australian Open success against the same player in January."
+            "en": "The news was first shared online by the Mobo organisation, and confirmed to the BBC by the musician&#x27;s friend Kash Ahmad, who said he died at his home in Ghana.",
+            "ko": "실시간 보도 번역: The news was first shared online by the Mobo organisation, and confirmed to the BBC by the musician&#x27;s friend Kash Ahmad, who said he died at his home in Ghana."
           }
         ]
       },
       {
-        "en": "Clutching the trophy on Saturday night, Rybakina reflected that &quot;some magic is happening&quot; for her after her difficult lead-in to the tournament.",
+        "en": "Sway was diagnosed with Hodgkin lymphoma in 2010 and went into remission later that year.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Clutching the trophy on Saturday night, Rybakina reflected that &quot;some magic is happening&quot; for her after her difficult lead-in to the tournament.",
-            "ko": "실시간 보도 번역: Clutching the trophy on Saturday night, Rybakina reflected that &quot;some magic is happening&quot; for her after her difficult lead-in to the tournament."
+            "en": "Sway was diagnosed with Hodgkin lymphoma in 2010 and went into remission later that year.",
+            "ko": "실시간 보도 번역: Sway was diagnosed with Hodgkin lymphoma in 2010 and went into remission later that year."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: From struggling to walk to lifting trophy - how Rybakina triumphed",
+      "글로벌 최신 소식: British rapper Sway dies aged 44",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3249,16 +3332,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "From struggling to walk to lifting trophy - how Rybakina triumphed",
+          "British rapper Sway dies aged 44",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_5225795276823811898",
@@ -3929,87 +4010,6 @@ const READPULSE_ARTICLES = [
           {
             "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archImage source, Getty ImagesByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026On Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!",
             "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archImage source, Getty ImagesByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026On Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!"
-          }
-        ]
-      },
-      {
-        "en": "Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;.",
-            "ko": "실시간 보도 번역: Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;."
-          }
-        ]
-      },
-      {
-        "en": "Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said.",
-            "ko": "실시간 보도 번역: Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said."
-          }
-        ]
-      },
-      {
-        "en": "Addressing his fans, he reflected on the significance of the occasion. &quot;This moment will go down in the history books,&quot; he said.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Addressing his fans, he reflected on the significance of the occasion.",
-            "ko": "실시간 보도 번역: Addressing his fans, he reflected on the significance of the occasion."
-          },
-          {
-            "en": "&quot;This moment will go down in the history books,&quot; he said.",
-            "ko": "실시간 보도 번역: &quot;This moment will go down in the history books,&quot; he said."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Diljit Dosanjh makes history under the famous Wembley arch",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Diljit Dosanjh makes history under the famous Wembley arch",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_611870033178026403",
-    "title": "Diljit Dosanjh makes history under the famous Wembley arch",
-    "subtitle": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-12",
-    "addedAt": "2026-09-13T15:29:39Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 109,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026, 00:06 BSTOn Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!&quot;",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026, 00:06 BSTOn Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026, 00:06 BSTOn Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!"
           }
         ]
       },
