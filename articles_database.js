@@ -1,6 +1,91 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1662757250554432665",
+    "title": "The virtual worlds where robots are trained",
+    "subtitle": "Training systems that allow robots to negotiate the real world are getting more sophisticated....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-17",
+    "addedAt": "2026-09-18T02:50:09Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 119,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThe virtual worlds where robots are trainedTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThe virtual worlds where robots are trainedTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThe virtual worlds where robots are trainedTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "Freddo the robot walks across the office and takes a plastic bottled offered by a staff member.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Freddo the robot walks across the office and takes a plastic bottled offered by a staff member.",
+            "ko": "실시간 보도 번역: Freddo the robot walks across the office and takes a plastic bottled offered by a staff member."
+          }
+        ]
+      },
+      {
+        "en": "Given that a robot recently beat Usain Bolt&#x27;s 100m sprint record, it&#x27;s not the most startling achievement.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Given that a robot recently beat Usain Bolt&#x27;s 100m sprint record, it&#x27;s not the most startling achievement.",
+            "ko": "실시간 보도 번역: Given that a robot recently beat Usain Bolt&#x27;s 100m sprint record, it&#x27;s not the most startling achievement."
+          }
+        ]
+      },
+      {
+        "en": "But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive. It took just a few minutes to develop those skills and upload them to Freddo. His developers say rival systems could take days to attain such skills.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive.",
+            "ko": "실시간 보도 번역: But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive."
+          },
+          {
+            "en": "It took just a few minutes to develop those skills and upload them to Freddo.",
+            "ko": "실시간 보도 번역: It took just a few minutes to develop those skills and upload them to Freddo."
+          },
+          {
+            "en": "His developers say rival systems could take days to attain such skills.",
+            "ko": "실시간 보도 번역: His developers say rival systems could take days to attain such skills."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: The virtual worlds where robots are trained",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "The virtual worlds where robots are trained",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1159270704539786674",
     "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
     "subtitle": "The comments were made at a summit in Scotland with participants from AI giants including Nvidia, OpenAI and Anthropic....",
@@ -694,66 +779,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_306021949040832964",
-    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-    "subtitle": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-12",
-    "addedAt": "2026-09-13T02:46:04Z",
-    "category": "tech",
+    "id": "auto_science_4371314929130284055",
+    "title": "New wild cat species discovered - with only one known living member",
+    "subtitle": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia....",
+    "speaker": "BBC Science",
+    "date": "2026-09-17",
+    "addedAt": "2026-09-18T02:50:09Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 121,
+    "wordCount": 110,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaAnthropic boss Dario Amodei calls for AI development to slow downImage source, ReutersImage caption, There was no alternative to developing AI, Anthropic boss Dario Amodei said",
+        "en": "A spotted cat from the forests of Bolivia has been confirmed as a new species.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaAnthropic boss Dario Amodei calls for AI development to slow downImage source, ReutersImage caption, There was no alternative to developing AI, Anthropic boss Dario Amodei said",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaAnthropic boss Dario Amodei calls for AI development to slow downImage source, ReutersImage caption, There was no alternative to developing AI, Anthropic boss Dario Amodei said"
+            "en": "A spotted cat from the forests of Bolivia has been confirmed as a new species.",
+            "ko": "실시간 보도 번역: A spotted cat from the forests of Bolivia has been confirmed as a new species."
           }
         ]
       },
       {
-        "en": "The head of AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored.",
+        "en": "The small feline, about the size of a domestic moggy, went under the radar because it was confused with other wild cats that share similar spots and stripes.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The head of AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored.",
-            "ko": "실시간 보도 번역: The head of AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored."
+            "en": "The small feline, about the size of a domestic moggy, went under the radar because it was confused with other wild cats that share similar spots and stripes.",
+            "ko": "실시간 보도 번역: The small feline, about the size of a domestic moggy, went under the radar because it was confused with other wild cats that share similar spots and stripes."
           }
         ]
       },
       {
-        "en": "In an essay, Dario Amodei said developing AI was not in question, but the risks associated with it were &quot;serious&quot; and companies and governments must be given time to address them.",
+        "en": "But DNA studies show the cat is actually in a class of its own, highlighting how much remains unknown about some of the world&#x27;s most elusive mammals.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In an essay, Dario Amodei said developing AI was not in question, but the risks associated with it were &quot;serious&quot; and companies and governments must be given time to address them.",
-            "ko": "실시간 보도 번역: In an essay, Dario Amodei said developing AI was not in question, but the risks associated with it were &quot;serious&quot; and companies and governments must be given time to address them."
+            "en": "But DNA studies show the cat is actually in a class of its own, highlighting how much remains unknown about some of the world&#x27;s most elusive mammals.",
+            "ko": "실시간 보도 번역: But DNA studies show the cat is actually in a class of its own, highlighting how much remains unknown about some of the world&#x27;s most elusive mammals."
           }
         ]
       },
       {
-        "en": "The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk, have both said they agree with Amodei.",
+        "en": "Scientists hope the discovery will draw attention to the conservation of tiger cats, a group of small wild cats found in South and Central America that receives far less public attention than their larger cousins like lions, leopards and tigers.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk, have both said they agree with Amodei.",
-            "ko": "실시간 보도 번역: The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk, have both said they agree with Amodei."
+            "en": "Scientists hope the discovery will draw attention to the conservation of tiger cats, a group of small wild cats found in South and Central America that receives far less public attention than their larger cousins like lions, leopards and tigers.",
+            "ko": "실시간 보도 번역: Scientists hope the discovery will draw attention to the conservation of tiger cats, a group of small wild cats found in South and Central America that receives far less public attention than their larger cousins like lions, leopards and tigers."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Anthropic boss Dario Amodei calls for AI development to slow down",
+      "글로벌 최신 소식: New wild cat species discovered - with only one known living member",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -761,7 +846,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "New wild cat species discovered - with only one known living member",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1572,66 +1657,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_3022214901193996176",
-    "title": "Five night sky events to look out for this autumn",
-    "subtitle": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky....",
-    "speaker": "BBC Science",
-    "date": "2026-09-12",
-    "addedAt": "2026-09-13T02:46:04Z",
-    "category": "science",
+    "id": "auto_economy_4150816275851311048",
+    "title": "Healey to ask EU finance ministers to let UK into industry scheme",
+    "subtitle": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\"....",
+    "speaker": "BBC Business",
+    "date": "2026-09-17",
+    "addedAt": "2026-09-18T02:50:10Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 105,
+    "wordCount": 123,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceFive night sky events to look out for this autumnImage source, Getty ImagesImage caption, This year&#x27;s November full moon will appear as a supermoon. This is 2025&#x27;s November Beaver Moon captured above forests in Hungary",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatHealey to ask EU finance ministers to let UK into industry schemeImage source, PA MediaImage caption, John Healey is meeting EU finance ministers on Friday",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceFive night sky events to look out for this autumnImage source, Getty ImagesImage caption, This year&#x27;s November full moon will appear as a supermoon.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceFive night sky events to look out for this autumnImage source, Getty ImagesImage caption, This year&#x27;s November full moon will appear as a supermoon."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatHealey to ask EU finance ministers to let UK into industry schemeImage source, PA MediaImage caption, John Healey is meeting EU finance ministers on Friday",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatHealey to ask EU finance ministers to let UK into industry schemeImage source, PA MediaImage caption, John Healey is meeting EU finance ministers on Friday"
           }
         ]
       },
       {
-        "en": "Autumn brings longer nights to the northern hemisphere, offering more opportunities to get outside and look up at the night sky.",
+        "en": "The chancellor is to warn the European Union (EU) not to lock the UK out of its scheme to protect industries from unfair Chinese competition.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Autumn brings longer nights to the northern hemisphere, offering more opportunities to get outside and look up at the night sky.",
-            "ko": "실시간 보도 번역: Autumn brings longer nights to the northern hemisphere, offering more opportunities to get outside and look up at the night sky."
+            "en": "The chancellor is to warn the European Union (EU) not to lock the UK out of its scheme to protect industries from unfair Chinese competition.",
+            "ko": "실시간 보도 번역: The chancellor is to warn the European Union (EU) not to lock the UK out of its scheme to protect industries from unfair Chinese competition."
           }
         ]
       },
       {
-        "en": "There is plenty to look out for over the coming months, from impressive meteor showers to dazzling star clusters.",
+        "en": "John Healey will push for closer UK-EU partnerships on tech, defence, and manufacturing at a meeting of EU finance ministers in Dublin on Friday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "There is plenty to look out for over the coming months, from impressive meteor showers to dazzling star clusters.",
-            "ko": "실시간 보도 번역: There is plenty to look out for over the coming months, from impressive meteor showers to dazzling star clusters."
+            "en": "John Healey will push for closer UK-EU partnerships on tech, defence, and manufacturing at a meeting of EU finance ministers in Dublin on Friday.",
+            "ko": "실시간 보도 번역: John Healey will push for closer UK-EU partnerships on tech, defence, and manufacturing at a meeting of EU finance ministers in Dublin on Friday."
           }
         ]
       },
       {
-        "en": "The series of spectacles begins with the Pleiades as the autumn nights draw in.",
+        "en": "But he will call on the EU to design its &quot;Made in Europe&quot; programme in a way that deepens ties with the UK &quot;rather than erecting new barriers&quot;, Treasury sources told the BBC.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The series of spectacles begins with the Pleiades as the autumn nights draw in.",
-            "ko": "실시간 보도 번역: The series of spectacles begins with the Pleiades as the autumn nights draw in."
+            "en": "But he will call on the EU to design its &quot;Made in Europe&quot; programme in a way that deepens ties with the UK &quot;rather than erecting new barriers&quot;, Treasury sources told the BBC.",
+            "ko": "실시간 보도 번역: But he will call on the EU to design its &quot;Made in Europe&quot; programme in a way that deepens ties with the UK &quot;rather than erecting new barriers&quot;, Treasury sources told the BBC."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Five night sky events to look out for this autumn",
+      "글로벌 최신 소식: Healey to ask EU finance ministers to let UK into industry scheme",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1639,7 +1724,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Five night sky events to look out for this autumn",
+          "Healey to ask EU finance ministers to let UK into industry scheme",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2378,70 +2463,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_7130062568505314027",
-    "title": "US prices remain high as fuel costs squeeze household budgets",
-    "subtitle": "Prices in the US rose 3.4% in the 12 months to August,  according to the latest official report on inflation....",
-    "speaker": "BBC Business",
-    "date": "2026-09-11",
-    "addedAt": "2026-09-13T02:46:05Z",
-    "category": "economy",
+    "id": "auto_sports_3111503738484685240",
+    "title": "Six-time Grand Slam champion Salisbury retires",
+    "subtitle": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis....",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-17",
+    "addedAt": "2026-09-18T02:50:10Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 144,
+    "wordCount": 129,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaUS prices remain high as fuel costs squeeze household budgetsImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished11 September 2026Prices in the US rose by 3.4% in the year to August, with the cost of living pushed up by higher gasoline prices, official figures show.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Joe Salisbury won doubles titles at the Australian Open and US Open",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaUS prices remain high as fuel costs squeeze household budgetsImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished11 September 2026Prices in the US rose by 3.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaUS prices remain high as fuel costs squeeze household budgetsImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished11 September 2026Prices in the US rose by 3."
-          },
-          {
-            "en": "4% in the year to August, with the cost of living pushed up by higher gasoline prices, official figures show.",
-            "ko": "실시간 보도 번역: 4% in the year to August, with the cost of living pushed up by higher gasoline prices, official figures show."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Joe Salisbury won doubles titles at the Australian Open and US Open",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Joe Salisbury won doubles titles at the Australian Open and US Open"
           }
         ]
       },
       {
-        "en": "The overall inflation rate was unchanged from July, according to the Bureau of Labor Statistics (BLS).",
+        "en": "Tennis correspondentPublished17 September 2026Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The overall inflation rate was unchanged from July, according to the Bureau of Labor Statistics (BLS).",
-            "ko": "실시간 보도 번역: The overall inflation rate was unchanged from July, according to the Bureau of Labor Statistics (BLS)."
+            "en": "Tennis correspondentPublished17 September 2026Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis.",
+            "ko": "실시간 보도 번역: Tennis correspondentPublished17 September 2026Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis."
           }
         ]
       },
       {
-        "en": "It comes ahead of the Federal Reserve making its latest interest rate decision next week, with growing expectations they will be increased in a bid to slow the rate at which prices are rising.",
+        "en": "Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It comes ahead of the Federal Reserve making its latest interest rate decision next week, with growing expectations they will be increased in a bid to slow the rate at which prices are rising.",
-            "ko": "실시간 보도 번역: It comes ahead of the Federal Reserve making its latest interest rate decision next week, with growing expectations they will be increased in a bid to slow the rate at which prices are rising."
+            "en": "Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire.",
+            "ko": "실시간 보도 번역: Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire."
           }
         ]
       },
       {
-        "en": "US household budgets have come under mounting pressure, especially at the fuel pumps, with a gallon of diesel hitting a new all-time high of more than $6 on average on Friday.",
+        "en": "The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "US household budgets have come under mounting pressure, especially at the fuel pumps, with a gallon of diesel hitting a new all-time high of more than $6 on average on Friday.",
-            "ko": "실시간 보도 번역: US household budgets have come under mounting pressure, especially at the fuel pumps, with a gallon of diesel hitting a new all-time high of more than $6 on average on Friday."
+            "en": "The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles.",
+            "ko": "실시간 보도 번역: The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: US prices remain high as fuel costs squeeze household budgets",
+      "글로벌 최신 소식: Six-time Grand Slam champion Salisbury retires",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2449,14 +2530,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "US prices remain high as fuel costs squeeze household budgets",
+          "Six-time Grand Slam champion Salisbury retires",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_7666817238768414058",
@@ -3178,66 +3261,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_1224680077901216058",
-    "title": "Rybakina wins US Open to inflict further pain on Sabalenka",
-    "subtitle": "Elena Rybakina demonstrates why she is the best women's player in the world by beating Aryna Sabalenka to win her first US Open ti...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-12",
-    "addedAt": "2026-09-13T02:46:05Z",
-    "category": "sports",
+    "id": "auto_culture_5225795276823811898",
+    "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
+    "subtitle": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-17",
+    "addedAt": "2026-09-18T02:50:13Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 163,
+    "wordCount": 146,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarRybakina wins US Open to inflict further pain on SabalenkaImage source, Getty ImagesImage caption, Elena Rybakina has now won the Australian Open, Wimbledon and the US Open",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlashTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarRybakina wins US Open to inflict further pain on SabalenkaImage source, Getty ImagesImage caption, Elena Rybakina has now won the Australian Open, Wimbledon and the US Open",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarRybakina wins US Open to inflict further pain on SabalenkaImage source, Getty ImagesImage caption, Elena Rybakina has now won the Australian Open, Wimbledon and the US Open"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlashTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlashTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "BBC Sport tennis news reporterPublished12 September 2026Updated 2 hours agoElena Rybakina demonstrated why she is the best women&#x27;s player in the world by beating two-time defending champion Aryna Sabalenka to win her first US Open title.",
+        "en": "Robert Kraft, the US stadium owner who had pro-Palestinian rapper Macklemore removed as Ed Sheeran&#x27;s opening act, says Sheeran asked him to match his own $2m (£1.5m) donation for &quot;aid in the region&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC Sport tennis news reporterPublished12 September 2026Updated 2 hours agoElena Rybakina demonstrated why she is the best women&#x27;s player in the world by beating two-time defending champion Aryna Sabalenka to win her first US Open title.",
-            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished12 September 2026Updated 2 hours agoElena Rybakina demonstrated why she is the best women&#x27;s player in the world by beating two-time defending champion Aryna Sabalenka to win her first US Open title."
+            "en": "Robert Kraft, the US stadium owner who had pro-Palestinian rapper Macklemore removed as Ed Sheeran&#x27;s opening act, says Sheeran asked him to match his own $2m (£1.",
+            "ko": "실시간 보도 번역: Robert Kraft, the US stadium owner who had pro-Palestinian rapper Macklemore removed as Ed Sheeran&#x27;s opening act, says Sheeran asked him to match his own $2m (£1."
+          },
+          {
+            "en": "5m) donation for &quot;aid in the region&quot;.",
+            "ko": "실시간 보도 번역: 5m) donation for &quot;aid in the region&quot;."
           }
         ]
       },
       {
-        "en": "Kazakhstan&#x27;s Rybakina already knew she would be the new world number one after Saturday&#x27;s final regardless of the result, and she celebrated with a 6-4 5-7 6-2 victory over the player she will replace.",
+        "en": "It came after Macklemore said he would donate $1m (£750,000) to Palestinian organisations, challenging Kraft to match him.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Kazakhstan&#x27;s Rybakina already knew she would be the new world number one after Saturday&#x27;s final regardless of the result, and she celebrated with a 6-4 5-7 6-2 victory over the player she will replace.",
-            "ko": "실시간 보도 번역: Kazakhstan&#x27;s Rybakina already knew she would be the new world number one after Saturday&#x27;s final regardless of the result, and she celebrated with a 6-4 5-7 6-2 victory over the player she will replace."
+            "en": "It came after Macklemore said he would donate $1m (£750,000) to Palestinian organisations, challenging Kraft to match him.",
+            "ko": "실시간 보도 번역: It came after Macklemore said he would donate $1m (£750,000) to Palestinian organisations, challenging Kraft to match him."
           }
         ]
       },
       {
-        "en": "Rybakina was the more composed of the two throughout as she claimed the third Grand Slam title of her career, having triumphed at Wimbledon in 2022 and the Australian Open earlier this year.",
+        "en": "Kraft, who owns the New England Patriots, wrote on Wednesday: &quot;Earlier today, before Macklemore challenged me to match his donation, Ed called me and asked me to commit $2 million to match his donation to aid in the region to fight this humanitarian crisis.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Rybakina was the more composed of the two throughout as she claimed the third Grand Slam title of her career, having triumphed at Wimbledon in 2022 and the Australian Open earlier this year.",
-            "ko": "실시간 보도 번역: Rybakina was the more composed of the two throughout as she claimed the third Grand Slam title of her career, having triumphed at Wimbledon in 2022 and the Australian Open earlier this year."
+            "en": "Kraft, who owns the New England Patriots, wrote on Wednesday: &quot;Earlier today, before Macklemore challenged me to match his donation, Ed called me and asked me to commit $2 million to match his donation to aid in the region to fight this humanitarian crisis.",
+            "ko": "실시간 보도 번역: Kraft, who owns the New England Patriots, wrote on Wednesday: &quot;Earlier today, before Macklemore challenged me to match his donation, Ed called me and asked me to commit $2 million to match his donation to aid in the region to fight this humanitarian crisis."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Rybakina wins US Open to inflict further pain on Sabalenka",
+      "글로벌 최신 소식: Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3245,16 +3332,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Rybakina wins US Open to inflict further pain on Sabalenka",
+          "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_8612572886287367936",
@@ -3925,87 +4010,6 @@ const READPULSE_ARTICLES = [
           {
             "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026, 00:06 BSTOn Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!",
             "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026, 00:06 BSTOn Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!"
-          }
-        ]
-      },
-      {
-        "en": "Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;.",
-            "ko": "실시간 보도 번역: Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;."
-          }
-        ]
-      },
-      {
-        "en": "Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said.",
-            "ko": "실시간 보도 번역: Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said."
-          }
-        ]
-      },
-      {
-        "en": "Addressing his fans, he reflected on the significance of the occasion. &quot;This moment will go down in the history books,&quot; he said.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Addressing his fans, he reflected on the significance of the occasion.",
-            "ko": "실시간 보도 번역: Addressing his fans, he reflected on the significance of the occasion."
-          },
-          {
-            "en": "&quot;This moment will go down in the history books,&quot; he said.",
-            "ko": "실시간 보도 번역: &quot;This moment will go down in the history books,&quot; he said."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Diljit Dosanjh makes history under the famous Wembley arch",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Diljit Dosanjh makes history under the famous Wembley arch",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_6145392037112422090",
-    "title": "Diljit Dosanjh makes history under the famous Wembley arch",
-    "subtitle": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-12",
-    "addedAt": "2026-09-13T02:46:06Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 107,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished3 hours agoOn Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!&quot;",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished3 hours agoOn Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished3 hours agoOn Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!"
           }
         ]
       },
