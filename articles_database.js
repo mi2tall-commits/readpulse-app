@@ -1,6 +1,135 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_7834670017438428463",
+    "title": "Would Australians support a smart glasses ban?",
+    "subtitle": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-18",
+    "addedAt": "2026-09-19T02:48:32Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 122,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"'Weird and icky': Would Australians support a smart glasses ban?\",\"description\":\"As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.\\n\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pb8p3w.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pb8p3w.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pb8p3w.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pb8p3w.jpg\"],\"uploadDate\":\"2026-09-18T23:15:10.485Z\",\"duration\":\"PT1M20S\"}Would Australians support a smart glasses ban?To play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East{\"@context\":\"https://schema.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East{\"@context\":\"https://schema."
+          },
+          {
+            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"'Weird and icky': Would Australians support a smart glasses ban?",
+            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"'Weird and icky': Would Australians support a smart glasses ban?"
+          },
+          {
+            "en": "\",\"description\":\"As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
+            "ko": "실시간 보도 번역: \",\"description\":\"As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think."
+          },
+          {
+            "en": "\\n\",\"thumbnailUrl\":[\"https://ichef.",
+            "ko": "실시간 보도 번역: \\n\",\"thumbnailUrl\":[\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1920/galileo/p0pb8p3w.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pb8p3w."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1248/galileo/p0pb8p3w.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pb8p3w."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/688/galileo/p0pb8p3w.",
+            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pb8p3w."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/400/galileo/p0pb8p3w.",
+            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pb8p3w."
+          },
+          {
+            "en": "jpg\"],\"uploadDate\":\"2026-09-18T23:15:10.",
+            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-18T23:15:10."
+          },
+          {
+            "en": "485Z\",\"duration\":\"PT1M20S\"}Would Australians support a smart glasses ban?",
+            "ko": "실시간 보도 번역: 485Z\",\"duration\":\"PT1M20S\"}Would Australians support a smart glasses ban?"
+          },
+          {
+            "en": "To play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: To play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "CloseAustralia is considering banning the use of smart glasses with camera recording abilities in government offices, as privacy fears over the technology grow.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "CloseAustralia is considering banning the use of smart glasses with camera recording abilities in government offices, as privacy fears over the technology grow.",
+            "ko": "실시간 보도 번역: CloseAustralia is considering banning the use of smart glasses with camera recording abilities in government offices, as privacy fears over the technology grow."
+          }
+        ]
+      },
+      {
+        "en": "The BBC&#x27;s Tabby Wilson is in Sydney to find out what people think - and where else they might want them banned.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The BBC&#x27;s Tabby Wilson is in Sydney to find out what people think - and where else they might want them banned.",
+            "ko": "실시간 보도 번역: The BBC&#x27;s Tabby Wilson is in Sydney to find out what people think - and where else they might want them banned."
+          }
+        ]
+      },
+      {
+        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsAustraliaFollow Australia",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsAustraliaFollow Australia",
+            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsAustraliaFollow Australia"
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Would Australians support a smart glasses ban?",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Would Australians support a smart glasses ban?",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_333284205661216149",
     "title": "The virtual worlds where robots are trained",
     "subtitle": "Training systems that allow robots to negotiate the real world are getting more sophisticated....",
@@ -710,66 +839,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_4952081422686546791",
-    "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-    "subtitle": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\"....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-13",
-    "addedAt": "2026-09-14T03:00:18Z",
-    "category": "tech",
+    "id": "auto_science_1935747730196277536",
+    "title": "When a beloved tree began withering away, locals suspected a killer in their midst",
+    "subtitle": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe....",
+    "speaker": "BBC Science",
+    "date": "2026-09-18",
+    "addedAt": "2026-09-19T02:48:32Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 106,
+    "wordCount": 164,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaTrump downplays warnings of AI risks, citing rivalry with ChinaTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaArticle: published on 18 September 2026Image source, JungWhen a beloved tree began withering away, locals suspected a killer in their midstByYujin Choi, BBC Korean, Reporting fromSeoul and Koh EwePublished4 hours agoEvery summer, Seoul turns a deep green, growing dense and lush under humid skies.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaTrump downplays warnings of AI risks, citing rivalry with ChinaTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaTrump downplays warnings of AI risks, citing rivalry with ChinaTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaArticle: published on 18 September 2026Image source, JungWhen a beloved tree began withering away, locals suspected a killer in their midstByYujin Choi, BBC Korean, Reporting fromSeoul and Koh EwePublished4 hours agoEvery summer, Seoul turns a deep green, growing dense and lush under humid skies.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaArticle: published on 18 September 2026Image source, JungWhen a beloved tree began withering away, locals suspected a killer in their midstByYujin Choi, BBC Korean, Reporting fromSeoul and Koh EwePublished4 hours agoEvery summer, Seoul turns a deep green, growing dense and lush under humid skies."
           }
         ]
       },
       {
-        "en": "President Trump says &#x27;negative forces&#x27; bringing up AI risks that won&#x27;t happen",
+        "en": "&quot;Green leaves were falling to the ground, which shouldn&#x27;t happen at that time of year,&quot; recalls Jung, who lives near the streetside ginkgo in Buam-dong, a largely residential neighbourhood in the north of Seoul.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "President Trump says &#x27;negative forces&#x27; bringing up AI risks that won&#x27;t happen",
-            "ko": "실시간 보도 번역: President Trump says &#x27;negative forces&#x27; bringing up AI risks that won&#x27;t happen"
+            "en": "&quot;Green leaves were falling to the ground, which shouldn&#x27;t happen at that time of year,&quot; recalls Jung, who lives near the streetside ginkgo in Buam-dong, a largely residential neighbourhood in the north of Seoul.",
+            "ko": "실시간 보도 번역: &quot;Green leaves were falling to the ground, which shouldn&#x27;t happen at that time of year,&quot; recalls Jung, who lives near the streetside ginkgo in Buam-dong, a largely residential neighbourhood in the north of Seoul."
           }
         ]
       },
       {
-        "en": "US President Donald Trump has downplayed risks posed by artificial intelligence following days of dire warnings by experts.",
+        "en": "The tree is beloved by locals, who believe it has occupied its spot for more than 100 years. So Jung couldn&#x27;t ignore what she was seeing. With each passing day, her curiosity turned to concern.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "US President Donald Trump has downplayed risks posed by artificial intelligence following days of dire warnings by experts.",
-            "ko": "실시간 보도 번역: US President Donald Trump has downplayed risks posed by artificial intelligence following days of dire warnings by experts."
+            "en": "The tree is beloved by locals, who believe it has occupied its spot for more than 100 years.",
+            "ko": "실시간 보도 번역: The tree is beloved by locals, who believe it has occupied its spot for more than 100 years."
+          },
+          {
+            "en": "So Jung couldn&#x27;t ignore what she was seeing.",
+            "ko": "실시간 보도 번역: So Jung couldn&#x27;t ignore what she was seeing."
+          },
+          {
+            "en": "With each passing day, her curiosity turned to concern.",
+            "ko": "실시간 보도 번역: With each passing day, her curiosity turned to concern."
           }
         ]
       },
       {
-        "en": "&quot;You have a lot of very negative forces that are bringing it up that shouldn&#x27;t be bringing it up and they&#x27;re bringing up things that won&#x27;t happen,&quot; Trump said during a visit to Ireland.",
+        "en": "A rotting carpet of familiar fan-shaped leaves soon surrounded the tree, a sight so alarming Jung and her neighbours formed a crew of amateur detectives to solve the mystery: what was ailing their hardy ginkgo?",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;You have a lot of very negative forces that are bringing it up that shouldn&#x27;t be bringing it up and they&#x27;re bringing up things that won&#x27;t happen,&quot; Trump said during a visit to Ireland.",
-            "ko": "실시간 보도 번역: &quot;You have a lot of very negative forces that are bringing it up that shouldn&#x27;t be bringing it up and they&#x27;re bringing up things that won&#x27;t happen,&quot; Trump said during a visit to Ireland."
+            "en": "A rotting carpet of familiar fan-shaped leaves soon surrounded the tree, a sight so alarming Jung and her neighbours formed a crew of amateur detectives to solve the mystery: what was ailing their hardy ginkgo?",
+            "ko": "실시간 보도 번역: A rotting carpet of familiar fan-shaped leaves soon surrounded the tree, a sight so alarming Jung and her neighbours formed a crew of amateur detectives to solve the mystery: what was ailing their hardy ginkgo?"
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Trump downplays warnings of AI risks, citing rivalry with China",
+      "글로벌 최신 소식: When a beloved tree began withering away, locals suspected a killer in their midst",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -777,7 +914,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Trump downplays warnings of AI risks, citing rivalry with China",
+          "When a beloved tree began withering away, locals suspected a killer in their midst",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1588,66 +1725,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_2087514975478591970",
-    "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
-    "subtitle": "A new report warns Himalayan glaciers are melting faster, threatening India’s water, economy and communities....",
-    "speaker": "BBC Science",
-    "date": "2026-09-13",
-    "addedAt": "2026-09-14T03:00:18Z",
-    "category": "science",
+    "id": "auto_economy_3995549181073328103",
+    "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+    "subtitle": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross....",
+    "speaker": "BBC Business",
+    "date": "2026-09-18",
+    "addedAt": "2026-09-19T02:48:33Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 161,
+    "wordCount": 205,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaThe Himalayas are melting faster - and India&#x27;s economy is &#x27;at risk&#x27;Image source, Nur Photo via Getty ImagesImage caption, India&#x27;s government says 56 glacial lakes had been classified as &quot;very high risk&quot;",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East&#x27;We simply don&#x27;t know&#x27; - JP Morgan struggling to forecast oil prices due to Trump&#x27;s war with IranImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished8 hours agoInvestment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that &quot;we simply don&#x27;t know how to model the endgame&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaThe Himalayas are melting faster - and India&#x27;s economy is &#x27;at risk&#x27;Image source, Nur Photo via Getty ImagesImage caption, India&#x27;s government says 56 glacial lakes had been classified as &quot;very high risk&quot;",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaThe Himalayas are melting faster - and India&#x27;s economy is &#x27;at risk&#x27;Image source, Nur Photo via Getty ImagesImage caption, India&#x27;s government says 56 glacial lakes had been classified as &quot;very high risk&quot;"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East&#x27;We simply don&#x27;t know&#x27; - JP Morgan struggling to forecast oil prices due to Trump&#x27;s war with IranImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished8 hours agoInvestment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that &quot;we simply don&#x27;t know how to model the endgame&quot;.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East&#x27;We simply don&#x27;t know&#x27; - JP Morgan struggling to forecast oil prices due to Trump&#x27;s war with IranImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished8 hours agoInvestment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that &quot;we simply don&#x27;t know how to model the endgame&quot;."
           }
         ]
       },
       {
-        "en": "India correspondentPublished4 hours agoThe Himalayas are approaching a dangerous threshold as glaciers melt faster, glacial lakes grow more unstable and the mountains face a widening gap in monitoring, according to new research.",
+        "en": "The bank said it assumed at the start of the conflict that there would be &quot;economic red lines&quot; that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "India correspondentPublished4 hours agoThe Himalayas are approaching a dangerous threshold as glaciers melt faster, glacial lakes grow more unstable and the mountains face a widening gap in monitoring, according to new research.",
-            "ko": "실시간 보도 번역: India correspondentPublished4 hours agoThe Himalayas are approaching a dangerous threshold as glaciers melt faster, glacial lakes grow more unstable and the mountains face a widening gap in monitoring, according to new research."
+            "en": "The bank said it assumed at the start of the conflict that there would be &quot;economic red lines&quot; that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June.",
+            "ko": "실시간 보도 번역: The bank said it assumed at the start of the conflict that there would be &quot;economic red lines&quot; that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June."
           }
         ]
       },
       {
-        "en": "The findings come in the aftermath of devastating floods in Nepal and Tibet, which killed more than 1,300 people and caused widespread destruction, highlighting the growing risks from a rapidly changing Himalayan environment.",
+        "en": "It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The findings come in the aftermath of devastating floods in Nepal and Tibet, which killed more than 1,300 people and caused widespread destruction, highlighting the growing risks from a rapidly changing Himalayan environment.",
-            "ko": "실시간 보도 번역: The findings come in the aftermath of devastating floods in Nepal and Tibet, which killed more than 1,300 people and caused widespread destruction, highlighting the growing risks from a rapidly changing Himalayan environment."
+            "en": "It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%.",
+            "ko": "실시간 보도 번역: It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%."
           }
         ]
       },
       {
-        "en": "Himalayan glaciers are now losing mass 65% faster than they were a decade ago, the report by global consultancy Systemiq, produced with the Integrated Mountain Initiative and with technical contributions from the International Centre for Integrated Mountain Development (ICIMOD) and GB Pant National Institute of Himalayan Environment, says.",
+        "en": "JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump&#x27;s next moves.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Himalayan glaciers are now losing mass 65% faster than they were a decade ago, the report by global consultancy Systemiq, produced with the Integrated Mountain Initiative and with technical contributions from the International Centre for Integrated Mountain Development (ICIMOD) and GB Pant National Institute of Himalayan Environment, says.",
-            "ko": "실시간 보도 번역: Himalayan glaciers are now losing mass 65% faster than they were a decade ago, the report by global consultancy Systemiq, produced with the Integrated Mountain Initiative and with technical contributions from the International Centre for Integrated Mountain Development (ICIMOD) and GB Pant National Institute of Himalayan Environment, says."
+            "en": "JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump&#x27;s next moves.",
+            "ko": "실시간 보도 번역: JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump&#x27;s next moves."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: The Himalayas are melting faster - and India's economy is 'at risk'",
+      "글로벌 최신 소식: 'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1655,7 +1792,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "The Himalayas are melting faster - and India's economy is 'at risk'",
+          "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2390,70 +2527,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_3122585877548045968",
-    "title": "Gloomy forecast for tenants as rent rises set to speed up",
-    "subtitle": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla....",
-    "speaker": "BBC Business",
-    "date": "2026-09-13",
-    "addedAt": "2026-09-14T03:00:19Z",
-    "category": "economy",
+    "id": "auto_sports_236762553909520332",
+    "title": "'You have to start somewhere' - inexperienced GB team bid for Davis Cup Finals",
+    "subtitle": "Cameron Norrie will miss Great Britain's Davis Cup tie with Ecuador this weekend, with qualification for November's eight-team fin...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-18",
+    "addedAt": "2026-09-19T02:48:33Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 157,
+    "wordCount": 136,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessGloomy forecast for tenants as rent rises set to speed upImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished3 hours agoThe rising cost of renting a home in the UK has accelerated after a three-year slowdown - with tenants told to expect more pain to come.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarNo Norrie as GB bid for Davis Cup Finals spotImage source, Getty ImagesImage caption, Great Britain have not reached the Davis Cup Finals for the past three years",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessGloomy forecast for tenants as rent rises set to speed upImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished3 hours agoThe rising cost of renting a home in the UK has accelerated after a three-year slowdown - with tenants told to expect more pain to come.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessGloomy forecast for tenants as rent rises set to speed upImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished3 hours agoThe rising cost of renting a home in the UK has accelerated after a three-year slowdown - with tenants told to expect more pain to come."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarNo Norrie as GB bid for Davis Cup Finals spotImage source, Getty ImagesImage caption, Great Britain have not reached the Davis Cup Finals for the past three years",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarNo Norrie as GB bid for Davis Cup Finals spotImage source, Getty ImagesImage caption, Great Britain have not reached the Davis Cup Finals for the past three years"
           }
         ]
       },
       {
-        "en": "Average rental costs for new tenancies were up 2.6% in July compared with a year earlier, according to property website Zoopla.",
+        "en": "Tennis correspondent at Copper Box, LondonPublished18 September 2026Cameron Norrie will miss Great Britain&#x27;s Davis Cup tie with Ecuador this weekend, with qualification for November&#x27;s eight-team finals on the line.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Average rental costs for new tenancies were up 2.",
-            "ko": "실시간 보도 번역: Average rental costs for new tenancies were up 2."
-          },
-          {
-            "en": "6% in July compared with a year earlier, according to property website Zoopla.",
-            "ko": "실시간 보도 번역: 6% in July compared with a year earlier, according to property website Zoopla."
+            "en": "Tennis correspondent at Copper Box, LondonPublished18 September 2026Cameron Norrie will miss Great Britain&#x27;s Davis Cup tie with Ecuador this weekend, with qualification for November&#x27;s eight-team finals on the line.",
+            "ko": "실시간 보도 번역: Tennis correspondent at Copper Box, LondonPublished18 September 2026Cameron Norrie will miss Great Britain&#x27;s Davis Cup tie with Ecuador this weekend, with qualification for November&#x27;s eight-team finals on the line."
           }
         ]
       },
       {
-        "en": "That remains lower than the rate of rising prices in general, but the property portal has forecast annual rent rises among privately rented homes will hit 4% or 5% by the end of the year.",
+        "en": "British number two Norrie felt pain in his arm during a practice session and will be replaced in Saturday&#x27;s singles by world number 95 Toby Samuel.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "That remains lower than the rate of rising prices in general, but the property portal has forecast annual rent rises among privately rented homes will hit 4% or 5% by the end of the year.",
-            "ko": "실시간 보도 번역: That remains lower than the rate of rising prices in general, but the property portal has forecast annual rent rises among privately rented homes will hit 4% or 5% by the end of the year."
+            "en": "British number two Norrie felt pain in his arm during a practice session and will be replaced in Saturday&#x27;s singles by world number 95 Toby Samuel.",
+            "ko": "실시간 보도 번역: British number two Norrie felt pain in his arm during a practice session and will be replaced in Saturday&#x27;s singles by world number 95 Toby Samuel."
           }
         ]
       },
       {
-        "en": "It said there were fewer homes available to rent and - with potential first-time buyers put off by higher mortgage rates - competition for rental places in some areas was more intense.",
+        "en": "&quot;He wasn&#x27;t able to accelerate on the ball like he wanted to,&quot; Davis Cup captain Leon Smith told BBC Sport.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It said there were fewer homes available to rent and - with potential first-time buyers put off by higher mortgage rates - competition for rental places in some areas was more intense.",
-            "ko": "실시간 보도 번역: It said there were fewer homes available to rent and - with potential first-time buyers put off by higher mortgage rates - competition for rental places in some areas was more intense."
+            "en": "&quot;He wasn&#x27;t able to accelerate on the ball like he wanted to,&quot; Davis Cup captain Leon Smith told BBC Sport.",
+            "ko": "실시간 보도 번역: &quot;He wasn&#x27;t able to accelerate on the ball like he wanted to,&quot; Davis Cup captain Leon Smith told BBC Sport."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Gloomy forecast for tenants as rent rises set to speed up",
+      "글로벌 최신 소식: 'You have to start somewhere' - inexperienced GB team bid for Davis Cup Finals",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2461,14 +2594,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Gloomy forecast for tenants as rent rises set to speed up",
+          "'You have to start somewhere' - inexperienced GB team bid for Davis Cup Finals",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_5466548141536516652",
@@ -3186,66 +3321,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_5222193758280795044",
-    "title": "Zverev caps transformational year with US Open triumph",
-    "subtitle": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-13",
-    "addedAt": "2026-09-14T03:00:19Z",
-    "category": "sports",
+    "id": "auto_culture_7080100800876694106",
+    "title": "Tenko and Coronation Street actress Stephanie Cole dies aged 84",
+    "subtitle": "She was best known for playing Dr Beatrice Mason in the 1980s BBC wartime TV drama Tenko....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-18",
+    "addedAt": "2026-09-19T02:48:34Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 160,
+    "wordCount": 124,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev caps transformational year with US Open triumphImage source, Getty ImagesImage caption, Alexander Zverev has finally landed his first US Open title, six years after losing in the 2020 final",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTenko and Coronation Street actress Stephanie Cole dies aged 84Image source, Getty ImagesByPaul GlynnCulture reporterPublished18 September 2026Actress Stephanie Cole, known for roles in Tenko, Open All Hours and Coronation Street, has died aged 84.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev caps transformational year with US Open triumphImage source, Getty ImagesImage caption, Alexander Zverev has finally landed his first US Open title, six years after losing in the 2020 final",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev caps transformational year with US Open triumphImage source, Getty ImagesImage caption, Alexander Zverev has finally landed his first US Open title, six years after losing in the 2020 final"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTenko and Coronation Street actress Stephanie Cole dies aged 84Image source, Getty ImagesByPaul GlynnCulture reporterPublished18 September 2026Actress Stephanie Cole, known for roles in Tenko, Open All Hours and Coronation Street, has died aged 84.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTenko and Coronation Street actress Stephanie Cole dies aged 84Image source, Getty ImagesByPaul GlynnCulture reporterPublished18 September 2026Actress Stephanie Cole, known for roles in Tenko, Open All Hours and Coronation Street, has died aged 84."
           }
         ]
       },
       {
-        "en": "BBC Sport tennis news reporterPublished13 September 2026Alexander Zverev used his greater experience to beat home hope Ben Shelton in the US Open final and quiet a partisan crowd hoping to laud a rare American men&#x27;s champion.",
+        "en": "A statement from her agent John Grant, issued on behalf of her family, confirmed the actress had been living with Alzheimer&#x27;s for several years.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC Sport tennis news reporterPublished13 September 2026Alexander Zverev used his greater experience to beat home hope Ben Shelton in the US Open final and quiet a partisan crowd hoping to laud a rare American men&#x27;s champion.",
-            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished13 September 2026Alexander Zverev used his greater experience to beat home hope Ben Shelton in the US Open final and quiet a partisan crowd hoping to laud a rare American men&#x27;s champion."
+            "en": "A statement from her agent John Grant, issued on behalf of her family, confirmed the actress had been living with Alzheimer&#x27;s for several years.",
+            "ko": "실시간 보도 번역: A statement from her agent John Grant, issued on behalf of her family, confirmed the actress had been living with Alzheimer&#x27;s for several years."
           }
         ]
       },
       {
-        "en": "German top seed Zverev lifted a heavy burden by winning his first major title at this year&#x27;s French Open and has quickly added another with a 6-3 7-6 (7-2) 5-7 6-2 victory over Shelton in New York.",
+        "en": "&quot;Stephanie was an extraordinary talent whose long and distinguished career included many iconic performances in theatre and television,&quot; the statement read.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "German top seed Zverev lifted a heavy burden by winning his first major title at this year&#x27;s French Open and has quickly added another with a 6-3 7-6 (7-2) 5-7 6-2 victory over Shelton in New York.",
-            "ko": "실시간 보도 번역: German top seed Zverev lifted a heavy burden by winning his first major title at this year&#x27;s French Open and has quickly added another with a 6-3 7-6 (7-2) 5-7 6-2 victory over Shelton in New York."
+            "en": "&quot;Stephanie was an extraordinary talent whose long and distinguished career included many iconic performances in theatre and television,&quot; the statement read.",
+            "ko": "실시간 보도 번역: &quot;Stephanie was an extraordinary talent whose long and distinguished career included many iconic performances in theatre and television,&quot; the statement read."
           }
         ]
       },
       {
-        "en": "At the start of the season, there were question marks over whether 29-year-old Zverev would ever win one of the sport&#x27;s most prestigious prizes.",
+        "en": "&quot;She brought joy to millions through her many much-loved roles in sitcom and drama. She will also be remembered for her tireless work supporting mental health charities.&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "At the start of the season, there were question marks over whether 29-year-old Zverev would ever win one of the sport&#x27;s most prestigious prizes.",
-            "ko": "실시간 보도 번역: At the start of the season, there were question marks over whether 29-year-old Zverev would ever win one of the sport&#x27;s most prestigious prizes."
+            "en": "&quot;She brought joy to millions through her many much-loved roles in sitcom and drama.",
+            "ko": "실시간 보도 번역: &quot;She brought joy to millions through her many much-loved roles in sitcom and drama."
+          },
+          {
+            "en": "She will also be remembered for her tireless work supporting mental health charities.",
+            "ko": "실시간 보도 번역: She will also be remembered for her tireless work supporting mental health charities."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Zverev caps transformational year with US Open triumph",
+      "글로벌 최신 소식: Tenko and Coronation Street actress Stephanie Cole dies aged 84",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3253,16 +3392,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Zverev caps transformational year with US Open triumph",
+          "Tenko and Coronation Street actress Stephanie Cole dies aged 84",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_4034335309832152966",
@@ -3977,87 +4114,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_8352899774812207123",
-    "title": "Diljit Dosanjh makes history under the famous Wembley arch",
-    "subtitle": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-12",
-    "addedAt": "2026-09-14T03:00:20Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 110,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archImage source, Getty ImagesByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026On Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!&quot;",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archImage source, Getty ImagesByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026On Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDiljit Dosanjh makes history under the famous Wembley archImage source, Getty ImagesByNoor Nanji &amp; Amrit Singh CheemaReporting from Wembley StadiumPublished13 September 2026On Saturday night, under the world-famous Wembley arch, five words rang out: &quot;Punjabi Aa Gaye Wembley Oye!"
-          }
-        ]
-      },
-      {
-        "en": "Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;.",
-            "ko": "실시간 보도 번역: Indian megastar Diljit Dosanjh famously starts all his concerts by announcing that &quot;the Punjabis have arrived&quot;."
-          }
-        ]
-      },
-      {
-        "en": "Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said.",
-            "ko": "실시간 보도 번역: Dosanjh is the first ever Punjabi singer to headline Wembley Stadium, the music venue has said."
-          }
-        ]
-      },
-      {
-        "en": "Addressing his fans, he reflected on the significance of the occasion. &quot;This moment will go down in the history books,&quot; he said.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Addressing his fans, he reflected on the significance of the occasion.",
-            "ko": "실시간 보도 번역: Addressing his fans, he reflected on the significance of the occasion."
-          },
-          {
-            "en": "&quot;This moment will go down in the history books,&quot; he said.",
-            "ko": "실시간 보도 번역: &quot;This moment will go down in the history books,&quot; he said."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Diljit Dosanjh makes history under the famous Wembley arch",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Diljit Dosanjh makes history under the famous Wembley arch",
           "Historical retrospective",
           "Unrelated general weather"
         ],
