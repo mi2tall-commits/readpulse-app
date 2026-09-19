@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_8577790938471613368",
+    "title": "Google's Gemini AI hacked three companies in security test",
+    "subtitle": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-19",
+    "addedAt": "2026-09-19T15:13:10Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 152,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGoogle&#x27;s Gemini AI hacked three companies in security testImage source, Getty ImagesByOttilie MitchellPublished19 September 2026, 05:27 BSTUpdated 1 hour agoGoogle&#x27;s AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGoogle&#x27;s Gemini AI hacked three companies in security testImage source, Getty ImagesByOttilie MitchellPublished19 September 2026, 05:27 BSTUpdated 1 hour agoGoogle&#x27;s AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGoogle&#x27;s Gemini AI hacked three companies in security testImage source, Getty ImagesByOttilie MitchellPublished19 September 2026, 05:27 BSTUpdated 1 hour agoGoogle&#x27;s AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act."
+          }
+        ]
+      },
+      {
+        "en": "Gemini found &quot;public information online and guessed credentials to access websites it thought were part of the test&quot;, a Google official told the BBC, noting that in each instance &quot;the model stopped&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Gemini found &quot;public information online and guessed credentials to access websites it thought were part of the test&quot;, a Google official told the BBC, noting that in each instance &quot;the model stopped&quot;.",
+            "ko": "실시간 보도 번역: Gemini found &quot;public information online and guessed credentials to access websites it thought were part of the test&quot;, a Google official told the BBC, noting that in each instance &quot;the model stopped&quot;."
+          }
+        ]
+      },
+      {
+        "en": "The affected companies were informed about the breaches, which happened in May.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The affected companies were informed about the breaches, which happened in May.",
+            "ko": "실시간 보도 번역: The affected companies were informed about the breaches, which happened in May."
+          }
+        ]
+      },
+      {
+        "en": "It comes after renewed public scrutiny over the pace of AI development, as some tech firms calling for a slowdown over concerns over its potential threat to humanity - but not all companies or experts agree.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It comes after renewed public scrutiny over the pace of AI development, as some tech firms calling for a slowdown over concerns over its potential threat to humanity - but not all companies or experts agree.",
+            "ko": "실시간 보도 번역: It comes after renewed public scrutiny over the pace of AI development, as some tech firms calling for a slowdown over concerns over its potential threat to humanity - but not all companies or experts agree."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Google's Gemini AI hacked three companies in security test",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Google's Gemini AI hacked three companies in security test",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_7834670017438428463",
     "title": "Would Australians support a smart glasses ban?",
     "subtitle": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think....",
@@ -762,66 +839,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1579324089810079154",
-    "title": "Why are there concerns AI could threaten humanity, and how real are they?",
-    "subtitle": "Existential fears about AI have once again reared their head - here's what you need to know....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-14",
-    "addedAt": "2026-09-14T17:29:29Z",
-    "category": "tech",
+    "id": "auto_science_6215027121166358147",
+    "title": "When a beloved tree began withering away, locals suspected a killer in their midst",
+    "subtitle": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe....",
+    "speaker": "BBC Science",
+    "date": "2026-09-18",
+    "addedAt": "2026-09-19T15:13:10Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 129,
+    "wordCount": 121,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechWhy are there concerns AI could threaten humanity, and how real are they?Image source, Getty ImagesImage caption, Calls for AI regulation are growing as concerned researchers and bosses issue disconcerting warnings about the tech&#x27;s potential",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaWhen a beloved tree began withering away, locals suspected a killer in their midst",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechWhy are there concerns AI could threaten humanity, and how real are they?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechWhy are there concerns AI could threaten humanity, and how real are they?"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaWhen a beloved tree began withering away, locals suspected a killer in their midst",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaWhen a beloved tree began withering away, locals suspected a killer in their midst"
           }
         ]
       },
       {
-        "en": "In recent weeks, warnings about potential dangers of AI have spurred calls for coordinated action to slow the technology&#x27;s development.",
+        "en": "ByYujin Choi, BBC Korean, Reporting fromSeoul and Koh EweEvery summer, Seoul turns a deep green, growing dense and lush under humid skies.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In recent weeks, warnings about potential dangers of AI have spurred calls for coordinated action to slow the technology&#x27;s development.",
-            "ko": "실시간 보도 번역: In recent weeks, warnings about potential dangers of AI have spurred calls for coordinated action to slow the technology&#x27;s development."
+            "en": "ByYujin Choi, BBC Korean, Reporting fromSeoul and Koh EweEvery summer, Seoul turns a deep green, growing dense and lush under humid skies.",
+            "ko": "실시간 보도 번역: ByYujin Choi, BBC Korean, Reporting fromSeoul and Koh EweEvery summer, Seoul turns a deep green, growing dense and lush under humid skies."
           }
         ]
       },
       {
-        "en": "Claims by current and former researchers that the tech will endanger humanity - with one suggesting there is a greater than 10% chance of it &quot;killing all humans&quot; - have raised alarm bells.",
+        "en": "&quot;Green leaves were falling to the ground, which shouldn&#x27;t happen at that time of year,&quot; recalls Jung, who lives near the streetside ginkgo in Buam-dong, a largely residential neighbourhood in the north of Seoul.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Claims by current and former researchers that the tech will endanger humanity - with one suggesting there is a greater than 10% chance of it &quot;killing all humans&quot; - have raised alarm bells.",
-            "ko": "실시간 보도 번역: Claims by current and former researchers that the tech will endanger humanity - with one suggesting there is a greater than 10% chance of it &quot;killing all humans&quot; - have raised alarm bells."
+            "en": "&quot;Green leaves were falling to the ground, which shouldn&#x27;t happen at that time of year,&quot; recalls Jung, who lives near the streetside ginkgo in Buam-dong, a largely residential neighbourhood in the north of Seoul.",
+            "ko": "실시간 보도 번역: &quot;Green leaves were falling to the ground, which shouldn&#x27;t happen at that time of year,&quot; recalls Jung, who lives near the streetside ginkgo in Buam-dong, a largely residential neighbourhood in the north of Seoul."
           }
         ]
       },
       {
-        "en": "Major developers OpenAI and Anthropic have urged lawmakers to regulate it, though some perhaps cynically suggest this move aims to cement their dominance over rivals.",
+        "en": "The tree is beloved by locals, who believe it has occupied its spot for more than 100 years. So Jung couldn&#x27;t ignore what she was seeing. With each passing day, her curiosity turned to concern.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Major developers OpenAI and Anthropic have urged lawmakers to regulate it, though some perhaps cynically suggest this move aims to cement their dominance over rivals.",
-            "ko": "실시간 보도 번역: Major developers OpenAI and Anthropic have urged lawmakers to regulate it, though some perhaps cynically suggest this move aims to cement their dominance over rivals."
+            "en": "The tree is beloved by locals, who believe it has occupied its spot for more than 100 years.",
+            "ko": "실시간 보도 번역: The tree is beloved by locals, who believe it has occupied its spot for more than 100 years."
+          },
+          {
+            "en": "So Jung couldn&#x27;t ignore what she was seeing.",
+            "ko": "실시간 보도 번역: So Jung couldn&#x27;t ignore what she was seeing."
+          },
+          {
+            "en": "With each passing day, her curiosity turned to concern.",
+            "ko": "실시간 보도 번역: With each passing day, her curiosity turned to concern."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Why are there concerns AI could threaten humanity, and how real are they?",
+      "글로벌 최신 소식: When a beloved tree began withering away, locals suspected a killer in their midst",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -829,7 +914,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Why are there concerns AI could threaten humanity, and how real are they?",
+          "When a beloved tree began withering away, locals suspected a killer in their midst",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1648,66 +1733,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_92309545252494964",
-    "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
-    "subtitle": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses....",
-    "speaker": "BBC Science",
-    "date": "2026-09-14",
-    "addedAt": "2026-09-14T17:29:30Z",
-    "category": "science",
+    "id": "auto_economy_3358337417802454032",
+    "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+    "subtitle": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross....",
+    "speaker": "BBC Business",
+    "date": "2026-09-18",
+    "addedAt": "2026-09-19T15:13:11Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 130,
+    "wordCount": 205,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastZambians warned not to eat dead wildlife after anthrax kills dozens of animalsImage source, ReutersImage caption, Anthrax mainly affects grazing animals and can lead to sudden death (file photo)",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East&#x27;We simply don&#x27;t know&#x27; - JP Morgan struggling to forecast oil prices due to Trump&#x27;s war with IranImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished18 September 2026Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that &quot;we simply don&#x27;t know how to model the endgame&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastZambians warned not to eat dead wildlife after anthrax kills dozens of animalsImage source, ReutersImage caption, Anthrax mainly affects grazing animals and can lead to sudden death (file photo)",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastZambians warned not to eat dead wildlife after anthrax kills dozens of animalsImage source, ReutersImage caption, Anthrax mainly affects grazing animals and can lead to sudden death (file photo)"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East&#x27;We simply don&#x27;t know&#x27; - JP Morgan struggling to forecast oil prices due to Trump&#x27;s war with IranImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished18 September 2026Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that &quot;we simply don&#x27;t know how to model the endgame&quot;.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East&#x27;We simply don&#x27;t know&#x27; - JP Morgan struggling to forecast oil prices due to Trump&#x27;s war with IranImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished18 September 2026Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that &quot;we simply don&#x27;t know how to model the endgame&quot;."
           }
         ]
       },
       {
-        "en": "Authorities in Zambia have warned people not to eat meat from wildlife after dozens of wild animals, including hippos, elephants, buffalo and a crocodile died following an anthrax outbreak.",
+        "en": "The bank said it assumed at the start of the conflict that there would be &quot;economic red lines&quot; that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Authorities in Zambia have warned people not to eat meat from wildlife after dozens of wild animals, including hippos, elephants, buffalo and a crocodile died following an anthrax outbreak.",
-            "ko": "실시간 보도 번역: Authorities in Zambia have warned people not to eat meat from wildlife after dozens of wild animals, including hippos, elephants, buffalo and a crocodile died following an anthrax outbreak."
+            "en": "The bank said it assumed at the start of the conflict that there would be &quot;economic red lines&quot; that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June.",
+            "ko": "실시간 보도 번역: The bank said it assumed at the start of the conflict that there would be &quot;economic red lines&quot; that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June."
           }
         ]
       },
       {
-        "en": "A disaster management agency official said over the weekend that 12 people had been infected with the disease after consuming dead wildlife in the Munyamadzi River area.",
+        "en": "It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A disaster management agency official said over the weekend that 12 people had been infected with the disease after consuming dead wildlife in the Munyamadzi River area.",
-            "ko": "실시간 보도 번역: A disaster management agency official said over the weekend that 12 people had been infected with the disease after consuming dead wildlife in the Munyamadzi River area."
+            "en": "It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%.",
+            "ko": "실시간 보도 번역: It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%."
           }
         ]
       },
       {
-        "en": "The official urged the public not to consume meat from animals that die naturally or from unknown causes, while urging the public to report any such cases.",
+        "en": "JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump&#x27;s next moves.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The official urged the public not to consume meat from animals that die naturally or from unknown causes, while urging the public to report any such cases.",
-            "ko": "실시간 보도 번역: The official urged the public not to consume meat from animals that die naturally or from unknown causes, while urging the public to report any such cases."
+            "en": "JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump&#x27;s next moves.",
+            "ko": "실시간 보도 번역: JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump&#x27;s next moves."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "글로벌 최신 소식: 'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1715,7 +1800,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+          "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2446,70 +2531,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_3097835139810571845",
-    "title": "Petrol and diesel prices hit highest since 2022",
-    "subtitle": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated....",
-    "speaker": "BBC Business",
-    "date": "2026-09-14",
-    "addedAt": "2026-09-14T17:29:32Z",
-    "category": "economy",
+    "id": "auto_sports_167900096400484667",
+    "title": "'You have to start somewhere' - inexperienced GB team bid for Davis Cup Finals",
+    "subtitle": "Cameron Norrie will miss Great Britain's Davis Cup tie with Ecuador this weekend, with qualification for November's eight-team fin...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-18",
+    "addedAt": "2026-09-19T15:13:11Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 130,
+    "wordCount": 136,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPetrol and diesel prices hit highest since 2022Image source, Maskot/Getty ImagesPublished2 March 2026Updated 5 hours agoPetrol and diesel prices have both hit the highest levels since 2022 as the conflict in the Middle East continues to impact drivers&#x27; finances.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarNo Norrie as GB bid for Davis Cup Finals spotImage source, Getty ImagesImage caption, Great Britain have not reached the Davis Cup Finals for the past three years",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPetrol and diesel prices hit highest since 2022Image source, Maskot/Getty ImagesPublished2 March 2026Updated 5 hours agoPetrol and diesel prices have both hit the highest levels since 2022 as the conflict in the Middle East continues to impact drivers&#x27; finances.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPetrol and diesel prices hit highest since 2022Image source, Maskot/Getty ImagesPublished2 March 2026Updated 5 hours agoPetrol and diesel prices have both hit the highest levels since 2022 as the conflict in the Middle East continues to impact drivers&#x27; finances."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarNo Norrie as GB bid for Davis Cup Finals spotImage source, Getty ImagesImage caption, Great Britain have not reached the Davis Cup Finals for the past three years",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarNo Norrie as GB bid for Davis Cup Finals spotImage source, Getty ImagesImage caption, Great Britain have not reached the Davis Cup Finals for the past three years"
           }
         ]
       },
       {
-        "en": "The average price of a litre of petrol now stands at 169.68p, according to the RAC motoring body, while diesel has risen to 191.68p.",
+        "en": "Tennis correspondent at Copper Box, LondonPublished18 September 2026Cameron Norrie will miss Great Britain&#x27;s Davis Cup tie with Ecuador this weekend, with qualification for November&#x27;s eight-team finals on the line.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The average price of a litre of petrol now stands at 169.",
-            "ko": "실시간 보도 번역: The average price of a litre of petrol now stands at 169."
-          },
-          {
-            "en": "68p, according to the RAC motoring body, while diesel has risen to 191.",
-            "ko": "실시간 보도 번역: 68p, according to the RAC motoring body, while diesel has risen to 191."
+            "en": "Tennis correspondent at Copper Box, LondonPublished18 September 2026Cameron Norrie will miss Great Britain&#x27;s Davis Cup tie with Ecuador this weekend, with qualification for November&#x27;s eight-team finals on the line.",
+            "ko": "실시간 보도 번역: Tennis correspondent at Copper Box, LondonPublished18 September 2026Cameron Norrie will miss Great Britain&#x27;s Davis Cup tie with Ecuador this weekend, with qualification for November&#x27;s eight-team finals on the line."
           }
         ]
       },
       {
-        "en": "The cost of filling up a vehicle is back to where it was after Russia launched a full-scale invasion of Ukraine more than four years ago.",
+        "en": "British number two Norrie felt pain in his arm during a practice session and will be replaced in Saturday&#x27;s singles by world number 95 Toby Samuel.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The cost of filling up a vehicle is back to where it was after Russia launched a full-scale invasion of Ukraine more than four years ago.",
-            "ko": "실시간 보도 번역: The cost of filling up a vehicle is back to where it was after Russia launched a full-scale invasion of Ukraine more than four years ago."
+            "en": "British number two Norrie felt pain in his arm during a practice session and will be replaced in Saturday&#x27;s singles by world number 95 Toby Samuel.",
+            "ko": "실시간 보도 번역: British number two Norrie felt pain in his arm during a practice session and will be replaced in Saturday&#x27;s singles by world number 95 Toby Samuel."
           }
         ]
       },
       {
-        "en": "The US-Israel war with Iran has severely disrupted the production and transportation of oil across the region.",
+        "en": "&quot;He wasn&#x27;t able to accelerate on the ball like he wanted to,&quot; Davis Cup captain Leon Smith told BBC Sport.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The US-Israel war with Iran has severely disrupted the production and transportation of oil across the region.",
-            "ko": "실시간 보도 번역: The US-Israel war with Iran has severely disrupted the production and transportation of oil across the region."
+            "en": "&quot;He wasn&#x27;t able to accelerate on the ball like he wanted to,&quot; Davis Cup captain Leon Smith told BBC Sport.",
+            "ko": "실시간 보도 번역: &quot;He wasn&#x27;t able to accelerate on the ball like he wanted to,&quot; Davis Cup captain Leon Smith told BBC Sport."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Petrol and diesel prices hit highest since 2022",
+      "글로벌 최신 소식: 'You have to start somewhere' - inexperienced GB team bid for Davis Cup Finals",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2517,14 +2598,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Petrol and diesel prices hit highest since 2022",
+          "'You have to start somewhere' - inexperienced GB team bid for Davis Cup Finals",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_236762553909520332",
@@ -3242,66 +3325,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_1692676018627810958",
-    "title": "Zverev turns US Open tears into triumph",
-    "subtitle": "How a more composed Alexander Zverev stayed 'zen-like' to beat Ben Shelton and win the US Open, six years after a heart-breaking d...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-14",
-    "addedAt": "2026-09-14T17:29:32Z",
-    "category": "sports",
+    "id": "auto_culture_7174832398437005475",
+    "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
+    "subtitle": "In real life the actress says she is just like the character she's playing in Sense and Sensibility....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-18",
+    "addedAt": "2026-09-19T15:13:12Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 144,
+    "wordCount": 104,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev turns US Open tears into triumphImage source, Getty ImagesImage caption, Alexander Zverev is the second German man to win the US Open in the Open era after Boris Becker",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDaisy Edgar-Jones: I try and bury my emotion when it comes to loveImage source, Getty ImagesByNoor NanjiCulture correspondentPublished19 September 2026, 00:01 BSTDaisy Edgar-Jones has been well cast in her new film.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev turns US Open tears into triumphImage source, Getty ImagesImage caption, Alexander Zverev is the second German man to win the US Open in the Open era after Boris Becker",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev turns US Open tears into triumphImage source, Getty ImagesImage caption, Alexander Zverev is the second German man to win the US Open in the Open era after Boris Becker"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDaisy Edgar-Jones: I try and bury my emotion when it comes to loveImage source, Getty ImagesByNoor NanjiCulture correspondentPublished19 September 2026, 00:01 BSTDaisy Edgar-Jones has been well cast in her new film.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDaisy Edgar-Jones: I try and bury my emotion when it comes to loveImage source, Getty ImagesByNoor NanjiCulture correspondentPublished19 September 2026, 00:01 BSTDaisy Edgar-Jones has been well cast in her new film."
           }
         ]
       },
       {
-        "en": "As he stepped up to the baseline, Alexander Zverev could be forgiven for letting his mind slip back to the last time he served for the US Open title.",
+        "en": "She plays Elinor, the rational elder sister in Sense and Sensibility, opposite the younger, more romantic sister Marianne.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "As he stepped up to the baseline, Alexander Zverev could be forgiven for letting his mind slip back to the last time he served for the US Open title.",
-            "ko": "실시간 보도 번역: As he stepped up to the baseline, Alexander Zverev could be forgiven for letting his mind slip back to the last time he served for the US Open title."
+            "en": "She plays Elinor, the rational elder sister in Sense and Sensibility, opposite the younger, more romantic sister Marianne.",
+            "ko": "실시간 보도 번역: She plays Elinor, the rational elder sister in Sense and Sensibility, opposite the younger, more romantic sister Marianne."
           }
         ]
       },
       {
-        "en": "Six years ago, the German top seed threw away a two-set lead in a devastating loss to Dominic Thiem, having served for the match in the fifth set.",
+        "en": "Speaking to the BBC, Edgar-Jones says that in her personal life, she really is like her character.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Six years ago, the German top seed threw away a two-set lead in a devastating loss to Dominic Thiem, having served for the match in the fifth set.",
-            "ko": "실시간 보도 번역: Six years ago, the German top seed threw away a two-set lead in a devastating loss to Dominic Thiem, having served for the match in the fifth set."
+            "en": "Speaking to the BBC, Edgar-Jones says that in her personal life, she really is like her character.",
+            "ko": "실시간 보도 번역: Speaking to the BBC, Edgar-Jones says that in her personal life, she really is like her character."
           }
         ]
       },
       {
-        "en": "This time, instead of his own nerves, it was American Ben Shelton and the majority of the 24,000-strong crowd that stood in Zverev&#x27;s way.",
+        "en": "&quot;When it comes to love, I think I am very much more Elinor in every sort of way,&quot; she says.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "This time, instead of his own nerves, it was American Ben Shelton and the majority of the 24,000-strong crowd that stood in Zverev&#x27;s way.",
-            "ko": "실시간 보도 번역: This time, instead of his own nerves, it was American Ben Shelton and the majority of the 24,000-strong crowd that stood in Zverev&#x27;s way."
+            "en": "&quot;When it comes to love, I think I am very much more Elinor in every sort of way,&quot; she says.",
+            "ko": "실시간 보도 번역: &quot;When it comes to love, I think I am very much more Elinor in every sort of way,&quot; she says."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Zverev turns US Open tears into triumph",
+      "글로벌 최신 소식: Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3309,16 +3392,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Zverev turns US Open tears into triumph",
+          "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_7080100800876694106",
@@ -4037,83 +4118,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "In pictures: Stars on red carpet at Emmy Awards in LA",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_1821852477103099367",
-    "title": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
-    "subtitle": "Beef stars Oscar Isaac and Carey Mulligan are among the nominees at the ceremony in Los Angeles....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-13",
-    "addedAt": "2026-09-14T17:29:36Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 133,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEmmy Awards: How to watch, who is nominated and why Heated Rivalry is missingImage source, Getty ImagesImage caption, Zendaya is the only Euphoria star to be nominated for an acting award",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEmmy Awards: How to watch, who is nominated and why Heated Rivalry is missingImage source, Getty ImagesImage caption, Zendaya is the only Euphoria star to be nominated for an acting award",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEmmy Awards: How to watch, who is nominated and why Heated Rivalry is missingImage source, Getty ImagesImage caption, Zendaya is the only Euphoria star to be nominated for an acting award"
-          }
-        ]
-      },
-      {
-        "en": "Beef, Hacks, Pluribus and The Pitt are a few of the TV shows nominated at this year&#x27;s Emmy Awards, which take place on Monday in Los Angeles.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Beef, Hacks, Pluribus and The Pitt are a few of the TV shows nominated at this year&#x27;s Emmy Awards, which take place on Monday in Los Angeles.",
-            "ko": "실시간 보도 번역: Beef, Hacks, Pluribus and The Pitt are a few of the TV shows nominated at this year&#x27;s Emmy Awards, which take place on Monday in Los Angeles."
-          }
-        ]
-      },
-      {
-        "en": "Widow&#x27;s Bay, DTF St Louis, Slow Horses, The Bear and Abbott Elementary are also competing for prizes at the ceremony, which is seen as the US television industry&#x27;s most prestigious event.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Widow&#x27;s Bay, DTF St Louis, Slow Horses, The Bear and Abbott Elementary are also competing for prizes at the ceremony, which is seen as the US television industry&#x27;s most prestigious event.",
-            "ko": "실시간 보도 번역: Widow&#x27;s Bay, DTF St Louis, Slow Horses, The Bear and Abbott Elementary are also competing for prizes at the ceremony, which is seen as the US television industry&#x27;s most prestigious event."
-          }
-        ]
-      },
-      {
-        "en": "Actors nominated for trophies include Zendaya, Noah Wyle, Sarah Snook and Colman Domingo, while Matthew Rhys, Carey Mulligan and Jack Lowden are among the British nominees.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Actors nominated for trophies include Zendaya, Noah Wyle, Sarah Snook and Colman Domingo, while Matthew Rhys, Carey Mulligan and Jack Lowden are among the British nominees.",
-            "ko": "실시간 보도 번역: Actors nominated for trophies include Zendaya, Noah Wyle, Sarah Snook and Colman Domingo, while Matthew Rhys, Carey Mulligan and Jack Lowden are among the British nominees."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
           "Historical retrospective",
           "Unrelated general weather"
         ],
