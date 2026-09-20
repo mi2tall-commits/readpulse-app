@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_5444682512540433940",
+    "title": "Not all AI workers think the tech could kill everyone",
+    "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-19",
+    "addedAt": "2026-09-20T03:00:38Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 147,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished3 hours agoNot all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished3 hours agoNot all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished3 hours agoNot all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity."
+          }
+        ]
+      },
+      {
+        "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+            "ko": "실시간 보도 번역: In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse."
+          }
+        ]
+      },
+      {
+        "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+            "ko": "실시간 보도 번역: &quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry."
+          }
+        ]
+      },
+      {
+        "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+            "ko": "실시간 보도 번역: While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Not all AI workers think the tech could kill everyone",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Not all AI workers think the tech could kill everyone",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_8577790938471613368",
     "title": "Google's Gemini AI hacked three companies in security test",
     "subtitle": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC....",
@@ -762,66 +839,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_4889364691183608982",
-    "title": "Pubs in England and Wales to allow digital ID apps to prove age",
-    "subtitle": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-14",
-    "addedAt": "2026-09-15T03:02:48Z",
-    "category": "tech",
+    "id": "auto_science_205854365466816286",
+    "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+    "subtitle": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent tech...",
+    "speaker": "BBC Science",
+    "date": "2026-09-19",
+    "addedAt": "2026-09-20T03:00:39Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 148,
+    "wordCount": 174,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatPubs in England and Wales to allow digital ID apps to prove ageImage source, Getty ImagesByChris VallanceSenior technology reporterPublished3 hours agoAlcohol buyers will be able to use a digital ID app on their phones to prove their age under new rules introduced on Tuesday.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished5 hours agoUS President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatPubs in England and Wales to allow digital ID apps to prove ageImage source, Getty ImagesByChris VallanceSenior technology reporterPublished3 hours agoAlcohol buyers will be able to use a digital ID app on their phones to prove their age under new rules introduced on Tuesday.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatPubs in England and Wales to allow digital ID apps to prove ageImage source, Getty ImagesByChris VallanceSenior technology reporterPublished3 hours agoAlcohol buyers will be able to use a digital ID app on their phones to prove their age under new rules introduced on Tuesday."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished5 hours agoUS President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished5 hours agoUS President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology."
           }
         ]
       },
       {
-        "en": "Pubs and shops in England and Wales can use the tech in addition to current physical forms of ID - with the government saying a digital option will make age-checks quicker and more secure for customers and staff.",
+        "en": "In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Pubs and shops in England and Wales can use the tech in addition to current physical forms of ID - with the government saying a digital option will make age-checks quicker and more secure for customers and staff.",
-            "ko": "실시간 보도 번역: Pubs and shops in England and Wales can use the tech in addition to current physical forms of ID - with the government saying a digital option will make age-checks quicker and more secure for customers and staff."
+            "en": "In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.",
+            "ko": "실시간 보도 번역: In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place."
           }
         ]
       },
       {
-        "en": "Customers will be able to choose ID apps from a range of suppliers such as the Post Office, Yoti or Luciditi, provided they are on a government-approved list.",
+        "en": "His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Customers will be able to choose ID apps from a range of suppliers such as the Post Office, Yoti or Luciditi, provided they are on a government-approved list.",
-            "ko": "실시간 보도 번역: Customers will be able to choose ID apps from a range of suppliers such as the Post Office, Yoti or Luciditi, provided they are on a government-approved list."
+            "en": "His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development.",
+            "ko": "실시간 보도 번역: His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development."
           }
         ]
       },
       {
-        "en": "The change means businesses will no longer be required to let people use physical ID, but the government contends most establishments would.",
+        "en": "Published3 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The change means businesses will no longer be required to let people use physical ID, but the government contends most establishments would.",
-            "ko": "실시간 보도 번역: The change means businesses will no longer be required to let people use physical ID, but the government contends most establishments would."
+            "en": "Published3 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI.",
+            "ko": "실시간 보도 번역: Published3 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Pubs in England and Wales to allow digital ID apps to prove age",
+      "글로벌 최신 소식: Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -829,7 +906,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Pubs in England and Wales to allow digital ID apps to prove age",
+          "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1612,110 +1689,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_1231599758863847857",
-    "title": "Mass nesting brings swarms of turtles to Mexican beach",
-    "subtitle": "Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said....",
-    "speaker": "BBC Science",
-    "date": "2026-09-15",
-    "addedAt": "2026-09-15T03:02:48Z",
-    "category": "science",
+    "id": "auto_economy_9194752777807633228",
+    "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+    "subtitle": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross....",
+    "speaker": "BBC Business",
+    "date": "2026-09-18",
+    "addedAt": "2026-09-20T03:00:40Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 130,
+    "wordCount": 205,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Mass nesting brings swarms of turtles to Mexican beach\",\"description\":\"Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0p9n3hz.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0p9n3hz.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0p9n3hz.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0p9n3hz.jpg\"],\"uploadDate\":\"2026-09-15T01:08:55.342Z\",\"duration\":\"PT30S\"}Mass nesting brings swarms of turtles to Mexican beachTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East&#x27;We simply don&#x27;t know&#x27; - JP Morgan struggling to forecast oil prices due to Trump&#x27;s war with IranImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished18 September 2026Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that &quot;we simply don&#x27;t know how to model the endgame&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East{\"@context\":\"https://schema.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East{\"@context\":\"https://schema."
-          },
-          {
-            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Mass nesting brings swarms of turtles to Mexican beach\",\"description\":\"Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.",
-            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Mass nesting brings swarms of turtles to Mexican beach\",\"description\":\"Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said."
-          },
-          {
-            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
-            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1920/galileo/p0p9n3hz.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0p9n3hz."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1248/galileo/p0p9n3hz.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0p9n3hz."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/688/galileo/p0p9n3hz.",
-            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0p9n3hz."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/400/galileo/p0p9n3hz.",
-            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0p9n3hz."
-          },
-          {
-            "en": "jpg\"],\"uploadDate\":\"2026-09-15T01:08:55.",
-            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-15T01:08:55."
-          },
-          {
-            "en": "342Z\",\"duration\":\"PT30S\"}Mass nesting brings swarms of turtles to Mexican beachTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: 342Z\",\"duration\":\"PT30S\"}Mass nesting brings swarms of turtles to Mexican beachTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East&#x27;We simply don&#x27;t know&#x27; - JP Morgan struggling to forecast oil prices due to Trump&#x27;s war with IranImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished18 September 2026Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that &quot;we simply don&#x27;t know how to model the endgame&quot;.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East&#x27;We simply don&#x27;t know&#x27; - JP Morgan struggling to forecast oil prices due to Trump&#x27;s war with IranImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished18 September 2026Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that &quot;we simply don&#x27;t know how to model the endgame&quot;."
           }
         ]
       },
       {
-        "en": "CloseThousands of olive ridley turtles came to La Escobilla beach in Oaxaca, Mexico, to lay their eggs within 48 hours, according to sanctuary officials.",
+        "en": "The bank said it assumed at the start of the conflict that there would be &quot;economic red lines&quot; that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "CloseThousands of olive ridley turtles came to La Escobilla beach in Oaxaca, Mexico, to lay their eggs within 48 hours, according to sanctuary officials.",
-            "ko": "실시간 보도 번역: CloseThousands of olive ridley turtles came to La Escobilla beach in Oaxaca, Mexico, to lay their eggs within 48 hours, according to sanctuary officials."
+            "en": "The bank said it assumed at the start of the conflict that there would be &quot;economic red lines&quot; that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June.",
+            "ko": "실시간 보도 번역: The bank said it assumed at the start of the conflict that there would be &quot;economic red lines&quot; that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June."
           }
         ]
       },
       {
-        "en": "The natural phenomenon is known as &quot;la arribada&quot;, meaning &quot;the arrival&quot;, and sees hundreds of thousands of the amphibians swim ashore in southern Mexico.",
+        "en": "It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The natural phenomenon is known as &quot;la arribada&quot;, meaning &quot;the arrival&quot;, and sees hundreds of thousands of the amphibians swim ashore in southern Mexico.",
-            "ko": "실시간 보도 번역: The natural phenomenon is known as &quot;la arribada&quot;, meaning &quot;the arrival&quot;, and sees hundreds of thousands of the amphibians swim ashore in southern Mexico."
+            "en": "It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%.",
+            "ko": "실시간 보도 번역: It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%."
           }
         ]
       },
       {
-        "en": "This is the sixth wave of the creatures in the nesting season, which started in March.",
+        "en": "JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump&#x27;s next moves.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "This is the sixth wave of the creatures in the nesting season, which started in March.",
-            "ko": "실시간 보도 번역: This is the sixth wave of the creatures in the nesting season, which started in March."
+            "en": "JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump&#x27;s next moves.",
+            "ko": "실시간 보도 번역: JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump&#x27;s next moves."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Mass nesting brings swarms of turtles to Mexican beach",
+      "글로벌 최신 소식: 'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1723,7 +1756,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Mass nesting brings swarms of turtles to Mexican beach",
+          "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2454,66 +2487,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_5138433281111162635",
-    "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-    "subtitle": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement....",
-    "speaker": "BBC Business",
-    "date": "2026-09-15",
-    "addedAt": "2026-09-15T03:02:48Z",
-    "category": "economy",
+    "id": "auto_sports_6734665866881584858",
+    "title": "GB's Samuel 'caught off guard' on winning Davis Cup debut",
+    "subtitle": "Toby Samuel and Arthur Fery get Britain off to a winning start in their Davis Cup qualifying tie against Ecuador....",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-19",
+    "addedAt": "2026-09-20T03:00:40Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 128,
+    "wordCount": 149,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI &#x27;kill switch&#x27; may need to be mandatory, Anthropic co-founder tells BBCTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel &#x27;caught off guard&#x27; on winning Davis Cup debutImage source, Getty ImagesImage caption, Toby Samuel was making his Davis Cup debut",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI &#x27;kill switch&#x27; may need to be mandatory, Anthropic co-founder tells BBCTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI &#x27;kill switch&#x27; may need to be mandatory, Anthropic co-founder tells BBCTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel &#x27;caught off guard&#x27; on winning Davis Cup debutImage source, Getty ImagesImage caption, Toby Samuel was making his Davis Cup debut",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel &#x27;caught off guard&#x27; on winning Davis Cup debutImage source, Getty ImagesImage caption, Toby Samuel was making his Davis Cup debut"
           }
         ]
       },
       {
-        "en": "AI &quot;more powerful by the day&quot;, Anthropic co-founder tells BBC",
+        "en": "Toby Samuel says he was &quot;caught off guard&quot; about how much his Davis Cup debut meant to him as he got Great Britain off to a winning start in their qualifying tie against Ecuador.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "AI &quot;more powerful by the day&quot;, Anthropic co-founder tells BBC",
-            "ko": "실시간 보도 번역: AI &quot;more powerful by the day&quot;, Anthropic co-founder tells BBC"
+            "en": "Toby Samuel says he was &quot;caught off guard&quot; about how much his Davis Cup debut meant to him as he got Great Britain off to a winning start in their qualifying tie against Ecuador.",
+            "ko": "실시간 보도 번역: Toby Samuel says he was &quot;caught off guard&quot; about how much his Davis Cup debut meant to him as he got Great Britain off to a winning start in their qualifying tie against Ecuador."
           }
         ]
       },
       {
-        "en": "An artificial intelligence &quot;kill switch&quot; which can be checked by a third party may need to be mandatory for companies, a co-founder of one of the world&#x27;s largest AI firms has told the BBC.",
+        "en": "The 24-year-old overcame nerves to fight back from a set down against Andres Andrade and put the hosts in front at London&#x27;s sold-out Copper Box Arena.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "An artificial intelligence &quot;kill switch&quot; which can be checked by a third party may need to be mandatory for companies, a co-founder of one of the world&#x27;s largest AI firms has told the BBC.",
-            "ko": "실시간 보도 번역: An artificial intelligence &quot;kill switch&quot; which can be checked by a third party may need to be mandatory for companies, a co-founder of one of the world&#x27;s largest AI firms has told the BBC."
+            "en": "The 24-year-old overcame nerves to fight back from a set down against Andres Andrade and put the hosts in front at London&#x27;s sold-out Copper Box Arena.",
+            "ko": "실시간 보도 번역: The 24-year-old overcame nerves to fight back from a set down against Andres Andrade and put the hosts in front at London&#x27;s sold-out Copper Box Arena."
           }
         ]
       },
       {
-        "en": "Jack Clark, one of seven founders of Anthropic, said a way of shutting off AI software completely if it gets too dangerous was something society &quot;might want to eventually pass rules around&quot;.",
+        "en": "Team-mate Arthur Fery, playing on home soil for the first time since his astonishing run to the Wimbledon semi-finals, then gave Britain a 2-0 lead with a commanding 7-5 6-0 win over Alvaro Guillen Meza.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Jack Clark, one of seven founders of Anthropic, said a way of shutting off AI software completely if it gets too dangerous was something society &quot;might want to eventually pass rules around&quot;.",
-            "ko": "실시간 보도 번역: Jack Clark, one of seven founders of Anthropic, said a way of shutting off AI software completely if it gets too dangerous was something society &quot;might want to eventually pass rules around&quot;."
+            "en": "Team-mate Arthur Fery, playing on home soil for the first time since his astonishing run to the Wimbledon semi-finals, then gave Britain a 2-0 lead with a commanding 7-5 6-0 win over Alvaro Guillen Meza.",
+            "ko": "실시간 보도 번역: Team-mate Arthur Fery, playing on home soil for the first time since his astonishing run to the Wimbledon semi-finals, then gave Britain a 2-0 lead with a commanding 7-5 6-0 win over Alvaro Guillen Meza."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "글로벌 최신 소식: GB's Samuel 'caught off guard' on winning Davis Cup debut",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2521,14 +2554,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+          "GB's Samuel 'caught off guard' on winning Davis Cup debut",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_167900096400484667",
@@ -3246,66 +3281,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_2887979529471664674",
-    "title": "From Challenger Tour to Davis Cup - GB's Samuel on 'surreal' year",
-    "subtitle": "Briton Toby Samuel is to make his Davis Cup debut for Great Britain after what he calls a \"surreal\" 12 months....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-14",
-    "addedAt": "2026-09-15T03:02:49Z",
-    "category": "sports",
+    "id": "auto_culture_5511896887748411757",
+    "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
+    "subtitle": "In real life the actress says she is just like the character she's playing in Sense and Sensibility....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-18",
+    "addedAt": "2026-09-20T03:00:42Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 172,
+    "wordCount": 102,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel to make Davis Cup debut after &#x27;surreal&#x27; yearImage source, Getty ImagesImage caption, Toby Samuel made his US Open debut last month, his third Grand Slam appearance this year",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDaisy Edgar-Jones: I try and bury my emotion when it comes to loveImage source, Getty ImagesByNoor NanjiCulture correspondentPublished19 September 2026Daisy Edgar-Jones has been well cast in her new film.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel to make Davis Cup debut after &#x27;surreal&#x27; yearImage source, Getty ImagesImage caption, Toby Samuel made his US Open debut last month, his third Grand Slam appearance this year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel to make Davis Cup debut after &#x27;surreal&#x27; yearImage source, Getty ImagesImage caption, Toby Samuel made his US Open debut last month, his third Grand Slam appearance this year"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDaisy Edgar-Jones: I try and bury my emotion when it comes to loveImage source, Getty ImagesByNoor NanjiCulture correspondentPublished19 September 2026Daisy Edgar-Jones has been well cast in her new film.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDaisy Edgar-Jones: I try and bury my emotion when it comes to loveImage source, Getty ImagesByNoor NanjiCulture correspondentPublished19 September 2026Daisy Edgar-Jones has been well cast in her new film."
           }
         ]
       },
       {
-        "en": "Toby Samuel says it was &quot;one of the best moments in my life&quot; when he was selected in Great Britain&#x27;s Davis Cup team to face Ecuador this weekend after a breakthrough year.",
+        "en": "She plays Elinor, the rational elder sister in Sense and Sensibility, opposite the younger, more romantic sister Marianne.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Toby Samuel says it was &quot;one of the best moments in my life&quot; when he was selected in Great Britain&#x27;s Davis Cup team to face Ecuador this weekend after a breakthrough year.",
-            "ko": "실시간 보도 번역: Toby Samuel says it was &quot;one of the best moments in my life&quot; when he was selected in Great Britain&#x27;s Davis Cup team to face Ecuador this weekend after a breakthrough year."
+            "en": "She plays Elinor, the rational elder sister in Sense and Sensibility, opposite the younger, more romantic sister Marianne.",
+            "ko": "실시간 보도 번역: She plays Elinor, the rational elder sister in Sense and Sensibility, opposite the younger, more romantic sister Marianne."
           }
         ]
       },
       {
-        "en": "The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams.",
+        "en": "Speaking to the BBC, Edgar-Jones says that in her personal life, she really is like her character.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams.",
-            "ko": "실시간 보도 번역: The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams."
+            "en": "Speaking to the BBC, Edgar-Jones says that in her personal life, she really is like her character.",
+            "ko": "실시간 보도 번역: Speaking to the BBC, Edgar-Jones says that in her personal life, she really is like her character."
           }
         ]
       },
       {
-        "en": "&quot;It&#x27;s surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I&#x27;m sat here ready to play the Davis Cup - it&#x27;s crazy,&quot; he told BBC Points West.",
+        "en": "&quot;When it comes to love, I think I am very much more Elinor in every sort of way,&quot; she says.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;It&#x27;s surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I&#x27;m sat here ready to play the Davis Cup - it&#x27;s crazy,&quot; he told BBC Points West.",
-            "ko": "실시간 보도 번역: &quot;It&#x27;s surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I&#x27;m sat here ready to play the Davis Cup - it&#x27;s crazy,&quot; he told BBC Points West."
+            "en": "&quot;When it comes to love, I think I am very much more Elinor in every sort of way,&quot; she says.",
+            "ko": "실시간 보도 번역: &quot;When it comes to love, I think I am very much more Elinor in every sort of way,&quot; she says."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: From Challenger Tour to Davis Cup - GB's Samuel on 'surreal' year",
+      "글로벌 최신 소식: Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3313,16 +3348,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "From Challenger Tour to Davis Cup - GB's Samuel on 'surreal' year",
+          "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_7174832398437005475",
@@ -4041,83 +4074,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Five things you may not know about Emmy history-maker Matthew Rhys",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_6785963234234341578",
-    "title": "In pictures: Stars on red carpet at Emmy Awards in LA",
-    "subtitle": "The biggest night in the US TV calendar is taking place, and stars are on the Emmy Awards red carpet....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-15",
-    "addedAt": "2026-09-15T03:02:49Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 104,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsIn pictures: Stars on red carpet at Emmy Awards in LAImage source, ReutersImage caption, Zendaya was in the running for her third Emmy win for best actress in a drama series for Euphoria",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsIn pictures: Stars on red carpet at Emmy Awards in LAImage source, ReutersImage caption, Zendaya was in the running for her third Emmy win for best actress in a drama series for Euphoria",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsIn pictures: Stars on red carpet at Emmy Awards in LAImage source, ReutersImage caption, Zendaya was in the running for her third Emmy win for best actress in a drama series for Euphoria"
-          }
-        ]
-      },
-      {
-        "en": "The biggest night in the US TV calendar has taken place in Los Angeles, recognising the hottest shows of the past year.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The biggest night in the US TV calendar has taken place in Los Angeles, recognising the hottest shows of the past year.",
-            "ko": "실시간 보도 번역: The biggest night in the US TV calendar has taken place in Los Angeles, recognising the hottest shows of the past year."
-          }
-        ]
-      },
-      {
-        "en": "Stars walked a blue version of the traditional red carpet ahead of the Emmy Awards ceremony at the Peacock Theater.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Stars walked a blue version of the traditional red carpet ahead of the Emmy Awards ceremony at the Peacock Theater.",
-            "ko": "실시간 보도 번역: Stars walked a blue version of the traditional red carpet ahead of the Emmy Awards ceremony at the Peacock Theater."
-          }
-        ]
-      },
-      {
-        "en": "Image source, EPAImage caption, Zendaya wore a floor-length jewelled Prada gown",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Image source, EPAImage caption, Zendaya wore a floor-length jewelled Prada gown",
-            "ko": "실시간 보도 번역: Image source, EPAImage caption, Zendaya wore a floor-length jewelled Prada gown"
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: In pictures: Stars on red carpet at Emmy Awards in LA",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "In pictures: Stars on red carpet at Emmy Awards in LA",
           "Historical retrospective",
           "Unrelated general weather"
         ],
