@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_6366172648681155020",
+    "title": "Not all AI workers think the tech could kill everyone",
+    "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-19",
+    "addedAt": "2026-09-20T15:17:52Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 149,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026, 00:01 BSTNot all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026, 00:01 BSTNot all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026, 00:01 BSTNot all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity."
+          }
+        ]
+      },
+      {
+        "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+            "ko": "실시간 보도 번역: In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse."
+          }
+        ]
+      },
+      {
+        "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+            "ko": "실시간 보도 번역: &quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry."
+          }
+        ]
+      },
+      {
+        "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+            "ko": "실시간 보도 번역: While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Not all AI workers think the tech could kill everyone",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Not all AI workers think the tech could kill everyone",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_5444682512540433940",
     "title": "Not all AI workers think the tech could kill everyone",
     "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
@@ -762,66 +839,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_5728553344766705952",
-    "title": "Pubs in England and Wales to allow digital ID apps to prove age",
-    "subtitle": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-14",
-    "addedAt": "2026-09-15T16:05:33Z",
-    "category": "tech",
+    "id": "auto_science_3960563013881067985",
+    "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+    "subtitle": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent tech...",
+    "speaker": "BBC Science",
+    "date": "2026-09-19",
+    "addedAt": "2026-09-20T15:17:52Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 150,
+    "wordCount": 174,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPubs in England and Wales to allow digital ID apps to prove ageImage source, Getty ImagesByChris VallanceSenior technology reporterPublished15 September 2026, 00:07 BSTAlcohol buyers will be able to use a digital ID app on their phones to prove their age under new rules introduced on Tuesday.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished19 September 2026US President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPubs in England and Wales to allow digital ID apps to prove ageImage source, Getty ImagesByChris VallanceSenior technology reporterPublished15 September 2026, 00:07 BSTAlcohol buyers will be able to use a digital ID app on their phones to prove their age under new rules introduced on Tuesday.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPubs in England and Wales to allow digital ID apps to prove ageImage source, Getty ImagesByChris VallanceSenior technology reporterPublished15 September 2026, 00:07 BSTAlcohol buyers will be able to use a digital ID app on their phones to prove their age under new rules introduced on Tuesday."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished19 September 2026US President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished19 September 2026US President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology."
           }
         ]
       },
       {
-        "en": "Pubs and shops in England and Wales can use the tech in addition to current physical forms of ID - with the government saying a digital option will make age-checks quicker and more secure for customers and staff.",
+        "en": "In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Pubs and shops in England and Wales can use the tech in addition to current physical forms of ID - with the government saying a digital option will make age-checks quicker and more secure for customers and staff.",
-            "ko": "실시간 보도 번역: Pubs and shops in England and Wales can use the tech in addition to current physical forms of ID - with the government saying a digital option will make age-checks quicker and more secure for customers and staff."
+            "en": "In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.",
+            "ko": "실시간 보도 번역: In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place."
           }
         ]
       },
       {
-        "en": "Customers will be able to choose ID apps from a range of suppliers such as the Post Office, Yoti or Luciditi, provided they are on a government-approved list.",
+        "en": "His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Customers will be able to choose ID apps from a range of suppliers such as the Post Office, Yoti or Luciditi, provided they are on a government-approved list.",
-            "ko": "실시간 보도 번역: Customers will be able to choose ID apps from a range of suppliers such as the Post Office, Yoti or Luciditi, provided they are on a government-approved list."
+            "en": "His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development.",
+            "ko": "실시간 보도 번역: His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development."
           }
         ]
       },
       {
-        "en": "The change means businesses will no longer be required to let people use physical ID, but the government contends most establishments would.",
+        "en": "Published4 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The change means businesses will no longer be required to let people use physical ID, but the government contends most establishments would.",
-            "ko": "실시간 보도 번역: The change means businesses will no longer be required to let people use physical ID, but the government contends most establishments would."
+            "en": "Published4 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI.",
+            "ko": "실시간 보도 번역: Published4 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Pubs in England and Wales to allow digital ID apps to prove age",
+      "글로벌 최신 소식: Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -829,7 +906,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Pubs in England and Wales to allow digital ID apps to prove age",
+          "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1556,122 +1633,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_109381875754336775",
-    "title": "Will El Niño bring winter snow to the UK?",
-    "subtitle": "Will El Niño bring winter snow to the UK? Matt Taylor looks ahead to the autumn and winter months....",
-    "speaker": "BBC Science",
-    "date": "2026-09-15",
-    "addedAt": "2026-09-15T16:05:34Z",
-    "category": "science",
+    "id": "auto_economy_8487324358000616209",
+    "title": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
+    "subtitle": "The billionaire businessman told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration....",
+    "speaker": "BBC Business",
+    "date": "2026-09-20",
+    "addedAt": "2026-09-20T15:17:52Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 125,
+    "wordCount": 157,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimate{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Weather: Will El Niño mean a snowy winter forecast?\",\"description\":\"Will El Niño bring winter snow to the UK? Matt Taylor looks ahead to the autumn and winter months.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0p9prrr.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0p9prrr.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0p9prrr.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0p9prrr.jpg\"],\"uploadDate\":\"2026-09-15T10:43:14.800Z\",\"duration\":\"PT50S\"}Will El Niño bring winter snow to the UK?To play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBillionaire Man United owner loses moral high ground after tax exile, Labour chair saysByScott Duffield, Political reporter and Rachel Clun, Business reporterPublished3 hours agoThe Labour Party chair has said Sir Jim Ratcliffe loses &quot;the moral high ground&quot; by making statements about the UK while living in tax exile.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimate{\"@context\":\"https://schema.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimate{\"@context\":\"https://schema."
-          },
-          {
-            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Weather: Will El Niño mean a snowy winter forecast?",
-            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Weather: Will El Niño mean a snowy winter forecast?"
-          },
-          {
-            "en": "\",\"description\":\"Will El Niño bring winter snow to the UK?",
-            "ko": "실시간 보도 번역: \",\"description\":\"Will El Niño bring winter snow to the UK?"
-          },
-          {
-            "en": "Matt Taylor looks ahead to the autumn and winter months.",
-            "ko": "실시간 보도 번역: Matt Taylor looks ahead to the autumn and winter months."
-          },
-          {
-            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
-            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1920/galileo/p0p9prrr.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0p9prrr."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1248/galileo/p0p9prrr.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0p9prrr."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/688/galileo/p0p9prrr.",
-            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0p9prrr."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/400/galileo/p0p9prrr.",
-            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0p9prrr."
-          },
-          {
-            "en": "jpg\"],\"uploadDate\":\"2026-09-15T10:43:14.",
-            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-15T10:43:14."
-          },
-          {
-            "en": "800Z\",\"duration\":\"PT50S\"}Will El Niño bring winter snow to the UK?",
-            "ko": "실시간 보도 번역: 800Z\",\"duration\":\"PT50S\"}Will El Niño bring winter snow to the UK?"
-          },
-          {
-            "en": "To play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: To play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBillionaire Man United owner loses moral high ground after tax exile, Labour chair saysByScott Duffield, Political reporter and Rachel Clun, Business reporterPublished3 hours agoThe Labour Party chair has said Sir Jim Ratcliffe loses &quot;the moral high ground&quot; by making statements about the UK while living in tax exile.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBillionaire Man United owner loses moral high ground after tax exile, Labour chair saysByScott Duffield, Political reporter and Rachel Clun, Business reporterPublished3 hours agoThe Labour Party chair has said Sir Jim Ratcliffe loses &quot;the moral high ground&quot; by making statements about the UK while living in tax exile."
           }
         ]
       },
       {
-        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsEl NiñoFollow El Niño",
+        "en": "Speaking to Sunday with Laura Kuenssberg, Bridget Phillipson said she would take the billionaire businessman&#x27;s comments that the UK was &quot;on the slide&quot; with a &quot;pinch of salt&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsEl NiñoFollow El Niño",
-            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsEl NiñoFollow El Niño"
+            "en": "Speaking to Sunday with Laura Kuenssberg, Bridget Phillipson said she would take the billionaire businessman&#x27;s comments that the UK was &quot;on the slide&quot; with a &quot;pinch of salt&quot;.",
+            "ko": "실시간 보도 번역: Speaking to Sunday with Laura Kuenssberg, Bridget Phillipson said she would take the billionaire businessman&#x27;s comments that the UK was &quot;on the slide&quot; with a &quot;pinch of salt&quot;."
           }
         ]
       },
       {
-        "en": "close panelYou are now following\n    El NiñoUpdates from your News topics will appear in My News and in a collection on the News homepage.ClimateFollow Climate",
+        "en": "Sir Jim, the founder of petrochemical giant Ineos and Manchester United&#x27;s co-owner, told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "close panelYou are now following\n    El NiñoUpdates from your News topics will appear in My News and in a collection on the News homepage.",
-            "ko": "실시간 보도 번역: close panelYou are now following\n    El NiñoUpdates from your News topics will appear in My News and in a collection on the News homepage."
+            "en": "Sir Jim, the founder of petrochemical giant Ineos and Manchester United&#x27;s co-owner, told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration.",
+            "ko": "실시간 보도 번역: Sir Jim, the founder of petrochemical giant Ineos and Manchester United&#x27;s co-owner, told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration."
           }
         ]
       },
       {
-        "en": "close panelYou are now following\n    ClimateUpdates from your News topics will appear in My News and in a collection on the News homepage.SnowFollow Snow",
+        "en": "He has been a tax resident in Monaco since 2020 and said &quot;things would have to get better&quot; in the UK for him to return.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "close panelYou are now following\n    ClimateUpdates from your News topics will appear in My News and in a collection on the News homepage.",
-            "ko": "실시간 보도 번역: close panelYou are now following\n    ClimateUpdates from your News topics will appear in My News and in a collection on the News homepage."
+            "en": "He has been a tax resident in Monaco since 2020 and said &quot;things would have to get better&quot; in the UK for him to return.",
+            "ko": "실시간 보도 번역: He has been a tax resident in Monaco since 2020 and said &quot;things would have to get better&quot; in the UK for him to return."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Will El Niño bring winter snow to the UK?",
+      "글로벌 최신 소식: Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1679,7 +1700,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Will El Niño bring winter snow to the UK?",
+          "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2402,74 +2423,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_9212017722523387158",
-    "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-    "subtitle": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness....",
-    "speaker": "BBC Business",
-    "date": "2026-09-15",
-    "addedAt": "2026-09-15T16:05:34Z",
-    "category": "economy",
+    "id": "auto_sports_7416654008006398042",
+    "title": "GB reach Davis Cup Finals as Patten and Skupski win",
+    "subtitle": "Great Britain will play in the Davis Cup Finals for the first time since 2023 after taking an unassailable 3-0 lead against Ecuado...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-20",
+    "addedAt": "2026-09-20T15:17:52Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 166,
+    "wordCount": 167,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessState pension likely to top £13,000 a year as UK wage growth slows to 3.9%Image source, Getty ImagesByEmer Moreau, Business reporter and Kevin Peachey, Cost of living correspondentPublished15 September 2026, 07:12 BSTUpdated 4 hours agoThe state pension is expected to top £13,000 a year, reigniting the debate about its long-term affordability and generational fairness.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB dominate Ecuador to reach Davis Cup FinalsTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessState pension likely to top £13,000 a year as UK wage growth slows to 3.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessState pension likely to top £13,000 a year as UK wage growth slows to 3."
-          },
-          {
-            "en": "9%Image source, Getty ImagesByEmer Moreau, Business reporter and Kevin Peachey, Cost of living correspondentPublished15 September 2026, 07:12 BSTUpdated 4 hours agoThe state pension is expected to top £13,000 a year, reigniting the debate about its long-term affordability and generational fairness.",
-            "ko": "실시간 보도 번역: 9%Image source, Getty ImagesByEmer Moreau, Business reporter and Kevin Peachey, Cost of living correspondentPublished15 September 2026, 07:12 BSTUpdated 4 hours agoThe state pension is expected to top £13,000 a year, reigniting the debate about its long-term affordability and generational fairness."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB dominate Ecuador to reach Davis Cup FinalsTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB dominate Ecuador to reach Davis Cup FinalsTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "The full, flat-rate state pension is expected to rise by £488 a year in April, based on the latest official earnings figure released on Tuesday.",
+        "en": "Great Britain have reached the Davis Cup Finals for the first time since 2023 after sealing a 4-0 win in their qualifying tie against Ecuador.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The full, flat-rate state pension is expected to rise by £488 a year in April, based on the latest official earnings figure released on Tuesday.",
-            "ko": "실시간 보도 번역: The full, flat-rate state pension is expected to rise by £488 a year in April, based on the latest official earnings figure released on Tuesday."
+            "en": "Great Britain have reached the Davis Cup Finals for the first time since 2023 after sealing a 4-0 win in their qualifying tie against Ecuador.",
+            "ko": "실시간 보도 번역: Great Britain have reached the Davis Cup Finals for the first time since 2023 after sealing a 4-0 win in their qualifying tie against Ecuador."
           }
         ]
       },
       {
-        "en": "The so-called triple lock pension policy guarantees that the state pension will increase by either average wage growth, inflation or 2.5% - whichever is highest.",
+        "en": "Henry Patten and Neal Skupski booked Britain&#x27;s ticket to November&#x27;s &#x27;Final 8&#x27; event in Bologna with a 6-3 6-4 win over Gonzalo Escobar and Diego Hidalgo in the doubles at London&#x27;s Copper Box Arena.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The so-called triple lock pension policy guarantees that the state pension will increase by either average wage growth, inflation or 2.",
-            "ko": "실시간 보도 번역: The so-called triple lock pension policy guarantees that the state pension will increase by either average wage growth, inflation or 2."
-          },
-          {
-            "en": "5% - whichever is highest.",
-            "ko": "실시간 보도 번역: 5% - whichever is highest."
+            "en": "Henry Patten and Neal Skupski booked Britain&#x27;s ticket to November&#x27;s &#x27;Final 8&#x27; event in Bologna with a 6-3 6-4 win over Gonzalo Escobar and Diego Hidalgo in the doubles at London&#x27;s Copper Box Arena.",
+            "ko": "실시간 보도 번역: Henry Patten and Neal Skupski booked Britain&#x27;s ticket to November&#x27;s &#x27;Final 8&#x27; event in Bologna with a 6-3 6-4 win over Gonzalo Escobar and Diego Hidalgo in the doubles at London&#x27;s Copper Box Arena."
           }
         ]
       },
       {
-        "en": "Labour made a manifesto pledge to keep the triple lock until 2029, however economists have warned about the cost of the policy ahead of the Budget although pensioner groups say many people still face poverty in old age.",
+        "en": "That gave Britain an unassailable 3-0 lead after wins on Saturday for Toby Samuel and Arthur Fery in the singles, before Harry Wendelken, a late call-up to the team after Cameron Norrie withdrew injured on Friday, wrapped up the best-of-five tie by beating Angel Veliz 6-2 6-3 on his competition debut.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Labour made a manifesto pledge to keep the triple lock until 2029, however economists have warned about the cost of the policy ahead of the Budget although pensioner groups say many people still face poverty in old age.",
-            "ko": "실시간 보도 번역: Labour made a manifesto pledge to keep the triple lock until 2029, however economists have warned about the cost of the policy ahead of the Budget although pensioner groups say many people still face poverty in old age."
+            "en": "That gave Britain an unassailable 3-0 lead after wins on Saturday for Toby Samuel and Arthur Fery in the singles, before Harry Wendelken, a late call-up to the team after Cameron Norrie withdrew injured on Friday, wrapped up the best-of-five tie by beating Angel Veliz 6-2 6-3 on his competition debut.",
+            "ko": "실시간 보도 번역: That gave Britain an unassailable 3-0 lead after wins on Saturday for Toby Samuel and Arthur Fery in the singles, before Harry Wendelken, a late call-up to the team after Cameron Norrie withdrew injured on Friday, wrapped up the best-of-five tie by beating Angel Veliz 6-2 6-3 on his competition debut."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+      "글로벌 최신 소식: GB reach Davis Cup Finals as Patten and Skupski win",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2477,14 +2490,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+          "GB reach Davis Cup Finals as Patten and Skupski win",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_6734665866881584858",
@@ -3202,66 +3217,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_3009503571985452815",
-    "title": "From Challenger Tour to Davis Cup - GB's Samuel on 'surreal' year",
-    "subtitle": "Briton Toby Samuel is to make his Davis Cup debut for Great Britain after what he calls a \"surreal\" 12 months....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-14",
-    "addedAt": "2026-09-15T16:05:35Z",
-    "category": "sports",
+    "id": "auto_culture_3891382372098137411",
+    "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+    "subtitle": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-20",
+    "addedAt": "2026-09-20T15:17:53Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 172,
+    "wordCount": 121,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel to make Davis Cup debut after &#x27;surreal&#x27; yearImage source, Getty ImagesImage caption, Toby Samuel made his US Open debut last month, his third Grand Slam appearance this year",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEd Sheeran admits &#x27;mistakes&#x27; at first show since Macklemore controversyTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel to make Davis Cup debut after &#x27;surreal&#x27; yearImage source, Getty ImagesImage caption, Toby Samuel made his US Open debut last month, his third Grand Slam appearance this year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel to make Davis Cup debut after &#x27;surreal&#x27; yearImage source, Getty ImagesImage caption, Toby Samuel made his US Open debut last month, his third Grand Slam appearance this year"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEd Sheeran admits &#x27;mistakes&#x27; at first show since Macklemore controversyTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEd Sheeran admits &#x27;mistakes&#x27; at first show since Macklemore controversyTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Toby Samuel says it was &quot;one of the best moments in my life&quot; when he was selected in Great Britain&#x27;s Davis Cup team to face Ecuador this weekend after a breakthrough year.",
+        "en": "&quot;This is a humanitarian issue, and I cannot hide how I feel about it anymore,&quot; Ed Sheeran says as he addresses Macklemore row",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Toby Samuel says it was &quot;one of the best moments in my life&quot; when he was selected in Great Britain&#x27;s Davis Cup team to face Ecuador this weekend after a breakthrough year.",
-            "ko": "실시간 보도 번역: Toby Samuel says it was &quot;one of the best moments in my life&quot; when he was selected in Great Britain&#x27;s Davis Cup team to face Ecuador this weekend after a breakthrough year."
+            "en": "&quot;This is a humanitarian issue, and I cannot hide how I feel about it anymore,&quot; Ed Sheeran says as he addresses Macklemore row",
+            "ko": "실시간 보도 번역: &quot;This is a humanitarian issue, and I cannot hide how I feel about it anymore,&quot; Ed Sheeran says as he addresses Macklemore row"
           }
         ]
       },
       {
-        "en": "The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams.",
+        "en": "Ed Sheeran has apologised to fans for making &quot;mistakes&quot; as he opened his first show since Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams.",
-            "ko": "실시간 보도 번역: The 23-year-old was handed his maiden Davis Cup call-up after a rapid rise over the past 12 months, climbing into the top 100 in the world rankings and making his debut in three Grand Slams."
+            "en": "Ed Sheeran has apologised to fans for making &quot;mistakes&quot; as he opened his first show since Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+            "ko": "실시간 보도 번역: Ed Sheeran has apologised to fans for making &quot;mistakes&quot; as he opened his first show since Macklemore was dropped from his tour for making pro-Palestinian remarks on stage."
           }
         ]
       },
       {
-        "en": "&quot;It&#x27;s surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I&#x27;m sat here ready to play the Davis Cup - it&#x27;s crazy,&quot; he told BBC Points West.",
+        "en": "The singer began his concert in Philadelphia by addressing the controversy that has since engulfed the tour and prompted all of his support acts to quit.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;It&#x27;s surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I&#x27;m sat here ready to play the Davis Cup - it&#x27;s crazy,&quot; he told BBC Points West.",
-            "ko": "실시간 보도 번역: &quot;It&#x27;s surreal being in this position now from where I was eight, nine months ago, [when I was] hopefully trying to play some Challengers, and now I&#x27;m sat here ready to play the Davis Cup - it&#x27;s crazy,&quot; he told BBC Points West."
+            "en": "The singer began his concert in Philadelphia by addressing the controversy that has since engulfed the tour and prompted all of his support acts to quit.",
+            "ko": "실시간 보도 번역: The singer began his concert in Philadelphia by addressing the controversy that has since engulfed the tour and prompted all of his support acts to quit."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: From Challenger Tour to Davis Cup - GB's Samuel on 'surreal' year",
+      "글로벌 최신 소식: Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3269,16 +3284,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "From Challenger Tour to Davis Cup - GB's Samuel on 'surreal' year",
+          "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_5511896887748411757",
@@ -3997,83 +4010,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_1953380217991533900",
-    "title": "Five things you may not know about Emmy history-maker Matthew Rhys",
-    "subtitle": "The Welsh actor became the first person to win two lead acting prizes in one night at the Emmy Awards....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-15",
-    "addedAt": "2026-09-15T16:05:36Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 132,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFive things you may not know about Emmy history-maker Matthew RhysImage source, Getty ImagesImage caption, Matthew Rhys, who grew up in Cardiff made history at the Emmy Awards, becoming the first person to win two lead acting prizes in one night",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFive things you may not know about Emmy history-maker Matthew RhysImage source, Getty ImagesImage caption, Matthew Rhys, who grew up in Cardiff made history at the Emmy Awards, becoming the first person to win two lead acting prizes in one night",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFive things you may not know about Emmy history-maker Matthew RhysImage source, Getty ImagesImage caption, Matthew Rhys, who grew up in Cardiff made history at the Emmy Awards, becoming the first person to win two lead acting prizes in one night"
-          }
-        ]
-      },
-      {
-        "en": "Hollywood actor Matthew Rhys has made history at the Emmys by becoming the first person to win two lead acting prizes in one night.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Hollywood actor Matthew Rhys has made history at the Emmys by becoming the first person to win two lead acting prizes in one night.",
-            "ko": "실시간 보도 번역: Hollywood actor Matthew Rhys has made history at the Emmys by becoming the first person to win two lead acting prizes in one night."
-          }
-        ]
-      },
-      {
-        "en": "He was named best lead actor in a limited series for the psychological thriller The Beast In Me, and best lead actor in a comedy for his role in Widow&#x27;s Bay.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "He was named best lead actor in a limited series for the psychological thriller The Beast In Me, and best lead actor in a comedy for his role in Widow&#x27;s Bay.",
-            "ko": "실시간 보도 번역: He was named best lead actor in a limited series for the psychological thriller The Beast In Me, and best lead actor in a comedy for his role in Widow&#x27;s Bay."
-          }
-        ]
-      },
-      {
-        "en": "Here are five things you may not already know about the history-making 51-year-old.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Here are five things you may not already know about the history-making 51-year-old.",
-            "ko": "실시간 보도 번역: Here are five things you may not already know about the history-making 51-year-old."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Five things you may not know about Emmy history-maker Matthew Rhys",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Five things you may not know about Emmy history-maker Matthew Rhys",
           "Historical retrospective",
           "Unrelated general weather"
         ],
