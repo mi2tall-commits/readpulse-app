@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1905881702959133232",
+    "title": "Not all AI workers think the tech could kill everyone",
+    "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-19",
+    "addedAt": "2026-09-21T02:58:06Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 147,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity."
+          }
+        ]
+      },
+      {
+        "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+            "ko": "실시간 보도 번역: In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse."
+          }
+        ]
+      },
+      {
+        "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+            "ko": "실시간 보도 번역: &quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry."
+          }
+        ]
+      },
+      {
+        "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+            "ko": "실시간 보도 번역: While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Not all AI workers think the tech could kill everyone",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Not all AI workers think the tech could kill everyone",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_6366172648681155020",
     "title": "Not all AI workers think the tech could kill everyone",
     "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
@@ -762,66 +839,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_7945574342406032535",
-    "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-    "subtitle": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to hu...",
-    "speaker": "BBC Technology",
-    "date": "2026-09-16",
-    "addedAt": "2026-09-16T02:59:00Z",
-    "category": "tech",
+    "id": "auto_science_6920550173989499261",
+    "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+    "subtitle": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent tech...",
+    "speaker": "BBC Science",
+    "date": "2026-09-19",
+    "addedAt": "2026-09-21T02:58:07Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 139,
+    "wordCount": 174,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI boss says world &#x27;right to be afraid&#x27; but &#x27;should trust&#x27; AI firmsTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished19 September 2026US President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI boss says world &#x27;right to be afraid&#x27; but &#x27;should trust&#x27; AI firmsTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI boss says world &#x27;right to be afraid&#x27; but &#x27;should trust&#x27; AI firmsTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished19 September 2026US President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished19 September 2026US President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology."
           }
         ]
       },
       {
-        "en": "OpenAI boss Sam Altman thinks people should have more faith in his company and others like it to do the right thing when it comes to artificial intelligence (AI) development amid rising public concerns about all the risks.",
+        "en": "In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "OpenAI boss Sam Altman thinks people should have more faith in his company and others like it to do the right thing when it comes to artificial intelligence (AI) development amid rising public concerns about all the risks.",
-            "ko": "실시간 보도 번역: OpenAI boss Sam Altman thinks people should have more faith in his company and others like it to do the right thing when it comes to artificial intelligence (AI) development amid rising public concerns about all the risks."
+            "en": "In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.",
+            "ko": "실시간 보도 번역: In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place."
           }
         ]
       },
       {
-        "en": "&quot;The world should trust that we are going to do the right thing because it&#x27;s the right thing and we feel the magnitude of this,&quot; Altman said on Tuesday during a conference in San Francisco.",
+        "en": "His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;The world should trust that we are going to do the right thing because it&#x27;s the right thing and we feel the magnitude of this,&quot; Altman said on Tuesday during a conference in San Francisco.",
-            "ko": "실시간 보도 번역: &quot;The world should trust that we are going to do the right thing because it&#x27;s the right thing and we feel the magnitude of this,&quot; Altman said on Tuesday during a conference in San Francisco."
+            "en": "His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development.",
+            "ko": "실시간 보도 번역: His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development."
           }
         ]
       },
       {
-        "en": "However, Altman noted that people were justified in their fears around AI, as the capability of the tools has progressed rapidly.",
+        "en": "Published4 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "However, Altman noted that people were justified in their fears around AI, as the capability of the tools has progressed rapidly.",
-            "ko": "실시간 보도 번역: However, Altman noted that people were justified in their fears around AI, as the capability of the tools has progressed rapidly."
+            "en": "Published4 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI.",
+            "ko": "실시간 보도 번역: Published4 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+      "글로벌 최신 소식: Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -829,7 +906,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+          "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1552,70 +1629,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_7884845924566777056",
-    "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
-    "subtitle": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies....",
-    "speaker": "BBC Science",
-    "date": "2026-09-16",
-    "addedAt": "2026-09-16T02:59:00Z",
-    "category": "science",
+    "id": "auto_economy_3260767646917954052",
+    "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+    "subtitle": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction....",
+    "speaker": "BBC Business",
+    "date": "2026-09-21",
+    "addedAt": "2026-09-21T02:58:07Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 159,
+    "wordCount": 137,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateThird Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers Image source, Getty ImagesByMatt McGrathEnvironment correspondentPublished2 hours agoHeathrow&#x27;s third runway cannot be approved without changes to current climate policies, the government&#x27;s advisers have said.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessNvidia boss rejects AI extinction fears as &#x27;doomsday narratives&#x27;Image source, Bloomberg via Getty ImagesByOsmond ChiaBusiness reporterPublished2 hours agoNvidia CEO Jensen Huang has described warnings that AI could lead to humanity&#x27;s extinction by the next decade as &quot;doomsday narratives&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateThird Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers Image source, Getty ImagesByMatt McGrathEnvironment correspondentPublished2 hours agoHeathrow&#x27;s third runway cannot be approved without changes to current climate policies, the government&#x27;s advisers have said.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateThird Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers Image source, Getty ImagesByMatt McGrathEnvironment correspondentPublished2 hours agoHeathrow&#x27;s third runway cannot be approved without changes to current climate policies, the government&#x27;s advisers have said."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessNvidia boss rejects AI extinction fears as &#x27;doomsday narratives&#x27;Image source, Bloomberg via Getty ImagesByOsmond ChiaBusiness reporterPublished2 hours agoNvidia CEO Jensen Huang has described warnings that AI could lead to humanity&#x27;s extinction by the next decade as &quot;doomsday narratives&quot;.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessNvidia boss rejects AI extinction fears as &#x27;doomsday narratives&#x27;Image source, Bloomberg via Getty ImagesByOsmond ChiaBusiness reporterPublished2 hours agoNvidia CEO Jensen Huang has described warnings that AI could lead to humanity&#x27;s extinction by the next decade as &quot;doomsday narratives&quot;."
           }
         ]
       },
       {
-        "en": "The Climate Change Committee (CCC) , externalsaid expansion can still go ahead but only if  the aviation industry funds cleaner fuels and pays for machines that suck carbon dioxide out of the air.",
+        "en": "&quot;2030 is not going to be the end of the world. There is 0% chance that&#x27;s going to be the end of the world&quot;, Huang said in an interview with CBS News, the BBC&#x27;s US partner.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Climate Change Committee (CCC) , externalsaid expansion can still go ahead but only if  the aviation industry funds cleaner fuels and pays for machines that suck carbon dioxide out of the air.",
-            "ko": "실시간 보도 번역: The Climate Change Committee (CCC) , externalsaid expansion can still go ahead but only if  the aviation industry funds cleaner fuels and pays for machines that suck carbon dioxide out of the air."
-          }
-        ]
-      },
-      {
-        "en": "Making the industry pay could push up the cost of flying with a return trip to Alicante costing around £150 more by 2050, and a return to New York up £400 in today&#x27;s prices, it said.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Making the industry pay could push up the cost of flying with a return trip to Alicante costing around £150 more by 2050, and a return to New York up £400 in today&#x27;s prices, it said.",
-            "ko": "실시간 보도 번역: Making the industry pay could push up the cost of flying with a return trip to Alicante costing around £150 more by 2050, and a return to New York up £400 in today&#x27;s prices, it said."
-          }
-        ]
-      },
-      {
-        "en": "Once built, the expanded airport would produce more carbon dioxide than any other single sector of the economy by 2050. Heathrow said expansion and climate goals were &quot;not a choice&quot; and it would deliver both.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Once built, the expanded airport would produce more carbon dioxide than any other single sector of the economy by 2050.",
-            "ko": "실시간 보도 번역: Once built, the expanded airport would produce more carbon dioxide than any other single sector of the economy by 2050."
+            "en": "&quot;2030 is not going to be the end of the world.",
+            "ko": "실시간 보도 번역: &quot;2030 is not going to be the end of the world."
           },
           {
-            "en": "Heathrow said expansion and climate goals were &quot;not a choice&quot; and it would deliver both.",
-            "ko": "실시간 보도 번역: Heathrow said expansion and climate goals were &quot;not a choice&quot; and it would deliver both."
+            "en": "There is 0% chance that&#x27;s going to be the end of the world&quot;, Huang said in an interview with CBS News, the BBC&#x27;s US partner.",
+            "ko": "실시간 보도 번역: There is 0% chance that&#x27;s going to be the end of the world&quot;, Huang said in an interview with CBS News, the BBC&#x27;s US partner."
+          }
+        ]
+      },
+      {
+        "en": "Huang added: &quot;Scaring people is unnecessary. It is irresponsible.&quot;",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Huang added: &quot;Scaring people is unnecessary.",
+            "ko": "실시간 보도 번역: Huang added: &quot;Scaring people is unnecessary."
+          },
+          {
+            "en": "It is irresponsible.",
+            "ko": "실시간 보도 번역: It is irresponsible."
+          }
+        ]
+      },
+      {
+        "en": "Warnings from researchers in recent weeks about potential risks posed by the technology escalated the debate about AI safety, with some industry executives calling for a slowdown in developing models.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Warnings from researchers in recent weeks about potential risks posed by the technology escalated the debate about AI safety, with some industry executives calling for a slowdown in developing models.",
+            "ko": "실시간 보도 번역: Warnings from researchers in recent weeks about potential risks posed by the technology escalated the debate about AI safety, with some industry executives calling for a slowdown in developing models."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+      "글로벌 최신 소식: Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1623,7 +1704,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+          "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2342,70 +2423,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_840978518842708295",
-    "title": "Complaints to watchdog about water firms jump 84%",
-    "subtitle": "Many complaints were about affordability, after customers saw steep hikes to bills....",
-    "speaker": "BBC Business",
-    "date": "2026-09-15",
-    "addedAt": "2026-09-16T02:59:00Z",
-    "category": "economy",
+    "id": "auto_sports_5457054076323833820",
+    "title": "GB dominate Ecuador to reach Davis Cup Finals",
+    "subtitle": "Great Britain will play in the Davis Cup Finals for the first time since 2023 after claiming a 4-0 win against Ecuador in London....",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-20",
+    "addedAt": "2026-09-21T02:58:07Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 141,
+    "wordCount": 167,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessComplaints to watchdog about water firms jump 84%Image source, iStock / Getty ImagesImage caption, Many water customers in England and Wales saw steep bill hikes this year",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB dominate Ecuador to reach Davis Cup FinalsTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessComplaints to watchdog about water firms jump 84%Image source, iStock / Getty ImagesImage caption, Many water customers in England and Wales saw steep bill hikes this year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessComplaints to watchdog about water firms jump 84%Image source, iStock / Getty ImagesImage caption, Many water customers in England and Wales saw steep bill hikes this year"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB dominate Ecuador to reach Davis Cup FinalsTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB dominate Ecuador to reach Davis Cup FinalsTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "The number of complaints made by households about water companies to the industry watchdog has risen by a record 84% in a year, driven by customer concern and confusion over rising bills.",
+        "en": "Great Britain have reached the Davis Cup Finals for the first time since 2023 after sealing a 4-0 win in their qualifying tie against Ecuador.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The number of complaints made by households about water companies to the industry watchdog has risen by a record 84% in a year, driven by customer concern and confusion over rising bills.",
-            "ko": "실시간 보도 번역: The number of complaints made by households about water companies to the industry watchdog has risen by a record 84% in a year, driven by customer concern and confusion over rising bills."
+            "en": "Great Britain have reached the Davis Cup Finals for the first time since 2023 after sealing a 4-0 win in their qualifying tie against Ecuador.",
+            "ko": "실시간 보도 번역: Great Britain have reached the Davis Cup Finals for the first time since 2023 after sealing a 4-0 win in their qualifying tie against Ecuador."
           }
         ]
       },
       {
-        "en": "The Consumer Council for Water (CCW) said the year-on-year increase was the highest in its 20-year history and showed &quot;just how dissatisfied&quot; many people were.",
+        "en": "Henry Patten and Neal Skupski booked Britain&#x27;s ticket to November&#x27;s &#x27;Final 8&#x27; event in Bologna with a 6-3 6-4 win over Gonzalo Escobar and Diego Hidalgo in the doubles at London&#x27;s Copper Box Arena.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Consumer Council for Water (CCW) said the year-on-year increase was the highest in its 20-year history and showed &quot;just how dissatisfied&quot; many people were.",
-            "ko": "실시간 보도 번역: The Consumer Council for Water (CCW) said the year-on-year increase was the highest in its 20-year history and showed &quot;just how dissatisfied&quot; many people were."
+            "en": "Henry Patten and Neal Skupski booked Britain&#x27;s ticket to November&#x27;s &#x27;Final 8&#x27; event in Bologna with a 6-3 6-4 win over Gonzalo Escobar and Diego Hidalgo in the doubles at London&#x27;s Copper Box Arena.",
+            "ko": "실시간 보도 번역: Henry Patten and Neal Skupski booked Britain&#x27;s ticket to November&#x27;s &#x27;Final 8&#x27; event in Bologna with a 6-3 6-4 win over Gonzalo Escobar and Diego Hidalgo in the doubles at London&#x27;s Copper Box Arena."
           }
         ]
       },
       {
-        "en": "Water customers in England and Wales have been hit with steep price hikes in recent years. The regulator Ofwat has also allowed firms to put up bills by 36% between 2025 and 2030.",
+        "en": "That gave Britain an unassailable 3-0 lead after wins on Saturday for Toby Samuel and Arthur Fery in the singles, before Harry Wendelken, a late call-up to the team after Cameron Norrie withdrew injured on Friday, wrapped up the best-of-five tie by beating Angel Veliz 6-2 6-3 on his competition debut.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Water customers in England and Wales have been hit with steep price hikes in recent years.",
-            "ko": "실시간 보도 번역: Water customers in England and Wales have been hit with steep price hikes in recent years."
-          },
-          {
-            "en": "The regulator Ofwat has also allowed firms to put up bills by 36% between 2025 and 2030.",
-            "ko": "실시간 보도 번역: The regulator Ofwat has also allowed firms to put up bills by 36% between 2025 and 2030."
+            "en": "That gave Britain an unassailable 3-0 lead after wins on Saturday for Toby Samuel and Arthur Fery in the singles, before Harry Wendelken, a late call-up to the team after Cameron Norrie withdrew injured on Friday, wrapped up the best-of-five tie by beating Angel Veliz 6-2 6-3 on his competition debut.",
+            "ko": "실시간 보도 번역: That gave Britain an unassailable 3-0 lead after wins on Saturday for Toby Samuel and Arthur Fery in the singles, before Harry Wendelken, a late call-up to the team after Cameron Norrie withdrew injured on Friday, wrapped up the best-of-five tie by beating Angel Veliz 6-2 6-3 on his competition debut."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Complaints to watchdog about water firms jump 84%",
+      "글로벌 최신 소식: GB dominate Ecuador to reach Davis Cup Finals",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2413,14 +2490,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Complaints to watchdog about water firms jump 84%",
+          "GB dominate Ecuador to reach Davis Cup Finals",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_7416654008006398042",
@@ -3138,66 +3217,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_3328759754092935651",
-    "title": "Draper decides not to play again this season",
-    "subtitle": "Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of ...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-15",
-    "addedAt": "2026-09-16T02:59:00Z",
-    "category": "sports",
+    "id": "auto_culture_4604038038575776272",
+    "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+    "subtitle": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-20",
+    "addedAt": "2026-09-21T02:58:08Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 137,
+    "wordCount": 121,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDraper decides not to play again this seasonImage source, Getty ImagesImage caption, Draper reached the US Open semi-finals in 2024",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEd Sheeran admits &#x27;mistakes&#x27; at first show since Macklemore controversyTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDraper decides not to play again this seasonImage source, Getty ImagesImage caption, Draper reached the US Open semi-finals in 2024",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDraper decides not to play again this seasonImage source, Getty ImagesImage caption, Draper reached the US Open semi-finals in 2024"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEd Sheeran admits &#x27;mistakes&#x27; at first show since Macklemore controversyTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEd Sheeran admits &#x27;mistakes&#x27; at first show since Macklemore controversyTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Tennis correspondentPublished15 September 2026Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of next year.",
+        "en": "&quot;This is a humanitarian issue, and I cannot hide how I feel about it anymore,&quot; Ed Sheeran says as he addresses Macklemore row",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Tennis correspondentPublished15 September 2026Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of next year.",
-            "ko": "실시간 보도 번역: Tennis correspondentPublished15 September 2026Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of next year."
+            "en": "&quot;This is a humanitarian issue, and I cannot hide how I feel about it anymore,&quot; Ed Sheeran says as he addresses Macklemore row",
+            "ko": "실시간 보도 번역: &quot;This is a humanitarian issue, and I cannot hide how I feel about it anymore,&quot; Ed Sheeran says as he addresses Macklemore row"
           }
         ]
       },
       {
-        "en": "The 24-year-old has been suffering with bone bruising in his serving arm and has only played nine events since last year&#x27;s Wimbledon.",
+        "en": "Ed Sheeran has apologised to fans for making &quot;mistakes&quot; as he opened his first show since Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 24-year-old has been suffering with bone bruising in his serving arm and has only played nine events since last year&#x27;s Wimbledon.",
-            "ko": "실시간 보도 번역: The 24-year-old has been suffering with bone bruising in his serving arm and has only played nine events since last year&#x27;s Wimbledon."
+            "en": "Ed Sheeran has apologised to fans for making &quot;mistakes&quot; as he opened his first show since Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+            "ko": "실시간 보도 번역: Ed Sheeran has apologised to fans for making &quot;mistakes&quot; as he opened his first show since Macklemore was dropped from his tour for making pro-Palestinian remarks on stage."
           }
         ]
       },
       {
-        "en": "Draper missed the US Open, after losing in the first round in Montreal and Cincinnati last month - and was in tears during his defeat to France&#x27;s Terence Atmane in Canada.",
+        "en": "The singer began his concert in Philadelphia by addressing the controversy that has since engulfed the tour and prompted all of his support acts to quit.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Draper missed the US Open, after losing in the first round in Montreal and Cincinnati last month - and was in tears during his defeat to France&#x27;s Terence Atmane in Canada.",
-            "ko": "실시간 보도 번역: Draper missed the US Open, after losing in the first round in Montreal and Cincinnati last month - and was in tears during his defeat to France&#x27;s Terence Atmane in Canada."
+            "en": "The singer began his concert in Philadelphia by addressing the controversy that has since engulfed the tour and prompted all of his support acts to quit.",
+            "ko": "실시간 보도 번역: The singer began his concert in Philadelphia by addressing the controversy that has since engulfed the tour and prompted all of his support acts to quit."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Draper decides not to play again this season",
+      "글로벌 최신 소식: Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3205,16 +3284,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Draper decides not to play again this season",
+          "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_3891382372098137411",
@@ -3929,87 +4006,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_798356922271902107",
-    "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-    "subtitle": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on sta...",
-    "speaker": "BBC Arts",
-    "date": "2026-09-16",
-    "addedAt": "2026-09-16T02:59:01Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 146,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAll support acts on Ed Sheeran&#x27;s US tour quit after Macklemore droppedImage source, Getty ImagesImage caption, Ed Sheeran issued a statement on Tuesday saying it was the promoter&#x27;s decision to drop Macklemore from his upcoming US tour dates",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAll support acts on Ed Sheeran&#x27;s US tour quit after Macklemore droppedImage source, Getty ImagesImage caption, Ed Sheeran issued a statement on Tuesday saying it was the promoter&#x27;s decision to drop Macklemore from his upcoming US tour dates",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAll support acts on Ed Sheeran&#x27;s US tour quit after Macklemore droppedImage source, Getty ImagesImage caption, Ed Sheeran issued a statement on Tuesday saying it was the promoter&#x27;s decision to drop Macklemore from his upcoming US tour dates"
-          }
-        ]
-      },
-      {
-        "en": "Music correspondentPublished15 September 2026Updated 1 hour agoAll of the remaining support acts on Ed Sheeran&#x27;s US tour have quit, after the rapper Macklemore was dropped from the line-up for making pro-Palestinian remarks on stage.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Music correspondentPublished15 September 2026Updated 1 hour agoAll of the remaining support acts on Ed Sheeran&#x27;s US tour have quit, after the rapper Macklemore was dropped from the line-up for making pro-Palestinian remarks on stage.",
-            "ko": "실시간 보도 번역: Music correspondentPublished15 September 2026Updated 1 hour agoAll of the remaining support acts on Ed Sheeran&#x27;s US tour have quit, after the rapper Macklemore was dropped from the line-up for making pro-Palestinian remarks on stage."
-          }
-        ]
-      },
-      {
-        "en": "Among them were Finneas, the brother of pop star Billie Eilish, who said in a statement: &quot;Artists must not be silenced when they speak up for the oppressed.&quot;",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Among them were Finneas, the brother of pop star Billie Eilish, who said in a statement: &quot;Artists must not be silenced when they speak up for the oppressed.",
-            "ko": "실시간 보도 번역: Among them were Finneas, the brother of pop star Billie Eilish, who said in a statement: &quot;Artists must not be silenced when they speak up for the oppressed."
-          }
-        ]
-      },
-      {
-        "en": "Irish singer-songwriter Aaron Rowe and Danish band Lukas Graham also announced their departure. Irish folk band Beoga, who perform with Sheeran on stage every night, dropped out too.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Irish singer-songwriter Aaron Rowe and Danish band Lukas Graham also announced their departure.",
-            "ko": "실시간 보도 번역: Irish singer-songwriter Aaron Rowe and Danish band Lukas Graham also announced their departure."
-          },
-          {
-            "en": "Irish folk band Beoga, who perform with Sheeran on stage every night, dropped out too.",
-            "ko": "실시간 보도 번역: Irish folk band Beoga, who perform with Sheeran on stage every night, dropped out too."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
           "Historical retrospective",
           "Unrelated general weather"
         ],
