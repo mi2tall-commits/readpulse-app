@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_8265967969322131352",
+    "title": "Not all AI workers think the tech could kill everyone",
+    "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-19",
+    "addedAt": "2026-09-21T17:43:07Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 147,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity."
+          }
+        ]
+      },
+      {
+        "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+            "ko": "실시간 보도 번역: In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse."
+          }
+        ]
+      },
+      {
+        "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+            "ko": "실시간 보도 번역: &quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry."
+          }
+        ]
+      },
+      {
+        "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+            "ko": "실시간 보도 번역: While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Not all AI workers think the tech could kill everyone",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Not all AI workers think the tech could kill everyone",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1905881702959133232",
     "title": "Not all AI workers think the tech could kill everyone",
     "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
@@ -762,66 +839,118 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_3845883844946398472",
-    "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-    "subtitle": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to hu...",
-    "speaker": "BBC Technology",
-    "date": "2026-09-16",
-    "addedAt": "2026-09-16T15:58:31Z",
-    "category": "tech",
+    "id": "auto_science_6045118647901359718",
+    "title": "Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
+    "subtitle": "More than 1.9 million people are under evacuation orders as Typhoon Dujuan batters Japan....",
+    "speaker": "BBC Science",
+    "date": "2026-09-21",
+    "addedAt": "2026-09-21T17:43:08Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 126,
+    "wordCount": 142,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI boss says world &#x27;right to be afraid&#x27; but should trust AI firmsTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Typhoon Dujuan tracking close to Tokyo triggers evacuation alert\",\"description\":\"More than 1.9 million people are under evacuation orders as Typhoon Dujuan batters Japan.\\n\\n\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pbrp9s.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pbrp9s.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pbrp9s.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pbrp9s.jpg\"],\"uploadDate\":\"2026-09-21T14:05:29.959Z\",\"duration\":\"PT53S\"}Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alertTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI boss says world &#x27;right to be afraid&#x27; but should trust AI firmsTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI boss says world &#x27;right to be afraid&#x27; but should trust AI firmsTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema."
+          },
+          {
+            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Typhoon Dujuan tracking close to Tokyo triggers evacuation alert\",\"description\":\"More than 1.",
+            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Typhoon Dujuan tracking close to Tokyo triggers evacuation alert\",\"description\":\"More than 1."
+          },
+          {
+            "en": "9 million people are under evacuation orders as Typhoon Dujuan batters Japan.",
+            "ko": "실시간 보도 번역: 9 million people are under evacuation orders as Typhoon Dujuan batters Japan."
+          },
+          {
+            "en": "\\n\\n\",\"thumbnailUrl\":[\"https://ichef.",
+            "ko": "실시간 보도 번역: \\n\\n\",\"thumbnailUrl\":[\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1920/galileo/p0pbrp9s.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pbrp9s."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1248/galileo/p0pbrp9s.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pbrp9s."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/688/galileo/p0pbrp9s.",
+            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pbrp9s."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/400/galileo/p0pbrp9s.",
+            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pbrp9s."
+          },
+          {
+            "en": "jpg\"],\"uploadDate\":\"2026-09-21T14:05:29.",
+            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-21T14:05:29."
+          },
+          {
+            "en": "959Z\",\"duration\":\"PT53S\"}Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alertTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: 959Z\",\"duration\":\"PT53S\"}Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alertTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "The boss of ChatGPT-maker OpenAI says people should have more faith in AI firms to keep the tech safe, amid rising public concerns about the risks.",
+        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSevere weatherFollow Severe weather",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The boss of ChatGPT-maker OpenAI says people should have more faith in AI firms to keep the tech safe, amid rising public concerns about the risks.",
-            "ko": "실시간 보도 번역: The boss of ChatGPT-maker OpenAI says people should have more faith in AI firms to keep the tech safe, amid rising public concerns about the risks."
+            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSevere weatherFollow Severe weather",
+            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsSevere weatherFollow Severe weather"
           }
         ]
       },
       {
-        "en": "&quot;The world should trust that we are going to do the right thing because it&#x27;s the right thing and we feel the magnitude of this,&quot; Sam Altman said on Tuesday during a conference in San Francisco.",
+        "en": "close panelYou are now following\n    Severe weatherUpdates from your News topics will appear in My News and in a collection on the News homepage.JapanFollow Japan",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;The world should trust that we are going to do the right thing because it&#x27;s the right thing and we feel the magnitude of this,&quot; Sam Altman said on Tuesday during a conference in San Francisco.",
-            "ko": "실시간 보도 번역: &quot;The world should trust that we are going to do the right thing because it&#x27;s the right thing and we feel the magnitude of this,&quot; Sam Altman said on Tuesday during a conference in San Francisco."
+            "en": "close panelYou are now following\n    Severe weatherUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+            "ko": "실시간 보도 번역: close panelYou are now following\n    Severe weatherUpdates from your News topics will appear in My News and in a collection on the News homepage."
           }
         ]
       },
       {
-        "en": "He accepted people were justified in being concerned about AI, as the capability of the tools has progressed rapidly.",
+        "en": "close panelYou are now following\n    JapanUpdates from your News topics will appear in My News and in a collection on the News homepage.Read descriptionEditor&#x27;s recommendationsTyphoon Dujuan tracking close to Tokyo triggers rare evacuation alert. Video, 00:00:53Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "He accepted people were justified in being concerned about AI, as the capability of the tools has progressed rapidly.",
-            "ko": "실시간 보도 번역: He accepted people were justified in being concerned about AI, as the capability of the tools has progressed rapidly."
+            "en": "close panelYou are now following\n    JapanUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+            "ko": "실시간 보도 번역: close panelYou are now following\n    JapanUpdates from your News topics will appear in My News and in a collection on the News homepage."
+          },
+          {
+            "en": "Read descriptionEditor&#x27;s recommendationsTyphoon Dujuan tracking close to Tokyo triggers rare evacuation alert.",
+            "ko": "실시간 보도 번역: Read descriptionEditor&#x27;s recommendationsTyphoon Dujuan tracking close to Tokyo triggers rare evacuation alert."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "글로벌 최신 소식: Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -829,7 +958,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+          "Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1548,70 +1677,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_5782316484075305414",
-    "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
-    "subtitle": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness....",
-    "speaker": "BBC Science",
-    "date": "2026-09-16",
-    "addedAt": "2026-09-16T15:58:31Z",
-    "category": "science",
+    "id": "auto_economy_7952936790861245322",
+    "title": "What are my rights if my flight is cancelled or delayed?",
+    "subtitle": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?...",
+    "speaker": "BBC Business",
+    "date": "2026-09-21",
+    "addedAt": "2026-09-21T17:43:08Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 136,
+    "wordCount": 149,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceColombia and Brazil deadliest countries for environmental activists, report saysImage source, ORLANDO SIERRA/AFP via Getty ImagesImage caption, Juan López was one of the environmentalists killed in Latin America recent years. The anti-mining activist was shot in Honduras in 2024.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWhat are my rights if my flight is cancelled or delayed?Image source, AFP via Getty ImagesPublished31 May 2022Updated 7 hours agoFlights in Scotland, Northern Ireland and northern England have been affected by air traffic control issues – the second major disruption at UK airports in a few weeks.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceColombia and Brazil deadliest countries for environmental activists, report saysImage source, ORLANDO SIERRA/AFP via Getty ImagesImage caption, Juan López was one of the environmentalists killed in Latin America recent years.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceColombia and Brazil deadliest countries for environmental activists, report saysImage source, ORLANDO SIERRA/AFP via Getty ImagesImage caption, Juan López was one of the environmentalists killed in Latin America recent years."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWhat are my rights if my flight is cancelled or delayed?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWhat are my rights if my flight is cancelled or delayed?"
           },
           {
-            "en": "The anti-mining activist was shot in Honduras in 2024.",
-            "ko": "실시간 보도 번역: The anti-mining activist was shot in Honduras in 2024."
+            "en": "Image source, AFP via Getty ImagesPublished31 May 2022Updated 7 hours agoFlights in Scotland, Northern Ireland and northern England have been affected by air traffic control issues – the second major disruption at UK airports in a few weeks.",
+            "ko": "실시간 보도 번역: Image source, AFP via Getty ImagesPublished31 May 2022Updated 7 hours agoFlights in Scotland, Northern Ireland and northern England have been affected by air traffic control issues – the second major disruption at UK airports in a few weeks."
           }
         ]
       },
       {
-        "en": "Colombia has again topped the list of countries with the highest number of killings of land and environmental activists, according to an annual report by campaign group Global Witness, external.",
+        "en": "When a flight is cancelled or delayed, passengers affected have various rights, such as a refund or an alternative flight at no extra cost. However, these can vary depending on which carrier you are flying with and from where.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Colombia has again topped the list of countries with the highest number of killings of land and environmental activists, according to an annual report by campaign group Global Witness, external.",
-            "ko": "실시간 보도 번역: Colombia has again topped the list of countries with the highest number of killings of land and environmental activists, according to an annual report by campaign group Global Witness, external."
+            "en": "When a flight is cancelled or delayed, passengers affected have various rights, such as a refund or an alternative flight at no extra cost.",
+            "ko": "실시간 보도 번역: When a flight is cancelled or delayed, passengers affected have various rights, such as a refund or an alternative flight at no extra cost."
+          },
+          {
+            "en": "However, these can vary depending on which carrier you are flying with and from where.",
+            "ko": "실시간 보도 번역: However, these can vary depending on which carrier you are flying with and from where."
           }
         ]
       },
       {
-        "en": "Out of at least 124 activists killed globally in 2025, 39 were murdered in Colombia, followed by Brazil with 26.",
+        "en": "Extra compensation is payable only when an airline is at fault, which is not the case with air traffic control problems.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Out of at least 124 activists killed globally in 2025, 39 were murdered in Colombia, followed by Brazil with 26.",
-            "ko": "실시간 보도 번역: Out of at least 124 activists killed globally in 2025, 39 were murdered in Colombia, followed by Brazil with 26."
+            "en": "Extra compensation is payable only when an airline is at fault, which is not the case with air traffic control problems.",
+            "ko": "실시간 보도 번역: Extra compensation is payable only when an airline is at fault, which is not the case with air traffic control problems."
           }
         ]
       },
       {
-        "en": "Global Witness says that 85% of the documented killings took place in Latin America, making it the deadliest region for every year since the group started publishing its reports in 2012.",
+        "en": "Under UK law, airlines have a duty to look after you when flights are delayed or cancelled.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Global Witness says that 85% of the documented killings took place in Latin America, making it the deadliest region for every year since the group started publishing its reports in 2012.",
-            "ko": "실시간 보도 번역: Global Witness says that 85% of the documented killings took place in Latin America, making it the deadliest region for every year since the group started publishing its reports in 2012."
+            "en": "Under UK law, airlines have a duty to look after you when flights are delayed or cancelled.",
+            "ko": "실시간 보도 번역: Under UK law, airlines have a duty to look after you when flights are delayed or cancelled."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Colombia and Brazil deadliest countries for environmental activists, report says",
+      "글로벌 최신 소식: What are my rights if my flight is cancelled or delayed?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1619,7 +1752,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Colombia and Brazil deadliest countries for environmental activists, report says",
+          "What are my rights if my flight is cancelled or delayed?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2338,74 +2471,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_4383879239455881009",
-    "title": "Petrol and diesel price rises push UK inflation higher",
-    "subtitle": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth....",
-    "speaker": "BBC Business",
-    "date": "2026-09-16",
-    "addedAt": "2026-09-16T15:58:31Z",
-    "category": "economy",
+    "id": "auto_sports_1663979118600000434",
+    "title": "Best not to underestimate us - GB plan BJK Cup upset against all-star Czechs",
+    "subtitle": "Great Britain face the Czech Republic at the Billie Jean King Cup Finals on Tuesday - and know full well the size of the challenge...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-21",
+    "addedAt": "2026-09-21T17:43:09Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 134,
+    "wordCount": 126,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPetrol and diesel price rises push UK inflation higher Image source, Getty ImagesByDearbail JordanBusiness reporterPublished16 September 2026, 07:06 BSTUpdated 1 hour agoRises in petrol, diesel and airfares pushed UK inflation up to its highest level in five months in the year to August.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB plan BJK Cup upset against all-star CzechsImage source, Getty ImagesImage caption, Great Britain play the Czech Republic in the BJK Cup on Tuesday from 10:00 BST - live on the BBC",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPetrol and diesel price rises push UK inflation higher Image source, Getty ImagesByDearbail JordanBusiness reporterPublished16 September 2026, 07:06 BSTUpdated 1 hour agoRises in petrol, diesel and airfares pushed UK inflation up to its highest level in five months in the year to August.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPetrol and diesel price rises push UK inflation higher Image source, Getty ImagesByDearbail JordanBusiness reporterPublished16 September 2026, 07:06 BSTUpdated 1 hour agoRises in petrol, diesel and airfares pushed UK inflation up to its highest level in five months in the year to August."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB plan BJK Cup upset against all-star CzechsImage source, Getty ImagesImage caption, Great Britain play the Czech Republic in the BJK Cup on Tuesday from 10:00 BST - live on the BBC",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB plan BJK Cup upset against all-star CzechsImage source, Getty ImagesImage caption, Great Britain play the Czech Republic in the BJK Cup on Tuesday from 10:00 BST - live on the BBC"
           }
         ]
       },
       {
-        "en": "Inflation accelerated to 3.1% from 2.9%, according to the Office for National Statistics (ONS).",
+        "en": "&quot;It&#x27;s best not to underestimate us,&quot; says a defiant Harriet Dart.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Inflation accelerated to 3.",
-            "ko": "실시간 보도 번역: Inflation accelerated to 3."
-          },
-          {
-            "en": "9%, according to the Office for National Statistics (ONS).",
-            "ko": "실시간 보도 번역: 9%, according to the Office for National Statistics (ONS)."
+            "en": "&quot;It&#x27;s best not to underestimate us,&quot; says a defiant Harriet Dart.",
+            "ko": "실시간 보도 번역: &quot;It&#x27;s best not to underestimate us,&quot; says a defiant Harriet Dart."
           }
         ]
       },
       {
-        "en": "The cost of filling up a vehicle soared in August as the conflict in the Middle East continued to disrupt global oil supplies. Petrol prices jumped to their highest for nearly four years, the ONS said, while diesel also rocketed.",
+        "en": "But Great Britain&#x27;s Billie Jean King Cup squad know full well the enormity of the challenge that awaits them.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The cost of filling up a vehicle soared in August as the conflict in the Middle East continued to disrupt global oil supplies.",
-            "ko": "실시간 보도 번역: The cost of filling up a vehicle soared in August as the conflict in the Middle East continued to disrupt global oil supplies."
-          },
-          {
-            "en": "Petrol prices jumped to their highest for nearly four years, the ONS said, while diesel also rocketed.",
-            "ko": "실시간 보도 번역: Petrol prices jumped to their highest for nearly four years, the ONS said, while diesel also rocketed."
+            "en": "But Great Britain&#x27;s Billie Jean King Cup squad know full well the enormity of the challenge that awaits them.",
+            "ko": "실시간 보도 번역: But Great Britain&#x27;s Billie Jean King Cup squad know full well the enormity of the challenge that awaits them."
           }
         ]
       },
       {
-        "en": "Meanwhile, the cost of flying jumped during the key month for summer getaways.",
+        "en": "On Tuesday, the tight-knit British team - Dart, Katie Boulter, Sonay Kartal, Mika Stojsavljevic and Jodie Burrage - take on the Czech Republic in their BJK Cup quarter-final in Shenzhen, China.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Meanwhile, the cost of flying jumped during the key month for summer getaways.",
-            "ko": "실시간 보도 번역: Meanwhile, the cost of flying jumped during the key month for summer getaways."
+            "en": "On Tuesday, the tight-knit British team - Dart, Katie Boulter, Sonay Kartal, Mika Stojsavljevic and Jodie Burrage - take on the Czech Republic in their BJK Cup quarter-final in Shenzhen, China.",
+            "ko": "실시간 보도 번역: On Tuesday, the tight-knit British team - Dart, Katie Boulter, Sonay Kartal, Mika Stojsavljevic and Jodie Burrage - take on the Czech Republic in their BJK Cup quarter-final in Shenzhen, China."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Petrol and diesel price rises push UK inflation higher",
+      "글로벌 최신 소식: Best not to underestimate us - GB plan BJK Cup upset against all-star Czechs",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2413,14 +2538,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Petrol and diesel price rises push UK inflation higher",
+          "Best not to underestimate us - GB plan BJK Cup upset against all-star Czechs",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_5457054076323833820",
@@ -3138,66 +3265,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_3747823117172328964",
-    "title": "Draper decides not to play again this season",
-    "subtitle": "Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of ...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-15",
-    "addedAt": "2026-09-16T15:58:31Z",
-    "category": "sports",
+    "id": "auto_culture_4883308255669795140",
+    "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
+    "subtitle": "His family asked for privacy during a \"very difficult and painful time\" following the model's death....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-21",
+    "addedAt": "2026-09-21T17:43:12Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 137,
+    "wordCount": 96,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDraper decides not to play again this seasonImage source, Getty ImagesImage caption, Draper reached the US Open semi-finals in 2024",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaPresley Gerber, Cindy Crawford&#x27;s son, dies aged 27To play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDraper decides not to play again this seasonImage source, Getty ImagesImage caption, Draper reached the US Open semi-finals in 2024",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDraper decides not to play again this seasonImage source, Getty ImagesImage caption, Draper reached the US Open semi-finals in 2024"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaPresley Gerber, Cindy Crawford&#x27;s son, dies aged 27To play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaPresley Gerber, Cindy Crawford&#x27;s son, dies aged 27To play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Tennis correspondentPublished15 September 2026Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of next year.",
+        "en": "Watch: Presley Gerber seen alongside his family on the red carpet",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Tennis correspondentPublished15 September 2026Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of next year.",
-            "ko": "실시간 보도 번역: Tennis correspondentPublished15 September 2026Former world number four Jack Draper will not play again this season, but says he is aiming to return to the tour at the start of next year."
+            "en": "Watch: Presley Gerber seen alongside his family on the red carpet",
+            "ko": "실시간 보도 번역: Watch: Presley Gerber seen alongside his family on the red carpet"
           }
         ]
       },
       {
-        "en": "The 24-year-old has been suffering with bone bruising in his serving arm and has only played nine events since last year&#x27;s Wimbledon.",
+        "en": "Presley Gerber, the son of supermodel Cindy Crawford, has died at the age of 27.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 24-year-old has been suffering with bone bruising in his serving arm and has only played nine events since last year&#x27;s Wimbledon.",
-            "ko": "실시간 보도 번역: The 24-year-old has been suffering with bone bruising in his serving arm and has only played nine events since last year&#x27;s Wimbledon."
+            "en": "Presley Gerber, the son of supermodel Cindy Crawford, has died at the age of 27.",
+            "ko": "실시간 보도 번역: Presley Gerber, the son of supermodel Cindy Crawford, has died at the age of 27."
           }
         ]
       },
       {
-        "en": "Draper missed the US Open, after losing in the first round in Montreal and Cincinnati last month - and was in tears during his defeat to France&#x27;s Terence Atmane in Canada.",
+        "en": "Gerber, a model, died at a rehab facility on Sunday, according to records filed by the Los Angeles County Medical Examiner. The cause of death was not listed.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Draper missed the US Open, after losing in the first round in Montreal and Cincinnati last month - and was in tears during his defeat to France&#x27;s Terence Atmane in Canada.",
-            "ko": "실시간 보도 번역: Draper missed the US Open, after losing in the first round in Montreal and Cincinnati last month - and was in tears during his defeat to France&#x27;s Terence Atmane in Canada."
+            "en": "Gerber, a model, died at a rehab facility on Sunday, according to records filed by the Los Angeles County Medical Examiner.",
+            "ko": "실시간 보도 번역: Gerber, a model, died at a rehab facility on Sunday, according to records filed by the Los Angeles County Medical Examiner."
+          },
+          {
+            "en": "The cause of death was not listed.",
+            "ko": "실시간 보도 번역: The cause of death was not listed."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Draper decides not to play again this season",
+      "글로벌 최신 소식: Presley Gerber, Cindy Crawford's son, dies aged 27",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3205,16 +3336,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Draper decides not to play again this season",
+          "Presley Gerber, Cindy Crawford's son, dies aged 27",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_4604038038575776272",
@@ -3879,91 +4008,6 @@ const READPULSE_ARTICLES = [
           {
             "en": "Music correspondentPublished16 September 2026Singer Ed Sheeran is facing the biggest controversy of his career after a storm over a decision to drop support act Macklemore from his US stadium tour following the rapper&#x27;s on-stage pro-Palestinian comments.",
             "ko": "실시간 보도 번역: Music correspondentPublished16 September 2026Singer Ed Sheeran is facing the biggest controversy of his career after a storm over a decision to drop support act Macklemore from his US stadium tour following the rapper&#x27;s on-stage pro-Palestinian comments."
-          }
-        ]
-      },
-      {
-        "en": "Sheeran is one of the most successful songwriters of all time. He has sold more than 120 million records and spent more than 1,000 weeks on the US album charts.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Sheeran is one of the most successful songwriters of all time.",
-            "ko": "실시간 보도 번역: Sheeran is one of the most successful songwriters of all time."
-          },
-          {
-            "en": "He has sold more than 120 million records and spent more than 1,000 weeks on the US album charts.",
-            "ko": "실시간 보도 번역: He has sold more than 120 million records and spent more than 1,000 weeks on the US album charts."
-          }
-        ]
-      },
-      {
-        "en": "Part of his appeal - apart from those insidiously catchy songs - is his everyman persona. He looks and dresses like a fan on the train home from Glastonbury, rather than one of the festival&#x27;s headliners.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Part of his appeal - apart from those insidiously catchy songs - is his everyman persona.",
-            "ko": "실시간 보도 번역: Part of his appeal - apart from those insidiously catchy songs - is his everyman persona."
-          },
-          {
-            "en": "He looks and dresses like a fan on the train home from Glastonbury, rather than one of the festival&#x27;s headliners.",
-            "ko": "실시간 보도 번역: He looks and dresses like a fan on the train home from Glastonbury, rather than one of the festival&#x27;s headliners."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_3700160023946897194",
-    "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
-    "subtitle": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-16",
-    "addedAt": "2026-09-16T15:58:32Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 150,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow being music&#x27;s Mr Nice Guy contributed to biggest crisis of Ed Sheeran&#x27;s careerTo play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow being music&#x27;s Mr Nice Guy contributed to biggest crisis of Ed Sheeran&#x27;s careerTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow being music&#x27;s Mr Nice Guy contributed to biggest crisis of Ed Sheeran&#x27;s careerTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Music correspondentPublished4 hours agoSinger Ed Sheeran is facing the biggest controversy of his career after a storm over a decision to drop support act Macklemore from his US stadium tour following the rapper&#x27;s on-stage pro-Palestinian comments.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Music correspondentPublished4 hours agoSinger Ed Sheeran is facing the biggest controversy of his career after a storm over a decision to drop support act Macklemore from his US stadium tour following the rapper&#x27;s on-stage pro-Palestinian comments.",
-            "ko": "실시간 보도 번역: Music correspondentPublished4 hours agoSinger Ed Sheeran is facing the biggest controversy of his career after a storm over a decision to drop support act Macklemore from his US stadium tour following the rapper&#x27;s on-stage pro-Palestinian comments."
           }
         ]
       },
