@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_3844851069575977769",
+    "title": "Not all AI workers think the tech could kill everyone",
+    "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-19",
+    "addedAt": "2026-09-22T16:07:57Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 147,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity."
+          }
+        ]
+      },
+      {
+        "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+            "ko": "실시간 보도 번역: In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse."
+          }
+        ]
+      },
+      {
+        "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+            "ko": "실시간 보도 번역: &quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry."
+          }
+        ]
+      },
+      {
+        "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+            "ko": "실시간 보도 번역: While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Not all AI workers think the tech could kill everyone",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Not all AI workers think the tech could kill everyone",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1924510867476562154",
     "title": "Not all AI workers think the tech could kill everyone",
     "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
@@ -762,66 +839,78 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1159270704539786674",
-    "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-    "subtitle": "The comments were made at a summit in Scotland with participants from AI giants including Nvidia, OpenAI and Anthropic....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-17",
-    "addedAt": "2026-09-17T16:05:19Z",
-    "category": "tech",
+    "id": "auto_science_2712347735147092721",
+    "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+    "subtitle": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world....",
+    "speaker": "BBC Science",
+    "date": "2026-09-22",
+    "addedAt": "2026-09-22T16:07:57Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 150,
+    "wordCount": 131,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechKing Charles warns of &#x27;existential danger&#x27; of AI falling into wrong handsImage source, ReutersByLaura Cress, Technology reporter and Shiona McCallum, Senior technology reporterPublished17 September 2026, 13:58 BSTUpdated 1 hour agoKing Charles has warned AI executives of the &quot;existential dangers&quot; posed by the technology falling into the wrong hands.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpDeveloping El Niño becomes strongest on record weeks before expected peakImage source, Anadolou/Getty ImagesImage caption, Wildfires fuelled by El Niño are affecting around 12.5 million people across Indonesia, according to the country&#x27;s health ministry.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechKing Charles warns of &#x27;existential danger&#x27; of AI falling into wrong handsImage source, ReutersByLaura Cress, Technology reporter and Shiona McCallum, Senior technology reporterPublished17 September 2026, 13:58 BSTUpdated 1 hour agoKing Charles has warned AI executives of the &quot;existential dangers&quot; posed by the technology falling into the wrong hands.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechKing Charles warns of &#x27;existential danger&#x27; of AI falling into wrong handsImage source, ReutersByLaura Cress, Technology reporter and Shiona McCallum, Senior technology reporterPublished17 September 2026, 13:58 BSTUpdated 1 hour agoKing Charles has warned AI executives of the &quot;existential dangers&quot; posed by the technology falling into the wrong hands."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpDeveloping El Niño becomes strongest on record weeks before expected peakImage source, Anadolou/Getty ImagesImage caption, Wildfires fuelled by El Niño are affecting around 12.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpDeveloping El Niño becomes strongest on record weeks before expected peakImage source, Anadolou/Getty ImagesImage caption, Wildfires fuelled by El Niño are affecting around 12."
+          },
+          {
+            "en": "5 million people across Indonesia, according to the country&#x27;s health ministry.",
+            "ko": "실시간 보도 번역: 5 million people across Indonesia, according to the country&#x27;s health ministry."
           }
         ]
       },
       {
-        "en": "He made the comments at a summit he had convened at Dumfries House in Ayrshire to discuss how the tech can be used to benefit society.",
+        "en": "The developing El Niño climate phenomenon is now the strongest on record, according to scientists monitoring Pacific Ocean temperatures.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "He made the comments at a summit he had convened at Dumfries House in Ayrshire to discuss how the tech can be used to benefit society.",
-            "ko": "실시간 보도 번역: He made the comments at a summit he had convened at Dumfries House in Ayrshire to discuss how the tech can be used to benefit society."
+            "en": "The developing El Niño climate phenomenon is now the strongest on record, according to scientists monitoring Pacific Ocean temperatures.",
+            "ko": "실시간 보도 번역: The developing El Niño climate phenomenon is now the strongest on record, according to scientists monitoring Pacific Ocean temperatures."
           }
         ]
       },
       {
-        "en": "Those gathered at the meeting also included Kanishka Narayan, the UK&#x27;s AI Minister, the Pope&#x27;s advisor, and participants from AI giants such as Nvidia, OpenAI and Anthropic.",
+        "en": "Daily sea surface temperatures in a key region of the central-eastern Pacific were 3.05C above average on 19 September - exceeding the previous record of 3.02C set during the very strong El Niño of 2015.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Those gathered at the meeting also included Kanishka Narayan, the UK&#x27;s AI Minister, the Pope&#x27;s advisor, and participants from AI giants such as Nvidia, OpenAI and Anthropic.",
-            "ko": "실시간 보도 번역: Those gathered at the meeting also included Kanishka Narayan, the UK&#x27;s AI Minister, the Pope&#x27;s advisor, and participants from AI giants such as Nvidia, OpenAI and Anthropic."
+            "en": "Daily sea surface temperatures in a key region of the central-eastern Pacific were 3.",
+            "ko": "실시간 보도 번역: Daily sea surface temperatures in a key region of the central-eastern Pacific were 3."
+          },
+          {
+            "en": "05C above average on 19 September - exceeding the previous record of 3.",
+            "ko": "실시간 보도 번역: 05C above average on 19 September - exceeding the previous record of 3."
+          },
+          {
+            "en": "02C set during the very strong El Niño of 2015.",
+            "ko": "실시간 보도 번역: 02C set during the very strong El Niño of 2015."
           }
         ]
       },
       {
-        "en": "It comes amid a series of recent warnings from people inside the industry about the rapidly evolving capabilities of advanced or &quot;frontier&quot; AI models and the regulation needed to keep them in check.",
+        "en": "Some longer-term measures of El Niño have not yet hit record levels but this is likely to change, with the peak not expected until later this year.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It comes amid a series of recent warnings from people inside the industry about the rapidly evolving capabilities of advanced or &quot;frontier&quot; AI models and the regulation needed to keep them in check.",
-            "ko": "실시간 보도 번역: It comes amid a series of recent warnings from people inside the industry about the rapidly evolving capabilities of advanced or &quot;frontier&quot; AI models and the regulation needed to keep them in check."
+            "en": "Some longer-term measures of El Niño have not yet hit record levels but this is likely to change, with the peak not expected until later this year.",
+            "ko": "실시간 보도 번역: Some longer-term measures of El Niño have not yet hit record levels but this is likely to change, with the peak not expected until later this year."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: King Charles warns of 'existential danger' of AI falling into wrong hands",
+      "글로벌 최신 소식: Developing El Niño becomes strongest on record weeks before expected peak",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -829,7 +918,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "King Charles warns of 'existential danger' of AI falling into wrong hands",
+          "Developing El Niño becomes strongest on record weeks before expected peak",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1652,66 +1741,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_6846894248394830304",
-    "title": "The farmer who turned to singing after bovine TB silenced his fields",
-    "subtitle": "Dairy farmer Mervyn Kelso struggled with the sadness of the empty fields when he lost his entire herd to bovine TB....",
-    "speaker": "BBC Science",
-    "date": "2026-09-17",
-    "addedAt": "2026-09-17T16:05:20Z",
-    "category": "science",
+    "id": "auto_economy_6712846539495039083",
+    "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+    "subtitle": "Ineos said natural gas in the UK is twelve times more expensive than in the US....",
+    "speaker": "BBC Business",
+    "date": "2026-09-22",
+    "addedAt": "2026-09-22T16:07:57Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 127,
+    "wordCount": 144,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN. IrelandN. Ireland PoliticsThe farmer who turned to singing after bovine TB silenced his fieldsImage caption, Mervyn Kelso lost his whole herd to bovine TB",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessSir Jim Ratcliffe suspends production at key UK plants blaming high gas pricesImage source, Getty ImagesImage caption, Sir Jim said Ineos was being &#x27;forced&#x27; to pause production at the three plants",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessSir Jim Ratcliffe suspends production at key UK plants blaming high gas pricesImage source, Getty ImagesImage caption, Sir Jim said Ineos was being &#x27;forced&#x27; to pause production at the three plants",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessSir Jim Ratcliffe suspends production at key UK plants blaming high gas pricesImage source, Getty ImagesImage caption, Sir Jim said Ineos was being &#x27;forced&#x27; to pause production at the three plants"
           }
         ]
       },
       {
-        "en": "Agriculture and environment correspondent, BBC News NIPublished17 September 2026, 06:43 BSTUpdated 6 hours agoWhen bovine TB led to the loss of his entire herd,  dairy farmer Mervyn Kelso struggled with the sadness of the empty fields and the silence of the milking yard.",
+        "en": "Billionaire Sir Jim Ratcliffe&#x27;s industrial giant Ineos is pausing production at its three plants in Hull, blaming high UK gas prices.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Agriculture and environment correspondent, BBC News NIPublished17 September 2026, 06:43 BSTUpdated 6 hours agoWhen bovine TB led to the loss of his entire herd,  dairy farmer Mervyn Kelso struggled with the sadness of the empty fields and the silence of the milking yard.",
-            "ko": "실시간 보도 번역: Agriculture and environment correspondent, BBC News NIPublished17 September 2026, 06:43 BSTUpdated 6 hours agoWhen bovine TB led to the loss of his entire herd,  dairy farmer Mervyn Kelso struggled with the sadness of the empty fields and the silence of the milking yard."
+            "en": "Billionaire Sir Jim Ratcliffe&#x27;s industrial giant Ineos is pausing production at its three plants in Hull, blaming high UK gas prices.",
+            "ko": "실시간 보도 번역: Billionaire Sir Jim Ratcliffe&#x27;s industrial giant Ineos is pausing production at its three plants in Hull, blaming high UK gas prices."
           }
         ]
       },
       {
-        "en": "It was a traumatic time for a man who had farmed his whole life, and it was hard watching his neighbours tend to their cows.",
+        "en": "The firm said gas prices in the UK are twelve times higher than in the US, and eight times more expensive than the coal-based processes used by Chinese competitors.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It was a traumatic time for a man who had farmed his whole life, and it was hard watching his neighbours tend to their cows.",
-            "ko": "실시간 보도 번역: It was a traumatic time for a man who had farmed his whole life, and it was hard watching his neighbours tend to their cows."
+            "en": "The firm said gas prices in the UK are twelve times higher than in the US, and eight times more expensive than the coal-based processes used by Chinese competitors.",
+            "ko": "실시간 보도 번역: The firm said gas prices in the UK are twelve times higher than in the US, and eight times more expensive than the coal-based processes used by Chinese competitors."
           }
         ]
       },
       {
-        "en": "His sister suggested he should join the Farmers&#x27; Choir and that turned out to be a &quot;great lifter&quot;.",
+        "en": "Sir Jim said: &quot;We are being forced to mothball some of the most efficient plants in Europe, but with gas prices now 12 times the level in the US and 8 times that of China, we just cannot compete.&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "His sister suggested he should join the Farmers&#x27; Choir and that turned out to be a &quot;great lifter&quot;.",
-            "ko": "실시간 보도 번역: His sister suggested he should join the Farmers&#x27; Choir and that turned out to be a &quot;great lifter&quot;."
+            "en": "Sir Jim said: &quot;We are being forced to mothball some of the most efficient plants in Europe, but with gas prices now 12 times the level in the US and 8 times that of China, we just cannot compete.",
+            "ko": "실시간 보도 번역: Sir Jim said: &quot;We are being forced to mothball some of the most efficient plants in Europe, but with gas prices now 12 times the level in the US and 8 times that of China, we just cannot compete."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: The farmer who turned to singing after bovine TB silenced his fields",
+      "글로벌 최신 소식: Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1719,7 +1808,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "The farmer who turned to singing after bovine TB silenced his fields",
+          "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2438,70 +2527,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_61417539579767331",
-    "title": "Interest rates held but Bank signals rise if energy prices stay high",
-    "subtitle": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue....",
-    "speaker": "BBC Business",
-    "date": "2026-09-17",
-    "addedAt": "2026-09-17T16:05:20Z",
-    "category": "economy",
+    "id": "auto_sports_2123316874371475474",
+    "title": "GB out of BJK Cup as Kartal &amp; Boulter beaten by Czechs",
+    "subtitle": "Sonay Kartal and Katie Boulter lose their singles matches as Great Britain are beaten by a strong Czech Republic side in the Billi...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-22",
+    "addedAt": "2026-09-22T16:07:58Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 177,
+    "wordCount": 153,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessInterest rates held but Bank signals rise if energy prices stay highImage source, Getty ImagesByDearbail Jordan, Business reporter and Kevin Peachey, Cost of living correspondentPublished17 September 2026, 00:15 BSTUpdated 1 hour agoThe Bank of England has held interest rates for the sixth time in a row but said they are likely to rise if high energy prices caused by the conflict in the Middle East continue.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB out of BJK Cup as Kartal &amp; Boulter beaten by CzechsImage source, Getty ImagesImage caption, Katie Boulter was Britain&#x27;s highest ranked player as the world number 54",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessInterest rates held but Bank signals rise if energy prices stay highImage source, Getty ImagesByDearbail Jordan, Business reporter and Kevin Peachey, Cost of living correspondentPublished17 September 2026, 00:15 BSTUpdated 1 hour agoThe Bank of England has held interest rates for the sixth time in a row but said they are likely to rise if high energy prices caused by the conflict in the Middle East continue.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessInterest rates held but Bank signals rise if energy prices stay highImage source, Getty ImagesByDearbail Jordan, Business reporter and Kevin Peachey, Cost of living correspondentPublished17 September 2026, 00:15 BSTUpdated 1 hour agoThe Bank of England has held interest rates for the sixth time in a row but said they are likely to rise if high energy prices caused by the conflict in the Middle East continue."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB out of BJK Cup as Kartal &amp; Boulter beaten by CzechsImage source, Getty ImagesImage caption, Katie Boulter was Britain&#x27;s highest ranked player as the world number 54",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB out of BJK Cup as Kartal &amp; Boulter beaten by CzechsImage source, Getty ImagesImage caption, Katie Boulter was Britain&#x27;s highest ranked player as the world number 54"
           }
         ]
       },
       {
-        "en": "The main Bank rate has been kept at 3.75% despite an uptick in the rate of inflation.",
+        "en": "Sonay Kartal and Katie Boulter lost their respective singles matches as Great Britain were beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The main Bank rate has been kept at 3.",
-            "ko": "실시간 보도 번역: The main Bank rate has been kept at 3."
-          },
-          {
-            "en": "75% despite an uptick in the rate of inflation.",
-            "ko": "실시간 보도 번역: 75% despite an uptick in the rate of inflation."
+            "en": "Sonay Kartal and Katie Boulter lost their respective singles matches as Great Britain were beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals.",
+            "ko": "실시간 보도 번역: Sonay Kartal and Katie Boulter lost their respective singles matches as Great Britain were beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals."
           }
         ]
       },
       {
-        "en": "The US-Israel war with Iran has disrupted global energy supplies which has led to a sharp increase in petrol and diesel prices.",
+        "en": "Anne Keothavong&#x27;s team headed into the tie as underdogs, with all five Czech players placed higher in the singles rankings than any of the British squad.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The US-Israel war with Iran has disrupted global energy supplies which has led to a sharp increase in petrol and diesel prices.",
-            "ko": "실시간 보도 번역: The US-Israel war with Iran has disrupted global energy supplies which has led to a sharp increase in petrol and diesel prices."
+            "en": "Anne Keothavong&#x27;s team headed into the tie as underdogs, with all five Czech players placed higher in the singles rankings than any of the British squad.",
+            "ko": "실시간 보도 번역: Anne Keothavong&#x27;s team headed into the tie as underdogs, with all five Czech players placed higher in the singles rankings than any of the British squad."
           }
         ]
       },
       {
-        "en": "Bank of England governor Andrew Bailey said the longer the volatility in energy prices persists, &quot;the bigger the impact it will have on inflation and the more likely it is we will need to raise [the] Bank rate to ensure that inflation falls back to our 2% target&quot;.",
+        "en": "Sonay Kartal produced a gritty performance as she returned to tennis after six months out with a lower back injury, but fell to a narrow 7-6 (7-2) 4-6 6-4 defeat in a marathon three-hour encounter with Marie Bouzkova.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Bank of England governor Andrew Bailey said the longer the volatility in energy prices persists, &quot;the bigger the impact it will have on inflation and the more likely it is we will need to raise [the] Bank rate to ensure that inflation falls back to our 2% target&quot;.",
-            "ko": "실시간 보도 번역: Bank of England governor Andrew Bailey said the longer the volatility in energy prices persists, &quot;the bigger the impact it will have on inflation and the more likely it is we will need to raise [the] Bank rate to ensure that inflation falls back to our 2% target&quot;."
+            "en": "Sonay Kartal produced a gritty performance as she returned to tennis after six months out with a lower back injury, but fell to a narrow 7-6 (7-2) 4-6 6-4 defeat in a marathon three-hour encounter with Marie Bouzkova.",
+            "ko": "실시간 보도 번역: Sonay Kartal produced a gritty performance as she returned to tennis after six months out with a lower back injury, but fell to a narrow 7-6 (7-2) 4-6 6-4 defeat in a marathon three-hour encounter with Marie Bouzkova."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Interest rates held but Bank signals rise if energy prices stay high",
+      "글로벌 최신 소식: GB out of BJK Cup as Kartal &amp; Boulter beaten by Czechs",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2509,14 +2594,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Interest rates held but Bank signals rise if energy prices stay high",
+          "GB out of BJK Cup as Kartal &amp; Boulter beaten by Czechs",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_9111026064552936061",
@@ -3230,66 +3317,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_7666817238768414058",
-    "title": "Six-time Grand Slam champion Salisbury retires",
-    "subtitle": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-17",
-    "addedAt": "2026-09-17T16:05:20Z",
-    "category": "sports",
+    "id": "auto_culture_3157822746930221894",
+    "title": "Harper Lee first edition novel found in Oxfam shop",
+    "subtitle": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-22",
+    "addedAt": "2026-09-22T16:07:59Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 128,
+    "wordCount": 109,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Salisbury won doubles titles at the Australian Open and US Open",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonHarper Lee first edition novel found in Oxfam shopImage source, Oxfam PortobelloImage caption, The book has since been acquired by the British Library and will join its national collection",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Salisbury won doubles titles at the Australian Open and US Open",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Salisbury won doubles titles at the Australian Open and US Open"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonHarper Lee first edition novel found in Oxfam shopImage source, Oxfam PortobelloImage caption, The book has since been acquired by the British Library and will join its national collection",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonHarper Lee first edition novel found in Oxfam shopImage source, Oxfam PortobelloImage caption, The book has since been acquired by the British Library and will join its national collection"
           }
         ]
       },
       {
-        "en": "Tennis correspondentPublished5 hours agoFormer world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis.",
+        "en": "A rare first edition of the novel To Kill A Mockingbird has been found among items donated to Oxfam, according to the charity.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Tennis correspondentPublished5 hours agoFormer world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis.",
-            "ko": "실시간 보도 번역: Tennis correspondentPublished5 hours agoFormer world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis."
+            "en": "A rare first edition of the novel To Kill A Mockingbird has been found among items donated to Oxfam, according to the charity.",
+            "ko": "실시간 보도 번역: A rare first edition of the novel To Kill A Mockingbird has been found among items donated to Oxfam, according to the charity."
           }
         ]
       },
       {
-        "en": "Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire.",
+        "en": "The copy of Harper Lee&#x27;s seminal 1960 work was discovered in a box of American books given to the charity&#x27;s bookshop in Portobello Road, west London.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire.",
-            "ko": "실시간 보도 번역: Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire."
+            "en": "The copy of Harper Lee&#x27;s seminal 1960 work was discovered in a box of American books given to the charity&#x27;s bookshop in Portobello Road, west London.",
+            "ko": "실시간 보도 번역: The copy of Harper Lee&#x27;s seminal 1960 work was discovered in a box of American books given to the charity&#x27;s bookshop in Portobello Road, west London."
           }
         ]
       },
       {
-        "en": "The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles.",
+        "en": "It has since been acquired by the British Library and will join its national collection.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles.",
-            "ko": "실시간 보도 번역: The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles."
+            "en": "It has since been acquired by the British Library and will join its national collection.",
+            "ko": "실시간 보도 번역: It has since been acquired by the British Library and will join its national collection."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Six-time Grand Slam champion Salisbury retires",
+      "글로벌 최신 소식: Harper Lee first edition novel found in Oxfam shop",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3297,16 +3384,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Six-time Grand Slam champion Salisbury retires",
+          "Harper Lee first edition novel found in Oxfam shop",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_4075066202969523348",
@@ -3939,87 +4024,6 @@ const READPULSE_ARTICLES = [
     "speaker": "BBC Arts",
     "date": "2026-09-17",
     "addedAt": "2026-09-18T02:50:13Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 146,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlashTo play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlashTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlashTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Robert Kraft, the US stadium owner who had pro-Palestinian rapper Macklemore removed as Ed Sheeran&#x27;s opening act, says Sheeran asked him to match his own $2m (£1.5m) donation for &quot;aid in the region&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Robert Kraft, the US stadium owner who had pro-Palestinian rapper Macklemore removed as Ed Sheeran&#x27;s opening act, says Sheeran asked him to match his own $2m (£1.",
-            "ko": "실시간 보도 번역: Robert Kraft, the US stadium owner who had pro-Palestinian rapper Macklemore removed as Ed Sheeran&#x27;s opening act, says Sheeran asked him to match his own $2m (£1."
-          },
-          {
-            "en": "5m) donation for &quot;aid in the region&quot;.",
-            "ko": "실시간 보도 번역: 5m) donation for &quot;aid in the region&quot;."
-          }
-        ]
-      },
-      {
-        "en": "It came after Macklemore said he would donate $1m (£750,000) to Palestinian organisations, challenging Kraft to match him.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "It came after Macklemore said he would donate $1m (£750,000) to Palestinian organisations, challenging Kraft to match him.",
-            "ko": "실시간 보도 번역: It came after Macklemore said he would donate $1m (£750,000) to Palestinian organisations, challenging Kraft to match him."
-          }
-        ]
-      },
-      {
-        "en": "Kraft, who owns the New England Patriots, wrote on Wednesday: &quot;Earlier today, before Macklemore challenged me to match his donation, Ed called me and asked me to commit $2 million to match his donation to aid in the region to fight this humanitarian crisis.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Kraft, who owns the New England Patriots, wrote on Wednesday: &quot;Earlier today, before Macklemore challenged me to match his donation, Ed called me and asked me to commit $2 million to match his donation to aid in the region to fight this humanitarian crisis.",
-            "ko": "실시간 보도 번역: Kraft, who owns the New England Patriots, wrote on Wednesday: &quot;Earlier today, before Macklemore challenged me to match his donation, Ed called me and asked me to commit $2 million to match his donation to aid in the region to fight this humanitarian crisis."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_8612572886287367936",
-    "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
-    "subtitle": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-17",
-    "addedAt": "2026-09-17T16:05:23Z",
     "category": "culture",
     "isLive": true,
     "level": "B2",
