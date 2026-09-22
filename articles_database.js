@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1924510867476562154",
+    "title": "Not all AI workers think the tech could kill everyone",
+    "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-19",
+    "addedAt": "2026-09-22T02:57:56Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 147,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity."
+          }
+        ]
+      },
+      {
+        "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+            "ko": "실시간 보도 번역: In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse."
+          }
+        ]
+      },
+      {
+        "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+            "ko": "실시간 보도 번역: &quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry."
+          }
+        ]
+      },
+      {
+        "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+            "ko": "실시간 보도 번역: While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Not all AI workers think the tech could kill everyone",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Not all AI workers think the tech could kill everyone",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_8265967969322131352",
     "title": "Not all AI workers think the tech could kill everyone",
     "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
@@ -762,66 +839,118 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_7435151888124003488",
-    "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
-    "subtitle": "Evan Speigel says it would be \"an important step forward for the industry\" in an interview with the BBC....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-16",
-    "addedAt": "2026-09-17T03:02:20Z",
-    "category": "tech",
+    "id": "auto_science_7267826820588302422",
+    "title": "Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
+    "subtitle": "More than 1.9 million people are under evacuation orders as Typhoon Dujuan batters Japan....",
+    "speaker": "BBC Science",
+    "date": "2026-09-21",
+    "addedAt": "2026-09-22T02:57:57Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 122,
+    "wordCount": 142,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatSnapchat considering daily time limits for teens, boss tells BBCTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Typhoon Dujuan tracking close to Tokyo triggers evacuation alert\",\"description\":\"More than 1.9 million people are under evacuation orders as Typhoon Dujuan batters Japan.\\n\\n\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pbrp9s.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pbrp9s.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pbrp9s.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pbrp9s.jpg\"],\"uploadDate\":\"2026-09-21T14:05:29.959Z\",\"duration\":\"PT53S\"}Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alertTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatSnapchat considering daily time limits for teens, boss tells BBCTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatSnapchat considering daily time limits for teens, boss tells BBCTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema."
+          },
+          {
+            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Typhoon Dujuan tracking close to Tokyo triggers evacuation alert\",\"description\":\"More than 1.",
+            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Typhoon Dujuan tracking close to Tokyo triggers evacuation alert\",\"description\":\"More than 1."
+          },
+          {
+            "en": "9 million people are under evacuation orders as Typhoon Dujuan batters Japan.",
+            "ko": "실시간 보도 번역: 9 million people are under evacuation orders as Typhoon Dujuan batters Japan."
+          },
+          {
+            "en": "\\n\\n\",\"thumbnailUrl\":[\"https://ichef.",
+            "ko": "실시간 보도 번역: \\n\\n\",\"thumbnailUrl\":[\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1920/galileo/p0pbrp9s.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pbrp9s."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1248/galileo/p0pbrp9s.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pbrp9s."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/688/galileo/p0pbrp9s.",
+            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pbrp9s."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/400/galileo/p0pbrp9s.",
+            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pbrp9s."
+          },
+          {
+            "en": "jpg\"],\"uploadDate\":\"2026-09-21T14:05:29.",
+            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-21T14:05:29."
+          },
+          {
+            "en": "959Z\",\"duration\":\"PT53S\"}Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alertTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: 959Z\",\"duration\":\"PT53S\"}Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alertTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Watch: CEO Evan Spiegel tells the BBC he would consider a time limit on Snapchat",
+        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSevere weatherFollow Severe weather",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Watch: CEO Evan Spiegel tells the BBC he would consider a time limit on Snapchat",
-            "ko": "실시간 보도 번역: Watch: CEO Evan Spiegel tells the BBC he would consider a time limit on Snapchat"
+            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSevere weatherFollow Severe weather",
+            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsSevere weatherFollow Severe weather"
           }
         ]
       },
       {
-        "en": "The boss of Snapchat-parent Snap Inc says the firm would be &quot;willing to implement&quot; time limits for teens, following a call from Meta for it to take action.",
+        "en": "close panelYou are now following\n    Severe weatherUpdates from your News topics will appear in My News and in a collection on the News homepage.JapanFollow Japan",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The boss of Snapchat-parent Snap Inc says the firm would be &quot;willing to implement&quot; time limits for teens, following a call from Meta for it to take action.",
-            "ko": "실시간 보도 번역: The boss of Snapchat-parent Snap Inc says the firm would be &quot;willing to implement&quot; time limits for teens, following a call from Meta for it to take action."
+            "en": "close panelYou are now following\n    Severe weatherUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+            "ko": "실시간 보도 번역: close panelYou are now following\n    Severe weatherUpdates from your News topics will appear in My News and in a collection on the News homepage."
           }
         ]
       },
       {
-        "en": "Evan Spiegel told the BBC in an interview at the company&#x27;s California headquarters that setting a maximum amount of time that young users could spend on the app could be &quot;an important step forward for the industry.&quot;",
+        "en": "close panelYou are now following\n    JapanUpdates from your News topics will appear in My News and in a collection on the News homepage.Read descriptionEditor&#x27;s recommendationsTyphoon Dujuan tracking close to Tokyo triggers rare evacuation alert. Video, 00:00:53Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Evan Spiegel told the BBC in an interview at the company&#x27;s California headquarters that setting a maximum amount of time that young users could spend on the app could be &quot;an important step forward for the industry.",
-            "ko": "실시간 보도 번역: Evan Spiegel told the BBC in an interview at the company&#x27;s California headquarters that setting a maximum amount of time that young users could spend on the app could be &quot;an important step forward for the industry."
+            "en": "close panelYou are now following\n    JapanUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+            "ko": "실시간 보도 번역: close panelYou are now following\n    JapanUpdates from your News topics will appear in My News and in a collection on the News homepage."
+          },
+          {
+            "en": "Read descriptionEditor&#x27;s recommendationsTyphoon Dujuan tracking close to Tokyo triggers rare evacuation alert.",
+            "ko": "실시간 보도 번역: Read descriptionEditor&#x27;s recommendationsTyphoon Dujuan tracking close to Tokyo triggers rare evacuation alert."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+      "글로벌 최신 소식: Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -829,7 +958,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+          "Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1600,66 +1729,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_1830353060159118751",
-    "title": "Part-human part-mouse brain developed in science breakthrough",
-    "subtitle": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells....",
-    "speaker": "BBC Science",
-    "date": "2026-09-16",
-    "addedAt": "2026-09-17T03:02:20Z",
-    "category": "science",
+    "id": "auto_economy_6477134884613209334",
+    "title": "Vet prescription fees capped under rule changes",
+    "subtitle": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming mo...",
+    "speaker": "BBC Business",
+    "date": "2026-09-21",
+    "addedAt": "2026-09-22T02:57:57Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 111,
+    "wordCount": 154,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatPart-human part-mouse brain developed in science breakthroughImage source, Getty ImagesImage caption, The research has raised questions about what it means to alter the way laboratory  animals think and feel",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVet prescription fees capped under rule changesImage source, Getty ImagesByMitchell Labiak, Business reporter and Jim Connolly, BBC News InvestigationsPublished3 hours agoWritten prescription fees from vets will be capped at £21 as part of a raft of changes that practices will be legally required to bring in over the coming months.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatPart-human part-mouse brain developed in science breakthroughImage source, Getty ImagesImage caption, The research has raised questions about what it means to alter the way laboratory  animals think and feel",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatPart-human part-mouse brain developed in science breakthroughImage source, Getty ImagesImage caption, The research has raised questions about what it means to alter the way laboratory  animals think and feel"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVet prescription fees capped under rule changesImage source, Getty ImagesByMitchell Labiak, Business reporter and Jim Connolly, BBC News InvestigationsPublished3 hours agoWritten prescription fees from vets will be capped at £21 as part of a raft of changes that practices will be legally required to bring in over the coming months.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVet prescription fees capped under rule changesImage source, Getty ImagesByMitchell Labiak, Business reporter and Jim Connolly, BBC News InvestigationsPublished3 hours agoWritten prescription fees from vets will be capped at £21 as part of a raft of changes that practices will be legally required to bring in over the coming months."
           }
         ]
       },
       {
-        "en": "Neuroscientists in the US have successfully adapted mice to have functioning human cells inside their own brains.",
+        "en": "Vets must also tell clients if cheaper medicine is available online, write price estimates ahead of treatment, and publish price lists for services as part of the rule updates.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Neuroscientists in the US have successfully adapted mice to have functioning human cells inside their own brains.",
-            "ko": "실시간 보도 번역: Neuroscientists in the US have successfully adapted mice to have functioning human cells inside their own brains."
+            "en": "Vets must also tell clients if cheaper medicine is available online, write price estimates ahead of treatment, and publish price lists for services as part of the rule updates.",
+            "ko": "실시간 보도 번역: Vets must also tell clients if cheaper medicine is available online, write price estimates ahead of treatment, and publish price lists for services as part of the rule updates."
           }
         ]
       },
       {
-        "en": "The researchers hope that potential treatments for psychiatric and neurodevelopmental diseases that only occur in humans could now be tested on the laboratory rodents.",
+        "en": "The official competition watchdog has brought the measures into force after its investigation into the sector found prices had been rising at nearly twice the rate of inflation.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The researchers hope that potential treatments for psychiatric and neurodevelopmental diseases that only occur in humans could now be tested on the laboratory rodents.",
-            "ko": "실시간 보도 번역: The researchers hope that potential treatments for psychiatric and neurodevelopmental diseases that only occur in humans could now be tested on the laboratory rodents."
+            "en": "The official competition watchdog has brought the measures into force after its investigation into the sector found prices had been rising at nearly twice the rate of inflation.",
+            "ko": "실시간 보도 번역: The official competition watchdog has brought the measures into force after its investigation into the sector found prices had been rising at nearly twice the rate of inflation."
           }
         ]
       },
       {
-        "en": "While mice with brains that are partly human might sound like a Kafkaesque experiment, the scientists said these are not &quot;mice that think like humans&quot;.",
+        "en": "However, critics say the measures will hit independent vets hardest and will benefit the six firms that own more than two-thirds of practices.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "While mice with brains that are partly human might sound like a Kafkaesque experiment, the scientists said these are not &quot;mice that think like humans&quot;.",
-            "ko": "실시간 보도 번역: While mice with brains that are partly human might sound like a Kafkaesque experiment, the scientists said these are not &quot;mice that think like humans&quot;."
+            "en": "However, critics say the measures will hit independent vets hardest and will benefit the six firms that own more than two-thirds of practices.",
+            "ko": "실시간 보도 번역: However, critics say the measures will hit independent vets hardest and will benefit the six firms that own more than two-thirds of practices."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Part-human part-mouse brain developed in science breakthrough",
+      "글로벌 최신 소식: Vet prescription fees capped under rule changes",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1667,7 +1796,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Part-human part-mouse brain developed in science breakthrough",
+          "Vet prescription fees capped under rule changes",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2390,70 +2519,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_792827393984407421",
-    "title": "Interest rates hold expected but Bank of England facing tough choices",
-    "subtitle": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year....",
-    "speaker": "BBC Business",
-    "date": "2026-09-16",
-    "addedAt": "2026-09-17T03:02:20Z",
-    "category": "economy",
+    "id": "auto_sports_9111026064552936061",
+    "title": "Best not to underestimate us - GB plan BJK Cup upset against all-star Czechs",
+    "subtitle": "Great Britain face the Czech Republic at the Billie Jean King Cup Finals on Tuesday - and know full well the size of the challenge...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-21",
+    "addedAt": "2026-09-22T02:57:57Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 155,
+    "wordCount": 126,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessInterest rates hold expected but Bank of England facing tough choicesImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished3 hours agoPolicymakers at the Bank of England are expected to keep interest rates unchanged despite price rises accelerating due to the prolonged conflict in the Middle East.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB plan BJK Cup upset against all-star CzechsImage source, Getty ImagesImage caption, Great Britain play the Czech Republic in the BJK Cup on Tuesday from 10:00 BST - live on the BBC",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessInterest rates hold expected but Bank of England facing tough choicesImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished3 hours agoPolicymakers at the Bank of England are expected to keep interest rates unchanged despite price rises accelerating due to the prolonged conflict in the Middle East.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessInterest rates hold expected but Bank of England facing tough choicesImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished3 hours agoPolicymakers at the Bank of England are expected to keep interest rates unchanged despite price rises accelerating due to the prolonged conflict in the Middle East."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB plan BJK Cup upset against all-star CzechsImage source, Getty ImagesImage caption, Great Britain play the Czech Republic in the BJK Cup on Tuesday from 10:00 BST - live on the BBC",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB plan BJK Cup upset against all-star CzechsImage source, Getty ImagesImage caption, Great Britain play the Czech Republic in the BJK Cup on Tuesday from 10:00 BST - live on the BBC"
           }
         ]
       },
       {
-        "en": "The nine-member Monetary Policy Committee (MPC) has been meeting amid a backdrop of increasing global energy prices and interest rate rises around the world.",
+        "en": "&quot;It&#x27;s best not to underestimate us,&quot; says a defiant Harriet Dart.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The nine-member Monetary Policy Committee (MPC) has been meeting amid a backdrop of increasing global energy prices and interest rate rises around the world.",
-            "ko": "실시간 보도 번역: The nine-member Monetary Policy Committee (MPC) has been meeting amid a backdrop of increasing global energy prices and interest rate rises around the world."
+            "en": "&quot;It&#x27;s best not to underestimate us,&quot; says a defiant Harriet Dart.",
+            "ko": "실시간 보도 번역: &quot;It&#x27;s best not to underestimate us,&quot; says a defiant Harriet Dart."
           }
         ]
       },
       {
-        "en": "Economists expect the MPC to hold the benchmark Bank rate at 3.75% for a sixth consecutive meeting but analysts are more divided on whether the rate will need to go up before the end of the year.",
+        "en": "But Great Britain&#x27;s Billie Jean King Cup squad know full well the enormity of the challenge that awaits them.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Economists expect the MPC to hold the benchmark Bank rate at 3.",
-            "ko": "실시간 보도 번역: Economists expect the MPC to hold the benchmark Bank rate at 3."
-          },
-          {
-            "en": "75% for a sixth consecutive meeting but analysts are more divided on whether the rate will need to go up before the end of the year.",
-            "ko": "실시간 보도 번역: 75% for a sixth consecutive meeting but analysts are more divided on whether the rate will need to go up before the end of the year."
+            "en": "But Great Britain&#x27;s Billie Jean King Cup squad know full well the enormity of the challenge that awaits them.",
+            "ko": "실시간 보도 번역: But Great Britain&#x27;s Billie Jean King Cup squad know full well the enormity of the challenge that awaits them."
           }
         ]
       },
       {
-        "en": "The Bank rate is crucial in setting the benchmark for banks and other lenders in setting interest for individuals and businesses borrowing and saving money.",
+        "en": "On Tuesday, the tight-knit British team - Dart, Katie Boulter, Sonay Kartal, Mika Stojsavljevic and Jodie Burrage - take on the Czech Republic in their BJK Cup quarter-final in Shenzhen, China.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Bank rate is crucial in setting the benchmark for banks and other lenders in setting interest for individuals and businesses borrowing and saving money.",
-            "ko": "실시간 보도 번역: The Bank rate is crucial in setting the benchmark for banks and other lenders in setting interest for individuals and businesses borrowing and saving money."
+            "en": "On Tuesday, the tight-knit British team - Dart, Katie Boulter, Sonay Kartal, Mika Stojsavljevic and Jodie Burrage - take on the Czech Republic in their BJK Cup quarter-final in Shenzhen, China.",
+            "ko": "실시간 보도 번역: On Tuesday, the tight-knit British team - Dart, Katie Boulter, Sonay Kartal, Mika Stojsavljevic and Jodie Burrage - take on the Czech Republic in their BJK Cup quarter-final in Shenzhen, China."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Interest rates hold expected but Bank of England facing tough choices",
+      "글로벌 최신 소식: Best not to underestimate us - GB plan BJK Cup upset against all-star Czechs",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2461,14 +2586,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Interest rates hold expected but Bank of England facing tough choices",
+          "Best not to underestimate us - GB plan BJK Cup upset against all-star Czechs",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_1663979118600000434",
@@ -3182,70 +3309,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_4017126599956477685",
-    "title": "Charlotte to host WTA Finals from 2027",
-    "subtitle": "The WTA Finals will take place in the American city of Charlotte from 2027 on a three-year deal....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-16",
-    "addedAt": "2026-09-17T03:02:21Z",
-    "category": "sports",
+    "id": "auto_culture_4075066202969523348",
+    "title": "London Fashion Week 2026: The five trends we'll see in spring",
+    "subtitle": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-21",
+    "addedAt": "2026-09-22T02:57:58Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
     "wordCount": 138,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCharlotte to host WTA Finals from 2027Image source, Getty ImagesImage caption, Elena Rybakina won the 2025 WTA Finals in Saudi Arabia",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatLondon Fashion Week 2026: The five trends we&#x27;ll see in springImage source, McQueenImage caption, Alexander McQueen made a historic return to London Fashion Week after 25 years, staging a homecoming show that fused severe tailoring with dark romanticism",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCharlotte to host WTA Finals from 2027Image source, Getty ImagesImage caption, Elena Rybakina won the 2025 WTA Finals in Saudi Arabia",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCharlotte to host WTA Finals from 2027Image source, Getty ImagesImage caption, Elena Rybakina won the 2025 WTA Finals in Saudi Arabia"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatLondon Fashion Week 2026: The five trends we&#x27;ll see in springImage source, McQueenImage caption, Alexander McQueen made a historic return to London Fashion Week after 25 years, staging a homecoming show that fused severe tailoring with dark romanticism",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatLondon Fashion Week 2026: The five trends we&#x27;ll see in springImage source, McQueenImage caption, Alexander McQueen made a historic return to London Fashion Week after 25 years, staging a homecoming show that fused severe tailoring with dark romanticism"
           }
         ]
       },
       {
-        "en": "Tennis correspondentPublished16 September 2026The American city of Charlotte in North Carolina has been chosen as the new home of the season-ending WTA Finals.",
+        "en": "This London Fashion Week has been about return and renewal - as two of Britain&#x27;s biggest designers showcased their spring/summer 2027 designs.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Tennis correspondentPublished16 September 2026The American city of Charlotte in North Carolina has been chosen as the new home of the season-ending WTA Finals.",
-            "ko": "실시간 보도 번역: Tennis correspondentPublished16 September 2026The American city of Charlotte in North Carolina has been chosen as the new home of the season-ending WTA Finals."
+            "en": "This London Fashion Week has been about return and renewal - as two of Britain&#x27;s biggest designers showcased their spring/summer 2027 designs.",
+            "ko": "실시간 보도 번역: This London Fashion Week has been about return and renewal - as two of Britain&#x27;s biggest designers showcased their spring/summer 2027 designs."
           }
         ]
       },
       {
-        "en": "The WTA says it wants to create the &quot;Super Bowl of women&#x27;s sports&quot; and is hoping the three-year deal will bring more stability to an event that has had six hosts in seven years.",
+        "en": "The first was Alexander McQueen, which as a brand moved to London after 25 years  of showing in Paris - something Laura Weir, CEO of the British Fashion Council, told the BBC was &quot;quite a big deal for us&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The WTA says it wants to create the &quot;Super Bowl of women&#x27;s sports&quot; and is hoping the three-year deal will bring more stability to an event that has had six hosts in seven years.",
-            "ko": "실시간 보도 번역: The WTA says it wants to create the &quot;Super Bowl of women&#x27;s sports&quot; and is hoping the three-year deal will bring more stability to an event that has had six hosts in seven years."
+            "en": "The first was Alexander McQueen, which as a brand moved to London after 25 years  of showing in Paris - something Laura Weir, CEO of the British Fashion Council, told the BBC was &quot;quite a big deal for us&quot;.",
+            "ko": "실시간 보도 번역: The first was Alexander McQueen, which as a brand moved to London after 25 years  of showing in Paris - something Laura Weir, CEO of the British Fashion Council, told the BBC was &quot;quite a big deal for us&quot;."
           }
         ]
       },
       {
-        "en": "A planned 10-year stay in Shenzhen ended after just one year, with Guadalajara, Fort Worth, Cancun and Riyadh all taking turns since. Crowds have often been disappointing.",
+        "en": "Creative director Seán McGirr brought the brand back to its roots, with a runway of devil horns, lace corsets and chainmail skull dresses.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A planned 10-year stay in Shenzhen ended after just one year, with Guadalajara, Fort Worth, Cancun and Riyadh all taking turns since.",
-            "ko": "실시간 보도 번역: A planned 10-year stay in Shenzhen ended after just one year, with Guadalajara, Fort Worth, Cancun and Riyadh all taking turns since."
-          },
-          {
-            "en": "Crowds have often been disappointing.",
-            "ko": "실시간 보도 번역: Crowds have often been disappointing."
+            "en": "Creative director Seán McGirr brought the brand back to its roots, with a runway of devil horns, lace corsets and chainmail skull dresses.",
+            "ko": "실시간 보도 번역: Creative director Seán McGirr brought the brand back to its roots, with a runway of devil horns, lace corsets and chainmail skull dresses."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Charlotte to host WTA Finals from 2027",
+      "글로벌 최신 소식: London Fashion Week 2026: The five trends we'll see in spring",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3253,16 +3376,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Charlotte to host WTA Finals from 2027",
+          "London Fashion Week 2026: The five trends we'll see in spring",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_4883308255669795140",
@@ -3965,91 +4086,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_5792154907310114069",
-    "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
-    "subtitle": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-16",
-    "addedAt": "2026-09-17T03:02:22Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 150,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow being music&#x27;s Mr Nice Guy contributed to biggest crisis of Ed Sheeran&#x27;s careerTo play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow being music&#x27;s Mr Nice Guy contributed to biggest crisis of Ed Sheeran&#x27;s careerTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow being music&#x27;s Mr Nice Guy contributed to biggest crisis of Ed Sheeran&#x27;s careerTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Music correspondentPublished16 September 2026Singer Ed Sheeran is facing the biggest controversy of his career after a storm over a decision to drop support act Macklemore from his US stadium tour following the rapper&#x27;s on-stage pro-Palestinian comments.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Music correspondentPublished16 September 2026Singer Ed Sheeran is facing the biggest controversy of his career after a storm over a decision to drop support act Macklemore from his US stadium tour following the rapper&#x27;s on-stage pro-Palestinian comments.",
-            "ko": "실시간 보도 번역: Music correspondentPublished16 September 2026Singer Ed Sheeran is facing the biggest controversy of his career after a storm over a decision to drop support act Macklemore from his US stadium tour following the rapper&#x27;s on-stage pro-Palestinian comments."
-          }
-        ]
-      },
-      {
-        "en": "Sheeran is one of the most successful songwriters of all time. He has sold more than 120 million records and spent more than 1,000 weeks on the US album charts.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Sheeran is one of the most successful songwriters of all time.",
-            "ko": "실시간 보도 번역: Sheeran is one of the most successful songwriters of all time."
-          },
-          {
-            "en": "He has sold more than 120 million records and spent more than 1,000 weeks on the US album charts.",
-            "ko": "실시간 보도 번역: He has sold more than 120 million records and spent more than 1,000 weeks on the US album charts."
-          }
-        ]
-      },
-      {
-        "en": "Part of his appeal - apart from those insidiously catchy songs - is his everyman persona. He looks and dresses like a fan on the train home from Glastonbury, rather than one of the festival&#x27;s headliners.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Part of his appeal - apart from those insidiously catchy songs - is his everyman persona.",
-            "ko": "실시간 보도 번역: Part of his appeal - apart from those insidiously catchy songs - is his everyman persona."
-          },
-          {
-            "en": "He looks and dresses like a fan on the train home from Glastonbury, rather than one of the festival&#x27;s headliners.",
-            "ko": "실시간 보도 번역: He looks and dresses like a fan on the train home from Glastonbury, rather than one of the festival&#x27;s headliners."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
           "Historical retrospective",
           "Unrelated general weather"
         ],
