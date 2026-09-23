@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_8179890152737299820",
+    "title": "Pornhub investigated over its age checks",
+    "subtitle": "The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-23",
+    "addedAt": "2026-09-23T15:57:40Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 140,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPornhub investigated over its age checksImage source, Getty ImagesByLaura CressTechnology reporterPublished23 September 2026, 09:38 BSTUpdated Just nowOfcom has launched an investigation into Pornhub owner, Aylo, over whether the site&#x27;s new age checks are effectively stopping children from accessing adult content.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPornhub investigated over its age checksImage source, Getty ImagesByLaura CressTechnology reporterPublished23 September 2026, 09:38 BSTUpdated Just nowOfcom has launched an investigation into Pornhub owner, Aylo, over whether the site&#x27;s new age checks are effectively stopping children from accessing adult content.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPornhub investigated over its age checksImage source, Getty ImagesByLaura CressTechnology reporterPublished23 September 2026, 09:38 BSTUpdated Just nowOfcom has launched an investigation into Pornhub owner, Aylo, over whether the site&#x27;s new age checks are effectively stopping children from accessing adult content."
+          }
+        ]
+      },
+      {
+        "en": "The regulator said in May that Pornhub started using a new age verification process for some users, which relied on a third party, Apple.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The regulator said in May that Pornhub started using a new age verification process for some users, which relied on a third party, Apple.",
+            "ko": "실시간 보도 번역: The regulator said in May that Pornhub started using a new age verification process for some users, which relied on a third party, Apple."
+          }
+        ]
+      },
+      {
+        "en": "It said it had concerns that Aylo &quot;may not have conducted sufficient due diligence and testing&quot; before implementing this new process, and so it &quot;may not be highly effective&quot; at preventing children from seeing pornography.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It said it had concerns that Aylo &quot;may not have conducted sufficient due diligence and testing&quot; before implementing this new process, and so it &quot;may not be highly effective&quot; at preventing children from seeing pornography.",
+            "ko": "실시간 보도 번역: It said it had concerns that Aylo &quot;may not have conducted sufficient due diligence and testing&quot; before implementing this new process, and so it &quot;may not be highly effective&quot; at preventing children from seeing pornography."
+          }
+        ]
+      },
+      {
+        "en": "In a lengthy statement given to the BBC, Aylo strongly defended its system for age verification while stressing it would cooperate fully with the investigation.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "In a lengthy statement given to the BBC, Aylo strongly defended its system for age verification while stressing it would cooperate fully with the investigation.",
+            "ko": "실시간 보도 번역: In a lengthy statement given to the BBC, Aylo strongly defended its system for age verification while stressing it would cooperate fully with the investigation."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Pornhub investigated over its age checks",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Pornhub investigated over its age checks",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1621079602686166220",
     "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
     "subtitle": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms....",
@@ -746,74 +823,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_333284205661216149",
-    "title": "The virtual worlds where robots are trained",
-    "subtitle": "Training systems that allow robots to negotiate the real world are getting more sophisticated....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-17",
-    "addedAt": "2026-09-18T15:41:30Z",
-    "category": "tech",
+    "id": "auto_science_4453823833002603541",
+    "title": "Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets'",
+    "subtitle": "Farmers fear they may not be able to carry out environmental work because they lost out on funding....",
+    "speaker": "BBC Science",
+    "date": "2026-09-23",
+    "addedAt": "2026-09-23T15:57:40Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 119,
+    "wordCount": 140,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThe virtual worlds where robots are trainedTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateFarmers&#x27; fury as race for £233m funding compared to &#x27;scramble for Oasis tickets&#x27;Image source, Getty ImagesImage caption, Many farmers rely on government payments to manage their land in more environmentally-friendly ways",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThe virtual worlds where robots are trainedTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThe virtual worlds where robots are trainedTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateFarmers&#x27; fury as race for £233m funding compared to &#x27;scramble for Oasis tickets&#x27;Image source, Getty ImagesImage caption, Many farmers rely on government payments to manage their land in more environmentally-friendly ways",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateFarmers&#x27; fury as race for £233m funding compared to &#x27;scramble for Oasis tickets&#x27;Image source, Getty ImagesImage caption, Many farmers rely on government payments to manage their land in more environmentally-friendly ways"
           }
         ]
       },
       {
-        "en": "Freddo the robot walks across the office and takes a plastic bottled offered by a staff member.",
+        "en": "Thousands of farmers missed out on vital government funding after online applications for a £233m green scheme for the whole of England closed down in under six hours.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Freddo the robot walks across the office and takes a plastic bottled offered by a staff member.",
-            "ko": "실시간 보도 번역: Freddo the robot walks across the office and takes a plastic bottled offered by a staff member."
+            "en": "Thousands of farmers missed out on vital government funding after online applications for a £233m green scheme for the whole of England closed down in under six hours.",
+            "ko": "실시간 보도 번역: Thousands of farmers missed out on vital government funding after online applications for a £233m green scheme for the whole of England closed down in under six hours."
           }
         ]
       },
       {
-        "en": "Given that a robot recently beat Usain Bolt&#x27;s 100m sprint record, it&#x27;s not the most startling achievement.",
+        "en": "Farming and environmental groups condemned the race to secure the sustainable farming incentive (SFI) funding, with some comparing it to a &quot;frantic&quot; online scramble to secure Glastonbury or Oasis gig tickets.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Given that a robot recently beat Usain Bolt&#x27;s 100m sprint record, it&#x27;s not the most startling achievement.",
-            "ko": "실시간 보도 번역: Given that a robot recently beat Usain Bolt&#x27;s 100m sprint record, it&#x27;s not the most startling achievement."
+            "en": "Farming and environmental groups condemned the race to secure the sustainable farming incentive (SFI) funding, with some comparing it to a &quot;frantic&quot; online scramble to secure Glastonbury or Oasis gig tickets.",
+            "ko": "실시간 보도 번역: Farming and environmental groups condemned the race to secure the sustainable farming incentive (SFI) funding, with some comparing it to a &quot;frantic&quot; online scramble to secure Glastonbury or Oasis gig tickets."
           }
         ]
       },
       {
-        "en": "But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive. It took just a few minutes to develop those skills and upload them to Freddo. His developers say rival systems could take days to attain such skills.",
+        "en": "The post-Brexit scheme, which replaced EU subsidies with payments for farmers to look after nature and provide &quot;public goods&quot;, opened at 10:00 BST on Tuesday but had run out of budget by 15:48 BST.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive.",
-            "ko": "실시간 보도 번역: But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive."
-          },
-          {
-            "en": "It took just a few minutes to develop those skills and upload them to Freddo.",
-            "ko": "실시간 보도 번역: It took just a few minutes to develop those skills and upload them to Freddo."
-          },
-          {
-            "en": "His developers say rival systems could take days to attain such skills.",
-            "ko": "실시간 보도 번역: His developers say rival systems could take days to attain such skills."
+            "en": "The post-Brexit scheme, which replaced EU subsidies with payments for farmers to look after nature and provide &quot;public goods&quot;, opened at 10:00 BST on Tuesday but had run out of budget by 15:48 BST.",
+            "ko": "실시간 보도 번역: The post-Brexit scheme, which replaced EU subsidies with payments for farmers to look after nature and provide &quot;public goods&quot;, opened at 10:00 BST on Tuesday but had run out of budget by 15:48 BST."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: The virtual worlds where robots are trained",
+      "글로벌 최신 소식: Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -821,7 +890,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "The virtual worlds where robots are trained",
+          "Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1668,66 +1737,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_2021849837547932372",
-    "title": "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
-    "subtitle": "Michael Sheen said his meeting with the first minister was \"early days but that's really encouraging\"....",
-    "speaker": "BBC Science",
-    "date": "2026-09-18",
-    "addedAt": "2026-09-18T15:41:30Z",
-    "category": "science",
+    "id": "auto_economy_1449790169124233366",
+    "title": "Off sick? You need to phone your boss, back-to-work adviser says",
+    "subtitle": "Relying on text and email means sick workers disengaged and were less likely to work again, says Sir Charlie Mayfield....",
+    "speaker": "BBC Business",
+    "date": "2026-09-23",
+    "addedAt": "2026-09-23T15:57:40Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 123,
+    "wordCount": 135,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsMichael Sheen&#x27;s &#x27;constructive&#x27; meeting with first minister over toxic dumping claimsImage source, Parliament TVImage caption, Michael Sheen, seen here speaking to the Welsh Affairs Committee, says his meeting with the first minister was &quot;early days but that&#x27;s really encouraging&quot;",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOff sick? You need to phone your boss, back-to-work adviser saysImage source, Getty ImagesByLucy HookerBusiness reporterPublished23 September 2026, 11:40 BSTUpdated 5 hours agoPeople off sick from work should keep in phone contact with their boss, government-appointed back-to-work expert Sir Charlie Mayfield has said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsMichael Sheen&#x27;s &#x27;constructive&#x27; meeting with first minister over toxic dumping claimsImage source, Parliament TVImage caption, Michael Sheen, seen here speaking to the Welsh Affairs Committee, says his meeting with the first minister was &quot;early days but that&#x27;s really encouraging&quot;",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsMichael Sheen&#x27;s &#x27;constructive&#x27; meeting with first minister over toxic dumping claimsImage source, Parliament TVImage caption, Michael Sheen, seen here speaking to the Welsh Affairs Committee, says his meeting with the first minister was &quot;early days but that&#x27;s really encouraging&quot;"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOff sick?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOff sick?"
+          },
+          {
+            "en": "You need to phone your boss, back-to-work adviser saysImage source, Getty ImagesByLucy HookerBusiness reporterPublished23 September 2026, 11:40 BSTUpdated 5 hours agoPeople off sick from work should keep in phone contact with their boss, government-appointed back-to-work expert Sir Charlie Mayfield has said.",
+            "ko": "실시간 보도 번역: You need to phone your boss, back-to-work adviser saysImage source, Getty ImagesByLucy HookerBusiness reporterPublished23 September 2026, 11:40 BSTUpdated 5 hours agoPeople off sick from work should keep in phone contact with their boss, government-appointed back-to-work expert Sir Charlie Mayfield has said."
           }
         ]
       },
       {
-        "en": "Hollywood actor Michael Sheen said he had a &quot;constructive&quot; meeting with First Minister Rhun ap Iorwerth over toxic dumping claims raised in his BBC documentary.",
+        "en": "Getting bosses and workers to have a conversation, rather than simply exchanging emails and sicknotes, could help get people back into work, Sir Charlie, who is leading the Keep Britain Working taskforce, said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Hollywood actor Michael Sheen said he had a &quot;constructive&quot; meeting with First Minister Rhun ap Iorwerth over toxic dumping claims raised in his BBC documentary.",
-            "ko": "실시간 보도 번역: Hollywood actor Michael Sheen said he had a &quot;constructive&quot; meeting with First Minister Rhun ap Iorwerth over toxic dumping claims raised in his BBC documentary."
+            "en": "Getting bosses and workers to have a conversation, rather than simply exchanging emails and sicknotes, could help get people back into work, Sir Charlie, who is leading the Keep Britain Working taskforce, said.",
+            "ko": "실시간 보도 번역: Getting bosses and workers to have a conversation, rather than simply exchanging emails and sicknotes, could help get people back into work, Sir Charlie, who is leading the Keep Britain Working taskforce, said."
           }
         ]
       },
       {
-        "en": "Buried with Michael Sheen explores toxic chemical dumping in 14 sites in Wales and England.",
+        "en": "His latest report said health-related economic inactivity was costing Britain around £210bn a year in benefit payments and lost output.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Buried with Michael Sheen explores toxic chemical dumping in 14 sites in Wales and England.",
-            "ko": "실시간 보도 번역: Buried with Michael Sheen explores toxic chemical dumping in 14 sites in Wales and England."
+            "en": "His latest report said health-related economic inactivity was costing Britain around £210bn a year in benefit payments and lost output.",
+            "ko": "실시간 보도 번역: His latest report said health-related economic inactivity was costing Britain around £210bn a year in benefit payments and lost output."
           }
         ]
       },
       {
-        "en": "Sheen initially said an offer to meet the first minister &quot;was not taken up&quot; before the documentary was broadcast in August.",
+        "en": "Talking on the phone was just &quot;one piece of the jigsaw&quot; he said on Wednesday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Sheen initially said an offer to meet the first minister &quot;was not taken up&quot; before the documentary was broadcast in August.",
-            "ko": "실시간 보도 번역: Sheen initially said an offer to meet the first minister &quot;was not taken up&quot; before the documentary was broadcast in August."
+            "en": "Talking on the phone was just &quot;one piece of the jigsaw&quot; he said on Wednesday.",
+            "ko": "실시간 보도 번역: Talking on the phone was just &quot;one piece of the jigsaw&quot; he said on Wednesday."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
+      "글로벌 최신 소식: Off sick? You need to phone your boss, back-to-work adviser says",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1735,7 +1808,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
+          "Off sick? You need to phone your boss, back-to-work adviser says",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2470,66 +2543,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_6864454595460829523",
-    "title": "Flight chaos caused by software defect, says air traffic control body",
-    "subtitle": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected....",
-    "speaker": "BBC Business",
-    "date": "2026-09-18",
-    "addedAt": "2026-09-18T15:41:31Z",
-    "category": "economy",
+    "id": "auto_sports_3649841130768205138",
+    "title": "'Be comfortable in your own identity' - Agassi's advice to Raducanu",
+    "subtitle": "As Emma Raducanu plots a route back to the pinnacle of tennis, the Briton is taking inspiration from Andre Agassi's 2009 autobiogr...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-23",
+    "addedAt": "2026-09-23T15:57:41Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 127,
+    "wordCount": 126,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessFlight chaos caused by &#x27;millisecond&#x27; software defect, report saysImage source, Dan Kitwood/Getty ImagesImage caption, Thousands of passengers were delayed by the NATS outage",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Be comfortable in your own identity&#x27; - Agassi&#x27;s advice to RaducanuTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessFlight chaos caused by &#x27;millisecond&#x27; software defect, report saysImage source, Dan Kitwood/Getty ImagesImage caption, Thousands of passengers were delayed by the NATS outage",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessFlight chaos caused by &#x27;millisecond&#x27; software defect, report saysImage source, Dan Kitwood/Getty ImagesImage caption, Thousands of passengers were delayed by the NATS outage"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Be comfortable in your own identity&#x27; - Agassi&#x27;s advice to RaducanuTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Be comfortable in your own identity&#x27; - Agassi&#x27;s advice to RaducanuTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "An air traffic control failure that sparked widespread travel chaos earlier this month was caused by a &quot;software defect&quot; affecting the system underpinning UK air space management, the national air traffic service Nats has said.",
+        "en": "&#x27;Don&#x27;t judge the best of yourself by results&#x27; - Agassi&#x27;s advice to Raducanu",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "An air traffic control failure that sparked widespread travel chaos earlier this month was caused by a &quot;software defect&quot; affecting the system underpinning UK air space management, the national air traffic service Nats has said.",
-            "ko": "실시간 보도 번역: An air traffic control failure that sparked widespread travel chaos earlier this month was caused by a &quot;software defect&quot; affecting the system underpinning UK air space management, the national air traffic service Nats has said."
+            "en": "&#x27;Don&#x27;t judge the best of yourself by results&#x27; - Agassi&#x27;s advice to Raducanu",
+            "ko": "실시간 보도 번역: &#x27;Don&#x27;t judge the best of yourself by results&#x27; - Agassi&#x27;s advice to Raducanu"
           }
         ]
       },
       {
-        "en": "The problem happened &quot;in the space of a millisecond&quot;, Nats said, leading to the system producing corrupted data.",
+        "en": "As Emma Raducanu plots a route back to the pinnacle of tennis, the Briton has been taking inspiration from Andre Agassi&#x27;s 2009 autobiography.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The problem happened &quot;in the space of a millisecond&quot;, Nats said, leading to the system producing corrupted data.",
-            "ko": "실시간 보도 번역: The problem happened &quot;in the space of a millisecond&quot;, Nats said, leading to the system producing corrupted data."
+            "en": "As Emma Raducanu plots a route back to the pinnacle of tennis, the Briton has been taking inspiration from Andre Agassi&#x27;s 2009 autobiography.",
+            "ko": "실시간 보도 번역: As Emma Raducanu plots a route back to the pinnacle of tennis, the Briton has been taking inspiration from Andre Agassi&#x27;s 2009 autobiography."
           }
         ]
       },
       {
-        "en": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected, with some sleeping on airport floors or getting stuck overseas.",
+        "en": "Five years have passed since Raducanu&#x27;s remarkable US Open triumph, when at the age of 18 she became the first qualifier in the Open era to win a Grand Slam.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected, with some sleeping on airport floors or getting stuck overseas.",
-            "ko": "실시간 보도 번역: The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected, with some sleeping on airport floors or getting stuck overseas."
+            "en": "Five years have passed since Raducanu&#x27;s remarkable US Open triumph, when at the age of 18 she became the first qualifier in the Open era to win a Grand Slam.",
+            "ko": "실시간 보도 번역: Five years have passed since Raducanu&#x27;s remarkable US Open triumph, when at the age of 18 she became the first qualifier in the Open era to win a Grand Slam."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Flight chaos caused by software defect, says air traffic control body",
+      "글로벌 최신 소식: 'Be comfortable in your own identity' - Agassi's advice to Raducanu",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2537,14 +2610,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Flight chaos caused by software defect, says air traffic control body",
+          "'Be comfortable in your own identity' - Agassi's advice to Raducanu",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_5856297309191351887",
@@ -3258,66 +3333,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_5466548141536516652",
-    "title": "Six-time Grand Slam champion Salisbury retires",
-    "subtitle": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-17",
-    "addedAt": "2026-09-18T15:41:31Z",
-    "category": "sports",
+    "id": "auto_culture_9147076081349553320",
+    "title": "Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
+    "subtitle": "The TV chef joined Paul Hollywood in the tent as the Channel 4 competition returned for a new series....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-23",
+    "addedAt": "2026-09-23T15:57:41Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 129,
+    "wordCount": 131,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Joe Salisbury won doubles titles at the Australian Open and US Open",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsNigella Lawson is &#x27;icing on the cake&#x27;, TV critics say as she enters Bake Off tentImage source, PA MediaImage caption, Nigella has taken over from Prue Leith as a judge on Bake Off, alongside Paul Hollywood",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Joe Salisbury won doubles titles at the Australian Open and US Open",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Joe Salisbury won doubles titles at the Australian Open and US Open"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsNigella Lawson is &#x27;icing on the cake&#x27;, TV critics say as she enters Bake Off tentImage source, PA MediaImage caption, Nigella has taken over from Prue Leith as a judge on Bake Off, alongside Paul Hollywood",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsNigella Lawson is &#x27;icing on the cake&#x27;, TV critics say as she enters Bake Off tentImage source, PA MediaImage caption, Nigella has taken over from Prue Leith as a judge on Bake Off, alongside Paul Hollywood"
           }
         ]
       },
       {
-        "en": "Tennis correspondentPublished17 September 2026Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis.",
+        "en": "TV critics have described Nigella Lawson as the &quot;icing on the cake&quot; of The Great British Bake Off, after the show returned for a new series on Tuesday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Tennis correspondentPublished17 September 2026Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis.",
-            "ko": "실시간 보도 번역: Tennis correspondentPublished17 September 2026Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis."
+            "en": "TV critics have described Nigella Lawson as the &quot;icing on the cake&quot; of The Great British Bake Off, after the show returned for a new series on Tuesday.",
+            "ko": "실시간 보도 번역: TV critics have described Nigella Lawson as the &quot;icing on the cake&quot; of The Great British Bake Off, after the show returned for a new series on Tuesday."
           }
         ]
       },
       {
-        "en": "Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire.",
+        "en": "Lawson has replaced Dame Prue Leith, who announced she was leaving earlier this year after nearly a decade in the programme&#x27;s famous tent.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire.",
-            "ko": "실시간 보도 번역: Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire."
+            "en": "Lawson has replaced Dame Prue Leith, who announced she was leaving earlier this year after nearly a decade in the programme&#x27;s famous tent.",
+            "ko": "실시간 보도 번역: Lawson has replaced Dame Prue Leith, who announced she was leaving earlier this year after nearly a decade in the programme&#x27;s famous tent."
           }
         ]
       },
       {
-        "en": "The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles.",
+        "en": "The Telegraph said Lawson gives the Channel 4 series a &quot;new lease of life&quot;, while Digital Spy agreed she was a &quot;brilliant addition&quot; to the line-up.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles.",
-            "ko": "실시간 보도 번역: The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles."
+            "en": "The Telegraph said Lawson gives the Channel 4 series a &quot;new lease of life&quot;, while Digital Spy agreed she was a &quot;brilliant addition&quot; to the line-up.",
+            "ko": "실시간 보도 번역: The Telegraph said Lawson gives the Channel 4 series a &quot;new lease of life&quot;, while Digital Spy agreed she was a &quot;brilliant addition&quot; to the line-up."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Six-time Grand Slam champion Salisbury retires",
+      "글로벌 최신 소식: Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3325,16 +3400,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Six-time Grand Slam champion Salisbury retires",
+          "Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_6573566614007896141",
@@ -4029,83 +4102,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Tenko and Coronation Street actress Stephanie Cole dies aged 84",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_4034335309832152966",
-    "title": "British rapper Sway dies aged 44",
-    "subtitle": "Sway, whose hits included Still Speedin' and Level Up, was living in Ghana at the time of his death....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-18",
-    "addedAt": "2026-09-18T15:41:33Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 115,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsBritish rapper Sway dies aged 44Image source, Getty ImagesByMark SavageMusic correspondentPublished4 hours agoThe award-winning British-Ghanaian rap artist Sway DaSafo has died at the age of 44.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsBritish rapper Sway dies aged 44Image source, Getty ImagesByMark SavageMusic correspondentPublished4 hours agoThe award-winning British-Ghanaian rap artist Sway DaSafo has died at the age of 44.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsBritish rapper Sway dies aged 44Image source, Getty ImagesByMark SavageMusic correspondentPublished4 hours agoThe award-winning British-Ghanaian rap artist Sway DaSafo has died at the age of 44."
-          }
-        ]
-      },
-      {
-        "en": "He was the first unsigned rapper to win a Mobo Award in 2006, and scored a top 10 hit in 2012 with the single Level Up.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "He was the first unsigned rapper to win a Mobo Award in 2006, and scored a top 10 hit in 2012 with the single Level Up.",
-            "ko": "실시간 보도 번역: He was the first unsigned rapper to win a Mobo Award in 2006, and scored a top 10 hit in 2012 with the single Level Up."
-          }
-        ]
-      },
-      {
-        "en": "The news was first shared online by the Mobo organisation, and confirmed to the BBC by the musician&#x27;s friend Kash Ahmad, who said he died at his home in Ghana.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The news was first shared online by the Mobo organisation, and confirmed to the BBC by the musician&#x27;s friend Kash Ahmad, who said he died at his home in Ghana.",
-            "ko": "실시간 보도 번역: The news was first shared online by the Mobo organisation, and confirmed to the BBC by the musician&#x27;s friend Kash Ahmad, who said he died at his home in Ghana."
-          }
-        ]
-      },
-      {
-        "en": "Sway was diagnosed with Hodgkin lymphoma in 2010 and went into remission later that year.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Sway was diagnosed with Hodgkin lymphoma in 2010 and went into remission later that year.",
-            "ko": "실시간 보도 번역: Sway was diagnosed with Hodgkin lymphoma in 2010 and went into remission later that year."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: British rapper Sway dies aged 44",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "British rapper Sway dies aged 44",
           "Historical retrospective",
           "Unrelated general weather"
         ],
