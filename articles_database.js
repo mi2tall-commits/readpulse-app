@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1621079602686166220",
+    "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+    "subtitle": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-23",
+    "addedAt": "2026-09-23T02:58:10Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 114,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastUS criticises Australia&#x27;s proposed algorithm opt-out laws as &#x27;censorship&#x27;To play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastUS criticises Australia&#x27;s proposed algorithm opt-out laws as &#x27;censorship&#x27;To play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastUS criticises Australia&#x27;s proposed algorithm opt-out laws as &#x27;censorship&#x27;To play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "&quot;Good to have choice&quot;: Australians on opting-out of social media algorithms",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;Good to have choice&quot;: Australians on opting-out of social media algorithms",
+            "ko": "실시간 보도 번역: &quot;Good to have choice&quot;: Australians on opting-out of social media algorithms"
+          }
+        ]
+      },
+      {
+        "en": "The US has criticised Australia&#x27;s proposal to give users the ability to opt out of social media algorithms, saying it amounts to &quot;censorship of protected speech&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The US has criticised Australia&#x27;s proposal to give users the ability to opt out of social media algorithms, saying it amounts to &quot;censorship of protected speech&quot;.",
+            "ko": "실시간 보도 번역: The US has criticised Australia&#x27;s proposal to give users the ability to opt out of social media algorithms, saying it amounts to &quot;censorship of protected speech&quot;."
+          }
+        ]
+      },
+      {
+        "en": "Under Australia&#x27;s draft digital duty of care laws, tech firms risk hefty fines if they fail to give users the option to turn off algorithms in a bid to protect them from harmful content.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Under Australia&#x27;s draft digital duty of care laws, tech firms risk hefty fines if they fail to give users the option to turn off algorithms in a bid to protect them from harmful content.",
+            "ko": "실시간 보도 번역: Under Australia&#x27;s draft digital duty of care laws, tech firms risk hefty fines if they fail to give users the option to turn off algorithms in a bid to protect them from harmful content."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_3844851069575977769",
     "title": "Not all AI workers think the tech could kill everyone",
     "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
@@ -754,74 +831,78 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1662757250554432665",
-    "title": "The virtual worlds where robots are trained",
-    "subtitle": "Training systems that allow robots to negotiate the real world are getting more sophisticated....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-17",
-    "addedAt": "2026-09-18T02:50:09Z",
-    "category": "tech",
+    "id": "auto_science_6564426972796351171",
+    "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+    "subtitle": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world....",
+    "speaker": "BBC Science",
+    "date": "2026-09-22",
+    "addedAt": "2026-09-23T02:58:11Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 119,
+    "wordCount": 131,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThe virtual worlds where robots are trainedTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpDeveloping El Niño becomes strongest on record weeks before expected peakImage source, Anadolou/Getty ImagesImage caption, Wildfires fuelled by El Niño are affecting around 12.5 million people across Indonesia, according to the country&#x27;s health ministry.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThe virtual worlds where robots are trainedTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThe virtual worlds where robots are trainedTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Freddo the robot walks across the office and takes a plastic bottled offered by a staff member.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Freddo the robot walks across the office and takes a plastic bottled offered by a staff member.",
-            "ko": "실시간 보도 번역: Freddo the robot walks across the office and takes a plastic bottled offered by a staff member."
-          }
-        ]
-      },
-      {
-        "en": "Given that a robot recently beat Usain Bolt&#x27;s 100m sprint record, it&#x27;s not the most startling achievement.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Given that a robot recently beat Usain Bolt&#x27;s 100m sprint record, it&#x27;s not the most startling achievement.",
-            "ko": "실시간 보도 번역: Given that a robot recently beat Usain Bolt&#x27;s 100m sprint record, it&#x27;s not the most startling achievement."
-          }
-        ]
-      },
-      {
-        "en": "But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive. It took just a few minutes to develop those skills and upload them to Freddo. His developers say rival systems could take days to attain such skills.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive.",
-            "ko": "실시간 보도 번역: But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpDeveloping El Niño becomes strongest on record weeks before expected peakImage source, Anadolou/Getty ImagesImage caption, Wildfires fuelled by El Niño are affecting around 12.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpDeveloping El Niño becomes strongest on record weeks before expected peakImage source, Anadolou/Getty ImagesImage caption, Wildfires fuelled by El Niño are affecting around 12."
           },
           {
-            "en": "It took just a few minutes to develop those skills and upload them to Freddo.",
-            "ko": "실시간 보도 번역: It took just a few minutes to develop those skills and upload them to Freddo."
+            "en": "5 million people across Indonesia, according to the country&#x27;s health ministry.",
+            "ko": "실시간 보도 번역: 5 million people across Indonesia, according to the country&#x27;s health ministry."
+          }
+        ]
+      },
+      {
+        "en": "The developing El Niño climate phenomenon is now the strongest on record, according to scientists monitoring Pacific Ocean temperatures.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The developing El Niño climate phenomenon is now the strongest on record, according to scientists monitoring Pacific Ocean temperatures.",
+            "ko": "실시간 보도 번역: The developing El Niño climate phenomenon is now the strongest on record, according to scientists monitoring Pacific Ocean temperatures."
+          }
+        ]
+      },
+      {
+        "en": "Daily sea surface temperatures in a key region of the central-eastern Pacific were 3.05C above average on 19 September - exceeding the previous record of 3.02C set during the very strong El Niño of 2015.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Daily sea surface temperatures in a key region of the central-eastern Pacific were 3.",
+            "ko": "실시간 보도 번역: Daily sea surface temperatures in a key region of the central-eastern Pacific were 3."
           },
           {
-            "en": "His developers say rival systems could take days to attain such skills.",
-            "ko": "실시간 보도 번역: His developers say rival systems could take days to attain such skills."
+            "en": "05C above average on 19 September - exceeding the previous record of 3.",
+            "ko": "실시간 보도 번역: 05C above average on 19 September - exceeding the previous record of 3."
+          },
+          {
+            "en": "02C set during the very strong El Niño of 2015.",
+            "ko": "실시간 보도 번역: 02C set during the very strong El Niño of 2015."
+          }
+        ]
+      },
+      {
+        "en": "Some longer-term measures of El Niño have not yet hit record levels but this is likely to change, with the peak not expected until later this year.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Some longer-term measures of El Niño have not yet hit record levels but this is likely to change, with the peak not expected until later this year.",
+            "ko": "실시간 보도 번역: Some longer-term measures of El Niño have not yet hit record levels but this is likely to change, with the peak not expected until later this year."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: The virtual worlds where robots are trained",
+      "글로벌 최신 소식: Developing El Niño becomes strongest on record weeks before expected peak",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -829,7 +910,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "The virtual worlds where robots are trained",
+          "Developing El Niño becomes strongest on record weeks before expected peak",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1664,66 +1745,82 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_4371314929130284055",
-    "title": "New wild cat species discovered - with only one known living member",
-    "subtitle": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia....",
-    "speaker": "BBC Science",
-    "date": "2026-09-17",
-    "addedAt": "2026-09-18T02:50:09Z",
-    "category": "science",
+    "id": "auto_economy_5030647422413951158",
+    "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "subtitle": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more....",
+    "speaker": "BBC Business",
+    "date": "2026-09-22",
+    "addedAt": "2026-09-23T02:58:11Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 110,
+    "wordCount": 202,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "A spotted cat from the forests of Bolivia has been confirmed as a new species.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEurope&#x27;s car makers are in crisis. Will the threat of war rescue them?",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A spotted cat from the forests of Bolivia has been confirmed as a new species.",
-            "ko": "실시간 보도 번역: A spotted cat from the forests of Bolivia has been confirmed as a new species."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEurope&#x27;s car makers are in crisis.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEurope&#x27;s car makers are in crisis."
+          },
+          {
+            "en": "Will the threat of war rescue them?",
+            "ko": "실시간 보도 번역: Will the threat of war rescue them?"
           }
         ]
       },
       {
-        "en": "The small feline, about the size of a domestic moggy, went under the radar because it was confused with other wild cats that share similar spots and stripes.",
+        "en": "BySimon Jack, Business editor and Theo Leggett, International Business CorrespondentIt&#x27;s green, bulging and intimidating. Ford&#x27;s latest vehicle looks like a pick-up truck that has been through an Incredible Hulk transformation. Based on its popular Ranger series, this beefy number parked outside the front door of Ford&#x27;s Dagenham plant can carry a load of two tonnes, tow up to four tonnes and is also shouldering the hopes of the 2,000-strong workforce that still makes engines here.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The small feline, about the size of a domestic moggy, went under the radar because it was confused with other wild cats that share similar spots and stripes.",
-            "ko": "실시간 보도 번역: The small feline, about the size of a domestic moggy, went under the radar because it was confused with other wild cats that share similar spots and stripes."
+            "en": "BySimon Jack, Business editor and Theo Leggett, International Business CorrespondentIt&#x27;s green, bulging and intimidating.",
+            "ko": "실시간 보도 번역: BySimon Jack, Business editor and Theo Leggett, International Business CorrespondentIt&#x27;s green, bulging and intimidating."
+          },
+          {
+            "en": "Ford&#x27;s latest vehicle looks like a pick-up truck that has been through an Incredible Hulk transformation.",
+            "ko": "실시간 보도 번역: Ford&#x27;s latest vehicle looks like a pick-up truck that has been through an Incredible Hulk transformation."
+          },
+          {
+            "en": "Based on its popular Ranger series, this beefy number parked outside the front door of Ford&#x27;s Dagenham plant can carry a load of two tonnes, tow up to four tonnes and is also shouldering the hopes of the 2,000-strong workforce that still makes engines here.",
+            "ko": "실시간 보도 번역: Based on its popular Ranger series, this beefy number parked outside the front door of Ford&#x27;s Dagenham plant can carry a load of two tonnes, tow up to four tonnes and is also shouldering the hopes of the 2,000-strong workforce that still makes engines here."
           }
         ]
       },
       {
-        "en": "But DNA studies show the cat is actually in a class of its own, highlighting how much remains unknown about some of the world&#x27;s most elusive mammals.",
+        "en": "Inside the factory, the three-litre diesel engines that will power this camo-painted beast drift down a production line that has seen output cut from 90,000 engines a year to about half that over the last decade.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But DNA studies show the cat is actually in a class of its own, highlighting how much remains unknown about some of the world&#x27;s most elusive mammals.",
-            "ko": "실시간 보도 번역: But DNA studies show the cat is actually in a class of its own, highlighting how much remains unknown about some of the world&#x27;s most elusive mammals."
+            "en": "Inside the factory, the three-litre diesel engines that will power this camo-painted beast drift down a production line that has seen output cut from 90,000 engines a year to about half that over the last decade.",
+            "ko": "실시간 보도 번역: Inside the factory, the three-litre diesel engines that will power this camo-painted beast drift down a production line that has seen output cut from 90,000 engines a year to about half that over the last decade."
           }
         ]
       },
       {
-        "en": "Scientists hope the discovery will draw attention to the conservation of tiger cats, a group of small wild cats found in South and Central America that receives far less public attention than their larger cousins like lions, leopards and tigers.",
+        "en": "Ford is hoping that a pivot towards military vehicles can help fill the void created by what the company&#x27;s UK boss calls the most challenging environment since the invention of the motor car. Once mighty, the European car industry is starting to look puny and is hoping surging defence budgets as Europe re-arms can help it flex its industrial muscles once more.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Scientists hope the discovery will draw attention to the conservation of tiger cats, a group of small wild cats found in South and Central America that receives far less public attention than their larger cousins like lions, leopards and tigers.",
-            "ko": "실시간 보도 번역: Scientists hope the discovery will draw attention to the conservation of tiger cats, a group of small wild cats found in South and Central America that receives far less public attention than their larger cousins like lions, leopards and tigers."
+            "en": "Ford is hoping that a pivot towards military vehicles can help fill the void created by what the company&#x27;s UK boss calls the most challenging environment since the invention of the motor car.",
+            "ko": "실시간 보도 번역: Ford is hoping that a pivot towards military vehicles can help fill the void created by what the company&#x27;s UK boss calls the most challenging environment since the invention of the motor car."
+          },
+          {
+            "en": "Once mighty, the European car industry is starting to look puny and is hoping surging defence budgets as Europe re-arms can help it flex its industrial muscles once more.",
+            "ko": "실시간 보도 번역: Once mighty, the European car industry is starting to look puny and is hoping surging defence budgets as Europe re-arms can help it flex its industrial muscles once more."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: New wild cat species discovered - with only one known living member",
+      "글로벌 최신 소식: Europe's car makers are in crisis. Will the threat of war rescue them?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1731,7 +1828,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "New wild cat species discovered - with only one known living member",
+          "Europe's car makers are in crisis. Will the threat of war rescue them?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2450,66 +2547,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_4150816275851311048",
-    "title": "Healey to ask EU finance ministers to let UK into industry scheme",
-    "subtitle": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\"....",
-    "speaker": "BBC Business",
-    "date": "2026-09-17",
-    "addedAt": "2026-09-18T02:50:10Z",
-    "category": "economy",
+    "id": "auto_sports_5856297309191351887",
+    "title": "Keothavong 'can't fault' GB after BJK Cup loss to Czechs",
+    "subtitle": "Sonay Kartal and Katie Boulter lose their singles matches as Great Britain are beaten by a strong Czech Republic side in the Billi...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-22",
+    "addedAt": "2026-09-23T02:58:12Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 123,
+    "wordCount": 149,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatHealey to ask EU finance ministers to let UK into industry schemeImage source, PA MediaImage caption, John Healey is meeting EU finance ministers on Friday",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKeothavong &#x27;can&#x27;t fault&#x27; GB after BJK Cup loss to CzechsImage source, Getty ImagesImage caption, World number 54 Katie Boulter was Britain&#x27;s highest-ranked singles player",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatHealey to ask EU finance ministers to let UK into industry schemeImage source, PA MediaImage caption, John Healey is meeting EU finance ministers on Friday",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatHealey to ask EU finance ministers to let UK into industry schemeImage source, PA MediaImage caption, John Healey is meeting EU finance ministers on Friday"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKeothavong &#x27;can&#x27;t fault&#x27; GB after BJK Cup loss to CzechsImage source, Getty ImagesImage caption, World number 54 Katie Boulter was Britain&#x27;s highest-ranked singles player",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKeothavong &#x27;can&#x27;t fault&#x27; GB after BJK Cup loss to CzechsImage source, Getty ImagesImage caption, World number 54 Katie Boulter was Britain&#x27;s highest-ranked singles player"
           }
         ]
       },
       {
-        "en": "The chancellor is to warn the European Union (EU) not to lock the UK out of its scheme to protect industries from unfair Chinese competition.",
+        "en": "Great Britain captain Anne Keothavong says she &quot;cannot fault&quot; her team&#x27;s efforts after they were beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The chancellor is to warn the European Union (EU) not to lock the UK out of its scheme to protect industries from unfair Chinese competition.",
-            "ko": "실시간 보도 번역: The chancellor is to warn the European Union (EU) not to lock the UK out of its scheme to protect industries from unfair Chinese competition."
+            "en": "Great Britain captain Anne Keothavong says she &quot;cannot fault&quot; her team&#x27;s efforts after they were beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals.",
+            "ko": "실시간 보도 번역: Great Britain captain Anne Keothavong says she &quot;cannot fault&quot; her team&#x27;s efforts after they were beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals."
           }
         ]
       },
       {
-        "en": "John Healey will push for closer UK-EU partnerships on tech, defence, and manufacturing at a meeting of EU finance ministers in Dublin on Friday.",
+        "en": "Keothavong&#x27;s team headed into the tie as underdogs, with all five Czech players placed higher in the singles rankings than any of the British squad.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "John Healey will push for closer UK-EU partnerships on tech, defence, and manufacturing at a meeting of EU finance ministers in Dublin on Friday.",
-            "ko": "실시간 보도 번역: John Healey will push for closer UK-EU partnerships on tech, defence, and manufacturing at a meeting of EU finance ministers in Dublin on Friday."
+            "en": "Keothavong&#x27;s team headed into the tie as underdogs, with all five Czech players placed higher in the singles rankings than any of the British squad.",
+            "ko": "실시간 보도 번역: Keothavong&#x27;s team headed into the tie as underdogs, with all five Czech players placed higher in the singles rankings than any of the British squad."
           }
         ]
       },
       {
-        "en": "But he will call on the EU to design its &quot;Made in Europe&quot; programme in a way that deepens ties with the UK &quot;rather than erecting new barriers&quot;, Treasury sources told the BBC.",
+        "en": "Sonay Kartal produced a gritty performance as she returned to tennis after six months out with a lower back injury, but fell to a narrow 7-6 (7-2) 4-6 6-4 defeat in a marathon three-hour encounter with Marie Bouzkova.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But he will call on the EU to design its &quot;Made in Europe&quot; programme in a way that deepens ties with the UK &quot;rather than erecting new barriers&quot;, Treasury sources told the BBC.",
-            "ko": "실시간 보도 번역: But he will call on the EU to design its &quot;Made in Europe&quot; programme in a way that deepens ties with the UK &quot;rather than erecting new barriers&quot;, Treasury sources told the BBC."
+            "en": "Sonay Kartal produced a gritty performance as she returned to tennis after six months out with a lower back injury, but fell to a narrow 7-6 (7-2) 4-6 6-4 defeat in a marathon three-hour encounter with Marie Bouzkova.",
+            "ko": "실시간 보도 번역: Sonay Kartal produced a gritty performance as she returned to tennis after six months out with a lower back injury, but fell to a narrow 7-6 (7-2) 4-6 6-4 defeat in a marathon three-hour encounter with Marie Bouzkova."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Healey to ask EU finance ministers to let UK into industry scheme",
+      "글로벌 최신 소식: Keothavong 'can't fault' GB after BJK Cup loss to Czechs",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2517,14 +2614,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Healey to ask EU finance ministers to let UK into industry scheme",
+          "Keothavong 'can't fault' GB after BJK Cup loss to Czechs",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_2123316874371475474",
@@ -3238,66 +3337,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_3111503738484685240",
-    "title": "Six-time Grand Slam champion Salisbury retires",
-    "subtitle": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-17",
-    "addedAt": "2026-09-18T02:50:10Z",
-    "category": "sports",
+    "id": "auto_culture_6573566614007896141",
+    "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+    "subtitle": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-22",
+    "addedAt": "2026-09-23T02:58:14Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 129,
+    "wordCount": 124,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Joe Salisbury won doubles titles at the Australian Open and US Open",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsBooker Prize judges reveal shortlisted novels after selection &#x27;tussle&#x27;Image source, Neo Gilder/Booker Prize FoundationImage caption, The Booker Prize 2026 judges are Rebecca Liu, Jarvis Cocker, Dame Mary Beard, Raymond Antrobus and Patricia Lockwood",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Joe Salisbury won doubles titles at the Australian Open and US Open",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSix-time Grand Slam champion Salisbury retiresImage source, Getty ImagesImage caption, Joe Salisbury won doubles titles at the Australian Open and US Open"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsBooker Prize judges reveal shortlisted novels after selection &#x27;tussle&#x27;Image source, Neo Gilder/Booker Prize FoundationImage caption, The Booker Prize 2026 judges are Rebecca Liu, Jarvis Cocker, Dame Mary Beard, Raymond Antrobus and Patricia Lockwood",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsBooker Prize judges reveal shortlisted novels after selection &#x27;tussle&#x27;Image source, Neo Gilder/Booker Prize FoundationImage caption, The Booker Prize 2026 judges are Rebecca Liu, Jarvis Cocker, Dame Mary Beard, Raymond Antrobus and Patricia Lockwood"
           }
         ]
       },
       {
-        "en": "Tennis correspondentPublished17 September 2026Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis.",
+        "en": "Past Booker Prize winners Marlon James and Douglas Stuart have been shortlisted for the prestigious literary award again, after a selection process that the judges described as &quot;a tussle&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Tennis correspondentPublished17 September 2026Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis.",
-            "ko": "실시간 보도 번역: Tennis correspondentPublished17 September 2026Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis."
+            "en": "Past Booker Prize winners Marlon James and Douglas Stuart have been shortlisted for the prestigious literary award again, after a selection process that the judges described as &quot;a tussle&quot;.",
+            "ko": "실시간 보도 번역: Past Booker Prize winners Marlon James and Douglas Stuart have been shortlisted for the prestigious literary award again, after a selection process that the judges described as &quot;a tussle&quot;."
           }
         ]
       },
       {
-        "en": "Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire.",
+        "en": "Jamaican writer James is nominated this year for his latest novel The Disappearers; while Scottish author Stuart is shortlisted for John of John.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire.",
-            "ko": "실시간 보도 번역: Londoner Salisbury chose this month&#x27;s US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire."
+            "en": "Jamaican writer James is nominated this year for his latest novel The Disappearers; while Scottish author Stuart is shortlisted for John of John.",
+            "ko": "실시간 보도 번역: Jamaican writer James is nominated this year for his latest novel The Disappearers; while Scottish author Stuart is shortlisted for John of John."
           }
         ]
       },
       {
-        "en": "The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles.",
+        "en": "This year&#x27;s other contenders are award-winning US novelist Elizabeth Strout, and British authors M John Harrison, Luke Kennard and Rebecca Perry.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles.",
-            "ko": "실시간 보도 번역: The venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men&#x27;s doubles titles."
+            "en": "This year&#x27;s other contenders are award-winning US novelist Elizabeth Strout, and British authors M John Harrison, Luke Kennard and Rebecca Perry.",
+            "ko": "실시간 보도 번역: This year&#x27;s other contenders are award-winning US novelist Elizabeth Strout, and British authors M John Harrison, Luke Kennard and Rebecca Perry."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Six-time Grand Slam champion Salisbury retires",
+      "글로벌 최신 소식: Booker Prize judges reveal shortlisted novels after selection 'tussle'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3305,16 +3404,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Six-time Grand Slam champion Salisbury retires",
+          "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_3157822746930221894",
@@ -4009,87 +4106,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "British rapper Sway dies aged 44",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_5225795276823811898",
-    "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
-    "subtitle": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-17",
-    "addedAt": "2026-09-18T02:50:13Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 146,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlashTo play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlashTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsStadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlashTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Robert Kraft, the US stadium owner who had pro-Palestinian rapper Macklemore removed as Ed Sheeran&#x27;s opening act, says Sheeran asked him to match his own $2m (£1.5m) donation for &quot;aid in the region&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Robert Kraft, the US stadium owner who had pro-Palestinian rapper Macklemore removed as Ed Sheeran&#x27;s opening act, says Sheeran asked him to match his own $2m (£1.",
-            "ko": "실시간 보도 번역: Robert Kraft, the US stadium owner who had pro-Palestinian rapper Macklemore removed as Ed Sheeran&#x27;s opening act, says Sheeran asked him to match his own $2m (£1."
-          },
-          {
-            "en": "5m) donation for &quot;aid in the region&quot;.",
-            "ko": "실시간 보도 번역: 5m) donation for &quot;aid in the region&quot;."
-          }
-        ]
-      },
-      {
-        "en": "It came after Macklemore said he would donate $1m (£750,000) to Palestinian organisations, challenging Kraft to match him.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "It came after Macklemore said he would donate $1m (£750,000) to Palestinian organisations, challenging Kraft to match him.",
-            "ko": "실시간 보도 번역: It came after Macklemore said he would donate $1m (£750,000) to Palestinian organisations, challenging Kraft to match him."
-          }
-        ]
-      },
-      {
-        "en": "Kraft, who owns the New England Patriots, wrote on Wednesday: &quot;Earlier today, before Macklemore challenged me to match his donation, Ed called me and asked me to commit $2 million to match his donation to aid in the region to fight this humanitarian crisis.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Kraft, who owns the New England Patriots, wrote on Wednesday: &quot;Earlier today, before Macklemore challenged me to match his donation, Ed called me and asked me to commit $2 million to match his donation to aid in the region to fight this humanitarian crisis.",
-            "ko": "실시간 보도 번역: Kraft, who owns the New England Patriots, wrote on Wednesday: &quot;Earlier today, before Macklemore challenged me to match his donation, Ed called me and asked me to commit $2 million to match his donation to aid in the region to fight this humanitarian crisis."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
           "Historical retrospective",
           "Unrelated general weather"
         ],
