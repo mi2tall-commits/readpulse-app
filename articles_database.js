@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_3909294875384293453",
+    "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+    "subtitle": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-24",
+    "addedAt": "2026-09-24T16:21:22Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 104,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechWhy did an OpenAI system hack Australia&#x27;s health system - and can it be stopped in the future?To play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechWhy did an OpenAI system hack Australia&#x27;s health system - and can it be stopped in the future?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechWhy did an OpenAI system hack Australia&#x27;s health system - and can it be stopped in the future?"
+          },
+          {
+            "en": "To play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: To play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "Watch: What you need to know about the OpenAI Australian government hack",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Watch: What you need to know about the OpenAI Australian government hack",
+            "ko": "실시간 보도 번역: Watch: What you need to know about the OpenAI Australian government hack"
+          }
+        ]
+      },
+      {
+        "en": "An OpenAI agent has gone &quot;rogue&quot; and &quot;infiltrated&quot; an Australian government website in what cyber-security experts are calling the first hack of its kind.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "An OpenAI agent has gone &quot;rogue&quot; and &quot;infiltrated&quot; an Australian government website in what cyber-security experts are calling the first hack of its kind.",
+            "ko": "실시간 보도 번역: An OpenAI agent has gone &quot;rogue&quot; and &quot;infiltrated&quot; an Australian government website in what cyber-security experts are calling the first hack of its kind."
+          }
+        ]
+      },
+      {
+        "en": "But why did it take the government months to discover what happened - and could it happen again?",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "But why did it take the government months to discover what happened - and could it happen again?",
+            "ko": "실시간 보도 번역: But why did it take the government months to discover what happened - and could it happen again?"
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1805520256059576716",
     "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
     "subtitle": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach i...",
@@ -694,66 +775,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_8577790938471613368",
-    "title": "Google's Gemini AI hacked three companies in security test",
-    "subtitle": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-19",
-    "addedAt": "2026-09-19T15:13:10Z",
-    "category": "tech",
+    "id": "auto_science_6486202400193794709",
+    "title": "Elephants use medicinal plants to treat themselves, researchers find",
+    "subtitle": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick, research rev...",
+    "speaker": "BBC Science",
+    "date": "2026-09-24",
+    "addedAt": "2026-09-24T16:21:22Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 152,
+    "wordCount": 128,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGoogle&#x27;s Gemini AI hacked three companies in security testImage source, Getty ImagesByOttilie MitchellPublished19 September 2026, 05:27 BSTUpdated 1 hour agoGoogle&#x27;s AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceElephants use medicinal plants to treat themselves, researchers findImage source, Mount Elgon FoundationImage caption, Accounts from local experts revealed that wild elephants used more than 35 plants, many of which have known medicinal uses",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGoogle&#x27;s Gemini AI hacked three companies in security testImage source, Getty ImagesByOttilie MitchellPublished19 September 2026, 05:27 BSTUpdated 1 hour agoGoogle&#x27;s AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGoogle&#x27;s Gemini AI hacked three companies in security testImage source, Getty ImagesByOttilie MitchellPublished19 September 2026, 05:27 BSTUpdated 1 hour agoGoogle&#x27;s AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceElephants use medicinal plants to treat themselves, researchers findImage source, Mount Elgon FoundationImage caption, Accounts from local experts revealed that wild elephants used more than 35 plants, many of which have known medicinal uses",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceElephants use medicinal plants to treat themselves, researchers findImage source, Mount Elgon FoundationImage caption, Accounts from local experts revealed that wild elephants used more than 35 plants, many of which have known medicinal uses"
           }
         ]
       },
       {
-        "en": "Gemini found &quot;public information online and guessed credentials to access websites it thought were part of the test&quot;, a Google official told the BBC, noting that in each instance &quot;the model stopped&quot;.",
+        "en": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Gemini found &quot;public information online and guessed credentials to access websites it thought were part of the test&quot;, a Google official told the BBC, noting that in each instance &quot;the model stopped&quot;.",
-            "ko": "실시간 보도 번역: Gemini found &quot;public information online and guessed credentials to access websites it thought were part of the test&quot;, a Google official told the BBC, noting that in each instance &quot;the model stopped&quot;."
+            "en": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick.",
+            "ko": "실시간 보도 번역: African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick."
           }
         ]
       },
       {
-        "en": "The affected companies were informed about the breaches, which happened in May.",
+        "en": "This is the conclusion of a study which interviewed people who live and work alongside the elephants in the Mount Elgon region of Kenya.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The affected companies were informed about the breaches, which happened in May.",
-            "ko": "실시간 보도 번역: The affected companies were informed about the breaches, which happened in May."
+            "en": "This is the conclusion of a study which interviewed people who live and work alongside the elephants in the Mount Elgon region of Kenya.",
+            "ko": "실시간 보도 번역: This is the conclusion of a study which interviewed people who live and work alongside the elephants in the Mount Elgon region of Kenya."
           }
         ]
       },
       {
-        "en": "It comes after renewed public scrutiny over the pace of AI development, as some tech firms calling for a slowdown over concerns over its potential threat to humanity - but not all companies or experts agree.",
+        "en": "These particular animals have long intrigued scientists with their extraordinary behaviour - they are known as salt-mining elephants, because they go into caves  and scrape the rock with their tusks to extract minerals for their diet.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It comes after renewed public scrutiny over the pace of AI development, as some tech firms calling for a slowdown over concerns over its potential threat to humanity - but not all companies or experts agree.",
-            "ko": "실시간 보도 번역: It comes after renewed public scrutiny over the pace of AI development, as some tech firms calling for a slowdown over concerns over its potential threat to humanity - but not all companies or experts agree."
+            "en": "These particular animals have long intrigued scientists with their extraordinary behaviour - they are known as salt-mining elephants, because they go into caves  and scrape the rock with their tusks to extract minerals for their diet.",
+            "ko": "실시간 보도 번역: These particular animals have long intrigued scientists with their extraordinary behaviour - they are known as salt-mining elephants, because they go into caves  and scrape the rock with their tusks to extract minerals for their diet."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Google's Gemini AI hacked three companies in security test",
+      "글로벌 최신 소식: Elephants use medicinal plants to treat themselves, researchers find",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -761,7 +842,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Google's Gemini AI hacked three companies in security test",
+          "Elephants use medicinal plants to treat themselves, researchers find",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1592,74 +1673,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_6215027121166358147",
-    "title": "When a beloved tree began withering away, locals suspected a killer in their midst",
-    "subtitle": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe....",
-    "speaker": "BBC Science",
-    "date": "2026-09-18",
-    "addedAt": "2026-09-19T15:13:10Z",
-    "category": "science",
+    "id": "auto_economy_3050525933982800958",
+    "title": "Reported assaults on Britain's rail services rise by more than a third",
+    "subtitle": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March....",
+    "speaker": "BBC Business",
+    "date": "2026-09-24",
+    "addedAt": "2026-09-24T16:21:22Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 121,
+    "wordCount": 147,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaWhen a beloved tree began withering away, locals suspected a killer in their midst",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessReported assaults on Britain&#x27;s rail services rise by more than a thirdImage source, Getty ImagesByKaty Austin, transport correspondent and Lucy Hooker, business reporterPublished24 September 2026, 13:21 BSTUpdated 41 minutes agoReports of violent incidents and harassment on rail services &quot;rose substantially&quot; last year, figures from the rail regulator show.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaWhen a beloved tree began withering away, locals suspected a killer in their midst",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaWhen a beloved tree began withering away, locals suspected a killer in their midst"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessReported assaults on Britain&#x27;s rail services rise by more than a thirdImage source, Getty ImagesByKaty Austin, transport correspondent and Lucy Hooker, business reporterPublished24 September 2026, 13:21 BSTUpdated 41 minutes agoReports of violent incidents and harassment on rail services &quot;rose substantially&quot; last year, figures from the rail regulator show.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessReported assaults on Britain&#x27;s rail services rise by more than a thirdImage source, Getty ImagesByKaty Austin, transport correspondent and Lucy Hooker, business reporterPublished24 September 2026, 13:21 BSTUpdated 41 minutes agoReports of violent incidents and harassment on rail services &quot;rose substantially&quot; last year, figures from the rail regulator show."
           }
         ]
       },
       {
-        "en": "ByYujin Choi, BBC Korean, Reporting fromSeoul and Koh EweEvery summer, Seoul turns a deep green, growing dense and lush under humid skies.",
+        "en": "Reported assaults, including physical and verbal, were up 36% in the year to March 2026 compared with the previous year, according to the Office of Rail and Road (ORR).",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "ByYujin Choi, BBC Korean, Reporting fromSeoul and Koh EweEvery summer, Seoul turns a deep green, growing dense and lush under humid skies.",
-            "ko": "실시간 보도 번역: ByYujin Choi, BBC Korean, Reporting fromSeoul and Koh EweEvery summer, Seoul turns a deep green, growing dense and lush under humid skies."
+            "en": "Reported assaults, including physical and verbal, were up 36% in the year to March 2026 compared with the previous year, according to the Office of Rail and Road (ORR).",
+            "ko": "실시간 보도 번역: Reported assaults, including physical and verbal, were up 36% in the year to March 2026 compared with the previous year, according to the Office of Rail and Road (ORR)."
           }
         ]
       },
       {
-        "en": "&quot;Green leaves were falling to the ground, which shouldn&#x27;t happen at that time of year,&quot; recalls Jung, who lives near the streetside ginkgo in Buam-dong, a largely residential neighbourhood in the north of Seoul.",
+        "en": "In total 13,464 assaults against passengers and members of the public were recorded on Britain&#x27;s mainline railway, the highest number recorded since the series began in 2004.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Green leaves were falling to the ground, which shouldn&#x27;t happen at that time of year,&quot; recalls Jung, who lives near the streetside ginkgo in Buam-dong, a largely residential neighbourhood in the north of Seoul.",
-            "ko": "실시간 보도 번역: &quot;Green leaves were falling to the ground, which shouldn&#x27;t happen at that time of year,&quot; recalls Jung, who lives near the streetside ginkgo in Buam-dong, a largely residential neighbourhood in the north of Seoul."
+            "en": "In total 13,464 assaults against passengers and members of the public were recorded on Britain&#x27;s mainline railway, the highest number recorded since the series began in 2004.",
+            "ko": "실시간 보도 번역: In total 13,464 assaults against passengers and members of the public were recorded on Britain&#x27;s mainline railway, the highest number recorded since the series began in 2004."
           }
         ]
       },
       {
-        "en": "The tree is beloved by locals, who believe it has occupied its spot for more than 100 years. So Jung couldn&#x27;t ignore what she was seeing. With each passing day, her curiosity turned to concern.",
+        "en": "The ORR said the figures were &quot;concerning&quot; and that it was working with the industry to address the problem.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The tree is beloved by locals, who believe it has occupied its spot for more than 100 years.",
-            "ko": "실시간 보도 번역: The tree is beloved by locals, who believe it has occupied its spot for more than 100 years."
-          },
-          {
-            "en": "So Jung couldn&#x27;t ignore what she was seeing.",
-            "ko": "실시간 보도 번역: So Jung couldn&#x27;t ignore what she was seeing."
-          },
-          {
-            "en": "With each passing day, her curiosity turned to concern.",
-            "ko": "실시간 보도 번역: With each passing day, her curiosity turned to concern."
+            "en": "The ORR said the figures were &quot;concerning&quot; and that it was working with the industry to address the problem.",
+            "ko": "실시간 보도 번역: The ORR said the figures were &quot;concerning&quot; and that it was working with the industry to address the problem."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: When a beloved tree began withering away, locals suspected a killer in their midst",
+      "글로벌 최신 소식: Reported assaults on Britain's rail services rise by more than a third",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1667,7 +1740,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "When a beloved tree began withering away, locals suspected a killer in their midst",
+          "Reported assaults on Britain's rail services rise by more than a third",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2406,66 +2479,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_3358337417802454032",
-    "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-    "subtitle": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross....",
-    "speaker": "BBC Business",
-    "date": "2026-09-18",
-    "addedAt": "2026-09-19T15:13:11Z",
-    "category": "economy",
+    "id": "auto_sports_5910547448180697210",
+    "title": "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3.34am",
+    "subtitle": "Carlos Alcaraz discusses his US Open return, why he \"misses\" rival Jannik Sinner and his excitement for this year's Laver Cup....",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-24",
+    "addedAt": "2026-09-24T16:21:23Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 205,
+    "wordCount": 147,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East&#x27;We simply don&#x27;t know&#x27; - JP Morgan struggling to forecast oil prices due to Trump&#x27;s war with IranImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished18 September 2026Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that &quot;we simply don&#x27;t know how to model the endgame&quot;.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East&#x27;We simply don&#x27;t know&#x27; - JP Morgan struggling to forecast oil prices due to Trump&#x27;s war with IranImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished18 September 2026Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that &quot;we simply don&#x27;t know how to model the endgame&quot;.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East&#x27;We simply don&#x27;t know&#x27; - JP Morgan struggling to forecast oil prices due to Trump&#x27;s war with IranImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished18 September 2026Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that &quot;we simply don&#x27;t know how to model the endgame&quot;."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open"
           }
         ]
       },
       {
-        "en": "The bank said it assumed at the start of the conflict that there would be &quot;economic red lines&quot; that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June.",
+        "en": "Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The bank said it assumed at the start of the conflict that there would be &quot;economic red lines&quot; that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June.",
-            "ko": "실시간 보도 번역: The bank said it assumed at the start of the conflict that there would be &quot;economic red lines&quot; that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June."
+            "en": "Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling.",
+            "ko": "실시간 보도 번역: Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling."
           }
         ]
       },
       {
-        "en": "It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%.",
+        "en": "After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%.",
-            "ko": "실시간 보도 번역: It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%."
+            "en": "After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face.",
+            "ko": "실시간 보도 번역: After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face."
           }
         ]
       },
       {
-        "en": "JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump&#x27;s next moves.",
+        "en": "Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump&#x27;s next moves.",
-            "ko": "실시간 보도 번역: JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump&#x27;s next moves."
+            "en": "Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day.",
+            "ko": "실시간 보도 번역: Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "글로벌 최신 소식: 'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3.34am",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2473,14 +2546,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+          "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3.34am",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_2230766119781476163",
@@ -3194,66 +3269,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_167900096400484667",
-    "title": "'You have to start somewhere' - inexperienced GB team bid for Davis Cup Finals",
-    "subtitle": "Cameron Norrie will miss Great Britain's Davis Cup tie with Ecuador this weekend, with qualification for November's eight-team fin...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-18",
-    "addedAt": "2026-09-19T15:13:11Z",
-    "category": "sports",
+    "id": "auto_culture_2609351930449496740",
+    "title": "Harry Potter play producer says cost of living made two-part show 'impossible'",
+    "subtitle": "The London production, which has been running for 10 years, will reopen next month as a one-part show....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-24",
+    "addedAt": "2026-09-24T16:21:25Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 136,
+    "wordCount": 158,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarNo Norrie as GB bid for Davis Cup Finals spotImage source, Getty ImagesImage caption, Great Britain have not reached the Davis Cup Finals for the past three years",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonHarry Potter play producer says cost of living made two-part show &#x27;impossible&#x27;Image source, Getty ImagesByTabby WilsonPublished9 hours agoA Harry Potter And The Cursed Child producer has said the rising cost of living made it &quot;literally impossible&quot; to retain the play&#x27;s original format in two parts.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarNo Norrie as GB bid for Davis Cup Finals spotImage source, Getty ImagesImage caption, Great Britain have not reached the Davis Cup Finals for the past three years",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarNo Norrie as GB bid for Davis Cup Finals spotImage source, Getty ImagesImage caption, Great Britain have not reached the Davis Cup Finals for the past three years"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonHarry Potter play producer says cost of living made two-part show &#x27;impossible&#x27;Image source, Getty ImagesByTabby WilsonPublished9 hours agoA Harry Potter And The Cursed Child producer has said the rising cost of living made it &quot;literally impossible&quot; to retain the play&#x27;s original format in two parts.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonHarry Potter play producer says cost of living made two-part show &#x27;impossible&#x27;Image source, Getty ImagesByTabby WilsonPublished9 hours agoA Harry Potter And The Cursed Child producer has said the rising cost of living made it &quot;literally impossible&quot; to retain the play&#x27;s original format in two parts."
           }
         ]
       },
       {
-        "en": "Tennis correspondent at Copper Box, LondonPublished18 September 2026Cameron Norrie will miss Great Britain&#x27;s Davis Cup tie with Ecuador this weekend, with qualification for November&#x27;s eight-team finals on the line.",
+        "en": "The production has been cut down to a single three-hour show and is set to re-open in the West End next month.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Tennis correspondent at Copper Box, LondonPublished18 September 2026Cameron Norrie will miss Great Britain&#x27;s Davis Cup tie with Ecuador this weekend, with qualification for November&#x27;s eight-team finals on the line.",
-            "ko": "실시간 보도 번역: Tennis correspondent at Copper Box, LondonPublished18 September 2026Cameron Norrie will miss Great Britain&#x27;s Davis Cup tie with Ecuador this weekend, with qualification for November&#x27;s eight-team finals on the line."
+            "en": "The production has been cut down to a single three-hour show and is set to re-open in the West End next month.",
+            "ko": "실시간 보도 번역: The production has been cut down to a single three-hour show and is set to re-open in the West End next month."
           }
         ]
       },
       {
-        "en": "British number two Norrie felt pain in his arm during a practice session and will be replaced in Saturday&#x27;s singles by world number 95 Toby Samuel.",
+        "en": "&quot;The cost of living has gone up 30-40% since the pandemic, including running shows,&quot; producer Sonia Friedman said in comments reported by media at a launch event. &quot;The only way we could continue to run it as a two-parter would be by charging an amount for the tickets that would be unaffordable and inaccessible.&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "British number two Norrie felt pain in his arm during a practice session and will be replaced in Saturday&#x27;s singles by world number 95 Toby Samuel.",
-            "ko": "실시간 보도 번역: British number two Norrie felt pain in his arm during a practice session and will be replaced in Saturday&#x27;s singles by world number 95 Toby Samuel."
+            "en": "&quot;The cost of living has gone up 30-40% since the pandemic, including running shows,&quot; producer Sonia Friedman said in comments reported by media at a launch event.",
+            "ko": "실시간 보도 번역: &quot;The cost of living has gone up 30-40% since the pandemic, including running shows,&quot; producer Sonia Friedman said in comments reported by media at a launch event."
+          },
+          {
+            "en": "&quot;The only way we could continue to run it as a two-parter would be by charging an amount for the tickets that would be unaffordable and inaccessible.",
+            "ko": "실시간 보도 번역: &quot;The only way we could continue to run it as a two-parter would be by charging an amount for the tickets that would be unaffordable and inaccessible."
           }
         ]
       },
       {
-        "en": "&quot;He wasn&#x27;t able to accelerate on the ball like he wanted to,&quot; Davis Cup captain Leon Smith told BBC Sport.",
+        "en": "The two-part play, a sequel to JK Rowling&#x27;s books, premiered in the West End in 2016 and closed on 20 September.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;He wasn&#x27;t able to accelerate on the ball like he wanted to,&quot; Davis Cup captain Leon Smith told BBC Sport.",
-            "ko": "실시간 보도 번역: &quot;He wasn&#x27;t able to accelerate on the ball like he wanted to,&quot; Davis Cup captain Leon Smith told BBC Sport."
+            "en": "The two-part play, a sequel to JK Rowling&#x27;s books, premiered in the West End in 2016 and closed on 20 September.",
+            "ko": "실시간 보도 번역: The two-part play, a sequel to JK Rowling&#x27;s books, premiered in the West End in 2016 and closed on 20 September."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'You have to start somewhere' - inexperienced GB team bid for Davis Cup Finals",
+      "글로벌 최신 소식: Harry Potter play producer says cost of living made two-part show 'impossible'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3261,16 +3340,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'You have to start somewhere' - inexperienced GB team bid for Davis Cup Finals",
+          "Harry Potter play producer says cost of living made two-part show 'impossible'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_3182879960076599391",
@@ -3917,83 +3994,6 @@ const READPULSE_ARTICLES = [
           {
             "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDaisy Edgar-Jones: I try and bury my emotion when it comes to loveImage source, Getty ImagesByNoor NanjiCulture correspondentPublished19 September 2026Daisy Edgar-Jones has been well cast in her new film.",
             "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDaisy Edgar-Jones: I try and bury my emotion when it comes to loveImage source, Getty ImagesByNoor NanjiCulture correspondentPublished19 September 2026Daisy Edgar-Jones has been well cast in her new film."
-          }
-        ]
-      },
-      {
-        "en": "She plays Elinor, the rational elder sister in Sense and Sensibility, opposite the younger, more romantic sister Marianne.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "She plays Elinor, the rational elder sister in Sense and Sensibility, opposite the younger, more romantic sister Marianne.",
-            "ko": "실시간 보도 번역: She plays Elinor, the rational elder sister in Sense and Sensibility, opposite the younger, more romantic sister Marianne."
-          }
-        ]
-      },
-      {
-        "en": "Speaking to the BBC, Edgar-Jones says that in her personal life, she really is like her character.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Speaking to the BBC, Edgar-Jones says that in her personal life, she really is like her character.",
-            "ko": "실시간 보도 번역: Speaking to the BBC, Edgar-Jones says that in her personal life, she really is like her character."
-          }
-        ]
-      },
-      {
-        "en": "&quot;When it comes to love, I think I am very much more Elinor in every sort of way,&quot; she says.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&quot;When it comes to love, I think I am very much more Elinor in every sort of way,&quot; she says.",
-            "ko": "실시간 보도 번역: &quot;When it comes to love, I think I am very much more Elinor in every sort of way,&quot; she says."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_7174832398437005475",
-    "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
-    "subtitle": "In real life the actress says she is just like the character she's playing in Sense and Sensibility....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-18",
-    "addedAt": "2026-09-19T15:13:12Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 104,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDaisy Edgar-Jones: I try and bury my emotion when it comes to loveImage source, Getty ImagesByNoor NanjiCulture correspondentPublished19 September 2026, 00:01 BSTDaisy Edgar-Jones has been well cast in her new film.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDaisy Edgar-Jones: I try and bury my emotion when it comes to loveImage source, Getty ImagesByNoor NanjiCulture correspondentPublished19 September 2026, 00:01 BSTDaisy Edgar-Jones has been well cast in her new film.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDaisy Edgar-Jones: I try and bury my emotion when it comes to loveImage source, Getty ImagesByNoor NanjiCulture correspondentPublished19 September 2026, 00:01 BSTDaisy Edgar-Jones has been well cast in her new film."
           }
         ]
       },
