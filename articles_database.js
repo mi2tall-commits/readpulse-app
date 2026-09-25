@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_4270208719109403467",
+    "title": "Special agents' blood and urine test results stolen in FBI hack",
+    "subtitle": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-25",
+    "addedAt": "2026-09-25T16:22:01Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 143,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechSpecial agents&#x27; blood and urine test results stolen in FBI hackImage source, Anadolu via Getty ImagesByJoe Tidy World Service Cyber Correspondent Published2 hours agoCyber-criminals who hacked the FBI say they have extremely sensitive medical data for thousands of its special agents.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechSpecial agents&#x27; blood and urine test results stolen in FBI hackImage source, Anadolu via Getty ImagesByJoe Tidy World Service Cyber Correspondent Published2 hours agoCyber-criminals who hacked the FBI say they have extremely sensitive medical data for thousands of its special agents.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechSpecial agents&#x27; blood and urine test results stolen in FBI hackImage source, Anadolu via Getty ImagesByJoe Tidy World Service Cyber Correspondent Published2 hours agoCyber-criminals who hacked the FBI say they have extremely sensitive medical data for thousands of its special agents."
+          }
+        ]
+      },
+      {
+        "en": "BBC News has seen samples of the stolen &quot;fitness-for-work&quot; medical examinations, which contain information such as blood and urine test results, and doctors&#x27; notes mentioning conditions such as a &quot;shellfish and banana allergy&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC News has seen samples of the stolen &quot;fitness-for-work&quot; medical examinations, which contain information such as blood and urine test results, and doctors&#x27; notes mentioning conditions such as a &quot;shellfish and banana allergy&quot;.",
+            "ko": "실시간 보도 번역: BBC News has seen samples of the stolen &quot;fitness-for-work&quot; medical examinations, which contain information such as blood and urine test results, and doctors&#x27; notes mentioning conditions such as a &quot;shellfish and banana allergy&quot;."
+          }
+        ]
+      },
+      {
+        "en": "The records include agents&#x27; full names and addresses, as well as references to medical concerns including &#x27;blood in the urine&#x27; and &#x27;high cholesterol&#x27;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The records include agents&#x27; full names and addresses, as well as references to medical concerns including &#x27;blood in the urine&#x27; and &#x27;high cholesterol&#x27;.",
+            "ko": "실시간 보도 번역: The records include agents&#x27; full names and addresses, as well as references to medical concerns including &#x27;blood in the urine&#x27; and &#x27;high cholesterol&#x27;."
+          }
+        ]
+      },
+      {
+        "en": "Experts say the hack - which the FBI is investigating - could leave agents vulnerable to scams, blackmail and targeted attacks, as well as help criminals impersonate law enforcement officers.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Experts say the hack - which the FBI is investigating - could leave agents vulnerable to scams, blackmail and targeted attacks, as well as help criminals impersonate law enforcement officers.",
+            "ko": "실시간 보도 번역: Experts say the hack - which the FBI is investigating - could leave agents vulnerable to scams, blackmail and targeted attacks, as well as help criminals impersonate law enforcement officers."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Special agents' blood and urine test results stolen in FBI hack",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Special agents' blood and urine test results stolen in FBI hack",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_2460566694425548002",
     "title": "X-planes: Are they needed in the new era of drones?",
     "subtitle": "Where do America's X-plane projects fit in an era of cheap drones?...",
@@ -706,66 +783,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_6366172648681155020",
-    "title": "Not all AI workers think the tech could kill everyone",
-    "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-19",
-    "addedAt": "2026-09-20T15:17:52Z",
-    "category": "tech",
+    "id": "auto_science_229491211829208452",
+    "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
+    "subtitle": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs....",
+    "speaker": "BBC Science",
+    "date": "2026-09-25",
+    "addedAt": "2026-09-25T16:22:01Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 149,
+    "wordCount": 111,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026, 00:01 BSTNot all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsWhat are my children exposed to? Why I want testing for cancer-causing chemicalsTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026, 00:01 BSTNot all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026, 00:01 BSTNot all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsWhat are my children exposed to?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsWhat are my children exposed to?"
+          },
+          {
+            "en": "Why I want testing for cancer-causing chemicalsTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: Why I want testing for cancer-causing chemicalsTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+        "en": "Michael Phillips played at Llwyneinion lagoon as a child and wants people like him to be tested",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
-            "ko": "실시간 보도 번역: In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse."
+            "en": "Michael Phillips played at Llwyneinion lagoon as a child and wants people like him to be tested",
+            "ko": "실시간 보도 번역: Michael Phillips played at Llwyneinion lagoon as a child and wants people like him to be tested"
           }
         ]
       },
       {
-        "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+        "en": "When she moved to the countryside two years ago, Natalie Dugdale thought it would be the perfect spot to raise her family.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
-            "ko": "실시간 보도 번역: &quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry."
+            "en": "When she moved to the countryside two years ago, Natalie Dugdale thought it would be the perfect spot to raise her family.",
+            "ko": "실시간 보도 번역: When she moved to the countryside two years ago, Natalie Dugdale thought it would be the perfect spot to raise her family."
           }
         ]
       },
       {
-        "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+        "en": "Close to a lagoon in north Wales, she thought she could walk her baby, toddler and dogs on public footpaths.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
-            "ko": "실시간 보도 번역: While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development."
+            "en": "Close to a lagoon in north Wales, she thought she could walk her baby, toddler and dogs on public footpaths.",
+            "ko": "실시간 보도 번역: Close to a lagoon in north Wales, she thought she could walk her baby, toddler and dogs on public footpaths."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Not all AI workers think the tech could kill everyone",
+      "글로벌 최신 소식: What are my children exposed to? Why I want testing for cancer-causing chemicals",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -773,7 +854,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Not all AI workers think the tech could kill everyone",
+          "What are my children exposed to? Why I want testing for cancer-causing chemicals",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1604,66 +1685,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_3960563013881067985",
-    "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-    "subtitle": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent tech...",
-    "speaker": "BBC Science",
-    "date": "2026-09-19",
-    "addedAt": "2026-09-20T15:17:52Z",
-    "category": "science",
+    "id": "auto_economy_4527953799703620500",
+    "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+    "subtitle": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts....",
+    "speaker": "BBC Business",
+    "date": "2026-09-25",
+    "addedAt": "2026-09-25T16:22:01Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 174,
+    "wordCount": 140,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished19 September 2026US President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechUS backs Elon Musk&#x27;s bid to overturn €120m EU fine against XImage source, Getty ImagesByLaura CressTechnology reporterPublished6 hours agoThe US government is seeking to join Elon Musk&#x27;s legal challenge to overturn a €120m (£105m) EU fine against X over its blue tick badges.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished19 September 2026US President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished19 September 2026US President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechUS backs Elon Musk&#x27;s bid to overturn €120m EU fine against XImage source, Getty ImagesByLaura CressTechnology reporterPublished6 hours agoThe US government is seeking to join Elon Musk&#x27;s legal challenge to overturn a €120m (£105m) EU fine against X over its blue tick badges.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechUS backs Elon Musk&#x27;s bid to overturn €120m EU fine against XImage source, Getty ImagesByLaura CressTechnology reporterPublished6 hours agoThe US government is seeking to join Elon Musk&#x27;s legal challenge to overturn a €120m (£105m) EU fine against X over its blue tick badges."
           }
         ]
       },
       {
-        "en": "In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.",
+        "en": "In December 2025, the European Commission said the platform &quot;deceives users&quot; by allowing people to pay for a blue verified check mark, because it is not &quot;meaningfully verifying&quot; who is behind the account.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.",
-            "ko": "실시간 보도 번역: In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place."
+            "en": "In December 2025, the European Commission said the platform &quot;deceives users&quot; by allowing people to pay for a blue verified check mark, because it is not &quot;meaningfully verifying&quot; who is behind the account.",
+            "ko": "실시간 보도 번역: In December 2025, the European Commission said the platform &quot;deceives users&quot; by allowing people to pay for a blue verified check mark, because it is not &quot;meaningfully verifying&quot; who is behind the account."
           }
         ]
       },
       {
-        "en": "His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development.",
+        "en": "But US Assistant Attorney General Brett A. Shumate said on Thursday that the commission had &quot;inappropriately attempted&quot; to expand its reach to American companies outside its control.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development.",
-            "ko": "실시간 보도 번역: His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development."
+            "en": "But US Assistant Attorney General Brett A.",
+            "ko": "실시간 보도 번역: But US Assistant Attorney General Brett A."
+          },
+          {
+            "en": "Shumate said on Thursday that the commission had &quot;inappropriately attempted&quot; to expand its reach to American companies outside its control.",
+            "ko": "실시간 보도 번역: Shumate said on Thursday that the commission had &quot;inappropriately attempted&quot; to expand its reach to American companies outside its control."
           }
         ]
       },
       {
-        "en": "Published4 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI.",
+        "en": "Musk, who spent millions helping elect Donald Trump and other Republicans, has previously claimed EU tech regulation &quot;inhibits progress&quot; for companies.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Published4 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI.",
-            "ko": "실시간 보도 번역: Published4 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI."
+            "en": "Musk, who spent millions helping elect Donald Trump and other Republicans, has previously claimed EU tech regulation &quot;inhibits progress&quot; for companies.",
+            "ko": "실시간 보도 번역: Musk, who spent millions helping elect Donald Trump and other Republicans, has previously claimed EU tech regulation &quot;inhibits progress&quot; for companies."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "글로벌 최신 소식: US backs Elon Musk's bid to overturn €120m EU fine against X",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1671,7 +1756,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+          "US backs Elon Musk's bid to overturn €120m EU fine against X",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2414,66 +2499,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_8487324358000616209",
-    "title": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
-    "subtitle": "The billionaire businessman told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration....",
-    "speaker": "BBC Business",
-    "date": "2026-09-20",
-    "addedAt": "2026-09-20T15:17:52Z",
-    "category": "economy",
+    "id": "auto_sports_3652829097474021569",
+    "title": "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
+    "subtitle": "Carlos Alcaraz discusses his US Open return, why he \"misses\" rival Jannik Sinner and his excitement for this year's Laver Cup....",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-24",
+    "addedAt": "2026-09-25T16:22:02Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 157,
+    "wordCount": 147,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBillionaire Man United owner loses moral high ground after tax exile, Labour chair saysByScott Duffield, Political reporter and Rachel Clun, Business reporterPublished3 hours agoThe Labour Party chair has said Sir Jim Ratcliffe loses &quot;the moral high ground&quot; by making statements about the UK while living in tax exile.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBillionaire Man United owner loses moral high ground after tax exile, Labour chair saysByScott Duffield, Political reporter and Rachel Clun, Business reporterPublished3 hours agoThe Labour Party chair has said Sir Jim Ratcliffe loses &quot;the moral high ground&quot; by making statements about the UK while living in tax exile.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBillionaire Man United owner loses moral high ground after tax exile, Labour chair saysByScott Duffield, Political reporter and Rachel Clun, Business reporterPublished3 hours agoThe Labour Party chair has said Sir Jim Ratcliffe loses &quot;the moral high ground&quot; by making statements about the UK while living in tax exile."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open"
           }
         ]
       },
       {
-        "en": "Speaking to Sunday with Laura Kuenssberg, Bridget Phillipson said she would take the billionaire businessman&#x27;s comments that the UK was &quot;on the slide&quot; with a &quot;pinch of salt&quot;.",
+        "en": "Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Speaking to Sunday with Laura Kuenssberg, Bridget Phillipson said she would take the billionaire businessman&#x27;s comments that the UK was &quot;on the slide&quot; with a &quot;pinch of salt&quot;.",
-            "ko": "실시간 보도 번역: Speaking to Sunday with Laura Kuenssberg, Bridget Phillipson said she would take the billionaire businessman&#x27;s comments that the UK was &quot;on the slide&quot; with a &quot;pinch of salt&quot;."
+            "en": "Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling.",
+            "ko": "실시간 보도 번역: Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling."
           }
         ]
       },
       {
-        "en": "Sir Jim, the founder of petrochemical giant Ineos and Manchester United&#x27;s co-owner, told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration.",
+        "en": "After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Sir Jim, the founder of petrochemical giant Ineos and Manchester United&#x27;s co-owner, told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration.",
-            "ko": "실시간 보도 번역: Sir Jim, the founder of petrochemical giant Ineos and Manchester United&#x27;s co-owner, told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration."
+            "en": "After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face.",
+            "ko": "실시간 보도 번역: After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face."
           }
         ]
       },
       {
-        "en": "He has been a tax resident in Monaco since 2020 and said &quot;things would have to get better&quot; in the UK for him to return.",
+        "en": "Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "He has been a tax resident in Monaco since 2020 and said &quot;things would have to get better&quot; in the UK for him to return.",
-            "ko": "실시간 보도 번역: He has been a tax resident in Monaco since 2020 and said &quot;things would have to get better&quot; in the UK for him to return."
+            "en": "Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day.",
+            "ko": "실시간 보도 번역: Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
+      "글로벌 최신 소식: 'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2481,14 +2566,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
+          "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_3433174066436138289",
@@ -3202,66 +3289,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_7416654008006398042",
-    "title": "GB reach Davis Cup Finals as Patten and Skupski win",
-    "subtitle": "Great Britain will play in the Davis Cup Finals for the first time since 2023 after taking an unassailable 3-0 lead against Ecuado...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-20",
-    "addedAt": "2026-09-20T15:17:52Z",
-    "category": "sports",
+    "id": "auto_culture_4875059665775764658",
+    "title": "Ed Sheeran's next US concerts cancelled due to bad weather",
+    "subtitle": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after  severe weather warnings....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-25",
+    "addedAt": "2026-09-25T16:22:04Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 167,
+    "wordCount": 169,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB dominate Ecuador to reach Davis Cup FinalsTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026, 16:14 BSTUpdated 24 minutes agoEd Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB dominate Ecuador to reach Davis Cup FinalsTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB dominate Ecuador to reach Davis Cup FinalsTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026, 16:14 BSTUpdated 24 minutes agoEd Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026, 16:14 BSTUpdated 24 minutes agoEd Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area."
           }
         ]
       },
       {
-        "en": "Great Britain have reached the Davis Cup Finals for the first time since 2023 after sealing a 4-0 win in their qualifying tie against Ecuador.",
+        "en": "The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Great Britain have reached the Davis Cup Finals for the first time since 2023 after sealing a 4-0 win in their qualifying tie against Ecuador.",
-            "ko": "실시간 보도 번역: Great Britain have reached the Davis Cup Finals for the first time since 2023 after sealing a 4-0 win in their qualifying tie against Ecuador."
+            "en": "The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour.",
+            "ko": "실시간 보도 번역: The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour."
           }
         ]
       },
       {
-        "en": "Henry Patten and Neal Skupski booked Britain&#x27;s ticket to November&#x27;s &#x27;Final 8&#x27; event in Bologna with a 6-3 6-4 win over Gonzalo Escobar and Diego Hidalgo in the doubles at London&#x27;s Copper Box Arena.",
+        "en": "The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage. Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Henry Patten and Neal Skupski booked Britain&#x27;s ticket to November&#x27;s &#x27;Final 8&#x27; event in Bologna with a 6-3 6-4 win over Gonzalo Escobar and Diego Hidalgo in the doubles at London&#x27;s Copper Box Arena.",
-            "ko": "실시간 보도 번역: Henry Patten and Neal Skupski booked Britain&#x27;s ticket to November&#x27;s &#x27;Final 8&#x27; event in Bologna with a 6-3 6-4 win over Gonzalo Escobar and Diego Hidalgo in the doubles at London&#x27;s Copper Box Arena."
+            "en": "The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage.",
+            "ko": "실시간 보도 번역: The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage."
+          },
+          {
+            "en": "Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal.",
+            "ko": "실시간 보도 번역: Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal."
           }
         ]
       },
       {
-        "en": "That gave Britain an unassailable 3-0 lead after wins on Saturday for Toby Samuel and Arthur Fery in the singles, before Harry Wendelken, a late call-up to the team after Cameron Norrie withdrew injured on Friday, wrapped up the best-of-five tie by beating Angel Veliz 6-2 6-3 on his competition debut.",
+        "en": "A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium.&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "That gave Britain an unassailable 3-0 lead after wins on Saturday for Toby Samuel and Arthur Fery in the singles, before Harry Wendelken, a late call-up to the team after Cameron Norrie withdrew injured on Friday, wrapped up the best-of-five tie by beating Angel Veliz 6-2 6-3 on his competition debut.",
-            "ko": "실시간 보도 번역: That gave Britain an unassailable 3-0 lead after wins on Saturday for Toby Samuel and Arthur Fery in the singles, before Harry Wendelken, a late call-up to the team after Cameron Norrie withdrew injured on Friday, wrapped up the best-of-five tie by beating Angel Veliz 6-2 6-3 on his competition debut."
+            "en": "A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium.",
+            "ko": "실시간 보도 번역: A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: GB reach Davis Cup Finals as Patten and Skupski win",
+      "글로벌 최신 소식: Ed Sheeran's next US concerts cancelled due to bad weather",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3269,16 +3360,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "GB reach Davis Cup Finals as Patten and Skupski win",
+          "Ed Sheeran's next US concerts cancelled due to bad weather",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_7463911645030590619",
@@ -3911,83 +4000,6 @@ const READPULSE_ARTICLES = [
     "speaker": "BBC Arts",
     "date": "2026-09-20",
     "addedAt": "2026-09-21T02:58:08Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 121,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEd Sheeran admits &#x27;mistakes&#x27; at first show since Macklemore controversyTo play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEd Sheeran admits &#x27;mistakes&#x27; at first show since Macklemore controversyTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEd Sheeran admits &#x27;mistakes&#x27; at first show since Macklemore controversyTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "&quot;This is a humanitarian issue, and I cannot hide how I feel about it anymore,&quot; Ed Sheeran says as he addresses Macklemore row",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&quot;This is a humanitarian issue, and I cannot hide how I feel about it anymore,&quot; Ed Sheeran says as he addresses Macklemore row",
-            "ko": "실시간 보도 번역: &quot;This is a humanitarian issue, and I cannot hide how I feel about it anymore,&quot; Ed Sheeran says as he addresses Macklemore row"
-          }
-        ]
-      },
-      {
-        "en": "Ed Sheeran has apologised to fans for making &quot;mistakes&quot; as he opened his first show since Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Ed Sheeran has apologised to fans for making &quot;mistakes&quot; as he opened his first show since Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
-            "ko": "실시간 보도 번역: Ed Sheeran has apologised to fans for making &quot;mistakes&quot; as he opened his first show since Macklemore was dropped from his tour for making pro-Palestinian remarks on stage."
-          }
-        ]
-      },
-      {
-        "en": "The singer began his concert in Philadelphia by addressing the controversy that has since engulfed the tour and prompted all of his support acts to quit.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The singer began his concert in Philadelphia by addressing the controversy that has since engulfed the tour and prompted all of his support acts to quit.",
-            "ko": "실시간 보도 번역: The singer began his concert in Philadelphia by addressing the controversy that has since engulfed the tour and prompted all of his support acts to quit."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_3891382372098137411",
-    "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-    "subtitle": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-20",
-    "addedAt": "2026-09-20T15:17:53Z",
     "category": "culture",
     "isLive": true,
     "level": "B2",
