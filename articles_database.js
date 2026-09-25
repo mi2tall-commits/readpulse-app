@@ -1,6 +1,91 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_2460566694425548002",
+    "title": "X-planes: Are they needed in the new era of drones?",
+    "subtitle": "Where do America's X-plane projects fit in an era of cheap drones?...",
+    "speaker": "BBC Technology",
+    "date": "2026-09-24",
+    "addedAt": "2026-09-25T03:05:20Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 140,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessX-planes: Are they needed in the new era of drones?Image source, NASA/Carla ThomasImage caption, The long nose of the X-59 is designed to damped the plane&#x27;s sonic boom",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessX-planes: Are they needed in the new era of drones?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessX-planes: Are they needed in the new era of drones?"
+          }
+        ]
+      },
+      {
+        "en": "There&#x27;s a weird and wonderful jet flying over the US. It has the nose of anteater, parts cannibalised from other planes and a cockpit so far back the pilot depends on a camera to see where he&#x27;s going.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "There&#x27;s a weird and wonderful jet flying over the US.",
+            "ko": "실시간 보도 번역: There&#x27;s a weird and wonderful jet flying over the US."
+          },
+          {
+            "en": "It has the nose of anteater, parts cannibalised from other planes and a cockpit so far back the pilot depends on a camera to see where he&#x27;s going.",
+            "ko": "실시간 보도 번역: It has the nose of anteater, parts cannibalised from other planes and a cockpit so far back the pilot depends on a camera to see where he&#x27;s going."
+          }
+        ]
+      },
+      {
+        "en": "This contraption, the X-59, might just be the future of air travel.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "This contraption, the X-59, might just be the future of air travel.",
+            "ko": "실시간 보도 번역: This contraption, the X-59, might just be the future of air travel."
+          }
+        ]
+      },
+      {
+        "en": "The X-59&#x27;s owes its eccentric design to the problem of sonic booms. The shockwave created by a jet breaking the sound barrier restricted Concorde to flights over the sea and barred it from lucrative routes across the US.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The X-59&#x27;s owes its eccentric design to the problem of sonic booms.",
+            "ko": "실시간 보도 번역: The X-59&#x27;s owes its eccentric design to the problem of sonic booms."
+          },
+          {
+            "en": "The shockwave created by a jet breaking the sound barrier restricted Concorde to flights over the sea and barred it from lucrative routes across the US.",
+            "ko": "실시간 보도 번역: The shockwave created by a jet breaking the sound barrier restricted Concorde to flights over the sea and barred it from lucrative routes across the US."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: X-planes: Are they needed in the new era of drones?",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "X-planes: Are they needed in the new era of drones?",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_3909294875384293453",
     "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
     "subtitle": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech....",
@@ -698,66 +783,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_5444682512540433940",
-    "title": "Not all AI workers think the tech could kill everyone",
-    "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-19",
-    "addedAt": "2026-09-20T03:00:38Z",
-    "category": "tech",
+    "id": "auto_science_3677952728558926700",
+    "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
+    "subtitle": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs....",
+    "speaker": "BBC Science",
+    "date": "2026-09-24",
+    "addedAt": "2026-09-25T03:05:21Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 147,
+    "wordCount": 130,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished3 hours agoNot all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsWhat are my children exposed to? Why I want testing for cancer-causing chemicalsImage caption, Natalie Dugdale is calling for public health bodies to test people that are worried they may have been poisoned by years of exposure to toxic waste",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished3 hours agoNot all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished3 hours agoNot all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsWhat are my children exposed to?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsWhat are my children exposed to?"
           }
         ]
       },
       {
-        "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+        "en": "When she moved to the countryside two years ago, Natalie Dugdale thought it would be the perfect spot to raise her family.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
-            "ko": "실시간 보도 번역: In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse."
+            "en": "When she moved to the countryside two years ago, Natalie Dugdale thought it would be the perfect spot to raise her family.",
+            "ko": "실시간 보도 번역: When she moved to the countryside two years ago, Natalie Dugdale thought it would be the perfect spot to raise her family."
           }
         ]
       },
       {
-        "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+        "en": "Close to a lagoon in north Wales, she thought she could walk her baby, toddler and dogs on public footpaths.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
-            "ko": "실시간 보도 번역: &quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry."
+            "en": "Close to a lagoon in north Wales, she thought she could walk her baby, toddler and dogs on public footpaths.",
+            "ko": "실시간 보도 번역: Close to a lagoon in north Wales, she thought she could walk her baby, toddler and dogs on public footpaths."
           }
         ]
       },
       {
-        "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+        "en": "But when she watched Michael Sheen&#x27;s BBC documentary revealing the lagoon&#x27;s history as a dumping ground of cancer-causing chemicals known as PCBs, Natalie was shocked.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
-            "ko": "실시간 보도 번역: While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development."
+            "en": "But when she watched Michael Sheen&#x27;s BBC documentary revealing the lagoon&#x27;s history as a dumping ground of cancer-causing chemicals known as PCBs, Natalie was shocked.",
+            "ko": "실시간 보도 번역: But when she watched Michael Sheen&#x27;s BBC documentary revealing the lagoon&#x27;s history as a dumping ground of cancer-causing chemicals known as PCBs, Natalie was shocked."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Not all AI workers think the tech could kill everyone",
+      "글로벌 최신 소식: What are my children exposed to? Why I want testing for cancer-causing chemicals",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -765,7 +850,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Not all AI workers think the tech could kill everyone",
+          "What are my children exposed to? Why I want testing for cancer-causing chemicals",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1596,66 +1681,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_205854365466816286",
-    "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-    "subtitle": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent tech...",
-    "speaker": "BBC Science",
-    "date": "2026-09-19",
-    "addedAt": "2026-09-20T03:00:39Z",
-    "category": "science",
+    "id": "auto_economy_4525499306941268767",
+    "title": "'We're all broke': Would you chase a friend for £5?",
+    "subtitle": "What's the smallest amount of money you would ask a friend to pay you back?...",
+    "speaker": "BBC Business",
+    "date": "2026-09-24",
+    "addedAt": "2026-09-25T03:05:21Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 174,
+    "wordCount": 119,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished5 hours agoUS President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;We&#x27;re all broke&#x27;: Would you chase a friend for £5?To play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished5 hours agoUS President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished5 hours agoUS President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;We&#x27;re all broke&#x27;: Would you chase a friend for £5?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;We&#x27;re all broke&#x27;: Would you chase a friend for £5?"
+          },
+          {
+            "en": "To play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: To play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.",
+        "en": "Watch: We ask New Yorkers to share the smallest amount they&#x27;d ask a friend to pay back",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.",
-            "ko": "실시간 보도 번역: In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place."
+            "en": "Watch: We ask New Yorkers to share the smallest amount they&#x27;d ask a friend to pay back",
+            "ko": "실시간 보도 번역: Watch: We ask New Yorkers to share the smallest amount they&#x27;d ask a friend to pay back"
           }
         ]
       },
       {
-        "en": "His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development.",
+        "en": "You pick up the bill for dinner, pay for the taxi home or grab a friend&#x27;s coffee with the promise they&#x27;ll pay you back later, but days go by and the money never arrives.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development.",
-            "ko": "실시간 보도 번역: His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development."
+            "en": "You pick up the bill for dinner, pay for the taxi home or grab a friend&#x27;s coffee with the promise they&#x27;ll pay you back later, but days go by and the money never arrives.",
+            "ko": "실시간 보도 번역: You pick up the bill for dinner, pay for the taxi home or grab a friend&#x27;s coffee with the promise they&#x27;ll pay you back later, but days go by and the money never arrives."
           }
         ]
       },
       {
-        "en": "Published3 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI.",
+        "en": "At what point do you ask them for it again and how small is too small to chase?",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Published3 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI.",
-            "ko": "실시간 보도 번역: Published3 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI."
+            "en": "At what point do you ask them for it again and how small is too small to chase?",
+            "ko": "실시간 보도 번역: At what point do you ask them for it again and how small is too small to chase?"
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "글로벌 최신 소식: 'We're all broke': Would you chase a friend for £5?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1663,7 +1752,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+          "'We're all broke': Would you chase a friend for £5?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2402,66 +2491,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_9194752777807633228",
-    "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-    "subtitle": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross....",
-    "speaker": "BBC Business",
-    "date": "2026-09-18",
-    "addedAt": "2026-09-20T03:00:40Z",
-    "category": "economy",
+    "id": "auto_sports_3433174066436138289",
+    "title": "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
+    "subtitle": "Carlos Alcaraz discusses his US Open return, why he \"misses\" rival Jannik Sinner and his excitement for this year's Laver Cup....",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-24",
+    "addedAt": "2026-09-25T03:05:21Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 205,
+    "wordCount": 147,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East&#x27;We simply don&#x27;t know&#x27; - JP Morgan struggling to forecast oil prices due to Trump&#x27;s war with IranImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished18 September 2026Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that &quot;we simply don&#x27;t know how to model the endgame&quot;.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East&#x27;We simply don&#x27;t know&#x27; - JP Morgan struggling to forecast oil prices due to Trump&#x27;s war with IranImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished18 September 2026Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that &quot;we simply don&#x27;t know how to model the endgame&quot;.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle East&#x27;We simply don&#x27;t know&#x27; - JP Morgan struggling to forecast oil prices due to Trump&#x27;s war with IranImage source, Getty ImagesByMichael RaceBusiness reporter, Reporting fromNew YorkPublished18 September 2026Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that &quot;we simply don&#x27;t know how to model the endgame&quot;."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open"
           }
         ]
       },
       {
-        "en": "The bank said it assumed at the start of the conflict that there would be &quot;economic red lines&quot; that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June.",
+        "en": "Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The bank said it assumed at the start of the conflict that there would be &quot;economic red lines&quot; that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June.",
-            "ko": "실시간 보도 번역: The bank said it assumed at the start of the conflict that there would be &quot;economic red lines&quot; that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June."
+            "en": "Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling.",
+            "ko": "실시간 보도 번역: Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling."
           }
         ]
       },
       {
-        "en": "It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%.",
+        "en": "After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%.",
-            "ko": "실시간 보도 번역: It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%."
+            "en": "After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face.",
+            "ko": "실시간 보도 번역: After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face."
           }
         ]
       },
       {
-        "en": "JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump&#x27;s next moves.",
+        "en": "Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump&#x27;s next moves.",
-            "ko": "실시간 보도 번역: JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump&#x27;s next moves."
+            "en": "Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day.",
+            "ko": "실시간 보도 번역: Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "글로벌 최신 소식: 'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2469,14 +2558,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+          "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_5910547448180697210",
@@ -3190,66 +3281,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_6734665866881584858",
-    "title": "GB's Samuel 'caught off guard' on winning Davis Cup debut",
-    "subtitle": "Toby Samuel and Arthur Fery get Britain off to a winning start in their Davis Cup qualifying tie against Ecuador....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-19",
-    "addedAt": "2026-09-20T03:00:40Z",
-    "category": "sports",
+    "id": "auto_culture_7463911645030590619",
+    "title": "Greek PM urges Burnham to return Elgin Marbles permanently",
+    "subtitle": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\"....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-24",
+    "addedAt": "2026-09-25T03:05:22Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 149,
+    "wordCount": 146,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel &#x27;caught off guard&#x27; on winning Davis Cup debutImage source, Getty ImagesImage caption, Toby Samuel was making his Davis Cup debut",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsGreek PM urges Burnham to return Elgin Marbles permanentlyImage source, In Pictures via Getty ImagesByKatie RazzallCulture and media editorPublished24 September 2026The Greek prime minister has called on Andy Burnham to find the &quot;political will&quot; to send the Parthenon sculptures back to Greece.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel &#x27;caught off guard&#x27; on winning Davis Cup debutImage source, Getty ImagesImage caption, Toby Samuel was making his Davis Cup debut",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSamuel &#x27;caught off guard&#x27; on winning Davis Cup debutImage source, Getty ImagesImage caption, Toby Samuel was making his Davis Cup debut"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsGreek PM urges Burnham to return Elgin Marbles permanentlyImage source, In Pictures via Getty ImagesByKatie RazzallCulture and media editorPublished24 September 2026The Greek prime minister has called on Andy Burnham to find the &quot;political will&quot; to send the Parthenon sculptures back to Greece.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsGreek PM urges Burnham to return Elgin Marbles permanentlyImage source, In Pictures via Getty ImagesByKatie RazzallCulture and media editorPublished24 September 2026The Greek prime minister has called on Andy Burnham to find the &quot;political will&quot; to send the Parthenon sculptures back to Greece."
           }
         ]
       },
       {
-        "en": "Toby Samuel says he was &quot;caught off guard&quot; about how much his Davis Cup debut meant to him as he got Great Britain off to a winning start in their qualifying tie against Ecuador.",
+        "en": "Kyriakos Mitsotakis wrote in the Guardian that returning the classical treasures, also known as the Elgin Marbles in the UK, would &quot;send a powerful signal&quot; but would require &quot;courage&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Toby Samuel says he was &quot;caught off guard&quot; about how much his Davis Cup debut meant to him as he got Great Britain off to a winning start in their qualifying tie against Ecuador.",
-            "ko": "실시간 보도 번역: Toby Samuel says he was &quot;caught off guard&quot; about how much his Davis Cup debut meant to him as he got Great Britain off to a winning start in their qualifying tie against Ecuador."
+            "en": "Kyriakos Mitsotakis wrote in the Guardian that returning the classical treasures, also known as the Elgin Marbles in the UK, would &quot;send a powerful signal&quot; but would require &quot;courage&quot;.",
+            "ko": "실시간 보도 번역: Kyriakos Mitsotakis wrote in the Guardian that returning the classical treasures, also known as the Elgin Marbles in the UK, would &quot;send a powerful signal&quot; but would require &quot;courage&quot;."
           }
         ]
       },
       {
-        "en": "The 24-year-old overcame nerves to fight back from a set down against Andres Andrade and put the hosts in front at London&#x27;s sold-out Copper Box Arena.",
+        "en": "The sculptures have been on display in the British Museum since the 19th Century, though Greece has long disputed the legality of their removal.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 24-year-old overcame nerves to fight back from a set down against Andres Andrade and put the hosts in front at London&#x27;s sold-out Copper Box Arena.",
-            "ko": "실시간 보도 번역: The 24-year-old overcame nerves to fight back from a set down against Andres Andrade and put the hosts in front at London&#x27;s sold-out Copper Box Arena."
+            "en": "The sculptures have been on display in the British Museum since the 19th Century, though Greece has long disputed the legality of their removal.",
+            "ko": "실시간 보도 번역: The sculptures have been on display in the British Museum since the 19th Century, though Greece has long disputed the legality of their removal."
           }
         ]
       },
       {
-        "en": "Team-mate Arthur Fery, playing on home soil for the first time since his astonishing run to the Wimbledon semi-finals, then gave Britain a 2-0 lead with a commanding 7-5 6-0 win over Alvaro Guillen Meza.",
+        "en": "Mitsotakis and his government have previously held talks with the British Museum about the sculptures, but the two have so far failed to reach an agreement, with Greek authorities seeking their permanent return.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Team-mate Arthur Fery, playing on home soil for the first time since his astonishing run to the Wimbledon semi-finals, then gave Britain a 2-0 lead with a commanding 7-5 6-0 win over Alvaro Guillen Meza.",
-            "ko": "실시간 보도 번역: Team-mate Arthur Fery, playing on home soil for the first time since his astonishing run to the Wimbledon semi-finals, then gave Britain a 2-0 lead with a commanding 7-5 6-0 win over Alvaro Guillen Meza."
+            "en": "Mitsotakis and his government have previously held talks with the British Museum about the sculptures, but the two have so far failed to reach an agreement, with Greek authorities seeking their permanent return.",
+            "ko": "실시간 보도 번역: Mitsotakis and his government have previously held talks with the British Museum about the sculptures, but the two have so far failed to reach an agreement, with Greek authorities seeking their permanent return."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: GB's Samuel 'caught off guard' on winning Davis Cup debut",
+      "글로벌 최신 소식: Greek PM urges Burnham to return Elgin Marbles permanently",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3257,16 +3348,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "GB's Samuel 'caught off guard' on winning Davis Cup debut",
+          "Greek PM urges Burnham to return Elgin Marbles permanently",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_2609351930449496740",
@@ -3961,83 +4050,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_5511896887748411757",
-    "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
-    "subtitle": "In real life the actress says she is just like the character she's playing in Sense and Sensibility....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-18",
-    "addedAt": "2026-09-20T03:00:42Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 102,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDaisy Edgar-Jones: I try and bury my emotion when it comes to loveImage source, Getty ImagesByNoor NanjiCulture correspondentPublished19 September 2026Daisy Edgar-Jones has been well cast in her new film.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDaisy Edgar-Jones: I try and bury my emotion when it comes to loveImage source, Getty ImagesByNoor NanjiCulture correspondentPublished19 September 2026Daisy Edgar-Jones has been well cast in her new film.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsDaisy Edgar-Jones: I try and bury my emotion when it comes to loveImage source, Getty ImagesByNoor NanjiCulture correspondentPublished19 September 2026Daisy Edgar-Jones has been well cast in her new film."
-          }
-        ]
-      },
-      {
-        "en": "She plays Elinor, the rational elder sister in Sense and Sensibility, opposite the younger, more romantic sister Marianne.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "She plays Elinor, the rational elder sister in Sense and Sensibility, opposite the younger, more romantic sister Marianne.",
-            "ko": "실시간 보도 번역: She plays Elinor, the rational elder sister in Sense and Sensibility, opposite the younger, more romantic sister Marianne."
-          }
-        ]
-      },
-      {
-        "en": "Speaking to the BBC, Edgar-Jones says that in her personal life, she really is like her character.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Speaking to the BBC, Edgar-Jones says that in her personal life, she really is like her character.",
-            "ko": "실시간 보도 번역: Speaking to the BBC, Edgar-Jones says that in her personal life, she really is like her character."
-          }
-        ]
-      },
-      {
-        "en": "&quot;When it comes to love, I think I am very much more Elinor in every sort of way,&quot; she says.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&quot;When it comes to love, I think I am very much more Elinor in every sort of way,&quot; she says.",
-            "ko": "실시간 보도 번역: &quot;When it comes to love, I think I am very much more Elinor in every sort of way,&quot; she says."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
           "Historical retrospective",
           "Unrelated general weather"
         ],
