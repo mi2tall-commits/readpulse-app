@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_2941743107005717532",
+    "title": "OpenAI bots meddled with multiple US government agency sites",
+    "subtitle": "OpenAI said its bots access public data from the US Census and the Securities and Exchange Commission, which looks over US stocks ...",
+    "speaker": "BBC Technology",
+    "date": "2026-09-26",
+    "addedAt": "2026-09-26T03:09:06Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 119,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the center of new concerns over uncontrolled AI activity.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the center of new concerns over uncontrolled AI activity.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the center of new concerns over uncontrolled AI activity."
+          }
+        ]
+      },
+      {
+        "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
+            "ko": "실시간 보도 번역: OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly."
+          }
+        ]
+      },
+      {
+        "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the SEC, Census Bureau and Education Department, the company said.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the SEC, Census Bureau and Education Department, the company said.",
+            "ko": "실시간 보도 번역: AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the SEC, Census Bureau and Education Department, the company said."
+          }
+        ]
+      },
+      {
+        "en": "The disclosures come just days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme, Medicare.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The disclosures come just days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme, Medicare.",
+            "ko": "실시간 보도 번역: The disclosures come just days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme, Medicare."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: OpenAI bots meddled with multiple US government agency sites",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "OpenAI bots meddled with multiple US government agency sites",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_4270208719109403467",
     "title": "Special agents' blood and urine test results stolen in FBI hack",
     "subtitle": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks....",
@@ -706,66 +783,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1905881702959133232",
-    "title": "Not all AI workers think the tech could kill everyone",
-    "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-19",
-    "addedAt": "2026-09-21T02:58:06Z",
-    "category": "tech",
+    "id": "auto_science_6262575195270397722",
+    "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+    "subtitle": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance....",
+    "speaker": "BBC Science",
+    "date": "2026-09-25",
+    "addedAt": "2026-09-26T03:09:06Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 147,
+    "wordCount": 110,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaThe treasured &#x27;eternal snow&#x27; on this tropical island is about to disappear foreverImage source, Project Pressure/Klaus TymannImage caption, Only small patches of snow remain on Papua&#x27;s Sudirman Range",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaThe treasured &#x27;eternal snow&#x27; on this tropical island is about to disappear foreverImage source, Project Pressure/Klaus TymannImage caption, Only small patches of snow remain on Papua&#x27;s Sudirman Range",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaThe treasured &#x27;eternal snow&#x27; on this tropical island is about to disappear foreverImage source, Project Pressure/Klaus TymannImage caption, Only small patches of snow remain on Papua&#x27;s Sudirman Range"
           }
         ]
       },
       {
-        "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+        "en": "The mountains of Papua are not far from the equator, but they&#x27;ve been topped with &quot;eternal snow&quot; for centuries.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
-            "ko": "실시간 보도 번역: In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse."
+            "en": "The mountains of Papua are not far from the equator, but they&#x27;ve been topped with &quot;eternal snow&quot; for centuries.",
+            "ko": "실시간 보도 번역: The mountains of Papua are not far from the equator, but they&#x27;ve been topped with &quot;eternal snow&quot; for centuries."
           }
         ]
       },
       {
-        "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+        "en": "The peaks in this Indonesian region on the world&#x27;s second-largest island, just north of Australia, have offered scientists countless insights into the Earth&#x27;s climate history.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
-            "ko": "실시간 보도 번역: &quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry."
+            "en": "The peaks in this Indonesian region on the world&#x27;s second-largest island, just north of Australia, have offered scientists countless insights into the Earth&#x27;s climate history.",
+            "ko": "실시간 보도 번역: The peaks in this Indonesian region on the world&#x27;s second-largest island, just north of Australia, have offered scientists countless insights into the Earth&#x27;s climate history."
           }
         ]
       },
       {
-        "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+        "en": "They&#x27;re also the epicentre of the spiritual universe for many Papuans - a Mecca or a Vatican, as one activist puts it.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
-            "ko": "실시간 보도 번역: While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development."
+            "en": "They&#x27;re also the epicentre of the spiritual universe for many Papuans - a Mecca or a Vatican, as one activist puts it.",
+            "ko": "실시간 보도 번역: They&#x27;re also the epicentre of the spiritual universe for many Papuans - a Mecca or a Vatican, as one activist puts it."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Not all AI workers think the tech could kill everyone",
+      "글로벌 최신 소식: The treasured 'eternal snow' on this tropical island is about to disappear forever",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -773,7 +850,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Not all AI workers think the tech could kill everyone",
+          "The treasured 'eternal snow' on this tropical island is about to disappear forever",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1608,66 +1685,82 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_6920550173989499261",
-    "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-    "subtitle": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent tech...",
-    "speaker": "BBC Science",
-    "date": "2026-09-19",
-    "addedAt": "2026-09-21T02:58:07Z",
-    "category": "science",
+    "id": "auto_economy_2886256864205554169",
+    "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
+    "subtitle": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments....",
+    "speaker": "BBC Business",
+    "date": "2026-09-25",
+    "addedAt": "2026-09-26T03:09:06Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 174,
+    "wordCount": 143,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished19 September 2026US President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessSir David Beckham nets £38.5m after World Cup ad dealsImage source, Getty ImagesByArchie MitchellBusiness reporterPublished25 September 2026Sir David Beckham has netted a £38.5m payout from his sports, fashion, and media business after the 2026 Men&#x27;s Football World Cup helped it bring in record profits.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished19 September 2026US President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTrump says US will form &#x27;AI Force&#x27; and appoint an artificial intelligence tsarImage source, AFP via Getty ImagesByNardine SaadPublished19 September 2026US President Donald Trump has announced that he will form an &quot;AI Force&quot; and appoint an artificial intelligence tsar amid warnings about the emergent technology."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessSir David Beckham nets £38.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessSir David Beckham nets £38."
+          },
+          {
+            "en": "5m after World Cup ad dealsImage source, Getty ImagesByArchie MitchellBusiness reporterPublished25 September 2026Sir David Beckham has netted a £38.",
+            "ko": "실시간 보도 번역: 5m after World Cup ad dealsImage source, Getty ImagesByArchie MitchellBusiness reporterPublished25 September 2026Sir David Beckham has netted a £38."
+          },
+          {
+            "en": "5m payout from his sports, fashion, and media business after the 2026 Men&#x27;s Football World Cup helped it bring in record profits.",
+            "ko": "실시간 보도 번역: 5m payout from his sports, fashion, and media business after the 2026 Men&#x27;s Football World Cup helped it bring in record profits."
           }
         ]
       },
       {
-        "en": "In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.",
+        "en": "The former England star&#x27;s DRJB Holdings, which includes the Beckham brand, reported an almost £50m profit in 2025, a 46% jump compared to a year earlier. Sales rose from £72.2m to £84m.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.",
-            "ko": "실시간 보도 번역: In a social media post on Saturday, he said his administration &quot;will not in any way hinder or stifle the growth&quot; of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place."
+            "en": "The former England star&#x27;s DRJB Holdings, which includes the Beckham brand, reported an almost £50m profit in 2025, a 46% jump compared to a year earlier.",
+            "ko": "실시간 보도 번역: The former England star&#x27;s DRJB Holdings, which includes the Beckham brand, reported an almost £50m profit in 2025, a 46% jump compared to a year earlier."
+          },
+          {
+            "en": "Sales rose from £72.",
+            "ko": "실시간 보도 번역: Sales rose from £72."
+          },
+          {
+            "en": "2m to £84m.",
+            "ko": "실시간 보도 번역: 2m to £84m."
           }
         ]
       },
       {
-        "en": "His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development.",
+        "en": "The rise was driven by a slew of advertising partnerships struck in the runup to the tournament, including with Bank of America, McDonald&#x27;s, Verizon, and PepsiCo Lay&#x27;s.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development.",
-            "ko": "실시간 보도 번역: His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology&#x27;s development."
+            "en": "The rise was driven by a slew of advertising partnerships struck in the runup to the tournament, including with Bank of America, McDonald&#x27;s, Verizon, and PepsiCo Lay&#x27;s.",
+            "ko": "실시간 보도 번역: The rise was driven by a slew of advertising partnerships struck in the runup to the tournament, including with Bank of America, McDonald&#x27;s, Verizon, and PepsiCo Lay&#x27;s."
           }
         ]
       },
       {
-        "en": "Published4 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI.",
+        "en": "Sir David, Britain&#x27;s first billionaire sportsman, was commonly seen in adverts during the summer&#x27;s World Cup.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Published4 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI.",
-            "ko": "실시간 보도 번역: Published4 days ago&quot;AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country&#x27;s GDP,&quot; he said on social media, adding that he wants the US to continue leading China in AI."
+            "en": "Sir David, Britain&#x27;s first billionaire sportsman, was commonly seen in adverts during the summer&#x27;s World Cup.",
+            "ko": "실시간 보도 번역: Sir David, Britain&#x27;s first billionaire sportsman, was commonly seen in adverts during the summer&#x27;s World Cup."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "글로벌 최신 소식: Sir David Beckham nets £38.5m after World Cup ad deals",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1675,7 +1768,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+          "Sir David Beckham nets £38.5m after World Cup ad deals",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2414,74 +2507,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_3260767646917954052",
-    "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-    "subtitle": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction....",
-    "speaker": "BBC Business",
-    "date": "2026-09-21",
-    "addedAt": "2026-09-21T02:58:07Z",
-    "category": "economy",
+    "id": "auto_sports_5837923560306934476",
+    "title": "Sinner ruled out of China Open with knee injury",
+    "subtitle": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee problem....",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-25",
+    "addedAt": "2026-09-26T03:09:07Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 137,
+    "wordCount": 129,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessNvidia boss rejects AI extinction fears as &#x27;doomsday narratives&#x27;Image source, Bloomberg via Getty ImagesByOsmond ChiaBusiness reporterPublished2 hours agoNvidia CEO Jensen Huang has described warnings that AI could lead to humanity&#x27;s extinction by the next decade as &quot;doomsday narratives&quot;.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSinner ruled out of China Open with knee injuryImage source, Getty ImagesImage caption, Jannik Sinner retained his men&#x27;s singles Wimbledon title earlier this year",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessNvidia boss rejects AI extinction fears as &#x27;doomsday narratives&#x27;Image source, Bloomberg via Getty ImagesByOsmond ChiaBusiness reporterPublished2 hours agoNvidia CEO Jensen Huang has described warnings that AI could lead to humanity&#x27;s extinction by the next decade as &quot;doomsday narratives&quot;.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessNvidia boss rejects AI extinction fears as &#x27;doomsday narratives&#x27;Image source, Bloomberg via Getty ImagesByOsmond ChiaBusiness reporterPublished2 hours agoNvidia CEO Jensen Huang has described warnings that AI could lead to humanity&#x27;s extinction by the next decade as &quot;doomsday narratives&quot;."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSinner ruled out of China Open with knee injuryImage source, Getty ImagesImage caption, Jannik Sinner retained his men&#x27;s singles Wimbledon title earlier this year",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSinner ruled out of China Open with knee injuryImage source, Getty ImagesImage caption, Jannik Sinner retained his men&#x27;s singles Wimbledon title earlier this year"
           }
         ]
       },
       {
-        "en": "&quot;2030 is not going to be the end of the world. There is 0% chance that&#x27;s going to be the end of the world&quot;, Huang said in an interview with CBS News, the BBC&#x27;s US partner.",
+        "en": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;2030 is not going to be the end of the world.",
-            "ko": "실시간 보도 번역: &quot;2030 is not going to be the end of the world."
+            "en": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury.",
+            "ko": "실시간 보도 번역: World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury."
+          }
+        ]
+      },
+      {
+        "en": "The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final.",
+            "ko": "실시간 보도 번역: The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final."
+          }
+        ]
+      },
+      {
+        "en": "Sinner, 25, won the China Open in 2023 and 2025. The tournament starts on Wednesday and concludes on 6 October.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Sinner, 25, won the China Open in 2023 and 2025.",
+            "ko": "실시간 보도 번역: Sinner, 25, won the China Open in 2023 and 2025."
           },
           {
-            "en": "There is 0% chance that&#x27;s going to be the end of the world&quot;, Huang said in an interview with CBS News, the BBC&#x27;s US partner.",
-            "ko": "실시간 보도 번역: There is 0% chance that&#x27;s going to be the end of the world&quot;, Huang said in an interview with CBS News, the BBC&#x27;s US partner."
-          }
-        ]
-      },
-      {
-        "en": "Huang added: &quot;Scaring people is unnecessary. It is irresponsible.&quot;",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Huang added: &quot;Scaring people is unnecessary.",
-            "ko": "실시간 보도 번역: Huang added: &quot;Scaring people is unnecessary."
-          },
-          {
-            "en": "It is irresponsible.",
-            "ko": "실시간 보도 번역: It is irresponsible."
-          }
-        ]
-      },
-      {
-        "en": "Warnings from researchers in recent weeks about potential risks posed by the technology escalated the debate about AI safety, with some industry executives calling for a slowdown in developing models.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Warnings from researchers in recent weeks about potential risks posed by the technology escalated the debate about AI safety, with some industry executives calling for a slowdown in developing models.",
-            "ko": "실시간 보도 번역: Warnings from researchers in recent weeks about potential risks posed by the technology escalated the debate about AI safety, with some industry executives calling for a slowdown in developing models."
+            "en": "The tournament starts on Wednesday and concludes on 6 October.",
+            "ko": "실시간 보도 번역: The tournament starts on Wednesday and concludes on 6 October."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+      "글로벌 최신 소식: Sinner ruled out of China Open with knee injury",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2489,14 +2578,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+          "Sinner ruled out of China Open with knee injury",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_3652829097474021569",
@@ -3210,66 +3301,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_5457054076323833820",
-    "title": "GB dominate Ecuador to reach Davis Cup Finals",
-    "subtitle": "Great Britain will play in the Davis Cup Finals for the first time since 2023 after claiming a 4-0 win against Ecuador in London....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-20",
-    "addedAt": "2026-09-21T02:58:07Z",
-    "category": "sports",
+    "id": "auto_culture_4296991374770998212",
+    "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
+    "subtitle": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after  severe weather warnings....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-25",
+    "addedAt": "2026-09-26T03:09:08Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 167,
+    "wordCount": 164,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB dominate Ecuador to reach Davis Cup FinalsTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026Ed Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB dominate Ecuador to reach Davis Cup FinalsTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB dominate Ecuador to reach Davis Cup FinalsTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026Ed Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026Ed Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area."
           }
         ]
       },
       {
-        "en": "Great Britain have reached the Davis Cup Finals for the first time since 2023 after sealing a 4-0 win in their qualifying tie against Ecuador.",
+        "en": "The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Great Britain have reached the Davis Cup Finals for the first time since 2023 after sealing a 4-0 win in their qualifying tie against Ecuador.",
-            "ko": "실시간 보도 번역: Great Britain have reached the Davis Cup Finals for the first time since 2023 after sealing a 4-0 win in their qualifying tie against Ecuador."
+            "en": "The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour.",
+            "ko": "실시간 보도 번역: The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour."
           }
         ]
       },
       {
-        "en": "Henry Patten and Neal Skupski booked Britain&#x27;s ticket to November&#x27;s &#x27;Final 8&#x27; event in Bologna with a 6-3 6-4 win over Gonzalo Escobar and Diego Hidalgo in the doubles at London&#x27;s Copper Box Arena.",
+        "en": "The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage. Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Henry Patten and Neal Skupski booked Britain&#x27;s ticket to November&#x27;s &#x27;Final 8&#x27; event in Bologna with a 6-3 6-4 win over Gonzalo Escobar and Diego Hidalgo in the doubles at London&#x27;s Copper Box Arena.",
-            "ko": "실시간 보도 번역: Henry Patten and Neal Skupski booked Britain&#x27;s ticket to November&#x27;s &#x27;Final 8&#x27; event in Bologna with a 6-3 6-4 win over Gonzalo Escobar and Diego Hidalgo in the doubles at London&#x27;s Copper Box Arena."
+            "en": "The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage.",
+            "ko": "실시간 보도 번역: The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage."
+          },
+          {
+            "en": "Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal.",
+            "ko": "실시간 보도 번역: Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal."
           }
         ]
       },
       {
-        "en": "That gave Britain an unassailable 3-0 lead after wins on Saturday for Toby Samuel and Arthur Fery in the singles, before Harry Wendelken, a late call-up to the team after Cameron Norrie withdrew injured on Friday, wrapped up the best-of-five tie by beating Angel Veliz 6-2 6-3 on his competition debut.",
+        "en": "A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium.&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "That gave Britain an unassailable 3-0 lead after wins on Saturday for Toby Samuel and Arthur Fery in the singles, before Harry Wendelken, a late call-up to the team after Cameron Norrie withdrew injured on Friday, wrapped up the best-of-five tie by beating Angel Veliz 6-2 6-3 on his competition debut.",
-            "ko": "실시간 보도 번역: That gave Britain an unassailable 3-0 lead after wins on Saturday for Toby Samuel and Arthur Fery in the singles, before Harry Wendelken, a late call-up to the team after Cameron Norrie withdrew injured on Friday, wrapped up the best-of-five tie by beating Angel Veliz 6-2 6-3 on his competition debut."
+            "en": "A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium.",
+            "ko": "실시간 보도 번역: A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: GB dominate Ecuador to reach Davis Cup Finals",
+      "글로벌 최신 소식: Ed Sheeran's next US concerts cancelled due to storm warning",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3277,16 +3372,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "GB dominate Ecuador to reach Davis Cup Finals",
+          "Ed Sheeran's next US concerts cancelled due to storm warning",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_4875059665775764658",
@@ -3985,83 +4078,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Presley Gerber, Cindy Crawford's son, dies aged 27",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_4604038038575776272",
-    "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-    "subtitle": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-20",
-    "addedAt": "2026-09-21T02:58:08Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 121,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEd Sheeran admits &#x27;mistakes&#x27; at first show since Macklemore controversyTo play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEd Sheeran admits &#x27;mistakes&#x27; at first show since Macklemore controversyTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEd Sheeran admits &#x27;mistakes&#x27; at first show since Macklemore controversyTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "&quot;This is a humanitarian issue, and I cannot hide how I feel about it anymore,&quot; Ed Sheeran says as he addresses Macklemore row",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&quot;This is a humanitarian issue, and I cannot hide how I feel about it anymore,&quot; Ed Sheeran says as he addresses Macklemore row",
-            "ko": "실시간 보도 번역: &quot;This is a humanitarian issue, and I cannot hide how I feel about it anymore,&quot; Ed Sheeran says as he addresses Macklemore row"
-          }
-        ]
-      },
-      {
-        "en": "Ed Sheeran has apologised to fans for making &quot;mistakes&quot; as he opened his first show since Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Ed Sheeran has apologised to fans for making &quot;mistakes&quot; as he opened his first show since Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
-            "ko": "실시간 보도 번역: Ed Sheeran has apologised to fans for making &quot;mistakes&quot; as he opened his first show since Macklemore was dropped from his tour for making pro-Palestinian remarks on stage."
-          }
-        ]
-      },
-      {
-        "en": "The singer began his concert in Philadelphia by addressing the controversy that has since engulfed the tour and prompted all of his support acts to quit.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The singer began his concert in Philadelphia by addressing the controversy that has since engulfed the tour and prompted all of his support acts to quit.",
-            "ko": "실시간 보도 번역: The singer began his concert in Philadelphia by addressing the controversy that has since engulfed the tour and prompted all of his support acts to quit."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
           "Historical retrospective",
           "Unrelated general weather"
         ],
