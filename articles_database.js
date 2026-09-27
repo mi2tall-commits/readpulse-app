@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_6887602957869172413",
+    "title": "OpenAI bots meddled with multiple US government agency sites",
+    "subtitle": "OpenAI said its bots accessed public data from a range of institutions during test exercises....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-26",
+    "addedAt": "2026-09-27T16:15:27Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 122,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity"
+          }
+        ]
+      },
+      {
+        "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
+            "ko": "실시간 보도 번역: OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly."
+          }
+        ]
+      },
+      {
+        "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
+            "ko": "실시간 보도 번역: AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said."
+          }
+        ]
+      },
+      {
+        "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
+            "ko": "실시간 보도 번역: The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: OpenAI bots meddled with multiple US government agency sites",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "OpenAI bots meddled with multiple US government agency sites",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_8142164394993551034",
     "title": "OpenAI bots meddled with multiple US government agency sites",
     "subtitle": "OpenAI said its bots accessed public data from a range of institutions during test exercises....",
@@ -706,66 +783,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_3844851069575977769",
-    "title": "Not all AI workers think the tech could kill everyone",
-    "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-19",
-    "addedAt": "2026-09-22T16:07:57Z",
-    "category": "tech",
+    "id": "auto_science_670554805988891774",
+    "title": "Bangkok roads submerged as flood disaster declared",
+    "subtitle": "Authorities said the heavy rains have subsided but the flooding is not yet over....",
+    "speaker": "BBC Science",
+    "date": "2026-09-27",
+    "addedAt": "2026-09-27T16:15:28Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 147,
+    "wordCount": 121,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaBangkok roads submerged as flood disaster declaredTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaBangkok roads submerged as flood disaster declaredTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaBangkok roads submerged as flood disaster declaredTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+        "en": "A flood emergency disaster has been declared across Bangkok after more than 300mm (12in) of rain fell since Thursday, leaving roads in the Thai capital submerged.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
-            "ko": "실시간 보도 번역: In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse."
+            "en": "A flood emergency disaster has been declared across Bangkok after more than 300mm (12in) of rain fell since Thursday, leaving roads in the Thai capital submerged.",
+            "ko": "실시간 보도 번역: A flood emergency disaster has been declared across Bangkok after more than 300mm (12in) of rain fell since Thursday, leaving roads in the Thai capital submerged."
           }
         ]
       },
       {
-        "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+        "en": "On Sunday, Bangkok&#x27;s Metropolitan Authority said the rains have subsided, but canal water levels remain high. The city&#x27;s governor has warned that the flooding is not yet over.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
-            "ko": "실시간 보도 번역: &quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry."
+            "en": "On Sunday, Bangkok&#x27;s Metropolitan Authority said the rains have subsided, but canal water levels remain high.",
+            "ko": "실시간 보도 번역: On Sunday, Bangkok&#x27;s Metropolitan Authority said the rains have subsided, but canal water levels remain high."
+          },
+          {
+            "en": "The city&#x27;s governor has warned that the flooding is not yet over.",
+            "ko": "실시간 보도 번역: The city&#x27;s governor has warned that the flooding is not yet over."
           }
         ]
       },
       {
-        "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+        "en": "People have been urged to stay at home and those living close to the city&#x27;s network of canals have been advised to move their belongings to upper floors.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
-            "ko": "실시간 보도 번역: While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development."
+            "en": "People have been urged to stay at home and those living close to the city&#x27;s network of canals have been advised to move their belongings to upper floors.",
+            "ko": "실시간 보도 번역: People have been urged to stay at home and those living close to the city&#x27;s network of canals have been advised to move their belongings to upper floors."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Not all AI workers think the tech could kill everyone",
+      "글로벌 최신 소식: Bangkok roads submerged as flood disaster declared",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -773,7 +854,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Not all AI workers think the tech could kill everyone",
+          "Bangkok roads submerged as flood disaster declared",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1496,78 +1577,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_2712347735147092721",
-    "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-    "subtitle": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world....",
-    "speaker": "BBC Science",
-    "date": "2026-09-22",
-    "addedAt": "2026-09-22T16:07:57Z",
-    "category": "science",
+    "id": "auto_economy_335211089415745808",
+    "title": "Andy Burnham refuses to back third runway at Heathrow",
+    "subtitle": "Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost £33bn...",
+    "speaker": "BBC Business",
+    "date": "2026-09-27",
+    "addedAt": "2026-09-27T16:15:28Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 131,
+    "wordCount": 160,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpDeveloping El Niño becomes strongest on record weeks before expected peakImage source, Anadolou/Getty ImagesImage caption, Wildfires fuelled by El Niño are affecting around 12.5 million people across Indonesia, according to the country&#x27;s health ministry.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAndy Burnham refuses to back third runway at HeathrowImage source, ReutersByDearbail JordanBusiness reporterPublished4 hours agoPrime Minister Andy Burnham has refused to say whether he backs a third runway at Heathrow after it emerged that the expansion of the London airport could be delayed by up to four years.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpDeveloping El Niño becomes strongest on record weeks before expected peakImage source, Anadolou/Getty ImagesImage caption, Wildfires fuelled by El Niño are affecting around 12.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpDeveloping El Niño becomes strongest on record weeks before expected peakImage source, Anadolou/Getty ImagesImage caption, Wildfires fuelled by El Niño are affecting around 12."
-          },
-          {
-            "en": "5 million people across Indonesia, according to the country&#x27;s health ministry.",
-            "ko": "실시간 보도 번역: 5 million people across Indonesia, according to the country&#x27;s health ministry."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAndy Burnham refuses to back third runway at HeathrowImage source, ReutersByDearbail JordanBusiness reporterPublished4 hours agoPrime Minister Andy Burnham has refused to say whether he backs a third runway at Heathrow after it emerged that the expansion of the London airport could be delayed by up to four years.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAndy Burnham refuses to back third runway at HeathrowImage source, ReutersByDearbail JordanBusiness reporterPublished4 hours agoPrime Minister Andy Burnham has refused to say whether he backs a third runway at Heathrow after it emerged that the expansion of the London airport could be delayed by up to four years."
           }
         ]
       },
       {
-        "en": "The developing El Niño climate phenomenon is now the strongest on record, according to scientists monitoring Pacific Ocean temperatures.",
+        "en": "Burnham - who, as Mayor of Greater Manchester, opposed the project - told Sunday With Laura Kuenssberg: &quot;I think principally, it&#x27;s a matter for London and Londoners.&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The developing El Niño climate phenomenon is now the strongest on record, according to scientists monitoring Pacific Ocean temperatures.",
-            "ko": "실시간 보도 번역: The developing El Niño climate phenomenon is now the strongest on record, according to scientists monitoring Pacific Ocean temperatures."
+            "en": "Burnham - who, as Mayor of Greater Manchester, opposed the project - told Sunday With Laura Kuenssberg: &quot;I think principally, it&#x27;s a matter for London and Londoners.",
+            "ko": "실시간 보도 번역: Burnham - who, as Mayor of Greater Manchester, opposed the project - told Sunday With Laura Kuenssberg: &quot;I think principally, it&#x27;s a matter for London and Londoners."
           }
         ]
       },
       {
-        "en": "Daily sea surface temperatures in a key region of the central-eastern Pacific were 3.05C above average on 19 September - exceeding the previous record of 3.02C set during the very strong El Niño of 2015.",
+        "en": "He added: &quot;I think we ought to hear the voice of people there first. It&#x27;s not right for me to just jump straight in on the back of the consultation.&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Daily sea surface temperatures in a key region of the central-eastern Pacific were 3.",
-            "ko": "실시간 보도 번역: Daily sea surface temperatures in a key region of the central-eastern Pacific were 3."
+            "en": "He added: &quot;I think we ought to hear the voice of people there first.",
+            "ko": "실시간 보도 번역: He added: &quot;I think we ought to hear the voice of people there first."
           },
           {
-            "en": "05C above average on 19 September - exceeding the previous record of 3.",
-            "ko": "실시간 보도 번역: 05C above average on 19 September - exceeding the previous record of 3."
-          },
-          {
-            "en": "02C set during the very strong El Niño of 2015.",
-            "ko": "실시간 보도 번역: 02C set during the very strong El Niño of 2015."
+            "en": "It&#x27;s not right for me to just jump straight in on the back of the consultation.",
+            "ko": "실시간 보도 번역: It&#x27;s not right for me to just jump straight in on the back of the consultation."
           }
         ]
       },
       {
-        "en": "Some longer-term measures of El Niño have not yet hit record levels but this is likely to change, with the peak not expected until later this year.",
+        "en": "Former Chancellor Rachel Reeves had championed the runway to boost the economy, with a schedule to open by 2035 but Heathrow indicated on Saturday it may not be operational before 2039.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Some longer-term measures of El Niño have not yet hit record levels but this is likely to change, with the peak not expected until later this year.",
-            "ko": "실시간 보도 번역: Some longer-term measures of El Niño have not yet hit record levels but this is likely to change, with the peak not expected until later this year."
+            "en": "Former Chancellor Rachel Reeves had championed the runway to boost the economy, with a schedule to open by 2035 but Heathrow indicated on Saturday it may not be operational before 2039.",
+            "ko": "실시간 보도 번역: Former Chancellor Rachel Reeves had championed the runway to boost the economy, with a schedule to open by 2035 but Heathrow indicated on Saturday it may not be operational before 2039."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Developing El Niño becomes strongest on record weeks before expected peak",
+      "글로벌 최신 소식: Andy Burnham refuses to back third runway at Heathrow",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1575,7 +1648,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Developing El Niño becomes strongest on record weeks before expected peak",
+          "Andy Burnham refuses to back third runway at Heathrow",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2322,66 +2395,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_6712846539495039083",
-    "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-    "subtitle": "Ineos said natural gas in the UK is twelve times more expensive than in the US....",
-    "speaker": "BBC Business",
-    "date": "2026-09-22",
-    "addedAt": "2026-09-22T16:07:57Z",
-    "category": "economy",
+    "id": "auto_sports_4405042857132683626",
+    "title": "Alcaraz wins after saving match points as Europe lead Laver Cup",
+    "subtitle": "Carlos Alcaraz narrowly avoids back-to-back singles defeats for the first time in 18 months as Team Europe lead Team World at the ...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-27",
+    "addedAt": "2026-09-27T16:15:28Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 144,
+    "wordCount": 128,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessSir Jim Ratcliffe suspends production at key UK plants blaming high gas pricesImage source, Getty ImagesImage caption, Sir Jim said Ineos was being &#x27;forced&#x27; to pause production at the three plants",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarAlcaraz wins from brink as Europe lead Laver CupImage source, ReutersImage caption, Carlos Alcaraz has struggled with a wrist injury this year",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessSir Jim Ratcliffe suspends production at key UK plants blaming high gas pricesImage source, Getty ImagesImage caption, Sir Jim said Ineos was being &#x27;forced&#x27; to pause production at the three plants",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessSir Jim Ratcliffe suspends production at key UK plants blaming high gas pricesImage source, Getty ImagesImage caption, Sir Jim said Ineos was being &#x27;forced&#x27; to pause production at the three plants"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarAlcaraz wins from brink as Europe lead Laver CupImage source, ReutersImage caption, Carlos Alcaraz has struggled with a wrist injury this year",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarAlcaraz wins from brink as Europe lead Laver CupImage source, ReutersImage caption, Carlos Alcaraz has struggled with a wrist injury this year"
           }
         ]
       },
       {
-        "en": "Billionaire Sir Jim Ratcliffe&#x27;s industrial giant Ineos is pausing production at its three plants in Hull, blaming high UK gas prices.",
+        "en": "Two-time Wimbledon champion Carlos Alcaraz narrowly avoided back-to-back singles defeats for the first time in 18 months as Team Europe took a 7-5 lead over Team World at the Laver Cup.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Billionaire Sir Jim Ratcliffe&#x27;s industrial giant Ineos is pausing production at its three plants in Hull, blaming high UK gas prices.",
-            "ko": "실시간 보도 번역: Billionaire Sir Jim Ratcliffe&#x27;s industrial giant Ineos is pausing production at its three plants in Hull, blaming high UK gas prices."
+            "en": "Two-time Wimbledon champion Carlos Alcaraz narrowly avoided back-to-back singles defeats for the first time in 18 months as Team Europe took a 7-5 lead over Team World at the Laver Cup.",
+            "ko": "실시간 보도 번역: Two-time Wimbledon champion Carlos Alcaraz narrowly avoided back-to-back singles defeats for the first time in 18 months as Team Europe took a 7-5 lead over Team World at the Laver Cup."
           }
         ]
       },
       {
-        "en": "The firm said gas prices in the UK are twelve times higher than in the US, and eight times more expensive than the coal-based processes used by Chinese competitors.",
+        "en": "The world number three saved two match points before overcoming Taylor Fritz 6-3 4-6 13-11 in a dramatic deciding tie-break at London&#x27;s O2 Arena.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The firm said gas prices in the UK are twelve times higher than in the US, and eight times more expensive than the coal-based processes used by Chinese competitors.",
-            "ko": "실시간 보도 번역: The firm said gas prices in the UK are twelve times higher than in the US, and eight times more expensive than the coal-based processes used by Chinese competitors."
+            "en": "The world number three saved two match points before overcoming Taylor Fritz 6-3 4-6 13-11 in a dramatic deciding tie-break at London&#x27;s O2 Arena.",
+            "ko": "실시간 보도 번역: The world number three saved two match points before overcoming Taylor Fritz 6-3 4-6 13-11 in a dramatic deciding tie-break at London&#x27;s O2 Arena."
           }
         ]
       },
       {
-        "en": "Sir Jim said: &quot;We are being forced to mothball some of the most efficient plants in Europe, but with gas prices now 12 times the level in the US and 8 times that of China, we just cannot compete.&quot;",
+        "en": "It was Alcaraz&#x27;s first singles outing since his late-night quarter-final exit to Ben Shelton at the US Open.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Sir Jim said: &quot;We are being forced to mothball some of the most efficient plants in Europe, but with gas prices now 12 times the level in the US and 8 times that of China, we just cannot compete.",
-            "ko": "실시간 보도 번역: Sir Jim said: &quot;We are being forced to mothball some of the most efficient plants in Europe, but with gas prices now 12 times the level in the US and 8 times that of China, we just cannot compete."
+            "en": "It was Alcaraz&#x27;s first singles outing since his late-night quarter-final exit to Ben Shelton at the US Open.",
+            "ko": "실시간 보도 번역: It was Alcaraz&#x27;s first singles outing since his late-night quarter-final exit to Ben Shelton at the US Open."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+      "글로벌 최신 소식: Alcaraz wins after saving match points as Europe lead Laver Cup",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2389,14 +2462,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+          "Alcaraz wins after saving match points as Europe lead Laver Cup",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_7688985143377356680",
@@ -3122,66 +3197,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_2123316874371475474",
-    "title": "GB out of BJK Cup as Kartal &amp; Boulter beaten by Czechs",
-    "subtitle": "Sonay Kartal and Katie Boulter lose their singles matches as Great Britain are beaten by a strong Czech Republic side in the Billi...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-22",
-    "addedAt": "2026-09-22T16:07:58Z",
-    "category": "sports",
+    "id": "auto_culture_2752058723152760565",
+    "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
+    "subtitle": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-26",
+    "addedAt": "2026-09-27T16:15:30Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 153,
+    "wordCount": 143,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB out of BJK Cup as Kartal &amp; Boulter beaten by CzechsImage source, Getty ImagesImage caption, Katie Boulter was Britain&#x27;s highest ranked player as the world number 54",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsCelebrity Traitors 2 cast: Who are this year&#x27;s &#x27;big dogs&#x27; and dark horses?Image caption, The winning celeb will score £100,000 for their chosen charity",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB out of BJK Cup as Kartal &amp; Boulter beaten by CzechsImage source, Getty ImagesImage caption, Katie Boulter was Britain&#x27;s highest ranked player as the world number 54",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB out of BJK Cup as Kartal &amp; Boulter beaten by CzechsImage source, Getty ImagesImage caption, Katie Boulter was Britain&#x27;s highest ranked player as the world number 54"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsCelebrity Traitors 2 cast: Who are this year&#x27;s &#x27;big dogs&#x27; and dark horses?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsCelebrity Traitors 2 cast: Who are this year&#x27;s &#x27;big dogs&#x27; and dark horses?"
           }
         ]
       },
       {
-        "en": "Sonay Kartal and Katie Boulter lost their respective singles matches as Great Britain were beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals.",
+        "en": "Celebrity Traitors returns next week for a second round of deception and amateur detective work.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Sonay Kartal and Katie Boulter lost their respective singles matches as Great Britain were beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals.",
-            "ko": "실시간 보도 번역: Sonay Kartal and Katie Boulter lost their respective singles matches as Great Britain were beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals."
+            "en": "Celebrity Traitors returns next week for a second round of deception and amateur detective work.",
+            "ko": "실시간 보도 번역: Celebrity Traitors returns next week for a second round of deception and amateur detective work."
           }
         ]
       },
       {
-        "en": "Anne Keothavong&#x27;s team headed into the tie as underdogs, with all five Czech players placed higher in the singles rankings than any of the British squad.",
+        "en": "Hosted by Claudia Winkleman, the Traitors castle will welcome 21 new celebrities on Thursday, as a group of famous &quot;faithfuls&quot; attempts to work out which among them are - and perhaps, always have been - &quot;traitors&quot;, secretly murdering contestants each night.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Anne Keothavong&#x27;s team headed into the tie as underdogs, with all five Czech players placed higher in the singles rankings than any of the British squad.",
-            "ko": "실시간 보도 번역: Anne Keothavong&#x27;s team headed into the tie as underdogs, with all five Czech players placed higher in the singles rankings than any of the British squad."
+            "en": "Hosted by Claudia Winkleman, the Traitors castle will welcome 21 new celebrities on Thursday, as a group of famous &quot;faithfuls&quot; attempts to work out which among them are - and perhaps, always have been - &quot;traitors&quot;, secretly murdering contestants each night.",
+            "ko": "실시간 보도 번역: Hosted by Claudia Winkleman, the Traitors castle will welcome 21 new celebrities on Thursday, as a group of famous &quot;faithfuls&quot; attempts to work out which among them are - and perhaps, always have been - &quot;traitors&quot;, secretly murdering contestants each night."
           }
         ]
       },
       {
-        "en": "Sonay Kartal produced a gritty performance as she returned to tennis after six months out with a lower back injury, but fell to a narrow 7-6 (7-2) 4-6 6-4 defeat in a marathon three-hour encounter with Marie Bouzkova.",
+        "en": "Last year&#x27;s show provided Bafta&#x27;s most memorable TV moment - an award voted for by the British public - when traitor Alan Carr broke down in tears at the end of the final having bluffed his way to a win by hiding in plain sight.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Sonay Kartal produced a gritty performance as she returned to tennis after six months out with a lower back injury, but fell to a narrow 7-6 (7-2) 4-6 6-4 defeat in a marathon three-hour encounter with Marie Bouzkova.",
-            "ko": "실시간 보도 번역: Sonay Kartal produced a gritty performance as she returned to tennis after six months out with a lower back injury, but fell to a narrow 7-6 (7-2) 4-6 6-4 defeat in a marathon three-hour encounter with Marie Bouzkova."
+            "en": "Last year&#x27;s show provided Bafta&#x27;s most memorable TV moment - an award voted for by the British public - when traitor Alan Carr broke down in tears at the end of the final having bluffed his way to a win by hiding in plain sight.",
+            "ko": "실시간 보도 번역: Last year&#x27;s show provided Bafta&#x27;s most memorable TV moment - an award voted for by the British public - when traitor Alan Carr broke down in tears at the end of the final having bluffed his way to a win by hiding in plain sight."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: GB out of BJK Cup as Kartal &amp; Boulter beaten by Czechs",
+      "글로벌 최신 소식: Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3189,16 +3264,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "GB out of BJK Cup as Kartal &amp; Boulter beaten by Czechs",
+          "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_488582319094370624",
@@ -3905,83 +3978,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_3157822746930221894",
-    "title": "Harper Lee first edition novel found in Oxfam shop",
-    "subtitle": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-22",
-    "addedAt": "2026-09-22T16:07:59Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 109,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonHarper Lee first edition novel found in Oxfam shopImage source, Oxfam PortobelloImage caption, The book has since been acquired by the British Library and will join its national collection",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonHarper Lee first edition novel found in Oxfam shopImage source, Oxfam PortobelloImage caption, The book has since been acquired by the British Library and will join its national collection",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonHarper Lee first edition novel found in Oxfam shopImage source, Oxfam PortobelloImage caption, The book has since been acquired by the British Library and will join its national collection"
-          }
-        ]
-      },
-      {
-        "en": "A rare first edition of the novel To Kill A Mockingbird has been found among items donated to Oxfam, according to the charity.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "A rare first edition of the novel To Kill A Mockingbird has been found among items donated to Oxfam, according to the charity.",
-            "ko": "실시간 보도 번역: A rare first edition of the novel To Kill A Mockingbird has been found among items donated to Oxfam, according to the charity."
-          }
-        ]
-      },
-      {
-        "en": "The copy of Harper Lee&#x27;s seminal 1960 work was discovered in a box of American books given to the charity&#x27;s bookshop in Portobello Road, west London.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The copy of Harper Lee&#x27;s seminal 1960 work was discovered in a box of American books given to the charity&#x27;s bookshop in Portobello Road, west London.",
-            "ko": "실시간 보도 번역: The copy of Harper Lee&#x27;s seminal 1960 work was discovered in a box of American books given to the charity&#x27;s bookshop in Portobello Road, west London."
-          }
-        ]
-      },
-      {
-        "en": "It has since been acquired by the British Library and will join its national collection.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "It has since been acquired by the British Library and will join its national collection.",
-            "ko": "실시간 보도 번역: It has since been acquired by the British Library and will join its national collection."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Harper Lee first edition novel found in Oxfam shop",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Harper Lee first edition novel found in Oxfam shop",
           "Historical retrospective",
           "Unrelated general weather"
         ],
