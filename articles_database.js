@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_8142164394993551034",
+    "title": "OpenAI bots meddled with multiple US government agency sites",
+    "subtitle": "OpenAI said its bots accessed public data from a range of institutions during test exercises....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-26",
+    "addedAt": "2026-09-27T03:15:56Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 122,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity"
+          }
+        ]
+      },
+      {
+        "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
+            "ko": "실시간 보도 번역: OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly."
+          }
+        ]
+      },
+      {
+        "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
+            "ko": "실시간 보도 번역: AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said."
+          }
+        ]
+      },
+      {
+        "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
+            "ko": "실시간 보도 번역: The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: OpenAI bots meddled with multiple US government agency sites",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "OpenAI bots meddled with multiple US government agency sites",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_7722331852656088379",
     "title": "OpenAI bots meddled with multiple US government agency sites",
     "subtitle": "OpenAI said its bots accessed public data from a range of institutions during test exercises....",
@@ -706,66 +783,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1924510867476562154",
-    "title": "Not all AI workers think the tech could kill everyone",
-    "subtitle": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-19",
-    "addedAt": "2026-09-22T02:57:56Z",
-    "category": "tech",
+    "id": "auto_science_4384629182148327104",
+    "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+    "subtitle": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm....",
+    "speaker": "BBC Science",
+    "date": "2026-09-26",
+    "addedAt": "2026-09-27T03:15:57Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 147,
+    "wordCount": 134,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaNor&#x27;easter brings flooding as New York and New Jersey declare emergencyImage source, ReutersImage caption, Surf City, New Jersey, was among coastal communities flooded",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNot all AI workers think the tech could kill everyoneImage source, Getty ImagesByKali HaysTechnology reporter, San FranciscoPublished20 September 2026Not all employees of major firms working on artificial intelligence (AI) think the technology spells doom for humanity."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaNor&#x27;easter brings flooding as New York and New Jersey declare emergencyImage source, ReutersImage caption, Surf City, New Jersey, was among coastal communities flooded",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaNor&#x27;easter brings flooding as New York and New Jersey declare emergencyImage source, ReutersImage caption, Surf City, New Jersey, was among coastal communities flooded"
           }
         ]
       },
       {
-        "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
+        "en": "Tens of millions of people across the north-eastern US are in the path of a powerful storm bringing coastal flooding, power cuts, travel chaos and cancelled stadium events.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse.",
-            "ko": "실시간 보도 번역: In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse."
+            "en": "Tens of millions of people across the north-eastern US are in the path of a powerful storm bringing coastal flooding, power cuts, travel chaos and cancelled stadium events.",
+            "ko": "실시간 보도 번역: Tens of millions of people across the north-eastern US are in the path of a powerful storm bringing coastal flooding, power cuts, travel chaos and cancelled stadium events."
           }
         ]
       },
       {
-        "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
+        "en": "The so-called nor&#x27;easter is bringing &quot;dangerous coastal flooding and beach conditions, strong winds and heavy rainfall&quot; to areas including New York City and Boston on Saturday, the US National Weather Service (NWS) said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry.",
-            "ko": "실시간 보도 번역: &quot;Lol&quot;, &quot;Haaaaaa&quot; and &quot;Bringing the luls&quot; were among the reactions the BBC received to a recent flurry of high-profile warnings by some people in the industry."
+            "en": "The so-called nor&#x27;easter is bringing &quot;dangerous coastal flooding and beach conditions, strong winds and heavy rainfall&quot; to areas including New York City and Boston on Saturday, the US National Weather Service (NWS) said.",
+            "ko": "실시간 보도 번역: The so-called nor&#x27;easter is bringing &quot;dangerous coastal flooding and beach conditions, strong winds and heavy rainfall&quot; to areas including New York City and Boston on Saturday, the US National Weather Service (NWS) said."
           }
         ]
       },
       {
-        "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
+        "en": "States of emergency have been declared in New York and New Jersey, both of which faced a coastal deluge in some areas. Rain and strong winds are forecast from Virginia to Maine.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development.",
-            "ko": "실시간 보도 번역: While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who  urged a slowdown in development."
+            "en": "States of emergency have been declared in New York and New Jersey, both of which faced a coastal deluge in some areas.",
+            "ko": "실시간 보도 번역: States of emergency have been declared in New York and New Jersey, both of which faced a coastal deluge in some areas."
+          },
+          {
+            "en": "Rain and strong winds are forecast from Virginia to Maine.",
+            "ko": "실시간 보도 번역: Rain and strong winds are forecast from Virginia to Maine."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Not all AI workers think the tech could kill everyone",
+      "글로벌 최신 소식: Nor'easter brings flooding as New York and New Jersey declare emergency",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -773,7 +854,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Not all AI workers think the tech could kill everyone",
+          "Nor'easter brings flooding as New York and New Jersey declare emergency",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1504,118 +1585,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_7267826820588302422",
-    "title": "Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
-    "subtitle": "More than 1.9 million people are under evacuation orders as Typhoon Dujuan batters Japan....",
-    "speaker": "BBC Science",
-    "date": "2026-09-21",
-    "addedAt": "2026-09-22T02:57:57Z",
-    "category": "science",
+    "id": "auto_economy_8142164394993551034",
+    "title": "OpenAI bots meddled with multiple US government agency sites",
+    "subtitle": "OpenAI said its bots accessed public data from a range of institutions during test exercises....",
+    "speaker": "BBC Business",
+    "date": "2026-09-26",
+    "addedAt": "2026-09-27T03:15:57Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 142,
+    "wordCount": 122,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Typhoon Dujuan tracking close to Tokyo triggers evacuation alert\",\"description\":\"More than 1.9 million people are under evacuation orders as Typhoon Dujuan batters Japan.\\n\\n\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pbrp9s.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pbrp9s.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pbrp9s.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pbrp9s.jpg\"],\"uploadDate\":\"2026-09-21T14:05:29.959Z\",\"duration\":\"PT53S\"}Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alertTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema."
-          },
-          {
-            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Typhoon Dujuan tracking close to Tokyo triggers evacuation alert\",\"description\":\"More than 1.",
-            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Typhoon Dujuan tracking close to Tokyo triggers evacuation alert\",\"description\":\"More than 1."
-          },
-          {
-            "en": "9 million people are under evacuation orders as Typhoon Dujuan batters Japan.",
-            "ko": "실시간 보도 번역: 9 million people are under evacuation orders as Typhoon Dujuan batters Japan."
-          },
-          {
-            "en": "\\n\\n\",\"thumbnailUrl\":[\"https://ichef.",
-            "ko": "실시간 보도 번역: \\n\\n\",\"thumbnailUrl\":[\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1920/galileo/p0pbrp9s.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pbrp9s."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1248/galileo/p0pbrp9s.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pbrp9s."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/688/galileo/p0pbrp9s.",
-            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pbrp9s."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/400/galileo/p0pbrp9s.",
-            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pbrp9s."
-          },
-          {
-            "en": "jpg\"],\"uploadDate\":\"2026-09-21T14:05:29.",
-            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-21T14:05:29."
-          },
-          {
-            "en": "959Z\",\"duration\":\"PT53S\"}Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alertTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: 959Z\",\"duration\":\"PT53S\"}Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alertTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity"
           }
         ]
       },
       {
-        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSevere weatherFollow Severe weather",
+        "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSevere weatherFollow Severe weather",
-            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsSevere weatherFollow Severe weather"
+            "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
+            "ko": "실시간 보도 번역: OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly."
           }
         ]
       },
       {
-        "en": "close panelYou are now following\n    Severe weatherUpdates from your News topics will appear in My News and in a collection on the News homepage.JapanFollow Japan",
+        "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "close panelYou are now following\n    Severe weatherUpdates from your News topics will appear in My News and in a collection on the News homepage.",
-            "ko": "실시간 보도 번역: close panelYou are now following\n    Severe weatherUpdates from your News topics will appear in My News and in a collection on the News homepage."
+            "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
+            "ko": "실시간 보도 번역: AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said."
           }
         ]
       },
       {
-        "en": "close panelYou are now following\n    JapanUpdates from your News topics will appear in My News and in a collection on the News homepage.Read descriptionEditor&#x27;s recommendationsTyphoon Dujuan tracking close to Tokyo triggers rare evacuation alert. Video, 00:00:53Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
+        "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "close panelYou are now following\n    JapanUpdates from your News topics will appear in My News and in a collection on the News homepage.",
-            "ko": "실시간 보도 번역: close panelYou are now following\n    JapanUpdates from your News topics will appear in My News and in a collection on the News homepage."
-          },
-          {
-            "en": "Read descriptionEditor&#x27;s recommendationsTyphoon Dujuan tracking close to Tokyo triggers rare evacuation alert.",
-            "ko": "실시간 보도 번역: Read descriptionEditor&#x27;s recommendationsTyphoon Dujuan tracking close to Tokyo triggers rare evacuation alert."
+            "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
+            "ko": "실시간 보도 번역: The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
+      "글로벌 최신 소식: OpenAI bots meddled with multiple US government agency sites",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1623,7 +1652,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
+          "OpenAI bots meddled with multiple US government agency sites",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2370,66 +2399,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_6477134884613209334",
-    "title": "Vet prescription fees capped under rule changes",
-    "subtitle": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming mo...",
-    "speaker": "BBC Business",
-    "date": "2026-09-21",
-    "addedAt": "2026-09-22T02:57:57Z",
-    "category": "economy",
+    "id": "auto_sports_7688985143377356680",
+    "title": "Sinner ruled out of China Open with knee injury",
+    "subtitle": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee problem....",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-25",
+    "addedAt": "2026-09-27T03:15:57Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 154,
+    "wordCount": 129,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVet prescription fees capped under rule changesImage source, Getty ImagesByMitchell Labiak, Business reporter and Jim Connolly, BBC News InvestigationsPublished3 hours agoWritten prescription fees from vets will be capped at £21 as part of a raft of changes that practices will be legally required to bring in over the coming months.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSinner ruled out of China Open with knee injuryImage source, Getty ImagesImage caption, Jannik Sinner retained his men&#x27;s singles Wimbledon title earlier this year",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVet prescription fees capped under rule changesImage source, Getty ImagesByMitchell Labiak, Business reporter and Jim Connolly, BBC News InvestigationsPublished3 hours agoWritten prescription fees from vets will be capped at £21 as part of a raft of changes that practices will be legally required to bring in over the coming months.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVet prescription fees capped under rule changesImage source, Getty ImagesByMitchell Labiak, Business reporter and Jim Connolly, BBC News InvestigationsPublished3 hours agoWritten prescription fees from vets will be capped at £21 as part of a raft of changes that practices will be legally required to bring in over the coming months."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSinner ruled out of China Open with knee injuryImage source, Getty ImagesImage caption, Jannik Sinner retained his men&#x27;s singles Wimbledon title earlier this year",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSinner ruled out of China Open with knee injuryImage source, Getty ImagesImage caption, Jannik Sinner retained his men&#x27;s singles Wimbledon title earlier this year"
           }
         ]
       },
       {
-        "en": "Vets must also tell clients if cheaper medicine is available online, write price estimates ahead of treatment, and publish price lists for services as part of the rule updates.",
+        "en": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Vets must also tell clients if cheaper medicine is available online, write price estimates ahead of treatment, and publish price lists for services as part of the rule updates.",
-            "ko": "실시간 보도 번역: Vets must also tell clients if cheaper medicine is available online, write price estimates ahead of treatment, and publish price lists for services as part of the rule updates."
+            "en": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury.",
+            "ko": "실시간 보도 번역: World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury."
           }
         ]
       },
       {
-        "en": "The official competition watchdog has brought the measures into force after its investigation into the sector found prices had been rising at nearly twice the rate of inflation.",
+        "en": "The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The official competition watchdog has brought the measures into force after its investigation into the sector found prices had been rising at nearly twice the rate of inflation.",
-            "ko": "실시간 보도 번역: The official competition watchdog has brought the measures into force after its investigation into the sector found prices had been rising at nearly twice the rate of inflation."
+            "en": "The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final.",
+            "ko": "실시간 보도 번역: The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final."
           }
         ]
       },
       {
-        "en": "However, critics say the measures will hit independent vets hardest and will benefit the six firms that own more than two-thirds of practices.",
+        "en": "Sinner, 25, won the China Open in 2023 and 2025. The tournament starts on Wednesday and concludes on 6 October.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "However, critics say the measures will hit independent vets hardest and will benefit the six firms that own more than two-thirds of practices.",
-            "ko": "실시간 보도 번역: However, critics say the measures will hit independent vets hardest and will benefit the six firms that own more than two-thirds of practices."
+            "en": "Sinner, 25, won the China Open in 2023 and 2025.",
+            "ko": "실시간 보도 번역: Sinner, 25, won the China Open in 2023 and 2025."
+          },
+          {
+            "en": "The tournament starts on Wednesday and concludes on 6 October.",
+            "ko": "실시간 보도 번역: The tournament starts on Wednesday and concludes on 6 October."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Vet prescription fees capped under rule changes",
+      "글로벌 최신 소식: Sinner ruled out of China Open with knee injury",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2437,14 +2470,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Vet prescription fees capped under rule changes",
+          "Sinner ruled out of China Open with knee injury",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_7479005558320516282",
@@ -3166,66 +3201,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_9111026064552936061",
-    "title": "Best not to underestimate us - GB plan BJK Cup upset against all-star Czechs",
-    "subtitle": "Great Britain face the Czech Republic at the Billie Jean King Cup Finals on Tuesday - and know full well the size of the challenge...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-21",
-    "addedAt": "2026-09-22T02:57:57Z",
-    "category": "sports",
+    "id": "auto_culture_488582319094370624",
+    "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
+    "subtitle": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after  severe weather warnings....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-25",
+    "addedAt": "2026-09-27T03:15:58Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 126,
+    "wordCount": 164,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB plan BJK Cup upset against all-star CzechsImage source, Getty ImagesImage caption, Great Britain play the Czech Republic in the BJK Cup on Tuesday from 10:00 BST - live on the BBC",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026Ed Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB plan BJK Cup upset against all-star CzechsImage source, Getty ImagesImage caption, Great Britain play the Czech Republic in the BJK Cup on Tuesday from 10:00 BST - live on the BBC",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarGB plan BJK Cup upset against all-star CzechsImage source, Getty ImagesImage caption, Great Britain play the Czech Republic in the BJK Cup on Tuesday from 10:00 BST - live on the BBC"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026Ed Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026Ed Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area."
           }
         ]
       },
       {
-        "en": "&quot;It&#x27;s best not to underestimate us,&quot; says a defiant Harriet Dart.",
+        "en": "The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;It&#x27;s best not to underestimate us,&quot; says a defiant Harriet Dart.",
-            "ko": "실시간 보도 번역: &quot;It&#x27;s best not to underestimate us,&quot; says a defiant Harriet Dart."
+            "en": "The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour.",
+            "ko": "실시간 보도 번역: The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour."
           }
         ]
       },
       {
-        "en": "But Great Britain&#x27;s Billie Jean King Cup squad know full well the enormity of the challenge that awaits them.",
+        "en": "The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage. Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But Great Britain&#x27;s Billie Jean King Cup squad know full well the enormity of the challenge that awaits them.",
-            "ko": "실시간 보도 번역: But Great Britain&#x27;s Billie Jean King Cup squad know full well the enormity of the challenge that awaits them."
+            "en": "The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage.",
+            "ko": "실시간 보도 번역: The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage."
+          },
+          {
+            "en": "Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal.",
+            "ko": "실시간 보도 번역: Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal."
           }
         ]
       },
       {
-        "en": "On Tuesday, the tight-knit British team - Dart, Katie Boulter, Sonay Kartal, Mika Stojsavljevic and Jodie Burrage - take on the Czech Republic in their BJK Cup quarter-final in Shenzhen, China.",
+        "en": "A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium.&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "On Tuesday, the tight-knit British team - Dart, Katie Boulter, Sonay Kartal, Mika Stojsavljevic and Jodie Burrage - take on the Czech Republic in their BJK Cup quarter-final in Shenzhen, China.",
-            "ko": "실시간 보도 번역: On Tuesday, the tight-knit British team - Dart, Katie Boulter, Sonay Kartal, Mika Stojsavljevic and Jodie Burrage - take on the Czech Republic in their BJK Cup quarter-final in Shenzhen, China."
+            "en": "A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium.",
+            "ko": "실시간 보도 번역: A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Best not to underestimate us - GB plan BJK Cup upset against all-star Czechs",
+      "글로벌 최신 소식: Ed Sheeran's next US concerts cancelled due to storm warning",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3233,16 +3272,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Best not to underestimate us - GB plan BJK Cup upset against all-star Czechs",
+          "Ed Sheeran's next US concerts cancelled due to storm warning",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_3852417076783322173",
@@ -3945,83 +3982,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Harper Lee first edition novel found in Oxfam shop",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_4075066202969523348",
-    "title": "London Fashion Week 2026: The five trends we'll see in spring",
-    "subtitle": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-21",
-    "addedAt": "2026-09-22T02:57:58Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 138,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatLondon Fashion Week 2026: The five trends we&#x27;ll see in springImage source, McQueenImage caption, Alexander McQueen made a historic return to London Fashion Week after 25 years, staging a homecoming show that fused severe tailoring with dark romanticism",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatLondon Fashion Week 2026: The five trends we&#x27;ll see in springImage source, McQueenImage caption, Alexander McQueen made a historic return to London Fashion Week after 25 years, staging a homecoming show that fused severe tailoring with dark romanticism",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatLondon Fashion Week 2026: The five trends we&#x27;ll see in springImage source, McQueenImage caption, Alexander McQueen made a historic return to London Fashion Week after 25 years, staging a homecoming show that fused severe tailoring with dark romanticism"
-          }
-        ]
-      },
-      {
-        "en": "This London Fashion Week has been about return and renewal - as two of Britain&#x27;s biggest designers showcased their spring/summer 2027 designs.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "This London Fashion Week has been about return and renewal - as two of Britain&#x27;s biggest designers showcased their spring/summer 2027 designs.",
-            "ko": "실시간 보도 번역: This London Fashion Week has been about return and renewal - as two of Britain&#x27;s biggest designers showcased their spring/summer 2027 designs."
-          }
-        ]
-      },
-      {
-        "en": "The first was Alexander McQueen, which as a brand moved to London after 25 years  of showing in Paris - something Laura Weir, CEO of the British Fashion Council, told the BBC was &quot;quite a big deal for us&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The first was Alexander McQueen, which as a brand moved to London after 25 years  of showing in Paris - something Laura Weir, CEO of the British Fashion Council, told the BBC was &quot;quite a big deal for us&quot;.",
-            "ko": "실시간 보도 번역: The first was Alexander McQueen, which as a brand moved to London after 25 years  of showing in Paris - something Laura Weir, CEO of the British Fashion Council, told the BBC was &quot;quite a big deal for us&quot;."
-          }
-        ]
-      },
-      {
-        "en": "Creative director Seán McGirr brought the brand back to its roots, with a runway of devil horns, lace corsets and chainmail skull dresses.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Creative director Seán McGirr brought the brand back to its roots, with a runway of devil horns, lace corsets and chainmail skull dresses.",
-            "ko": "실시간 보도 번역: Creative director Seán McGirr brought the brand back to its roots, with a runway of devil horns, lace corsets and chainmail skull dresses."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: London Fashion Week 2026: The five trends we'll see in spring",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "London Fashion Week 2026: The five trends we'll see in spring",
           "Historical retrospective",
           "Unrelated general weather"
         ],
