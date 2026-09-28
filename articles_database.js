@@ -1,6 +1,91 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_302023046064049927",
+    "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+    "subtitle": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-28",
+    "addedAt": "2026-09-28T19:08:12Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 114,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechApple ordered to pay $5.7bn after losing vibration tech patent suitImage source, Getty ImagesByLiv McMahonTechnology reporterPublished7 hours agoApple has been ordered to pay $5.7bn (£4.3bn) in damages after a US jury found it had used another firm&#x27;s tech without permission.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechApple ordered to pay $5.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechApple ordered to pay $5."
+          },
+          {
+            "en": "7bn after losing vibration tech patent suitImage source, Getty ImagesByLiv McMahonTechnology reporterPublished7 hours agoApple has been ordered to pay $5.",
+            "ko": "실시간 보도 번역: 7bn after losing vibration tech patent suitImage source, Getty ImagesByLiv McMahonTechnology reporterPublished7 hours agoApple has been ordered to pay $5."
+          },
+          {
+            "en": "3bn) in damages after a US jury found it had used another firm&#x27;s tech without permission.",
+            "ko": "실시간 보도 번역: 3bn) in damages after a US jury found it had used another firm&#x27;s tech without permission."
+          }
+        ]
+      },
+      {
+        "en": "Audio firm Taction Technology claimed in 2021 that Apple had infringed two of its patents for haptics systems, which enable vibrations for actions such as receiving a message or pressing a button.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Audio firm Taction Technology claimed in 2021 that Apple had infringed two of its patents for haptics systems, which enable vibrations for actions such as receiving a message or pressing a button.",
+            "ko": "실시간 보도 번역: Audio firm Taction Technology claimed in 2021 that Apple had infringed two of its patents for haptics systems, which enable vibrations for actions such as receiving a message or pressing a button."
+          }
+        ]
+      },
+      {
+        "en": "This tech is built into devices like the iPhone and Apple Watch.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "This tech is built into devices like the iPhone and Apple Watch.",
+            "ko": "실시간 보도 번역: This tech is built into devices like the iPhone and Apple Watch."
+          }
+        ]
+      },
+      {
+        "en": "Apple said it had not used Taction&#x27;s vibration tech and would appeal the verdict.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Apple said it had not used Taction&#x27;s vibration tech and would appeal the verdict.",
+            "ko": "실시간 보도 번역: Apple said it had not used Taction&#x27;s vibration tech and would appeal the verdict."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1018369525601640670",
     "title": "OpenAI bots meddled with multiple US government agency sites",
     "subtitle": "OpenAI said its bots accessed public data from a range of institutions during test exercises....",
@@ -706,66 +791,118 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_8179890152737299820",
-    "title": "Pornhub investigated over its age checks",
-    "subtitle": "The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-23",
-    "addedAt": "2026-09-23T15:57:40Z",
-    "category": "tech",
+    "id": "auto_science_3919238737903292845",
+    "title": "Watch: Starship splashdown ends in fireball",
+    "subtitle": "The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes....",
+    "speaker": "BBC Science",
+    "date": "2026-09-28",
+    "addedAt": "2026-09-28T19:08:13Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 140,
+    "wordCount": 150,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPornhub investigated over its age checksImage source, Getty ImagesByLaura CressTechnology reporterPublished23 September 2026, 09:38 BSTUpdated Just nowOfcom has launched an investigation into Pornhub owner, Aylo, over whether the site&#x27;s new age checks are effectively stopping children from accessing adult content.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Starship splashdown ends in fireball\",\"description\":\"The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pcx9mx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pcx9mx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pcx9mx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pcx9mx.jpg\"],\"uploadDate\":\"2026-09-28T16:28:10.599Z\",\"duration\":\"PT50S\"}Watch: Starship splashdown ends in fireballTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPornhub investigated over its age checksImage source, Getty ImagesByLaura CressTechnology reporterPublished23 September 2026, 09:38 BSTUpdated Just nowOfcom has launched an investigation into Pornhub owner, Aylo, over whether the site&#x27;s new age checks are effectively stopping children from accessing adult content.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPornhub investigated over its age checksImage source, Getty ImagesByLaura CressTechnology reporterPublished23 September 2026, 09:38 BSTUpdated Just nowOfcom has launched an investigation into Pornhub owner, Aylo, over whether the site&#x27;s new age checks are effectively stopping children from accessing adult content."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema."
+          },
+          {
+            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Starship splashdown ends in fireball\",\"description\":\"The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes.",
+            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Starship splashdown ends in fireball\",\"description\":\"The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes."
+          },
+          {
+            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
+            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1920/galileo/p0pcx9mx.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pcx9mx."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1248/galileo/p0pcx9mx.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pcx9mx."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/688/galileo/p0pcx9mx.",
+            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pcx9mx."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/400/galileo/p0pcx9mx.",
+            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pcx9mx."
+          },
+          {
+            "en": "jpg\"],\"uploadDate\":\"2026-09-28T16:28:10.",
+            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-28T16:28:10."
+          },
+          {
+            "en": "599Z\",\"duration\":\"PT50S\"}Watch: Starship splashdown ends in fireballTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: 599Z\",\"duration\":\"PT50S\"}Watch: Starship splashdown ends in fireballTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "The regulator said in May that Pornhub started using a new age verification process for some users, which relied on a third party, Apple.",
+        "en": "CloseSpaceX&#x27;s Starship splashed down in the Pacific Ocean after completing about three hours of orbital flight. The mission was supposed to last 10 hours, but SpaceX announced it was ending early after 90 minutes. During the trip, the ship deployed 26 &quot;next generation&quot; Starlink V3 satellites, joining the existing constellation which deliver broadband internet on Earth.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The regulator said in May that Pornhub started using a new age verification process for some users, which relied on a third party, Apple.",
-            "ko": "실시간 보도 번역: The regulator said in May that Pornhub started using a new age verification process for some users, which relied on a third party, Apple."
+            "en": "CloseSpaceX&#x27;s Starship splashed down in the Pacific Ocean after completing about three hours of orbital flight.",
+            "ko": "실시간 보도 번역: CloseSpaceX&#x27;s Starship splashed down in the Pacific Ocean after completing about three hours of orbital flight."
+          },
+          {
+            "en": "The mission was supposed to last 10 hours, but SpaceX announced it was ending early after 90 minutes.",
+            "ko": "실시간 보도 번역: The mission was supposed to last 10 hours, but SpaceX announced it was ending early after 90 minutes."
+          },
+          {
+            "en": "During the trip, the ship deployed 26 &quot;next generation&quot; Starlink V3 satellites, joining the existing constellation which deliver broadband internet on Earth.",
+            "ko": "실시간 보도 번역: During the trip, the ship deployed 26 &quot;next generation&quot; Starlink V3 satellites, joining the existing constellation which deliver broadband internet on Earth."
           }
         ]
       },
       {
-        "en": "It said it had concerns that Aylo &quot;may not have conducted sufficient due diligence and testing&quot; before implementing this new process, and so it &quot;may not be highly effective&quot; at preventing children from seeing pornography.",
+        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSpaceXFollow SpaceX",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It said it had concerns that Aylo &quot;may not have conducted sufficient due diligence and testing&quot; before implementing this new process, and so it &quot;may not be highly effective&quot; at preventing children from seeing pornography.",
-            "ko": "실시간 보도 번역: It said it had concerns that Aylo &quot;may not have conducted sufficient due diligence and testing&quot; before implementing this new process, and so it &quot;may not be highly effective&quot; at preventing children from seeing pornography."
+            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSpaceXFollow SpaceX",
+            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsSpaceXFollow SpaceX"
           }
         ]
       },
       {
-        "en": "In a lengthy statement given to the BBC, Aylo strongly defended its system for age verification while stressing it would cooperate fully with the investigation.",
+        "en": "close panelYou are now following\n    SpaceXUpdates from your News topics will appear in My News and in a collection on the News homepage.United StatesFollow United States",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In a lengthy statement given to the BBC, Aylo strongly defended its system for age verification while stressing it would cooperate fully with the investigation.",
-            "ko": "실시간 보도 번역: In a lengthy statement given to the BBC, Aylo strongly defended its system for age verification while stressing it would cooperate fully with the investigation."
+            "en": "close panelYou are now following\n    SpaceXUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+            "ko": "실시간 보도 번역: close panelYou are now following\n    SpaceXUpdates from your News topics will appear in My News and in a collection on the News homepage."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Pornhub investigated over its age checks",
+      "글로벌 최신 소식: Watch: Starship splashdown ends in fireball",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -773,7 +910,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Pornhub investigated over its age checks",
+          "Watch: Starship splashdown ends in fireball",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1488,66 +1625,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_4453823833002603541",
-    "title": "Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets'",
-    "subtitle": "Farmers fear they may not be able to carry out environmental work because they lost out on funding....",
-    "speaker": "BBC Science",
-    "date": "2026-09-23",
-    "addedAt": "2026-09-23T15:57:40Z",
-    "category": "science",
+    "id": "auto_economy_1311566728953083570",
+    "title": "UK diesel price hits all-time high, RAC says",
+    "subtitle": "The US-Israel war with Iran has caused fuel prices to soar....",
+    "speaker": "BBC Business",
+    "date": "2026-09-28",
+    "addedAt": "2026-09-28T19:08:14Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 140,
+    "wordCount": 152,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateFarmers&#x27; fury as race for £233m funding compared to &#x27;scramble for Oasis tickets&#x27;Image source, Getty ImagesImage caption, Many farmers rely on government payments to manage their land in more environmentally-friendly ways",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUK diesel price hits all-time high, the RAC saysImage source, Getty ImagesByEmer Moreau, Business reporter and Theo Leggett, International Business CorrespondentPublished28 September 2026, 10:14 BSTUpdated 1 hour agoDiesel prices have hit an all-time high of 199.18p per litre, according to the RAC motoring organisation, as the war in the Middle East continues to push up the cost of fuel.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateFarmers&#x27; fury as race for £233m funding compared to &#x27;scramble for Oasis tickets&#x27;Image source, Getty ImagesImage caption, Many farmers rely on government payments to manage their land in more environmentally-friendly ways",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateFarmers&#x27; fury as race for £233m funding compared to &#x27;scramble for Oasis tickets&#x27;Image source, Getty ImagesImage caption, Many farmers rely on government payments to manage their land in more environmentally-friendly ways"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUK diesel price hits all-time high, the RAC saysImage source, Getty ImagesByEmer Moreau, Business reporter and Theo Leggett, International Business CorrespondentPublished28 September 2026, 10:14 BSTUpdated 1 hour agoDiesel prices have hit an all-time high of 199.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUK diesel price hits all-time high, the RAC saysImage source, Getty ImagesByEmer Moreau, Business reporter and Theo Leggett, International Business CorrespondentPublished28 September 2026, 10:14 BSTUpdated 1 hour agoDiesel prices have hit an all-time high of 199."
+          },
+          {
+            "en": "18p per litre, according to the RAC motoring organisation, as the war in the Middle East continues to push up the cost of fuel.",
+            "ko": "실시간 보도 번역: 18p per litre, according to the RAC motoring organisation, as the war in the Middle East continues to push up the cost of fuel."
           }
         ]
       },
       {
-        "en": "Thousands of farmers missed out on vital government funding after online applications for a £233m green scheme for the whole of England closed down in under six hours.",
+        "en": "Petrol prices are also still rising, with a litre currently costing 174.13p.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Thousands of farmers missed out on vital government funding after online applications for a £233m green scheme for the whole of England closed down in under six hours.",
-            "ko": "실시간 보도 번역: Thousands of farmers missed out on vital government funding after online applications for a £233m green scheme for the whole of England closed down in under six hours."
+            "en": "Petrol prices are also still rising, with a litre currently costing 174.",
+            "ko": "실시간 보도 번역: Petrol prices are also still rising, with a litre currently costing 174."
           }
         ]
       },
       {
-        "en": "Farming and environmental groups condemned the race to secure the sustainable farming incentive (SFI) funding, with some comparing it to a &quot;frantic&quot; online scramble to secure Glastonbury or Oasis gig tickets.",
+        "en": "Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Farming and environmental groups condemned the race to secure the sustainable farming incentive (SFI) funding, with some comparing it to a &quot;frantic&quot; online scramble to secure Glastonbury or Oasis gig tickets.",
-            "ko": "실시간 보도 번역: Farming and environmental groups condemned the race to secure the sustainable farming incentive (SFI) funding, with some comparing it to a &quot;frantic&quot; online scramble to secure Glastonbury or Oasis gig tickets."
+            "en": "Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge.",
+            "ko": "실시간 보도 번역: Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge."
           }
         ]
       },
       {
-        "en": "The post-Brexit scheme, which replaced EU subsidies with payments for farmers to look after nature and provide &quot;public goods&quot;, opened at 10:00 BST on Tuesday but had run out of budget by 15:48 BST.",
+        "en": "The RAC said diesel prices had entered &quot;uncharted territory&quot; and served as a reminder of &quot;just how exposed the UK is to events occurring far away&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The post-Brexit scheme, which replaced EU subsidies with payments for farmers to look after nature and provide &quot;public goods&quot;, opened at 10:00 BST on Tuesday but had run out of budget by 15:48 BST.",
-            "ko": "실시간 보도 번역: The post-Brexit scheme, which replaced EU subsidies with payments for farmers to look after nature and provide &quot;public goods&quot;, opened at 10:00 BST on Tuesday but had run out of budget by 15:48 BST."
+            "en": "The RAC said diesel prices had entered &quot;uncharted territory&quot; and served as a reminder of &quot;just how exposed the UK is to events occurring far away&quot;.",
+            "ko": "실시간 보도 번역: The RAC said diesel prices had entered &quot;uncharted territory&quot; and served as a reminder of &quot;just how exposed the UK is to events occurring far away&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets'",
+      "글로벌 최신 소식: UK diesel price hits all-time high, RAC says",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1555,7 +1696,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets'",
+          "UK diesel price hits all-time high, RAC says",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2286,70 +2427,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_1449790169124233366",
-    "title": "Off sick? You need to phone your boss, back-to-work adviser says",
-    "subtitle": "Relying on text and email means sick workers disengaged and were less likely to work again, says Sir Charlie Mayfield....",
-    "speaker": "BBC Business",
-    "date": "2026-09-23",
-    "addedAt": "2026-09-23T15:57:40Z",
-    "category": "economy",
+    "id": "auto_sports_3571920954453589246",
+    "title": "Zverev comeback leads Europe to Laver Cup victory",
+    "subtitle": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team E...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-27",
+    "addedAt": "2026-09-28T19:08:15Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 135,
+    "wordCount": 141,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOff sick? You need to phone your boss, back-to-work adviser saysImage source, Getty ImagesByLucy HookerBusiness reporterPublished23 September 2026, 11:40 BSTUpdated 5 hours agoPeople off sick from work should keep in phone contact with their boss, government-appointed back-to-work expert Sir Charlie Mayfield has said.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOff sick?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOff sick?"
-          },
-          {
-            "en": "You need to phone your boss, back-to-work adviser saysImage source, Getty ImagesByLucy HookerBusiness reporterPublished23 September 2026, 11:40 BSTUpdated 5 hours agoPeople off sick from work should keep in phone contact with their boss, government-appointed back-to-work expert Sir Charlie Mayfield has said.",
-            "ko": "실시간 보도 번역: You need to phone your boss, back-to-work adviser saysImage source, Getty ImagesByLucy HookerBusiness reporterPublished23 September 2026, 11:40 BSTUpdated 5 hours agoPeople off sick from work should keep in phone contact with their boss, government-appointed back-to-work expert Sir Charlie Mayfield has said."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title"
           }
         ]
       },
       {
-        "en": "Getting bosses and workers to have a conversation, rather than simply exchanging emails and sicknotes, could help get people back into work, Sir Charlie, who is leading the Keep Britain Working taskforce, said.",
+        "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Getting bosses and workers to have a conversation, rather than simply exchanging emails and sicknotes, could help get people back into work, Sir Charlie, who is leading the Keep Britain Working taskforce, said.",
-            "ko": "실시간 보도 번역: Getting bosses and workers to have a conversation, rather than simply exchanging emails and sicknotes, could help get people back into work, Sir Charlie, who is leading the Keep Britain Working taskforce, said."
+            "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
+            "ko": "실시간 보도 번역: Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title."
           }
         ]
       },
       {
-        "en": "His latest report said health-related economic inactivity was costing Britain around £210bn a year in benefit payments and lost output.",
+        "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "His latest report said health-related economic inactivity was costing Britain around £210bn a year in benefit payments and lost output.",
-            "ko": "실시간 보도 번역: His latest report said health-related economic inactivity was costing Britain around £210bn a year in benefit payments and lost output."
+            "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
+            "ko": "실시간 보도 번역: US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena."
           }
         ]
       },
       {
-        "en": "Talking on the phone was just &quot;one piece of the jigsaw&quot; he said on Wednesday.",
+        "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Talking on the phone was just &quot;one piece of the jigsaw&quot; he said on Wednesday.",
-            "ko": "실시간 보도 번역: Talking on the phone was just &quot;one piece of the jigsaw&quot; he said on Wednesday."
+            "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
+            "ko": "실시간 보도 번역: After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Off sick? You need to phone your boss, back-to-work adviser says",
+      "글로벌 최신 소식: Zverev comeback leads Europe to Laver Cup victory",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2357,14 +2494,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Off sick? You need to phone your boss, back-to-work adviser says",
+          "Zverev comeback leads Europe to Laver Cup victory",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_4145440167963866726",
@@ -3090,66 +3229,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_3649841130768205138",
-    "title": "'Be comfortable in your own identity' - Agassi's advice to Raducanu",
-    "subtitle": "As Emma Raducanu plots a route back to the pinnacle of tennis, the Briton is taking inspiration from Andre Agassi's 2009 autobiogr...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-23",
-    "addedAt": "2026-09-23T15:57:41Z",
-    "category": "sports",
+    "id": "auto_culture_1516911751692025510",
+    "title": "Taylor Swift breaks record for most MTV VMAs as Madonna also wins",
+    "subtitle": "Swift took home the big award for video of the year on a night when the original Queen of Pop performed....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-28",
+    "addedAt": "2026-09-28T19:08:19Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 126,
+    "wordCount": 128,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Be comfortable in your own identity&#x27; - Agassi&#x27;s advice to RaducanuTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTaylor Swift breaks record for most MTV VMAs as Madonna also winsTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Be comfortable in your own identity&#x27; - Agassi&#x27;s advice to RaducanuTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Be comfortable in your own identity&#x27; - Agassi&#x27;s advice to RaducanuTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTaylor Swift breaks record for most MTV VMAs as Madonna also winsTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTaylor Swift breaks record for most MTV VMAs as Madonna also winsTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "&#x27;Don&#x27;t judge the best of yourself by results&#x27; - Agassi&#x27;s advice to Raducanu",
+        "en": "Watch: Madonna and Taylor Swift and Lisa win big at the MTV VMAs",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&#x27;Don&#x27;t judge the best of yourself by results&#x27; - Agassi&#x27;s advice to Raducanu",
-            "ko": "실시간 보도 번역: &#x27;Don&#x27;t judge the best of yourself by results&#x27; - Agassi&#x27;s advice to Raducanu"
+            "en": "Watch: Madonna and Taylor Swift and Lisa win big at the MTV VMAs",
+            "ko": "실시간 보도 번역: Watch: Madonna and Taylor Swift and Lisa win big at the MTV VMAs"
           }
         ]
       },
       {
-        "en": "As Emma Raducanu plots a route back to the pinnacle of tennis, the Briton has been taking inspiration from Andre Agassi&#x27;s 2009 autobiography.",
+        "en": "Taylor Swift took home the video of the year award as she became the most successful artist in the history of the MTV Video Music Awards on Sunday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "As Emma Raducanu plots a route back to the pinnacle of tennis, the Briton has been taking inspiration from Andre Agassi&#x27;s 2009 autobiography.",
-            "ko": "실시간 보도 번역: As Emma Raducanu plots a route back to the pinnacle of tennis, the Briton has been taking inspiration from Andre Agassi&#x27;s 2009 autobiography."
+            "en": "Taylor Swift took home the video of the year award as she became the most successful artist in the history of the MTV Video Music Awards on Sunday.",
+            "ko": "실시간 보도 번역: Taylor Swift took home the video of the year award as she became the most successful artist in the history of the MTV Video Music Awards on Sunday."
           }
         ]
       },
       {
-        "en": "Five years have passed since Raducanu&#x27;s remarkable US Open triumph, when at the age of 18 she became the first qualifier in the Open era to win a Grand Slam.",
+        "en": "The singer went into the night tied with Beyoncé on 30 wins, and went on to score the night&#x27;s top award for the visuals for her track The Fate of Ophelia, taken from her 2025 album The Life of a Showgirl.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Five years have passed since Raducanu&#x27;s remarkable US Open triumph, when at the age of 18 she became the first qualifier in the Open era to win a Grand Slam.",
-            "ko": "실시간 보도 번역: Five years have passed since Raducanu&#x27;s remarkable US Open triumph, when at the age of 18 she became the first qualifier in the Open era to win a Grand Slam."
+            "en": "The singer went into the night tied with Beyoncé on 30 wins, and went on to score the night&#x27;s top award for the visuals for her track The Fate of Ophelia, taken from her 2025 album The Life of a Showgirl.",
+            "ko": "실시간 보도 번역: The singer went into the night tied with Beyoncé on 30 wins, and went on to score the night&#x27;s top award for the visuals for her track The Fate of Ophelia, taken from her 2025 album The Life of a Showgirl."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'Be comfortable in your own identity' - Agassi's advice to Raducanu",
+      "글로벌 최신 소식: Taylor Swift breaks record for most MTV VMAs as Madonna also wins",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3157,16 +3296,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'Be comfortable in your own identity' - Agassi's advice to Raducanu",
+          "Taylor Swift breaks record for most MTV VMAs as Madonna also wins",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_5980706080930600088",
@@ -3873,83 +4010,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Singer Michael Kiwanuka reveals he is recovering from a stroke",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_9147076081349553320",
-    "title": "Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
-    "subtitle": "The TV chef joined Paul Hollywood in the tent as the Channel 4 competition returned for a new series....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-23",
-    "addedAt": "2026-09-23T15:57:41Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 131,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsNigella Lawson is &#x27;icing on the cake&#x27;, TV critics say as she enters Bake Off tentImage source, PA MediaImage caption, Nigella has taken over from Prue Leith as a judge on Bake Off, alongside Paul Hollywood",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsNigella Lawson is &#x27;icing on the cake&#x27;, TV critics say as she enters Bake Off tentImage source, PA MediaImage caption, Nigella has taken over from Prue Leith as a judge on Bake Off, alongside Paul Hollywood",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsNigella Lawson is &#x27;icing on the cake&#x27;, TV critics say as she enters Bake Off tentImage source, PA MediaImage caption, Nigella has taken over from Prue Leith as a judge on Bake Off, alongside Paul Hollywood"
-          }
-        ]
-      },
-      {
-        "en": "TV critics have described Nigella Lawson as the &quot;icing on the cake&quot; of The Great British Bake Off, after the show returned for a new series on Tuesday.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "TV critics have described Nigella Lawson as the &quot;icing on the cake&quot; of The Great British Bake Off, after the show returned for a new series on Tuesday.",
-            "ko": "실시간 보도 번역: TV critics have described Nigella Lawson as the &quot;icing on the cake&quot; of The Great British Bake Off, after the show returned for a new series on Tuesday."
-          }
-        ]
-      },
-      {
-        "en": "Lawson has replaced Dame Prue Leith, who announced she was leaving earlier this year after nearly a decade in the programme&#x27;s famous tent.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Lawson has replaced Dame Prue Leith, who announced she was leaving earlier this year after nearly a decade in the programme&#x27;s famous tent.",
-            "ko": "실시간 보도 번역: Lawson has replaced Dame Prue Leith, who announced she was leaving earlier this year after nearly a decade in the programme&#x27;s famous tent."
-          }
-        ]
-      },
-      {
-        "en": "The Telegraph said Lawson gives the Channel 4 series a &quot;new lease of life&quot;, while Digital Spy agreed she was a &quot;brilliant addition&quot; to the line-up.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The Telegraph said Lawson gives the Channel 4 series a &quot;new lease of life&quot;, while Digital Spy agreed she was a &quot;brilliant addition&quot; to the line-up.",
-            "ko": "실시간 보도 번역: The Telegraph said Lawson gives the Channel 4 series a &quot;new lease of life&quot;, while Digital Spy agreed she was a &quot;brilliant addition&quot; to the line-up."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
           "Historical retrospective",
           "Unrelated general weather"
         ],
