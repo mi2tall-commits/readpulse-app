@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1018369525601640670",
+    "title": "OpenAI bots meddled with multiple US government agency sites",
+    "subtitle": "OpenAI said its bots accessed public data from a range of institutions during test exercises....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-26",
+    "addedAt": "2026-09-28T03:12:52Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 122,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity"
+          }
+        ]
+      },
+      {
+        "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
+            "ko": "실시간 보도 번역: OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly."
+          }
+        ]
+      },
+      {
+        "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
+            "ko": "실시간 보도 번역: AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said."
+          }
+        ]
+      },
+      {
+        "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
+            "ko": "실시간 보도 번역: The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: OpenAI bots meddled with multiple US government agency sites",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "OpenAI bots meddled with multiple US government agency sites",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_6887602957869172413",
     "title": "OpenAI bots meddled with multiple US government agency sites",
     "subtitle": "OpenAI said its bots accessed public data from a range of institutions during test exercises....",
@@ -706,66 +783,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1621079602686166220",
-    "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-    "subtitle": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-23",
-    "addedAt": "2026-09-23T02:58:10Z",
-    "category": "tech",
+    "id": "auto_science_2073511618478430556",
+    "title": "Father and son crowned Sheep Dog World Trial champions",
+    "subtitle": "David and Jack Howells say they \"never in million years\" thought they would win the double....",
+    "speaker": "BBC Science",
+    "date": "2026-09-27",
+    "addedAt": "2026-09-28T03:12:52Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 114,
+    "wordCount": 121,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastUS criticises Australia&#x27;s proposed algorithm opt-out laws as &#x27;censorship&#x27;To play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFather and son crowned Sheep Dog World Trial championsImage source, Phil WilkinsonImage caption, David and Jack Howells returned home to celebrate their victory with their dogs",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastUS criticises Australia&#x27;s proposed algorithm opt-out laws as &#x27;censorship&#x27;To play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastUS criticises Australia&#x27;s proposed algorithm opt-out laws as &#x27;censorship&#x27;To play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFather and son crowned Sheep Dog World Trial championsImage source, Phil WilkinsonImage caption, David and Jack Howells returned home to celebrate their victory with their dogs",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFather and son crowned Sheep Dog World Trial championsImage source, Phil WilkinsonImage caption, David and Jack Howells returned home to celebrate their victory with their dogs"
           }
         ]
       },
       {
-        "en": "&quot;Good to have choice&quot;: Australians on opting-out of social media algorithms",
+        "en": "The first father and son to both be crowned champions at the Sheep Dog World Trial said they &quot;never in million years&quot; thought they would win the double.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Good to have choice&quot;: Australians on opting-out of social media algorithms",
-            "ko": "실시간 보도 번역: &quot;Good to have choice&quot;: Australians on opting-out of social media algorithms"
+            "en": "The first father and son to both be crowned champions at the Sheep Dog World Trial said they &quot;never in million years&quot; thought they would win the double.",
+            "ko": "실시간 보도 번역: The first father and son to both be crowned champions at the Sheep Dog World Trial said they &quot;never in million years&quot; thought they would win the double."
           }
         ]
       },
       {
-        "en": "The US has criticised Australia&#x27;s proposal to give users the ability to opt out of social media algorithms, saying it amounts to &quot;censorship of protected speech&quot;.",
+        "en": "Farmer David Howells and his son, Jack, 19, from Cymmer, Neath Port Talbot, travelled to the trials in Scotland last weekend.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The US has criticised Australia&#x27;s proposal to give users the ability to opt out of social media algorithms, saying it amounts to &quot;censorship of protected speech&quot;.",
-            "ko": "실시간 보도 번역: The US has criticised Australia&#x27;s proposal to give users the ability to opt out of social media algorithms, saying it amounts to &quot;censorship of protected speech&quot;."
+            "en": "Farmer David Howells and his son, Jack, 19, from Cymmer, Neath Port Talbot, travelled to the trials in Scotland last weekend.",
+            "ko": "실시간 보도 번역: Farmer David Howells and his son, Jack, 19, from Cymmer, Neath Port Talbot, travelled to the trials in Scotland last weekend."
           }
         ]
       },
       {
-        "en": "Under Australia&#x27;s draft digital duty of care laws, tech firms risk hefty fines if they fail to give users the option to turn off algorithms in a bid to protect them from harmful content.",
+        "en": "David took the world title with his Border Collie dog, Wyverne Pip, in a field of about 300 competitors from 34 different countries.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Under Australia&#x27;s draft digital duty of care laws, tech firms risk hefty fines if they fail to give users the option to turn off algorithms in a bid to protect them from harmful content.",
-            "ko": "실시간 보도 번역: Under Australia&#x27;s draft digital duty of care laws, tech firms risk hefty fines if they fail to give users the option to turn off algorithms in a bid to protect them from harmful content."
+            "en": "David took the world title with his Border Collie dog, Wyverne Pip, in a field of about 300 competitors from 34 different countries.",
+            "ko": "실시간 보도 번역: David took the world title with his Border Collie dog, Wyverne Pip, in a field of about 300 competitors from 34 different countries."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "글로벌 최신 소식: Father and son crowned Sheep Dog World Trial champions",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -773,7 +850,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+          "Father and son crowned Sheep Dog World Trial champions",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1488,78 +1565,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_6564426972796351171",
-    "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-    "subtitle": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world....",
-    "speaker": "BBC Science",
-    "date": "2026-09-22",
-    "addedAt": "2026-09-23T02:58:11Z",
-    "category": "science",
+    "id": "auto_economy_8890857130511061623",
+    "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+    "subtitle": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday....",
+    "speaker": "BBC Business",
+    "date": "2026-09-27",
+    "addedAt": "2026-09-28T03:12:53Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 131,
+    "wordCount": 143,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpDeveloping El Niño becomes strongest on record weeks before expected peakImage source, Anadolou/Getty ImagesImage caption, Wildfires fuelled by El Niño are affecting around 12.5 million people across Indonesia, according to the country&#x27;s health ministry.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatHealey to promise &#x27;new age of industrialisation&#x27; for UK in conference speechImage source, PA MediaByBrian Wheeler, Political reporter and Iain Watson, Political correspondentPublished3 hours agoJohn Healey will promise &quot;a new age of industrialisation&quot; for the UK, when he delivers his first Labour conference speech as chancellor on Monday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpDeveloping El Niño becomes strongest on record weeks before expected peakImage source, Anadolou/Getty ImagesImage caption, Wildfires fuelled by El Niño are affecting around 12.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpDeveloping El Niño becomes strongest on record weeks before expected peakImage source, Anadolou/Getty ImagesImage caption, Wildfires fuelled by El Niño are affecting around 12."
-          },
-          {
-            "en": "5 million people across Indonesia, according to the country&#x27;s health ministry.",
-            "ko": "실시간 보도 번역: 5 million people across Indonesia, according to the country&#x27;s health ministry."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatHealey to promise &#x27;new age of industrialisation&#x27; for UK in conference speechImage source, PA MediaByBrian Wheeler, Political reporter and Iain Watson, Political correspondentPublished3 hours agoJohn Healey will promise &quot;a new age of industrialisation&quot; for the UK, when he delivers his first Labour conference speech as chancellor on Monday.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatHealey to promise &#x27;new age of industrialisation&#x27; for UK in conference speechImage source, PA MediaByBrian Wheeler, Political reporter and Iain Watson, Political correspondentPublished3 hours agoJohn Healey will promise &quot;a new age of industrialisation&quot; for the UK, when he delivers his first Labour conference speech as chancellor on Monday."
           }
         ]
       },
       {
-        "en": "The developing El Niño climate phenomenon is now the strongest on record, according to scientists monitoring Pacific Ocean temperatures.",
+        "en": "Healey will tell delegates &quot;our coal mines are not coming back&quot;, but that Labour will remake Britain&#x27;s industrial past &quot;for the modern age&quot; by backing advanced manufacturing.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The developing El Niño climate phenomenon is now the strongest on record, according to scientists monitoring Pacific Ocean temperatures.",
-            "ko": "실시간 보도 번역: The developing El Niño climate phenomenon is now the strongest on record, according to scientists monitoring Pacific Ocean temperatures."
+            "en": "Healey will tell delegates &quot;our coal mines are not coming back&quot;, but that Labour will remake Britain&#x27;s industrial past &quot;for the modern age&quot; by backing advanced manufacturing.",
+            "ko": "실시간 보도 번역: Healey will tell delegates &quot;our coal mines are not coming back&quot;, but that Labour will remake Britain&#x27;s industrial past &quot;for the modern age&quot; by backing advanced manufacturing."
           }
         ]
       },
       {
-        "en": "Daily sea surface temperatures in a key region of the central-eastern Pacific were 3.05C above average on 19 September - exceeding the previous record of 3.02C set during the very strong El Niño of 2015.",
+        "en": "He will also announce plans to boost Britain&#x27;s shipbuilding industry, with new orders for Royal Navy floating docks and a maritime research vessel.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Daily sea surface temperatures in a key region of the central-eastern Pacific were 3.",
-            "ko": "실시간 보도 번역: Daily sea surface temperatures in a key region of the central-eastern Pacific were 3."
-          },
-          {
-            "en": "05C above average on 19 September - exceeding the previous record of 3.",
-            "ko": "실시간 보도 번역: 05C above average on 19 September - exceeding the previous record of 3."
-          },
-          {
-            "en": "02C set during the very strong El Niño of 2015.",
-            "ko": "실시간 보도 번역: 02C set during the very strong El Niño of 2015."
+            "en": "He will also announce plans to boost Britain&#x27;s shipbuilding industry, with new orders for Royal Navy floating docks and a maritime research vessel.",
+            "ko": "실시간 보도 번역: He will also announce plans to boost Britain&#x27;s shipbuilding industry, with new orders for Royal Navy floating docks and a maritime research vessel."
           }
         ]
       },
       {
-        "en": "Some longer-term measures of El Niño have not yet hit record levels but this is likely to change, with the peak not expected until later this year.",
+        "en": "With just a month to go until his first Budget, the chancellor is under pressure to cut spending or raise taxes to tackle the ballooning cost of government borrowing.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Some longer-term measures of El Niño have not yet hit record levels but this is likely to change, with the peak not expected until later this year.",
-            "ko": "실시간 보도 번역: Some longer-term measures of El Niño have not yet hit record levels but this is likely to change, with the peak not expected until later this year."
+            "en": "With just a month to go until his first Budget, the chancellor is under pressure to cut spending or raise taxes to tackle the ballooning cost of government borrowing.",
+            "ko": "실시간 보도 번역: With just a month to go until his first Budget, the chancellor is under pressure to cut spending or raise taxes to tackle the ballooning cost of government borrowing."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Developing El Niño becomes strongest on record weeks before expected peak",
+      "글로벌 최신 소식: Healey to promise 'new age of industrialisation' for UK in conference speech",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1567,7 +1632,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Developing El Niño becomes strongest on record weeks before expected peak",
+          "Healey to promise 'new age of industrialisation' for UK in conference speech",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2302,82 +2367,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_5030647422413951158",
-    "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "subtitle": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more....",
-    "speaker": "BBC Business",
-    "date": "2026-09-22",
-    "addedAt": "2026-09-23T02:58:11Z",
-    "category": "economy",
+    "id": "auto_sports_4145440167963866726",
+    "title": "Zverev comeback leads Europe to Laver Cup victory",
+    "subtitle": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team E...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-27",
+    "addedAt": "2026-09-28T03:12:53Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 202,
+    "wordCount": 141,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEurope&#x27;s car makers are in crisis. Will the threat of war rescue them?",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEurope&#x27;s car makers are in crisis.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEurope&#x27;s car makers are in crisis."
-          },
-          {
-            "en": "Will the threat of war rescue them?",
-            "ko": "실시간 보도 번역: Will the threat of war rescue them?"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title"
           }
         ]
       },
       {
-        "en": "BySimon Jack, Business editor and Theo Leggett, International Business CorrespondentIt&#x27;s green, bulging and intimidating. Ford&#x27;s latest vehicle looks like a pick-up truck that has been through an Incredible Hulk transformation. Based on its popular Ranger series, this beefy number parked outside the front door of Ford&#x27;s Dagenham plant can carry a load of two tonnes, tow up to four tonnes and is also shouldering the hopes of the 2,000-strong workforce that still makes engines here.",
+        "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BySimon Jack, Business editor and Theo Leggett, International Business CorrespondentIt&#x27;s green, bulging and intimidating.",
-            "ko": "실시간 보도 번역: BySimon Jack, Business editor and Theo Leggett, International Business CorrespondentIt&#x27;s green, bulging and intimidating."
-          },
-          {
-            "en": "Ford&#x27;s latest vehicle looks like a pick-up truck that has been through an Incredible Hulk transformation.",
-            "ko": "실시간 보도 번역: Ford&#x27;s latest vehicle looks like a pick-up truck that has been through an Incredible Hulk transformation."
-          },
-          {
-            "en": "Based on its popular Ranger series, this beefy number parked outside the front door of Ford&#x27;s Dagenham plant can carry a load of two tonnes, tow up to four tonnes and is also shouldering the hopes of the 2,000-strong workforce that still makes engines here.",
-            "ko": "실시간 보도 번역: Based on its popular Ranger series, this beefy number parked outside the front door of Ford&#x27;s Dagenham plant can carry a load of two tonnes, tow up to four tonnes and is also shouldering the hopes of the 2,000-strong workforce that still makes engines here."
+            "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
+            "ko": "실시간 보도 번역: Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title."
           }
         ]
       },
       {
-        "en": "Inside the factory, the three-litre diesel engines that will power this camo-painted beast drift down a production line that has seen output cut from 90,000 engines a year to about half that over the last decade.",
+        "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Inside the factory, the three-litre diesel engines that will power this camo-painted beast drift down a production line that has seen output cut from 90,000 engines a year to about half that over the last decade.",
-            "ko": "실시간 보도 번역: Inside the factory, the three-litre diesel engines that will power this camo-painted beast drift down a production line that has seen output cut from 90,000 engines a year to about half that over the last decade."
+            "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
+            "ko": "실시간 보도 번역: US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena."
           }
         ]
       },
       {
-        "en": "Ford is hoping that a pivot towards military vehicles can help fill the void created by what the company&#x27;s UK boss calls the most challenging environment since the invention of the motor car. Once mighty, the European car industry is starting to look puny and is hoping surging defence budgets as Europe re-arms can help it flex its industrial muscles once more.",
+        "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Ford is hoping that a pivot towards military vehicles can help fill the void created by what the company&#x27;s UK boss calls the most challenging environment since the invention of the motor car.",
-            "ko": "실시간 보도 번역: Ford is hoping that a pivot towards military vehicles can help fill the void created by what the company&#x27;s UK boss calls the most challenging environment since the invention of the motor car."
-          },
-          {
-            "en": "Once mighty, the European car industry is starting to look puny and is hoping surging defence budgets as Europe re-arms can help it flex its industrial muscles once more.",
-            "ko": "실시간 보도 번역: Once mighty, the European car industry is starting to look puny and is hoping surging defence budgets as Europe re-arms can help it flex its industrial muscles once more."
+            "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
+            "ko": "실시간 보도 번역: After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "글로벌 최신 소식: Zverev comeback leads Europe to Laver Cup victory",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2385,14 +2434,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Europe's car makers are in crisis. Will the threat of war rescue them?",
+          "Zverev comeback leads Europe to Laver Cup victory",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_4405042857132683626",
@@ -3118,66 +3169,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_5856297309191351887",
-    "title": "Keothavong 'can't fault' GB after BJK Cup loss to Czechs",
-    "subtitle": "Sonay Kartal and Katie Boulter lose their singles matches as Great Britain are beaten by a strong Czech Republic side in the Billi...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-22",
-    "addedAt": "2026-09-23T02:58:12Z",
-    "category": "sports",
+    "id": "auto_culture_5980706080930600088",
+    "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
+    "subtitle": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-26",
+    "addedAt": "2026-09-28T03:12:55Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 149,
+    "wordCount": 143,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKeothavong &#x27;can&#x27;t fault&#x27; GB after BJK Cup loss to CzechsImage source, Getty ImagesImage caption, World number 54 Katie Boulter was Britain&#x27;s highest-ranked singles player",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsCelebrity Traitors 2 cast: Who are this year&#x27;s &#x27;big dogs&#x27; and dark horses?Image caption, The winning celeb will score £100,000 for their chosen charity",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKeothavong &#x27;can&#x27;t fault&#x27; GB after BJK Cup loss to CzechsImage source, Getty ImagesImage caption, World number 54 Katie Boulter was Britain&#x27;s highest-ranked singles player",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKeothavong &#x27;can&#x27;t fault&#x27; GB after BJK Cup loss to CzechsImage source, Getty ImagesImage caption, World number 54 Katie Boulter was Britain&#x27;s highest-ranked singles player"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsCelebrity Traitors 2 cast: Who are this year&#x27;s &#x27;big dogs&#x27; and dark horses?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsCelebrity Traitors 2 cast: Who are this year&#x27;s &#x27;big dogs&#x27; and dark horses?"
           }
         ]
       },
       {
-        "en": "Great Britain captain Anne Keothavong says she &quot;cannot fault&quot; her team&#x27;s efforts after they were beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals.",
+        "en": "Celebrity Traitors returns next week for a second round of deception and amateur detective work.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Great Britain captain Anne Keothavong says she &quot;cannot fault&quot; her team&#x27;s efforts after they were beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals.",
-            "ko": "실시간 보도 번역: Great Britain captain Anne Keothavong says she &quot;cannot fault&quot; her team&#x27;s efforts after they were beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals."
+            "en": "Celebrity Traitors returns next week for a second round of deception and amateur detective work.",
+            "ko": "실시간 보도 번역: Celebrity Traitors returns next week for a second round of deception and amateur detective work."
           }
         ]
       },
       {
-        "en": "Keothavong&#x27;s team headed into the tie as underdogs, with all five Czech players placed higher in the singles rankings than any of the British squad.",
+        "en": "Hosted by Claudia Winkleman, the Traitors castle will welcome 21 new celebrities on Thursday, as a group of famous &quot;faithfuls&quot; attempts to work out which among them are - and perhaps, always have been - &quot;traitors&quot;, secretly murdering contestants each night.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Keothavong&#x27;s team headed into the tie as underdogs, with all five Czech players placed higher in the singles rankings than any of the British squad.",
-            "ko": "실시간 보도 번역: Keothavong&#x27;s team headed into the tie as underdogs, with all five Czech players placed higher in the singles rankings than any of the British squad."
+            "en": "Hosted by Claudia Winkleman, the Traitors castle will welcome 21 new celebrities on Thursday, as a group of famous &quot;faithfuls&quot; attempts to work out which among them are - and perhaps, always have been - &quot;traitors&quot;, secretly murdering contestants each night.",
+            "ko": "실시간 보도 번역: Hosted by Claudia Winkleman, the Traitors castle will welcome 21 new celebrities on Thursday, as a group of famous &quot;faithfuls&quot; attempts to work out which among them are - and perhaps, always have been - &quot;traitors&quot;, secretly murdering contestants each night."
           }
         ]
       },
       {
-        "en": "Sonay Kartal produced a gritty performance as she returned to tennis after six months out with a lower back injury, but fell to a narrow 7-6 (7-2) 4-6 6-4 defeat in a marathon three-hour encounter with Marie Bouzkova.",
+        "en": "Last year&#x27;s show provided Bafta&#x27;s most memorable TV moment - an award voted for by the British public - when traitor Alan Carr broke down in tears at the end of the final having bluffed his way to a win by hiding in plain sight.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Sonay Kartal produced a gritty performance as she returned to tennis after six months out with a lower back injury, but fell to a narrow 7-6 (7-2) 4-6 6-4 defeat in a marathon three-hour encounter with Marie Bouzkova.",
-            "ko": "실시간 보도 번역: Sonay Kartal produced a gritty performance as she returned to tennis after six months out with a lower back injury, but fell to a narrow 7-6 (7-2) 4-6 6-4 defeat in a marathon three-hour encounter with Marie Bouzkova."
+            "en": "Last year&#x27;s show provided Bafta&#x27;s most memorable TV moment - an award voted for by the British public - when traitor Alan Carr broke down in tears at the end of the final having bluffed his way to a win by hiding in plain sight.",
+            "ko": "실시간 보도 번역: Last year&#x27;s show provided Bafta&#x27;s most memorable TV moment - an award voted for by the British public - when traitor Alan Carr broke down in tears at the end of the final having bluffed his way to a win by hiding in plain sight."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Keothavong 'can't fault' GB after BJK Cup loss to Czechs",
+      "글로벌 최신 소식: Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3185,16 +3236,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Keothavong 'can't fault' GB after BJK Cup loss to Czechs",
+          "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_2752058723152760565",
@@ -3901,83 +3950,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_6573566614007896141",
-    "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
-    "subtitle": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-22",
-    "addedAt": "2026-09-23T02:58:14Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 124,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsBooker Prize judges reveal shortlisted novels after selection &#x27;tussle&#x27;Image source, Neo Gilder/Booker Prize FoundationImage caption, The Booker Prize 2026 judges are Rebecca Liu, Jarvis Cocker, Dame Mary Beard, Raymond Antrobus and Patricia Lockwood",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsBooker Prize judges reveal shortlisted novels after selection &#x27;tussle&#x27;Image source, Neo Gilder/Booker Prize FoundationImage caption, The Booker Prize 2026 judges are Rebecca Liu, Jarvis Cocker, Dame Mary Beard, Raymond Antrobus and Patricia Lockwood",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsBooker Prize judges reveal shortlisted novels after selection &#x27;tussle&#x27;Image source, Neo Gilder/Booker Prize FoundationImage caption, The Booker Prize 2026 judges are Rebecca Liu, Jarvis Cocker, Dame Mary Beard, Raymond Antrobus and Patricia Lockwood"
-          }
-        ]
-      },
-      {
-        "en": "Past Booker Prize winners Marlon James and Douglas Stuart have been shortlisted for the prestigious literary award again, after a selection process that the judges described as &quot;a tussle&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Past Booker Prize winners Marlon James and Douglas Stuart have been shortlisted for the prestigious literary award again, after a selection process that the judges described as &quot;a tussle&quot;.",
-            "ko": "실시간 보도 번역: Past Booker Prize winners Marlon James and Douglas Stuart have been shortlisted for the prestigious literary award again, after a selection process that the judges described as &quot;a tussle&quot;."
-          }
-        ]
-      },
-      {
-        "en": "Jamaican writer James is nominated this year for his latest novel The Disappearers; while Scottish author Stuart is shortlisted for John of John.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Jamaican writer James is nominated this year for his latest novel The Disappearers; while Scottish author Stuart is shortlisted for John of John.",
-            "ko": "실시간 보도 번역: Jamaican writer James is nominated this year for his latest novel The Disappearers; while Scottish author Stuart is shortlisted for John of John."
-          }
-        ]
-      },
-      {
-        "en": "This year&#x27;s other contenders are award-winning US novelist Elizabeth Strout, and British authors M John Harrison, Luke Kennard and Rebecca Perry.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "This year&#x27;s other contenders are award-winning US novelist Elizabeth Strout, and British authors M John Harrison, Luke Kennard and Rebecca Perry.",
-            "ko": "실시간 보도 번역: This year&#x27;s other contenders are award-winning US novelist Elizabeth Strout, and British authors M John Harrison, Luke Kennard and Rebecca Perry."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Booker Prize judges reveal shortlisted novels after selection 'tussle'",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
