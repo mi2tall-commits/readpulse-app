@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_3655673896530655723",
+    "title": "OpenAI scraps rollout of new model over safety concerns",
+    "subtitle": "The firm also issued an update on incidents in which its models accessed Australian government systems....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-29",
+    "addedAt": "2026-09-29T03:50:46Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 130,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOpenAI scraps rollout of new model over safety concernsImage source, ReutersImage caption, OpenAI chief executive Sam Altman",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOpenAI scraps rollout of new model over safety concernsImage source, ReutersImage caption, OpenAI chief executive Sam Altman",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOpenAI scraps rollout of new model over safety concernsImage source, ReutersImage caption, OpenAI chief executive Sam Altman"
+          }
+        ]
+      },
+      {
+        "en": "OpenAI will not release its new AI model - GPT-6.1 Astra - due to safety concerns, the ChatGPT-maker confirmed on Tuesday.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "OpenAI will not release its new AI model - GPT-6.",
+            "ko": "실시간 보도 번역: OpenAI will not release its new AI model - GPT-6."
+          },
+          {
+            "en": "1 Astra - due to safety concerns, the ChatGPT-maker confirmed on Tuesday.",
+            "ko": "실시간 보도 번역: 1 Astra - due to safety concerns, the ChatGPT-maker confirmed on Tuesday."
+          }
+        ]
+      },
+      {
+        "en": "The AI system - which performs tasks like browsing the web and using apps by itself - &quot;didn&#x27;t quite meet the bar&quot; of the company&#x27;s standards, Saachi Jain, head of safety systems at OpenAI, said.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The AI system - which performs tasks like browsing the web and using apps by itself - &quot;didn&#x27;t quite meet the bar&quot; of the company&#x27;s standards, Saachi Jain, head of safety systems at OpenAI, said.",
+            "ko": "실시간 보도 번역: The AI system - which performs tasks like browsing the web and using apps by itself - &quot;didn&#x27;t quite meet the bar&quot; of the company&#x27;s standards, Saachi Jain, head of safety systems at OpenAI, said."
+          }
+        ]
+      },
+      {
+        "en": "On Tuesday, OpenAI also issued an update on incidents, that occurred in June but were not made public until last week, in which its models accessed Australian government websites and systems without authorisation.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "On Tuesday, OpenAI also issued an update on incidents, that occurred in June but were not made public until last week, in which its models accessed Australian government websites and systems without authorisation.",
+            "ko": "실시간 보도 번역: On Tuesday, OpenAI also issued an update on incidents, that occurred in June but were not made public until last week, in which its models accessed Australian government websites and systems without authorisation."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: OpenAI scraps rollout of new model over safety concerns",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "OpenAI scraps rollout of new model over safety concerns",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_302023046064049927",
     "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
     "subtitle": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations....",
@@ -714,66 +795,118 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1805520256059576716",
-    "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-    "subtitle": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach i...",
-    "speaker": "BBC Technology",
-    "date": "2026-09-24",
-    "addedAt": "2026-09-24T02:48:49Z",
-    "category": "tech",
+    "id": "auto_science_6037432888566858668",
+    "title": "Watch: Starship splashdown ends in fireball",
+    "subtitle": "The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes....",
+    "speaker": "BBC Science",
+    "date": "2026-09-28",
+    "addedAt": "2026-09-29T03:50:47Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 127,
+    "wordCount": 150,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastOpenAI agent &#x27;infiltrated&#x27; Australian government website, PM saysImage source, EPA/ShutterstockImage caption, Albanese said it took &quot;too long&quot; for OpenAI to inform Australian officials of the breach in June",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Starship splashdown ends in fireball\",\"description\":\"The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pcx9mx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pcx9mx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pcx9mx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pcx9mx.jpg\"],\"uploadDate\":\"2026-09-28T16:28:10.599Z\",\"duration\":\"PT50S\"}Watch: Starship splashdown ends in fireballTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastOpenAI agent &#x27;infiltrated&#x27; Australian government website, PM saysImage source, EPA/ShutterstockImage caption, Albanese said it took &quot;too long&quot; for OpenAI to inform Australian officials of the breach in June",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastOpenAI agent &#x27;infiltrated&#x27; Australian government website, PM saysImage source, EPA/ShutterstockImage caption, Albanese said it took &quot;too long&quot; for OpenAI to inform Australian officials of the breach in June"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema."
+          },
+          {
+            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Starship splashdown ends in fireball\",\"description\":\"The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes.",
+            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Starship splashdown ends in fireball\",\"description\":\"The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes."
+          },
+          {
+            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
+            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1920/galileo/p0pcx9mx.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pcx9mx."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1248/galileo/p0pcx9mx.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pcx9mx."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/688/galileo/p0pcx9mx.",
+            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pcx9mx."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/400/galileo/p0pcx9mx.",
+            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pcx9mx."
+          },
+          {
+            "en": "jpg\"],\"uploadDate\":\"2026-09-28T16:28:10.",
+            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-28T16:28:10."
+          },
+          {
+            "en": "599Z\",\"duration\":\"PT50S\"}Watch: Starship splashdown ends in fireballTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: 599Z\",\"duration\":\"PT50S\"}Watch: Starship splashdown ends in fireballTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "An artificial intelligence agent developed by OpenAI &quot;infiltrated&quot; an Australian government website in June, Prime Minister Anthony Albanese has said.",
+        "en": "CloseSpaceX&#x27;s Starship splashed down in the Pacific Ocean after completing about three hours of orbital flight. The mission was supposed to last 10 hours, but SpaceX announced it was ending early after 90 minutes. During the trip, the ship deployed 26 &quot;next generation&quot; Starlink V3 satellites, joining the existing constellation which deliver broadband internet on Earth.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "An artificial intelligence agent developed by OpenAI &quot;infiltrated&quot; an Australian government website in June, Prime Minister Anthony Albanese has said.",
-            "ko": "실시간 보도 번역: An artificial intelligence agent developed by OpenAI &quot;infiltrated&quot; an Australian government website in June, Prime Minister Anthony Albanese has said."
+            "en": "CloseSpaceX&#x27;s Starship splashed down in the Pacific Ocean after completing about three hours of orbital flight.",
+            "ko": "실시간 보도 번역: CloseSpaceX&#x27;s Starship splashed down in the Pacific Ocean after completing about three hours of orbital flight."
+          },
+          {
+            "en": "The mission was supposed to last 10 hours, but SpaceX announced it was ending early after 90 minutes.",
+            "ko": "실시간 보도 번역: The mission was supposed to last 10 hours, but SpaceX announced it was ending early after 90 minutes."
+          },
+          {
+            "en": "During the trip, the ship deployed 26 &quot;next generation&quot; Starlink V3 satellites, joining the existing constellation which deliver broadband internet on Earth.",
+            "ko": "실시간 보도 번역: During the trip, the ship deployed 26 &quot;next generation&quot; Starlink V3 satellites, joining the existing constellation which deliver broadband internet on Earth."
           }
         ]
       },
       {
-        "en": "The agent hacked a statistics portal containing &quot;non-sensitive&quot; data from Australia&#x27;s universal healthcare scheme Medicare, Albanese said in New York on Wednesday, local time.",
+        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSpaceXFollow SpaceX",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The agent hacked a statistics portal containing &quot;non-sensitive&quot; data from Australia&#x27;s universal healthcare scheme Medicare, Albanese said in New York on Wednesday, local time.",
-            "ko": "실시간 보도 번역: The agent hacked a statistics portal containing &quot;non-sensitive&quot; data from Australia&#x27;s universal healthcare scheme Medicare, Albanese said in New York on Wednesday, local time."
+            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSpaceXFollow SpaceX",
+            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsSpaceXFollow SpaceX"
           }
         ]
       },
       {
-        "en": "He had a &quot;very frank discussion&quot; with OpenAI CEO Sam Altman for taking &quot;too long&quot; to tell them about the breach, believed to be one of the world&#x27;s first publicly reported AI-led hacks of a government website.",
+        "en": "close panelYou are now following\n    SpaceXUpdates from your News topics will appear in My News and in a collection on the News homepage.United StatesFollow United States",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "He had a &quot;very frank discussion&quot; with OpenAI CEO Sam Altman for taking &quot;too long&quot; to tell them about the breach, believed to be one of the world&#x27;s first publicly reported AI-led hacks of a government website.",
-            "ko": "실시간 보도 번역: He had a &quot;very frank discussion&quot; with OpenAI CEO Sam Altman for taking &quot;too long&quot; to tell them about the breach, believed to be one of the world&#x27;s first publicly reported AI-led hacks of a government website."
+            "en": "close panelYou are now following\n    SpaceXUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+            "ko": "실시간 보도 번역: close panelYou are now following\n    SpaceXUpdates from your News topics will appear in My News and in a collection on the News homepage."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI agent 'infiltrated' Australian government website, PM says",
+      "글로벌 최신 소식: Watch: Starship splashdown ends in fireball",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -781,7 +914,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI agent 'infiltrated' Australian government website, PM says",
+          "Watch: Starship splashdown ends in fireball",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1548,66 +1681,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_775444646149182824",
-    "title": "'Perfect storm' could lead to rubbish piling up on Scotland's streets, experts warn",
-    "subtitle": "There are warnings over a combination of significantly reduced landfill space and a breakdown of Glasgow's main incinerator....",
-    "speaker": "BBC Science",
-    "date": "2026-09-23",
-    "addedAt": "2026-09-24T02:48:50Z",
-    "category": "science",
+    "id": "auto_economy_8465869456047290259",
+    "title": "Burnham to unveil public body to invest in electricity grid",
+    "subtitle": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader....",
+    "speaker": "BBC Business",
+    "date": "2026-09-29",
+    "addedAt": "2026-09-29T03:50:47Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 140,
+    "wordCount": 156,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScotlandScotland PoliticsScotland BusinessEdinburgh, Fife &amp; EastGlasgow &amp; WestHighlands &amp; IslandsNE, Orkney &amp; ShetlandSouthTayside &amp; Central&#x27;Perfect storm&#x27; could lead to rubbish piling up on Scotland&#x27;s streets, experts warnImage caption, The large landfill site at Mount Vernon, Glasgow, has just a few weeks of &#x27;void&#x27; space left",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham to unveil public body to invest in electricity gridImage source, Jeff Overs/BBCByAlex Forsyth, Political correspondent, Reporting fromLiverpool, Paul Seddon and Jennifer McKiernanPublished29 September 2026, 00:35 BSTUpdated 3 hours agoAndy Burnham is expected to announce a new government body to invest in Britain&#x27;s electricity grid in his first party conference speech as Labour leader on Tuesday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScotlandScotland PoliticsScotland BusinessEdinburgh, Fife &amp; EastGlasgow &amp; WestHighlands &amp; IslandsNE, Orkney &amp; ShetlandSouthTayside &amp; Central&#x27;Perfect storm&#x27; could lead to rubbish piling up on Scotland&#x27;s streets, experts warnImage caption, The large landfill site at Mount Vernon, Glasgow, has just a few weeks of &#x27;void&#x27; space left",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScotlandScotland PoliticsScotland BusinessEdinburgh, Fife &amp; EastGlasgow &amp; WestHighlands &amp; IslandsNE, Orkney &amp; ShetlandSouthTayside &amp; Central&#x27;Perfect storm&#x27; could lead to rubbish piling up on Scotland&#x27;s streets, experts warnImage caption, The large landfill site at Mount Vernon, Glasgow, has just a few weeks of &#x27;void&#x27; space left"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham to unveil public body to invest in electricity gridImage source, Jeff Overs/BBCByAlex Forsyth, Political correspondent, Reporting fromLiverpool, Paul Seddon and Jennifer McKiernanPublished29 September 2026, 00:35 BSTUpdated 3 hours agoAndy Burnham is expected to announce a new government body to invest in Britain&#x27;s electricity grid in his first party conference speech as Labour leader on Tuesday.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham to unveil public body to invest in electricity gridImage source, Jeff Overs/BBCByAlex Forsyth, Political correspondent, Reporting fromLiverpool, Paul Seddon and Jennifer McKiernanPublished29 September 2026, 00:35 BSTUpdated 3 hours agoAndy Burnham is expected to announce a new government body to invest in Britain&#x27;s electricity grid in his first party conference speech as Labour leader on Tuesday."
           }
         ]
       },
       {
-        "en": "Scotland environment, energy and rural affairs correspondentPublished4 hours agoScotland&#x27;s waste sector is on the verge of a crisis which could see rubbish piling up on the streets, experts have warned.",
+        "en": "The prime minister will tell party activists in Liverpool that the new publicly owned company, branded Great British Grid, will speed up grid hook-ups by driving up competition for connection projects.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Scotland environment, energy and rural affairs correspondentPublished4 hours agoScotland&#x27;s waste sector is on the verge of a crisis which could see rubbish piling up on the streets, experts have warned.",
-            "ko": "실시간 보도 번역: Scotland environment, energy and rural affairs correspondentPublished4 hours agoScotland&#x27;s waste sector is on the verge of a crisis which could see rubbish piling up on the streets, experts have warned."
+            "en": "The prime minister will tell party activists in Liverpool that the new publicly owned company, branded Great British Grid, will speed up grid hook-ups by driving up competition for connection projects.",
+            "ko": "실시간 보도 번역: The prime minister will tell party activists in Liverpool that the new publicly owned company, branded Great British Grid, will speed up grid hook-ups by driving up competition for connection projects."
           }
         ]
       },
       {
-        "en": "They say the combination of significantly reduced landfill space and a breakdown of Glasgow&#x27;s main incinerator have created a &quot;perfect storm&quot; which could see waste left uncollected.",
+        "en": "Burnham is expected to put the proposals at the heart of a new goal to bring UK energy costs in line with other nations in Europe within ten years.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "They say the combination of significantly reduced landfill space and a breakdown of Glasgow&#x27;s main incinerator have created a &quot;perfect storm&quot; which could see waste left uncollected.",
-            "ko": "실시간 보도 번역: They say the combination of significantly reduced landfill space and a breakdown of Glasgow&#x27;s main incinerator have created a &quot;perfect storm&quot; which could see waste left uncollected."
+            "en": "Burnham is expected to put the proposals at the heart of a new goal to bring UK energy costs in line with other nations in Europe within ten years.",
+            "ko": "실시간 보도 번역: Burnham is expected to put the proposals at the heart of a new goal to bring UK energy costs in line with other nations in Europe within ten years."
           }
         ]
       },
       {
-        "en": "Industry representatives are due to meet ministers to discuss their concerns but say there&#x27;s no obvious short-term solution to avoid the crisis.",
+        "en": "He will promise to have an &quot;honest conversation&quot; with the public and take on the &quot;difficult issues&quot; that have been ignored for too long.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Industry representatives are due to meet ministers to discuss their concerns but say there&#x27;s no obvious short-term solution to avoid the crisis.",
-            "ko": "실시간 보도 번역: Industry representatives are due to meet ministers to discuss their concerns but say there&#x27;s no obvious short-term solution to avoid the crisis."
+            "en": "He will promise to have an &quot;honest conversation&quot; with the public and take on the &quot;difficult issues&quot; that have been ignored for too long.",
+            "ko": "실시간 보도 번역: He will promise to have an &quot;honest conversation&quot; with the public and take on the &quot;difficult issues&quot; that have been ignored for too long."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'Perfect storm' could lead to rubbish piling up on Scotland's streets, experts warn",
+      "글로벌 최신 소식: Burnham to unveil public body to invest in electricity grid",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1615,7 +1748,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'Perfect storm' could lead to rubbish piling up on Scotland's streets, experts warn",
+          "Burnham to unveil public body to invest in electricity grid",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2350,66 +2483,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_6008229036314968449",
-    "title": "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
-    "subtitle": "Consumers are feeling the squeeze from the rising price of protein....",
-    "speaker": "BBC Business",
-    "date": "2026-09-23",
-    "addedAt": "2026-09-24T02:48:50Z",
-    "category": "economy",
+    "id": "auto_sports_2056746024050472808",
+    "title": "Zverev comeback leads Europe to Laver Cup victory",
+    "subtitle": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team E...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-27",
+    "addedAt": "2026-09-29T03:50:47Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 112,
+    "wordCount": 141,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;Proteinflation&#x27;: Meet the people paying up to £100 for a bag of proteinImage source, Gursimran Kaur DograImage caption, The cost of the whey protein Amarpreet Singh buys has almost tripled since 2020",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;Proteinflation&#x27;: Meet the people paying up to £100 for a bag of proteinImage source, Gursimran Kaur DograImage caption, The cost of the whey protein Amarpreet Singh buys has almost tripled since 2020",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;Proteinflation&#x27;: Meet the people paying up to £100 for a bag of proteinImage source, Gursimran Kaur DograImage caption, The cost of the whey protein Amarpreet Singh buys has almost tripled since 2020"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title"
           }
         ]
       },
       {
-        "en": "Amarpreet Singh has been drinking protein shakes since he was 16.",
+        "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Amarpreet Singh has been drinking protein shakes since he was 16.",
-            "ko": "실시간 보도 번역: Amarpreet Singh has been drinking protein shakes since he was 16."
+            "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
+            "ko": "실시간 보도 번역: Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title."
           }
         ]
       },
       {
-        "en": "The 30-year-old, who lives in London and works in banking, started going to the gym at a time when he says protein supplements were mostly associated with bodybuilders.",
+        "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 30-year-old, who lives in London and works in banking, started going to the gym at a time when he says protein supplements were mostly associated with bodybuilders.",
-            "ko": "실시간 보도 번역: The 30-year-old, who lives in London and works in banking, started going to the gym at a time when he says protein supplements were mostly associated with bodybuilders."
+            "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
+            "ko": "실시간 보도 번역: US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena."
           }
         ]
       },
       {
-        "en": "Fourteen years later, shakes are still part of his routine, but they have become considerably more expensive.",
+        "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Fourteen years later, shakes are still part of his routine, but they have become considerably more expensive.",
-            "ko": "실시간 보도 번역: Fourteen years later, shakes are still part of his routine, but they have become considerably more expensive."
+            "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
+            "ko": "실시간 보도 번역: After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'Proteinflation': Meet the people paying up to £100 for a bag of protein",
+      "글로벌 최신 소식: Zverev comeback leads Europe to Laver Cup victory",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2417,14 +2550,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
+          "Zverev comeback leads Europe to Laver Cup victory",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_3571920954453589246",
@@ -3150,66 +3285,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_2230766119781476163",
-    "title": "'Be comfortable in your own identity' - Agassi's advice to Raducanu",
-    "subtitle": "As Emma Raducanu plots a route back to the pinnacle of tennis, the Briton is taking inspiration from Andre Agassi's 2009 autobiogr...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-23",
-    "addedAt": "2026-09-24T02:48:50Z",
-    "category": "sports",
+    "id": "auto_culture_3633555024578364491",
+    "title": "Slipknot fans hit back after Marilyn Manson announced as support act for UK show",
+    "subtitle": "The heavy metal band will be joined by the US rock musician during their London show....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-28",
+    "addedAt": "2026-09-29T03:50:48Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 126,
+    "wordCount": 134,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Be comfortable in your own identity&#x27; - Agassi&#x27;s advice to RaducanuTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNewsbeatSlipknot fans hit back after Marilyn Manson announced as support act for UK show Image source, Jonathan Weiner/Live NationImage caption, The heavy metal band will be joined by the US rock musician during their London and some South American shows",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Be comfortable in your own identity&#x27; - Agassi&#x27;s advice to RaducanuTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Be comfortable in your own identity&#x27; - Agassi&#x27;s advice to RaducanuTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNewsbeatSlipknot fans hit back after Marilyn Manson announced as support act for UK show Image source, Jonathan Weiner/Live NationImage caption, The heavy metal band will be joined by the US rock musician during their London and some South American shows",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNewsbeatSlipknot fans hit back after Marilyn Manson announced as support act for UK show Image source, Jonathan Weiner/Live NationImage caption, The heavy metal band will be joined by the US rock musician during their London and some South American shows"
           }
         ]
       },
       {
-        "en": "&#x27;Don&#x27;t judge the best of yourself by results&#x27; - Agassi&#x27;s advice to Raducanu",
+        "en": "Heavy metal band Slipknot have announced a new world tour, with Marilyn Manson due to appear as a support act.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&#x27;Don&#x27;t judge the best of yourself by results&#x27; - Agassi&#x27;s advice to Raducanu",
-            "ko": "실시간 보도 번역: &#x27;Don&#x27;t judge the best of yourself by results&#x27; - Agassi&#x27;s advice to Raducanu"
+            "en": "Heavy metal band Slipknot have announced a new world tour, with Marilyn Manson due to appear as a support act.",
+            "ko": "실시간 보도 번역: Heavy metal band Slipknot have announced a new world tour, with Marilyn Manson due to appear as a support act."
           }
         ]
       },
       {
-        "en": "As Emma Raducanu plots a route back to the pinnacle of tennis, the Briton has been taking inspiration from Andre Agassi&#x27;s 2009 autobiography.",
+        "en": "The eight-piece group, known for performing in masks, will be joined by the US rock musician during their shows at London&#x27;s Wembley Stadium and multiple dates of the South American leg of the tour.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "As Emma Raducanu plots a route back to the pinnacle of tennis, the Briton has been taking inspiration from Andre Agassi&#x27;s 2009 autobiography.",
-            "ko": "실시간 보도 번역: As Emma Raducanu plots a route back to the pinnacle of tennis, the Briton has been taking inspiration from Andre Agassi&#x27;s 2009 autobiography."
+            "en": "The eight-piece group, known for performing in masks, will be joined by the US rock musician during their shows at London&#x27;s Wembley Stadium and multiple dates of the South American leg of the tour.",
+            "ko": "실시간 보도 번역: The eight-piece group, known for performing in masks, will be joined by the US rock musician during their shows at London&#x27;s Wembley Stadium and multiple dates of the South American leg of the tour."
           }
         ]
       },
       {
-        "en": "Five years have passed since Raducanu&#x27;s remarkable US Open triumph, when at the age of 18 she became the first qualifier in the Open era to win a Grand Slam.",
+        "en": "Some fans have reacted angrily to the news and said they will not attend the shows over past sexual abuse accusations against the 57-year-old.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Five years have passed since Raducanu&#x27;s remarkable US Open triumph, when at the age of 18 she became the first qualifier in the Open era to win a Grand Slam.",
-            "ko": "실시간 보도 번역: Five years have passed since Raducanu&#x27;s remarkable US Open triumph, when at the age of 18 she became the first qualifier in the Open era to win a Grand Slam."
+            "en": "Some fans have reacted angrily to the news and said they will not attend the shows over past sexual abuse accusations against the 57-year-old.",
+            "ko": "실시간 보도 번역: Some fans have reacted angrily to the news and said they will not attend the shows over past sexual abuse accusations against the 57-year-old."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'Be comfortable in your own identity' - Agassi's advice to Raducanu",
+      "글로벌 최신 소식: Slipknot fans hit back after Marilyn Manson announced as support act for UK show",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3217,16 +3352,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'Be comfortable in your own identity' - Agassi's advice to Raducanu",
+          "Slipknot fans hit back after Marilyn Manson announced as support act for UK show",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_1516911751692025510",
@@ -3933,83 +4066,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Harry Potter play producer says cost of living made two-part show 'impossible'",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_3182879960076599391",
-    "title": "Singer Michael Kiwanuka reveals he is recovering from a stroke",
-    "subtitle": "The award-winning musician says he faces a \"tough journey ahead\" after a \"quite severe\" brain injury....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-23",
-    "addedAt": "2026-09-24T02:48:52Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 150,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsSinger Michael Kiwanuka reveals he is recovering from a strokeImage caption, Kiwanuka said he has had &quot;a difficult few months I must say but it feels like I&#x27;m on my way there now&quot;",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsSinger Michael Kiwanuka reveals he is recovering from a strokeImage caption, Kiwanuka said he has had &quot;a difficult few months I must say but it feels like I&#x27;m on my way there now&quot;",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsSinger Michael Kiwanuka reveals he is recovering from a strokeImage caption, Kiwanuka said he has had &quot;a difficult few months I must say but it feels like I&#x27;m on my way there now&quot;"
-          }
-        ]
-      },
-      {
-        "en": "Award-winning singer-songwriter Michael Kiwanuka has revealed he has suffered a stroke and faces a &quot;long, tough journey ahead&quot; to recover.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Award-winning singer-songwriter Michael Kiwanuka has revealed he has suffered a stroke and faces a &quot;long, tough journey ahead&quot; to recover.",
-            "ko": "실시간 보도 번역: Award-winning singer-songwriter Michael Kiwanuka has revealed he has suffered a stroke and faces a &quot;long, tough journey ahead&quot; to recover."
-          }
-        ]
-      },
-      {
-        "en": "The 39-year-old from London, who won the Mercury Prize in 2020 and has been nominated for five Brit Awards, said in an Instagram post that the stroke occurred &quot;a few months ago&quot; and was caused &quot;by a bleed in my brain brought on by high blood pressure&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The 39-year-old from London, who won the Mercury Prize in 2020 and has been nominated for five Brit Awards, said in an Instagram post that the stroke occurred &quot;a few months ago&quot; and was caused &quot;by a bleed in my brain brought on by high blood pressure&quot;.",
-            "ko": "실시간 보도 번역: The 39-year-old from London, who won the Mercury Prize in 2020 and has been nominated for five Brit Awards, said in an Instagram post that the stroke occurred &quot;a few months ago&quot; and was caused &quot;by a bleed in my brain brought on by high blood pressure&quot;."
-          }
-        ]
-      },
-      {
-        "en": "He added that &quot;the brain injury I suffered was quite severe so there&#x27;s a lot of rehab to be done&quot;, but told fans he will &quot;look forward to seeing you all soon&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "He added that &quot;the brain injury I suffered was quite severe so there&#x27;s a lot of rehab to be done&quot;, but told fans he will &quot;look forward to seeing you all soon&quot;.",
-            "ko": "실시간 보도 번역: He added that &quot;the brain injury I suffered was quite severe so there&#x27;s a lot of rehab to be done&quot;, but told fans he will &quot;look forward to seeing you all soon&quot;."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Singer Michael Kiwanuka reveals he is recovering from a stroke",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Singer Michael Kiwanuka reveals he is recovering from a stroke",
           "Historical retrospective",
           "Unrelated general weather"
         ],
