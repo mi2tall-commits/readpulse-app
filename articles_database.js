@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_7659512498303042055",
+    "title": "OpenAI scraps rollout of new model over safety concerns",
+    "subtitle": "The firm also issued an update on incidents in which its models accessed Australian government systems....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-29",
+    "addedAt": "2026-09-29T17:30:00Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 164,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOpenAI scraps rollout of new model over safety concernsImage source, ReutersByOsmond Chia, Business reporter and Liv McMahon, Technology reporterPublished29 September 2026, 02:18 BSTUpdated 8 hours agoOpenAI has announced it will not release its latest AI model due to safety concerns.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOpenAI scraps rollout of new model over safety concernsImage source, ReutersByOsmond Chia, Business reporter and Liv McMahon, Technology reporterPublished29 September 2026, 02:18 BSTUpdated 8 hours agoOpenAI has announced it will not release its latest AI model due to safety concerns.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOpenAI scraps rollout of new model over safety concernsImage source, ReutersByOsmond Chia, Business reporter and Liv McMahon, Technology reporterPublished29 September 2026, 02:18 BSTUpdated 8 hours agoOpenAI has announced it will not release its latest AI model due to safety concerns."
+          }
+        ]
+      },
+      {
+        "en": "Its GPT-6.1 Astra system, which performs tasks like browsing the web and using apps by itself, &quot;didn&#x27;t quite meet the bar&quot; of the company&#x27;s standards, according to Saachi Jain, head of safety systems at OpenAI.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "1 Astra system, which performs tasks like browsing the web and using apps by itself, &quot;didn&#x27;t quite meet the bar&quot; of the company&#x27;s standards, according to Saachi Jain, head of safety systems at OpenAI.",
+            "ko": "실시간 보도 번역: 1 Astra system, which performs tasks like browsing the web and using apps by itself, &quot;didn&#x27;t quite meet the bar&quot; of the company&#x27;s standards, according to Saachi Jain, head of safety systems at OpenAI."
+          }
+        ]
+      },
+      {
+        "en": "The ChatGPT-maker also issued an update on incidents that occurred in June but were not made public until last week, where its models accessed Australian government websites and systems without authorisation.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The ChatGPT-maker also issued an update on incidents that occurred in June but were not made public until last week, where its models accessed Australian government websites and systems without authorisation.",
+            "ko": "실시간 보도 번역: The ChatGPT-maker also issued an update on incidents that occurred in June but were not made public until last week, where its models accessed Australian government websites and systems without authorisation."
+          }
+        ]
+      },
+      {
+        "en": "It comes as breaches by major AI firms&#x27; models intensify the debate about risks posed by the tech - with Anthropic underlining its concerns AI might threaten humanity as it prepares to go public.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It comes as breaches by major AI firms&#x27; models intensify the debate about risks posed by the tech - with Anthropic underlining its concerns AI might threaten humanity as it prepares to go public.",
+            "ko": "실시간 보도 번역: It comes as breaches by major AI firms&#x27; models intensify the debate about risks posed by the tech - with Anthropic underlining its concerns AI might threaten humanity as it prepares to go public."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: OpenAI scraps rollout of new model over safety concerns",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "OpenAI scraps rollout of new model over safety concerns",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_3655673896530655723",
     "title": "OpenAI scraps rollout of new model over safety concerns",
     "subtitle": "The firm also issued an update on incidents in which its models accessed Australian government systems....",
@@ -714,70 +791,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_3909294875384293453",
-    "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-    "subtitle": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-24",
-    "addedAt": "2026-09-24T16:21:22Z",
-    "category": "tech",
+    "id": "auto_science_4546686945114443461",
+    "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
+    "subtitle": "The storm moved ashore on the Baja California peninsula, which is a popular tourist destination....",
+    "speaker": "BBC Science",
+    "date": "2026-09-29",
+    "addedAt": "2026-09-29T17:30:01Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 104,
+    "wordCount": 134,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechWhy did an OpenAI system hack Australia&#x27;s health system - and can it be stopped in the future?To play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastHurricane Polo makes landfall on Mexico&#x27;s Pacific coastImage source, EPA/ShutterstockImage caption, Some coastal regions were flooded even before the storm made landfall",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechWhy did an OpenAI system hack Australia&#x27;s health system - and can it be stopped in the future?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechWhy did an OpenAI system hack Australia&#x27;s health system - and can it be stopped in the future?"
-          },
-          {
-            "en": "To play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: To play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastHurricane Polo makes landfall on Mexico&#x27;s Pacific coastImage source, EPA/ShutterstockImage caption, Some coastal regions were flooded even before the storm made landfall",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastHurricane Polo makes landfall on Mexico&#x27;s Pacific coastImage source, EPA/ShutterstockImage caption, Some coastal regions were flooded even before the storm made landfall"
           }
         ]
       },
       {
-        "en": "Watch: What you need to know about the OpenAI Australian government hack",
+        "en": "Hurricane Polo has made landfall along the northern Pacific coast of Mexico, lashing the state of Baja California Sur with life-threatening winds and heavy rain that has already flooded some coastal areas.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Watch: What you need to know about the OpenAI Australian government hack",
-            "ko": "실시간 보도 번역: Watch: What you need to know about the OpenAI Australian government hack"
+            "en": "Hurricane Polo has made landfall along the northern Pacific coast of Mexico, lashing the state of Baja California Sur with life-threatening winds and heavy rain that has already flooded some coastal areas.",
+            "ko": "실시간 보도 번역: Hurricane Polo has made landfall along the northern Pacific coast of Mexico, lashing the state of Baja California Sur with life-threatening winds and heavy rain that has already flooded some coastal areas."
           }
         ]
       },
       {
-        "en": "An OpenAI agent has gone &quot;rogue&quot; and &quot;infiltrated&quot; an Australian government website in what cyber-security experts are calling the first hack of its kind.",
+        "en": "Mexican officials said Polo moved ashore just south of the surfing and fishing village of Las Barrancas bringing maximum sustained winds of 110 mph (175 km/h).",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "An OpenAI agent has gone &quot;rogue&quot; and &quot;infiltrated&quot; an Australian government website in what cyber-security experts are calling the first hack of its kind.",
-            "ko": "실시간 보도 번역: An OpenAI agent has gone &quot;rogue&quot; and &quot;infiltrated&quot; an Australian government website in what cyber-security experts are calling the first hack of its kind."
+            "en": "Mexican officials said Polo moved ashore just south of the surfing and fishing village of Las Barrancas bringing maximum sustained winds of 110 mph (175 km/h).",
+            "ko": "실시간 보도 번역: Mexican officials said Polo moved ashore just south of the surfing and fishing village of Las Barrancas bringing maximum sustained winds of 110 mph (175 km/h)."
           }
         ]
       },
       {
-        "en": "But why did it take the government months to discover what happened - and could it happen again?",
+        "en": "Polo is moving northeast and on the forecast track, its core is predicted to continue passing over Baja California Sur before moving inland over the southern part of the Mexican state of Sonora later on Tuesday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But why did it take the government months to discover what happened - and could it happen again?",
-            "ko": "실시간 보도 번역: But why did it take the government months to discover what happened - and could it happen again?"
+            "en": "Polo is moving northeast and on the forecast track, its core is predicted to continue passing over Baja California Sur before moving inland over the southern part of the Mexican state of Sonora later on Tuesday.",
+            "ko": "실시간 보도 번역: Polo is moving northeast and on the forecast track, its core is predicted to continue passing over Baja California Sur before moving inland over the southern part of the Mexican state of Sonora later on Tuesday."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "글로벌 최신 소식: Hurricane Polo makes landfall on Mexico's Pacific coast",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -785,7 +858,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+          "Hurricane Polo makes landfall on Mexico's Pacific coast",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1604,66 +1677,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_6486202400193794709",
-    "title": "Elephants use medicinal plants to treat themselves, researchers find",
-    "subtitle": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick, research rev...",
-    "speaker": "BBC Science",
-    "date": "2026-09-24",
-    "addedAt": "2026-09-24T16:21:22Z",
-    "category": "science",
+    "id": "auto_economy_6514653489719961954",
+    "title": "Burnham to unveil public body to invest in electricity grid",
+    "subtitle": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader....",
+    "speaker": "BBC Business",
+    "date": "2026-09-29",
+    "addedAt": "2026-09-29T17:30:02Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 128,
+    "wordCount": 151,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceElephants use medicinal plants to treat themselves, researchers findImage source, Mount Elgon FoundationImage caption, Accounts from local experts revealed that wild elephants used more than 35 plants, many of which have known medicinal uses",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham says public body will invest in electricity gridImage source, Getty ImagesByAlex Forsyth, Political correspondent, Reporting fromLiverpool, Paul Seddon and Jennifer McKiernanPublished29 September 2026, 00:35 BSTUpdated 2 hours agoAndy Burnham has announced a new government body to invest in Britain&#x27;s electricity grid in his first party conference speech as Labour leader.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceElephants use medicinal plants to treat themselves, researchers findImage source, Mount Elgon FoundationImage caption, Accounts from local experts revealed that wild elephants used more than 35 plants, many of which have known medicinal uses",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceElephants use medicinal plants to treat themselves, researchers findImage source, Mount Elgon FoundationImage caption, Accounts from local experts revealed that wild elephants used more than 35 plants, many of which have known medicinal uses"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham says public body will invest in electricity gridImage source, Getty ImagesByAlex Forsyth, Political correspondent, Reporting fromLiverpool, Paul Seddon and Jennifer McKiernanPublished29 September 2026, 00:35 BSTUpdated 2 hours agoAndy Burnham has announced a new government body to invest in Britain&#x27;s electricity grid in his first party conference speech as Labour leader.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham says public body will invest in electricity gridImage source, Getty ImagesByAlex Forsyth, Political correspondent, Reporting fromLiverpool, Paul Seddon and Jennifer McKiernanPublished29 September 2026, 00:35 BSTUpdated 2 hours agoAndy Burnham has announced a new government body to invest in Britain&#x27;s electricity grid in his first party conference speech as Labour leader."
           }
         ]
       },
       {
-        "en": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick.",
+        "en": "The prime minister told party activists in Liverpool that the new publicly owned company, branded Great British Grid, will speed up connections to the grid by driving up competition for connection projects.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick.",
-            "ko": "실시간 보도 번역: African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick."
+            "en": "The prime minister told party activists in Liverpool that the new publicly owned company, branded Great British Grid, will speed up connections to the grid by driving up competition for connection projects.",
+            "ko": "실시간 보도 번역: The prime minister told party activists in Liverpool that the new publicly owned company, branded Great British Grid, will speed up connections to the grid by driving up competition for connection projects."
           }
         ]
       },
       {
-        "en": "This is the conclusion of a study which interviewed people who live and work alongside the elephants in the Mount Elgon region of Kenya.",
+        "en": "Burnham is putting the proposals at the heart of a new goal to bring UK energy costs in line with other nations in Europe within 10 years.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "This is the conclusion of a study which interviewed people who live and work alongside the elephants in the Mount Elgon region of Kenya.",
-            "ko": "실시간 보도 번역: This is the conclusion of a study which interviewed people who live and work alongside the elephants in the Mount Elgon region of Kenya."
+            "en": "Burnham is putting the proposals at the heart of a new goal to bring UK energy costs in line with other nations in Europe within 10 years.",
+            "ko": "실시간 보도 번역: Burnham is putting the proposals at the heart of a new goal to bring UK energy costs in line with other nations in Europe within 10 years."
           }
         ]
       },
       {
-        "en": "These particular animals have long intrigued scientists with their extraordinary behaviour - they are known as salt-mining elephants, because they go into caves  and scrape the rock with their tusks to extract minerals for their diet.",
+        "en": "He promised on Tuesday to have an &quot;honest conversation&quot; with the public and take on the &quot;difficult issues&quot; that have been ignored for too long.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "These particular animals have long intrigued scientists with their extraordinary behaviour - they are known as salt-mining elephants, because they go into caves  and scrape the rock with their tusks to extract minerals for their diet.",
-            "ko": "실시간 보도 번역: These particular animals have long intrigued scientists with their extraordinary behaviour - they are known as salt-mining elephants, because they go into caves  and scrape the rock with their tusks to extract minerals for their diet."
+            "en": "He promised on Tuesday to have an &quot;honest conversation&quot; with the public and take on the &quot;difficult issues&quot; that have been ignored for too long.",
+            "ko": "실시간 보도 번역: He promised on Tuesday to have an &quot;honest conversation&quot; with the public and take on the &quot;difficult issues&quot; that have been ignored for too long."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Elephants use medicinal plants to treat themselves, researchers find",
+      "글로벌 최신 소식: Burnham to unveil public body to invest in electricity grid",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1671,7 +1744,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Elephants use medicinal plants to treat themselves, researchers find",
+          "Burnham to unveil public body to invest in electricity grid",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2406,66 +2479,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_3050525933982800958",
-    "title": "Reported assaults on Britain's rail services rise by more than a third",
-    "subtitle": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March....",
-    "speaker": "BBC Business",
-    "date": "2026-09-24",
-    "addedAt": "2026-09-24T16:21:22Z",
-    "category": "economy",
+    "id": "auto_sports_7855026042640841614",
+    "title": "Zverev comeback leads Europe to Laver Cup victory",
+    "subtitle": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team E...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-27",
+    "addedAt": "2026-09-29T17:30:03Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 147,
+    "wordCount": 141,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessReported assaults on Britain&#x27;s rail services rise by more than a thirdImage source, Getty ImagesByKaty Austin, transport correspondent and Lucy Hooker, business reporterPublished24 September 2026, 13:21 BSTUpdated 41 minutes agoReports of violent incidents and harassment on rail services &quot;rose substantially&quot; last year, figures from the rail regulator show.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessReported assaults on Britain&#x27;s rail services rise by more than a thirdImage source, Getty ImagesByKaty Austin, transport correspondent and Lucy Hooker, business reporterPublished24 September 2026, 13:21 BSTUpdated 41 minutes agoReports of violent incidents and harassment on rail services &quot;rose substantially&quot; last year, figures from the rail regulator show.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessReported assaults on Britain&#x27;s rail services rise by more than a thirdImage source, Getty ImagesByKaty Austin, transport correspondent and Lucy Hooker, business reporterPublished24 September 2026, 13:21 BSTUpdated 41 minutes agoReports of violent incidents and harassment on rail services &quot;rose substantially&quot; last year, figures from the rail regulator show."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title"
           }
         ]
       },
       {
-        "en": "Reported assaults, including physical and verbal, were up 36% in the year to March 2026 compared with the previous year, according to the Office of Rail and Road (ORR).",
+        "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Reported assaults, including physical and verbal, were up 36% in the year to March 2026 compared with the previous year, according to the Office of Rail and Road (ORR).",
-            "ko": "실시간 보도 번역: Reported assaults, including physical and verbal, were up 36% in the year to March 2026 compared with the previous year, according to the Office of Rail and Road (ORR)."
+            "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
+            "ko": "실시간 보도 번역: Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title."
           }
         ]
       },
       {
-        "en": "In total 13,464 assaults against passengers and members of the public were recorded on Britain&#x27;s mainline railway, the highest number recorded since the series began in 2004.",
+        "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In total 13,464 assaults against passengers and members of the public were recorded on Britain&#x27;s mainline railway, the highest number recorded since the series began in 2004.",
-            "ko": "실시간 보도 번역: In total 13,464 assaults against passengers and members of the public were recorded on Britain&#x27;s mainline railway, the highest number recorded since the series began in 2004."
+            "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
+            "ko": "실시간 보도 번역: US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena."
           }
         ]
       },
       {
-        "en": "The ORR said the figures were &quot;concerning&quot; and that it was working with the industry to address the problem.",
+        "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The ORR said the figures were &quot;concerning&quot; and that it was working with the industry to address the problem.",
-            "ko": "실시간 보도 번역: The ORR said the figures were &quot;concerning&quot; and that it was working with the industry to address the problem."
+            "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
+            "ko": "실시간 보도 번역: After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Reported assaults on Britain's rail services rise by more than a third",
+      "글로벌 최신 소식: Zverev comeback leads Europe to Laver Cup victory",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2473,14 +2546,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Reported assaults on Britain's rail services rise by more than a third",
+          "Zverev comeback leads Europe to Laver Cup victory",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_2056746024050472808",
@@ -3206,66 +3281,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_5910547448180697210",
-    "title": "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3.34am",
-    "subtitle": "Carlos Alcaraz discusses his US Open return, why he \"misses\" rival Jannik Sinner and his excitement for this year's Laver Cup....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-24",
-    "addedAt": "2026-09-24T16:21:23Z",
-    "category": "sports",
+    "id": "auto_culture_3581536962285740295",
+    "title": "National museums to stay free for all visitors",
+    "subtitle": "It follows discussions about whether charging tourists could boost museums' finances....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-29",
+    "addedAt": "2026-09-29T17:30:07Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 147,
+    "wordCount": 115,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonNational museums to stay free for all visitors Image source, Getty ImagesImage caption, Egyptian sculptures are among the collection at the British Museum in London",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonNational museums to stay free for all visitors Image source, Getty ImagesImage caption, Egyptian sculptures are among the collection at the British Museum in London",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonNational museums to stay free for all visitors Image source, Getty ImagesImage caption, Egyptian sculptures are among the collection at the British Museum in London"
           }
         ]
       },
       {
-        "en": "Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling.",
+        "en": "Overseas visitors will not be charged to enter England&#x27;s national museums after ministers decided against changing the universal free admission policy.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling.",
-            "ko": "실시간 보도 번역: Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling."
+            "en": "Overseas visitors will not be charged to enter England&#x27;s national museums after ministers decided against changing the universal free admission policy.",
+            "ko": "실시간 보도 번역: Overseas visitors will not be charged to enter England&#x27;s national museums after ministers decided against changing the universal free admission policy."
           }
         ]
       },
       {
-        "en": "After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face.",
+        "en": "It comes after months of discussions between the government, museums, the tourism sector and local leaders to examine whether making tourists from abroad pay could boost the institutions&#x27; finances.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face.",
-            "ko": "실시간 보도 번역: After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face."
+            "en": "It comes after months of discussions between the government, museums, the tourism sector and local leaders to examine whether making tourists from abroad pay could boost the institutions&#x27; finances.",
+            "ko": "실시간 보도 번역: It comes after months of discussions between the government, museums, the tourism sector and local leaders to examine whether making tourists from abroad pay could boost the institutions&#x27; finances."
           }
         ]
       },
       {
-        "en": "Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day.",
+        "en": "In March, the government said it would explore charging international visitors to enter national museums as it looks for ways to tackle funding pressures.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day.",
-            "ko": "실시간 보도 번역: Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day."
+            "en": "In March, the government said it would explore charging international visitors to enter national museums as it looks for ways to tackle funding pressures.",
+            "ko": "실시간 보도 번역: In March, the government said it would explore charging international visitors to enter national museums as it looks for ways to tackle funding pressures."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3.34am",
+      "글로벌 최신 소식: National museums to stay free for all visitors",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3273,16 +3348,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3.34am",
+          "National museums to stay free for all visitors",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_3633555024578364491",
@@ -3985,87 +4058,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Greek PM urges Burnham to return Elgin Marbles permanently",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_2609351930449496740",
-    "title": "Harry Potter play producer says cost of living made two-part show 'impossible'",
-    "subtitle": "The London production, which has been running for 10 years, will reopen next month as a one-part show....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-24",
-    "addedAt": "2026-09-24T16:21:25Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 158,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonHarry Potter play producer says cost of living made two-part show &#x27;impossible&#x27;Image source, Getty ImagesByTabby WilsonPublished9 hours agoA Harry Potter And The Cursed Child producer has said the rising cost of living made it &quot;literally impossible&quot; to retain the play&#x27;s original format in two parts.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonHarry Potter play producer says cost of living made two-part show &#x27;impossible&#x27;Image source, Getty ImagesByTabby WilsonPublished9 hours agoA Harry Potter And The Cursed Child producer has said the rising cost of living made it &quot;literally impossible&quot; to retain the play&#x27;s original format in two parts.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonHarry Potter play producer says cost of living made two-part show &#x27;impossible&#x27;Image source, Getty ImagesByTabby WilsonPublished9 hours agoA Harry Potter And The Cursed Child producer has said the rising cost of living made it &quot;literally impossible&quot; to retain the play&#x27;s original format in two parts."
-          }
-        ]
-      },
-      {
-        "en": "The production has been cut down to a single three-hour show and is set to re-open in the West End next month.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The production has been cut down to a single three-hour show and is set to re-open in the West End next month.",
-            "ko": "실시간 보도 번역: The production has been cut down to a single three-hour show and is set to re-open in the West End next month."
-          }
-        ]
-      },
-      {
-        "en": "&quot;The cost of living has gone up 30-40% since the pandemic, including running shows,&quot; producer Sonia Friedman said in comments reported by media at a launch event. &quot;The only way we could continue to run it as a two-parter would be by charging an amount for the tickets that would be unaffordable and inaccessible.&quot;",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&quot;The cost of living has gone up 30-40% since the pandemic, including running shows,&quot; producer Sonia Friedman said in comments reported by media at a launch event.",
-            "ko": "실시간 보도 번역: &quot;The cost of living has gone up 30-40% since the pandemic, including running shows,&quot; producer Sonia Friedman said in comments reported by media at a launch event."
-          },
-          {
-            "en": "&quot;The only way we could continue to run it as a two-parter would be by charging an amount for the tickets that would be unaffordable and inaccessible.",
-            "ko": "실시간 보도 번역: &quot;The only way we could continue to run it as a two-parter would be by charging an amount for the tickets that would be unaffordable and inaccessible."
-          }
-        ]
-      },
-      {
-        "en": "The two-part play, a sequel to JK Rowling&#x27;s books, premiered in the West End in 2016 and closed on 20 September.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The two-part play, a sequel to JK Rowling&#x27;s books, premiered in the West End in 2016 and closed on 20 September.",
-            "ko": "실시간 보도 번역: The two-part play, a sequel to JK Rowling&#x27;s books, premiered in the West End in 2016 and closed on 20 September."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Harry Potter play producer says cost of living made two-part show 'impossible'",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Harry Potter play producer says cost of living made two-part show 'impossible'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
