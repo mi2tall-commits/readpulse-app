@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_5373358350792412513",
+    "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+    "subtitle": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-29",
+    "addedAt": "2026-09-30T03:39:11Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 134,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI unveils AI assistant &#x27;dots&#x27; while safety worries delay new modelImage source, ReutersImage caption, Sam Altman has spoken repeatedly in recent weeks about the risks posed by AI agents.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI unveils AI assistant &#x27;dots&#x27; while safety worries delay new modelImage source, ReutersImage caption, Sam Altman has spoken repeatedly in recent weeks about the risks posed by AI agents.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI unveils AI assistant &#x27;dots&#x27; while safety worries delay new modelImage source, ReutersImage caption, Sam Altman has spoken repeatedly in recent weeks about the risks posed by AI agents."
+          }
+        ]
+      },
+      {
+        "en": "OpenAI on Tuesday unveiled &quot;dots,&quot; a new artificial intelligence (AI) assistant they say can proactively carry out tasks on a user&#x27;s behalf.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "OpenAI on Tuesday unveiled &quot;dots,&quot; a new artificial intelligence (AI) assistant they say can proactively carry out tasks on a user&#x27;s behalf.",
+            "ko": "실시간 보도 번역: OpenAI on Tuesday unveiled &quot;dots,&quot; a new artificial intelligence (AI) assistant they say can proactively carry out tasks on a user&#x27;s behalf."
+          }
+        ]
+      },
+      {
+        "en": "At its annual developer day in San Francisco, chief executive Sam Altman referred to &quot;dots&quot; as &quot;remarkably capable, always-on agents that can handle really anything you can think of.&quot;",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "At its annual developer day in San Francisco, chief executive Sam Altman referred to &quot;dots&quot; as &quot;remarkably capable, always-on agents that can handle really anything you can think of.",
+            "ko": "실시간 보도 번역: At its annual developer day in San Francisco, chief executive Sam Altman referred to &quot;dots&quot; as &quot;remarkably capable, always-on agents that can handle really anything you can think of."
+          }
+        ]
+      },
+      {
+        "en": "At the same time, OpenAI president Greg Brockman and other tech leaders held a meeting with President Donald Trump as the firm faces intense scrutiny after internal tests of its AI agents revealed unexpected and occasionally harmful actions.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "At the same time, OpenAI president Greg Brockman and other tech leaders held a meeting with President Donald Trump as the firm faces intense scrutiny after internal tests of its AI agents revealed unexpected and occasionally harmful actions.",
+            "ko": "실시간 보도 번역: At the same time, OpenAI president Greg Brockman and other tech leaders held a meeting with President Donald Trump as the firm faces intense scrutiny after internal tests of its AI agents revealed unexpected and occasionally harmful actions."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_7659512498303042055",
     "title": "OpenAI scraps rollout of new model over safety concerns",
     "subtitle": "The firm also issued an update on incidents in which its models accessed Australian government systems....",
@@ -706,74 +783,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_2460566694425548002",
-    "title": "X-planes: Are they needed in the new era of drones?",
-    "subtitle": "Where do America's X-plane projects fit in an era of cheap drones?...",
-    "speaker": "BBC Technology",
-    "date": "2026-09-24",
-    "addedAt": "2026-09-25T03:05:20Z",
-    "category": "tech",
+    "id": "auto_science_900983714287767091",
+    "title": "Oura pulls $15bn stock market listing days after announcement",
+    "subtitle": "The wearable technology company had been expected to list its shares in the US....",
+    "speaker": "BBC Science",
+    "date": "2026-09-29",
+    "addedAt": "2026-09-30T03:39:11Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 140,
+    "wordCount": 143,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessX-planes: Are they needed in the new era of drones?Image source, NASA/Carla ThomasImage caption, The long nose of the X-59 is designed to damped the plane&#x27;s sonic boom",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOura pulls $15bn stock market listing days after announcementImage source, Getty ImagesImage caption, Oura&#x27;s chief executive Tom Hale wears one of the company&#x27;s smart rings",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessX-planes: Are they needed in the new era of drones?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessX-planes: Are they needed in the new era of drones?"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOura pulls $15bn stock market listing days after announcementImage source, Getty ImagesImage caption, Oura&#x27;s chief executive Tom Hale wears one of the company&#x27;s smart rings",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOura pulls $15bn stock market listing days after announcementImage source, Getty ImagesImage caption, Oura&#x27;s chief executive Tom Hale wears one of the company&#x27;s smart rings"
           }
         ]
       },
       {
-        "en": "There&#x27;s a weird and wonderful jet flying over the US. It has the nose of anteater, parts cannibalised from other planes and a cockpit so far back the pilot depends on a camera to see where he&#x27;s going.",
+        "en": "Oura has pulled its plan to sell shares in its business on the US stock market, in a move which would have valued the firm at $15bn (£11.3bn), just days after announcing it.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "There&#x27;s a weird and wonderful jet flying over the US.",
-            "ko": "실시간 보도 번역: There&#x27;s a weird and wonderful jet flying over the US."
+            "en": "Oura has pulled its plan to sell shares in its business on the US stock market, in a move which would have valued the firm at $15bn (£11.",
+            "ko": "실시간 보도 번역: Oura has pulled its plan to sell shares in its business on the US stock market, in a move which would have valued the firm at $15bn (£11."
           },
           {
-            "en": "It has the nose of anteater, parts cannibalised from other planes and a cockpit so far back the pilot depends on a camera to see where he&#x27;s going.",
-            "ko": "실시간 보도 번역: It has the nose of anteater, parts cannibalised from other planes and a cockpit so far back the pilot depends on a camera to see where he&#x27;s going."
+            "en": "3bn), just days after announcing it.",
+            "ko": "실시간 보도 번역: 3bn), just days after announcing it."
           }
         ]
       },
       {
-        "en": "This contraption, the X-59, might just be the future of air travel.",
+        "en": "The maker of smart rings which track their owners&#x27; health said it would postpone its flotation &quot;due to uncertainty in the Initial Public Offering (IPO) market&quot; and did not say when it might go ahead.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "This contraption, the X-59, might just be the future of air travel.",
-            "ko": "실시간 보도 번역: This contraption, the X-59, might just be the future of air travel."
+            "en": "The maker of smart rings which track their owners&#x27; health said it would postpone its flotation &quot;due to uncertainty in the Initial Public Offering (IPO) market&quot; and did not say when it might go ahead.",
+            "ko": "실시간 보도 번역: The maker of smart rings which track their owners&#x27; health said it would postpone its flotation &quot;due to uncertainty in the Initial Public Offering (IPO) market&quot; and did not say when it might go ahead."
           }
         ]
       },
       {
-        "en": "The X-59&#x27;s owes its eccentric design to the problem of sonic booms. The shockwave created by a jet breaking the sound barrier restricted Concorde to flights over the sea and barred it from lucrative routes across the US.",
+        "en": "Oura had filed official documents setting out plans to raise up to $2.2bn by offering shares in the business to investors just over a week ago.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The X-59&#x27;s owes its eccentric design to the problem of sonic booms.",
-            "ko": "실시간 보도 번역: The X-59&#x27;s owes its eccentric design to the problem of sonic booms."
+            "en": "Oura had filed official documents setting out plans to raise up to $2.",
+            "ko": "실시간 보도 번역: Oura had filed official documents setting out plans to raise up to $2."
           },
           {
-            "en": "The shockwave created by a jet breaking the sound barrier restricted Concorde to flights over the sea and barred it from lucrative routes across the US.",
-            "ko": "실시간 보도 번역: The shockwave created by a jet breaking the sound barrier restricted Concorde to flights over the sea and barred it from lucrative routes across the US."
+            "en": "2bn by offering shares in the business to investors just over a week ago.",
+            "ko": "실시간 보도 번역: 2bn by offering shares in the business to investors just over a week ago."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: X-planes: Are they needed in the new era of drones?",
+      "글로벌 최신 소식: Oura pulls $15bn stock market listing days after announcement",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -781,7 +858,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "X-planes: Are they needed in the new era of drones?",
+          "Oura pulls $15bn stock market listing days after announcement",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1600,66 +1677,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_3677952728558926700",
-    "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
-    "subtitle": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs....",
-    "speaker": "BBC Science",
-    "date": "2026-09-24",
-    "addedAt": "2026-09-25T03:05:21Z",
-    "category": "science",
+    "id": "auto_economy_1766268131967332406",
+    "title": "Household energy bills forecast to see biggest rise in four years",
+    "subtitle": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast....",
+    "speaker": "BBC Business",
+    "date": "2026-09-29",
+    "addedAt": "2026-09-30T03:39:13Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 130,
+    "wordCount": 163,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsWhat are my children exposed to? Why I want testing for cancer-causing chemicalsImage caption, Natalie Dugdale is calling for public health bodies to test people that are worried they may have been poisoned by years of exposure to toxic waste",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHousehold energy bills forecast to see biggest rise in four yearsImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished4 hours agoHousehold energy prices are set to soar in January, with a typical annual bill forecast to jump by £276, figures shared with the BBC reveal.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsWhat are my children exposed to?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsWhat are my children exposed to?"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHousehold energy bills forecast to see biggest rise in four yearsImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished4 hours agoHousehold energy prices are set to soar in January, with a typical annual bill forecast to jump by £276, figures shared with the BBC reveal.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHousehold energy bills forecast to see biggest rise in four yearsImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished4 hours agoHousehold energy prices are set to soar in January, with a typical annual bill forecast to jump by £276, figures shared with the BBC reveal."
           }
         ]
       },
       {
-        "en": "When she moved to the countryside two years ago, Natalie Dugdale thought it would be the perfect spot to raise her family.",
+        "en": "The 16% predicted increase would hit millions of households at the coldest time of year, and would mark the biggest rise in bills for four years.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "When she moved to the countryside two years ago, Natalie Dugdale thought it would be the perfect spot to raise her family.",
-            "ko": "실시간 보도 번역: When she moved to the countryside two years ago, Natalie Dugdale thought it would be the perfect spot to raise her family."
+            "en": "The 16% predicted increase would hit millions of households at the coldest time of year, and would mark the biggest rise in bills for four years.",
+            "ko": "실시간 보도 번역: The 16% predicted increase would hit millions of households at the coldest time of year, and would mark the biggest rise in bills for four years."
           }
         ]
       },
       {
-        "en": "Close to a lagoon in north Wales, she thought she could walk her baby, toddler and dogs on public footpaths.",
+        "en": "The forecast from consultancy Cornwall Insight comes a day before prices go up under regulator Ofgem&#x27;s October price cap and puts increased pressure on the government to support those who will struggle to pay.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Close to a lagoon in north Wales, she thought she could walk her baby, toddler and dogs on public footpaths.",
-            "ko": "실시간 보도 번역: Close to a lagoon in north Wales, she thought she could walk her baby, toddler and dogs on public footpaths."
+            "en": "The forecast from consultancy Cornwall Insight comes a day before prices go up under regulator Ofgem&#x27;s October price cap and puts increased pressure on the government to support those who will struggle to pay.",
+            "ko": "실시간 보도 번역: The forecast from consultancy Cornwall Insight comes a day before prices go up under regulator Ofgem&#x27;s October price cap and puts increased pressure on the government to support those who will struggle to pay."
           }
         ]
       },
       {
-        "en": "But when she watched Michael Sheen&#x27;s BBC documentary revealing the lagoon&#x27;s history as a dumping ground of cancer-causing chemicals known as PCBs, Natalie was shocked.",
+        "en": "Meanwhile, the boss of supplier EDF Simone Rossi has warned the UK is &quot;walking into a second energy crisis&quot; and called for an extension to the VAT cut on electricity which kicks in on Thursday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But when she watched Michael Sheen&#x27;s BBC documentary revealing the lagoon&#x27;s history as a dumping ground of cancer-causing chemicals known as PCBs, Natalie was shocked.",
-            "ko": "실시간 보도 번역: But when she watched Michael Sheen&#x27;s BBC documentary revealing the lagoon&#x27;s history as a dumping ground of cancer-causing chemicals known as PCBs, Natalie was shocked."
+            "en": "Meanwhile, the boss of supplier EDF Simone Rossi has warned the UK is &quot;walking into a second energy crisis&quot; and called for an extension to the VAT cut on electricity which kicks in on Thursday.",
+            "ko": "실시간 보도 번역: Meanwhile, the boss of supplier EDF Simone Rossi has warned the UK is &quot;walking into a second energy crisis&quot; and called for an extension to the VAT cut on electricity which kicks in on Thursday."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: What are my children exposed to? Why I want testing for cancer-causing chemicals",
+      "글로벌 최신 소식: Household energy bills forecast to see biggest rise in four years",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1667,7 +1744,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "What are my children exposed to? Why I want testing for cancer-causing chemicals",
+          "Household energy bills forecast to see biggest rise in four years",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2398,70 +2475,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_4525499306941268767",
-    "title": "'We're all broke': Would you chase a friend for £5?",
-    "subtitle": "What's the smallest amount of money you would ask a friend to pay you back?...",
-    "speaker": "BBC Business",
-    "date": "2026-09-24",
-    "addedAt": "2026-09-25T03:05:21Z",
-    "category": "economy",
+    "id": "auto_sports_980928544786851229",
+    "title": "Zverev comeback leads Europe to Laver Cup victory",
+    "subtitle": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team E...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-27",
+    "addedAt": "2026-09-30T03:39:13Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 119,
+    "wordCount": 141,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;We&#x27;re all broke&#x27;: Would you chase a friend for £5?To play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;We&#x27;re all broke&#x27;: Would you chase a friend for £5?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;We&#x27;re all broke&#x27;: Would you chase a friend for £5?"
-          },
-          {
-            "en": "To play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: To play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title"
           }
         ]
       },
       {
-        "en": "Watch: We ask New Yorkers to share the smallest amount they&#x27;d ask a friend to pay back",
+        "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Watch: We ask New Yorkers to share the smallest amount they&#x27;d ask a friend to pay back",
-            "ko": "실시간 보도 번역: Watch: We ask New Yorkers to share the smallest amount they&#x27;d ask a friend to pay back"
+            "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
+            "ko": "실시간 보도 번역: Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title."
           }
         ]
       },
       {
-        "en": "You pick up the bill for dinner, pay for the taxi home or grab a friend&#x27;s coffee with the promise they&#x27;ll pay you back later, but days go by and the money never arrives.",
+        "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "You pick up the bill for dinner, pay for the taxi home or grab a friend&#x27;s coffee with the promise they&#x27;ll pay you back later, but days go by and the money never arrives.",
-            "ko": "실시간 보도 번역: You pick up the bill for dinner, pay for the taxi home or grab a friend&#x27;s coffee with the promise they&#x27;ll pay you back later, but days go by and the money never arrives."
+            "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
+            "ko": "실시간 보도 번역: US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena."
           }
         ]
       },
       {
-        "en": "At what point do you ask them for it again and how small is too small to chase?",
+        "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "At what point do you ask them for it again and how small is too small to chase?",
-            "ko": "실시간 보도 번역: At what point do you ask them for it again and how small is too small to chase?"
+            "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
+            "ko": "실시간 보도 번역: After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'We're all broke': Would you chase a friend for £5?",
+      "글로벌 최신 소식: Zverev comeback leads Europe to Laver Cup victory",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2469,14 +2542,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'We're all broke': Would you chase a friend for £5?",
+          "Zverev comeback leads Europe to Laver Cup victory",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_7855026042640841614",
@@ -3202,66 +3277,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_3433174066436138289",
-    "title": "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
-    "subtitle": "Carlos Alcaraz discusses his US Open return, why he \"misses\" rival Jannik Sinner and his excitement for this year's Laver Cup....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-24",
-    "addedAt": "2026-09-25T03:05:21Z",
-    "category": "sports",
+    "id": "auto_culture_7649051451881326629",
+    "title": "National museums to stay free for all visitors",
+    "subtitle": "It follows discussions about whether charging tourists could boost museums' finances....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-29",
+    "addedAt": "2026-09-30T03:39:15Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 147,
+    "wordCount": 115,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonNational museums to stay free for all visitors Image source, Getty ImagesImage caption, Egyptian sculptures are among the collection at the British Museum in London",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonNational museums to stay free for all visitors Image source, Getty ImagesImage caption, Egyptian sculptures are among the collection at the British Museum in London",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonNational museums to stay free for all visitors Image source, Getty ImagesImage caption, Egyptian sculptures are among the collection at the British Museum in London"
           }
         ]
       },
       {
-        "en": "Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling.",
+        "en": "Overseas visitors will not be charged to enter England&#x27;s national museums after ministers decided against changing the universal free admission policy.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling.",
-            "ko": "실시간 보도 번역: Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling."
+            "en": "Overseas visitors will not be charged to enter England&#x27;s national museums after ministers decided against changing the universal free admission policy.",
+            "ko": "실시간 보도 번역: Overseas visitors will not be charged to enter England&#x27;s national museums after ministers decided against changing the universal free admission policy."
           }
         ]
       },
       {
-        "en": "After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face.",
+        "en": "It comes after months of discussions between the government, museums, the tourism sector and local leaders to examine whether making tourists from abroad pay could boost the institutions&#x27; finances.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face.",
-            "ko": "실시간 보도 번역: After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face."
+            "en": "It comes after months of discussions between the government, museums, the tourism sector and local leaders to examine whether making tourists from abroad pay could boost the institutions&#x27; finances.",
+            "ko": "실시간 보도 번역: It comes after months of discussions between the government, museums, the tourism sector and local leaders to examine whether making tourists from abroad pay could boost the institutions&#x27; finances."
           }
         ]
       },
       {
-        "en": "Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day.",
+        "en": "In March, the government said it would explore charging international visitors to enter national museums as it looks for ways to tackle funding pressures.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day.",
-            "ko": "실시간 보도 번역: Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day."
+            "en": "In March, the government said it would explore charging international visitors to enter national museums as it looks for ways to tackle funding pressures.",
+            "ko": "실시간 보도 번역: In March, the government said it would explore charging international visitors to enter national museums as it looks for ways to tackle funding pressures."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
+      "글로벌 최신 소식: National museums to stay free for all visitors",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3269,16 +3344,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
+          "National museums to stay free for all visitors",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_3581536962285740295",
@@ -3981,83 +4054,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Ed Sheeran's next US concerts cancelled due to bad weather",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_7463911645030590619",
-    "title": "Greek PM urges Burnham to return Elgin Marbles permanently",
-    "subtitle": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\"....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-24",
-    "addedAt": "2026-09-25T03:05:22Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 146,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsGreek PM urges Burnham to return Elgin Marbles permanentlyImage source, In Pictures via Getty ImagesByKatie RazzallCulture and media editorPublished24 September 2026The Greek prime minister has called on Andy Burnham to find the &quot;political will&quot; to send the Parthenon sculptures back to Greece.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsGreek PM urges Burnham to return Elgin Marbles permanentlyImage source, In Pictures via Getty ImagesByKatie RazzallCulture and media editorPublished24 September 2026The Greek prime minister has called on Andy Burnham to find the &quot;political will&quot; to send the Parthenon sculptures back to Greece.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsGreek PM urges Burnham to return Elgin Marbles permanentlyImage source, In Pictures via Getty ImagesByKatie RazzallCulture and media editorPublished24 September 2026The Greek prime minister has called on Andy Burnham to find the &quot;political will&quot; to send the Parthenon sculptures back to Greece."
-          }
-        ]
-      },
-      {
-        "en": "Kyriakos Mitsotakis wrote in the Guardian that returning the classical treasures, also known as the Elgin Marbles in the UK, would &quot;send a powerful signal&quot; but would require &quot;courage&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Kyriakos Mitsotakis wrote in the Guardian that returning the classical treasures, also known as the Elgin Marbles in the UK, would &quot;send a powerful signal&quot; but would require &quot;courage&quot;.",
-            "ko": "실시간 보도 번역: Kyriakos Mitsotakis wrote in the Guardian that returning the classical treasures, also known as the Elgin Marbles in the UK, would &quot;send a powerful signal&quot; but would require &quot;courage&quot;."
-          }
-        ]
-      },
-      {
-        "en": "The sculptures have been on display in the British Museum since the 19th Century, though Greece has long disputed the legality of their removal.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The sculptures have been on display in the British Museum since the 19th Century, though Greece has long disputed the legality of their removal.",
-            "ko": "실시간 보도 번역: The sculptures have been on display in the British Museum since the 19th Century, though Greece has long disputed the legality of their removal."
-          }
-        ]
-      },
-      {
-        "en": "Mitsotakis and his government have previously held talks with the British Museum about the sculptures, but the two have so far failed to reach an agreement, with Greek authorities seeking their permanent return.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Mitsotakis and his government have previously held talks with the British Museum about the sculptures, but the two have so far failed to reach an agreement, with Greek authorities seeking their permanent return.",
-            "ko": "실시간 보도 번역: Mitsotakis and his government have previously held talks with the British Museum about the sculptures, but the two have so far failed to reach an agreement, with Greek authorities seeking their permanent return."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Greek PM urges Burnham to return Elgin Marbles permanently",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Greek PM urges Burnham to return Elgin Marbles permanently",
           "Historical retrospective",
           "Unrelated general weather"
         ],
