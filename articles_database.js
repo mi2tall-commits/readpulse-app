@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_6743179341251874037",
+    "title": "Regulating AI 'not the right place to start' says Bailey",
+    "subtitle": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-30",
+    "addedAt": "2026-09-30T17:28:30Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 159,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRegulating AI &#x27;not the right place to start&#x27; says BaileyImage source, Carl Court/Getty ImagesByDearbail JordanBusiness reporterPublished30 September 2026, 11:20 BSTUpdated 3 hours agoThe Governor of the Bank of England has said regulating artificial intelligence (AI)  &quot;is not the right place to start&quot; but instead called first for &quot;rigorous&quot; testing to find vulnerabilities and create safeguards to contain risk.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRegulating AI &#x27;not the right place to start&#x27; says BaileyImage source, Carl Court/Getty ImagesByDearbail JordanBusiness reporterPublished30 September 2026, 11:20 BSTUpdated 3 hours agoThe Governor of the Bank of England has said regulating artificial intelligence (AI)  &quot;is not the right place to start&quot; but instead called first for &quot;rigorous&quot; testing to find vulnerabilities and create safeguards to contain risk.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRegulating AI &#x27;not the right place to start&#x27; says BaileyImage source, Carl Court/Getty ImagesByDearbail JordanBusiness reporterPublished30 September 2026, 11:20 BSTUpdated 3 hours agoThe Governor of the Bank of England has said regulating artificial intelligence (AI)  &quot;is not the right place to start&quot; but instead called first for &quot;rigorous&quot; testing to find vulnerabilities and create safeguards to contain risk."
+          }
+        ]
+      },
+      {
+        "en": "Writing his first-ever article for Substack, Andrew Bailey said the risks around AI were &quot;real and increasingly significant&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Writing his first-ever article for Substack, Andrew Bailey said the risks around AI were &quot;real and increasingly significant&quot;.",
+            "ko": "실시간 보도 번역: Writing his first-ever article for Substack, Andrew Bailey said the risks around AI were &quot;real and increasingly significant&quot;."
+          }
+        ]
+      },
+      {
+        "en": "He said AI development should not be halted or prohibited - &quot;on the contrary, the benefits are immense&quot; - but added there must be a system for intervention and to establish boundaries in which AI operates.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "He said AI development should not be halted or prohibited - &quot;on the contrary, the benefits are immense&quot; - but added there must be a system for intervention and to establish boundaries in which AI operates.",
+            "ko": "실시간 보도 번역: He said AI development should not be halted or prohibited - &quot;on the contrary, the benefits are immense&quot; - but added there must be a system for intervention and to establish boundaries in which AI operates."
+          }
+        ]
+      },
+      {
+        "en": "The debate about the potential risks surrounding the rapid development of AI and what it means for humanity has intensified in recent weeks.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The debate about the potential risks surrounding the rapid development of AI and what it means for humanity has intensified in recent weeks.",
+            "ko": "실시간 보도 번역: The debate about the potential risks surrounding the rapid development of AI and what it means for humanity has intensified in recent weeks."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Regulating AI 'not the right place to start' says Bailey",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Regulating AI 'not the right place to start' says Bailey",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_5373358350792412513",
     "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
     "subtitle": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers....",
@@ -706,66 +783,114 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_4270208719109403467",
-    "title": "Special agents' blood and urine test results stolen in FBI hack",
-    "subtitle": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-25",
-    "addedAt": "2026-09-25T16:22:01Z",
-    "category": "tech",
+    "id": "auto_science_1302670112199926078",
+    "title": "Meet 'Backpack', the chunky bear who won Fat Bear Week",
+    "subtitle": "The brown bear, described by one supporter as having both the \"chonk and the badonk\", will shortly enter hibernation, which can la...",
+    "speaker": "BBC Science",
+    "date": "2026-09-30",
+    "addedAt": "2026-09-30T17:28:31Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 143,
+    "wordCount": 166,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechSpecial agents&#x27; blood and urine test results stolen in FBI hackImage source, Anadolu via Getty ImagesByJoe Tidy World Service Cyber Correspondent Published2 hours agoCyber-criminals who hacked the FBI say they have extremely sensitive medical data for thousands of its special agents.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Meet 'Backpack', the chunky bear who won Fat Bear Week\",\"description\":\"The brown bear, described by one supporter as having both the \\\"chonk and the badonk\\\", will shortly enter hibernation, which can last up to six months.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pd6b05.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pd6b05.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pd6b05.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pd6b05.jpg\"],\"uploadDate\":\"2026-09-30T13:51:52.884Z\",\"duration\":\"PT27S\"}Meet &#x27;Backpack&#x27;, the chunky bear who won Fat Bear WeekTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechSpecial agents&#x27; blood and urine test results stolen in FBI hackImage source, Anadolu via Getty ImagesByJoe Tidy World Service Cyber Correspondent Published2 hours agoCyber-criminals who hacked the FBI say they have extremely sensitive medical data for thousands of its special agents.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechSpecial agents&#x27; blood and urine test results stolen in FBI hackImage source, Anadolu via Getty ImagesByJoe Tidy World Service Cyber Correspondent Published2 hours agoCyber-criminals who hacked the FBI say they have extremely sensitive medical data for thousands of its special agents."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema."
+          },
+          {
+            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Meet 'Backpack', the chunky bear who won Fat Bear Week\",\"description\":\"The brown bear, described by one supporter as having both the \\\"chonk and the badonk\\\", will shortly enter hibernation, which can last up to six months.",
+            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Meet 'Backpack', the chunky bear who won Fat Bear Week\",\"description\":\"The brown bear, described by one supporter as having both the \\\"chonk and the badonk\\\", will shortly enter hibernation, which can last up to six months."
+          },
+          {
+            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
+            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1920/galileo/p0pd6b05.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pd6b05."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1248/galileo/p0pd6b05.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pd6b05."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/688/galileo/p0pd6b05.",
+            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pd6b05."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/400/galileo/p0pd6b05.",
+            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pd6b05."
+          },
+          {
+            "en": "jpg\"],\"uploadDate\":\"2026-09-30T13:51:52.",
+            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-30T13:51:52."
+          },
+          {
+            "en": "884Z\",\"duration\":\"PT27S\"}Meet &#x27;Backpack&#x27;, the chunky bear who won Fat Bear WeekTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: 884Z\",\"duration\":\"PT27S\"}Meet &#x27;Backpack&#x27;, the chunky bear who won Fat Bear WeekTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "BBC News has seen samples of the stolen &quot;fitness-for-work&quot; medical examinations, which contain information such as blood and urine test results, and doctors&#x27; notes mentioning conditions such as a &quot;shellfish and banana allergy&quot;.",
+        "en": "CloseBackpack has won the annual Fat Bear Week competition after prevailing in what the US National Park Service called a &quot;battle of size, skill, snack acquisition and strategic loafing&quot;. The chunky champion narrowly beat Bear 910 by 103,344 votes to 98,253 in the final round of the online contest run by Katmai National Park in Alaska.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC News has seen samples of the stolen &quot;fitness-for-work&quot; medical examinations, which contain information such as blood and urine test results, and doctors&#x27; notes mentioning conditions such as a &quot;shellfish and banana allergy&quot;.",
-            "ko": "실시간 보도 번역: BBC News has seen samples of the stolen &quot;fitness-for-work&quot; medical examinations, which contain information such as blood and urine test results, and doctors&#x27; notes mentioning conditions such as a &quot;shellfish and banana allergy&quot;."
+            "en": "CloseBackpack has won the annual Fat Bear Week competition after prevailing in what the US National Park Service called a &quot;battle of size, skill, snack acquisition and strategic loafing&quot;.",
+            "ko": "실시간 보도 번역: CloseBackpack has won the annual Fat Bear Week competition after prevailing in what the US National Park Service called a &quot;battle of size, skill, snack acquisition and strategic loafing&quot;."
+          },
+          {
+            "en": "The chunky champion narrowly beat Bear 910 by 103,344 votes to 98,253 in the final round of the online contest run by Katmai National Park in Alaska.",
+            "ko": "실시간 보도 번역: The chunky champion narrowly beat Bear 910 by 103,344 votes to 98,253 in the final round of the online contest run by Katmai National Park in Alaska."
           }
         ]
       },
       {
-        "en": "The records include agents&#x27; full names and addresses, as well as references to medical concerns including &#x27;blood in the urine&#x27; and &#x27;high cholesterol&#x27;.",
+        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsAlaskaFollow Alaska",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The records include agents&#x27; full names and addresses, as well as references to medical concerns including &#x27;blood in the urine&#x27; and &#x27;high cholesterol&#x27;.",
-            "ko": "실시간 보도 번역: The records include agents&#x27; full names and addresses, as well as references to medical concerns including &#x27;blood in the urine&#x27; and &#x27;high cholesterol&#x27;."
+            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsAlaskaFollow Alaska",
+            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsAlaskaFollow Alaska"
           }
         ]
       },
       {
-        "en": "Experts say the hack - which the FBI is investigating - could leave agents vulnerable to scams, blackmail and targeted attacks, as well as help criminals impersonate law enforcement officers.",
+        "en": "close panelYou are now following\n    AlaskaUpdates from your News topics will appear in My News and in a collection on the News homepage.AnimalsFollow Animals",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Experts say the hack - which the FBI is investigating - could leave agents vulnerable to scams, blackmail and targeted attacks, as well as help criminals impersonate law enforcement officers.",
-            "ko": "실시간 보도 번역: Experts say the hack - which the FBI is investigating - could leave agents vulnerable to scams, blackmail and targeted attacks, as well as help criminals impersonate law enforcement officers."
+            "en": "close panelYou are now following\n    AlaskaUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+            "ko": "실시간 보도 번역: close panelYou are now following\n    AlaskaUpdates from your News topics will appear in My News and in a collection on the News homepage."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Special agents' blood and urine test results stolen in FBI hack",
+      "글로벌 최신 소식: Meet 'Backpack', the chunky bear who won Fat Bear Week",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -773,7 +898,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Special agents' blood and urine test results stolen in FBI hack",
+          "Meet 'Backpack', the chunky bear who won Fat Bear Week",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1596,70 +1721,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_229491211829208452",
-    "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
-    "subtitle": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs....",
-    "speaker": "BBC Science",
-    "date": "2026-09-25",
-    "addedAt": "2026-09-25T16:22:01Z",
-    "category": "science",
+    "id": "auto_economy_7867602060541714351",
+    "title": "Household energy bills forecast to see biggest rise in four years",
+    "subtitle": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast....",
+    "speaker": "BBC Business",
+    "date": "2026-09-30",
+    "addedAt": "2026-09-30T17:28:31Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 111,
+    "wordCount": 168,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsWhat are my children exposed to? Why I want testing for cancer-causing chemicalsTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHousehold energy bills forecast to see biggest rise in four yearsImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished30 September 2026, 00:03 BSTUpdated 2 hours agoHousehold energy prices are set to soar in January, with a typical annual bill forecast to jump by £276, figures shared with the BBC reveal.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsWhat are my children exposed to?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsWhat are my children exposed to?"
-          },
-          {
-            "en": "Why I want testing for cancer-causing chemicalsTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: Why I want testing for cancer-causing chemicalsTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHousehold energy bills forecast to see biggest rise in four yearsImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished30 September 2026, 00:03 BSTUpdated 2 hours agoHousehold energy prices are set to soar in January, with a typical annual bill forecast to jump by £276, figures shared with the BBC reveal.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHousehold energy bills forecast to see biggest rise in four yearsImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished30 September 2026, 00:03 BSTUpdated 2 hours agoHousehold energy prices are set to soar in January, with a typical annual bill forecast to jump by £276, figures shared with the BBC reveal."
           }
         ]
       },
       {
-        "en": "Michael Phillips played at Llwyneinion lagoon as a child and wants people like him to be tested",
+        "en": "The 16% predicted increase would hit millions of households at the coldest time of year, and would mark the biggest rise in bills for four years.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Michael Phillips played at Llwyneinion lagoon as a child and wants people like him to be tested",
-            "ko": "실시간 보도 번역: Michael Phillips played at Llwyneinion lagoon as a child and wants people like him to be tested"
+            "en": "The 16% predicted increase would hit millions of households at the coldest time of year, and would mark the biggest rise in bills for four years.",
+            "ko": "실시간 보도 번역: The 16% predicted increase would hit millions of households at the coldest time of year, and would mark the biggest rise in bills for four years."
           }
         ]
       },
       {
-        "en": "When she moved to the countryside two years ago, Natalie Dugdale thought it would be the perfect spot to raise her family.",
+        "en": "The forecast from consultancy Cornwall Insight comes a day before prices go up under regulator Ofgem&#x27;s October price cap and puts increased pressure on the government to support those who will struggle to pay.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "When she moved to the countryside two years ago, Natalie Dugdale thought it would be the perfect spot to raise her family.",
-            "ko": "실시간 보도 번역: When she moved to the countryside two years ago, Natalie Dugdale thought it would be the perfect spot to raise her family."
+            "en": "The forecast from consultancy Cornwall Insight comes a day before prices go up under regulator Ofgem&#x27;s October price cap and puts increased pressure on the government to support those who will struggle to pay.",
+            "ko": "실시간 보도 번역: The forecast from consultancy Cornwall Insight comes a day before prices go up under regulator Ofgem&#x27;s October price cap and puts increased pressure on the government to support those who will struggle to pay."
           }
         ]
       },
       {
-        "en": "Close to a lagoon in north Wales, she thought she could walk her baby, toddler and dogs on public footpaths.",
+        "en": "Meanwhile, the boss of supplier EDF Simone Rossi has warned the UK is &quot;walking into a second energy crisis&quot; and called for an extension to the VAT cut on electricity which kicks in on Thursday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Close to a lagoon in north Wales, she thought she could walk her baby, toddler and dogs on public footpaths.",
-            "ko": "실시간 보도 번역: Close to a lagoon in north Wales, she thought she could walk her baby, toddler and dogs on public footpaths."
+            "en": "Meanwhile, the boss of supplier EDF Simone Rossi has warned the UK is &quot;walking into a second energy crisis&quot; and called for an extension to the VAT cut on electricity which kicks in on Thursday.",
+            "ko": "실시간 보도 번역: Meanwhile, the boss of supplier EDF Simone Rossi has warned the UK is &quot;walking into a second energy crisis&quot; and called for an extension to the VAT cut on electricity which kicks in on Thursday."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: What are my children exposed to? Why I want testing for cancer-causing chemicals",
+      "글로벌 최신 소식: Household energy bills forecast to see biggest rise in four years",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1667,7 +1788,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "What are my children exposed to? Why I want testing for cancer-causing chemicals",
+          "Household energy bills forecast to see biggest rise in four years",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2394,70 +2515,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_4527953799703620500",
-    "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-    "subtitle": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts....",
-    "speaker": "BBC Business",
-    "date": "2026-09-25",
-    "addedAt": "2026-09-25T16:22:01Z",
-    "category": "economy",
+    "id": "auto_sports_421291300298577141",
+    "title": "Zverev comeback leads Europe to Laver Cup victory",
+    "subtitle": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team E...",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-27",
+    "addedAt": "2026-09-30T17:28:32Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 140,
+    "wordCount": 141,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechUS backs Elon Musk&#x27;s bid to overturn €120m EU fine against XImage source, Getty ImagesByLaura CressTechnology reporterPublished6 hours agoThe US government is seeking to join Elon Musk&#x27;s legal challenge to overturn a €120m (£105m) EU fine against X over its blue tick badges.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechUS backs Elon Musk&#x27;s bid to overturn €120m EU fine against XImage source, Getty ImagesByLaura CressTechnology reporterPublished6 hours agoThe US government is seeking to join Elon Musk&#x27;s legal challenge to overturn a €120m (£105m) EU fine against X over its blue tick badges.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechUS backs Elon Musk&#x27;s bid to overturn €120m EU fine against XImage source, Getty ImagesByLaura CressTechnology reporterPublished6 hours agoThe US government is seeking to join Elon Musk&#x27;s legal challenge to overturn a €120m (£105m) EU fine against X over its blue tick badges."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title"
           }
         ]
       },
       {
-        "en": "In December 2025, the European Commission said the platform &quot;deceives users&quot; by allowing people to pay for a blue verified check mark, because it is not &quot;meaningfully verifying&quot; who is behind the account.",
+        "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In December 2025, the European Commission said the platform &quot;deceives users&quot; by allowing people to pay for a blue verified check mark, because it is not &quot;meaningfully verifying&quot; who is behind the account.",
-            "ko": "실시간 보도 번역: In December 2025, the European Commission said the platform &quot;deceives users&quot; by allowing people to pay for a blue verified check mark, because it is not &quot;meaningfully verifying&quot; who is behind the account."
+            "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
+            "ko": "실시간 보도 번역: Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title."
           }
         ]
       },
       {
-        "en": "But US Assistant Attorney General Brett A. Shumate said on Thursday that the commission had &quot;inappropriately attempted&quot; to expand its reach to American companies outside its control.",
+        "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But US Assistant Attorney General Brett A.",
-            "ko": "실시간 보도 번역: But US Assistant Attorney General Brett A."
-          },
-          {
-            "en": "Shumate said on Thursday that the commission had &quot;inappropriately attempted&quot; to expand its reach to American companies outside its control.",
-            "ko": "실시간 보도 번역: Shumate said on Thursday that the commission had &quot;inappropriately attempted&quot; to expand its reach to American companies outside its control."
+            "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
+            "ko": "실시간 보도 번역: US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena."
           }
         ]
       },
       {
-        "en": "Musk, who spent millions helping elect Donald Trump and other Republicans, has previously claimed EU tech regulation &quot;inhibits progress&quot; for companies.",
+        "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Musk, who spent millions helping elect Donald Trump and other Republicans, has previously claimed EU tech regulation &quot;inhibits progress&quot; for companies.",
-            "ko": "실시간 보도 번역: Musk, who spent millions helping elect Donald Trump and other Republicans, has previously claimed EU tech regulation &quot;inhibits progress&quot; for companies."
+            "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
+            "ko": "실시간 보도 번역: After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: US backs Elon Musk's bid to overturn €120m EU fine against X",
+      "글로벌 최신 소식: Zverev comeback leads Europe to Laver Cup victory",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2465,14 +2582,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "US backs Elon Musk's bid to overturn €120m EU fine against X",
+          "Zverev comeback leads Europe to Laver Cup victory",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_980928544786851229",
@@ -3198,66 +3317,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_3652829097474021569",
-    "title": "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
-    "subtitle": "Carlos Alcaraz discusses his US Open return, why he \"misses\" rival Jannik Sinner and his excitement for this year's Laver Cup....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-24",
-    "addedAt": "2026-09-25T16:22:02Z",
-    "category": "sports",
+    "id": "auto_culture_8693015326702921696",
+    "title": "Singer Lola Young says vaping has made breathing feel like a 'chore'",
+    "subtitle": "The Messy singer says her lungs feel \"battery powered\" due to the effects of vaping....",
+    "speaker": "BBC Arts",
+    "date": "2026-09-30",
+    "addedAt": "2026-09-30T17:28:34Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 147,
+    "wordCount": 106,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNewsbeatSinger Lola Young says vaping has made breathing feel like a &#x27;chore&#x27; Image source, Getty ImagesImage caption, Lola Young returned to the stage earlier this year after taking time off for her health",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I suffered, but I enjoyed&#x27; - Alcaraz on smiling after defeat at 3:34amImage source, Getty ImagesImage caption, Carlos Alcaraz has won seven Grand Slam singles titles, including this year&#x27;s Australian Open"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNewsbeatSinger Lola Young says vaping has made breathing feel like a &#x27;chore&#x27; Image source, Getty ImagesImage caption, Lola Young returned to the stage earlier this year after taking time off for her health",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNewsbeatSinger Lola Young says vaping has made breathing feel like a &#x27;chore&#x27; Image source, Getty ImagesImage caption, Lola Young returned to the stage earlier this year after taking time off for her health"
           }
         ]
       },
       {
-        "en": "Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling.",
+        "en": "Singer Lola Young has said her breathing feels like a &quot;chore&quot; due to the effects of vaping.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling.",
-            "ko": "실시간 보도 번역: Most players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling."
+            "en": "Singer Lola Young has said her breathing feels like a &quot;chore&quot; due to the effects of vaping.",
+            "ko": "실시간 보도 번역: Singer Lola Young has said her breathing feels like a &quot;chore&quot; due to the effects of vaping."
           }
         ]
       },
       {
-        "en": "After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face.",
+        "en": "In a TikTok video,, external the Grammy winner told her followers her lungs feel &quot;battery powered&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face.",
-            "ko": "실시간 보도 번역: After his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face."
+            "en": "In a TikTok video,, external the Grammy winner told her followers her lungs feel &quot;battery powered&quot;.",
+            "ko": "실시간 보도 번역: In a TikTok video,, external the Grammy winner told her followers her lungs feel &quot;battery powered&quot;."
           }
         ]
       },
       {
-        "en": "Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day.",
+        "en": "The 25-year-old has previously acknowledged in videos she &quot;should quit&quot;, but suggested in her latest post that is unlikely to happen any time soon.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day.",
-            "ko": "실시간 보도 번역: Alcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day."
+            "en": "The 25-year-old has previously acknowledged in videos she &quot;should quit&quot;, but suggested in her latest post that is unlikely to happen any time soon.",
+            "ko": "실시간 보도 번역: The 25-year-old has previously acknowledged in videos she &quot;should quit&quot;, but suggested in her latest post that is unlikely to happen any time soon."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
+      "글로벌 최신 소식: Singer Lola Young says vaping has made breathing feel like a 'chore'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3265,16 +3384,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
+          "Singer Lola Young says vaping has made breathing feel like a 'chore'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_7649051451881326629",
@@ -3973,87 +4090,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Ed Sheeran's next US concerts cancelled due to storm warning",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_4875059665775764658",
-    "title": "Ed Sheeran's next US concerts cancelled due to bad weather",
-    "subtitle": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after  severe weather warnings....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-25",
-    "addedAt": "2026-09-25T16:22:04Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 169,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026, 16:14 BSTUpdated 24 minutes agoEd Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026, 16:14 BSTUpdated 24 minutes agoEd Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026, 16:14 BSTUpdated 24 minutes agoEd Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area."
-          }
-        ]
-      },
-      {
-        "en": "The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour.",
-            "ko": "실시간 보도 번역: The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour."
-          }
-        ]
-      },
-      {
-        "en": "The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage. Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage.",
-            "ko": "실시간 보도 번역: The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage."
-          },
-          {
-            "en": "Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal.",
-            "ko": "실시간 보도 번역: Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal."
-          }
-        ]
-      },
-      {
-        "en": "A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium.&quot;",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium.",
-            "ko": "실시간 보도 번역: A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Ed Sheeran's next US concerts cancelled due to bad weather",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Ed Sheeran's next US concerts cancelled due to bad weather",
           "Historical retrospective",
           "Unrelated general weather"
         ],
