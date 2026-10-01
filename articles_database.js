@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_8817155126974949906",
+    "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+    "subtitle": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-01",
+    "addedAt": "2026-10-01T17:53:56Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 126,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechTrump&#x27;s AI rebrand causes &#x27;unprecedented&#x27; demand for Slovenian website namesImage source, Getty ImagesByLaura CressTechnology reporterPublished6 hours agoDonald Trump&#x27;s push to rename AI may be behind an &quot;unprecedented&quot; rise in registrations for domain names in Slovenia, according to its official national registry.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechTrump&#x27;s AI rebrand causes &#x27;unprecedented&#x27; demand for Slovenian website namesImage source, Getty ImagesByLaura CressTechnology reporterPublished6 hours agoDonald Trump&#x27;s push to rename AI may be behind an &quot;unprecedented&quot; rise in registrations for domain names in Slovenia, according to its official national registry.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechTrump&#x27;s AI rebrand causes &#x27;unprecedented&#x27; demand for Slovenian website namesImage source, Getty ImagesByLaura CressTechnology reporterPublished6 hours agoDonald Trump&#x27;s push to rename AI may be behind an &quot;unprecedented&quot; rise in registrations for domain names in Slovenia, according to its official national registry."
+          }
+        ]
+      },
+      {
+        "en": "The US president wants AI to be called &quot;super intelligence&quot; - or SI - the same initials used by Slovenian websites.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The US president wants AI to be called &quot;super intelligence&quot; - or SI - the same initials used by Slovenian websites.",
+            "ko": "실시간 보도 번역: The US president wants AI to be called &quot;super intelligence&quot; - or SI - the same initials used by Slovenian websites."
+          }
+        ]
+      },
+      {
+        "en": "Register.si spokeswoman Klara Herman said 44,000 web addresses with the .si suffix had been registered in September, compared to less than 2,000 in August - an increase of more than 2,100%.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "si spokeswoman Klara Herman said 44,000 web addresses with the .",
+            "ko": "실시간 보도 번역: si spokeswoman Klara Herman said 44,000 web addresses with the ."
+          },
+          {
+            "en": "si suffix had been registered in September, compared to less than 2,000 in August - an increase of more than 2,100%.",
+            "ko": "실시간 보도 번역: si suffix had been registered in September, compared to less than 2,000 in August - an increase of more than 2,100%."
+          }
+        ]
+      },
+      {
+        "en": "She said the scale of activity in late September was &quot;unprecedented&quot; compared to the previous 12 months.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "She said the scale of activity in late September was &quot;unprecedented&quot; compared to the previous 12 months.",
+            "ko": "실시간 보도 번역: She said the scale of activity in late September was &quot;unprecedented&quot; compared to the previous 12 months."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_8665839793553182867",
     "title": "Tiny image sparks big backlash in Nikon photo contest",
     "subtitle": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest....",
@@ -706,66 +787,122 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_7722331852656088379",
-    "title": "OpenAI bots meddled with multiple US government agency sites",
-    "subtitle": "OpenAI said its bots accessed public data from a range of institutions during test exercises....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-26",
-    "addedAt": "2026-09-26T15:36:24Z",
-    "category": "tech",
+    "id": "auto_science_4575058870143601302",
+    "title": "SpaceX launches crew to ISS",
+    "subtitle": "The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months a...",
+    "speaker": "BBC Science",
+    "date": "2026-10-01",
+    "addedAt": "2026-10-01T17:53:56Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 122,
+    "wordCount": 209,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Watch: SpaceX launches crew to International Space Station\",\"description\":\"The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months aboard the International Space Station.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pdhh18.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pdhh18.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pdhh18.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pdhh18.jpg\"],\"uploadDate\":\"2026-10-01T16:32:17.487Z\",\"duration\":\"PT40S\"}SpaceX launches crew to ISSTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema."
+          },
+          {
+            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Watch: SpaceX launches crew to International Space Station\",\"description\":\"The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months aboard the International Space Station.",
+            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Watch: SpaceX launches crew to International Space Station\",\"description\":\"The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months aboard the International Space Station."
+          },
+          {
+            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
+            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1920/galileo/p0pdhh18.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pdhh18."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1248/galileo/p0pdhh18.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pdhh18."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/688/galileo/p0pdhh18.",
+            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pdhh18."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/400/galileo/p0pdhh18.",
+            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pdhh18."
+          },
+          {
+            "en": "jpg\"],\"uploadDate\":\"2026-10-01T16:32:17.",
+            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-10-01T16:32:17."
+          },
+          {
+            "en": "487Z\",\"duration\":\"PT40S\"}SpaceX launches crew to ISSTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: 487Z\",\"duration\":\"PT40S\"}SpaceX launches crew to ISSTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
+        "en": "CloseThe SpaceX Falcon 9 rocket launched from Cap Canaveral, Florida to the International Space Station carrying Crew-13. The team is comprised of two Nasa astronauts, a Russian cosmonaut and a Canadian astronaut whose wife is expecting their third child two months into the mission. They&#x27;ll become the fourth couple in the history of space travel to have a child born while one parent was off the planet, according to CBSNews.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
-            "ko": "실시간 보도 번역: OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly."
+            "en": "CloseThe SpaceX Falcon 9 rocket launched from Cap Canaveral, Florida to the International Space Station carrying Crew-13.",
+            "ko": "실시간 보도 번역: CloseThe SpaceX Falcon 9 rocket launched from Cap Canaveral, Florida to the International Space Station carrying Crew-13."
+          },
+          {
+            "en": "The team is comprised of two Nasa astronauts, a Russian cosmonaut and a Canadian astronaut whose wife is expecting their third child two months into the mission.",
+            "ko": "실시간 보도 번역: The team is comprised of two Nasa astronauts, a Russian cosmonaut and a Canadian astronaut whose wife is expecting their third child two months into the mission."
+          },
+          {
+            "en": "They&#x27;ll become the fourth couple in the history of space travel to have a child born while one parent was off the planet, according to CBSNews.",
+            "ko": "실시간 보도 번역: They&#x27;ll become the fourth couple in the history of space travel to have a child born while one parent was off the planet, according to CBSNews."
           }
         ]
       },
       {
-        "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
+        "en": "The launch was originally planned for mid-September, but was delayed to replace a valve in the Crew Dragon&#x27;s propulsion system. It will take 7 hours and 50 minutes for the crew to reach the ISS where they will be conducting experiments and research toward future missions to the Moon and Mars, according to Nasa.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
-            "ko": "실시간 보도 번역: AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said."
+            "en": "The launch was originally planned for mid-September, but was delayed to replace a valve in the Crew Dragon&#x27;s propulsion system.",
+            "ko": "실시간 보도 번역: The launch was originally planned for mid-September, but was delayed to replace a valve in the Crew Dragon&#x27;s propulsion system."
+          },
+          {
+            "en": "It will take 7 hours and 50 minutes for the crew to reach the ISS where they will be conducting experiments and research toward future missions to the Moon and Mars, according to Nasa.",
+            "ko": "실시간 보도 번역: It will take 7 hours and 50 minutes for the crew to reach the ISS where they will be conducting experiments and research toward future missions to the Moon and Mars, according to Nasa."
           }
         ]
       },
       {
-        "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
+        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsInternational Space StationFollow International Space Station",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
-            "ko": "실시간 보도 번역: The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme."
+            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsInternational Space StationFollow International Space Station",
+            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsInternational Space StationFollow International Space Station"
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI bots meddled with multiple US government agency sites",
+      "글로벌 최신 소식: SpaceX launches crew to ISS",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -773,7 +910,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI bots meddled with multiple US government agency sites",
+          "SpaceX launches crew to ISS",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1648,66 +1785,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_4205362037348620949",
-    "title": "Bangkok roads submerged as flood disaster declared",
-    "subtitle": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated....",
-    "speaker": "BBC Science",
-    "date": "2026-09-26",
-    "addedAt": "2026-09-26T15:36:24Z",
-    "category": "science",
+    "id": "auto_economy_253871774128721368",
+    "title": "AI boom could trigger market shocks, Bank of England boss warns",
+    "subtitle": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\"....",
+    "speaker": "BBC Business",
+    "date": "2026-10-01",
+    "addedAt": "2026-10-01T17:53:57Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 120,
+    "wordCount": 117,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaBangkok roads submerged as flood disaster declaredTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI boom could trigger market shocks, Bank of England boss warnsTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaBangkok roads submerged as flood disaster declaredTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaBangkok roads submerged as flood disaster declaredTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI boom could trigger market shocks, Bank of England boss warnsTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI boom could trigger market shocks, Bank of England boss warnsTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "A flood emergency disaster has been declared across Bangkok after 48 hours of heavy rain left roads in the Thai capital submerged.",
+        "en": "Watch: Governor of the Bank of England Andrew Bailey says quality of deepfakes &#x27;alarming&#x27;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A flood emergency disaster has been declared across Bangkok after 48 hours of heavy rain left roads in the Thai capital submerged.",
-            "ko": "실시간 보도 번역: A flood emergency disaster has been declared across Bangkok after 48 hours of heavy rain left roads in the Thai capital submerged."
+            "en": "Watch: Governor of the Bank of England Andrew Bailey says quality of deepfakes &#x27;alarming&#x27;",
+            "ko": "실시간 보도 번역: Watch: Governor of the Bank of England Andrew Bailey says quality of deepfakes &#x27;alarming&#x27;"
           }
         ]
       },
       {
-        "en": "People have been urged to stay at home and those living close to the city&#x27;s network of canals have been advised to move their belongings to upper floors.",
+        "en": "Artificial intelligence (AI) could trigger financial market shocks and the UK needs to be prepared for them, the governor of the Bank of England has warned.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "People have been urged to stay at home and those living close to the city&#x27;s network of canals have been advised to move their belongings to upper floors.",
-            "ko": "실시간 보도 번역: People have been urged to stay at home and those living close to the city&#x27;s network of canals have been advised to move their belongings to upper floors."
+            "en": "Artificial intelligence (AI) could trigger financial market shocks and the UK needs to be prepared for them, the governor of the Bank of England has warned.",
+            "ko": "실시간 보도 번역: Artificial intelligence (AI) could trigger financial market shocks and the UK needs to be prepared for them, the governor of the Bank of England has warned."
           }
         ]
       },
       {
-        "en": "Thunderstorms are common in Thailand at this time of year but extreme weather in recent days has inundated Bangkok&#x27;s drainage system, causing traffic chaos on roads that are already famously congested.",
+        "en": "Andrew Bailey said the central bank is watching the huge amounts of money being invested in AI &quot;very carefully&quot; and cautioned that &quot;not everybody always wins&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Thunderstorms are common in Thailand at this time of year but extreme weather in recent days has inundated Bangkok&#x27;s drainage system, causing traffic chaos on roads that are already famously congested.",
-            "ko": "실시간 보도 번역: Thunderstorms are common in Thailand at this time of year but extreme weather in recent days has inundated Bangkok&#x27;s drainage system, causing traffic chaos on roads that are already famously congested."
+            "en": "Andrew Bailey said the central bank is watching the huge amounts of money being invested in AI &quot;very carefully&quot; and cautioned that &quot;not everybody always wins&quot;.",
+            "ko": "실시간 보도 번역: Andrew Bailey said the central bank is watching the huge amounts of money being invested in AI &quot;very carefully&quot; and cautioned that &quot;not everybody always wins&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Bangkok roads submerged as flood disaster declared",
+      "글로벌 최신 소식: AI boom could trigger market shocks, Bank of England boss warns",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1715,7 +1852,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Bangkok roads submerged as flood disaster declared",
+          "AI boom could trigger market shocks, Bank of England boss warns",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2434,66 +2571,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_7722331852656088379",
-    "title": "OpenAI bots meddled with multiple US government agency sites",
-    "subtitle": "OpenAI said its bots accessed public data from a range of institutions during test exercises....",
-    "speaker": "BBC Business",
-    "date": "2026-09-26",
-    "addedAt": "2026-09-26T15:36:25Z",
-    "category": "economy",
+    "id": "auto_sports_7644690335077065868",
+    "title": "'I kept fighting right to the end' - emotional Nishikori retires",
+    "subtitle": "A tearful Kei Nishikori says he \"kept fighting right to the end\" as the former world number four ends his professional career at t...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-01",
+    "addedAt": "2026-10-01T17:53:58Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 122,
+    "wordCount": 121,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I kept fighting right to the end&#x27; - emotional Nishikori retiresTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I kept fighting right to the end&#x27; - emotional Nishikori retiresTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I kept fighting right to the end&#x27; - emotional Nishikori retiresTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
+        "en": "Watch Nishikori&#x27;s emotional send-off as he retires at Japan Open",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
-            "ko": "실시간 보도 번역: OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly."
+            "en": "Watch Nishikori&#x27;s emotional send-off as he retires at Japan Open",
+            "ko": "실시간 보도 번역: Watch Nishikori&#x27;s emotional send-off as he retires at Japan Open"
           }
         ]
       },
       {
-        "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
+        "en": "A tearful Kei Nishikori said he &quot;kept fighting right to the end&quot; as the former world number four ended his professional career at the Japan Open.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
-            "ko": "실시간 보도 번역: AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said."
+            "en": "A tearful Kei Nishikori said he &quot;kept fighting right to the end&quot; as the former world number four ended his professional career at the Japan Open.",
+            "ko": "실시간 보도 번역: A tearful Kei Nishikori said he &quot;kept fighting right to the end&quot; as the former world number four ended his professional career at the Japan Open."
           }
         ]
       },
       {
-        "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
+        "en": "Nishikori, known as one of the best players to never win a Grand Slam, lost 6-4 6-4 to world number eight Frances Tiafoe in Tokyo.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
-            "ko": "실시간 보도 번역: The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme."
+            "en": "Nishikori, known as one of the best players to never win a Grand Slam, lost 6-4 6-4 to world number eight Frances Tiafoe in Tokyo.",
+            "ko": "실시간 보도 번역: Nishikori, known as one of the best players to never win a Grand Slam, lost 6-4 6-4 to world number eight Frances Tiafoe in Tokyo."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI bots meddled with multiple US government agency sites",
+      "글로벌 최신 소식: 'I kept fighting right to the end' - emotional Nishikori retires",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2501,14 +2638,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI bots meddled with multiple US government agency sites",
+          "'I kept fighting right to the end' - emotional Nishikori retires",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_6288245560739320068",
@@ -3226,70 +3365,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_7479005558320516282",
-    "title": "Sinner ruled out of China Open with knee injury",
-    "subtitle": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee problem....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-25",
-    "addedAt": "2026-09-26T15:36:25Z",
-    "category": "sports",
+    "id": "auto_culture_4516752548769144853",
+    "title": "Naomi Campbell wins appeal over charity ban",
+    "subtitle": "A tribunal rules that the model was unaware of misconduct at her charity Fashion for Relief....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-01",
+    "addedAt": "2026-10-01T17:53:59Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 129,
+    "wordCount": 135,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSinner ruled out of China Open with knee injuryImage source, Getty ImagesImage caption, Jannik Sinner retained his men&#x27;s singles Wimbledon title earlier this year",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsNaomi Campbell wins appeal over charity banImage source, ReutersByIan YoungsCulture reporterPublished5 hours agoModel Naomi Campbell has won her appeal against a ban on being a charity trustee, after a tribunal ruled that she was unaware of misconduct at her charity Fashion for Relief.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSinner ruled out of China Open with knee injuryImage source, Getty ImagesImage caption, Jannik Sinner retained his men&#x27;s singles Wimbledon title earlier this year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSinner ruled out of China Open with knee injuryImage source, Getty ImagesImage caption, Jannik Sinner retained his men&#x27;s singles Wimbledon title earlier this year"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsNaomi Campbell wins appeal over charity banImage source, ReutersByIan YoungsCulture reporterPublished5 hours agoModel Naomi Campbell has won her appeal against a ban on being a charity trustee, after a tribunal ruled that she was unaware of misconduct at her charity Fashion for Relief.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsNaomi Campbell wins appeal over charity banImage source, ReutersByIan YoungsCulture reporterPublished5 hours agoModel Naomi Campbell has won her appeal against a ban on being a charity trustee, after a tribunal ruled that she was unaware of misconduct at her charity Fashion for Relief."
           }
         ]
       },
       {
-        "en": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury.",
+        "en": "Campbell was banned from being a charity trustee for five years in 2024 after a watchdog found that Fashion for Relief funds had been spent on luxury hotels and spa treatments.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury.",
-            "ko": "실시간 보도 번역: World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury."
+            "en": "Campbell was banned from being a charity trustee for five years in 2024 after a watchdog found that Fashion for Relief funds had been spent on luxury hotels and spa treatments.",
+            "ko": "실시간 보도 번역: Campbell was banned from being a charity trustee for five years in 2024 after a watchdog found that Fashion for Relief funds had been spent on luxury hotels and spa treatments."
           }
         ]
       },
       {
-        "en": "The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final.",
+        "en": "However, a tribunal said on Thursday, external that the most serious instances of misconduct in the charity &quot;were concealed&quot; from Campbell by a fellow trustee.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final.",
-            "ko": "실시간 보도 번역: The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final."
+            "en": "However, a tribunal said on Thursday, external that the most serious instances of misconduct in the charity &quot;were concealed&quot; from Campbell by a fellow trustee.",
+            "ko": "실시간 보도 번역: However, a tribunal said on Thursday, external that the most serious instances of misconduct in the charity &quot;were concealed&quot; from Campbell by a fellow trustee."
           }
         ]
       },
       {
-        "en": "Sinner, 25, won the China Open in 2023 and 2025. The tournament starts on Wednesday and concludes on 6 October.",
+        "en": "&quot;Ms Campbell was not involved in, and did not know of, that conduct,&quot; the three-person tribunal panel said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Sinner, 25, won the China Open in 2023 and 2025.",
-            "ko": "실시간 보도 번역: Sinner, 25, won the China Open in 2023 and 2025."
-          },
-          {
-            "en": "The tournament starts on Wednesday and concludes on 6 October.",
-            "ko": "실시간 보도 번역: The tournament starts on Wednesday and concludes on 6 October."
+            "en": "&quot;Ms Campbell was not involved in, and did not know of, that conduct,&quot; the three-person tribunal panel said.",
+            "ko": "실시간 보도 번역: &quot;Ms Campbell was not involved in, and did not know of, that conduct,&quot; the three-person tribunal panel said."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Sinner ruled out of China Open with knee injury",
+      "글로벌 최신 소식: Naomi Campbell wins appeal over charity ban",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3297,16 +3432,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Sinner ruled out of China Open with knee injury",
+          "Naomi Campbell wins appeal over charity ban",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_880130186427499271",
@@ -3935,87 +4068,6 @@ const READPULSE_ARTICLES = [
     "speaker": "BBC Arts",
     "date": "2026-09-25",
     "addedAt": "2026-09-27T03:15:58Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 164,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026Ed Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026Ed Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026Ed Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area."
-          }
-        ]
-      },
-      {
-        "en": "The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour.",
-            "ko": "실시간 보도 번역: The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour."
-          }
-        ]
-      },
-      {
-        "en": "The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage. Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage.",
-            "ko": "실시간 보도 번역: The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage."
-          },
-          {
-            "en": "Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal.",
-            "ko": "실시간 보도 번역: Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal."
-          }
-        ]
-      },
-      {
-        "en": "A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium.&quot;",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium.",
-            "ko": "실시간 보도 번역: A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Ed Sheeran's next US concerts cancelled due to storm warning",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Ed Sheeran's next US concerts cancelled due to storm warning",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_3852417076783322173",
-    "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
-    "subtitle": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after  severe weather warnings....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-25",
-    "addedAt": "2026-09-26T15:36:27Z",
     "category": "culture",
     "isLive": true,
     "level": "B2",
