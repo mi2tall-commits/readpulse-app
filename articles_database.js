@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_8665839793553182867",
+    "title": "Tiny image sparks big backlash in Nikon photo contest",
+    "subtitle": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest....",
+    "speaker": "BBC Technology",
+    "date": "2026-09-30",
+    "addedAt": "2026-10-01T03:44:40Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 113,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechTiny image sparks big backlash in Nikon photo contestTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechTiny image sparks big backlash in Nikon photo contestTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechTiny image sparks big backlash in Nikon photo contestTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "Watch: The competition&#x27;s winner and runners up. Nikon is investigating whether the winning video (shown left) was altered with AI",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Watch: The competition&#x27;s winner and runners up.",
+            "ko": "실시간 보도 번역: Watch: The competition&#x27;s winner and runners up."
+          }
+        ]
+      },
+      {
+        "en": "Technology &amp; AI editorPublished4 hours agoThe winning entry of a prestigious scientific photography competition is being re-evaluated following criticism from other scientists that it was made with AI.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Technology &amp; AI editorPublished4 hours agoThe winning entry of a prestigious scientific photography competition is being re-evaluated following criticism from other scientists that it was made with AI.",
+            "ko": "실시간 보도 번역: Technology &amp; AI editorPublished4 hours agoThe winning entry of a prestigious scientific photography competition is being re-evaluated following criticism from other scientists that it was made with AI."
+          }
+        ]
+      },
+      {
+        "en": "Nikon&#x27;s annual Small World In Motion contest accepts photos and video taken using powerful microscopes, and has run annually for the last 15 years.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Nikon&#x27;s annual Small World In Motion contest accepts photos and video taken using powerful microscopes, and has run annually for the last 15 years.",
+            "ko": "실시간 보도 번역: Nikon&#x27;s annual Small World In Motion contest accepts photos and video taken using powerful microscopes, and has run annually for the last 15 years."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Tiny image sparks big backlash in Nikon photo contest",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Tiny image sparks big backlash in Nikon photo contest",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_6743179341251874037",
     "title": "Regulating AI 'not the right place to start' says Bailey",
     "subtitle": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says....",
@@ -706,66 +783,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_2941743107005717532",
-    "title": "OpenAI bots meddled with multiple US government agency sites",
-    "subtitle": "OpenAI said its bots access public data from the US Census and the Securities and Exchange Commission, which looks over US stocks ...",
-    "speaker": "BBC Technology",
-    "date": "2026-09-26",
-    "addedAt": "2026-09-26T03:09:06Z",
-    "category": "tech",
+    "id": "auto_science_3956405604085412644",
+    "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+    "subtitle": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain....",
+    "speaker": "BBC Science",
+    "date": "2026-09-30",
+    "addedAt": "2026-10-01T03:44:40Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 119,
+    "wordCount": 118,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the center of new concerns over uncontrolled AI activity.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaTrekkers helicoptered off mountains as more deadly landslides hit Nepal To play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the center of new concerns over uncontrolled AI activity.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the center of new concerns over uncontrolled AI activity."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaTrekkers helicoptered off mountains as more deadly landslides hit Nepal To play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaTrekkers helicoptered off mountains as more deadly landslides hit Nepal To play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
+        "en": "Watch: Moment a government building collapses into a river in Nepal during floods",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
-            "ko": "실시간 보도 번역: OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly."
+            "en": "Watch: Moment a government building collapses into a river in Nepal during floods",
+            "ko": "실시간 보도 번역: Watch: Moment a government building collapses into a river in Nepal during floods"
           }
         ]
       },
       {
-        "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the SEC, Census Bureau and Education Department, the company said.",
+        "en": "Another wave of landslides and heavy rain has killed about 30 people in Nepal, as the Himalayan nation reels from August&#x27;s catastrophic flooding that left 1,400 dead and thousands more missing.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the SEC, Census Bureau and Education Department, the company said.",
-            "ko": "실시간 보도 번역: AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the SEC, Census Bureau and Education Department, the company said."
+            "en": "Another wave of landslides and heavy rain has killed about 30 people in Nepal, as the Himalayan nation reels from August&#x27;s catastrophic flooding that left 1,400 dead and thousands more missing.",
+            "ko": "실시간 보도 번역: Another wave of landslides and heavy rain has killed about 30 people in Nepal, as the Himalayan nation reels from August&#x27;s catastrophic flooding that left 1,400 dead and thousands more missing."
           }
         ]
       },
       {
-        "en": "The disclosures come just days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme, Medicare.",
+        "en": "The national disaster management authority says more than 1,900 families have been affected since late last week with more than 240 homes damaged. Roads, buildings and bridges have been swept away.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The disclosures come just days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme, Medicare.",
-            "ko": "실시간 보도 번역: The disclosures come just days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme, Medicare."
+            "en": "The national disaster management authority says more than 1,900 families have been affected since late last week with more than 240 homes damaged.",
+            "ko": "실시간 보도 번역: The national disaster management authority says more than 1,900 families have been affected since late last week with more than 240 homes damaged."
+          },
+          {
+            "en": "Roads, buildings and bridges have been swept away.",
+            "ko": "실시간 보도 번역: Roads, buildings and bridges have been swept away."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI bots meddled with multiple US government agency sites",
+      "글로벌 최신 소식: Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -773,7 +854,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI bots meddled with multiple US government agency sites",
+          "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1644,66 +1725,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_6262575195270397722",
-    "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-    "subtitle": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance....",
-    "speaker": "BBC Science",
-    "date": "2026-09-25",
-    "addedAt": "2026-09-26T03:09:06Z",
-    "category": "science",
+    "id": "auto_economy_1248890776501276836",
+    "title": "Vape prices to rise as new tax takes effect",
+    "subtitle": "Vaping is about to becoming more expensive due to a new tax on products....",
+    "speaker": "BBC Business",
+    "date": "2026-09-30",
+    "addedAt": "2026-10-01T03:44:41Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 110,
+    "wordCount": 151,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaThe treasured &#x27;eternal snow&#x27; on this tropical island is about to disappear foreverImage source, Project Pressure/Klaus TymannImage caption, Only small patches of snow remain on Papua&#x27;s Sudirman Range",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVape prices to rise as new tax takes effectImage source, Getty ImagesImage caption, The government is trying to make vaping more expensive and less appealing to young people",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaThe treasured &#x27;eternal snow&#x27; on this tropical island is about to disappear foreverImage source, Project Pressure/Klaus TymannImage caption, Only small patches of snow remain on Papua&#x27;s Sudirman Range",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaThe treasured &#x27;eternal snow&#x27; on this tropical island is about to disappear foreverImage source, Project Pressure/Klaus TymannImage caption, Only small patches of snow remain on Papua&#x27;s Sudirman Range"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVape prices to rise as new tax takes effectImage source, Getty ImagesImage caption, The government is trying to make vaping more expensive and less appealing to young people",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVape prices to rise as new tax takes effectImage source, Getty ImagesImage caption, The government is trying to make vaping more expensive and less appealing to young people"
           }
         ]
       },
       {
-        "en": "The mountains of Papua are not far from the equator, but they&#x27;ve been topped with &quot;eternal snow&quot; for centuries.",
+        "en": "The price of vapes is set to rise as a new tax comes into effect, with the aim of making vaping less attractive to children and young people.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The mountains of Papua are not far from the equator, but they&#x27;ve been topped with &quot;eternal snow&quot; for centuries.",
-            "ko": "실시간 보도 번역: The mountains of Papua are not far from the equator, but they&#x27;ve been topped with &quot;eternal snow&quot; for centuries."
+            "en": "The price of vapes is set to rise as a new tax comes into effect, with the aim of making vaping less attractive to children and young people.",
+            "ko": "실시간 보도 번역: The price of vapes is set to rise as a new tax comes into effect, with the aim of making vaping less attractive to children and young people."
           }
         ]
       },
       {
-        "en": "The peaks in this Indonesian region on the world&#x27;s second-largest island, just north of Australia, have offered scientists countless insights into the Earth&#x27;s climate history.",
+        "en": "The Vaping Product Duty will be imposed at a rate of £2.20 per 10ml of e-liquid. However, many customers will not see a jump in prices immediately, as sellers have six months to sell old stock at the pre-duty price.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The peaks in this Indonesian region on the world&#x27;s second-largest island, just north of Australia, have offered scientists countless insights into the Earth&#x27;s climate history.",
-            "ko": "실시간 보도 번역: The peaks in this Indonesian region on the world&#x27;s second-largest island, just north of Australia, have offered scientists countless insights into the Earth&#x27;s climate history."
+            "en": "The Vaping Product Duty will be imposed at a rate of £2.",
+            "ko": "실시간 보도 번역: The Vaping Product Duty will be imposed at a rate of £2."
+          },
+          {
+            "en": "20 per 10ml of e-liquid.",
+            "ko": "실시간 보도 번역: 20 per 10ml of e-liquid."
+          },
+          {
+            "en": "However, many customers will not see a jump in prices immediately, as sellers have six months to sell old stock at the pre-duty price.",
+            "ko": "실시간 보도 번역: However, many customers will not see a jump in prices immediately, as sellers have six months to sell old stock at the pre-duty price."
           }
         ]
       },
       {
-        "en": "They&#x27;re also the epicentre of the spiritual universe for many Papuans - a Mecca or a Vatican, as one activist puts it.",
+        "en": "The government wants to reduce the appeal of vapes by making them more expensive, as more evidence of its adverse effect on health comes out, particularly on children and young people.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "They&#x27;re also the epicentre of the spiritual universe for many Papuans - a Mecca or a Vatican, as one activist puts it.",
-            "ko": "실시간 보도 번역: They&#x27;re also the epicentre of the spiritual universe for many Papuans - a Mecca or a Vatican, as one activist puts it."
+            "en": "The government wants to reduce the appeal of vapes by making them more expensive, as more evidence of its adverse effect on health comes out, particularly on children and young people.",
+            "ko": "실시간 보도 번역: The government wants to reduce the appeal of vapes by making them more expensive, as more evidence of its adverse effect on health comes out, particularly on children and young people."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "글로벌 최신 소식: Vape prices to rise as new tax takes effect",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1711,7 +1800,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+          "Vape prices to rise as new tax takes effect",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2422,82 +2511,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_2886256864205554169",
-    "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
-    "subtitle": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments....",
-    "speaker": "BBC Business",
-    "date": "2026-09-25",
-    "addedAt": "2026-09-26T03:09:06Z",
-    "category": "economy",
+    "id": "auto_sports_6288245560739320068",
+    "title": "Djokovic wins first match since Wimbledon at China Open",
+    "subtitle": "Novak Djokovic beats Nuno Borges at the China Open to secure his first win since reaching the Wimbledon semi-finals in July....",
+    "speaker": "BBC Tennis",
+    "date": "2026-09-30",
+    "addedAt": "2026-10-01T03:44:41Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 143,
+    "wordCount": 134,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessSir David Beckham nets £38.5m after World Cup ad dealsImage source, Getty ImagesByArchie MitchellBusiness reporterPublished25 September 2026Sir David Beckham has netted a £38.5m payout from his sports, fashion, and media business after the 2026 Men&#x27;s Football World Cup helped it bring in record profits.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic wins first match since Wimbledon at China OpenTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessSir David Beckham nets £38.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessSir David Beckham nets £38."
-          },
-          {
-            "en": "5m after World Cup ad dealsImage source, Getty ImagesByArchie MitchellBusiness reporterPublished25 September 2026Sir David Beckham has netted a £38.",
-            "ko": "실시간 보도 번역: 5m after World Cup ad dealsImage source, Getty ImagesByArchie MitchellBusiness reporterPublished25 September 2026Sir David Beckham has netted a £38."
-          },
-          {
-            "en": "5m payout from his sports, fashion, and media business after the 2026 Men&#x27;s Football World Cup helped it bring in record profits.",
-            "ko": "실시간 보도 번역: 5m payout from his sports, fashion, and media business after the 2026 Men&#x27;s Football World Cup helped it bring in record profits."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic wins first match since Wimbledon at China OpenTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic wins first match since Wimbledon at China OpenTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "The former England star&#x27;s DRJB Holdings, which includes the Beckham brand, reported an almost £50m profit in 2025, a 46% jump compared to a year earlier. Sales rose from £72.2m to £84m.",
+        "en": "Djokovic beats Borges at the China Open for first win since Wimbledon",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The former England star&#x27;s DRJB Holdings, which includes the Beckham brand, reported an almost £50m profit in 2025, a 46% jump compared to a year earlier.",
-            "ko": "실시간 보도 번역: The former England star&#x27;s DRJB Holdings, which includes the Beckham brand, reported an almost £50m profit in 2025, a 46% jump compared to a year earlier."
-          },
-          {
-            "en": "Sales rose from £72.",
-            "ko": "실시간 보도 번역: Sales rose from £72."
-          },
-          {
-            "en": "2m to £84m.",
-            "ko": "실시간 보도 번역: 2m to £84m."
+            "en": "Djokovic beats Borges at the China Open for first win since Wimbledon",
+            "ko": "실시간 보도 번역: Djokovic beats Borges at the China Open for first win since Wimbledon"
           }
         ]
       },
       {
-        "en": "The rise was driven by a slew of advertising partnerships struck in the runup to the tournament, including with Bank of America, McDonald&#x27;s, Verizon, and PepsiCo Lay&#x27;s.",
+        "en": "Novak Djokovic maintained his remarkable unbeaten record at the China Open as he beat Nuno Borges to secure his first win since reaching the Wimbledon semi-finals in July.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The rise was driven by a slew of advertising partnerships struck in the runup to the tournament, including with Bank of America, McDonald&#x27;s, Verizon, and PepsiCo Lay&#x27;s.",
-            "ko": "실시간 보도 번역: The rise was driven by a slew of advertising partnerships struck in the runup to the tournament, including with Bank of America, McDonald&#x27;s, Verizon, and PepsiCo Lay&#x27;s."
+            "en": "Novak Djokovic maintained his remarkable unbeaten record at the China Open as he beat Nuno Borges to secure his first win since reaching the Wimbledon semi-finals in July.",
+            "ko": "실시간 보도 번역: Novak Djokovic maintained his remarkable unbeaten record at the China Open as he beat Nuno Borges to secure his first win since reaching the Wimbledon semi-finals in July."
           }
         ]
       },
       {
-        "en": "Sir David, Britain&#x27;s first billionaire sportsman, was commonly seen in adverts during the summer&#x27;s World Cup.",
+        "en": "The 39-year-old former world number one struggled in the second set but came through to win 6-3 7-6 (7-2) for his 30th consecutive victory in Beijing, albeit in his first appearance at the event since 2015.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Sir David, Britain&#x27;s first billionaire sportsman, was commonly seen in adverts during the summer&#x27;s World Cup.",
-            "ko": "실시간 보도 번역: Sir David, Britain&#x27;s first billionaire sportsman, was commonly seen in adverts during the summer&#x27;s World Cup."
+            "en": "The 39-year-old former world number one struggled in the second set but came through to win 6-3 7-6 (7-2) for his 30th consecutive victory in Beijing, albeit in his first appearance at the event since 2015.",
+            "ko": "실시간 보도 번역: The 39-year-old former world number one struggled in the second set but came through to win 6-3 7-6 (7-2) for his 30th consecutive victory in Beijing, albeit in his first appearance at the event since 2015."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Sir David Beckham nets £38.5m after World Cup ad deals",
+      "글로벌 최신 소식: Djokovic wins first match since Wimbledon at China Open",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2505,14 +2578,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Sir David Beckham nets £38.5m after World Cup ad deals",
+          "Djokovic wins first match since Wimbledon at China Open",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_421291300298577141",
@@ -3234,70 +3309,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_5837923560306934476",
-    "title": "Sinner ruled out of China Open with knee injury",
-    "subtitle": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee problem....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-25",
-    "addedAt": "2026-09-26T03:09:07Z",
-    "category": "sports",
+    "id": "auto_culture_880130186427499271",
+    "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
+    "subtitle": "Rantzen, who fronted the BBC's That's Life for two decades, went on to found Childline, and in recent years had been a campaigner ...",
+    "speaker": "BBC Arts",
+    "date": "2026-09-30",
+    "addedAt": "2026-10-01T03:44:43Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 129,
+    "wordCount": 90,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSinner ruled out of China Open with knee injuryImage source, Getty ImagesImage caption, Jannik Sinner retained his men&#x27;s singles Wimbledon title earlier this year",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatVeteran broadcaster Dame Esther Rantzen dies aged 86To play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSinner ruled out of China Open with knee injuryImage source, Getty ImagesImage caption, Jannik Sinner retained his men&#x27;s singles Wimbledon title earlier this year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSinner ruled out of China Open with knee injuryImage source, Getty ImagesImage caption, Jannik Sinner retained his men&#x27;s singles Wimbledon title earlier this year"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatVeteran broadcaster Dame Esther Rantzen dies aged 86To play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatVeteran broadcaster Dame Esther Rantzen dies aged 86To play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury.",
+        "en": "Watch: Dame Esther Rantzen, broadcaster, campaigner and charity founder, dies aged 86",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury.",
-            "ko": "실시간 보도 번역: World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury."
+            "en": "Watch: Dame Esther Rantzen, broadcaster, campaigner and charity founder, dies aged 86",
+            "ko": "실시간 보도 번역: Watch: Dame Esther Rantzen, broadcaster, campaigner and charity founder, dies aged 86"
           }
         ]
       },
       {
-        "en": "The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final.",
+        "en": "Dame Esther Rantzen, who presented BBC show That&#x27;s Life! for 21 years and launched the charity Childline, has died at the age of 86.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final.",
-            "ko": "실시간 보도 번역: The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final."
-          }
-        ]
-      },
-      {
-        "en": "Sinner, 25, won the China Open in 2023 and 2025. The tournament starts on Wednesday and concludes on 6 October.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Sinner, 25, won the China Open in 2023 and 2025.",
-            "ko": "실시간 보도 번역: Sinner, 25, won the China Open in 2023 and 2025."
+            "en": "Dame Esther Rantzen, who presented BBC show That&#x27;s Life!",
+            "ko": "실시간 보도 번역: Dame Esther Rantzen, who presented BBC show That&#x27;s Life!"
           },
           {
-            "en": "The tournament starts on Wednesday and concludes on 6 October.",
-            "ko": "실시간 보도 번역: The tournament starts on Wednesday and concludes on 6 October."
+            "en": "for 21 years and launched the charity Childline, has died at the age of 86.",
+            "ko": "실시간 보도 번역: for 21 years and launched the charity Childline, has died at the age of 86."
+          }
+        ]
+      },
+      {
+        "en": "Prime Minister Andy Burnham said the veteran broadcaster and campaigner had &quot;changed countless lives&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Prime Minister Andy Burnham said the veteran broadcaster and campaigner had &quot;changed countless lives&quot;.",
+            "ko": "실시간 보도 번역: Prime Minister Andy Burnham said the veteran broadcaster and campaigner had &quot;changed countless lives&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Sinner ruled out of China Open with knee injury",
+      "글로벌 최신 소식: Veteran broadcaster Dame Esther Rantzen dies aged 86",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3305,16 +3380,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Sinner ruled out of China Open with knee injury",
+          "Veteran broadcaster Dame Esther Rantzen dies aged 86",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_8693015326702921696",
@@ -3943,87 +4016,6 @@ const READPULSE_ARTICLES = [
     "speaker": "BBC Arts",
     "date": "2026-09-25",
     "addedAt": "2026-09-26T15:36:27Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 164,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026Ed Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026Ed Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026Ed Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area."
-          }
-        ]
-      },
-      {
-        "en": "The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour.",
-            "ko": "실시간 보도 번역: The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour."
-          }
-        ]
-      },
-      {
-        "en": "The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage. Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage.",
-            "ko": "실시간 보도 번역: The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage."
-          },
-          {
-            "en": "Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal.",
-            "ko": "실시간 보도 번역: Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal."
-          }
-        ]
-      },
-      {
-        "en": "A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium.&quot;",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium.",
-            "ko": "실시간 보도 번역: A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Ed Sheeran's next US concerts cancelled due to storm warning",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Ed Sheeran's next US concerts cancelled due to storm warning",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_4296991374770998212",
-    "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
-    "subtitle": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after  severe weather warnings....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-25",
-    "addedAt": "2026-09-26T03:09:08Z",
     "category": "culture",
     "isLive": true,
     "level": "B2",
