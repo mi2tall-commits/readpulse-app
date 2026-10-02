@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_6118164324782888877",
+    "title": "OpenAI fires workers for mishandling 'sensitive information'",
+    "subtitle": "The former employees were investigated for sharing data with an outside AI evaluation group....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-02",
+    "addedAt": "2026-10-02T03:43:34Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 113,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOpenAI fires workers for mishandling &#x27;sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOpenAI fires workers for mishandling &#x27;sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOpenAI fires workers for mishandling &#x27;sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman"
+          }
+        ]
+      },
+      {
+        "en": "OpenAI has fired three researchers for allegedly mishandling information, including work that involved an external organisation that analyses artificial intelligence (AI) models.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "OpenAI has fired three researchers for allegedly mishandling information, including work that involved an external organisation that analyses artificial intelligence (AI) models.",
+            "ko": "실시간 보도 번역: OpenAI has fired three researchers for allegedly mishandling information, including work that involved an external organisation that analyses artificial intelligence (AI) models."
+          }
+        ]
+      },
+      {
+        "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
+            "ko": "실시간 보도 번역: &quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC."
+          }
+        ]
+      },
+      {
+        "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
+            "ko": "실시간 보도 번역: The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: OpenAI fires workers for mishandling 'sensitive information'",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "OpenAI fires workers for mishandling 'sensitive information'",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_8817155126974949906",
     "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
     "subtitle": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains....",
@@ -710,66 +787,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_8142164394993551034",
-    "title": "OpenAI bots meddled with multiple US government agency sites",
-    "subtitle": "OpenAI said its bots accessed public data from a range of institutions during test exercises....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-26",
-    "addedAt": "2026-09-27T03:15:56Z",
-    "category": "tech",
+    "id": "auto_science_67858417965553650",
+    "title": "Prince of Wales tells villagers 'holistic' approach is needed to tackle flooding",
+    "subtitle": "Prince William visits residents of Skenfrith, Monmouthshire, who have faced four floods in six years....",
+    "speaker": "BBC Science",
+    "date": "2026-10-01",
+    "addedAt": "2026-10-02T03:43:35Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 122,
+    "wordCount": 138,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsPrince of Wales tells villagers &#x27;holistic&#x27; approach is needed to tackle floodingImage source, PA MediaImage caption, The Prince of Wales meets local residents, Rob and Helen Wyatt, during a visit to the village of Skenfrith in Monmouthshire",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsPrince of Wales tells villagers &#x27;holistic&#x27; approach is needed to tackle floodingImage source, PA MediaImage caption, The Prince of Wales meets local residents, Rob and Helen Wyatt, during a visit to the village of Skenfrith in Monmouthshire",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsPrince of Wales tells villagers &#x27;holistic&#x27; approach is needed to tackle floodingImage source, PA MediaImage caption, The Prince of Wales meets local residents, Rob and Helen Wyatt, during a visit to the village of Skenfrith in Monmouthshire"
           }
         ]
       },
       {
-        "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
+        "en": "The Prince of Wales has said a &quot;holistic&quot; approach is needed to tackle severe flooding, as a small Welsh village prepares for the upcoming storm season.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
-            "ko": "실시간 보도 번역: OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly."
+            "en": "The Prince of Wales has said a &quot;holistic&quot; approach is needed to tackle severe flooding, as a small Welsh village prepares for the upcoming storm season.",
+            "ko": "실시간 보도 번역: The Prince of Wales has said a &quot;holistic&quot; approach is needed to tackle severe flooding, as a small Welsh village prepares for the upcoming storm season."
           }
         ]
       },
       {
-        "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
+        "en": "Residents in Skenfrith, Monmouthshire, have faced four major floods in the past six years.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
-            "ko": "실시간 보도 번역: AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said."
+            "en": "Residents in Skenfrith, Monmouthshire, have faced four major floods in the past six years.",
+            "ko": "실시간 보도 번역: Residents in Skenfrith, Monmouthshire, have faced four major floods in the past six years."
           }
         ]
       },
       {
-        "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
+        "en": "An extreme flood last winter had a devastating impact on the village, when the River Monnow burst its banks after Storm Claudia brought a month&#x27;s worth of rain in just 24 hours to parts of England and Wales.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
-            "ko": "실시간 보도 번역: The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme."
+            "en": "An extreme flood last winter had a devastating impact on the village, when the River Monnow burst its banks after Storm Claudia brought a month&#x27;s worth of rain in just 24 hours to parts of England and Wales.",
+            "ko": "실시간 보도 번역: An extreme flood last winter had a devastating impact on the village, when the River Monnow burst its banks after Storm Claudia brought a month&#x27;s worth of rain in just 24 hours to parts of England and Wales."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI bots meddled with multiple US government agency sites",
+      "글로벌 최신 소식: Prince of Wales tells villagers 'holistic' approach is needed to tackle flooding",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -777,7 +854,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI bots meddled with multiple US government agency sites",
+          "Prince of Wales tells villagers 'holistic' approach is needed to tackle flooding",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1704,70 +1781,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_4384629182148327104",
-    "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-    "subtitle": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm....",
-    "speaker": "BBC Science",
-    "date": "2026-09-26",
-    "addedAt": "2026-09-27T03:15:57Z",
-    "category": "science",
+    "id": "auto_economy_2516197572584190136",
+    "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+    "subtitle": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections....",
+    "speaker": "BBC Business",
+    "date": "2026-10-01",
+    "addedAt": "2026-10-02T03:43:35Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 134,
+    "wordCount": 171,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaNor&#x27;easter brings flooding as New York and New Jersey declare emergencyImage source, ReutersImage caption, Surf City, New Jersey, was among coastal communities flooded",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUS says Europe should ready fuel supplies as Trump threatens diesel banImage source, ShutterstockByOliver Smith, Senior business producer, Simon Jack, Business editor and Archie Mitchell, Business reporterPublished1 October 2026Donald Trump has said he may ask European countries to release some of their diesel reserves as he mulls a ban on US exports of the fuel amid a global shortage.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaNor&#x27;easter brings flooding as New York and New Jersey declare emergencyImage source, ReutersImage caption, Surf City, New Jersey, was among coastal communities flooded",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaNor&#x27;easter brings flooding as New York and New Jersey declare emergencyImage source, ReutersImage caption, Surf City, New Jersey, was among coastal communities flooded"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUS says Europe should ready fuel supplies as Trump threatens diesel banImage source, ShutterstockByOliver Smith, Senior business producer, Simon Jack, Business editor and Archie Mitchell, Business reporterPublished1 October 2026Donald Trump has said he may ask European countries to release some of their diesel reserves as he mulls a ban on US exports of the fuel amid a global shortage.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUS says Europe should ready fuel supplies as Trump threatens diesel banImage source, ShutterstockByOliver Smith, Senior business producer, Simon Jack, Business editor and Archie Mitchell, Business reporterPublished1 October 2026Donald Trump has said he may ask European countries to release some of their diesel reserves as he mulls a ban on US exports of the fuel amid a global shortage."
           }
         ]
       },
       {
-        "en": "Tens of millions of people across the north-eastern US are in the path of a powerful storm bringing coastal flooding, power cuts, travel chaos and cancelled stadium events.",
+        "en": "The comments followed his Treasury Secretary Scott Bessent urging for Europe to immediately ready and release such supplies. &quot;American farmers, truckers, and businesses should not be left carrying the burden&quot; as prices soar, he argued.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Tens of millions of people across the north-eastern US are in the path of a powerful storm bringing coastal flooding, power cuts, travel chaos and cancelled stadium events.",
-            "ko": "실시간 보도 번역: Tens of millions of people across the north-eastern US are in the path of a powerful storm bringing coastal flooding, power cuts, travel chaos and cancelled stadium events."
-          }
-        ]
-      },
-      {
-        "en": "The so-called nor&#x27;easter is bringing &quot;dangerous coastal flooding and beach conditions, strong winds and heavy rainfall&quot; to areas including New York City and Boston on Saturday, the US National Weather Service (NWS) said.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The so-called nor&#x27;easter is bringing &quot;dangerous coastal flooding and beach conditions, strong winds and heavy rainfall&quot; to areas including New York City and Boston on Saturday, the US National Weather Service (NWS) said.",
-            "ko": "실시간 보도 번역: The so-called nor&#x27;easter is bringing &quot;dangerous coastal flooding and beach conditions, strong winds and heavy rainfall&quot; to areas including New York City and Boston on Saturday, the US National Weather Service (NWS) said."
-          }
-        ]
-      },
-      {
-        "en": "States of emergency have been declared in New York and New Jersey, both of which faced a coastal deluge in some areas. Rain and strong winds are forecast from Virginia to Maine.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "States of emergency have been declared in New York and New Jersey, both of which faced a coastal deluge in some areas.",
-            "ko": "실시간 보도 번역: States of emergency have been declared in New York and New Jersey, both of which faced a coastal deluge in some areas."
+            "en": "The comments followed his Treasury Secretary Scott Bessent urging for Europe to immediately ready and release such supplies.",
+            "ko": "실시간 보도 번역: The comments followed his Treasury Secretary Scott Bessent urging for Europe to immediately ready and release such supplies."
           },
           {
-            "en": "Rain and strong winds are forecast from Virginia to Maine.",
-            "ko": "실시간 보도 번역: Rain and strong winds are forecast from Virginia to Maine."
+            "en": "&quot;American farmers, truckers, and businesses should not be left carrying the burden&quot; as prices soar, he argued.",
+            "ko": "실시간 보도 번역: &quot;American farmers, truckers, and businesses should not be left carrying the burden&quot; as prices soar, he argued."
+          }
+        ]
+      },
+      {
+        "en": "The US has threatened to restrict diesel exports amid surging costs due to the war in Iran. The issue is top of mind for US voters ahead of the crucial midterm elections.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The US has threatened to restrict diesel exports amid surging costs due to the war in Iran.",
+            "ko": "실시간 보도 번역: The US has threatened to restrict diesel exports amid surging costs due to the war in Iran."
+          },
+          {
+            "en": "The issue is top of mind for US voters ahead of the crucial midterm elections.",
+            "ko": "실시간 보도 번역: The issue is top of mind for US voters ahead of the crucial midterm elections."
+          }
+        ]
+      },
+      {
+        "en": "On Thursday, the UK held talks with European partners about the potential release of diesel reserves in response to any ban.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "On Thursday, the UK held talks with European partners about the potential release of diesel reserves in response to any ban.",
+            "ko": "실시간 보도 번역: On Thursday, the UK held talks with European partners about the potential release of diesel reserves in response to any ban."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "글로벌 최신 소식: US says Europe should ready fuel supplies as Trump threatens diesel ban",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1775,7 +1856,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Nor'easter brings flooding as New York and New Jersey declare emergency",
+          "US says Europe should ready fuel supplies as Trump threatens diesel ban",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2494,66 +2575,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_8142164394993551034",
-    "title": "OpenAI bots meddled with multiple US government agency sites",
-    "subtitle": "OpenAI said its bots accessed public data from a range of institutions during test exercises....",
-    "speaker": "BBC Business",
-    "date": "2026-09-26",
-    "addedAt": "2026-09-27T03:15:57Z",
-    "category": "economy",
+    "id": "auto_sports_6239796129199283051",
+    "title": "More top-level events to award equal prize money in 'major milestone'",
+    "subtitle": "The Women's Tennis Association confirms all its combined 1000 events will award equal prize money from 2027 in a \"major milestone\"...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-01",
+    "addedAt": "2026-10-02T03:43:35Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 122,
+    "wordCount": 141,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarMore elite-level events to award equal prize moneyImage source, Getty ImagesImage caption, The WTA was formed in 1973 and changed women&#x27;s tennis",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarMore elite-level events to award equal prize moneyImage source, Getty ImagesImage caption, The WTA was formed in 1973 and changed women&#x27;s tennis",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarMore elite-level events to award equal prize moneyImage source, Getty ImagesImage caption, The WTA was formed in 1973 and changed women&#x27;s tennis"
           }
         ]
       },
       {
-        "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
+        "en": "Men and women will receive equal prize money at all combined 1,000 events - the highest level of competition outside of the Grand Slams - from next year, the Women&#x27;s Tennis Association (WTA) has announced.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
-            "ko": "실시간 보도 번역: OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly."
+            "en": "Men and women will receive equal prize money at all combined 1,000 events - the highest level of competition outside of the Grand Slams - from next year, the Women&#x27;s Tennis Association (WTA) has announced.",
+            "ko": "실시간 보도 번역: Men and women will receive equal prize money at all combined 1,000 events - the highest level of competition outside of the Grand Slams - from next year, the Women&#x27;s Tennis Association (WTA) has announced."
           }
         ]
       },
       {
-        "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
+        "en": "Events at Indian Wells, California, Miami, Madrid and Beijing already met that commitment, as well as all four Grand Slams.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
-            "ko": "실시간 보도 번역: AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said."
+            "en": "Events at Indian Wells, California, Miami, Madrid and Beijing already met that commitment, as well as all four Grand Slams.",
+            "ko": "실시간 보도 번역: Events at Indian Wells, California, Miami, Madrid and Beijing already met that commitment, as well as all four Grand Slams."
           }
         ]
       },
       {
-        "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
+        "en": "However, the Italian Open, Canadian Open and Cincinnati Open will now also fall into line to meet a long-standing aim of the WTA, at events where men and women both feature.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
-            "ko": "실시간 보도 번역: The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme."
+            "en": "However, the Italian Open, Canadian Open and Cincinnati Open will now also fall into line to meet a long-standing aim of the WTA, at events where men and women both feature.",
+            "ko": "실시간 보도 번역: However, the Italian Open, Canadian Open and Cincinnati Open will now also fall into line to meet a long-standing aim of the WTA, at events where men and women both feature."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI bots meddled with multiple US government agency sites",
+      "글로벌 최신 소식: More top-level events to award equal prize money in 'major milestone'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2561,14 +2642,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI bots meddled with multiple US government agency sites",
+          "More top-level events to award equal prize money in 'major milestone'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_7644690335077065868",
@@ -3282,70 +3365,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_7688985143377356680",
-    "title": "Sinner ruled out of China Open with knee injury",
-    "subtitle": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee problem....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-25",
-    "addedAt": "2026-09-27T03:15:57Z",
-    "category": "sports",
+    "id": "auto_culture_681435795474822401",
+    "title": "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
+    "subtitle": "There is paranoia, confusion and a battle to survive among the celebrities as they fight for survival....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-01",
+    "addedAt": "2026-10-02T03:43:37Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 129,
+    "wordCount": 92,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSinner ruled out of China Open with knee injuryImage source, Getty ImagesImage caption, Jannik Sinner retained his men&#x27;s singles Wimbledon title earlier this year",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsChaos, coffins and &#x27;Claudiapatra&#x27; steal the show in Celebrity TraitorsTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSinner ruled out of China Open with knee injuryImage source, Getty ImagesImage caption, Jannik Sinner retained his men&#x27;s singles Wimbledon title earlier this year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSinner ruled out of China Open with knee injuryImage source, Getty ImagesImage caption, Jannik Sinner retained his men&#x27;s singles Wimbledon title earlier this year"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsChaos, coffins and &#x27;Claudiapatra&#x27; steal the show in Celebrity TraitorsTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsChaos, coffins and &#x27;Claudiapatra&#x27; steal the show in Celebrity TraitorsTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury.",
+        "en": "Watch: Celebrity Traitors series two kicks off with a wild curveball",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury.",
-            "ko": "실시간 보도 번역: World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee injury."
+            "en": "Watch: Celebrity Traitors series two kicks off with a wild curveball",
+            "ko": "실시간 보도 번역: Watch: Celebrity Traitors series two kicks off with a wild curveball"
           }
         ]
       },
       {
-        "en": "The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final.",
+        "en": "Spoiler warning: This article reveals details from the first episode of The Celebrity Traitors, series two.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final.",
-            "ko": "실시간 보도 번역: The same injury also ruled him out of the US Open in August, and the Italian has not played competitively since his victory over Alexander Zverev in the Wimbledon final."
+            "en": "Spoiler warning: This article reveals details from the first episode of The Celebrity Traitors, series two.",
+            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from the first episode of The Celebrity Traitors, series two."
           }
         ]
       },
       {
-        "en": "Sinner, 25, won the China Open in 2023 and 2025. The tournament starts on Wednesday and concludes on 6 October.",
+        "en": "One person in particular may have dominated much of this opening episode, but Claudia Winkleman&#x27;s gothic arrival still caused a stir.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Sinner, 25, won the China Open in 2023 and 2025.",
-            "ko": "실시간 보도 번역: Sinner, 25, won the China Open in 2023 and 2025."
-          },
-          {
-            "en": "The tournament starts on Wednesday and concludes on 6 October.",
-            "ko": "실시간 보도 번역: The tournament starts on Wednesday and concludes on 6 October."
+            "en": "One person in particular may have dominated much of this opening episode, but Claudia Winkleman&#x27;s gothic arrival still caused a stir.",
+            "ko": "실시간 보도 번역: One person in particular may have dominated much of this opening episode, but Claudia Winkleman&#x27;s gothic arrival still caused a stir."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Sinner ruled out of China Open with knee injury",
+      "글로벌 최신 소식: Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3353,16 +3432,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Sinner ruled out of China Open with knee injury",
+          "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_4516752548769144853",
@@ -4053,87 +4130,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_488582319094370624",
-    "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
-    "subtitle": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after  severe weather warnings....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-25",
-    "addedAt": "2026-09-27T03:15:58Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 164,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026Ed Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026Ed Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEd Sheeran&#x27;s next US concerts cancelled due to storm warningImage source, Getty ImagesByIan YoungsCulture reporterPublished25 September 2026Ed Sheeran&#x27;s concerts in Massachusetts on Friday and Saturday have been cancelled because of severe weather warnings in the area."
-          }
-        ]
-      },
-      {
-        "en": "The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour.",
-            "ko": "실시간 보도 번역: The singer had been scheduled to perform two shows at the Gillette Stadium in Foxborough, near Boston, as part of his current US tour."
-          }
-        ]
-      },
-      {
-        "en": "The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage. Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage.",
-            "ko": "실시간 보도 번역: The tour has been in the headlines because of a row over a decision to drop Sheeran&#x27;s support act Macklemore for making pro-Palestinian comments on stage."
-          },
-          {
-            "en": "Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal.",
-            "ko": "실시간 보도 번역: Stadium owners including the Gillette Stadium&#x27;s Robert Kraft lobbied for his removal."
-          }
-        ]
-      },
-      {
-        "en": "A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium.&quot;",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium.",
-            "ko": "실시간 보도 번역: A statement from the venue, external said: &quot;Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Ed Sheeran's next US concerts cancelled due to storm warning",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Ed Sheeran's next US concerts cancelled due to storm warning",
           "Historical retrospective",
           "Unrelated general weather"
         ],
