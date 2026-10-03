@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1664757760424578593",
+    "title": "OpenAI fires workers for 'mishandling sensitive information'",
+    "subtitle": "The former employees were investigated for sharing data with an outside AI evaluation group....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-02",
+    "addedAt": "2026-10-03T15:35:59Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 102,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman"
+          }
+        ]
+      },
+      {
+        "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
+            "ko": "실시간 보도 번역: OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models."
+          }
+        ]
+      },
+      {
+        "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
+            "ko": "실시간 보도 번역: &quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC."
+          }
+        ]
+      },
+      {
+        "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
+            "ko": "실시간 보도 번역: The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: OpenAI fires workers for 'mishandling sensitive information'",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "OpenAI fires workers for 'mishandling sensitive information'",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_4612970708120848559",
     "title": "OpenAI fires workers for 'mishandling sensitive information'",
     "subtitle": "The former employees were investigated for sharing data with an outside AI evaluation group....",
@@ -702,74 +779,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_302023046064049927",
-    "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
-    "subtitle": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-28",
-    "addedAt": "2026-09-28T19:08:12Z",
-    "category": "tech",
+    "id": "auto_science_2450974080697081995",
+    "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
+    "subtitle": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month....",
+    "speaker": "BBC Science",
+    "date": "2026-10-02",
+    "addedAt": "2026-10-03T15:35:59Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 114,
+    "wordCount": 130,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechApple ordered to pay $5.7bn after losing vibration tech patent suitImage source, Getty ImagesByLiv McMahonTechnology reporterPublished7 hours agoApple has been ordered to pay $5.7bn (£4.3bn) in damages after a US jury found it had used another firm&#x27;s tech without permission.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpCould El Niño mean there are no Atlantic hurricanes this year?Image source, GettyBySimon King Lead Weather PresenterPublished3 October 2026, 00:37 BSTFor the first time in more than 30 years, a hurricane has not formed in the Atlantic throughout September - normally the most active month for hurricane activity.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechApple ordered to pay $5.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechApple ordered to pay $5."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpCould El Niño mean there are no Atlantic hurricanes this year?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpCould El Niño mean there are no Atlantic hurricanes this year?"
           },
           {
-            "en": "7bn after losing vibration tech patent suitImage source, Getty ImagesByLiv McMahonTechnology reporterPublished7 hours agoApple has been ordered to pay $5.",
-            "ko": "실시간 보도 번역: 7bn after losing vibration tech patent suitImage source, Getty ImagesByLiv McMahonTechnology reporterPublished7 hours agoApple has been ordered to pay $5."
-          },
-          {
-            "en": "3bn) in damages after a US jury found it had used another firm&#x27;s tech without permission.",
-            "ko": "실시간 보도 번역: 3bn) in damages after a US jury found it had used another firm&#x27;s tech without permission."
+            "en": "Image source, GettyBySimon King Lead Weather PresenterPublished3 October 2026, 00:37 BSTFor the first time in more than 30 years, a hurricane has not formed in the Atlantic throughout September - normally the most active month for hurricane activity.",
+            "ko": "실시간 보도 번역: Image source, GettyBySimon King Lead Weather PresenterPublished3 October 2026, 00:37 BSTFor the first time in more than 30 years, a hurricane has not formed in the Atlantic throughout September - normally the most active month for hurricane activity."
           }
         ]
       },
       {
-        "en": "Audio firm Taction Technology claimed in 2021 that Apple had infringed two of its patents for haptics systems, which enable vibrations for actions such as receiving a message or pressing a button.",
+        "en": "With just two months left of the defined hurricane season, there is an increasing possibility that no hurricanes will develop at all.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Audio firm Taction Technology claimed in 2021 that Apple had infringed two of its patents for haptics systems, which enable vibrations for actions such as receiving a message or pressing a button.",
-            "ko": "실시간 보도 번역: Audio firm Taction Technology claimed in 2021 that Apple had infringed two of its patents for haptics systems, which enable vibrations for actions such as receiving a message or pressing a button."
+            "en": "With just two months left of the defined hurricane season, there is an increasing possibility that no hurricanes will develop at all.",
+            "ko": "실시간 보도 번역: With just two months left of the defined hurricane season, there is an increasing possibility that no hurricanes will develop at all."
           }
         ]
       },
       {
-        "en": "This tech is built into devices like the iPhone and Apple Watch.",
+        "en": "This would make the 2026 Atlantic hurricane season the only one in the satellite era without a hurricane.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "This tech is built into devices like the iPhone and Apple Watch.",
-            "ko": "실시간 보도 번역: This tech is built into devices like the iPhone and Apple Watch."
+            "en": "This would make the 2026 Atlantic hurricane season the only one in the satellite era without a hurricane.",
+            "ko": "실시간 보도 번역: This would make the 2026 Atlantic hurricane season the only one in the satellite era without a hurricane."
           }
         ]
       },
       {
-        "en": "Apple said it had not used Taction&#x27;s vibration tech and would appeal the verdict.",
+        "en": "The biggest reason for this is El Niño, which traditionally stifles activity in the Atlantic but brings a very active season in the eastern North Pacific.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Apple said it had not used Taction&#x27;s vibration tech and would appeal the verdict.",
-            "ko": "실시간 보도 번역: Apple said it had not used Taction&#x27;s vibration tech and would appeal the verdict."
+            "en": "The biggest reason for this is El Niño, which traditionally stifles activity in the Atlantic but brings a very active season in the eastern North Pacific.",
+            "ko": "실시간 보도 번역: The biggest reason for this is El Niño, which traditionally stifles activity in the Atlantic but brings a very active season in the eastern North Pacific."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+      "글로벌 최신 소식: Could El Niño mean there are no Atlantic hurricanes this year?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -777,7 +850,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+          "Could El Niño mean there are no Atlantic hurricanes this year?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1700,118 +1773,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_3919238737903292845",
-    "title": "Watch: Starship splashdown ends in fireball",
-    "subtitle": "The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes....",
-    "speaker": "BBC Science",
-    "date": "2026-09-28",
-    "addedAt": "2026-09-28T19:08:13Z",
-    "category": "science",
+    "id": "auto_economy_1046985634762940181",
+    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+    "subtitle": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports....",
+    "speaker": "BBC Business",
+    "date": "2026-10-03",
+    "addedAt": "2026-10-03T15:35:59Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 150,
+    "wordCount": 151,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Starship splashdown ends in fireball\",\"description\":\"The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pcx9mx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pcx9mx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pcx9mx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pcx9mx.jpg\"],\"uploadDate\":\"2026-09-28T16:28:10.599Z\",\"duration\":\"PT50S\"}Watch: Starship splashdown ends in fireballTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026 05:38 BSTThe G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema."
-          },
-          {
-            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Starship splashdown ends in fireball\",\"description\":\"The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes.",
-            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Starship splashdown ends in fireball\",\"description\":\"The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes."
-          },
-          {
-            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
-            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1920/galileo/p0pcx9mx.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pcx9mx."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1248/galileo/p0pcx9mx.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pcx9mx."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/688/galileo/p0pcx9mx.",
-            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pcx9mx."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/400/galileo/p0pcx9mx.",
-            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pcx9mx."
-          },
-          {
-            "en": "jpg\"],\"uploadDate\":\"2026-09-28T16:28:10.",
-            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-28T16:28:10."
-          },
-          {
-            "en": "599Z\",\"duration\":\"PT50S\"}Watch: Starship splashdown ends in fireballTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: 599Z\",\"duration\":\"PT50S\"}Watch: Starship splashdown ends in fireballTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026 05:38 BSTThe G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026 05:38 BSTThe G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket."
           }
         ]
       },
       {
-        "en": "CloseSpaceX&#x27;s Starship splashed down in the Pacific Ocean after completing about three hours of orbital flight. The mission was supposed to last 10 hours, but SpaceX announced it was ending early after 90 minutes. During the trip, the ship deployed 26 &quot;next generation&quot; Starlink V3 satellites, joining the existing constellation which deliver broadband internet on Earth.",
+        "en": "It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "CloseSpaceX&#x27;s Starship splashed down in the Pacific Ocean after completing about three hours of orbital flight.",
-            "ko": "실시간 보도 번역: CloseSpaceX&#x27;s Starship splashed down in the Pacific Ocean after completing about three hours of orbital flight."
-          },
-          {
-            "en": "The mission was supposed to last 10 hours, but SpaceX announced it was ending early after 90 minutes.",
-            "ko": "실시간 보도 번역: The mission was supposed to last 10 hours, but SpaceX announced it was ending early after 90 minutes."
-          },
-          {
-            "en": "During the trip, the ship deployed 26 &quot;next generation&quot; Starlink V3 satellites, joining the existing constellation which deliver broadband internet on Earth.",
-            "ko": "실시간 보도 번역: During the trip, the ship deployed 26 &quot;next generation&quot; Starlink V3 satellites, joining the existing constellation which deliver broadband internet on Earth."
+            "en": "It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement.",
+            "ko": "실시간 보도 번역: It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement."
           }
         ]
       },
       {
-        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSpaceXFollow SpaceX",
+        "en": "The group of advanced economies, including the US, said the move would begin immediately and would last for four months.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSpaceXFollow SpaceX",
-            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsSpaceXFollow SpaceX"
+            "en": "The group of advanced economies, including the US, said the move would begin immediately and would last for four months.",
+            "ko": "실시간 보도 번역: The group of advanced economies, including the US, said the move would begin immediately and would last for four months."
           }
         ]
       },
       {
-        "en": "close panelYou are now following\n    SpaceXUpdates from your News topics will appear in My News and in a collection on the News homepage.United StatesFollow United States",
+        "en": "Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "close panelYou are now following\n    SpaceXUpdates from your News topics will appear in My News and in a collection on the News homepage.",
-            "ko": "실시간 보도 번역: close panelYou are now following\n    SpaceXUpdates from your News topics will appear in My News and in a collection on the News homepage."
+            "en": "Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members.",
+            "ko": "실시간 보도 번역: Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Watch: Starship splashdown ends in fireball",
+      "글로벌 최신 소식: G7 to release millions of barrels of oil and diesel after Trump threat",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1819,7 +1840,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Watch: Starship splashdown ends in fireball",
+          "G7 to release millions of barrels of oil and diesel after Trump threat",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2546,70 +2567,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_1311566728953083570",
-    "title": "UK diesel price hits all-time high, RAC says",
-    "subtitle": "The US-Israel war with Iran has caused fuel prices to soar....",
-    "speaker": "BBC Business",
-    "date": "2026-09-28",
-    "addedAt": "2026-09-28T19:08:14Z",
-    "category": "economy",
+    "id": "auto_sports_4441336460739369151",
+    "title": "Sabalenka 'trying hard to be easier on myself'",
+    "subtitle": "Aryna Sabalenka says she is \"trying so hard to be easier on myself\" as she begins her China Open campaign with victory over Renata...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-02",
+    "addedAt": "2026-10-03T15:36:00Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 152,
+    "wordCount": 131,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUK diesel price hits all-time high, the RAC saysImage source, Getty ImagesByEmer Moreau, Business reporter and Theo Leggett, International Business CorrespondentPublished28 September 2026, 10:14 BSTUpdated 1 hour agoDiesel prices have hit an all-time high of 199.18p per litre, according to the RAC motoring organisation, as the war in the Middle East continues to push up the cost of fuel.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSabalenka &#x27;trying hard to be easier on myself&#x27;Image source, Getty ImagesImage caption, Aryna Sabalenka&#x27;s last title came at the Miami Open in March",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUK diesel price hits all-time high, the RAC saysImage source, Getty ImagesByEmer Moreau, Business reporter and Theo Leggett, International Business CorrespondentPublished28 September 2026, 10:14 BSTUpdated 1 hour agoDiesel prices have hit an all-time high of 199.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUK diesel price hits all-time high, the RAC saysImage source, Getty ImagesByEmer Moreau, Business reporter and Theo Leggett, International Business CorrespondentPublished28 September 2026, 10:14 BSTUpdated 1 hour agoDiesel prices have hit an all-time high of 199."
-          },
-          {
-            "en": "18p per litre, according to the RAC motoring organisation, as the war in the Middle East continues to push up the cost of fuel.",
-            "ko": "실시간 보도 번역: 18p per litre, according to the RAC motoring organisation, as the war in the Middle East continues to push up the cost of fuel."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSabalenka &#x27;trying hard to be easier on myself&#x27;Image source, Getty ImagesImage caption, Aryna Sabalenka&#x27;s last title came at the Miami Open in March",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSabalenka &#x27;trying hard to be easier on myself&#x27;Image source, Getty ImagesImage caption, Aryna Sabalenka&#x27;s last title came at the Miami Open in March"
           }
         ]
       },
       {
-        "en": "Petrol prices are also still rising, with a litre currently costing 174.13p.",
+        "en": "Aryna Sabalenka said she was &quot;trying so hard to be easier on myself&quot; as she began her China Open campaign with victory over Renata Zarazua.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Petrol prices are also still rising, with a litre currently costing 174.",
-            "ko": "실시간 보도 번역: Petrol prices are also still rising, with a litre currently costing 174."
+            "en": "Aryna Sabalenka said she was &quot;trying so hard to be easier on myself&quot; as she began her China Open campaign with victory over Renata Zarazua.",
+            "ko": "실시간 보도 번역: Aryna Sabalenka said she was &quot;trying so hard to be easier on myself&quot; as she began her China Open campaign with victory over Renata Zarazua."
           }
         ]
       },
       {
-        "en": "Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge.",
+        "en": "World number two Sabalenka hit 11 aces and did not face a break point in a 6-1 6-3 victory over the Mexican.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge.",
-            "ko": "실시간 보도 번역: Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge."
+            "en": "World number two Sabalenka hit 11 aces and did not face a break point in a 6-1 6-3 victory over the Mexican.",
+            "ko": "실시간 보도 번역: World number two Sabalenka hit 11 aces and did not face a break point in a 6-1 6-3 victory over the Mexican."
           }
         ]
       },
       {
-        "en": "The RAC said diesel prices had entered &quot;uncharted territory&quot; and served as a reminder of &quot;just how exposed the UK is to events occurring far away&quot;.",
+        "en": "The Belarusian needed just 63 minutes to win her first match since losing her world number one ranking and her US Open crown to Elena Rybakina in September.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The RAC said diesel prices had entered &quot;uncharted territory&quot; and served as a reminder of &quot;just how exposed the UK is to events occurring far away&quot;.",
-            "ko": "실시간 보도 번역: The RAC said diesel prices had entered &quot;uncharted territory&quot; and served as a reminder of &quot;just how exposed the UK is to events occurring far away&quot;."
+            "en": "The Belarusian needed just 63 minutes to win her first match since losing her world number one ranking and her US Open crown to Elena Rybakina in September.",
+            "ko": "실시간 보도 번역: The Belarusian needed just 63 minutes to win her first match since losing her world number one ranking and her US Open crown to Elena Rybakina in September."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: UK diesel price hits all-time high, RAC says",
+      "글로벌 최신 소식: Sabalenka 'trying hard to be easier on myself'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2617,14 +2634,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "UK diesel price hits all-time high, RAC says",
+          "Sabalenka 'trying hard to be easier on myself'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_3649172851299628535",
@@ -3338,66 +3357,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_3571920954453589246",
-    "title": "Zverev comeback leads Europe to Laver Cup victory",
-    "subtitle": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team E...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-27",
-    "addedAt": "2026-09-28T19:08:15Z",
-    "category": "sports",
+    "id": "auto_culture_6155858598932782603",
+    "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
+    "subtitle": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-03",
+    "addedAt": "2026-10-03T15:36:02Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 141,
+    "wordCount": 134,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTraitors claim their first victim as Richard E Grant tries to save his skinImage caption, Maya Jama is off to a strong start as a traitor, but Richard E Grant is in damage control mode",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTraitors claim their first victim as Richard E Grant tries to save his skinImage caption, Maya Jama is off to a strong start as a traitor, but Richard E Grant is in damage control mode",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTraitors claim their first victim as Richard E Grant tries to save his skinImage caption, Maya Jama is off to a strong start as a traitor, but Richard E Grant is in damage control mode"
           }
         ]
       },
       {
-        "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
+        "en": "Spoiler warning: This article reveals details from the second episode of The Celebrity Traitors, series two.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
-            "ko": "실시간 보도 번역: Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title."
+            "en": "Spoiler warning: This article reveals details from the second episode of The Celebrity Traitors, series two.",
+            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from the second episode of The Celebrity Traitors, series two."
           }
         ]
       },
       {
-        "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
+        "en": "A comedian, a journalist, an actor and a TV presenter walk into a church. But sadly, the punchline for one of them was becoming the first victim of this year&#x27;s Celebrity Traitors.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
-            "ko": "실시간 보도 번역: US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena."
+            "en": "A comedian, a journalist, an actor and a TV presenter walk into a church.",
+            "ko": "실시간 보도 번역: A comedian, a journalist, an actor and a TV presenter walk into a church."
+          },
+          {
+            "en": "But sadly, the punchline for one of them was becoming the first victim of this year&#x27;s Celebrity Traitors.",
+            "ko": "실시간 보도 번역: But sadly, the punchline for one of them was becoming the first victim of this year&#x27;s Celebrity Traitors."
           }
         ]
       },
       {
-        "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
+        "en": "As Friday&#x27;s episode got under way, a delicious new twist saw traitors Richard E Grant and Maya Jama invite James Acaster to join them in the turret, and simultaneously murder a fellow player.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
-            "ko": "실시간 보도 번역: After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph."
+            "en": "As Friday&#x27;s episode got under way, a delicious new twist saw traitors Richard E Grant and Maya Jama invite James Acaster to join them in the turret, and simultaneously murder a fellow player.",
+            "ko": "실시간 보도 번역: As Friday&#x27;s episode got under way, a delicious new twist saw traitors Richard E Grant and Maya Jama invite James Acaster to join them in the turret, and simultaneously murder a fellow player."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Zverev comeback leads Europe to Laver Cup victory",
+      "글로벌 최신 소식: Traitors claim their first victim as Richard E Grant tries to save his skin",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3405,16 +3428,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Zverev comeback leads Europe to Laver Cup victory",
+          "Traitors claim their first victim as Richard E Grant tries to save his skin",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_4255262952733347070",
@@ -4117,83 +4138,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Slipknot fans hit back after Marilyn Manson announced as support act for UK show",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_1516911751692025510",
-    "title": "Taylor Swift breaks record for most MTV VMAs as Madonna also wins",
-    "subtitle": "Swift took home the big award for video of the year on a night when the original Queen of Pop performed....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-28",
-    "addedAt": "2026-09-28T19:08:19Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 128,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTaylor Swift breaks record for most MTV VMAs as Madonna also winsTo play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTaylor Swift breaks record for most MTV VMAs as Madonna also winsTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTaylor Swift breaks record for most MTV VMAs as Madonna also winsTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Watch: Madonna and Taylor Swift and Lisa win big at the MTV VMAs",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Watch: Madonna and Taylor Swift and Lisa win big at the MTV VMAs",
-            "ko": "실시간 보도 번역: Watch: Madonna and Taylor Swift and Lisa win big at the MTV VMAs"
-          }
-        ]
-      },
-      {
-        "en": "Taylor Swift took home the video of the year award as she became the most successful artist in the history of the MTV Video Music Awards on Sunday.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Taylor Swift took home the video of the year award as she became the most successful artist in the history of the MTV Video Music Awards on Sunday.",
-            "ko": "실시간 보도 번역: Taylor Swift took home the video of the year award as she became the most successful artist in the history of the MTV Video Music Awards on Sunday."
-          }
-        ]
-      },
-      {
-        "en": "The singer went into the night tied with Beyoncé on 30 wins, and went on to score the night&#x27;s top award for the visuals for her track The Fate of Ophelia, taken from her 2025 album The Life of a Showgirl.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The singer went into the night tied with Beyoncé on 30 wins, and went on to score the night&#x27;s top award for the visuals for her track The Fate of Ophelia, taken from her 2025 album The Life of a Showgirl.",
-            "ko": "실시간 보도 번역: The singer went into the night tied with Beyoncé on 30 wins, and went on to score the night&#x27;s top award for the visuals for her track The Fate of Ophelia, taken from her 2025 album The Life of a Showgirl."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Taylor Swift breaks record for most MTV VMAs as Madonna also wins",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Taylor Swift breaks record for most MTV VMAs as Madonna also wins",
           "Historical retrospective",
           "Unrelated general weather"
         ],
