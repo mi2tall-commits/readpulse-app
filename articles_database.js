@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_4612970708120848559",
+    "title": "OpenAI fires workers for 'mishandling sensitive information'",
+    "subtitle": "The former employees were investigated for sharing data with an outside AI evaluation group....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-02",
+    "addedAt": "2026-10-03T03:28:42Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 102,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman"
+          }
+        ]
+      },
+      {
+        "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
+            "ko": "실시간 보도 번역: OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models."
+          }
+        ]
+      },
+      {
+        "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
+            "ko": "실시간 보도 번역: &quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC."
+          }
+        ]
+      },
+      {
+        "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
+            "ko": "실시간 보도 번역: The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: OpenAI fires workers for 'mishandling sensitive information'",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "OpenAI fires workers for 'mishandling sensitive information'",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_3763689454570054810",
     "title": "OpenAI fires workers for 'mishandling sensitive information'",
     "subtitle": "The former employees were investigated for sharing data with an outside AI evaluation group....",
@@ -710,66 +787,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1018369525601640670",
-    "title": "OpenAI bots meddled with multiple US government agency sites",
-    "subtitle": "OpenAI said its bots accessed public data from a range of institutions during test exercises....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-26",
-    "addedAt": "2026-09-28T03:12:52Z",
-    "category": "tech",
+    "id": "auto_science_6496497481454314956",
+    "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+    "subtitle": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend....",
+    "speaker": "BBC Science",
+    "date": "2026-10-02",
+    "addedAt": "2026-10-03T03:28:42Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 122,
+    "wordCount": 152,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaHawaii&#x27;s iconic 550-year-old Hōlei Sea Arch collapses Image source, NPS Photo/Janice WeiByGrace Eliza GoodwinPublished6 hours agoHawaii&#x27;s famous Hōlei Sea Arch, a 90-foot-tall (27.4m) lava rock structure that formed about 550 years ago, has collapsed into the Pacific Ocean.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI bots meddled with multiple US government agency sitesImage source, ReutersImage caption, OpenAI has been at the centre of new concerns over uncontrolled AI activity"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaHawaii&#x27;s iconic 550-year-old Hōlei Sea Arch collapses Image source, NPS Photo/Janice WeiByGrace Eliza GoodwinPublished6 hours agoHawaii&#x27;s famous Hōlei Sea Arch, a 90-foot-tall (27.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaHawaii&#x27;s iconic 550-year-old Hōlei Sea Arch collapses Image source, NPS Photo/Janice WeiByGrace Eliza GoodwinPublished6 hours agoHawaii&#x27;s famous Hōlei Sea Arch, a 90-foot-tall (27."
+          },
+          {
+            "en": "4m) lava rock structure that formed about 550 years ago, has collapsed into the Pacific Ocean.",
+            "ko": "실시간 보도 번역: 4m) lava rock structure that formed about 550 years ago, has collapsed into the Pacific Ocean."
           }
         ]
       },
       {
-        "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
+        "en": "The collapse&#x27;s exact time is not known. The arch was still projecting into the water from the coast of Volcanoes National Park on 23 September, but was gone by 27 September, the National Park Service (NPS) said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly.",
-            "ko": "실시간 보도 번역: OpenAI has acknowledged that it alerted &quot;dozens&quot; of global institutions that their websites may have been meddled with by its AI bots acting improperly."
+            "en": "The collapse&#x27;s exact time is not known.",
+            "ko": "실시간 보도 번역: The collapse&#x27;s exact time is not known."
+          },
+          {
+            "en": "The arch was still projecting into the water from the coast of Volcanoes National Park on 23 September, but was gone by 27 September, the National Park Service (NPS) said.",
+            "ko": "실시간 보도 번역: The arch was still projecting into the water from the coast of Volcanoes National Park on 23 September, but was gone by 27 September, the National Park Service (NPS) said."
           }
         ]
       },
       {
-        "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
+        "en": "&quot;The coastline flanking the sea arch has shown signs of instability for years,&quot; NPS, which warned in 2021 that the arch would eventually crumble, said in a statement.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said.",
-            "ko": "실시간 보도 번역: AI agents attempted to get information from &quot;governments, universities, public agencies, and other institutions&quot;, including the US Securities and Exchange Commission (SEC), Census Bureau and Education Department, the company said."
+            "en": "&quot;The coastline flanking the sea arch has shown signs of instability for years,&quot; NPS, which warned in 2021 that the arch would eventually crumble, said in a statement.",
+            "ko": "실시간 보도 번역: &quot;The coastline flanking the sea arch has shown signs of instability for years,&quot; NPS, which warned in 2021 that the arch would eventually crumble, said in a statement."
           }
         ]
       },
       {
-        "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
+        "en": "Located at the end of Chain of Craters Road on the island of Hawaii, also called &quot;the big island&quot;, the formation was a popular - and heavily photographed - tourist destination.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme.",
-            "ko": "실시간 보도 번역: The disclosures come days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme."
+            "en": "Located at the end of Chain of Craters Road on the island of Hawaii, also called &quot;the big island&quot;, the formation was a popular - and heavily photographed - tourist destination.",
+            "ko": "실시간 보도 번역: Located at the end of Chain of Craters Road on the island of Hawaii, also called &quot;the big island&quot;, the formation was a popular - and heavily photographed - tourist destination."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI bots meddled with multiple US government agency sites",
+      "글로벌 최신 소식: Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -777,7 +862,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI bots meddled with multiple US government agency sites",
+          "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1744,66 +1829,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_2073511618478430556",
-    "title": "Father and son crowned Sheep Dog World Trial champions",
-    "subtitle": "David and Jack Howells say they \"never in million years\" thought they would win the double....",
-    "speaker": "BBC Science",
-    "date": "2026-09-27",
-    "addedAt": "2026-09-28T03:12:52Z",
-    "category": "science",
+    "id": "auto_economy_3631166677204417128",
+    "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+    "subtitle": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports....",
+    "speaker": "BBC Business",
+    "date": "2026-10-02",
+    "addedAt": "2026-10-03T03:28:43Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 121,
+    "wordCount": 137,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFather and son crowned Sheep Dog World Trial championsImage source, Phil WilkinsonImage caption, David and Jack Howells returned home to celebrate their victory with their dogs",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release 100 million barrels of oil and diesel after Trump export ban threatImage source, ReutersImage caption, Emmanuel Macron chaired a meeting of G7 leaders to agree the release of fuel reserves",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFather and son crowned Sheep Dog World Trial championsImage source, Phil WilkinsonImage caption, David and Jack Howells returned home to celebrate their victory with their dogs",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFather and son crowned Sheep Dog World Trial championsImage source, Phil WilkinsonImage caption, David and Jack Howells returned home to celebrate their victory with their dogs"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release 100 million barrels of oil and diesel after Trump export ban threatImage source, ReutersImage caption, Emmanuel Macron chaired a meeting of G7 leaders to agree the release of fuel reserves",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release 100 million barrels of oil and diesel after Trump export ban threatImage source, ReutersImage caption, Emmanuel Macron chaired a meeting of G7 leaders to agree the release of fuel reserves"
           }
         ]
       },
       {
-        "en": "The first father and son to both be crowned champions at the Sheep Dog World Trial said they &quot;never in million years&quot; thought they would win the double.",
+        "en": "The G7 has agreed to release 100 million barrels of oil and diesel in a bid to ease supply pressures that have caused prices to skyrocket.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The first father and son to both be crowned champions at the Sheep Dog World Trial said they &quot;never in million years&quot; thought they would win the double.",
-            "ko": "실시간 보도 번역: The first father and son to both be crowned champions at the Sheep Dog World Trial said they &quot;never in million years&quot; thought they would win the double."
+            "en": "The G7 has agreed to release 100 million barrels of oil and diesel in a bid to ease supply pressures that have caused prices to skyrocket.",
+            "ko": "실시간 보도 번역: The G7 has agreed to release 100 million barrels of oil and diesel in a bid to ease supply pressures that have caused prices to skyrocket."
           }
         ]
       },
       {
-        "en": "Farmer David Howells and his son, Jack, 19, from Cymmer, Neath Port Talbot, travelled to the trials in Scotland last weekend.",
+        "en": "The group of advanced economies, including the US, said the move would include a &quot;substantial release&quot; of diesel in the coming days.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Farmer David Howells and his son, Jack, 19, from Cymmer, Neath Port Talbot, travelled to the trials in Scotland last weekend.",
-            "ko": "실시간 보도 번역: Farmer David Howells and his son, Jack, 19, from Cymmer, Neath Port Talbot, travelled to the trials in Scotland last weekend."
+            "en": "The group of advanced economies, including the US, said the move would include a &quot;substantial release&quot; of diesel in the coming days.",
+            "ko": "실시간 보도 번역: The group of advanced economies, including the US, said the move would include a &quot;substantial release&quot; of diesel in the coming days."
           }
         ]
       },
       {
-        "en": "David took the world title with his Border Collie dog, Wyverne Pip, in a field of about 300 competitors from 34 different countries.",
+        "en": "President Donald Trump had threatened to ban diesel exports in a move which would have eased pressure on prices for US consumers ahead of November&#x27;s midterm elections, but pushed up prices elsewhere.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "David took the world title with his Border Collie dog, Wyverne Pip, in a field of about 300 competitors from 34 different countries.",
-            "ko": "실시간 보도 번역: David took the world title with his Border Collie dog, Wyverne Pip, in a field of about 300 competitors from 34 different countries."
+            "en": "President Donald Trump had threatened to ban diesel exports in a move which would have eased pressure on prices for US consumers ahead of November&#x27;s midterm elections, but pushed up prices elsewhere.",
+            "ko": "실시간 보도 번역: President Donald Trump had threatened to ban diesel exports in a move which would have eased pressure on prices for US consumers ahead of November&#x27;s midterm elections, but pushed up prices elsewhere."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Father and son crowned Sheep Dog World Trial champions",
+      "글로벌 최신 소식: G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1811,7 +1896,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Father and son crowned Sheep Dog World Trial champions",
+          "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2542,66 +2627,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_8890857130511061623",
-    "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
-    "subtitle": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday....",
-    "speaker": "BBC Business",
-    "date": "2026-09-27",
-    "addedAt": "2026-09-28T03:12:53Z",
-    "category": "economy",
+    "id": "auto_sports_3649172851299628535",
+    "title": "Sabalenka 'trying hard to be easier on myself'",
+    "subtitle": "Aryna Sabalenka says she is \"trying so hard to be easier on myself\" as she begins her China Open campaign with victory over Renata...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-02",
+    "addedAt": "2026-10-03T03:28:43Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 143,
+    "wordCount": 131,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatHealey to promise &#x27;new age of industrialisation&#x27; for UK in conference speechImage source, PA MediaByBrian Wheeler, Political reporter and Iain Watson, Political correspondentPublished3 hours agoJohn Healey will promise &quot;a new age of industrialisation&quot; for the UK, when he delivers his first Labour conference speech as chancellor on Monday.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSabalenka &#x27;trying hard to be easier on myself&#x27;Image source, Getty ImagesImage caption, Aryna Sabalenka&#x27;s last title came at the Miami Open in March",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatHealey to promise &#x27;new age of industrialisation&#x27; for UK in conference speechImage source, PA MediaByBrian Wheeler, Political reporter and Iain Watson, Political correspondentPublished3 hours agoJohn Healey will promise &quot;a new age of industrialisation&quot; for the UK, when he delivers his first Labour conference speech as chancellor on Monday.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatHealey to promise &#x27;new age of industrialisation&#x27; for UK in conference speechImage source, PA MediaByBrian Wheeler, Political reporter and Iain Watson, Political correspondentPublished3 hours agoJohn Healey will promise &quot;a new age of industrialisation&quot; for the UK, when he delivers his first Labour conference speech as chancellor on Monday."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSabalenka &#x27;trying hard to be easier on myself&#x27;Image source, Getty ImagesImage caption, Aryna Sabalenka&#x27;s last title came at the Miami Open in March",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSabalenka &#x27;trying hard to be easier on myself&#x27;Image source, Getty ImagesImage caption, Aryna Sabalenka&#x27;s last title came at the Miami Open in March"
           }
         ]
       },
       {
-        "en": "Healey will tell delegates &quot;our coal mines are not coming back&quot;, but that Labour will remake Britain&#x27;s industrial past &quot;for the modern age&quot; by backing advanced manufacturing.",
+        "en": "Aryna Sabalenka said she was &quot;trying so hard to be easier on myself&quot; as she began her China Open campaign with victory over Renata Zarazua.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Healey will tell delegates &quot;our coal mines are not coming back&quot;, but that Labour will remake Britain&#x27;s industrial past &quot;for the modern age&quot; by backing advanced manufacturing.",
-            "ko": "실시간 보도 번역: Healey will tell delegates &quot;our coal mines are not coming back&quot;, but that Labour will remake Britain&#x27;s industrial past &quot;for the modern age&quot; by backing advanced manufacturing."
+            "en": "Aryna Sabalenka said she was &quot;trying so hard to be easier on myself&quot; as she began her China Open campaign with victory over Renata Zarazua.",
+            "ko": "실시간 보도 번역: Aryna Sabalenka said she was &quot;trying so hard to be easier on myself&quot; as she began her China Open campaign with victory over Renata Zarazua."
           }
         ]
       },
       {
-        "en": "He will also announce plans to boost Britain&#x27;s shipbuilding industry, with new orders for Royal Navy floating docks and a maritime research vessel.",
+        "en": "World number two Sabalenka hit 11 aces and did not face a break point in a 6-1 6-3 victory over the Mexican.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "He will also announce plans to boost Britain&#x27;s shipbuilding industry, with new orders for Royal Navy floating docks and a maritime research vessel.",
-            "ko": "실시간 보도 번역: He will also announce plans to boost Britain&#x27;s shipbuilding industry, with new orders for Royal Navy floating docks and a maritime research vessel."
+            "en": "World number two Sabalenka hit 11 aces and did not face a break point in a 6-1 6-3 victory over the Mexican.",
+            "ko": "실시간 보도 번역: World number two Sabalenka hit 11 aces and did not face a break point in a 6-1 6-3 victory over the Mexican."
           }
         ]
       },
       {
-        "en": "With just a month to go until his first Budget, the chancellor is under pressure to cut spending or raise taxes to tackle the ballooning cost of government borrowing.",
+        "en": "The Belarusian needed just 63 minutes to win her first match since losing her world number one ranking and her US Open crown to Elena Rybakina in September.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "With just a month to go until his first Budget, the chancellor is under pressure to cut spending or raise taxes to tackle the ballooning cost of government borrowing.",
-            "ko": "실시간 보도 번역: With just a month to go until his first Budget, the chancellor is under pressure to cut spending or raise taxes to tackle the ballooning cost of government borrowing."
+            "en": "The Belarusian needed just 63 minutes to win her first match since losing her world number one ranking and her US Open crown to Elena Rybakina in September.",
+            "ko": "실시간 보도 번역: The Belarusian needed just 63 minutes to win her first match since losing her world number one ranking and her US Open crown to Elena Rybakina in September."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Healey to promise 'new age of industrialisation' for UK in conference speech",
+      "글로벌 최신 소식: Sabalenka 'trying hard to be easier on myself'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2609,14 +2694,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Healey to promise 'new age of industrialisation' for UK in conference speech",
+          "Sabalenka 'trying hard to be easier on myself'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_6916145019714724225",
@@ -3330,66 +3417,78 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_4145440167963866726",
-    "title": "Zverev comeback leads Europe to Laver Cup victory",
-    "subtitle": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team E...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-27",
-    "addedAt": "2026-09-28T03:12:53Z",
-    "category": "sports",
+    "id": "auto_culture_4255262952733347070",
+    "title": "Alison Hammond has heart check-up in hospital after rushing off This Morning while on air",
+    "subtitle": "The host says she is \"fine\" but getting checked after leaving midway through Friday's This Morning....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-02",
+    "addedAt": "2026-10-03T03:28:45Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 141,
+    "wordCount": 156,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAlison Hammond has heart check-up in hospital after rushing off This Morning while on airImage source, Getty ImagesByPaul GlynnCulture reporterPublished2 October 2026Alison Hammond went to hospital for a heart check-up after leaving ITV&#x27;s This Morning midway through Friday&#x27;s show, but has assured followers she is &quot;fine&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAlison Hammond has heart check-up in hospital after rushing off This Morning while on airImage source, Getty ImagesByPaul GlynnCulture reporterPublished2 October 2026Alison Hammond went to hospital for a heart check-up after leaving ITV&#x27;s This Morning midway through Friday&#x27;s show, but has assured followers she is &quot;fine&quot;.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAlison Hammond has heart check-up in hospital after rushing off This Morning while on airImage source, Getty ImagesByPaul GlynnCulture reporterPublished2 October 2026Alison Hammond went to hospital for a heart check-up after leaving ITV&#x27;s This Morning midway through Friday&#x27;s show, but has assured followers she is &quot;fine&quot;."
           }
         ]
       },
       {
-        "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
+        "en": "The presenter, 51, left the programme during its live broadcast, appearing to clutch her chest as she was assisted off the set by co-host Dermot O&#x27;Leary. He later told viewers she was &quot;feeling a little unwell&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
-            "ko": "실시간 보도 번역: Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title."
+            "en": "The presenter, 51, left the programme during its live broadcast, appearing to clutch her chest as she was assisted off the set by co-host Dermot O&#x27;Leary.",
+            "ko": "실시간 보도 번역: The presenter, 51, left the programme during its live broadcast, appearing to clutch her chest as she was assisted off the set by co-host Dermot O&#x27;Leary."
+          },
+          {
+            "en": "He later told viewers she was &quot;feeling a little unwell&quot;.",
+            "ko": "실시간 보도 번역: He later told viewers she was &quot;feeling a little unwell&quot;."
           }
         ]
       },
       {
-        "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
+        "en": "In a video posted from a hospital bed, external on Friday afternoon, Hammond said she had &quot;a little bit of a palpitation&quot; during the show but was feeling OK and was undergoing tests.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
-            "ko": "실시간 보도 번역: US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena."
+            "en": "In a video posted from a hospital bed, external on Friday afternoon, Hammond said she had &quot;a little bit of a palpitation&quot; during the show but was feeling OK and was undergoing tests.",
+            "ko": "실시간 보도 번역: In a video posted from a hospital bed, external on Friday afternoon, Hammond said she had &quot;a little bit of a palpitation&quot; during the show but was feeling OK and was undergoing tests."
           }
         ]
       },
       {
-        "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
+        "en": "&quot;I know you&#x27;re all worried about me,&quot; she said. &quot;Honestly, I am fine. First of all, I&#x27;m getting my old ticker checked out.&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
-            "ko": "실시간 보도 번역: After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph."
+            "en": "&quot;I know you&#x27;re all worried about me,&quot; she said.",
+            "ko": "실시간 보도 번역: &quot;I know you&#x27;re all worried about me,&quot; she said."
+          },
+          {
+            "en": "&quot;Honestly, I am fine.",
+            "ko": "실시간 보도 번역: &quot;Honestly, I am fine."
+          },
+          {
+            "en": "First of all, I&#x27;m getting my old ticker checked out.",
+            "ko": "실시간 보도 번역: First of all, I&#x27;m getting my old ticker checked out."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Zverev comeback leads Europe to Laver Cup victory",
+      "글로벌 최신 소식: Alison Hammond has heart check-up in hospital after rushing off This Morning while on air",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3397,16 +3496,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Zverev comeback leads Europe to Laver Cup victory",
+          "Alison Hammond has heart check-up in hospital after rushing off This Morning while on air",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_7147254734733527795",
@@ -4097,83 +4194,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Taylor Swift breaks record for most MTV VMAs as Madonna also wins",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_5980706080930600088",
-    "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
-    "subtitle": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-26",
-    "addedAt": "2026-09-28T03:12:55Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 143,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsCelebrity Traitors 2 cast: Who are this year&#x27;s &#x27;big dogs&#x27; and dark horses?Image caption, The winning celeb will score £100,000 for their chosen charity",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsCelebrity Traitors 2 cast: Who are this year&#x27;s &#x27;big dogs&#x27; and dark horses?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsCelebrity Traitors 2 cast: Who are this year&#x27;s &#x27;big dogs&#x27; and dark horses?"
-          }
-        ]
-      },
-      {
-        "en": "Celebrity Traitors returns next week for a second round of deception and amateur detective work.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Celebrity Traitors returns next week for a second round of deception and amateur detective work.",
-            "ko": "실시간 보도 번역: Celebrity Traitors returns next week for a second round of deception and amateur detective work."
-          }
-        ]
-      },
-      {
-        "en": "Hosted by Claudia Winkleman, the Traitors castle will welcome 21 new celebrities on Thursday, as a group of famous &quot;faithfuls&quot; attempts to work out which among them are - and perhaps, always have been - &quot;traitors&quot;, secretly murdering contestants each night.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Hosted by Claudia Winkleman, the Traitors castle will welcome 21 new celebrities on Thursday, as a group of famous &quot;faithfuls&quot; attempts to work out which among them are - and perhaps, always have been - &quot;traitors&quot;, secretly murdering contestants each night.",
-            "ko": "실시간 보도 번역: Hosted by Claudia Winkleman, the Traitors castle will welcome 21 new celebrities on Thursday, as a group of famous &quot;faithfuls&quot; attempts to work out which among them are - and perhaps, always have been - &quot;traitors&quot;, secretly murdering contestants each night."
-          }
-        ]
-      },
-      {
-        "en": "Last year&#x27;s show provided Bafta&#x27;s most memorable TV moment - an award voted for by the British public - when traitor Alan Carr broke down in tears at the end of the final having bluffed his way to a win by hiding in plain sight.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Last year&#x27;s show provided Bafta&#x27;s most memorable TV moment - an award voted for by the British public - when traitor Alan Carr broke down in tears at the end of the final having bluffed his way to a win by hiding in plain sight.",
-            "ko": "실시간 보도 번역: Last year&#x27;s show provided Bafta&#x27;s most memorable TV moment - an award voted for by the British public - when traitor Alan Carr broke down in tears at the end of the final having bluffed his way to a win by hiding in plain sight."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
