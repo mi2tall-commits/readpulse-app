@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_7596467216583510890",
+    "title": "OpenAI fires workers for 'mishandling sensitive information'",
+    "subtitle": "The former employees were investigated for sharing data with an outside AI evaluation group....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-02",
+    "addedAt": "2026-10-04T03:56:07Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 102,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman"
+          }
+        ]
+      },
+      {
+        "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
+            "ko": "실시간 보도 번역: OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models."
+          }
+        ]
+      },
+      {
+        "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
+            "ko": "실시간 보도 번역: &quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC."
+          }
+        ]
+      },
+      {
+        "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
+            "ko": "실시간 보도 번역: The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: OpenAI fires workers for 'mishandling sensitive information'",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "OpenAI fires workers for 'mishandling sensitive information'",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1664757760424578593",
     "title": "OpenAI fires workers for 'mishandling sensitive information'",
     "subtitle": "The former employees were investigated for sharing data with an outside AI evaluation group....",
@@ -698,70 +775,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_3655673896530655723",
-    "title": "OpenAI scraps rollout of new model over safety concerns",
-    "subtitle": "The firm also issued an update on incidents in which its models accessed Australian government systems....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-29",
-    "addedAt": "2026-09-29T03:50:46Z",
-    "category": "tech",
+    "id": "auto_science_6300008419774255305",
+    "title": "I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
+    "subtitle": "Wildlife cameraman Dan Abbot is caught off guard by a humpback whale, a rare sight in Welsh waters....",
+    "speaker": "BBC Science",
+    "date": "2026-10-03",
+    "addedAt": "2026-10-04T03:56:08Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 130,
+    "wordCount": 129,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOpenAI scraps rollout of new model over safety concernsImage source, ReutersImage caption, OpenAI chief executive Sam Altman",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsI&#x27;m a wildlife cameraman but &#x27;special&#x27; rare sightings can still take me by surpriseImage source, Dan AbbotImage caption, Abbot has seen the humpback whale before, but never in this area",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOpenAI scraps rollout of new model over safety concernsImage source, ReutersImage caption, OpenAI chief executive Sam Altman",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOpenAI scraps rollout of new model over safety concernsImage source, ReutersImage caption, OpenAI chief executive Sam Altman"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsI&#x27;m a wildlife cameraman but &#x27;special&#x27; rare sightings can still take me by surpriseImage source, Dan AbbotImage caption, Abbot has seen the humpback whale before, but never in this area",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsI&#x27;m a wildlife cameraman but &#x27;special&#x27; rare sightings can still take me by surpriseImage source, Dan AbbotImage caption, Abbot has seen the humpback whale before, but never in this area"
           }
         ]
       },
       {
-        "en": "OpenAI will not release its new AI model - GPT-6.1 Astra - due to safety concerns, the ChatGPT-maker confirmed on Tuesday.",
+        "en": "A wildlife cinematographer and shark guide has spoken about the unexpected surprise and joy of seeing a humpback whale in the Celtic Deep just off the Welsh coast.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "OpenAI will not release its new AI model - GPT-6.",
-            "ko": "실시간 보도 번역: OpenAI will not release its new AI model - GPT-6."
-          },
-          {
-            "en": "1 Astra - due to safety concerns, the ChatGPT-maker confirmed on Tuesday.",
-            "ko": "실시간 보도 번역: 1 Astra - due to safety concerns, the ChatGPT-maker confirmed on Tuesday."
+            "en": "A wildlife cinematographer and shark guide has spoken about the unexpected surprise and joy of seeing a humpback whale in the Celtic Deep just off the Welsh coast.",
+            "ko": "실시간 보도 번역: A wildlife cinematographer and shark guide has spoken about the unexpected surprise and joy of seeing a humpback whale in the Celtic Deep just off the Welsh coast."
           }
         ]
       },
       {
-        "en": "The AI system - which performs tasks like browsing the web and using apps by itself - &quot;didn&#x27;t quite meet the bar&quot; of the company&#x27;s standards, Saachi Jain, head of safety systems at OpenAI, said.",
+        "en": "Dan Abbot, known as Sharkman Dan on his social media, shared a recording of the exciting moment just off the Pembrokeshire coast.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The AI system - which performs tasks like browsing the web and using apps by itself - &quot;didn&#x27;t quite meet the bar&quot; of the company&#x27;s standards, Saachi Jain, head of safety systems at OpenAI, said.",
-            "ko": "실시간 보도 번역: The AI system - which performs tasks like browsing the web and using apps by itself - &quot;didn&#x27;t quite meet the bar&quot; of the company&#x27;s standards, Saachi Jain, head of safety systems at OpenAI, said."
+            "en": "Dan Abbot, known as Sharkman Dan on his social media, shared a recording of the exciting moment just off the Pembrokeshire coast.",
+            "ko": "실시간 보도 번역: Dan Abbot, known as Sharkman Dan on his social media, shared a recording of the exciting moment just off the Pembrokeshire coast."
           }
         ]
       },
       {
-        "en": "On Tuesday, OpenAI also issued an update on incidents, that occurred in June but were not made public until last week, in which its models accessed Australian government websites and systems without authorisation.",
+        "en": "He has seen the large marine mammals before, on planned trips where humpback whale sightings are not as unusual, but this experience was &quot;a complete surprise&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "On Tuesday, OpenAI also issued an update on incidents, that occurred in June but were not made public until last week, in which its models accessed Australian government websites and systems without authorisation.",
-            "ko": "실시간 보도 번역: On Tuesday, OpenAI also issued an update on incidents, that occurred in June but were not made public until last week, in which its models accessed Australian government websites and systems without authorisation."
+            "en": "He has seen the large marine mammals before, on planned trips where humpback whale sightings are not as unusual, but this experience was &quot;a complete surprise&quot;.",
+            "ko": "실시간 보도 번역: He has seen the large marine mammals before, on planned trips where humpback whale sightings are not as unusual, but this experience was &quot;a complete surprise&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI scraps rollout of new model over safety concerns",
+      "글로벌 최신 소식: I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -769,7 +842,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI scraps rollout of new model over safety concerns",
+          "I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1644,118 +1717,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_6037432888566858668",
-    "title": "Watch: Starship splashdown ends in fireball",
-    "subtitle": "The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes....",
-    "speaker": "BBC Science",
-    "date": "2026-09-28",
-    "addedAt": "2026-09-29T03:50:47Z",
-    "category": "science",
+    "id": "auto_economy_8130989558551564020",
+    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+    "subtitle": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports....",
+    "speaker": "BBC Business",
+    "date": "2026-10-03",
+    "addedAt": "2026-10-04T03:56:08Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 150,
+    "wordCount": 149,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Starship splashdown ends in fireball\",\"description\":\"The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pcx9mx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pcx9mx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pcx9mx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pcx9mx.jpg\"],\"uploadDate\":\"2026-09-28T16:28:10.599Z\",\"duration\":\"PT50S\"}Watch: Starship splashdown ends in fireballTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026The G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema."
-          },
-          {
-            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Starship splashdown ends in fireball\",\"description\":\"The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes.",
-            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Starship splashdown ends in fireball\",\"description\":\"The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes."
-          },
-          {
-            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
-            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1920/galileo/p0pcx9mx.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pcx9mx."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1248/galileo/p0pcx9mx.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pcx9mx."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/688/galileo/p0pcx9mx.",
-            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pcx9mx."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/400/galileo/p0pcx9mx.",
-            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pcx9mx."
-          },
-          {
-            "en": "jpg\"],\"uploadDate\":\"2026-09-28T16:28:10.",
-            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-28T16:28:10."
-          },
-          {
-            "en": "599Z\",\"duration\":\"PT50S\"}Watch: Starship splashdown ends in fireballTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: 599Z\",\"duration\":\"PT50S\"}Watch: Starship splashdown ends in fireballTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026The G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026The G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket."
           }
         ]
       },
       {
-        "en": "CloseSpaceX&#x27;s Starship splashed down in the Pacific Ocean after completing about three hours of orbital flight. The mission was supposed to last 10 hours, but SpaceX announced it was ending early after 90 minutes. During the trip, the ship deployed 26 &quot;next generation&quot; Starlink V3 satellites, joining the existing constellation which deliver broadband internet on Earth.",
+        "en": "It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "CloseSpaceX&#x27;s Starship splashed down in the Pacific Ocean after completing about three hours of orbital flight.",
-            "ko": "실시간 보도 번역: CloseSpaceX&#x27;s Starship splashed down in the Pacific Ocean after completing about three hours of orbital flight."
-          },
-          {
-            "en": "The mission was supposed to last 10 hours, but SpaceX announced it was ending early after 90 minutes.",
-            "ko": "실시간 보도 번역: The mission was supposed to last 10 hours, but SpaceX announced it was ending early after 90 minutes."
-          },
-          {
-            "en": "During the trip, the ship deployed 26 &quot;next generation&quot; Starlink V3 satellites, joining the existing constellation which deliver broadband internet on Earth.",
-            "ko": "실시간 보도 번역: During the trip, the ship deployed 26 &quot;next generation&quot; Starlink V3 satellites, joining the existing constellation which deliver broadband internet on Earth."
+            "en": "It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement.",
+            "ko": "실시간 보도 번역: It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement."
           }
         ]
       },
       {
-        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSpaceXFollow SpaceX",
+        "en": "The group of advanced economies, including the US, said the move would begin immediately and would last for four months.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSpaceXFollow SpaceX",
-            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsSpaceXFollow SpaceX"
+            "en": "The group of advanced economies, including the US, said the move would begin immediately and would last for four months.",
+            "ko": "실시간 보도 번역: The group of advanced economies, including the US, said the move would begin immediately and would last for four months."
           }
         ]
       },
       {
-        "en": "close panelYou are now following\n    SpaceXUpdates from your News topics will appear in My News and in a collection on the News homepage.United StatesFollow United States",
+        "en": "Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "close panelYou are now following\n    SpaceXUpdates from your News topics will appear in My News and in a collection on the News homepage.",
-            "ko": "실시간 보도 번역: close panelYou are now following\n    SpaceXUpdates from your News topics will appear in My News and in a collection on the News homepage."
+            "en": "Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members.",
+            "ko": "실시간 보도 번역: Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Watch: Starship splashdown ends in fireball",
+      "글로벌 최신 소식: G7 to release millions of barrels of oil and diesel after Trump threat",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1763,7 +1784,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Watch: Starship splashdown ends in fireball",
+          "G7 to release millions of barrels of oil and diesel after Trump threat",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2490,66 +2511,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_8465869456047290259",
-    "title": "Burnham to unveil public body to invest in electricity grid",
-    "subtitle": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader....",
-    "speaker": "BBC Business",
-    "date": "2026-09-29",
-    "addedAt": "2026-09-29T03:50:47Z",
-    "category": "economy",
+    "id": "auto_sports_1101371470511187560",
+    "title": "Kartal wins again as Zverev sets up Djokovic tie",
+    "subtitle": "Great Britain's Sonay Kartal reaches last-32 at the China Open as Alexander Zverev sets up a quarter-final clash against Novak Djo...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-03",
+    "addedAt": "2026-10-04T03:56:08Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 156,
+    "wordCount": 149,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham to unveil public body to invest in electricity gridImage source, Jeff Overs/BBCByAlex Forsyth, Political correspondent, Reporting fromLiverpool, Paul Seddon and Jennifer McKiernanPublished29 September 2026, 00:35 BSTUpdated 3 hours agoAndy Burnham is expected to announce a new government body to invest in Britain&#x27;s electricity grid in his first party conference speech as Labour leader on Tuesday.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal wins again as Zverev sets up Djokovic tieImage source, ReutersImage caption, Sonay Kartal made the quarter-finals of the China Open in 2025",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham to unveil public body to invest in electricity gridImage source, Jeff Overs/BBCByAlex Forsyth, Political correspondent, Reporting fromLiverpool, Paul Seddon and Jennifer McKiernanPublished29 September 2026, 00:35 BSTUpdated 3 hours agoAndy Burnham is expected to announce a new government body to invest in Britain&#x27;s electricity grid in his first party conference speech as Labour leader on Tuesday.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham to unveil public body to invest in electricity gridImage source, Jeff Overs/BBCByAlex Forsyth, Political correspondent, Reporting fromLiverpool, Paul Seddon and Jennifer McKiernanPublished29 September 2026, 00:35 BSTUpdated 3 hours agoAndy Burnham is expected to announce a new government body to invest in Britain&#x27;s electricity grid in his first party conference speech as Labour leader on Tuesday."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal wins again as Zverev sets up Djokovic tieImage source, ReutersImage caption, Sonay Kartal made the quarter-finals of the China Open in 2025",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal wins again as Zverev sets up Djokovic tieImage source, ReutersImage caption, Sonay Kartal made the quarter-finals of the China Open in 2025"
           }
         ]
       },
       {
-        "en": "The prime minister will tell party activists in Liverpool that the new publicly owned company, branded Great British Grid, will speed up grid hook-ups by driving up competition for connection projects.",
+        "en": "Great Britain&#x27;s Sonay Kartal maintained her winning return to the WTA Tour with an impressive straight-set victory over home hope Wang Xinyu at the China Open.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The prime minister will tell party activists in Liverpool that the new publicly owned company, branded Great British Grid, will speed up grid hook-ups by driving up competition for connection projects.",
-            "ko": "실시간 보도 번역: The prime minister will tell party activists in Liverpool that the new publicly owned company, branded Great British Grid, will speed up grid hook-ups by driving up competition for connection projects."
+            "en": "Great Britain&#x27;s Sonay Kartal maintained her winning return to the WTA Tour with an impressive straight-set victory over home hope Wang Xinyu at the China Open.",
+            "ko": "실시간 보도 번역: Great Britain&#x27;s Sonay Kartal maintained her winning return to the WTA Tour with an impressive straight-set victory over home hope Wang Xinyu at the China Open."
           }
         ]
       },
       {
-        "en": "Burnham is expected to put the proposals at the heart of a new goal to bring UK energy costs in line with other nations in Europe within ten years.",
+        "en": "Kartal, 24, produced a dominant display to see off the Chinese 31st seed Wang 6-3 6-2 in only her second tour match after six months out with a back injury.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Burnham is expected to put the proposals at the heart of a new goal to bring UK energy costs in line with other nations in Europe within ten years.",
-            "ko": "실시간 보도 번역: Burnham is expected to put the proposals at the heart of a new goal to bring UK energy costs in line with other nations in Europe within ten years."
+            "en": "Kartal, 24, produced a dominant display to see off the Chinese 31st seed Wang 6-3 6-2 in only her second tour match after six months out with a back injury.",
+            "ko": "실시간 보도 번역: Kartal, 24, produced a dominant display to see off the Chinese 31st seed Wang 6-3 6-2 in only her second tour match after six months out with a back injury."
           }
         ]
       },
       {
-        "en": "He will promise to have an &quot;honest conversation&quot; with the public and take on the &quot;difficult issues&quot; that have been ignored for too long.",
+        "en": "She would have expected to face newly crowned world number one Elena Rybakina in the last 32 next, but the top seed from Kazakhstan fell to a shock three-set defeat by Armenian world number 118 Alina Charaeva.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "He will promise to have an &quot;honest conversation&quot; with the public and take on the &quot;difficult issues&quot; that have been ignored for too long.",
-            "ko": "실시간 보도 번역: He will promise to have an &quot;honest conversation&quot; with the public and take on the &quot;difficult issues&quot; that have been ignored for too long."
+            "en": "She would have expected to face newly crowned world number one Elena Rybakina in the last 32 next, but the top seed from Kazakhstan fell to a shock three-set defeat by Armenian world number 118 Alina Charaeva.",
+            "ko": "실시간 보도 번역: She would have expected to face newly crowned world number one Elena Rybakina in the last 32 next, but the top seed from Kazakhstan fell to a shock three-set defeat by Armenian world number 118 Alina Charaeva."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Burnham to unveil public body to invest in electricity grid",
+      "글로벌 최신 소식: Kartal wins again as Zverev sets up Djokovic tie",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2557,14 +2578,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Burnham to unveil public body to invest in electricity grid",
+          "Kartal wins again as Zverev sets up Djokovic tie",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_4441336460739369151",
@@ -3278,66 +3301,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_2056746024050472808",
-    "title": "Zverev comeback leads Europe to Laver Cup victory",
-    "subtitle": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team E...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-27",
-    "addedAt": "2026-09-29T03:50:47Z",
-    "category": "sports",
+    "id": "auto_culture_848395754765499685",
+    "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
+    "subtitle": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-03",
+    "addedAt": "2026-10-04T03:56:09Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 141,
+    "wordCount": 134,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTraitors claim their first victim as Richard E Grant tries to save his skinImage caption, Maya Jama is off to a strong start as a traitor, but Richard E Grant is in damage control mode",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTraitors claim their first victim as Richard E Grant tries to save his skinImage caption, Maya Jama is off to a strong start as a traitor, but Richard E Grant is in damage control mode",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTraitors claim their first victim as Richard E Grant tries to save his skinImage caption, Maya Jama is off to a strong start as a traitor, but Richard E Grant is in damage control mode"
           }
         ]
       },
       {
-        "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
+        "en": "Spoiler warning: This article reveals details from the second episode of The Celebrity Traitors, series two.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
-            "ko": "실시간 보도 번역: Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title."
+            "en": "Spoiler warning: This article reveals details from the second episode of The Celebrity Traitors, series two.",
+            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from the second episode of The Celebrity Traitors, series two."
           }
         ]
       },
       {
-        "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
+        "en": "A comedian, a journalist, an actor and a TV presenter walk into a church. But sadly, the punchline for one of them was becoming the first victim of this year&#x27;s Celebrity Traitors.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
-            "ko": "실시간 보도 번역: US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena."
+            "en": "A comedian, a journalist, an actor and a TV presenter walk into a church.",
+            "ko": "실시간 보도 번역: A comedian, a journalist, an actor and a TV presenter walk into a church."
+          },
+          {
+            "en": "But sadly, the punchline for one of them was becoming the first victim of this year&#x27;s Celebrity Traitors.",
+            "ko": "실시간 보도 번역: But sadly, the punchline for one of them was becoming the first victim of this year&#x27;s Celebrity Traitors."
           }
         ]
       },
       {
-        "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
+        "en": "As Friday&#x27;s episode got under way, a delicious new twist saw traitors Richard E Grant and Maya Jama invite James Acaster to join them in the turret, and simultaneously murder a fellow player.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
-            "ko": "실시간 보도 번역: After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph."
+            "en": "As Friday&#x27;s episode got under way, a delicious new twist saw traitors Richard E Grant and Maya Jama invite James Acaster to join them in the turret, and simultaneously murder a fellow player.",
+            "ko": "실시간 보도 번역: As Friday&#x27;s episode got under way, a delicious new twist saw traitors Richard E Grant and Maya Jama invite James Acaster to join them in the turret, and simultaneously murder a fellow player."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Zverev comeback leads Europe to Laver Cup victory",
+      "글로벌 최신 소식: Traitors claim their first victim as Richard E Grant tries to save his skin",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3345,16 +3372,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Zverev comeback leads Europe to Laver Cup victory",
+          "Traitors claim their first victim as Richard E Grant tries to save his skin",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_6155858598932782603",
@@ -4061,83 +4086,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "National museums to stay free for all visitors",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_3633555024578364491",
-    "title": "Slipknot fans hit back after Marilyn Manson announced as support act for UK show",
-    "subtitle": "The heavy metal band will be joined by the US rock musician during their London show....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-28",
-    "addedAt": "2026-09-29T03:50:48Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 134,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNewsbeatSlipknot fans hit back after Marilyn Manson announced as support act for UK show Image source, Jonathan Weiner/Live NationImage caption, The heavy metal band will be joined by the US rock musician during their London and some South American shows",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNewsbeatSlipknot fans hit back after Marilyn Manson announced as support act for UK show Image source, Jonathan Weiner/Live NationImage caption, The heavy metal band will be joined by the US rock musician during their London and some South American shows",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNewsbeatSlipknot fans hit back after Marilyn Manson announced as support act for UK show Image source, Jonathan Weiner/Live NationImage caption, The heavy metal band will be joined by the US rock musician during their London and some South American shows"
-          }
-        ]
-      },
-      {
-        "en": "Heavy metal band Slipknot have announced a new world tour, with Marilyn Manson due to appear as a support act.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Heavy metal band Slipknot have announced a new world tour, with Marilyn Manson due to appear as a support act.",
-            "ko": "실시간 보도 번역: Heavy metal band Slipknot have announced a new world tour, with Marilyn Manson due to appear as a support act."
-          }
-        ]
-      },
-      {
-        "en": "The eight-piece group, known for performing in masks, will be joined by the US rock musician during their shows at London&#x27;s Wembley Stadium and multiple dates of the South American leg of the tour.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The eight-piece group, known for performing in masks, will be joined by the US rock musician during their shows at London&#x27;s Wembley Stadium and multiple dates of the South American leg of the tour.",
-            "ko": "실시간 보도 번역: The eight-piece group, known for performing in masks, will be joined by the US rock musician during their shows at London&#x27;s Wembley Stadium and multiple dates of the South American leg of the tour."
-          }
-        ]
-      },
-      {
-        "en": "Some fans have reacted angrily to the news and said they will not attend the shows over past sexual abuse accusations against the 57-year-old.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Some fans have reacted angrily to the news and said they will not attend the shows over past sexual abuse accusations against the 57-year-old.",
-            "ko": "실시간 보도 번역: Some fans have reacted angrily to the news and said they will not attend the shows over past sexual abuse accusations against the 57-year-old."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Slipknot fans hit back after Marilyn Manson announced as support act for UK show",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Slipknot fans hit back after Marilyn Manson announced as support act for UK show",
           "Historical retrospective",
           "Unrelated general weather"
         ],
