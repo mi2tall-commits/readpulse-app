@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1701754024283624991",
+    "title": "OpenAI fires workers for 'mishandling sensitive information'",
+    "subtitle": "The former employees were investigated for sharing data with an outside AI evaluation group....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-02",
+    "addedAt": "2026-10-04T16:19:59Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 102,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman"
+          }
+        ]
+      },
+      {
+        "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
+            "ko": "실시간 보도 번역: OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models."
+          }
+        ]
+      },
+      {
+        "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
+            "ko": "실시간 보도 번역: &quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC."
+          }
+        ]
+      },
+      {
+        "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
+            "ko": "실시간 보도 번역: The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: OpenAI fires workers for 'mishandling sensitive information'",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "OpenAI fires workers for 'mishandling sensitive information'",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_7596467216583510890",
     "title": "OpenAI fires workers for 'mishandling sensitive information'",
     "subtitle": "The former employees were investigated for sharing data with an outside AI evaluation group....",
@@ -698,66 +775,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_7659512498303042055",
-    "title": "OpenAI scraps rollout of new model over safety concerns",
-    "subtitle": "The firm also issued an update on incidents in which its models accessed Australian government systems....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-29",
-    "addedAt": "2026-09-29T17:30:00Z",
-    "category": "tech",
+    "id": "auto_science_1698501321407279002",
+    "title": "Queen's University students blast off to US for Nasa robotics competition",
+    "subtitle": "The students will head to Florida to compete against university teams from Australia, India and the US....",
+    "speaker": "BBC Science",
+    "date": "2026-10-04",
+    "addedAt": "2026-10-04T16:19:59Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 164,
+    "wordCount": 107,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOpenAI scraps rollout of new model over safety concernsImage source, ReutersByOsmond Chia, Business reporter and Liv McMahon, Technology reporterPublished29 September 2026, 02:18 BSTUpdated 8 hours agoOpenAI has announced it will not release its latest AI model due to safety concerns.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN. IrelandN. Ireland PoliticsQueen&#x27;s University students blast off to US for Nasa robotics competitionImage source, Queen&#x27;s University BelfastImage caption, The team is made up of 10 students from Queen&#x27;s University Belfast",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOpenAI scraps rollout of new model over safety concernsImage source, ReutersByOsmond Chia, Business reporter and Liv McMahon, Technology reporterPublished29 September 2026, 02:18 BSTUpdated 8 hours agoOpenAI has announced it will not release its latest AI model due to safety concerns.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOpenAI scraps rollout of new model over safety concernsImage source, ReutersByOsmond Chia, Business reporter and Liv McMahon, Technology reporterPublished29 September 2026, 02:18 BSTUpdated 8 hours agoOpenAI has announced it will not release its latest AI model due to safety concerns."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN."
           }
         ]
       },
       {
-        "en": "Its GPT-6.1 Astra system, which performs tasks like browsing the web and using apps by itself, &quot;didn&#x27;t quite meet the bar&quot; of the company&#x27;s standards, according to Saachi Jain, head of safety systems at OpenAI.",
+        "en": "Could a robot designed by young engineering students from Northern Ireland end up on the Moon?",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "1 Astra system, which performs tasks like browsing the web and using apps by itself, &quot;didn&#x27;t quite meet the bar&quot; of the company&#x27;s standards, according to Saachi Jain, head of safety systems at OpenAI.",
-            "ko": "실시간 보도 번역: 1 Astra system, which performs tasks like browsing the web and using apps by itself, &quot;didn&#x27;t quite meet the bar&quot; of the company&#x27;s standards, according to Saachi Jain, head of safety systems at OpenAI."
+            "en": "Could a robot designed by young engineering students from Northern Ireland end up on the Moon?",
+            "ko": "실시간 보도 번역: Could a robot designed by young engineering students from Northern Ireland end up on the Moon?"
           }
         ]
       },
       {
-        "en": "The ChatGPT-maker also issued an update on incidents that occurred in June but were not made public until last week, where its models accessed Australian government websites and systems without authorisation.",
+        "en": "A team, from Queen&#x27;s University Belfast (QUB), are heading to Florida later this month to take part in a Nasa &#x27;lunabotics&#x27; competition.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The ChatGPT-maker also issued an update on incidents that occurred in June but were not made public until last week, where its models accessed Australian government websites and systems without authorisation.",
-            "ko": "실시간 보도 번역: The ChatGPT-maker also issued an update on incidents that occurred in June but were not made public until last week, where its models accessed Australian government websites and systems without authorisation."
+            "en": "A team, from Queen&#x27;s University Belfast (QUB), are heading to Florida later this month to take part in a Nasa &#x27;lunabotics&#x27; competition.",
+            "ko": "실시간 보도 번역: A team, from Queen&#x27;s University Belfast (QUB), are heading to Florida later this month to take part in a Nasa &#x27;lunabotics&#x27; competition."
           }
         ]
       },
       {
-        "en": "It comes as breaches by major AI firms&#x27; models intensify the debate about risks posed by the tech - with Anthropic underlining its concerns AI might threaten humanity as it prepares to go public.",
+        "en": "Lunabotics is a university-level competition for teams to use the Nasa systems engineering process to design, build, and operate a lunar robot.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It comes as breaches by major AI firms&#x27; models intensify the debate about risks posed by the tech - with Anthropic underlining its concerns AI might threaten humanity as it prepares to go public.",
-            "ko": "실시간 보도 번역: It comes as breaches by major AI firms&#x27; models intensify the debate about risks posed by the tech - with Anthropic underlining its concerns AI might threaten humanity as it prepares to go public."
+            "en": "Lunabotics is a university-level competition for teams to use the Nasa systems engineering process to design, build, and operate a lunar robot.",
+            "ko": "실시간 보도 번역: Lunabotics is a university-level competition for teams to use the Nasa systems engineering process to design, build, and operate a lunar robot."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI scraps rollout of new model over safety concerns",
+      "글로벌 최신 소식: Queen's University students blast off to US for Nasa robotics competition",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -765,7 +842,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI scraps rollout of new model over safety concerns",
+          "Queen's University students blast off to US for Nasa robotics competition",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1640,66 +1717,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_4546686945114443461",
-    "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
-    "subtitle": "The storm moved ashore on the Baja California peninsula, which is a popular tourist destination....",
-    "speaker": "BBC Science",
-    "date": "2026-09-29",
-    "addedAt": "2026-09-29T17:30:01Z",
-    "category": "science",
+    "id": "auto_economy_5253543142086813963",
+    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+    "subtitle": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports....",
+    "speaker": "BBC Business",
+    "date": "2026-10-03",
+    "addedAt": "2026-10-04T16:20:00Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 134,
+    "wordCount": 149,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastHurricane Polo makes landfall on Mexico&#x27;s Pacific coastImage source, EPA/ShutterstockImage caption, Some coastal regions were flooded even before the storm made landfall",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026The G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastHurricane Polo makes landfall on Mexico&#x27;s Pacific coastImage source, EPA/ShutterstockImage caption, Some coastal regions were flooded even before the storm made landfall",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastHurricane Polo makes landfall on Mexico&#x27;s Pacific coastImage source, EPA/ShutterstockImage caption, Some coastal regions were flooded even before the storm made landfall"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026The G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026The G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket."
           }
         ]
       },
       {
-        "en": "Hurricane Polo has made landfall along the northern Pacific coast of Mexico, lashing the state of Baja California Sur with life-threatening winds and heavy rain that has already flooded some coastal areas.",
+        "en": "It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Hurricane Polo has made landfall along the northern Pacific coast of Mexico, lashing the state of Baja California Sur with life-threatening winds and heavy rain that has already flooded some coastal areas.",
-            "ko": "실시간 보도 번역: Hurricane Polo has made landfall along the northern Pacific coast of Mexico, lashing the state of Baja California Sur with life-threatening winds and heavy rain that has already flooded some coastal areas."
+            "en": "It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement.",
+            "ko": "실시간 보도 번역: It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement."
           }
         ]
       },
       {
-        "en": "Mexican officials said Polo moved ashore just south of the surfing and fishing village of Las Barrancas bringing maximum sustained winds of 110 mph (175 km/h).",
+        "en": "The group of advanced economies, including the US, said the move would begin immediately and would last for four months.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Mexican officials said Polo moved ashore just south of the surfing and fishing village of Las Barrancas bringing maximum sustained winds of 110 mph (175 km/h).",
-            "ko": "실시간 보도 번역: Mexican officials said Polo moved ashore just south of the surfing and fishing village of Las Barrancas bringing maximum sustained winds of 110 mph (175 km/h)."
+            "en": "The group of advanced economies, including the US, said the move would begin immediately and would last for four months.",
+            "ko": "실시간 보도 번역: The group of advanced economies, including the US, said the move would begin immediately and would last for four months."
           }
         ]
       },
       {
-        "en": "Polo is moving northeast and on the forecast track, its core is predicted to continue passing over Baja California Sur before moving inland over the southern part of the Mexican state of Sonora later on Tuesday.",
+        "en": "Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Polo is moving northeast and on the forecast track, its core is predicted to continue passing over Baja California Sur before moving inland over the southern part of the Mexican state of Sonora later on Tuesday.",
-            "ko": "실시간 보도 번역: Polo is moving northeast and on the forecast track, its core is predicted to continue passing over Baja California Sur before moving inland over the southern part of the Mexican state of Sonora later on Tuesday."
+            "en": "Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members.",
+            "ko": "실시간 보도 번역: Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Hurricane Polo makes landfall on Mexico's Pacific coast",
+      "글로벌 최신 소식: G7 to release millions of barrels of oil and diesel after Trump threat",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1707,7 +1784,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Hurricane Polo makes landfall on Mexico's Pacific coast",
+          "G7 to release millions of barrels of oil and diesel after Trump threat",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2434,66 +2511,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_6514653489719961954",
-    "title": "Burnham to unveil public body to invest in electricity grid",
-    "subtitle": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader....",
-    "speaker": "BBC Business",
-    "date": "2026-09-29",
-    "addedAt": "2026-09-29T17:30:02Z",
-    "category": "economy",
+    "id": "auto_sports_2932793396944627059",
+    "title": "Djokovic beats Zverev to reach China Open semis",
+    "subtitle": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open....",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-04",
+    "addedAt": "2026-10-04T16:20:00Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 151,
+    "wordCount": 120,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham says public body will invest in electricity gridImage source, Getty ImagesByAlex Forsyth, Political correspondent, Reporting fromLiverpool, Paul Seddon and Jennifer McKiernanPublished29 September 2026, 00:35 BSTUpdated 2 hours agoAndy Burnham has announced a new government body to invest in Britain&#x27;s electricity grid in his first party conference speech as Labour leader.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic beats Zverev to reach China Open semisImage source, Getty ImagesImage caption, Novak Djokovic won his last Grand Slam at the US Open in 2023",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham says public body will invest in electricity gridImage source, Getty ImagesByAlex Forsyth, Political correspondent, Reporting fromLiverpool, Paul Seddon and Jennifer McKiernanPublished29 September 2026, 00:35 BSTUpdated 2 hours agoAndy Burnham has announced a new government body to invest in Britain&#x27;s electricity grid in his first party conference speech as Labour leader.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham says public body will invest in electricity gridImage source, Getty ImagesByAlex Forsyth, Political correspondent, Reporting fromLiverpool, Paul Seddon and Jennifer McKiernanPublished29 September 2026, 00:35 BSTUpdated 2 hours agoAndy Burnham has announced a new government body to invest in Britain&#x27;s electricity grid in his first party conference speech as Labour leader."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic beats Zverev to reach China Open semisImage source, Getty ImagesImage caption, Novak Djokovic won his last Grand Slam at the US Open in 2023",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic beats Zverev to reach China Open semisImage source, Getty ImagesImage caption, Novak Djokovic won his last Grand Slam at the US Open in 2023"
           }
         ]
       },
       {
-        "en": "The prime minister told party activists in Liverpool that the new publicly owned company, branded Great British Grid, will speed up connections to the grid by driving up competition for connection projects.",
+        "en": "Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The prime minister told party activists in Liverpool that the new publicly owned company, branded Great British Grid, will speed up connections to the grid by driving up competition for connection projects.",
-            "ko": "실시간 보도 번역: The prime minister told party activists in Liverpool that the new publicly owned company, branded Great British Grid, will speed up connections to the grid by driving up competition for connection projects."
+            "en": "Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals.",
+            "ko": "실시간 보도 번역: Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals."
           }
         ]
       },
       {
-        "en": "Burnham is putting the proposals at the heart of a new goal to bring UK energy costs in line with other nations in Europe within 10 years.",
+        "en": "The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Burnham is putting the proposals at the heart of a new goal to bring UK energy costs in line with other nations in Europe within 10 years.",
-            "ko": "실시간 보도 번역: Burnham is putting the proposals at the heart of a new goal to bring UK energy costs in line with other nations in Europe within 10 years."
+            "en": "The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four.",
+            "ko": "실시간 보도 번역: The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four."
           }
         ]
       },
       {
-        "en": "He promised on Tuesday to have an &quot;honest conversation&quot; with the public and take on the &quot;difficult issues&quot; that have been ignored for too long.",
+        "en": "Djokovic&#x27;s victory over Zverev dented the German&#x27;s quest to finish the year as the world&#x27;s number one-ranked player.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "He promised on Tuesday to have an &quot;honest conversation&quot; with the public and take on the &quot;difficult issues&quot; that have been ignored for too long.",
-            "ko": "실시간 보도 번역: He promised on Tuesday to have an &quot;honest conversation&quot; with the public and take on the &quot;difficult issues&quot; that have been ignored for too long."
+            "en": "Djokovic&#x27;s victory over Zverev dented the German&#x27;s quest to finish the year as the world&#x27;s number one-ranked player.",
+            "ko": "실시간 보도 번역: Djokovic&#x27;s victory over Zverev dented the German&#x27;s quest to finish the year as the world&#x27;s number one-ranked player."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Burnham to unveil public body to invest in electricity grid",
+      "글로벌 최신 소식: Djokovic beats Zverev to reach China Open semis",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2501,14 +2578,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Burnham to unveil public body to invest in electricity grid",
+          "Djokovic beats Zverev to reach China Open semis",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_1101371470511187560",
@@ -3222,66 +3301,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_7855026042640841614",
-    "title": "Zverev comeback leads Europe to Laver Cup victory",
-    "subtitle": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team E...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-27",
-    "addedAt": "2026-09-29T17:30:03Z",
-    "category": "sports",
+    "id": "auto_culture_4891140307180524777",
+    "title": "Glastonbury 2027 tickets sell out in 42 minutes",
+    "subtitle": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-04",
+    "addedAt": "2026-10-04T16:20:01Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 141,
+    "wordCount": 123,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSomersetGlastonbury 2027 tickets sell out in 42 minutesImage source, Getty ImagesImage caption, Glastonbury Festival returns to Worthy Farm in June, following a fallow year",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSomersetGlastonbury 2027 tickets sell out in 42 minutesImage source, Getty ImagesImage caption, Glastonbury Festival returns to Worthy Farm in June, following a fallow year",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSomersetGlastonbury 2027 tickets sell out in 42 minutesImage source, Getty ImagesImage caption, Glastonbury Festival returns to Worthy Farm in June, following a fallow year"
           }
         ]
       },
       {
-        "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
+        "en": "Tickets for Glastonbury Festival 2027 sold out in 42 minutes, organisers have said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
-            "ko": "실시간 보도 번역: Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title."
+            "en": "Tickets for Glastonbury Festival 2027 sold out in 42 minutes, organisers have said.",
+            "ko": "실시간 보도 번역: Tickets for Glastonbury Festival 2027 sold out in 42 minutes, organisers have said."
           }
         ]
       },
       {
-        "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
+        "en": "Thousands of people joined the online queue at 09:00 BST in the hope of securing tickets to the festival at Worthy Farm in Somerset, which returns from 23 to 27 June after a fallow year.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
-            "ko": "실시간 보도 번역: US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena."
+            "en": "Thousands of people joined the online queue at 09:00 BST in the hope of securing tickets to the festival at Worthy Farm in Somerset, which returns from 23 to 27 June after a fallow year.",
+            "ko": "실시간 보도 번역: Thousands of people joined the online queue at 09:00 BST in the hope of securing tickets to the festival at Worthy Farm in Somerset, which returns from 23 to 27 June after a fallow year."
           }
         ]
       },
       {
-        "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
+        "en": "Organisers confirmed last month that tickets for the weekend were at their highest price ever - £408, including a £5 booking fee per ticket - an increase of £29.50 from the last event in 2025.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
-            "ko": "실시간 보도 번역: After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph."
+            "en": "Organisers confirmed last month that tickets for the weekend were at their highest price ever - £408, including a £5 booking fee per ticket - an increase of £29.",
+            "ko": "실시간 보도 번역: Organisers confirmed last month that tickets for the weekend were at their highest price ever - £408, including a £5 booking fee per ticket - an increase of £29."
+          },
+          {
+            "en": "50 from the last event in 2025.",
+            "ko": "실시간 보도 번역: 50 from the last event in 2025."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Zverev comeback leads Europe to Laver Cup victory",
+      "글로벌 최신 소식: Glastonbury 2027 tickets sell out in 42 minutes",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3289,16 +3372,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Zverev comeback leads Europe to Laver Cup victory",
+          "Glastonbury 2027 tickets sell out in 42 minutes",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_848395754765499685",
@@ -3947,83 +4028,6 @@ const READPULSE_ARTICLES = [
     "speaker": "BBC Arts",
     "date": "2026-09-29",
     "addedAt": "2026-09-30T03:39:15Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 115,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonNational museums to stay free for all visitors Image source, Getty ImagesImage caption, Egyptian sculptures are among the collection at the British Museum in London",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonNational museums to stay free for all visitors Image source, Getty ImagesImage caption, Egyptian sculptures are among the collection at the British Museum in London",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonNational museums to stay free for all visitors Image source, Getty ImagesImage caption, Egyptian sculptures are among the collection at the British Museum in London"
-          }
-        ]
-      },
-      {
-        "en": "Overseas visitors will not be charged to enter England&#x27;s national museums after ministers decided against changing the universal free admission policy.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Overseas visitors will not be charged to enter England&#x27;s national museums after ministers decided against changing the universal free admission policy.",
-            "ko": "실시간 보도 번역: Overseas visitors will not be charged to enter England&#x27;s national museums after ministers decided against changing the universal free admission policy."
-          }
-        ]
-      },
-      {
-        "en": "It comes after months of discussions between the government, museums, the tourism sector and local leaders to examine whether making tourists from abroad pay could boost the institutions&#x27; finances.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "It comes after months of discussions between the government, museums, the tourism sector and local leaders to examine whether making tourists from abroad pay could boost the institutions&#x27; finances.",
-            "ko": "실시간 보도 번역: It comes after months of discussions between the government, museums, the tourism sector and local leaders to examine whether making tourists from abroad pay could boost the institutions&#x27; finances."
-          }
-        ]
-      },
-      {
-        "en": "In March, the government said it would explore charging international visitors to enter national museums as it looks for ways to tackle funding pressures.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "In March, the government said it would explore charging international visitors to enter national museums as it looks for ways to tackle funding pressures.",
-            "ko": "실시간 보도 번역: In March, the government said it would explore charging international visitors to enter national museums as it looks for ways to tackle funding pressures."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: National museums to stay free for all visitors",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "National museums to stay free for all visitors",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_3581536962285740295",
-    "title": "National museums to stay free for all visitors",
-    "subtitle": "It follows discussions about whether charging tourists could boost museums' finances....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-29",
-    "addedAt": "2026-09-29T17:30:07Z",
     "category": "culture",
     "isLive": true,
     "level": "B2",
