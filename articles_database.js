@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_9028144944324127861",
+    "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+    "subtitle": "The president named his national intelligence chief as the taskforce's head as worries over AI grow....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-05",
+    "addedAt": "2026-10-05T03:41:02Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 159,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump unveils &#x27;Super Intelligence Force&#x27; to oversee AI policyImage source, Getty ImagesByOsmond ChiaBusiness reporterPublished5 October 2026, 02:33 BSTUpdated 1 minute agoUS President Donald Trump says he has created a new task force focused on artificial intelligence, which will be led by Director of National Intelligence Jay Clayton.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump unveils &#x27;Super Intelligence Force&#x27; to oversee AI policyImage source, Getty ImagesByOsmond ChiaBusiness reporterPublished5 October 2026, 02:33 BSTUpdated 1 minute agoUS President Donald Trump says he has created a new task force focused on artificial intelligence, which will be led by Director of National Intelligence Jay Clayton.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump unveils &#x27;Super Intelligence Force&#x27; to oversee AI policyImage source, Getty ImagesByOsmond ChiaBusiness reporterPublished5 October 2026, 02:33 BSTUpdated 1 minute agoUS President Donald Trump says he has created a new task force focused on artificial intelligence, which will be led by Director of National Intelligence Jay Clayton."
+          }
+        ]
+      },
+      {
+        "en": "The &quot;Super Intelligence Force&quot; will work to ensure that the US continues to lead in the technology&#x27;s development and will coordinate the government&#x27;s engagement with the public, Trump posted on Sunday.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The &quot;Super Intelligence Force&quot; will work to ensure that the US continues to lead in the technology&#x27;s development and will coordinate the government&#x27;s engagement with the public, Trump posted on Sunday.",
+            "ko": "실시간 보도 번역: The &quot;Super Intelligence Force&quot; will work to ensure that the US continues to lead in the technology&#x27;s development and will coordinate the government&#x27;s engagement with the public, Trump posted on Sunday."
+          }
+        ]
+      },
+      {
+        "en": "It comes after the president signed an executive order on 29 September to rename AI as Super Intelligence, after previously saying the word artificial made it sound &quot;fake&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It comes after the president signed an executive order on 29 September to rename AI as Super Intelligence, after previously saying the word artificial made it sound &quot;fake&quot;.",
+            "ko": "실시간 보도 번역: It comes after the president signed an executive order on 29 September to rename AI as Super Intelligence, after previously saying the word artificial made it sound &quot;fake&quot;."
+          }
+        ]
+      },
+      {
+        "en": "Trump also said last week that he would set up a board to oversee AI safety after top tech bosses signed what he described as a &quot;morally binding&quot; pact.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Trump also said last week that he would set up a board to oversee AI safety after top tech bosses signed what he described as a &quot;morally binding&quot; pact.",
+            "ko": "실시간 보도 번역: Trump also said last week that he would set up a board to oversee AI safety after top tech bosses signed what he described as a &quot;morally binding&quot; pact."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1701754024283624991",
     "title": "OpenAI fires workers for 'mishandling sensitive information'",
     "subtitle": "The former employees were investigated for sharing data with an outside AI evaluation group....",
@@ -698,66 +775,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_5373358350792412513",
-    "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-    "subtitle": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-29",
-    "addedAt": "2026-09-30T03:39:11Z",
-    "category": "tech",
+    "id": "auto_science_1886195579630006418",
+    "title": "Students blast off to US for Nasa robotics competition",
+    "subtitle": "The students will head to Florida to compete against university teams from Australia, India and the US....",
+    "speaker": "BBC Science",
+    "date": "2026-10-04",
+    "addedAt": "2026-10-05T03:41:04Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 134,
+    "wordCount": 105,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI unveils AI assistant &#x27;dots&#x27; while safety worries delay new modelImage source, ReutersImage caption, Sam Altman has spoken repeatedly in recent weeks about the risks posed by AI agents.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN. IrelandN. Ireland PoliticsStudents blast off to US for Nasa robotics competitionImage source, Queen&#x27;s University BelfastImage caption, The team is made up of 10 students from Queen&#x27;s University Belfast",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI unveils AI assistant &#x27;dots&#x27; while safety worries delay new modelImage source, ReutersImage caption, Sam Altman has spoken repeatedly in recent weeks about the risks posed by AI agents.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI unveils AI assistant &#x27;dots&#x27; while safety worries delay new modelImage source, ReutersImage caption, Sam Altman has spoken repeatedly in recent weeks about the risks posed by AI agents."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN."
           }
         ]
       },
       {
-        "en": "OpenAI on Tuesday unveiled &quot;dots,&quot; a new artificial intelligence (AI) assistant they say can proactively carry out tasks on a user&#x27;s behalf.",
+        "en": "Could a robot designed by young engineering students from Northern Ireland end up on the Moon?",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "OpenAI on Tuesday unveiled &quot;dots,&quot; a new artificial intelligence (AI) assistant they say can proactively carry out tasks on a user&#x27;s behalf.",
-            "ko": "실시간 보도 번역: OpenAI on Tuesday unveiled &quot;dots,&quot; a new artificial intelligence (AI) assistant they say can proactively carry out tasks on a user&#x27;s behalf."
+            "en": "Could a robot designed by young engineering students from Northern Ireland end up on the Moon?",
+            "ko": "실시간 보도 번역: Could a robot designed by young engineering students from Northern Ireland end up on the Moon?"
           }
         ]
       },
       {
-        "en": "At its annual developer day in San Francisco, chief executive Sam Altman referred to &quot;dots&quot; as &quot;remarkably capable, always-on agents that can handle really anything you can think of.&quot;",
+        "en": "A team, from Queen&#x27;s University Belfast (QUB), are heading to Florida later this month to take part in a Nasa &#x27;lunabotics&#x27; competition.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "At its annual developer day in San Francisco, chief executive Sam Altman referred to &quot;dots&quot; as &quot;remarkably capable, always-on agents that can handle really anything you can think of.",
-            "ko": "실시간 보도 번역: At its annual developer day in San Francisco, chief executive Sam Altman referred to &quot;dots&quot; as &quot;remarkably capable, always-on agents that can handle really anything you can think of."
+            "en": "A team, from Queen&#x27;s University Belfast (QUB), are heading to Florida later this month to take part in a Nasa &#x27;lunabotics&#x27; competition.",
+            "ko": "실시간 보도 번역: A team, from Queen&#x27;s University Belfast (QUB), are heading to Florida later this month to take part in a Nasa &#x27;lunabotics&#x27; competition."
           }
         ]
       },
       {
-        "en": "At the same time, OpenAI president Greg Brockman and other tech leaders held a meeting with President Donald Trump as the firm faces intense scrutiny after internal tests of its AI agents revealed unexpected and occasionally harmful actions.",
+        "en": "Lunabotics is a university-level competition for teams to use the Nasa systems engineering process to design, build, and operate a lunar robot.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "At the same time, OpenAI president Greg Brockman and other tech leaders held a meeting with President Donald Trump as the firm faces intense scrutiny after internal tests of its AI agents revealed unexpected and occasionally harmful actions.",
-            "ko": "실시간 보도 번역: At the same time, OpenAI president Greg Brockman and other tech leaders held a meeting with President Donald Trump as the firm faces intense scrutiny after internal tests of its AI agents revealed unexpected and occasionally harmful actions."
+            "en": "Lunabotics is a university-level competition for teams to use the Nasa systems engineering process to design, build, and operate a lunar robot.",
+            "ko": "실시간 보도 번역: Lunabotics is a university-level competition for teams to use the Nasa systems engineering process to design, build, and operate a lunar robot."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+      "글로벌 최신 소식: Students blast off to US for Nasa robotics competition",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -765,7 +842,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+          "Students blast off to US for Nasa robotics competition",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1632,74 +1709,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_900983714287767091",
-    "title": "Oura pulls $15bn stock market listing days after announcement",
-    "subtitle": "The wearable technology company had been expected to list its shares in the US....",
-    "speaker": "BBC Science",
-    "date": "2026-09-29",
-    "addedAt": "2026-09-30T03:39:11Z",
-    "category": "science",
+    "id": "auto_economy_3479183330670477386",
+    "title": "The job interview question you don't have to answer",
+    "subtitle": "Experts explain what you should do if you are asked for your current salary during a job interview....",
+    "speaker": "BBC Business",
+    "date": "2026-10-04",
+    "addedAt": "2026-10-05T03:41:04Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 143,
+    "wordCount": 122,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOura pulls $15bn stock market listing days after announcementImage source, Getty ImagesImage caption, Oura&#x27;s chief executive Tom Hale wears one of the company&#x27;s smart rings",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessThe job interview question you don&#x27;t have to answerTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOura pulls $15bn stock market listing days after announcementImage source, Getty ImagesImage caption, Oura&#x27;s chief executive Tom Hale wears one of the company&#x27;s smart rings",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessOura pulls $15bn stock market listing days after announcementImage source, Getty ImagesImage caption, Oura&#x27;s chief executive Tom Hale wears one of the company&#x27;s smart rings"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessThe job interview question you don&#x27;t have to answerTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessThe job interview question you don&#x27;t have to answerTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Oura has pulled its plan to sell shares in its business on the US stock market, in a move which would have valued the firm at $15bn (£11.3bn), just days after announcing it.",
+        "en": "Cost of living correspondentPublished4 hours agoPrepare all you like, but there is often still one job interview question that leaves you feeling uncomfortable.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Oura has pulled its plan to sell shares in its business on the US stock market, in a move which would have valued the firm at $15bn (£11.",
-            "ko": "실시간 보도 번역: Oura has pulled its plan to sell shares in its business on the US stock market, in a move which would have valued the firm at $15bn (£11."
-          },
-          {
-            "en": "3bn), just days after announcing it.",
-            "ko": "실시간 보도 번역: 3bn), just days after announcing it."
+            "en": "Cost of living correspondentPublished4 hours agoPrepare all you like, but there is often still one job interview question that leaves you feeling uncomfortable.",
+            "ko": "실시간 보도 번역: Cost of living correspondentPublished4 hours agoPrepare all you like, but there is often still one job interview question that leaves you feeling uncomfortable."
           }
         ]
       },
       {
-        "en": "The maker of smart rings which track their owners&#x27; health said it would postpone its flotation &quot;due to uncertainty in the Initial Public Offering (IPO) market&quot; and did not say when it might go ahead.",
+        "en": "While employers in the UK are within their rights to ask you how much you get paid in your current role, applicants are not obliged to tell them.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The maker of smart rings which track their owners&#x27; health said it would postpone its flotation &quot;due to uncertainty in the Initial Public Offering (IPO) market&quot; and did not say when it might go ahead.",
-            "ko": "실시간 보도 번역: The maker of smart rings which track their owners&#x27; health said it would postpone its flotation &quot;due to uncertainty in the Initial Public Offering (IPO) market&quot; and did not say when it might go ahead."
+            "en": "While employers in the UK are within their rights to ask you how much you get paid in your current role, applicants are not obliged to tell them.",
+            "ko": "실시간 보도 번역: While employers in the UK are within their rights to ask you how much you get paid in your current role, applicants are not obliged to tell them."
           }
         ]
       },
       {
-        "en": "Oura had filed official documents setting out plans to raise up to $2.2bn by offering shares in the business to investors just over a week ago.",
+        "en": "Recruiters have been encouraged to stop posing questions about salary history and, in the EU, new rules will prevent them doing so.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Oura had filed official documents setting out plans to raise up to $2.",
-            "ko": "실시간 보도 번역: Oura had filed official documents setting out plans to raise up to $2."
-          },
-          {
-            "en": "2bn by offering shares in the business to investors just over a week ago.",
-            "ko": "실시간 보도 번역: 2bn by offering shares in the business to investors just over a week ago."
+            "en": "Recruiters have been encouraged to stop posing questions about salary history and, in the EU, new rules will prevent them doing so.",
+            "ko": "실시간 보도 번역: Recruiters have been encouraged to stop posing questions about salary history and, in the EU, new rules will prevent them doing so."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Oura pulls $15bn stock market listing days after announcement",
+      "글로벌 최신 소식: The job interview question you don't have to answer",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1707,7 +1776,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Oura pulls $15bn stock market listing days after announcement",
+          "The job interview question you don't have to answer",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2434,66 +2503,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_1766268131967332406",
-    "title": "Household energy bills forecast to see biggest rise in four years",
-    "subtitle": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast....",
-    "speaker": "BBC Business",
-    "date": "2026-09-29",
-    "addedAt": "2026-09-30T03:39:13Z",
-    "category": "economy",
+    "id": "auto_sports_5098663972328328708",
+    "title": "Djokovic beats Zverev to reach China Open semis",
+    "subtitle": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open....",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-04",
+    "addedAt": "2026-10-05T03:41:05Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 163,
+    "wordCount": 120,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHousehold energy bills forecast to see biggest rise in four yearsImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished4 hours agoHousehold energy prices are set to soar in January, with a typical annual bill forecast to jump by £276, figures shared with the BBC reveal.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic beats Zverev to reach China Open semisImage source, Getty ImagesImage caption, Novak Djokovic won his last Grand Slam at the US Open in 2023",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHousehold energy bills forecast to see biggest rise in four yearsImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished4 hours agoHousehold energy prices are set to soar in January, with a typical annual bill forecast to jump by £276, figures shared with the BBC reveal.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHousehold energy bills forecast to see biggest rise in four yearsImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished4 hours agoHousehold energy prices are set to soar in January, with a typical annual bill forecast to jump by £276, figures shared with the BBC reveal."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic beats Zverev to reach China Open semisImage source, Getty ImagesImage caption, Novak Djokovic won his last Grand Slam at the US Open in 2023",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic beats Zverev to reach China Open semisImage source, Getty ImagesImage caption, Novak Djokovic won his last Grand Slam at the US Open in 2023"
           }
         ]
       },
       {
-        "en": "The 16% predicted increase would hit millions of households at the coldest time of year, and would mark the biggest rise in bills for four years.",
+        "en": "Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 16% predicted increase would hit millions of households at the coldest time of year, and would mark the biggest rise in bills for four years.",
-            "ko": "실시간 보도 번역: The 16% predicted increase would hit millions of households at the coldest time of year, and would mark the biggest rise in bills for four years."
+            "en": "Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals.",
+            "ko": "실시간 보도 번역: Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals."
           }
         ]
       },
       {
-        "en": "The forecast from consultancy Cornwall Insight comes a day before prices go up under regulator Ofgem&#x27;s October price cap and puts increased pressure on the government to support those who will struggle to pay.",
+        "en": "The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The forecast from consultancy Cornwall Insight comes a day before prices go up under regulator Ofgem&#x27;s October price cap and puts increased pressure on the government to support those who will struggle to pay.",
-            "ko": "실시간 보도 번역: The forecast from consultancy Cornwall Insight comes a day before prices go up under regulator Ofgem&#x27;s October price cap and puts increased pressure on the government to support those who will struggle to pay."
+            "en": "The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four.",
+            "ko": "실시간 보도 번역: The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four."
           }
         ]
       },
       {
-        "en": "Meanwhile, the boss of supplier EDF Simone Rossi has warned the UK is &quot;walking into a second energy crisis&quot; and called for an extension to the VAT cut on electricity which kicks in on Thursday.",
+        "en": "Djokovic&#x27;s victory over Zverev dented the German&#x27;s quest to finish the year as the world&#x27;s number one-ranked player.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Meanwhile, the boss of supplier EDF Simone Rossi has warned the UK is &quot;walking into a second energy crisis&quot; and called for an extension to the VAT cut on electricity which kicks in on Thursday.",
-            "ko": "실시간 보도 번역: Meanwhile, the boss of supplier EDF Simone Rossi has warned the UK is &quot;walking into a second energy crisis&quot; and called for an extension to the VAT cut on electricity which kicks in on Thursday."
+            "en": "Djokovic&#x27;s victory over Zverev dented the German&#x27;s quest to finish the year as the world&#x27;s number one-ranked player.",
+            "ko": "실시간 보도 번역: Djokovic&#x27;s victory over Zverev dented the German&#x27;s quest to finish the year as the world&#x27;s number one-ranked player."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Household energy bills forecast to see biggest rise in four years",
+      "글로벌 최신 소식: Djokovic beats Zverev to reach China Open semis",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2501,14 +2570,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Household energy bills forecast to see biggest rise in four years",
+          "Djokovic beats Zverev to reach China Open semis",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_2932793396944627059",
@@ -3222,66 +3293,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_980928544786851229",
-    "title": "Zverev comeback leads Europe to Laver Cup victory",
-    "subtitle": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team E...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-27",
-    "addedAt": "2026-09-30T03:39:13Z",
-    "category": "sports",
+    "id": "auto_culture_3327977907939523000",
+    "title": "Glastonbury 2027 tickets sell out in 42 minutes",
+    "subtitle": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-04",
+    "addedAt": "2026-10-05T03:41:07Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 141,
+    "wordCount": 123,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSomersetGlastonbury 2027 tickets sell out in 42 minutesImage source, Getty ImagesImage caption, Glastonbury Festival returns to Worthy Farm in June, following a fallow year",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSomersetGlastonbury 2027 tickets sell out in 42 minutesImage source, Getty ImagesImage caption, Glastonbury Festival returns to Worthy Farm in June, following a fallow year",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSomersetGlastonbury 2027 tickets sell out in 42 minutesImage source, Getty ImagesImage caption, Glastonbury Festival returns to Worthy Farm in June, following a fallow year"
           }
         ]
       },
       {
-        "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
+        "en": "Tickets for Glastonbury Festival 2027 sold out in 42 minutes, organisers have said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
-            "ko": "실시간 보도 번역: Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title."
+            "en": "Tickets for Glastonbury Festival 2027 sold out in 42 minutes, organisers have said.",
+            "ko": "실시간 보도 번역: Tickets for Glastonbury Festival 2027 sold out in 42 minutes, organisers have said."
           }
         ]
       },
       {
-        "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
+        "en": "Thousands of people joined the online queue at 09:00 BST in the hope of securing tickets to the festival at Worthy Farm in Somerset, which returns from 23 to 27 June after a fallow year.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
-            "ko": "실시간 보도 번역: US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena."
+            "en": "Thousands of people joined the online queue at 09:00 BST in the hope of securing tickets to the festival at Worthy Farm in Somerset, which returns from 23 to 27 June after a fallow year.",
+            "ko": "실시간 보도 번역: Thousands of people joined the online queue at 09:00 BST in the hope of securing tickets to the festival at Worthy Farm in Somerset, which returns from 23 to 27 June after a fallow year."
           }
         ]
       },
       {
-        "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
+        "en": "Organisers confirmed last month that tickets for the weekend were at their highest price ever - £408, including a £5 booking fee per ticket - an increase of £29.50 from the last event in 2025.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
-            "ko": "실시간 보도 번역: After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph."
+            "en": "Organisers confirmed last month that tickets for the weekend were at their highest price ever - £408, including a £5 booking fee per ticket - an increase of £29.",
+            "ko": "실시간 보도 번역: Organisers confirmed last month that tickets for the weekend were at their highest price ever - £408, including a £5 booking fee per ticket - an increase of £29."
+          },
+          {
+            "en": "50 from the last event in 2025.",
+            "ko": "실시간 보도 번역: 50 from the last event in 2025."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Zverev comeback leads Europe to Laver Cup victory",
+      "글로벌 최신 소식: Glastonbury 2027 tickets sell out in 42 minutes",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3289,16 +3364,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Zverev comeback leads Europe to Laver Cup victory",
+          "Glastonbury 2027 tickets sell out in 42 minutes",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_4891140307180524777",
@@ -4013,83 +4086,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Singer Lola Young says vaping has made breathing feel like a 'chore'",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_7649051451881326629",
-    "title": "National museums to stay free for all visitors",
-    "subtitle": "It follows discussions about whether charging tourists could boost museums' finances....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-29",
-    "addedAt": "2026-09-30T03:39:15Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 115,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonNational museums to stay free for all visitors Image source, Getty ImagesImage caption, Egyptian sculptures are among the collection at the British Museum in London",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonNational museums to stay free for all visitors Image source, Getty ImagesImage caption, Egyptian sculptures are among the collection at the British Museum in London",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsLondonNational museums to stay free for all visitors Image source, Getty ImagesImage caption, Egyptian sculptures are among the collection at the British Museum in London"
-          }
-        ]
-      },
-      {
-        "en": "Overseas visitors will not be charged to enter England&#x27;s national museums after ministers decided against changing the universal free admission policy.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Overseas visitors will not be charged to enter England&#x27;s national museums after ministers decided against changing the universal free admission policy.",
-            "ko": "실시간 보도 번역: Overseas visitors will not be charged to enter England&#x27;s national museums after ministers decided against changing the universal free admission policy."
-          }
-        ]
-      },
-      {
-        "en": "It comes after months of discussions between the government, museums, the tourism sector and local leaders to examine whether making tourists from abroad pay could boost the institutions&#x27; finances.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "It comes after months of discussions between the government, museums, the tourism sector and local leaders to examine whether making tourists from abroad pay could boost the institutions&#x27; finances.",
-            "ko": "실시간 보도 번역: It comes after months of discussions between the government, museums, the tourism sector and local leaders to examine whether making tourists from abroad pay could boost the institutions&#x27; finances."
-          }
-        ]
-      },
-      {
-        "en": "In March, the government said it would explore charging international visitors to enter national museums as it looks for ways to tackle funding pressures.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "In March, the government said it would explore charging international visitors to enter national museums as it looks for ways to tackle funding pressures.",
-            "ko": "실시간 보도 번역: In March, the government said it would explore charging international visitors to enter national museums as it looks for ways to tackle funding pressures."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: National museums to stay free for all visitors",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "National museums to stay free for all visitors",
           "Historical retrospective",
           "Unrelated general weather"
         ],
