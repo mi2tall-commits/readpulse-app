@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_2061654446742094121",
+    "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+    "subtitle": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-05",
+    "addedAt": "2026-10-06T04:29:02Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 126,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPentagon stops using Anthropic AI tools after blacklisting company, BBC toldImage source, ReutersImage caption, Defence secretary Pete Hegseth has publicly criticised Anthropic&#x27;s boss Dario Amodei",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPentagon stops using Anthropic AI tools after blacklisting company, BBC toldImage source, ReutersImage caption, Defence secretary Pete Hegseth has publicly criticised Anthropic&#x27;s boss Dario Amodei",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPentagon stops using Anthropic AI tools after blacklisting company, BBC toldImage source, ReutersImage caption, Defence secretary Pete Hegseth has publicly criticised Anthropic&#x27;s boss Dario Amodei"
+          }
+        ]
+      },
+      {
+        "en": "The US Department of Defence is no longer using Anthropic&#x27;s AI tools, an official has told the BBC, months after it designated the company a supply chain risk on national security grounds.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The US Department of Defence is no longer using Anthropic&#x27;s AI tools, an official has told the BBC, months after it designated the company a supply chain risk on national security grounds.",
+            "ko": "실시간 보도 번역: The US Department of Defence is no longer using Anthropic&#x27;s AI tools, an official has told the BBC, months after it designated the company a supply chain risk on national security grounds."
+          }
+        ]
+      },
+      {
+        "en": "The Pentagon &quot;has ceased the use of Anthropic products&quot;, the department official said in a statement on Monday.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The Pentagon &quot;has ceased the use of Anthropic products&quot;, the department official said in a statement on Monday.",
+            "ko": "실시간 보도 번역: The Pentagon &quot;has ceased the use of Anthropic products&quot;, the department official said in a statement on Monday."
+          }
+        ]
+      },
+      {
+        "en": "Secretary of Defence Pete Hegseth labelled Anthropic a supply chain risk in February, and announced that the Pentagon would stop using it by late August. It is not clear why there has been a delay.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Secretary of Defence Pete Hegseth labelled Anthropic a supply chain risk in February, and announced that the Pentagon would stop using it by late August.",
+            "ko": "실시간 보도 번역: Secretary of Defence Pete Hegseth labelled Anthropic a supply chain risk in February, and announced that the Pentagon would stop using it by late August."
+          },
+          {
+            "en": "It is not clear why there has been a delay.",
+            "ko": "실시간 보도 번역: It is not clear why there has been a delay."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_9028144944324127861",
     "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
     "subtitle": "The president named his national intelligence chief as the taskforce's head as worries over AI grow....",
@@ -698,66 +779,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_6743179341251874037",
-    "title": "Regulating AI 'not the right place to start' says Bailey",
-    "subtitle": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-30",
-    "addedAt": "2026-09-30T17:28:30Z",
-    "category": "tech",
+    "id": "auto_science_7759774018428042662",
+    "title": "Why are data centres such a big deal in Scotland?",
+    "subtitle": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners....",
+    "speaker": "BBC Science",
+    "date": "2026-10-05",
+    "addedAt": "2026-10-06T04:29:03Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 159,
+    "wordCount": 128,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRegulating AI &#x27;not the right place to start&#x27; says BaileyImage source, Carl Court/Getty ImagesByDearbail JordanBusiness reporterPublished30 September 2026, 11:20 BSTUpdated 3 hours agoThe Governor of the Bank of England has said regulating artificial intelligence (AI)  &quot;is not the right place to start&quot; but instead called first for &quot;rigorous&quot; testing to find vulnerabilities and create safeguards to contain risk.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScotlandScotland PoliticsScotland BusinessEdinburgh, Fife &amp; EastGlasgow &amp; WestHighlands &amp; IslandsNE, Orkney &amp; ShetlandSouthTayside &amp; CentralWhy are data centres such a big deal in Scotland?Image source, GoogleImage caption, A Google Data Centre in Cheshunt in Hertfordshire",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRegulating AI &#x27;not the right place to start&#x27; says BaileyImage source, Carl Court/Getty ImagesByDearbail JordanBusiness reporterPublished30 September 2026, 11:20 BSTUpdated 3 hours agoThe Governor of the Bank of England has said regulating artificial intelligence (AI)  &quot;is not the right place to start&quot; but instead called first for &quot;rigorous&quot; testing to find vulnerabilities and create safeguards to contain risk.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRegulating AI &#x27;not the right place to start&#x27; says BaileyImage source, Carl Court/Getty ImagesByDearbail JordanBusiness reporterPublished30 September 2026, 11:20 BSTUpdated 3 hours agoThe Governor of the Bank of England has said regulating artificial intelligence (AI)  &quot;is not the right place to start&quot; but instead called first for &quot;rigorous&quot; testing to find vulnerabilities and create safeguards to contain risk."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScotlandScotland PoliticsScotland BusinessEdinburgh, Fife &amp; EastGlasgow &amp; WestHighlands &amp; IslandsNE, Orkney &amp; ShetlandSouthTayside &amp; CentralWhy are data centres such a big deal in Scotland?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScotlandScotland PoliticsScotland BusinessEdinburgh, Fife &amp; EastGlasgow &amp; WestHighlands &amp; IslandsNE, Orkney &amp; ShetlandSouthTayside &amp; CentralWhy are data centres such a big deal in Scotland?"
           }
         ]
       },
       {
-        "en": "Writing his first-ever article for Substack, Andrew Bailey said the risks around AI were &quot;real and increasingly significant&quot;.",
+        "en": "Every time you ask ChatGPT a question, read a Google summary or make an online bank payment, a data centre is working behind the scenes.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Writing his first-ever article for Substack, Andrew Bailey said the risks around AI were &quot;real and increasingly significant&quot;.",
-            "ko": "실시간 보도 번역: Writing his first-ever article for Substack, Andrew Bailey said the risks around AI were &quot;real and increasingly significant&quot;."
+            "en": "Every time you ask ChatGPT a question, read a Google summary or make an online bank payment, a data centre is working behind the scenes.",
+            "ko": "실시간 보도 번역: Every time you ask ChatGPT a question, read a Google summary or make an online bank payment, a data centre is working behind the scenes."
           }
         ]
       },
       {
-        "en": "He said AI development should not be halted or prohibited - &quot;on the contrary, the benefits are immense&quot; - but added there must be a system for intervention and to establish boundaries in which AI operates.",
+        "en": "Now Scotland is part of a global race to build many more of them - on a massive scale.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "He said AI development should not be halted or prohibited - &quot;on the contrary, the benefits are immense&quot; - but added there must be a system for intervention and to establish boundaries in which AI operates.",
-            "ko": "실시간 보도 번역: He said AI development should not be halted or prohibited - &quot;on the contrary, the benefits are immense&quot; - but added there must be a system for intervention and to establish boundaries in which AI operates."
+            "en": "Now Scotland is part of a global race to build many more of them - on a massive scale.",
+            "ko": "실시간 보도 번역: Now Scotland is part of a global race to build many more of them - on a massive scale."
           }
         ]
       },
       {
-        "en": "The debate about the potential risks surrounding the rapid development of AI and what it means for humanity has intensified in recent weeks.",
+        "en": "The explosion in artificial intelligence (AI) over the past few years has seen tech firms scrambling to build new  &quot;hyperscale&quot; data centres, including some which would rank among the biggest in the world.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The debate about the potential risks surrounding the rapid development of AI and what it means for humanity has intensified in recent weeks.",
-            "ko": "실시간 보도 번역: The debate about the potential risks surrounding the rapid development of AI and what it means for humanity has intensified in recent weeks."
+            "en": "The explosion in artificial intelligence (AI) over the past few years has seen tech firms scrambling to build new  &quot;hyperscale&quot; data centres, including some which would rank among the biggest in the world.",
+            "ko": "실시간 보도 번역: The explosion in artificial intelligence (AI) over the past few years has seen tech firms scrambling to build new  &quot;hyperscale&quot; data centres, including some which would rank among the biggest in the world."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Regulating AI 'not the right place to start' says Bailey",
+      "글로벌 최신 소식: Why are data centres such a big deal in Scotland?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -765,7 +846,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Regulating AI 'not the right place to start' says Bailey",
+          "Why are data centres such a big deal in Scotland?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1584,114 +1665,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_1302670112199926078",
-    "title": "Meet 'Backpack', the chunky bear who won Fat Bear Week",
-    "subtitle": "The brown bear, described by one supporter as having both the \"chonk and the badonk\", will shortly enter hibernation, which can la...",
-    "speaker": "BBC Science",
-    "date": "2026-09-30",
-    "addedAt": "2026-09-30T17:28:31Z",
-    "category": "science",
+    "id": "auto_economy_4029897438127065696",
+    "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+    "subtitle": "A growing number of parents are opening retirement funds for their children....",
+    "speaker": "BBC Business",
+    "date": "2026-10-05",
+    "addedAt": "2026-10-06T04:29:03Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 166,
+    "wordCount": 140,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Meet 'Backpack', the chunky bear who won Fat Bear Week\",\"description\":\"The brown bear, described by one supporter as having both the \\\"chonk and the badonk\\\", will shortly enter hibernation, which can last up to six months.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pd6b05.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pd6b05.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pd6b05.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pd6b05.jpg\"],\"uploadDate\":\"2026-09-30T13:51:52.884Z\",\"duration\":\"PT27S\"}Meet &#x27;Backpack&#x27;, the chunky bear who won Fat Bear WeekTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWe&#x27;re saving £100 a month into pensions for our toddler and baby - here&#x27;s whyImage source, Richard BrainImage caption, Richard Brain says that opening pensions for his young children means a few financial sacrifices now",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema."
-          },
-          {
-            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Meet 'Backpack', the chunky bear who won Fat Bear Week\",\"description\":\"The brown bear, described by one supporter as having both the \\\"chonk and the badonk\\\", will shortly enter hibernation, which can last up to six months.",
-            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Watch: Meet 'Backpack', the chunky bear who won Fat Bear Week\",\"description\":\"The brown bear, described by one supporter as having both the \\\"chonk and the badonk\\\", will shortly enter hibernation, which can last up to six months."
-          },
-          {
-            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
-            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1920/galileo/p0pd6b05.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pd6b05."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1248/galileo/p0pd6b05.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pd6b05."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/688/galileo/p0pd6b05.",
-            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pd6b05."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/400/galileo/p0pd6b05.",
-            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pd6b05."
-          },
-          {
-            "en": "jpg\"],\"uploadDate\":\"2026-09-30T13:51:52.",
-            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-09-30T13:51:52."
-          },
-          {
-            "en": "884Z\",\"duration\":\"PT27S\"}Meet &#x27;Backpack&#x27;, the chunky bear who won Fat Bear WeekTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: 884Z\",\"duration\":\"PT27S\"}Meet &#x27;Backpack&#x27;, the chunky bear who won Fat Bear WeekTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWe&#x27;re saving £100 a month into pensions for our toddler and baby - here&#x27;s whyImage source, Richard BrainImage caption, Richard Brain says that opening pensions for his young children means a few financial sacrifices now",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWe&#x27;re saving £100 a month into pensions for our toddler and baby - here&#x27;s whyImage source, Richard BrainImage caption, Richard Brain says that opening pensions for his young children means a few financial sacrifices now"
           }
         ]
       },
       {
-        "en": "CloseBackpack has won the annual Fat Bear Week competition after prevailing in what the US National Park Service called a &quot;battle of size, skill, snack acquisition and strategic loafing&quot;. The chunky champion narrowly beat Bear 910 by 103,344 votes to 98,253 in the final round of the online contest run by Katmai National Park in Alaska.",
+        "en": "Richard and Caitlin Brain&#x27;s two children are aged just 20 months and five months respectively, yet mum and dad have already set up pensions for them.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "CloseBackpack has won the annual Fat Bear Week competition after prevailing in what the US National Park Service called a &quot;battle of size, skill, snack acquisition and strategic loafing&quot;.",
-            "ko": "실시간 보도 번역: CloseBackpack has won the annual Fat Bear Week competition after prevailing in what the US National Park Service called a &quot;battle of size, skill, snack acquisition and strategic loafing&quot;."
+            "en": "Richard and Caitlin Brain&#x27;s two children are aged just 20 months and five months respectively, yet mum and dad have already set up pensions for them.",
+            "ko": "실시간 보도 번역: Richard and Caitlin Brain&#x27;s two children are aged just 20 months and five months respectively, yet mum and dad have already set up pensions for them."
+          }
+        ]
+      },
+      {
+        "en": "The Brains, who live in Swansea, south Wales, are paying £50 a month into each of their kids&#x27; accounts. It&#x27;s money that the children won&#x27;t be able to access until they are 57, under current UK private pension fund rules., external",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The Brains, who live in Swansea, south Wales, are paying £50 a month into each of their kids&#x27; accounts.",
+            "ko": "실시간 보도 번역: The Brains, who live in Swansea, south Wales, are paying £50 a month into each of their kids&#x27; accounts."
           },
           {
-            "en": "The chunky champion narrowly beat Bear 910 by 103,344 votes to 98,253 in the final round of the online contest run by Katmai National Park in Alaska.",
-            "ko": "실시간 보도 번역: The chunky champion narrowly beat Bear 910 by 103,344 votes to 98,253 in the final round of the online contest run by Katmai National Park in Alaska."
+            "en": "It&#x27;s money that the children won&#x27;t be able to access until they are 57, under current UK private pension fund rules.",
+            "ko": "실시간 보도 번역: It&#x27;s money that the children won&#x27;t be able to access until they are 57, under current UK private pension fund rules."
           }
         ]
       },
       {
-        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsAlaskaFollow Alaska",
+        "en": "So the eldest will have to wait until 2082, and the youngest until 2083.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsAlaskaFollow Alaska",
-            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsAlaskaFollow Alaska"
-          }
-        ]
-      },
-      {
-        "en": "close panelYou are now following\n    AlaskaUpdates from your News topics will appear in My News and in a collection on the News homepage.AnimalsFollow Animals",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "close panelYou are now following\n    AlaskaUpdates from your News topics will appear in My News and in a collection on the News homepage.",
-            "ko": "실시간 보도 번역: close panelYou are now following\n    AlaskaUpdates from your News topics will appear in My News and in a collection on the News homepage."
+            "en": "So the eldest will have to wait until 2082, and the youngest until 2083.",
+            "ko": "실시간 보도 번역: So the eldest will have to wait until 2082, and the youngest until 2083."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Meet 'Backpack', the chunky bear who won Fat Bear Week",
+      "글로벌 최신 소식: We're saving £100 a month into pensions for our toddler and baby - here's why",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1699,7 +1736,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Meet 'Backpack', the chunky bear who won Fat Bear Week",
+          "We're saving £100 a month into pensions for our toddler and baby - here's why",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2426,66 +2463,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_7867602060541714351",
-    "title": "Household energy bills forecast to see biggest rise in four years",
-    "subtitle": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast....",
-    "speaker": "BBC Business",
-    "date": "2026-09-30",
-    "addedAt": "2026-09-30T17:28:31Z",
-    "category": "economy",
+    "id": "auto_sports_8101891110362450098",
+    "title": "Medvedev disqualified from Djokovic match for hitting spectator with ball",
+    "subtitle": "Daniil Medvedev is disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final agains...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-05",
+    "addedAt": "2026-10-06T04:29:03Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 168,
+    "wordCount": 136,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHousehold energy bills forecast to see biggest rise in four yearsImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished30 September 2026, 00:03 BSTUpdated 2 hours agoHousehold energy prices are set to soar in January, with a typical annual bill forecast to jump by £276, figures shared with the BBC reveal.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarMedvedev disqualified for hitting spectator with ballTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHousehold energy bills forecast to see biggest rise in four yearsImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished30 September 2026, 00:03 BSTUpdated 2 hours agoHousehold energy prices are set to soar in January, with a typical annual bill forecast to jump by £276, figures shared with the BBC reveal.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHousehold energy bills forecast to see biggest rise in four yearsImage source, Getty ImagesByKevin PeacheyCost of living correspondentPublished30 September 2026, 00:03 BSTUpdated 2 hours agoHousehold energy prices are set to soar in January, with a typical annual bill forecast to jump by £276, figures shared with the BBC reveal."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarMedvedev disqualified for hitting spectator with ballTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarMedvedev disqualified for hitting spectator with ballTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "The 16% predicted increase would hit millions of households at the coldest time of year, and would mark the biggest rise in bills for four years.",
+        "en": "Daniil Medvedev was disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 16% predicted increase would hit millions of households at the coldest time of year, and would mark the biggest rise in bills for four years.",
-            "ko": "실시간 보도 번역: The 16% predicted increase would hit millions of households at the coldest time of year, and would mark the biggest rise in bills for four years."
+            "en": "Daniil Medvedev was disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
+            "ko": "실시간 보도 번역: Daniil Medvedev was disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic."
           }
         ]
       },
       {
-        "en": "The forecast from consultancy Cornwall Insight comes a day before prices go up under regulator Ofgem&#x27;s October price cap and puts increased pressure on the government to support those who will struggle to pay.",
+        "en": "Third seed Medvedev trailed Djokovic 7-5 5-3 when the Serb hit a winner beyond him for 15-15.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The forecast from consultancy Cornwall Insight comes a day before prices go up under regulator Ofgem&#x27;s October price cap and puts increased pressure on the government to support those who will struggle to pay.",
-            "ko": "실시간 보도 번역: The forecast from consultancy Cornwall Insight comes a day before prices go up under regulator Ofgem&#x27;s October price cap and puts increased pressure on the government to support those who will struggle to pay."
+            "en": "Third seed Medvedev trailed Djokovic 7-5 5-3 when the Serb hit a winner beyond him for 15-15.",
+            "ko": "실시간 보도 번역: Third seed Medvedev trailed Djokovic 7-5 5-3 when the Serb hit a winner beyond him for 15-15."
           }
         ]
       },
       {
-        "en": "Meanwhile, the boss of supplier EDF Simone Rossi has warned the UK is &quot;walking into a second energy crisis&quot; and called for an extension to the VAT cut on electricity which kicks in on Thursday.",
+        "en": "The ball ricocheted off the back of the court and Medvedev swiped at a backhand in annoyance, sending the ball into the air and hitting a spectator who was sitting in the front row of the stand behind him.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Meanwhile, the boss of supplier EDF Simone Rossi has warned the UK is &quot;walking into a second energy crisis&quot; and called for an extension to the VAT cut on electricity which kicks in on Thursday.",
-            "ko": "실시간 보도 번역: Meanwhile, the boss of supplier EDF Simone Rossi has warned the UK is &quot;walking into a second energy crisis&quot; and called for an extension to the VAT cut on electricity which kicks in on Thursday."
+            "en": "The ball ricocheted off the back of the court and Medvedev swiped at a backhand in annoyance, sending the ball into the air and hitting a spectator who was sitting in the front row of the stand behind him.",
+            "ko": "실시간 보도 번역: The ball ricocheted off the back of the court and Medvedev swiped at a backhand in annoyance, sending the ball into the air and hitting a spectator who was sitting in the front row of the stand behind him."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Household energy bills forecast to see biggest rise in four years",
+      "글로벌 최신 소식: Medvedev disqualified from Djokovic match for hitting spectator with ball",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2493,14 +2530,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Household energy bills forecast to see biggest rise in four years",
+          "Medvedev disqualified from Djokovic match for hitting spectator with ball",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_5098663972328328708",
@@ -3214,66 +3253,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_421291300298577141",
-    "title": "Zverev comeback leads Europe to Laver Cup victory",
-    "subtitle": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team E...",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-27",
-    "addedAt": "2026-09-30T17:28:32Z",
-    "category": "sports",
+    "id": "auto_culture_2270837066646926628",
+    "title": "Author and former politician Jeffrey Archer dies aged 86",
+    "subtitle": "His last book, Adam and Eve, is set to release this month....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-05",
+    "addedAt": "2026-10-06T04:29:05Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 141,
+    "wordCount": 111,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN. IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsAuthor and former politician Jeffrey Archer dies aged 86To play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev comeback leads Europe to Laver Cup victoryImage source, Getty ImagesImage caption, Team Europe won their sixth Laver Cup title"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN."
+          },
+          {
+            "en": "IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsAuthor and former politician Jeffrey Archer dies aged 86To play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsAuthor and former politician Jeffrey Archer dies aged 86To play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
+        "en": "Watch: Jeffrey Archer spoke about his time in prison, today&#x27;s politics and retirement in a BBC Breakfast interview in September",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title.",
-            "ko": "실시간 보도 번역: Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title."
+            "en": "Watch: Jeffrey Archer spoke about his time in prison, today&#x27;s politics and retirement in a BBC Breakfast interview in September",
+            "ko": "실시간 보도 번역: Watch: Jeffrey Archer spoke about his time in prison, today&#x27;s politics and retirement in a BBC Breakfast interview in September"
           }
         ]
       },
       {
-        "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
+        "en": "Bestselling author and former politician Jeffrey Archer has died at the age of 86.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena.",
-            "ko": "실시간 보도 번역: US Open champion Zverev recovered from a disappointing defeat by Team World&#x27;s Alex de Minaur on day two and eased to a 7-6 (7-3) 6-3 win over Tien at London&#x27;s O2 Arena."
+            "en": "Bestselling author and former politician Jeffrey Archer has died at the age of 86.",
+            "ko": "실시간 보도 번역: Bestselling author and former politician Jeffrey Archer has died at the age of 86."
           }
         ]
       },
       {
-        "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
+        "en": "Archer sold more than 300 million books in his five-decade writing career, including the Clifton Chronicles and Kane and Abel, and often set the novels in his home town of Wellington, Somerset.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph.",
-            "ko": "실시간 보도 번역: After Carlos Alcaraz&#x27;s heroics kept Europe in contention after that loss on day two, Flavio Cobolli and Jakub Mensik beat De Minaur and Taylor Fritz in the doubles to extend their lead before Zverev&#x27;s triumph."
+            "en": "Archer sold more than 300 million books in his five-decade writing career, including the Clifton Chronicles and Kane and Abel, and often set the novels in his home town of Wellington, Somerset.",
+            "ko": "실시간 보도 번역: Archer sold more than 300 million books in his five-decade writing career, including the Clifton Chronicles and Kane and Abel, and often set the novels in his home town of Wellington, Somerset."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Zverev comeback leads Europe to Laver Cup victory",
+      "글로벌 최신 소식: Author and former politician Jeffrey Archer dies aged 86",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3281,16 +3324,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Zverev comeback leads Europe to Laver Cup victory",
+          "Author and former politician Jeffrey Archer dies aged 86",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_3327977907939523000",
@@ -4009,83 +4050,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Veteran broadcaster Dame Esther Rantzen dies aged 86",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_8693015326702921696",
-    "title": "Singer Lola Young says vaping has made breathing feel like a 'chore'",
-    "subtitle": "The Messy singer says her lungs feel \"battery powered\" due to the effects of vaping....",
-    "speaker": "BBC Arts",
-    "date": "2026-09-30",
-    "addedAt": "2026-09-30T17:28:34Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 106,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNewsbeatSinger Lola Young says vaping has made breathing feel like a &#x27;chore&#x27; Image source, Getty ImagesImage caption, Lola Young returned to the stage earlier this year after taking time off for her health",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNewsbeatSinger Lola Young says vaping has made breathing feel like a &#x27;chore&#x27; Image source, Getty ImagesImage caption, Lola Young returned to the stage earlier this year after taking time off for her health",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatNewsbeatSinger Lola Young says vaping has made breathing feel like a &#x27;chore&#x27; Image source, Getty ImagesImage caption, Lola Young returned to the stage earlier this year after taking time off for her health"
-          }
-        ]
-      },
-      {
-        "en": "Singer Lola Young has said her breathing feels like a &quot;chore&quot; due to the effects of vaping.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Singer Lola Young has said her breathing feels like a &quot;chore&quot; due to the effects of vaping.",
-            "ko": "실시간 보도 번역: Singer Lola Young has said her breathing feels like a &quot;chore&quot; due to the effects of vaping."
-          }
-        ]
-      },
-      {
-        "en": "In a TikTok video,, external the Grammy winner told her followers her lungs feel &quot;battery powered&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "In a TikTok video,, external the Grammy winner told her followers her lungs feel &quot;battery powered&quot;.",
-            "ko": "실시간 보도 번역: In a TikTok video,, external the Grammy winner told her followers her lungs feel &quot;battery powered&quot;."
-          }
-        ]
-      },
-      {
-        "en": "The 25-year-old has previously acknowledged in videos she &quot;should quit&quot;, but suggested in her latest post that is unlikely to happen any time soon.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The 25-year-old has previously acknowledged in videos she &quot;should quit&quot;, but suggested in her latest post that is unlikely to happen any time soon.",
-            "ko": "실시간 보도 번역: The 25-year-old has previously acknowledged in videos she &quot;should quit&quot;, but suggested in her latest post that is unlikely to happen any time soon."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Singer Lola Young says vaping has made breathing feel like a 'chore'",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Singer Lola Young says vaping has made breathing feel like a 'chore'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
