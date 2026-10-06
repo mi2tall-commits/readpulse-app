@@ -1,6 +1,91 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1828721946077054838",
+    "title": "Italian PM files to trademark her voice against AI threats",
+    "subtitle": "Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-06",
+    "addedAt": "2026-10-06T17:48:07Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 140,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastItalian PM files to trademark her voice against AI threatsImage source, Getty ImagesByMalu CursinoPublished6 hours agoItalian Prime Minister Giorgia Meloni has applied to trademark her voice in a move to protect herself against artificial intelligence (AI) deepfakes.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastItalian PM files to trademark her voice against AI threatsImage source, Getty ImagesByMalu CursinoPublished6 hours agoItalian Prime Minister Giorgia Meloni has applied to trademark her voice in a move to protect herself against artificial intelligence (AI) deepfakes.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastItalian PM files to trademark her voice against AI threatsImage source, Getty ImagesByMalu CursinoPublished6 hours agoItalian Prime Minister Giorgia Meloni has applied to trademark her voice in a move to protect herself against artificial intelligence (AI) deepfakes."
+          }
+        ]
+      },
+      {
+        "en": "The application to the European Union Intellectual Property Office (EUIPO) was made on Monday and can be found on their website, external. The prime minister&#x27;s office also confirmed the application.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The application to the European Union Intellectual Property Office (EUIPO) was made on Monday and can be found on their website, external.",
+            "ko": "실시간 보도 번역: The application to the European Union Intellectual Property Office (EUIPO) was made on Monday and can be found on their website, external."
+          },
+          {
+            "en": "The prime minister&#x27;s office also confirmed the application.",
+            "ko": "실시간 보도 번역: The prime minister&#x27;s office also confirmed the application."
+          }
+        ]
+      },
+      {
+        "en": "As part of it, Meloni recorded a four-second audio where she says &quot;Io sono Giorgia&quot; - I am Giorgia Meloni&quot; in Italian - twice.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "As part of it, Meloni recorded a four-second audio where she says &quot;Io sono Giorgia&quot; - I am Giorgia Meloni&quot; in Italian - twice.",
+            "ko": "실시간 보도 번역: As part of it, Meloni recorded a four-second audio where she says &quot;Io sono Giorgia&quot; - I am Giorgia Meloni&quot; in Italian - twice."
+          }
+        ]
+      },
+      {
+        "en": "Meloni is not alone in filing to protect her identity from unauthorised use by AI platforms. In January, US actor Matthew McConaughey led the way by trademarking his image and voice.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Meloni is not alone in filing to protect her identity from unauthorised use by AI platforms.",
+            "ko": "실시간 보도 번역: Meloni is not alone in filing to protect her identity from unauthorised use by AI platforms."
+          },
+          {
+            "en": "In January, US actor Matthew McConaughey led the way by trademarking his image and voice.",
+            "ko": "실시간 보도 번역: In January, US actor Matthew McConaughey led the way by trademarking his image and voice."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Italian PM files to trademark her voice against AI threats",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Italian PM files to trademark her voice against AI threats",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_2061654446742094121",
     "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
     "subtitle": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools....",
@@ -702,66 +787,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_8665839793553182867",
-    "title": "Tiny image sparks big backlash in Nikon photo contest",
-    "subtitle": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest....",
-    "speaker": "BBC Technology",
-    "date": "2026-09-30",
-    "addedAt": "2026-10-01T03:44:40Z",
-    "category": "tech",
+    "id": "auto_science_2520404947272372896",
+    "title": "'Ghost particles' from space telescope wins physics Nobel",
+    "subtitle": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space....",
+    "speaker": "BBC Science",
+    "date": "2026-10-06",
+    "addedAt": "2026-10-06T17:48:08Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 113,
+    "wordCount": 128,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechTiny image sparks big backlash in Nikon photo contestTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScience&#x27;Ghost particles&#x27; from space telescope wins physics NobelImage source, Yuya Makino/IceCube/NSFImage caption, Prof Francis Halzen won for &quot;decisive contribution&quot; to developing the IceCube Neutrino Observatory",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechTiny image sparks big backlash in Nikon photo contestTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechTiny image sparks big backlash in Nikon photo contestTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScience&#x27;Ghost particles&#x27; from space telescope wins physics NobelImage source, Yuya Makino/IceCube/NSFImage caption, Prof Francis Halzen won for &quot;decisive contribution&quot; to developing the IceCube Neutrino Observatory",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScience&#x27;Ghost particles&#x27; from space telescope wins physics NobelImage source, Yuya Makino/IceCube/NSFImage caption, Prof Francis Halzen won for &quot;decisive contribution&quot; to developing the IceCube Neutrino Observatory"
           }
         ]
       },
       {
-        "en": "Watch: The competition&#x27;s winner and runners up. Nikon is investigating whether the winning video (shown left) was altered with AI",
+        "en": "Belgian-born physicist Prof Francis Halzen has won the Nobel Prize in Physics for his pioneering work on an observatory that detects particles from space, shedding light on the distant universe.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Watch: The competition&#x27;s winner and runners up.",
-            "ko": "실시간 보도 번역: Watch: The competition&#x27;s winner and runners up."
+            "en": "Belgian-born physicist Prof Francis Halzen has won the Nobel Prize in Physics for his pioneering work on an observatory that detects particles from space, shedding light on the distant universe.",
+            "ko": "실시간 보도 번역: Belgian-born physicist Prof Francis Halzen has won the Nobel Prize in Physics for his pioneering work on an observatory that detects particles from space, shedding light on the distant universe."
           }
         ]
       },
       {
-        "en": "Technology &amp; AI editorPublished4 hours agoThe winning entry of a prestigious scientific photography competition is being re-evaluated following criticism from other scientists that it was made with AI.",
+        "en": "Halzen led the development of IceCube at the South Pole, which uses a cubic kilometre of Antarctic ice fitted with light sensors to detect particles called neutrinos. These carry information about violent, high-energy processes in the cosmos.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Technology &amp; AI editorPublished4 hours agoThe winning entry of a prestigious scientific photography competition is being re-evaluated following criticism from other scientists that it was made with AI.",
-            "ko": "실시간 보도 번역: Technology &amp; AI editorPublished4 hours agoThe winning entry of a prestigious scientific photography competition is being re-evaluated following criticism from other scientists that it was made with AI."
+            "en": "Halzen led the development of IceCube at the South Pole, which uses a cubic kilometre of Antarctic ice fitted with light sensors to detect particles called neutrinos.",
+            "ko": "실시간 보도 번역: Halzen led the development of IceCube at the South Pole, which uses a cubic kilometre of Antarctic ice fitted with light sensors to detect particles called neutrinos."
+          },
+          {
+            "en": "These carry information about violent, high-energy processes in the cosmos.",
+            "ko": "실시간 보도 번역: These carry information about violent, high-energy processes in the cosmos."
           }
         ]
       },
       {
-        "en": "Nikon&#x27;s annual Small World In Motion contest accepts photos and video taken using powerful microscopes, and has run annually for the last 15 years.",
+        "en": "The Royal Swedish Academy of Sciences said &quot;his vision and scientific leadership have been fundamental for the IceCube Neutrino Observatory&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Nikon&#x27;s annual Small World In Motion contest accepts photos and video taken using powerful microscopes, and has run annually for the last 15 years.",
-            "ko": "실시간 보도 번역: Nikon&#x27;s annual Small World In Motion contest accepts photos and video taken using powerful microscopes, and has run annually for the last 15 years."
+            "en": "The Royal Swedish Academy of Sciences said &quot;his vision and scientific leadership have been fundamental for the IceCube Neutrino Observatory&quot;.",
+            "ko": "실시간 보도 번역: The Royal Swedish Academy of Sciences said &quot;his vision and scientific leadership have been fundamental for the IceCube Neutrino Observatory&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Tiny image sparks big backlash in Nikon photo contest",
+      "글로벌 최신 소식: 'Ghost particles' from space telescope wins physics Nobel",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -769,7 +858,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Tiny image sparks big backlash in Nikon photo contest",
+          "'Ghost particles' from space telescope wins physics Nobel",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1584,70 +1673,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_3956405604085412644",
-    "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-    "subtitle": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain....",
-    "speaker": "BBC Science",
-    "date": "2026-09-30",
-    "addedAt": "2026-10-01T03:44:40Z",
-    "category": "science",
+    "id": "auto_economy_5521519406031991914",
+    "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+    "subtitle": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition....",
+    "speaker": "BBC Business",
+    "date": "2026-10-06",
+    "addedAt": "2026-10-06T17:48:08Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 118,
+    "wordCount": 146,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaTrekkers helicoptered off mountains as more deadly landslides hit Nepal To play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaParamount takes over Warner Bros in $110bn Hollywood mergerImage source, Getty ImagesByChristal HayesReporting fromLos AngelesPublished6 October 2026, 13:55 BSTUpdated 1 hour agoParamount Skydance has officially taken over Warner Bros Discovery in a $110bn merger that is set to reshape Hollywood and the media landscape.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaTrekkers helicoptered off mountains as more deadly landslides hit Nepal To play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaTrekkers helicoptered off mountains as more deadly landslides hit Nepal To play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaParamount takes over Warner Bros in $110bn Hollywood mergerImage source, Getty ImagesByChristal HayesReporting fromLos AngelesPublished6 October 2026, 13:55 BSTUpdated 1 hour agoParamount Skydance has officially taken over Warner Bros Discovery in a $110bn merger that is set to reshape Hollywood and the media landscape.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaParamount takes over Warner Bros in $110bn Hollywood mergerImage source, Getty ImagesByChristal HayesReporting fromLos AngelesPublished6 October 2026, 13:55 BSTUpdated 1 hour agoParamount Skydance has officially taken over Warner Bros Discovery in a $110bn merger that is set to reshape Hollywood and the media landscape."
           }
         ]
       },
       {
-        "en": "Watch: Moment a government building collapses into a river in Nepal during floods",
+        "en": "The takeover - merging two of the biggest studios in Los Angeles - comes after months of legal disputes and widespread criticism over feared cuts and consolidation could harm competition and consumers.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Watch: Moment a government building collapses into a river in Nepal during floods",
-            "ko": "실시간 보도 번역: Watch: Moment a government building collapses into a river in Nepal during floods"
+            "en": "The takeover - merging two of the biggest studios in Los Angeles - comes after months of legal disputes and widespread criticism over feared cuts and consolidation could harm competition and consumers.",
+            "ko": "실시간 보도 번역: The takeover - merging two of the biggest studios in Los Angeles - comes after months of legal disputes and widespread criticism over feared cuts and consolidation could harm competition and consumers."
           }
         ]
       },
       {
-        "en": "Another wave of landslides and heavy rain has killed about 30 people in Nepal, as the Himalayan nation reels from August&#x27;s catastrophic flooding that left 1,400 dead and thousands more missing.",
+        "en": "It will alter streaming for millions, usher in a new chapter in the film and TV industry, and leave one of the biggest US news outlets, CNN, in uncertain territory.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Another wave of landslides and heavy rain has killed about 30 people in Nepal, as the Himalayan nation reels from August&#x27;s catastrophic flooding that left 1,400 dead and thousands more missing.",
-            "ko": "실시간 보도 번역: Another wave of landslides and heavy rain has killed about 30 people in Nepal, as the Himalayan nation reels from August&#x27;s catastrophic flooding that left 1,400 dead and thousands more missing."
+            "en": "It will alter streaming for millions, usher in a new chapter in the film and TV industry, and leave one of the biggest US news outlets, CNN, in uncertain territory.",
+            "ko": "실시간 보도 번역: It will alter streaming for millions, usher in a new chapter in the film and TV industry, and leave one of the biggest US news outlets, CNN, in uncertain territory."
           }
         ]
       },
       {
-        "en": "The national disaster management authority says more than 1,900 families have been affected since late last week with more than 240 homes damaged. Roads, buildings and bridges have been swept away.",
+        "en": "The merger will also bring together a host of entities including HBO, CBS, Nickelodeon, Showtime, Comedy Central, DC Studios and Food Network.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The national disaster management authority says more than 1,900 families have been affected since late last week with more than 240 homes damaged.",
-            "ko": "실시간 보도 번역: The national disaster management authority says more than 1,900 families have been affected since late last week with more than 240 homes damaged."
-          },
-          {
-            "en": "Roads, buildings and bridges have been swept away.",
-            "ko": "실시간 보도 번역: Roads, buildings and bridges have been swept away."
+            "en": "The merger will also bring together a host of entities including HBO, CBS, Nickelodeon, Showtime, Comedy Central, DC Studios and Food Network.",
+            "ko": "실시간 보도 번역: The merger will also bring together a host of entities including HBO, CBS, Nickelodeon, Showtime, Comedy Central, DC Studios and Food Network."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "글로벌 최신 소식: Paramount takes over Warner Bros in $110bn Hollywood merger",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1655,7 +1740,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+          "Paramount takes over Warner Bros in $110bn Hollywood merger",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2378,74 +2463,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_1248890776501276836",
-    "title": "Vape prices to rise as new tax takes effect",
-    "subtitle": "Vaping is about to becoming more expensive due to a new tax on products....",
-    "speaker": "BBC Business",
-    "date": "2026-09-30",
-    "addedAt": "2026-10-01T03:44:41Z",
-    "category": "economy",
+    "id": "auto_sports_789195818912447426",
+    "title": "Calm in real life but demons on court - Medvedev finally runs out of chances",
+    "subtitle": "Daniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry - but his Chi...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-06",
+    "addedAt": "2026-10-06T17:48:08Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 151,
+    "wordCount": 152,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVape prices to rise as new tax takes effectImage source, Getty ImagesImage caption, The government is trying to make vaping more expensive and less appealing to young people",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCalm in real life but demons on court - Medvedev runs out of chancesTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVape prices to rise as new tax takes effectImage source, Getty ImagesImage caption, The government is trying to make vaping more expensive and less appealing to young people",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVape prices to rise as new tax takes effectImage source, Getty ImagesImage caption, The government is trying to make vaping more expensive and less appealing to young people"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCalm in real life but demons on court - Medvedev runs out of chancesTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCalm in real life but demons on court - Medvedev runs out of chancesTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "The price of vapes is set to rise as a new tax comes into effect, with the aim of making vaping less attractive to children and young people.",
+        "en": "Tennis correspondentPublished6 hours agoDaniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The price of vapes is set to rise as a new tax comes into effect, with the aim of making vaping less attractive to children and young people.",
-            "ko": "실시간 보도 번역: The price of vapes is set to rise as a new tax comes into effect, with the aim of making vaping less attractive to children and young people."
+            "en": "Tennis correspondentPublished6 hours agoDaniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry.",
+            "ko": "실시간 보도 번역: Tennis correspondentPublished6 hours agoDaniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry."
           }
         ]
       },
       {
-        "en": "The Vaping Product Duty will be imposed at a rate of £2.20 per 10ml of e-liquid. However, many customers will not see a jump in prices immediately, as sellers have six months to sell old stock at the pre-duty price.",
+        "en": "On court, though, he is a far more combustible character who finally ran out of chances when he was disqualified from Monday&#x27;s China Open semi-final against Novak Djokovic.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Vaping Product Duty will be imposed at a rate of £2.",
-            "ko": "실시간 보도 번역: The Vaping Product Duty will be imposed at a rate of £2."
+            "en": "On court, though, he is a far more combustible character who finally ran out of chances when he was disqualified from Monday&#x27;s China Open semi-final against Novak Djokovic.",
+            "ko": "실시간 보도 번역: On court, though, he is a far more combustible character who finally ran out of chances when he was disqualified from Monday&#x27;s China Open semi-final against Novak Djokovic."
+          }
+        ]
+      },
+      {
+        "en": "Djokovic was serving for a place in the final when the ball ricocheted off the back of the court. Medvedev swiped it into the stands, where it hit a spectator in the face.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Djokovic was serving for a place in the final when the ball ricocheted off the back of the court.",
+            "ko": "실시간 보도 번역: Djokovic was serving for a place in the final when the ball ricocheted off the back of the court."
           },
           {
-            "en": "20 per 10ml of e-liquid.",
-            "ko": "실시간 보도 번역: 20 per 10ml of e-liquid."
-          },
-          {
-            "en": "However, many customers will not see a jump in prices immediately, as sellers have six months to sell old stock at the pre-duty price.",
-            "ko": "실시간 보도 번역: However, many customers will not see a jump in prices immediately, as sellers have six months to sell old stock at the pre-duty price."
-          }
-        ]
-      },
-      {
-        "en": "The government wants to reduce the appeal of vapes by making them more expensive, as more evidence of its adverse effect on health comes out, particularly on children and young people.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The government wants to reduce the appeal of vapes by making them more expensive, as more evidence of its adverse effect on health comes out, particularly on children and young people.",
-            "ko": "실시간 보도 번역: The government wants to reduce the appeal of vapes by making them more expensive, as more evidence of its adverse effect on health comes out, particularly on children and young people."
+            "en": "Medvedev swiped it into the stands, where it hit a spectator in the face.",
+            "ko": "실시간 보도 번역: Medvedev swiped it into the stands, where it hit a spectator in the face."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Vape prices to rise as new tax takes effect",
+      "글로벌 최신 소식: Calm in real life but demons on court - Medvedev finally runs out of chances",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2453,14 +2534,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Vape prices to rise as new tax takes effect",
+          "Calm in real life but demons on court - Medvedev finally runs out of chances",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_8101891110362450098",
@@ -3174,66 +3257,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_6288245560739320068",
-    "title": "Djokovic wins first match since Wimbledon at China Open",
-    "subtitle": "Novak Djokovic beats Nuno Borges at the China Open to secure his first win since reaching the Wimbledon semi-finals in July....",
-    "speaker": "BBC Tennis",
-    "date": "2026-09-30",
-    "addedAt": "2026-10-01T03:44:41Z",
-    "category": "sports",
+    "id": "auto_culture_3767591337527589392",
+    "title": "Author and former politician Jeffrey Archer dies aged 86",
+    "subtitle": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released...",
+    "speaker": "BBC Arts",
+    "date": "2026-10-06",
+    "addedAt": "2026-10-06T17:48:10Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 134,
+    "wordCount": 111,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic wins first match since Wimbledon at China OpenTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN. IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsAuthor and former politician Jeffrey Archer dies aged 86To play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic wins first match since Wimbledon at China OpenTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic wins first match since Wimbledon at China OpenTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN."
+          },
+          {
+            "en": "IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsAuthor and former politician Jeffrey Archer dies aged 86To play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsAuthor and former politician Jeffrey Archer dies aged 86To play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Djokovic beats Borges at the China Open for first win since Wimbledon",
+        "en": "Watch: Jeffrey Archer spoke about his time in prison, today&#x27;s politics and retirement in a BBC Breakfast interview last week",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Djokovic beats Borges at the China Open for first win since Wimbledon",
-            "ko": "실시간 보도 번역: Djokovic beats Borges at the China Open for first win since Wimbledon"
+            "en": "Watch: Jeffrey Archer spoke about his time in prison, today&#x27;s politics and retirement in a BBC Breakfast interview last week",
+            "ko": "실시간 보도 번역: Watch: Jeffrey Archer spoke about his time in prison, today&#x27;s politics and retirement in a BBC Breakfast interview last week"
           }
         ]
       },
       {
-        "en": "Novak Djokovic maintained his remarkable unbeaten record at the China Open as he beat Nuno Borges to secure his first win since reaching the Wimbledon semi-finals in July.",
+        "en": "Bestselling author and former politician Jeffrey Archer has died at the age of 86.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Novak Djokovic maintained his remarkable unbeaten record at the China Open as he beat Nuno Borges to secure his first win since reaching the Wimbledon semi-finals in July.",
-            "ko": "실시간 보도 번역: Novak Djokovic maintained his remarkable unbeaten record at the China Open as he beat Nuno Borges to secure his first win since reaching the Wimbledon semi-finals in July."
+            "en": "Bestselling author and former politician Jeffrey Archer has died at the age of 86.",
+            "ko": "실시간 보도 번역: Bestselling author and former politician Jeffrey Archer has died at the age of 86."
           }
         ]
       },
       {
-        "en": "The 39-year-old former world number one struggled in the second set but came through to win 6-3 7-6 (7-2) for his 30th consecutive victory in Beijing, albeit in his first appearance at the event since 2015.",
+        "en": "Archer sold more than 300 million books in his five-decade writing career, including the Clifton Chronicles and Kane and Abel, and often set the novels in his home town of Wellington, Somerset.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 39-year-old former world number one struggled in the second set but came through to win 6-3 7-6 (7-2) for his 30th consecutive victory in Beijing, albeit in his first appearance at the event since 2015.",
-            "ko": "실시간 보도 번역: The 39-year-old former world number one struggled in the second set but came through to win 6-3 7-6 (7-2) for his 30th consecutive victory in Beijing, albeit in his first appearance at the event since 2015."
+            "en": "Archer sold more than 300 million books in his five-decade writing career, including the Clifton Chronicles and Kane and Abel, and often set the novels in his home town of Wellington, Somerset.",
+            "ko": "실시간 보도 번역: Archer sold more than 300 million books in his five-decade writing career, including the Clifton Chronicles and Kane and Abel, and often set the novels in his home town of Wellington, Somerset."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Djokovic wins first match since Wimbledon at China Open",
+      "글로벌 최신 소식: Author and former politician Jeffrey Archer dies aged 86",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3241,16 +3328,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Djokovic wins first match since Wimbledon at China Open",
+          "Author and former politician Jeffrey Archer dies aged 86",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_2270837066646926628",
@@ -3969,87 +4054,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Naomi Campbell wins appeal over charity ban",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_880130186427499271",
-    "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
-    "subtitle": "Rantzen, who fronted the BBC's That's Life for two decades, went on to found Childline, and in recent years had been a campaigner ...",
-    "speaker": "BBC Arts",
-    "date": "2026-09-30",
-    "addedAt": "2026-10-01T03:44:43Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 90,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatVeteran broadcaster Dame Esther Rantzen dies aged 86To play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatVeteran broadcaster Dame Esther Rantzen dies aged 86To play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatVeteran broadcaster Dame Esther Rantzen dies aged 86To play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Watch: Dame Esther Rantzen, broadcaster, campaigner and charity founder, dies aged 86",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Watch: Dame Esther Rantzen, broadcaster, campaigner and charity founder, dies aged 86",
-            "ko": "실시간 보도 번역: Watch: Dame Esther Rantzen, broadcaster, campaigner and charity founder, dies aged 86"
-          }
-        ]
-      },
-      {
-        "en": "Dame Esther Rantzen, who presented BBC show That&#x27;s Life! for 21 years and launched the charity Childline, has died at the age of 86.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Dame Esther Rantzen, who presented BBC show That&#x27;s Life!",
-            "ko": "실시간 보도 번역: Dame Esther Rantzen, who presented BBC show That&#x27;s Life!"
-          },
-          {
-            "en": "for 21 years and launched the charity Childline, has died at the age of 86.",
-            "ko": "실시간 보도 번역: for 21 years and launched the charity Childline, has died at the age of 86."
-          }
-        ]
-      },
-      {
-        "en": "Prime Minister Andy Burnham said the veteran broadcaster and campaigner had &quot;changed countless lives&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Prime Minister Andy Burnham said the veteran broadcaster and campaigner had &quot;changed countless lives&quot;.",
-            "ko": "실시간 보도 번역: Prime Minister Andy Burnham said the veteran broadcaster and campaigner had &quot;changed countless lives&quot;."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Veteran broadcaster Dame Esther Rantzen dies aged 86",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Veteran broadcaster Dame Esther Rantzen dies aged 86",
           "Historical retrospective",
           "Unrelated general weather"
         ],
