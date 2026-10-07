@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_6700425133843446162",
+    "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+    "subtitle": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try...",
+    "speaker": "BBC Technology",
+    "date": "2026-10-06",
+    "addedAt": "2026-10-07T03:54:53Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 137,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechBraid-creator Jonathan Blow on making the &#x27;biggest puzzle game ever&#x27;Image source, Thekla, Inc., Arc GamesByLaura CressTechnology reporterPublished4 hours agoFor ten years, Jonathan Blow has been working with a small team on what he believes is &quot;the biggest puzzle game ever made&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechBraid-creator Jonathan Blow on making the &#x27;biggest puzzle game ever&#x27;Image source, Thekla, Inc.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechBraid-creator Jonathan Blow on making the &#x27;biggest puzzle game ever&#x27;Image source, Thekla, Inc."
+          },
+          {
+            "en": ", Arc GamesByLaura CressTechnology reporterPublished4 hours agoFor ten years, Jonathan Blow has been working with a small team on what he believes is &quot;the biggest puzzle game ever made&quot;.",
+            "ko": "실시간 보도 번역: , Arc GamesByLaura CressTechnology reporterPublished4 hours agoFor ten years, Jonathan Blow has been working with a small team on what he believes is &quot;the biggest puzzle game ever made&quot;."
+          }
+        ]
+      },
+      {
+        "en": "The American developer is renowned as one of the fathers of the modern indie game movement, creating the genre-defining puzzle-platformer Braid in 2008.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The American developer is renowned as one of the fathers of the modern indie game movement, creating the genre-defining puzzle-platformer Braid in 2008.",
+            "ko": "실시간 보도 번역: The American developer is renowned as one of the fathers of the modern indie game movement, creating the genre-defining puzzle-platformer Braid in 2008."
+          }
+        ]
+      },
+      {
+        "en": "Now, a decade on from his last project, The Witness, The Order of the Sinking Star is due to be released on Thursday - a game with roughly 1,500 puzzles that he estimates could take around 500 hours to complete.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Now, a decade on from his last project, The Witness, The Order of the Sinking Star is due to be released on Thursday - a game with roughly 1,500 puzzles that he estimates could take around 500 hours to complete.",
+            "ko": "실시간 보도 번역: Now, a decade on from his last project, The Witness, The Order of the Sinking Star is due to be released on Thursday - a game with roughly 1,500 puzzles that he estimates could take around 500 hours to complete."
+          }
+        ]
+      },
+      {
+        "en": "So why make something the majority of players may never get even halfway through, let alone finish?",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "So why make something the majority of players may never get even halfway through, let alone finish?",
+            "ko": "실시간 보도 번역: So why make something the majority of players may never get even halfway through, let alone finish?"
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1828721946077054838",
     "title": "Italian PM files to trademark her voice against AI threats",
     "subtitle": "Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes....",
@@ -706,70 +787,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_8817155126974949906",
-    "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-    "subtitle": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-01",
-    "addedAt": "2026-10-01T17:53:56Z",
-    "category": "tech",
+    "id": "auto_science_4205617121826614368",
+    "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+    "subtitle": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show....",
+    "speaker": "BBC Science",
+    "date": "2026-10-06",
+    "addedAt": "2026-10-07T03:54:53Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 126,
+    "wordCount": 149,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechTrump&#x27;s AI rebrand causes &#x27;unprecedented&#x27; demand for Slovenian website namesImage source, Getty ImagesByLaura CressTechnology reporterPublished6 hours agoDonald Trump&#x27;s push to rename AI may be behind an &quot;unprecedented&quot; rise in registrations for domain names in Slovenia, according to its official national registry.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaA beautiful Himalayan bird is changing its voice due to human activity, research showsImage source, Rajeev LochanImage caption, The male monal has distinctive green, blue and copper plumage",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechTrump&#x27;s AI rebrand causes &#x27;unprecedented&#x27; demand for Slovenian website namesImage source, Getty ImagesByLaura CressTechnology reporterPublished6 hours agoDonald Trump&#x27;s push to rename AI may be behind an &quot;unprecedented&quot; rise in registrations for domain names in Slovenia, according to its official national registry.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechTrump&#x27;s AI rebrand causes &#x27;unprecedented&#x27; demand for Slovenian website namesImage source, Getty ImagesByLaura CressTechnology reporterPublished6 hours agoDonald Trump&#x27;s push to rename AI may be behind an &quot;unprecedented&quot; rise in registrations for domain names in Slovenia, according to its official national registry."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaA beautiful Himalayan bird is changing its voice due to human activity, research showsImage source, Rajeev LochanImage caption, The male monal has distinctive green, blue and copper plumage",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaA beautiful Himalayan bird is changing its voice due to human activity, research showsImage source, Rajeev LochanImage caption, The male monal has distinctive green, blue and copper plumage"
           }
         ]
       },
       {
-        "en": "The US president wants AI to be called &quot;super intelligence&quot; - or SI - the same initials used by Slovenian websites.",
+        "en": "A sharp increase in human activity is having an impact on the way a Himalayan bird lives and communicates, two studies by Indian researchers have found.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The US president wants AI to be called &quot;super intelligence&quot; - or SI - the same initials used by Slovenian websites.",
-            "ko": "실시간 보도 번역: The US president wants AI to be called &quot;super intelligence&quot; - or SI - the same initials used by Slovenian websites."
+            "en": "A sharp increase in human activity is having an impact on the way a Himalayan bird lives and communicates, two studies by Indian researchers have found.",
+            "ko": "실시간 보도 번역: A sharp increase in human activity is having an impact on the way a Himalayan bird lives and communicates, two studies by Indian researchers have found."
           }
         ]
       },
       {
-        "en": "Register.si spokeswoman Klara Herman said 44,000 web addresses with the .si suffix had been registered in September, compared to less than 2,000 in August - an increase of more than 2,100%.",
+        "en": "The monal, a pheasant native to Himalayan mountain forests, is deeply woven into the region&#x27;s cultural, folklore and identity. The eye-catching monal - the male has distinctive green, blue and copper feathers - is the state bird of India&#x27;s Uttarakhand state and the national bird of Nepal, reflecting its cultural significance across the Himalayas.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "si spokeswoman Klara Herman said 44,000 web addresses with the .",
-            "ko": "실시간 보도 번역: si spokeswoman Klara Herman said 44,000 web addresses with the ."
+            "en": "The monal, a pheasant native to Himalayan mountain forests, is deeply woven into the region&#x27;s cultural, folklore and identity.",
+            "ko": "실시간 보도 번역: The monal, a pheasant native to Himalayan mountain forests, is deeply woven into the region&#x27;s cultural, folklore and identity."
           },
           {
-            "en": "si suffix had been registered in September, compared to less than 2,000 in August - an increase of more than 2,100%.",
-            "ko": "실시간 보도 번역: si suffix had been registered in September, compared to less than 2,000 in August - an increase of more than 2,100%."
+            "en": "The eye-catching monal - the male has distinctive green, blue and copper feathers - is the state bird of India&#x27;s Uttarakhand state and the national bird of Nepal, reflecting its cultural significance across the Himalayas.",
+            "ko": "실시간 보도 번역: The eye-catching monal - the male has distinctive green, blue and copper feathers - is the state bird of India&#x27;s Uttarakhand state and the national bird of Nepal, reflecting its cultural significance across the Himalayas."
           }
         ]
       },
       {
-        "en": "She said the scale of activity in late September was &quot;unprecedented&quot; compared to the previous 12 months.",
+        "en": "But studies show that infrastructure development and tourism are squeezing its habitat, while increasing noise is altering how it communicates with potential mates and rivals.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "She said the scale of activity in late September was &quot;unprecedented&quot; compared to the previous 12 months.",
-            "ko": "실시간 보도 번역: She said the scale of activity in late September was &quot;unprecedented&quot; compared to the previous 12 months."
+            "en": "But studies show that infrastructure development and tourism are squeezing its habitat, while increasing noise is altering how it communicates with potential mates and rivals.",
+            "ko": "실시간 보도 번역: But studies show that infrastructure development and tourism are squeezing its habitat, while increasing noise is altering how it communicates with potential mates and rivals."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "글로벌 최신 소식: A beautiful Himalayan bird is changing its voice due to human activity, research shows",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -777,7 +858,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+          "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1540,122 +1621,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_4575058870143601302",
-    "title": "SpaceX launches crew to ISS",
-    "subtitle": "The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months a...",
-    "speaker": "BBC Science",
-    "date": "2026-10-01",
-    "addedAt": "2026-10-01T17:53:56Z",
-    "category": "science",
+    "id": "auto_economy_728674386972834531",
+    "title": "From 'woke' ridicule to real car - new electric Jaguar unveiled",
+    "subtitle": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has unveiled its new electric car....",
+    "speaker": "BBC Business",
+    "date": "2026-10-07",
+    "addedAt": "2026-10-07T03:54:54Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 209,
+    "wordCount": 136,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Watch: SpaceX launches crew to International Space Station\",\"description\":\"The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months aboard the International Space Station.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pdhh18.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pdhh18.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pdhh18.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pdhh18.jpg\"],\"uploadDate\":\"2026-10-01T16:32:17.487Z\",\"duration\":\"PT40S\"}SpaceX launches crew to ISSTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessIncredible or catastrophic? Jaguar unveils its polarising electric carImage source, Variety via Getty ImagesImage caption, The Type 01&#x27;s launch event was attended by celebrities including actor Florence Pugh",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema."
-          },
-          {
-            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Watch: SpaceX launches crew to International Space Station\",\"description\":\"The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months aboard the International Space Station.",
-            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Watch: SpaceX launches crew to International Space Station\",\"description\":\"The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months aboard the International Space Station."
-          },
-          {
-            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
-            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1920/galileo/p0pdhh18.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pdhh18."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1248/galileo/p0pdhh18.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pdhh18."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/688/galileo/p0pdhh18.",
-            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pdhh18."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/400/galileo/p0pdhh18.",
-            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pdhh18."
-          },
-          {
-            "en": "jpg\"],\"uploadDate\":\"2026-10-01T16:32:17.",
-            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-10-01T16:32:17."
-          },
-          {
-            "en": "487Z\",\"duration\":\"PT40S\"}SpaceX launches crew to ISSTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: 487Z\",\"duration\":\"PT40S\"}SpaceX launches crew to ISSTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessIncredible or catastrophic?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessIncredible or catastrophic?"
           }
         ]
       },
       {
-        "en": "CloseThe SpaceX Falcon 9 rocket launched from Cap Canaveral, Florida to the International Space Station carrying Crew-13. The team is comprised of two Nasa astronauts, a Russian cosmonaut and a Canadian astronaut whose wife is expecting their third child two months into the mission. They&#x27;ll become the fourth couple in the history of space travel to have a child born while one parent was off the planet, according to CBSNews.",
+        "en": "Two years ago, Jaguar Land Rover (JLR) relaunched Jaguar into a blizzard of controversy. Its bizarre teaser ad was described as &quot;woke&quot; and its &quot;Barbie pink&quot; concept car was ridiculed.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "CloseThe SpaceX Falcon 9 rocket launched from Cap Canaveral, Florida to the International Space Station carrying Crew-13.",
-            "ko": "실시간 보도 번역: CloseThe SpaceX Falcon 9 rocket launched from Cap Canaveral, Florida to the International Space Station carrying Crew-13."
+            "en": "Two years ago, Jaguar Land Rover (JLR) relaunched Jaguar into a blizzard of controversy.",
+            "ko": "실시간 보도 번역: Two years ago, Jaguar Land Rover (JLR) relaunched Jaguar into a blizzard of controversy."
           },
           {
-            "en": "The team is comprised of two Nasa astronauts, a Russian cosmonaut and a Canadian astronaut whose wife is expecting their third child two months into the mission.",
-            "ko": "실시간 보도 번역: The team is comprised of two Nasa astronauts, a Russian cosmonaut and a Canadian astronaut whose wife is expecting their third child two months into the mission."
-          },
-          {
-            "en": "They&#x27;ll become the fourth couple in the history of space travel to have a child born while one parent was off the planet, according to CBSNews.",
-            "ko": "실시간 보도 번역: They&#x27;ll become the fourth couple in the history of space travel to have a child born while one parent was off the planet, according to CBSNews."
+            "en": "Its bizarre teaser ad was described as &quot;woke&quot; and its &quot;Barbie pink&quot; concept car was ridiculed.",
+            "ko": "실시간 보도 번역: Its bizarre teaser ad was described as &quot;woke&quot; and its &quot;Barbie pink&quot; concept car was ridiculed."
           }
         ]
       },
       {
-        "en": "The launch was originally planned for mid-September, but was delayed to replace a valve in the Crew Dragon&#x27;s propulsion system. It will take 7 hours and 50 minutes for the crew to reach the ISS where they will be conducting experiments and research toward future missions to the Moon and Mars, according to Nasa.",
+        "en": "Now, the first of its new models has appeared in public for the first time. The all-electric Type 01, unveiled in New York, represents a radical new direction for the classic brand.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The launch was originally planned for mid-September, but was delayed to replace a valve in the Crew Dragon&#x27;s propulsion system.",
-            "ko": "실시간 보도 번역: The launch was originally planned for mid-September, but was delayed to replace a valve in the Crew Dragon&#x27;s propulsion system."
+            "en": "Now, the first of its new models has appeared in public for the first time.",
+            "ko": "실시간 보도 번역: Now, the first of its new models has appeared in public for the first time."
           },
           {
-            "en": "It will take 7 hours and 50 minutes for the crew to reach the ISS where they will be conducting experiments and research toward future missions to the Moon and Mars, according to Nasa.",
-            "ko": "실시간 보도 번역: It will take 7 hours and 50 minutes for the crew to reach the ISS where they will be conducting experiments and research toward future missions to the Moon and Mars, according to Nasa."
+            "en": "The all-electric Type 01, unveiled in New York, represents a radical new direction for the classic brand.",
+            "ko": "실시간 보도 번역: The all-electric Type 01, unveiled in New York, represents a radical new direction for the classic brand."
           }
         ]
       },
       {
-        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsInternational Space StationFollow International Space Station",
+        "en": "The car itself is an imposing four-door &quot;Grand Tourer&quot;, with a long bonnet that deliberately harks back to Jaguar&#x27;s emblematic 1960s E-Type.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsInternational Space StationFollow International Space Station",
-            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsInternational Space StationFollow International Space Station"
+            "en": "The car itself is an imposing four-door &quot;Grand Tourer&quot;, with a long bonnet that deliberately harks back to Jaguar&#x27;s emblematic 1960s E-Type.",
+            "ko": "실시간 보도 번역: The car itself is an imposing four-door &quot;Grand Tourer&quot;, with a long bonnet that deliberately harks back to Jaguar&#x27;s emblematic 1960s E-Type."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: SpaceX launches crew to ISS",
+      "글로벌 최신 소식: From 'woke' ridicule to real car - new electric Jaguar unveiled",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1663,7 +1696,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "SpaceX launches crew to ISS",
+          "From 'woke' ridicule to real car - new electric Jaguar unveiled",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2386,66 +2419,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_253871774128721368",
-    "title": "AI boom could trigger market shocks, Bank of England boss warns",
-    "subtitle": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\"....",
-    "speaker": "BBC Business",
-    "date": "2026-10-01",
-    "addedAt": "2026-10-01T17:53:57Z",
-    "category": "economy",
+    "id": "auto_sports_2486443221870218395",
+    "title": "Calm in real life but demons on court - Medvedev finally runs out of chances",
+    "subtitle": "Daniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry - but his Chi...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-06",
+    "addedAt": "2026-10-07T03:54:54Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 117,
+    "wordCount": 152,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI boom could trigger market shocks, Bank of England boss warnsTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCalm in real life but demons on court - Medvedev runs out of chancesTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI boom could trigger market shocks, Bank of England boss warnsTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI boom could trigger market shocks, Bank of England boss warnsTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCalm in real life but demons on court - Medvedev runs out of chancesTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCalm in real life but demons on court - Medvedev runs out of chancesTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Watch: Governor of the Bank of England Andrew Bailey says quality of deepfakes &#x27;alarming&#x27;",
+        "en": "Tennis correspondentPublished6 October 2026Daniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Watch: Governor of the Bank of England Andrew Bailey says quality of deepfakes &#x27;alarming&#x27;",
-            "ko": "실시간 보도 번역: Watch: Governor of the Bank of England Andrew Bailey says quality of deepfakes &#x27;alarming&#x27;"
+            "en": "Tennis correspondentPublished6 October 2026Daniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry.",
+            "ko": "실시간 보도 번역: Tennis correspondentPublished6 October 2026Daniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry."
           }
         ]
       },
       {
-        "en": "Artificial intelligence (AI) could trigger financial market shocks and the UK needs to be prepared for them, the governor of the Bank of England has warned.",
+        "en": "On court, though, he is a far more combustible character who finally ran out of chances when he was disqualified from Monday&#x27;s China Open semi-final against Novak Djokovic.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Artificial intelligence (AI) could trigger financial market shocks and the UK needs to be prepared for them, the governor of the Bank of England has warned.",
-            "ko": "실시간 보도 번역: Artificial intelligence (AI) could trigger financial market shocks and the UK needs to be prepared for them, the governor of the Bank of England has warned."
+            "en": "On court, though, he is a far more combustible character who finally ran out of chances when he was disqualified from Monday&#x27;s China Open semi-final against Novak Djokovic.",
+            "ko": "실시간 보도 번역: On court, though, he is a far more combustible character who finally ran out of chances when he was disqualified from Monday&#x27;s China Open semi-final against Novak Djokovic."
           }
         ]
       },
       {
-        "en": "Andrew Bailey said the central bank is watching the huge amounts of money being invested in AI &quot;very carefully&quot; and cautioned that &quot;not everybody always wins&quot;.",
+        "en": "Djokovic was serving for a place in the final when the ball ricocheted off the back of the court. Medvedev swiped it into the stands, where it hit a spectator in the face.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Andrew Bailey said the central bank is watching the huge amounts of money being invested in AI &quot;very carefully&quot; and cautioned that &quot;not everybody always wins&quot;.",
-            "ko": "실시간 보도 번역: Andrew Bailey said the central bank is watching the huge amounts of money being invested in AI &quot;very carefully&quot; and cautioned that &quot;not everybody always wins&quot;."
+            "en": "Djokovic was serving for a place in the final when the ball ricocheted off the back of the court.",
+            "ko": "실시간 보도 번역: Djokovic was serving for a place in the final when the ball ricocheted off the back of the court."
+          },
+          {
+            "en": "Medvedev swiped it into the stands, where it hit a spectator in the face.",
+            "ko": "실시간 보도 번역: Medvedev swiped it into the stands, where it hit a spectator in the face."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: AI boom could trigger market shocks, Bank of England boss warns",
+      "글로벌 최신 소식: Calm in real life but demons on court - Medvedev finally runs out of chances",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2453,14 +2490,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "AI boom could trigger market shocks, Bank of England boss warns",
+          "Calm in real life but demons on court - Medvedev finally runs out of chances",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_789195818912447426",
@@ -3178,66 +3217,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_7644690335077065868",
-    "title": "'I kept fighting right to the end' - emotional Nishikori retires",
-    "subtitle": "A tearful Kei Nishikori says he \"kept fighting right to the end\" as the former world number four ends his professional career at t...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-01",
-    "addedAt": "2026-10-01T17:53:58Z",
-    "category": "sports",
+    "id": "auto_culture_5882763503135022279",
+    "title": "Queen pays tribute to 'irrepressible' Jeffrey Archer",
+    "subtitle": "The bestselling author and former politician died on Monday at the age of 86....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-06",
+    "addedAt": "2026-10-07T03:54:55Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 121,
+    "wordCount": 147,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I kept fighting right to the end&#x27; - emotional Nishikori retiresTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsQueen pays tribute to &#x27;irrepressible&#x27; Jeffrey ArcherImage source, Getty ImagesByEmma Saunders, Culture reporter and Henry MoorePublished6 October 2026Queen Camilla has paid tribute to the bestselling author and former politician Jeffrey Archer, who has died at the age of 86.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I kept fighting right to the end&#x27; - emotional Nishikori retiresTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;I kept fighting right to the end&#x27; - emotional Nishikori retiresTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsQueen pays tribute to &#x27;irrepressible&#x27; Jeffrey ArcherImage source, Getty ImagesByEmma Saunders, Culture reporter and Henry MoorePublished6 October 2026Queen Camilla has paid tribute to the bestselling author and former politician Jeffrey Archer, who has died at the age of 86.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsQueen pays tribute to &#x27;irrepressible&#x27; Jeffrey ArcherImage source, Getty ImagesByEmma Saunders, Culture reporter and Henry MoorePublished6 October 2026Queen Camilla has paid tribute to the bestselling author and former politician Jeffrey Archer, who has died at the age of 86."
           }
         ]
       },
       {
-        "en": "Watch Nishikori&#x27;s emotional send-off as he retires at Japan Open",
+        "en": "&quot;Seldom does an author get to live a life as rich, varied and colourful as any of the characters in their books, or with as many surprising plot twists,&quot; the Queen said in a statement.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Watch Nishikori&#x27;s emotional send-off as he retires at Japan Open",
-            "ko": "실시간 보도 번역: Watch Nishikori&#x27;s emotional send-off as he retires at Japan Open"
+            "en": "&quot;Seldom does an author get to live a life as rich, varied and colourful as any of the characters in their books, or with as many surprising plot twists,&quot; the Queen said in a statement.",
+            "ko": "실시간 보도 번역: &quot;Seldom does an author get to live a life as rich, varied and colourful as any of the characters in their books, or with as many surprising plot twists,&quot; the Queen said in a statement."
           }
         ]
       },
       {
-        "en": "A tearful Kei Nishikori said he &quot;kept fighting right to the end&quot; as the former world number four ended his professional career at the Japan Open.",
+        "en": "She added that Archer was &quot;not without flaw&quot;, but that &quot;friends will recall him as an irrepressible life force through all the many differing chapters of his life&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A tearful Kei Nishikori said he &quot;kept fighting right to the end&quot; as the former world number four ended his professional career at the Japan Open.",
-            "ko": "실시간 보도 번역: A tearful Kei Nishikori said he &quot;kept fighting right to the end&quot; as the former world number four ended his professional career at the Japan Open."
+            "en": "She added that Archer was &quot;not without flaw&quot;, but that &quot;friends will recall him as an irrepressible life force through all the many differing chapters of his life&quot;.",
+            "ko": "실시간 보도 번역: She added that Archer was &quot;not without flaw&quot;, but that &quot;friends will recall him as an irrepressible life force through all the many differing chapters of his life&quot;."
           }
         ]
       },
       {
-        "en": "Nishikori, known as one of the best players to never win a Grand Slam, lost 6-4 6-4 to world number eight Frances Tiafoe in Tokyo.",
+        "en": "The former Conservative MP was jailed for perjury in 2001 after being found guilty of lying and cheating in his 1987 libel case against the Daily Star.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Nishikori, known as one of the best players to never win a Grand Slam, lost 6-4 6-4 to world number eight Frances Tiafoe in Tokyo.",
-            "ko": "실시간 보도 번역: Nishikori, known as one of the best players to never win a Grand Slam, lost 6-4 6-4 to world number eight Frances Tiafoe in Tokyo."
+            "en": "The former Conservative MP was jailed for perjury in 2001 after being found guilty of lying and cheating in his 1987 libel case against the Daily Star.",
+            "ko": "실시간 보도 번역: The former Conservative MP was jailed for perjury in 2001 after being found guilty of lying and cheating in his 1987 libel case against the Daily Star."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'I kept fighting right to the end' - emotional Nishikori retires",
+      "글로벌 최신 소식: Queen pays tribute to 'irrepressible' Jeffrey Archer",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3245,16 +3284,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'I kept fighting right to the end' - emotional Nishikori retires",
+          "Queen pays tribute to 'irrepressible' Jeffrey Archer",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_3767591337527589392",
@@ -3977,83 +4014,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_4516752548769144853",
-    "title": "Naomi Campbell wins appeal over charity ban",
-    "subtitle": "A tribunal rules that the model was unaware of misconduct at her charity Fashion for Relief....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-01",
-    "addedAt": "2026-10-01T17:53:59Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 135,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsNaomi Campbell wins appeal over charity banImage source, ReutersByIan YoungsCulture reporterPublished5 hours agoModel Naomi Campbell has won her appeal against a ban on being a charity trustee, after a tribunal ruled that she was unaware of misconduct at her charity Fashion for Relief.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsNaomi Campbell wins appeal over charity banImage source, ReutersByIan YoungsCulture reporterPublished5 hours agoModel Naomi Campbell has won her appeal against a ban on being a charity trustee, after a tribunal ruled that she was unaware of misconduct at her charity Fashion for Relief.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsNaomi Campbell wins appeal over charity banImage source, ReutersByIan YoungsCulture reporterPublished5 hours agoModel Naomi Campbell has won her appeal against a ban on being a charity trustee, after a tribunal ruled that she was unaware of misconduct at her charity Fashion for Relief."
-          }
-        ]
-      },
-      {
-        "en": "Campbell was banned from being a charity trustee for five years in 2024 after a watchdog found that Fashion for Relief funds had been spent on luxury hotels and spa treatments.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Campbell was banned from being a charity trustee for five years in 2024 after a watchdog found that Fashion for Relief funds had been spent on luxury hotels and spa treatments.",
-            "ko": "실시간 보도 번역: Campbell was banned from being a charity trustee for five years in 2024 after a watchdog found that Fashion for Relief funds had been spent on luxury hotels and spa treatments."
-          }
-        ]
-      },
-      {
-        "en": "However, a tribunal said on Thursday, external that the most serious instances of misconduct in the charity &quot;were concealed&quot; from Campbell by a fellow trustee.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "However, a tribunal said on Thursday, external that the most serious instances of misconduct in the charity &quot;were concealed&quot; from Campbell by a fellow trustee.",
-            "ko": "실시간 보도 번역: However, a tribunal said on Thursday, external that the most serious instances of misconduct in the charity &quot;were concealed&quot; from Campbell by a fellow trustee."
-          }
-        ]
-      },
-      {
-        "en": "&quot;Ms Campbell was not involved in, and did not know of, that conduct,&quot; the three-person tribunal panel said.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&quot;Ms Campbell was not involved in, and did not know of, that conduct,&quot; the three-person tribunal panel said.",
-            "ko": "실시간 보도 번역: &quot;Ms Campbell was not involved in, and did not know of, that conduct,&quot; the three-person tribunal panel said."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Naomi Campbell wins appeal over charity ban",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Naomi Campbell wins appeal over charity ban",
           "Historical retrospective",
           "Unrelated general weather"
         ],
