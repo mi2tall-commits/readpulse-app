@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_6479190971032052251",
+    "title": "Asos hackers took more personal details than first revealed, BBC finds",
+    "subtitle": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"...",
+    "speaker": "BBC Technology",
+    "date": "2026-10-08",
+    "addedAt": "2026-10-08T18:19:21Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 132,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAsos hackers took more personal details than first revealed, BBC findsImage source, AlamyByJoe TidyCyber correspondent, BBC World ServicePublished8 October 2026, 10:29 BSTUpdated 1 hour agoAsos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store&#x27;s users.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAsos hackers took more personal details than first revealed, BBC findsImage source, AlamyByJoe TidyCyber correspondent, BBC World ServicePublished8 October 2026, 10:29 BSTUpdated 1 hour agoAsos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store&#x27;s users.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAsos hackers took more personal details than first revealed, BBC findsImage source, AlamyByJoe TidyCyber correspondent, BBC World ServicePublished8 October 2026, 10:29 BSTUpdated 1 hour agoAsos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store&#x27;s users."
+          }
+        ]
+      },
+      {
+        "en": "It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week&#x27;s breach went beyond the &quot;basic contact details&quot; Asos previously said might have been accessed.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week&#x27;s breach went beyond the &quot;basic contact details&quot; Asos previously said might have been accessed.",
+            "ko": "실시간 보도 번역: It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week&#x27;s breach went beyond the &quot;basic contact details&quot; Asos previously said might have been accessed."
+          }
+        ]
+      },
+      {
+        "en": "Names, addresses, phone numbers, emails, customer numbers and dates of birth are now in the hands of criminals.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Names, addresses, phone numbers, emails, customer numbers and dates of birth are now in the hands of criminals.",
+            "ko": "실시간 보도 번역: Names, addresses, phone numbers, emails, customer numbers and dates of birth are now in the hands of criminals."
+          }
+        ]
+      },
+      {
+        "en": "One victim told the BBC it was &quot;very unsettling&quot; that the hackers now know these things about her.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "One victim told the BBC it was &quot;very unsettling&quot; that the hackers now know these things about her.",
+            "ko": "실시간 보도 번역: One victim told the BBC it was &quot;very unsettling&quot; that the hackers now know these things about her."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Asos hackers took more personal details than first revealed, BBC finds",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Asos hackers took more personal details than first revealed, BBC finds",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_6103639155459448475",
     "title": "AI chip boom pushes Samsung profits to record $80bn",
     "subtitle": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August....",
@@ -714,66 +791,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_4612970708120848559",
-    "title": "OpenAI fires workers for 'mishandling sensitive information'",
-    "subtitle": "The former employees were investigated for sharing data with an outside AI evaluation group....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-02",
-    "addedAt": "2026-10-03T03:28:42Z",
-    "category": "tech",
+    "id": "auto_science_7066409150992263271",
+    "title": "First Hurricane of the Atlantic season due to hit the Gulf coast",
+    "subtitle": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern US...",
+    "speaker": "BBC Science",
+    "date": "2026-10-08",
+    "addedAt": "2026-10-08T18:19:22Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 102,
+    "wordCount": 118,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFirst Hurricane of the Atlantic season due to hit the Gulf coastImage source, BBC WeatherImage caption, Hurricane Isaias continues to strengthen in the Gulf of Mexico",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFirst Hurricane of the Atlantic season due to hit the Gulf coastImage source, BBC WeatherImage caption, Hurricane Isaias continues to strengthen in the Gulf of Mexico",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFirst Hurricane of the Atlantic season due to hit the Gulf coastImage source, BBC WeatherImage caption, Hurricane Isaias continues to strengthen in the Gulf of Mexico"
           }
         ]
       },
       {
-        "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
+        "en": "Isaias has strengthened to the first hurricane of the Atlantic season this year and will make landfall over the coming days.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
-            "ko": "실시간 보도 번역: OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models."
+            "en": "Isaias has strengthened to the first hurricane of the Atlantic season this year and will make landfall over the coming days.",
+            "ko": "실시간 보도 번역: Isaias has strengthened to the first hurricane of the Atlantic season this year and will make landfall over the coming days."
           }
         ]
       },
       {
-        "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
+        "en": "Early on Thursday morning it became a category one hurricane with sustained wind speeds in excess of 80mph (129km/h)",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
-            "ko": "실시간 보도 번역: &quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC."
+            "en": "Early on Thursday morning it became a category one hurricane with sustained wind speeds in excess of 80mph (129km/h)",
+            "ko": "실시간 보도 번역: Early on Thursday morning it became a category one hurricane with sustained wind speeds in excess of 80mph (129km/h)"
           }
         ]
       },
       {
-        "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
+        "en": "It has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday. Hurricane and Storm Surge Watches have been issued.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
-            "ko": "실시간 보도 번역: The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm."
+            "en": "It has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday.",
+            "ko": "실시간 보도 번역: It has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday."
+          },
+          {
+            "en": "Hurricane and Storm Surge Watches have been issued.",
+            "ko": "실시간 보도 번역: Hurricane and Storm Surge Watches have been issued."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI fires workers for 'mishandling sensitive information'",
+      "글로벌 최신 소식: First Hurricane of the Atlantic season due to hit the Gulf coast",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -781,7 +862,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI fires workers for 'mishandling sensitive information'",
+          "First Hurricane of the Atlantic season due to hit the Gulf coast",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1504,74 +1585,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_6496497481454314956",
-    "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
-    "subtitle": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend....",
-    "speaker": "BBC Science",
-    "date": "2026-10-02",
-    "addedAt": "2026-10-03T03:28:42Z",
-    "category": "science",
+    "id": "auto_economy_6479190971032052251",
+    "title": "Asos hackers took more personal details than first revealed, BBC finds",
+    "subtitle": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"...",
+    "speaker": "BBC Business",
+    "date": "2026-10-08",
+    "addedAt": "2026-10-08T18:19:22Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 152,
+    "wordCount": 132,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaHawaii&#x27;s iconic 550-year-old Hōlei Sea Arch collapses Image source, NPS Photo/Janice WeiByGrace Eliza GoodwinPublished6 hours agoHawaii&#x27;s famous Hōlei Sea Arch, a 90-foot-tall (27.4m) lava rock structure that formed about 550 years ago, has collapsed into the Pacific Ocean.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAsos hackers took more personal details than first revealed, BBC findsImage source, AlamyByJoe TidyCyber correspondent, BBC World ServicePublished8 October 2026, 10:29 BSTUpdated 1 hour agoAsos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store&#x27;s users.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaHawaii&#x27;s iconic 550-year-old Hōlei Sea Arch collapses Image source, NPS Photo/Janice WeiByGrace Eliza GoodwinPublished6 hours agoHawaii&#x27;s famous Hōlei Sea Arch, a 90-foot-tall (27.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaHawaii&#x27;s iconic 550-year-old Hōlei Sea Arch collapses Image source, NPS Photo/Janice WeiByGrace Eliza GoodwinPublished6 hours agoHawaii&#x27;s famous Hōlei Sea Arch, a 90-foot-tall (27."
-          },
-          {
-            "en": "4m) lava rock structure that formed about 550 years ago, has collapsed into the Pacific Ocean.",
-            "ko": "실시간 보도 번역: 4m) lava rock structure that formed about 550 years ago, has collapsed into the Pacific Ocean."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAsos hackers took more personal details than first revealed, BBC findsImage source, AlamyByJoe TidyCyber correspondent, BBC World ServicePublished8 October 2026, 10:29 BSTUpdated 1 hour agoAsos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store&#x27;s users.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAsos hackers took more personal details than first revealed, BBC findsImage source, AlamyByJoe TidyCyber correspondent, BBC World ServicePublished8 October 2026, 10:29 BSTUpdated 1 hour agoAsos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store&#x27;s users."
           }
         ]
       },
       {
-        "en": "The collapse&#x27;s exact time is not known. The arch was still projecting into the water from the coast of Volcanoes National Park on 23 September, but was gone by 27 September, the National Park Service (NPS) said.",
+        "en": "It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week&#x27;s breach went beyond the &quot;basic contact details&quot; Asos previously said might have been accessed.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The collapse&#x27;s exact time is not known.",
-            "ko": "실시간 보도 번역: The collapse&#x27;s exact time is not known."
-          },
-          {
-            "en": "The arch was still projecting into the water from the coast of Volcanoes National Park on 23 September, but was gone by 27 September, the National Park Service (NPS) said.",
-            "ko": "실시간 보도 번역: The arch was still projecting into the water from the coast of Volcanoes National Park on 23 September, but was gone by 27 September, the National Park Service (NPS) said."
+            "en": "It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week&#x27;s breach went beyond the &quot;basic contact details&quot; Asos previously said might have been accessed.",
+            "ko": "실시간 보도 번역: It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week&#x27;s breach went beyond the &quot;basic contact details&quot; Asos previously said might have been accessed."
           }
         ]
       },
       {
-        "en": "&quot;The coastline flanking the sea arch has shown signs of instability for years,&quot; NPS, which warned in 2021 that the arch would eventually crumble, said in a statement.",
+        "en": "Names, addresses, phone numbers, emails, customer numbers and dates of birth are now in the hands of criminals.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;The coastline flanking the sea arch has shown signs of instability for years,&quot; NPS, which warned in 2021 that the arch would eventually crumble, said in a statement.",
-            "ko": "실시간 보도 번역: &quot;The coastline flanking the sea arch has shown signs of instability for years,&quot; NPS, which warned in 2021 that the arch would eventually crumble, said in a statement."
+            "en": "Names, addresses, phone numbers, emails, customer numbers and dates of birth are now in the hands of criminals.",
+            "ko": "실시간 보도 번역: Names, addresses, phone numbers, emails, customer numbers and dates of birth are now in the hands of criminals."
           }
         ]
       },
       {
-        "en": "Located at the end of Chain of Craters Road on the island of Hawaii, also called &quot;the big island&quot;, the formation was a popular - and heavily photographed - tourist destination.",
+        "en": "One victim told the BBC it was &quot;very unsettling&quot; that the hackers now know these things about her.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Located at the end of Chain of Craters Road on the island of Hawaii, also called &quot;the big island&quot;, the formation was a popular - and heavily photographed - tourist destination.",
-            "ko": "실시간 보도 번역: Located at the end of Chain of Craters Road on the island of Hawaii, also called &quot;the big island&quot;, the formation was a popular - and heavily photographed - tourist destination."
+            "en": "One victim told the BBC it was &quot;very unsettling&quot; that the hackers now know these things about her.",
+            "ko": "실시간 보도 번역: One victim told the BBC it was &quot;very unsettling&quot; that the hackers now know these things about her."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+      "글로벌 최신 소식: Asos hackers took more personal details than first revealed, BBC finds",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1579,7 +1652,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+          "Asos hackers took more personal details than first revealed, BBC finds",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2298,66 +2371,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_3631166677204417128",
-    "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-    "subtitle": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports....",
-    "speaker": "BBC Business",
-    "date": "2026-10-02",
-    "addedAt": "2026-10-03T03:28:43Z",
-    "category": "economy",
+    "id": "auto_sports_7614248148985463587",
+    "title": "'Draining' few days for Gauff after online racist abuse",
+    "subtitle": "Coco Gauff says she had a \"draining\" few days after receiving racist abuse online before her fourth-round China Open exit....",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-07",
+    "addedAt": "2026-10-08T18:19:23Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 137,
+    "wordCount": 138,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release 100 million barrels of oil and diesel after Trump export ban threatImage source, ReutersImage caption, Emmanuel Macron chaired a meeting of G7 leaders to agree the release of fuel reserves",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release 100 million barrels of oil and diesel after Trump export ban threatImage source, ReutersImage caption, Emmanuel Macron chaired a meeting of G7 leaders to agree the release of fuel reserves",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release 100 million barrels of oil and diesel after Trump export ban threatImage source, ReutersImage caption, Emmanuel Macron chaired a meeting of G7 leaders to agree the release of fuel reserves"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year"
           }
         ]
       },
       {
-        "en": "The G7 has agreed to release 100 million barrels of oil and diesel in a bid to ease supply pressures that have caused prices to skyrocket.",
+        "en": "Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The G7 has agreed to release 100 million barrels of oil and diesel in a bid to ease supply pressures that have caused prices to skyrocket.",
-            "ko": "실시간 보도 번역: The G7 has agreed to release 100 million barrels of oil and diesel in a bid to ease supply pressures that have caused prices to skyrocket."
+            "en": "Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit.",
+            "ko": "실시간 보도 번역: Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit."
           }
         ]
       },
       {
-        "en": "The group of advanced economies, including the US, said the move would include a &quot;substantial release&quot; of diesel in the coming days.",
+        "en": "The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The group of advanced economies, including the US, said the move would include a &quot;substantial release&quot; of diesel in the coming days.",
-            "ko": "실시간 보도 번역: The group of advanced economies, including the US, said the move would include a &quot;substantial release&quot; of diesel in the coming days."
+            "en": "The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday.",
+            "ko": "실시간 보도 번역: The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday."
           }
         ]
       },
       {
-        "en": "President Donald Trump had threatened to ban diesel exports in a move which would have eased pressure on prices for US consumers ahead of November&#x27;s midterm elections, but pushed up prices elsewhere.",
+        "en": "China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "President Donald Trump had threatened to ban diesel exports in a move which would have eased pressure on prices for US consumers ahead of November&#x27;s midterm elections, but pushed up prices elsewhere.",
-            "ko": "실시간 보도 번역: President Donald Trump had threatened to ban diesel exports in a move which would have eased pressure on prices for US consumers ahead of November&#x27;s midterm elections, but pushed up prices elsewhere."
+            "en": "China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court.",
+            "ko": "실시간 보도 번역: China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "글로벌 최신 소식: 'Draining' few days for Gauff after online racist abuse",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2365,14 +2438,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+          "'Draining' few days for Gauff after online racist abuse",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_94774504170938251",
@@ -3094,66 +3169,74 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_3649172851299628535",
-    "title": "Sabalenka 'trying hard to be easier on myself'",
-    "subtitle": "Aryna Sabalenka says she is \"trying so hard to be easier on myself\" as she begins her China Open campaign with victory over Renata...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-02",
-    "addedAt": "2026-10-03T03:28:43Z",
-    "category": "sports",
+    "id": "auto_culture_3638908856577588886",
+    "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+    "subtitle": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-08",
+    "addedAt": "2026-10-08T18:19:25Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 131,
+    "wordCount": 135,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSabalenka &#x27;trying hard to be easier on myself&#x27;Image source, Getty ImagesImage caption, Aryna Sabalenka&#x27;s last title came at the Miami Open in March",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; Arts&#x27;Bold and inventive&#x27; Canadian poet Anne Carson wins Nobel Literature PrizeImage source, AlamyByIan YoungsCulture reporterPublished8 October 2026, 12:03 BSTUpdated 3 hours agoCanadian poet, essayist and translator Anne Carson has been awarded this year&#x27;s Nobel Prize in Literature.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSabalenka &#x27;trying hard to be easier on myself&#x27;Image source, Getty ImagesImage caption, Aryna Sabalenka&#x27;s last title came at the Miami Open in March",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSabalenka &#x27;trying hard to be easier on myself&#x27;Image source, Getty ImagesImage caption, Aryna Sabalenka&#x27;s last title came at the Miami Open in March"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; Arts&#x27;Bold and inventive&#x27; Canadian poet Anne Carson wins Nobel Literature PrizeImage source, AlamyByIan YoungsCulture reporterPublished8 October 2026, 12:03 BSTUpdated 3 hours agoCanadian poet, essayist and translator Anne Carson has been awarded this year&#x27;s Nobel Prize in Literature.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; Arts&#x27;Bold and inventive&#x27; Canadian poet Anne Carson wins Nobel Literature PrizeImage source, AlamyByIan YoungsCulture reporterPublished8 October 2026, 12:03 BSTUpdated 3 hours agoCanadian poet, essayist and translator Anne Carson has been awarded this year&#x27;s Nobel Prize in Literature."
           }
         ]
       },
       {
-        "en": "Aryna Sabalenka said she was &quot;trying so hard to be easier on myself&quot; as she began her China Open campaign with victory over Renata Zarazua.",
+        "en": "Carson, 76, is celebrated for works that often cross the boundaries between poetry, fiction and scholarship.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Aryna Sabalenka said she was &quot;trying so hard to be easier on myself&quot; as she began her China Open campaign with victory over Renata Zarazua.",
-            "ko": "실시간 보도 번역: Aryna Sabalenka said she was &quot;trying so hard to be easier on myself&quot; as she began her China Open campaign with victory over Renata Zarazua."
+            "en": "Carson, 76, is celebrated for works that often cross the boundaries between poetry, fiction and scholarship.",
+            "ko": "실시간 보도 번역: Carson, 76, is celebrated for works that often cross the boundaries between poetry, fiction and scholarship."
           }
         ]
       },
       {
-        "en": "World number two Sabalenka hit 11 aces and did not face a break point in a 6-1 6-3 victory over the Mexican.",
+        "en": "The Nobel Prize committee said they had selected her &quot;for her bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "World number two Sabalenka hit 11 aces and did not face a break point in a 6-1 6-3 victory over the Mexican.",
-            "ko": "실시간 보도 번역: World number two Sabalenka hit 11 aces and did not face a break point in a 6-1 6-3 victory over the Mexican."
+            "en": "The Nobel Prize committee said they had selected her &quot;for her bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature&quot;.",
+            "ko": "실시간 보도 번역: The Nobel Prize committee said they had selected her &quot;for her bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature&quot;."
           }
         ]
       },
       {
-        "en": "The Belarusian needed just 63 minutes to win her first match since losing her world number one ranking and her US Open crown to Elena Rybakina in September.",
+        "en": "Carson responded by joking that the judges were &quot;crazy&quot; for honouring her. &quot;I think they&#x27;re all crazy... Well, you know, it&#x27;s crazy,&quot; she told public broadcaster RUV in Iceland, where she is currently staying.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Belarusian needed just 63 minutes to win her first match since losing her world number one ranking and her US Open crown to Elena Rybakina in September.",
-            "ko": "실시간 보도 번역: The Belarusian needed just 63 minutes to win her first match since losing her world number one ranking and her US Open crown to Elena Rybakina in September."
+            "en": "Carson responded by joking that the judges were &quot;crazy&quot; for honouring her.",
+            "ko": "실시간 보도 번역: Carson responded by joking that the judges were &quot;crazy&quot; for honouring her."
+          },
+          {
+            "en": "&quot;I think they&#x27;re all crazy...",
+            "ko": "실시간 보도 번역: &quot;I think they&#x27;re all crazy..."
+          },
+          {
+            "en": "Well, you know, it&#x27;s crazy,&quot; she told public broadcaster RUV in Iceland, where she is currently staying.",
+            "ko": "실시간 보도 번역: Well, you know, it&#x27;s crazy,&quot; she told public broadcaster RUV in Iceland, where she is currently staying."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Sabalenka 'trying hard to be easier on myself'",
+      "글로벌 최신 소식: 'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3161,16 +3244,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Sabalenka 'trying hard to be easier on myself'",
+          "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_3074889563187392125",
@@ -3881,95 +3962,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Traitors claim their first victim as Richard E Grant tries to save his skin",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_4255262952733347070",
-    "title": "Alison Hammond has heart check-up in hospital after rushing off This Morning while on air",
-    "subtitle": "The host says she is \"fine\" but getting checked after leaving midway through Friday's This Morning....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-02",
-    "addedAt": "2026-10-03T03:28:45Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 156,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAlison Hammond has heart check-up in hospital after rushing off This Morning while on airImage source, Getty ImagesByPaul GlynnCulture reporterPublished2 October 2026Alison Hammond went to hospital for a heart check-up after leaving ITV&#x27;s This Morning midway through Friday&#x27;s show, but has assured followers she is &quot;fine&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAlison Hammond has heart check-up in hospital after rushing off This Morning while on airImage source, Getty ImagesByPaul GlynnCulture reporterPublished2 October 2026Alison Hammond went to hospital for a heart check-up after leaving ITV&#x27;s This Morning midway through Friday&#x27;s show, but has assured followers she is &quot;fine&quot;.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAlison Hammond has heart check-up in hospital after rushing off This Morning while on airImage source, Getty ImagesByPaul GlynnCulture reporterPublished2 October 2026Alison Hammond went to hospital for a heart check-up after leaving ITV&#x27;s This Morning midway through Friday&#x27;s show, but has assured followers she is &quot;fine&quot;."
-          }
-        ]
-      },
-      {
-        "en": "The presenter, 51, left the programme during its live broadcast, appearing to clutch her chest as she was assisted off the set by co-host Dermot O&#x27;Leary. He later told viewers she was &quot;feeling a little unwell&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The presenter, 51, left the programme during its live broadcast, appearing to clutch her chest as she was assisted off the set by co-host Dermot O&#x27;Leary.",
-            "ko": "실시간 보도 번역: The presenter, 51, left the programme during its live broadcast, appearing to clutch her chest as she was assisted off the set by co-host Dermot O&#x27;Leary."
-          },
-          {
-            "en": "He later told viewers she was &quot;feeling a little unwell&quot;.",
-            "ko": "실시간 보도 번역: He later told viewers she was &quot;feeling a little unwell&quot;."
-          }
-        ]
-      },
-      {
-        "en": "In a video posted from a hospital bed, external on Friday afternoon, Hammond said she had &quot;a little bit of a palpitation&quot; during the show but was feeling OK and was undergoing tests.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "In a video posted from a hospital bed, external on Friday afternoon, Hammond said she had &quot;a little bit of a palpitation&quot; during the show but was feeling OK and was undergoing tests.",
-            "ko": "실시간 보도 번역: In a video posted from a hospital bed, external on Friday afternoon, Hammond said she had &quot;a little bit of a palpitation&quot; during the show but was feeling OK and was undergoing tests."
-          }
-        ]
-      },
-      {
-        "en": "&quot;I know you&#x27;re all worried about me,&quot; she said. &quot;Honestly, I am fine. First of all, I&#x27;m getting my old ticker checked out.&quot;",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&quot;I know you&#x27;re all worried about me,&quot; she said.",
-            "ko": "실시간 보도 번역: &quot;I know you&#x27;re all worried about me,&quot; she said."
-          },
-          {
-            "en": "&quot;Honestly, I am fine.",
-            "ko": "실시간 보도 번역: &quot;Honestly, I am fine."
-          },
-          {
-            "en": "First of all, I&#x27;m getting my old ticker checked out.",
-            "ko": "실시간 보도 번역: First of all, I&#x27;m getting my old ticker checked out."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Alison Hammond has heart check-up in hospital after rushing off This Morning while on air",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Alison Hammond has heart check-up in hospital after rushing off This Morning while on air",
           "Historical retrospective",
           "Unrelated general weather"
         ],
