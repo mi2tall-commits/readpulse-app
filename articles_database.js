@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_6103639155459448475",
+    "title": "AI chip boom pushes Samsung profits to record $80bn",
+    "subtitle": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-08",
+    "addedAt": "2026-10-08T04:08:05Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 139,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI chip boom pushes Samsung profits to record $80bnImage source, EPAImage caption, Samsung is also one of the world&#x27;s biggest smartphone makers",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI chip boom pushes Samsung profits to record $80bnImage source, EPAImage caption, Samsung is also one of the world&#x27;s biggest smartphone makers",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI chip boom pushes Samsung profits to record $80bnImage source, EPAImage caption, Samsung is also one of the world&#x27;s biggest smartphone makers"
+          }
+        ]
+      },
+      {
+        "en": "Samsung Electronics says it expects a nine-fold surge in its quarterly profits compared with a year earlier, driven by surging demand for memory chips used in artificial intelligence (AI) data centres.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Samsung Electronics says it expects a nine-fold surge in its quarterly profits compared with a year earlier, driven by surging demand for memory chips used in artificial intelligence (AI) data centres.",
+            "ko": "실시간 보도 번역: Samsung Electronics says it expects a nine-fold surge in its quarterly profits compared with a year earlier, driven by surging demand for memory chips used in artificial intelligence (AI) data centres."
+          }
+        ]
+      },
+      {
+        "en": "The tech giant estimates that its operating profit for the three months to the end of September will jump to 107.4tn won (£61bn; $80bn), its fourth quarter in a row of record earnings.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The tech giant estimates that its operating profit for the three months to the end of September will jump to 107.",
+            "ko": "실시간 보도 번역: The tech giant estimates that its operating profit for the three months to the end of September will jump to 107."
+          },
+          {
+            "en": "4tn won (£61bn; $80bn), its fourth quarter in a row of record earnings.",
+            "ko": "실시간 보도 번역: 4tn won (£61bn; $80bn), its fourth quarter in a row of record earnings."
+          }
+        ]
+      },
+      {
+        "en": "Samsung is one of the world&#x27;s largest memory chip makers alongside local rival SK Hynix and Micron in the US, which produce chips crucial for AI firms like Nvidia.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Samsung is one of the world&#x27;s largest memory chip makers alongside local rival SK Hynix and Micron in the US, which produce chips crucial for AI firms like Nvidia.",
+            "ko": "실시간 보도 번역: Samsung is one of the world&#x27;s largest memory chip makers alongside local rival SK Hynix and Micron in the US, which produce chips crucial for AI firms like Nvidia."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: AI chip boom pushes Samsung profits to record $80bn",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "AI chip boom pushes Samsung profits to record $80bn",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1873151843419293233",
     "title": "Rainmakers: The drones used to seed clouds",
     "subtitle": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?...",
@@ -710,66 +791,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_3763689454570054810",
-    "title": "OpenAI fires workers for 'mishandling sensitive information'",
-    "subtitle": "The former employees were investigated for sharing data with an outside AI evaluation group....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-02",
-    "addedAt": "2026-10-02T17:18:30Z",
-    "category": "tech",
+    "id": "auto_science_3908078240526454312",
+    "title": "Tropical Storm Isaias forecast to become first Atlantic hurricane of 2026",
+    "subtitle": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern US...",
+    "speaker": "BBC Science",
+    "date": "2026-10-07",
+    "addedAt": "2026-10-08T04:08:05Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 102,
+    "wordCount": 122,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpTropical Storm Isaias forecast to become first Atlantic hurricane of 2026Image source, CIRA/NOAAImage caption, Satellite imagery shows thunderstorms clumping together to form Tropical Storm Isaias.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpTropical Storm Isaias forecast to become first Atlantic hurricane of 2026Image source, CIRA/NOAAImage caption, Satellite imagery shows thunderstorms clumping together to form Tropical Storm Isaias.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpTropical Storm Isaias forecast to become first Atlantic hurricane of 2026Image source, CIRA/NOAAImage caption, Satellite imagery shows thunderstorms clumping together to form Tropical Storm Isaias."
           }
         ]
       },
       {
-        "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
+        "en": "Tropical Storm Isaias has formed in the Gulf of Mexico and looks likely to strengthen into the first Atlantic hurricane of this year.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
-            "ko": "실시간 보도 번역: OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models."
+            "en": "Tropical Storm Isaias has formed in the Gulf of Mexico and looks likely to strengthen into the first Atlantic hurricane of this year.",
+            "ko": "실시간 보도 번역: Tropical Storm Isaias has formed in the Gulf of Mexico and looks likely to strengthen into the first Atlantic hurricane of this year."
           }
         ]
       },
       {
-        "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
+        "en": "It is expected to reach hurricane strength by Thursday morning with forecasts suggesting it could then intensify to a category two storm.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
-            "ko": "실시간 보도 번역: &quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC."
+            "en": "It is expected to reach hurricane strength by Thursday morning with forecasts suggesting it could then intensify to a category two storm.",
+            "ko": "실시간 보도 번역: It is expected to reach hurricane strength by Thursday morning with forecasts suggesting it could then intensify to a category two storm."
           }
         ]
       },
       {
-        "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
+        "en": "It has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday. Hurricane and Storm Surge Watches have been issued.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
-            "ko": "실시간 보도 번역: The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm."
+            "en": "It has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday.",
+            "ko": "실시간 보도 번역: It has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday."
+          },
+          {
+            "en": "Hurricane and Storm Surge Watches have been issued.",
+            "ko": "실시간 보도 번역: Hurricane and Storm Surge Watches have been issued."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI fires workers for 'mishandling sensitive information'",
+      "글로벌 최신 소식: Tropical Storm Isaias forecast to become first Atlantic hurricane of 2026",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -777,7 +862,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI fires workers for 'mishandling sensitive information'",
+          "Tropical Storm Isaias forecast to become first Atlantic hurricane of 2026",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1504,110 +1589,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_6293388028655589088",
-    "title": "How to move 1,300 plants for Kew's Palm House mega makeover",
-    "subtitle": "The world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover....",
-    "speaker": "BBC Science",
-    "date": "2026-10-02",
-    "addedAt": "2026-10-02T17:18:30Z",
-    "category": "science",
+    "id": "auto_economy_8262827662841343984",
+    "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+    "subtitle": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange...",
+    "speaker": "BBC Business",
+    "date": "2026-10-07",
+    "addedAt": "2026-10-08T04:08:05Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 134,
+    "wordCount": 146,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScience{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"How to move 1,300 plants for Kew’s Palm House mega makeover\",\"description\":\"The world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pdlt7f.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pdlt7f.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pdlt7f.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pdlt7f.jpg\"],\"uploadDate\":\"2026-10-02T08:53:30.399Z\",\"duration\":\"PT1M41S\"}How to move 1,300 plants for Kew&#x27;s Palm House mega makeoverTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;Stop throwing shade&#x27; - the woman trying to stop firms leaving the UKTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScience{\"@context\":\"https://schema.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScience{\"@context\":\"https://schema."
-          },
-          {
-            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"How to move 1,300 plants for Kew’s Palm House mega makeover\",\"description\":\"The world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover.",
-            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"How to move 1,300 plants for Kew’s Palm House mega makeover\",\"description\":\"The world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover."
-          },
-          {
-            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
-            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1920/galileo/p0pdlt7f.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pdlt7f."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1248/galileo/p0pdlt7f.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pdlt7f."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/688/galileo/p0pdlt7f.",
-            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pdlt7f."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/400/galileo/p0pdlt7f.",
-            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pdlt7f."
-          },
-          {
-            "en": "jpg\"],\"uploadDate\":\"2026-10-02T08:53:30.",
-            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-10-02T08:53:30."
-          },
-          {
-            "en": "399Z\",\"duration\":\"PT1M41S\"}How to move 1,300 plants for Kew&#x27;s Palm House mega makeoverTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: 399Z\",\"duration\":\"PT1M41S\"}How to move 1,300 plants for Kew&#x27;s Palm House mega makeoverTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;Stop throwing shade&#x27; - the woman trying to stop firms leaving the UKTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;Stop throwing shade&#x27; - the woman trying to stop firms leaving the UKTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "CloseThe world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover.",
+        "en": "Dame Julia Hoggett says negative sentiment about the UK market has pushed companies to leave in the past",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "CloseThe world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover.",
-            "ko": "실시간 보도 번역: CloseThe world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover."
+            "en": "Dame Julia Hoggett says negative sentiment about the UK market has pushed companies to leave in the past",
+            "ko": "실시간 보도 번역: Dame Julia Hoggett says negative sentiment about the UK market has pushed companies to leave in the past"
           }
         ]
       },
       {
-        "en": "The £66m restoration is taking place because the hot and humid conditions inside the Victorian glasshouse have taken their toll on the ironwork and glass.",
+        "en": "The UK needs to do more back its own companies at a time when a growing number are choosing to list their shares in the US rather than at home, the boss of the London Stock Exchange (LSE) has told the BBC.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The £66m restoration is taking place because the hot and humid conditions inside the Victorian glasshouse have taken their toll on the ironwork and glass.",
-            "ko": "실시간 보도 번역: The £66m restoration is taking place because the hot and humid conditions inside the Victorian glasshouse have taken their toll on the ironwork and glass."
+            "en": "The UK needs to do more back its own companies at a time when a growing number are choosing to list their shares in the US rather than at home, the boss of the London Stock Exchange (LSE) has told the BBC.",
+            "ko": "실시간 보도 번역: The UK needs to do more back its own companies at a time when a growing number are choosing to list their shares in the US rather than at home, the boss of the London Stock Exchange (LSE) has told the BBC."
           }
         ]
       },
       {
-        "en": "The work will begin in autumn 2027, and the Palm House will be closed for up to four years.",
+        "en": "Dame Julia Hoggett said the government needed to make it &quot;more attractive&quot; to invest in the UK stock market, otherwise big firms would continue to look overseas for their next stage of growth.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The work will begin in autumn 2027, and the Palm House will be closed for up to four years.",
-            "ko": "실시간 보도 번역: The work will begin in autumn 2027, and the Palm House will be closed for up to four years."
+            "en": "Dame Julia Hoggett said the government needed to make it &quot;more attractive&quot; to invest in the UK stock market, otherwise big firms would continue to look overseas for their next stage of growth.",
+            "ko": "실시간 보도 번역: Dame Julia Hoggett said the government needed to make it &quot;more attractive&quot; to invest in the UK stock market, otherwise big firms would continue to look overseas for their next stage of growth."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: How to move 1,300 plants for Kew's Palm House mega makeover",
+      "글로벌 최신 소식: 'Stop throwing shade' - the woman trying to stop firms leaving the UK",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1615,7 +1656,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "How to move 1,300 plants for Kew's Palm House mega makeover",
+          "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2334,74 +2375,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_5870916264162444375",
-    "title": "US jobs market sees sharp slowdown in September",
-    "subtitle": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away....",
-    "speaker": "BBC Business",
-    "date": "2026-10-02",
-    "addedAt": "2026-10-02T17:18:31Z",
-    "category": "economy",
+    "id": "auto_sports_94774504170938251",
+    "title": "'Draining' few days for Gauff after online racist abuse",
+    "subtitle": "Coco Gauff says she had a \"draining\" few days after receiving racist abuse online before her fourth-round China Open exit....",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-07",
+    "addedAt": "2026-10-08T04:08:05Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 126,
+    "wordCount": 138,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUS jobs market sees sharp slowdown ahead of midterm electionsImage source, Getty ImagesImage caption, Workforces remained unchanged across major sectors, from tech to retail. American firms are choosing to hold steady rather than hire or fire staff",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUS jobs market sees sharp slowdown ahead of midterm electionsImage source, Getty ImagesImage caption, Workforces remained unchanged across major sectors, from tech to retail.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUS jobs market sees sharp slowdown ahead of midterm electionsImage source, Getty ImagesImage caption, Workforces remained unchanged across major sectors, from tech to retail."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year"
           }
         ]
       },
       {
-        "en": "The US jobs market saw a sharp slowdown in September, with employers adding just 29,000 jobs in the final update before the midterm elections.",
+        "en": "Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The US jobs market saw a sharp slowdown in September, with employers adding just 29,000 jobs in the final update before the midterm elections.",
-            "ko": "실시간 보도 번역: The US jobs market saw a sharp slowdown in September, with employers adding just 29,000 jobs in the final update before the midterm elections."
+            "en": "Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit.",
+            "ko": "실시간 보도 번역: Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit."
           }
         ]
       },
       {
-        "en": "Headcounts were little changed in major sectors from tech to retail as hiring fell significantly from August, according to figures from the Bureau of Labor Statistics (BLS).",
+        "en": "The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Headcounts were little changed in major sectors from tech to retail as hiring fell significantly from August, according to figures from the Bureau of Labor Statistics (BLS).",
-            "ko": "실시간 보도 번역: Headcounts were little changed in major sectors from tech to retail as hiring fell significantly from August, according to figures from the Bureau of Labor Statistics (BLS)."
+            "en": "The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday.",
+            "ko": "실시간 보도 번역: The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday."
           }
         ]
       },
       {
-        "en": "Meanwhile, the unemployment rate rose slightly from 4.1% in August to 4.2% in September.",
+        "en": "China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Meanwhile, the unemployment rate rose slightly from 4.",
-            "ko": "실시간 보도 번역: Meanwhile, the unemployment rate rose slightly from 4."
-          },
-          {
-            "en": "1% in August to 4.",
-            "ko": "실시간 보도 번역: 1% in August to 4."
-          },
-          {
-            "en": "2% in September.",
-            "ko": "실시간 보도 번역: 2% in September."
+            "en": "China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court.",
+            "ko": "실시간 보도 번역: China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: US jobs market sees sharp slowdown in September",
+      "글로벌 최신 소식: 'Draining' few days for Gauff after online racist abuse",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2409,14 +2442,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "US jobs market sees sharp slowdown in September",
+          "'Draining' few days for Gauff after online racist abuse",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_830284229724108975",
@@ -3138,66 +3173,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_6916145019714724225",
-    "title": "More top-level events to award equal prize money in 'major milestone'",
-    "subtitle": "The Women's Tennis Association confirms all its combined 1000 events will award equal prize money from 2027 in a \"major milestone\"...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-01",
-    "addedAt": "2026-10-02T17:18:31Z",
-    "category": "sports",
+    "id": "auto_culture_3074889563187392125",
+    "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
+    "subtitle": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-07",
+    "addedAt": "2026-10-08T04:08:07Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 141,
+    "wordCount": 129,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarMore elite-level events to award equal prize moneyImage source, Getty ImagesImage caption, The WTA was formed in 1973 and changed women&#x27;s tennis",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsOscar-winning actress Eva Marie Saint dies aged 102Image source, ReutersImage caption, Eve Marie Saint has two stars on the Hollywood Walk of Fame",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarMore elite-level events to award equal prize moneyImage source, Getty ImagesImage caption, The WTA was formed in 1973 and changed women&#x27;s tennis",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarMore elite-level events to award equal prize moneyImage source, Getty ImagesImage caption, The WTA was formed in 1973 and changed women&#x27;s tennis"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsOscar-winning actress Eva Marie Saint dies aged 102Image source, ReutersImage caption, Eve Marie Saint has two stars on the Hollywood Walk of Fame",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsOscar-winning actress Eva Marie Saint dies aged 102Image source, ReutersImage caption, Eve Marie Saint has two stars on the Hollywood Walk of Fame"
           }
         ]
       },
       {
-        "en": "Men and women will receive equal prize money at all combined 1,000 events - the highest level of competition outside of the Grand Slams - from next year, the Women&#x27;s Tennis Association (WTA) has announced.",
+        "en": "Eva Marie Saint, the Oscar-winning actress who starred in Hollywood classics such as On the Waterfront and North by Northwest, has died aged 102.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Men and women will receive equal prize money at all combined 1,000 events - the highest level of competition outside of the Grand Slams - from next year, the Women&#x27;s Tennis Association (WTA) has announced.",
-            "ko": "실시간 보도 번역: Men and women will receive equal prize money at all combined 1,000 events - the highest level of competition outside of the Grand Slams - from next year, the Women&#x27;s Tennis Association (WTA) has announced."
+            "en": "Eva Marie Saint, the Oscar-winning actress who starred in Hollywood classics such as On the Waterfront and North by Northwest, has died aged 102.",
+            "ko": "실시간 보도 번역: Eva Marie Saint, the Oscar-winning actress who starred in Hollywood classics such as On the Waterfront and North by Northwest, has died aged 102."
           }
         ]
       },
       {
-        "en": "Events at Indian Wells, California, Miami, Madrid and Beijing already met that commitment, as well as all four Grand Slams.",
+        "en": "Saint won the Academy Award for best supporting actress for her movie debut in director Elia Kazan&#x27;s 1954 crime drama, On the Waterfront; playing Edie Doyle, the moral compass of the film and love interest of Marlon Brando&#x27;s conflicted boxer-turned-docker.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Events at Indian Wells, California, Miami, Madrid and Beijing already met that commitment, as well as all four Grand Slams.",
-            "ko": "실시간 보도 번역: Events at Indian Wells, California, Miami, Madrid and Beijing already met that commitment, as well as all four Grand Slams."
+            "en": "Saint won the Academy Award for best supporting actress for her movie debut in director Elia Kazan&#x27;s 1954 crime drama, On the Waterfront; playing Edie Doyle, the moral compass of the film and love interest of Marlon Brando&#x27;s conflicted boxer-turned-docker.",
+            "ko": "실시간 보도 번역: Saint won the Academy Award for best supporting actress for her movie debut in director Elia Kazan&#x27;s 1954 crime drama, On the Waterfront; playing Edie Doyle, the moral compass of the film and love interest of Marlon Brando&#x27;s conflicted boxer-turned-docker."
           }
         ]
       },
       {
-        "en": "However, the Italian Open, Canadian Open and Cincinnati Open will now also fall into line to meet a long-standing aim of the WTA, at events where men and women both feature.",
+        "en": "Five years later, she portrayed femme fatale Eve Kendall, dangerously seducing Cary Grant&#x27;s entangled advertising executive in Alfred Hitchcock&#x27;s spy thriller, North by Northwest.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "However, the Italian Open, Canadian Open and Cincinnati Open will now also fall into line to meet a long-standing aim of the WTA, at events where men and women both feature.",
-            "ko": "실시간 보도 번역: However, the Italian Open, Canadian Open and Cincinnati Open will now also fall into line to meet a long-standing aim of the WTA, at events where men and women both feature."
+            "en": "Five years later, she portrayed femme fatale Eve Kendall, dangerously seducing Cary Grant&#x27;s entangled advertising executive in Alfred Hitchcock&#x27;s spy thriller, North by Northwest.",
+            "ko": "실시간 보도 번역: Five years later, she portrayed femme fatale Eve Kendall, dangerously seducing Cary Grant&#x27;s entangled advertising executive in Alfred Hitchcock&#x27;s spy thriller, North by Northwest."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: More top-level events to award equal prize money in 'major milestone'",
+      "글로벌 최신 소식: Oscar-winning actress Eva Marie Saint dies aged 102",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3205,16 +3240,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "More top-level events to award equal prize money in 'major milestone'",
+          "Oscar-winning actress Eva Marie Saint dies aged 102",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_653113469258211860",
@@ -3937,83 +3970,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Alison Hammond has heart check-up in hospital after rushing off This Morning while on air",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_7147254734733527795",
-    "title": "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
-    "subtitle": "There is paranoia, confusion and a battle to survive among the celebrities as they fight for survival....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-02",
-    "addedAt": "2026-10-02T17:18:33Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 92,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsChaos, coffins and &#x27;Claudiapatra&#x27; steal the show in Celebrity TraitorsTo play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsChaos, coffins and &#x27;Claudiapatra&#x27; steal the show in Celebrity TraitorsTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsChaos, coffins and &#x27;Claudiapatra&#x27; steal the show in Celebrity TraitorsTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Watch: Celebrity Traitors series two kicks off with a wild curveball",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Watch: Celebrity Traitors series two kicks off with a wild curveball",
-            "ko": "실시간 보도 번역: Watch: Celebrity Traitors series two kicks off with a wild curveball"
-          }
-        ]
-      },
-      {
-        "en": "Spoiler warning: This article reveals details from the first episode of The Celebrity Traitors, series two.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Spoiler warning: This article reveals details from the first episode of The Celebrity Traitors, series two.",
-            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from the first episode of The Celebrity Traitors, series two."
-          }
-        ]
-      },
-      {
-        "en": "One person in particular may have dominated much of this opening episode, but Claudia Winkleman&#x27;s gothic arrival still caused a stir.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "One person in particular may have dominated much of this opening episode, but Claudia Winkleman&#x27;s gothic arrival still caused a stir.",
-            "ko": "실시간 보도 번역: One person in particular may have dominated much of this opening episode, but Claudia Winkleman&#x27;s gothic arrival still caused a stir."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
           "Historical retrospective",
           "Unrelated general weather"
         ],
