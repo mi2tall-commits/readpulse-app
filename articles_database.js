@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_5825657007884530204",
+    "title": "Anthropic bans users from being 'cruel' to its AI systems",
+    "subtitle": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-09",
+    "addedAt": "2026-10-09T17:52:44Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 132,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAnthropic bans users from being &#x27;cruel&#x27; to its AI systemsImage source, Getty ImagesByLiv McMahonTechnology reporterPublished5 hours agoAnthropic has raised eyebrows by announcing it will ban users from &quot;sustained and needless&quot; abusive behaviour towards its AI.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAnthropic bans users from being &#x27;cruel&#x27; to its AI systemsImage source, Getty ImagesByLiv McMahonTechnology reporterPublished5 hours agoAnthropic has raised eyebrows by announcing it will ban users from &quot;sustained and needless&quot; abusive behaviour towards its AI.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAnthropic bans users from being &#x27;cruel&#x27; to its AI systemsImage source, Getty ImagesByLiv McMahonTechnology reporterPublished5 hours agoAnthropic has raised eyebrows by announcing it will ban users from &quot;sustained and needless&quot; abusive behaviour towards its AI."
+          }
+        ]
+      },
+      {
+        "en": "The Claude-maker said on Thursday it was updating its usage policy to let its tools end interactions where people are &quot;cruel&quot; - something it said it had done in &quot;rare&quot; cases prior.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The Claude-maker said on Thursday it was updating its usage policy to let its tools end interactions where people are &quot;cruel&quot; - something it said it had done in &quot;rare&quot; cases prior.",
+            "ko": "실시간 보도 번역: The Claude-maker said on Thursday it was updating its usage policy to let its tools end interactions where people are &quot;cruel&quot; - something it said it had done in &quot;rare&quot; cases prior."
+          }
+        ]
+      },
+      {
+        "en": "It will now be included on a list of forbidden conduct which also contains bullying others, promoting self-harm and creating non-consensual intimate imagery.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It will now be included on a list of forbidden conduct which also contains bullying others, promoting self-harm and creating non-consensual intimate imagery.",
+            "ko": "실시간 보도 번역: It will now be included on a list of forbidden conduct which also contains bullying others, promoting self-harm and creating non-consensual intimate imagery."
+          }
+        ]
+      },
+      {
+        "en": "While Anthropic said the policy would only apply in &quot;extreme cases&quot; of repeated abuse, it has reignited debate over how we should communicate with AI tools.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "While Anthropic said the policy would only apply in &quot;extreme cases&quot; of repeated abuse, it has reignited debate over how we should communicate with AI tools.",
+            "ko": "실시간 보도 번역: While Anthropic said the policy would only apply in &quot;extreme cases&quot; of repeated abuse, it has reignited debate over how we should communicate with AI tools."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Anthropic bans users from being 'cruel' to its AI systems",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Anthropic bans users from being 'cruel' to its AI systems",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_5233268803151484515",
     "title": "Why are more roofs not made of solar tiles?",
     "subtitle": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?...",
@@ -722,66 +799,110 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_7596467216583510890",
-    "title": "OpenAI fires workers for 'mishandling sensitive information'",
-    "subtitle": "The former employees were investigated for sharing data with an outside AI evaluation group....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-02",
-    "addedAt": "2026-10-04T03:56:07Z",
-    "category": "tech",
+    "id": "auto_science_1698688144255257521",
+    "title": "Isaias becomes major category three storm before landfall",
+    "subtitle": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane...",
+    "speaker": "BBC Science",
+    "date": "2026-10-09",
+    "addedAt": "2026-10-09T17:52:45Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 102,
+    "wordCount": 144,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScience{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Isaias becomes major category three storm before landfall \",\"description\":\"Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pfxx20.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pfxx20.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pfxx20.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pfxx20.jpg\"],\"uploadDate\":\"2026-10-09T16:46:32.148Z\",\"duration\":\"PT49S\"}Isaias becomes major category three storm before landfall To play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScience{\"@context\":\"https://schema.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScience{\"@context\":\"https://schema."
+          },
+          {
+            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Isaias becomes major category three storm before landfall \",\"description\":\"Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
+            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Isaias becomes major category three storm before landfall \",\"description\":\"Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane."
+          },
+          {
+            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
+            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1920/galileo/p0pfxx20.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pfxx20."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1248/galileo/p0pfxx20.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pfxx20."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/688/galileo/p0pfxx20.",
+            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pfxx20."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/400/galileo/p0pfxx20.",
+            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pfxx20."
+          },
+          {
+            "en": "jpg\"],\"uploadDate\":\"2026-10-09T16:46:32.",
+            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-10-09T16:46:32."
+          },
+          {
+            "en": "148Z\",\"duration\":\"PT49S\"}Isaias becomes major category three storm before landfall To play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: 148Z\",\"duration\":\"PT49S\"}Isaias becomes major category three storm before landfall To play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
+        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSevere weatherFollow Severe weather",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
-            "ko": "실시간 보도 번역: OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models."
+            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSevere weatherFollow Severe weather",
+            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsSevere weatherFollow Severe weather"
           }
         ]
       },
       {
-        "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
+        "en": "close panelYou are now following\n    Severe weatherUpdates from your News topics will appear in My News and in a collection on the News homepage.HurricanesFollow Hurricanes",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
-            "ko": "실시간 보도 번역: &quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC."
+            "en": "close panelYou are now following\n    Severe weatherUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+            "ko": "실시간 보도 번역: close panelYou are now following\n    Severe weatherUpdates from your News topics will appear in My News and in a collection on the News homepage."
           }
         ]
       },
       {
-        "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
+        "en": "close panelYou are now following\n    HurricanesUpdates from your News topics will appear in My News and in a collection on the News homepage.Read descriptionEditor&#x27;s recommendationsIsaias becomes major category three storm before landfall  Video, 00:00:49Isaias becomes major category three storm before landfall",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
-            "ko": "실시간 보도 번역: The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm."
+            "en": "close panelYou are now following\n    HurricanesUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+            "ko": "실시간 보도 번역: close panelYou are now following\n    HurricanesUpdates from your News topics will appear in My News and in a collection on the News homepage."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI fires workers for 'mishandling sensitive information'",
+      "글로벌 최신 소식: Isaias becomes major category three storm before landfall",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -789,7 +910,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI fires workers for 'mishandling sensitive information'",
+          "Isaias becomes major category three storm before landfall",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1520,66 +1641,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_6300008419774255305",
-    "title": "I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
-    "subtitle": "Wildlife cameraman Dan Abbot is caught off guard by a humpback whale, a rare sight in Welsh waters....",
-    "speaker": "BBC Science",
-    "date": "2026-10-03",
-    "addedAt": "2026-10-04T03:56:08Z",
-    "category": "science",
+    "id": "auto_economy_3880610925455559919",
+    "title": "Burnham promises to curb non-compete rules in job contracts",
+    "subtitle": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\"....",
+    "speaker": "BBC Business",
+    "date": "2026-10-09",
+    "addedAt": "2026-10-09T17:52:45Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 129,
+    "wordCount": 135,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsI&#x27;m a wildlife cameraman but &#x27;special&#x27; rare sightings can still take me by surpriseImage source, Dan AbbotImage caption, Abbot has seen the humpback whale before, but never in this area",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham promises to curb non-compete rules in job contractsImage source, Getty ImagesByPaul SeddonPolitical reporterPublished9 October 2026, 14:02 BSTUpdated 1 hour agoAndy Burnham has promised to curb companies&#x27; ability to restrict what their workers can do after leaving their job.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsI&#x27;m a wildlife cameraman but &#x27;special&#x27; rare sightings can still take me by surpriseImage source, Dan AbbotImage caption, Abbot has seen the humpback whale before, but never in this area",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsI&#x27;m a wildlife cameraman but &#x27;special&#x27; rare sightings can still take me by surpriseImage source, Dan AbbotImage caption, Abbot has seen the humpback whale before, but never in this area"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham promises to curb non-compete rules in job contractsImage source, Getty ImagesByPaul SeddonPolitical reporterPublished9 October 2026, 14:02 BSTUpdated 1 hour agoAndy Burnham has promised to curb companies&#x27; ability to restrict what their workers can do after leaving their job.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham promises to curb non-compete rules in job contractsImage source, Getty ImagesByPaul SeddonPolitical reporterPublished9 October 2026, 14:02 BSTUpdated 1 hour agoAndy Burnham has promised to curb companies&#x27; ability to restrict what their workers can do after leaving their job."
           }
         ]
       },
       {
-        "en": "A wildlife cinematographer and shark guide has spoken about the unexpected surprise and joy of seeing a humpback whale in the Celtic Deep just off the Welsh coast.",
+        "en": "In a speech, the prime minister said the use of non-compete clauses in employment contracts had &quot;gone too far&quot; and was holding innovative UK companies back.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A wildlife cinematographer and shark guide has spoken about the unexpected surprise and joy of seeing a humpback whale in the Celtic Deep just off the Welsh coast.",
-            "ko": "실시간 보도 번역: A wildlife cinematographer and shark guide has spoken about the unexpected surprise and joy of seeing a humpback whale in the Celtic Deep just off the Welsh coast."
+            "en": "In a speech, the prime minister said the use of non-compete clauses in employment contracts had &quot;gone too far&quot; and was holding innovative UK companies back.",
+            "ko": "실시간 보도 번역: In a speech, the prime minister said the use of non-compete clauses in employment contracts had &quot;gone too far&quot; and was holding innovative UK companies back."
           }
         ]
       },
       {
-        "en": "Dan Abbot, known as Sharkman Dan on his social media, shared a recording of the exciting moment just off the Pembrokeshire coast.",
+        "en": "He added the clauses had forced workers to go without pay after leaving a role, as well as making it harder for growing firms to hire new staff.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Dan Abbot, known as Sharkman Dan on his social media, shared a recording of the exciting moment just off the Pembrokeshire coast.",
-            "ko": "실시간 보도 번역: Dan Abbot, known as Sharkman Dan on his social media, shared a recording of the exciting moment just off the Pembrokeshire coast."
+            "en": "He added the clauses had forced workers to go without pay after leaving a role, as well as making it harder for growing firms to hire new staff.",
+            "ko": "실시간 보도 번역: He added the clauses had forced workers to go without pay after leaving a role, as well as making it harder for growing firms to hire new staff."
           }
         ]
       },
       {
-        "en": "He has seen the large marine mammals before, on planned trips where humpback whale sightings are not as unusual, but this experience was &quot;a complete surprise&quot;.",
+        "en": "Ahead of the Budget later this month, he also said there was &quot;more to do&quot; on tax to encourage promising firms to stay in the UK.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "He has seen the large marine mammals before, on planned trips where humpback whale sightings are not as unusual, but this experience was &quot;a complete surprise&quot;.",
-            "ko": "실시간 보도 번역: He has seen the large marine mammals before, on planned trips where humpback whale sightings are not as unusual, but this experience was &quot;a complete surprise&quot;."
+            "en": "Ahead of the Budget later this month, he also said there was &quot;more to do&quot; on tax to encourage promising firms to stay in the UK.",
+            "ko": "실시간 보도 번역: Ahead of the Budget later this month, he also said there was &quot;more to do&quot; on tax to encourage promising firms to stay in the UK."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
+      "글로벌 최신 소식: Burnham promises to curb non-compete rules in job contracts",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1587,7 +1708,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
+          "Burnham promises to curb non-compete rules in job contracts",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2314,66 +2435,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_8130989558551564020",
-    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-    "subtitle": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports....",
-    "speaker": "BBC Business",
-    "date": "2026-10-03",
-    "addedAt": "2026-10-04T03:56:08Z",
-    "category": "economy",
+    "id": "auto_sports_6967422473021834750",
+    "title": "Djokovic suffers surprise Hurkacz loss in Shanghai",
+    "subtitle": "Novak Djokovic suffers a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after his triumph a...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-09",
+    "addedAt": "2026-10-09T17:52:46Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 149,
+    "wordCount": 135,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026The G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026The G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026The G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed"
           }
         ]
       },
       {
-        "en": "It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement.",
+        "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement.",
-            "ko": "실시간 보도 번역: It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement."
+            "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
+            "ko": "실시간 보도 번역: Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing."
           }
         ]
       },
       {
-        "en": "The group of advanced economies, including the US, said the move would begin immediately and would last for four months.",
+        "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The group of advanced economies, including the US, said the move would begin immediately and would last for four months.",
-            "ko": "실시간 보도 번역: The group of advanced economies, including the US, said the move would begin immediately and would last for four months."
+            "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
+            "ko": "실시간 보도 번역: The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final."
           }
         ]
       },
       {
-        "en": "Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members.",
+        "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members.",
-            "ko": "실시간 보도 번역: Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members."
+            "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
+            "ko": "실시간 보도 번역: But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: G7 to release millions of barrels of oil and diesel after Trump threat",
+      "글로벌 최신 소식: Djokovic suffers surprise Hurkacz loss in Shanghai",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2381,14 +2502,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "G7 to release millions of barrels of oil and diesel after Trump threat",
+          "Djokovic suffers surprise Hurkacz loss in Shanghai",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_5468090361067596639",
@@ -3110,66 +3233,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_1101371470511187560",
-    "title": "Kartal wins again as Zverev sets up Djokovic tie",
-    "subtitle": "Great Britain's Sonay Kartal reaches last-32 at the China Open as Alexander Zverev sets up a quarter-final clash against Novak Djo...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-03",
-    "addedAt": "2026-10-04T03:56:08Z",
-    "category": "sports",
+    "id": "auto_culture_116130139641076027",
+    "title": "Alison Hammond: 'I thought I was having heart attack on air'",
+    "subtitle": "The host says a health scare on live TV was one of the \"scariest things I've ever been through\"....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-09",
+    "addedAt": "2026-10-09T17:52:49Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 149,
+    "wordCount": 123,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal wins again as Zverev sets up Djokovic tieImage source, ReutersImage caption, Sonay Kartal made the quarter-finals of the China Open in 2025",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAlison Hammond: &#x27;I thought I was having heart attack on air&#x27;Image source, Ken McKay/ITV/ShutterstockImage caption, Hammond returned to This Morning one week after her dramatic early exit",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal wins again as Zverev sets up Djokovic tieImage source, ReutersImage caption, Sonay Kartal made the quarter-finals of the China Open in 2025",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal wins again as Zverev sets up Djokovic tieImage source, ReutersImage caption, Sonay Kartal made the quarter-finals of the China Open in 2025"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAlison Hammond: &#x27;I thought I was having heart attack on air&#x27;Image source, Ken McKay/ITV/ShutterstockImage caption, Hammond returned to This Morning one week after her dramatic early exit",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAlison Hammond: &#x27;I thought I was having heart attack on air&#x27;Image source, Ken McKay/ITV/ShutterstockImage caption, Hammond returned to This Morning one week after her dramatic early exit"
           }
         ]
       },
       {
-        "en": "Great Britain&#x27;s Sonay Kartal maintained her winning return to the WTA Tour with an impressive straight-set victory over home hope Wang Xinyu at the China Open.",
+        "en": "Alison Hammond has said she feared she was having a heart attack on air when she had to rush off ITV&#x27;s This Morning midway through the programme last week.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Great Britain&#x27;s Sonay Kartal maintained her winning return to the WTA Tour with an impressive straight-set victory over home hope Wang Xinyu at the China Open.",
-            "ko": "실시간 보도 번역: Great Britain&#x27;s Sonay Kartal maintained her winning return to the WTA Tour with an impressive straight-set victory over home hope Wang Xinyu at the China Open."
+            "en": "Alison Hammond has said she feared she was having a heart attack on air when she had to rush off ITV&#x27;s This Morning midway through the programme last week.",
+            "ko": "실시간 보도 번역: Alison Hammond has said she feared she was having a heart attack on air when she had to rush off ITV&#x27;s This Morning midway through the programme last week."
           }
         ]
       },
       {
-        "en": "Kartal, 24, produced a dominant display to see off the Chinese 31st seed Wang 6-3 6-2 in only her second tour match after six months out with a back injury.",
+        "en": "The presenter appeared to clutch her chest as she left the show last Friday, and was taken to hospital to have a heart check-up.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Kartal, 24, produced a dominant display to see off the Chinese 31st seed Wang 6-3 6-2 in only her second tour match after six months out with a back injury.",
-            "ko": "실시간 보도 번역: Kartal, 24, produced a dominant display to see off the Chinese 31st seed Wang 6-3 6-2 in only her second tour match after six months out with a back injury."
+            "en": "The presenter appeared to clutch her chest as she left the show last Friday, and was taken to hospital to have a heart check-up.",
+            "ko": "실시간 보도 번역: The presenter appeared to clutch her chest as she left the show last Friday, and was taken to hospital to have a heart check-up."
           }
         ]
       },
       {
-        "en": "She would have expected to face newly crowned world number one Elena Rybakina in the last 32 next, but the top seed from Kazakhstan fell to a shock three-set defeat by Armenian world number 118 Alina Charaeva.",
+        "en": "She turned out to have suffered a panic attack, and said the experience was &quot;probably one of the most scariest things I&#x27;ve ever been through&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "She would have expected to face newly crowned world number one Elena Rybakina in the last 32 next, but the top seed from Kazakhstan fell to a shock three-set defeat by Armenian world number 118 Alina Charaeva.",
-            "ko": "실시간 보도 번역: She would have expected to face newly crowned world number one Elena Rybakina in the last 32 next, but the top seed from Kazakhstan fell to a shock three-set defeat by Armenian world number 118 Alina Charaeva."
+            "en": "She turned out to have suffered a panic attack, and said the experience was &quot;probably one of the most scariest things I&#x27;ve ever been through&quot;.",
+            "ko": "실시간 보도 번역: She turned out to have suffered a panic attack, and said the experience was &quot;probably one of the most scariest things I&#x27;ve ever been through&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Kartal wins again as Zverev sets up Djokovic tie",
+      "글로벌 최신 소식: Alison Hammond: 'I thought I was having heart attack on air'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3177,16 +3300,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Kartal wins again as Zverev sets up Djokovic tie",
+          "Alison Hammond: 'I thought I was having heart attack on air'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_5540667171449964840",
@@ -3901,87 +4022,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Glastonbury 2027 tickets sell out in 42 minutes",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_848395754765499685",
-    "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
-    "subtitle": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-03",
-    "addedAt": "2026-10-04T03:56:09Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 134,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTraitors claim their first victim as Richard E Grant tries to save his skinImage caption, Maya Jama is off to a strong start as a traitor, but Richard E Grant is in damage control mode",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTraitors claim their first victim as Richard E Grant tries to save his skinImage caption, Maya Jama is off to a strong start as a traitor, but Richard E Grant is in damage control mode",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTraitors claim their first victim as Richard E Grant tries to save his skinImage caption, Maya Jama is off to a strong start as a traitor, but Richard E Grant is in damage control mode"
-          }
-        ]
-      },
-      {
-        "en": "Spoiler warning: This article reveals details from the second episode of The Celebrity Traitors, series two.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Spoiler warning: This article reveals details from the second episode of The Celebrity Traitors, series two.",
-            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from the second episode of The Celebrity Traitors, series two."
-          }
-        ]
-      },
-      {
-        "en": "A comedian, a journalist, an actor and a TV presenter walk into a church. But sadly, the punchline for one of them was becoming the first victim of this year&#x27;s Celebrity Traitors.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "A comedian, a journalist, an actor and a TV presenter walk into a church.",
-            "ko": "실시간 보도 번역: A comedian, a journalist, an actor and a TV presenter walk into a church."
-          },
-          {
-            "en": "But sadly, the punchline for one of them was becoming the first victim of this year&#x27;s Celebrity Traitors.",
-            "ko": "실시간 보도 번역: But sadly, the punchline for one of them was becoming the first victim of this year&#x27;s Celebrity Traitors."
-          }
-        ]
-      },
-      {
-        "en": "As Friday&#x27;s episode got under way, a delicious new twist saw traitors Richard E Grant and Maya Jama invite James Acaster to join them in the turret, and simultaneously murder a fellow player.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "As Friday&#x27;s episode got under way, a delicious new twist saw traitors Richard E Grant and Maya Jama invite James Acaster to join them in the turret, and simultaneously murder a fellow player.",
-            "ko": "실시간 보도 번역: As Friday&#x27;s episode got under way, a delicious new twist saw traitors Richard E Grant and Maya Jama invite James Acaster to join them in the turret, and simultaneously murder a fellow player."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Traitors claim their first victim as Richard E Grant tries to save his skin",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Traitors claim their first victim as Richard E Grant tries to save his skin",
           "Historical retrospective",
           "Unrelated general weather"
         ],
