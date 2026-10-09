@@ -1,6 +1,91 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_5233268803151484515",
+    "title": "Why are more roofs not made of solar tiles?",
+    "subtitle": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?...",
+    "speaker": "BBC Technology",
+    "date": "2026-10-08",
+    "addedAt": "2026-10-09T04:13:27Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 130,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWhy are more roofs not made of solar tiles?Image source, Solar Energy InternationalImage caption, From installer to instructor Kate Collardson (left) has a long history in solar systems",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWhy are more roofs not made of solar tiles?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWhy are more roofs not made of solar tiles?"
+          }
+        ]
+      },
+      {
+        "en": "Some people in the US &quot;still hate the look of solar&quot;, Kate Collardson acknowledges.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Some people in the US &quot;still hate the look of solar&quot;, Kate Collardson acknowledges.",
+            "ko": "실시간 보도 번역: Some people in the US &quot;still hate the look of solar&quot;, Kate Collardson acknowledges."
+          }
+        ]
+      },
+      {
+        "en": "She would know. Collardson handles operations for the Solar Service of Colorado, a solar maintenance and inspection company. She&#x27;s also held just about every other job in the industry, from installer to instructor.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "She would know.",
+            "ko": "실시간 보도 번역: She would know."
+          },
+          {
+            "en": "Collardson handles operations for the Solar Service of Colorado, a solar maintenance and inspection company.",
+            "ko": "실시간 보도 번역: Collardson handles operations for the Solar Service of Colorado, a solar maintenance and inspection company."
+          },
+          {
+            "en": "She&#x27;s also held just about every other job in the industry, from installer to instructor.",
+            "ko": "실시간 보도 번역: She&#x27;s also held just about every other job in the industry, from installer to instructor."
+          }
+        ]
+      },
+      {
+        "en": "For those that hate the look of solar panels, an alternative is a solar roof, where the tiles (or shingles) house solar cells, but look much the same as regular tiles.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "For those that hate the look of solar panels, an alternative is a solar roof, where the tiles (or shingles) house solar cells, but look much the same as regular tiles.",
+            "ko": "실시간 보도 번역: For those that hate the look of solar panels, an alternative is a solar roof, where the tiles (or shingles) house solar cells, but look much the same as regular tiles."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Why are more roofs not made of solar tiles?",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Why are more roofs not made of solar tiles?",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_6479190971032052251",
     "title": "Asos hackers took more personal details than first revealed, BBC finds",
     "subtitle": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"...",
@@ -714,66 +799,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1664757760424578593",
-    "title": "OpenAI fires workers for 'mishandling sensitive information'",
-    "subtitle": "The former employees were investigated for sharing data with an outside AI evaluation group....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-02",
-    "addedAt": "2026-10-03T15:35:59Z",
-    "category": "tech",
+    "id": "auto_science_5233268803151484515",
+    "title": "Why are more roofs not made of solar tiles?",
+    "subtitle": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?...",
+    "speaker": "BBC Science",
+    "date": "2026-10-08",
+    "addedAt": "2026-10-09T04:13:27Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 102,
+    "wordCount": 130,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWhy are more roofs not made of solar tiles?Image source, Solar Energy InternationalImage caption, From installer to instructor Kate Collardson (left) has a long history in solar systems",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWhy are more roofs not made of solar tiles?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWhy are more roofs not made of solar tiles?"
           }
         ]
       },
       {
-        "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
+        "en": "Some people in the US &quot;still hate the look of solar&quot;, Kate Collardson acknowledges.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
-            "ko": "실시간 보도 번역: OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models."
+            "en": "Some people in the US &quot;still hate the look of solar&quot;, Kate Collardson acknowledges.",
+            "ko": "실시간 보도 번역: Some people in the US &quot;still hate the look of solar&quot;, Kate Collardson acknowledges."
           }
         ]
       },
       {
-        "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
+        "en": "She would know. Collardson handles operations for the Solar Service of Colorado, a solar maintenance and inspection company. She&#x27;s also held just about every other job in the industry, from installer to instructor.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
-            "ko": "실시간 보도 번역: &quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC."
+            "en": "She would know.",
+            "ko": "실시간 보도 번역: She would know."
+          },
+          {
+            "en": "Collardson handles operations for the Solar Service of Colorado, a solar maintenance and inspection company.",
+            "ko": "실시간 보도 번역: Collardson handles operations for the Solar Service of Colorado, a solar maintenance and inspection company."
+          },
+          {
+            "en": "She&#x27;s also held just about every other job in the industry, from installer to instructor.",
+            "ko": "실시간 보도 번역: She&#x27;s also held just about every other job in the industry, from installer to instructor."
           }
         ]
       },
       {
-        "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
+        "en": "For those that hate the look of solar panels, an alternative is a solar roof, where the tiles (or shingles) house solar cells, but look much the same as regular tiles.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
-            "ko": "실시간 보도 번역: The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm."
+            "en": "For those that hate the look of solar panels, an alternative is a solar roof, where the tiles (or shingles) house solar cells, but look much the same as regular tiles.",
+            "ko": "실시간 보도 번역: For those that hate the look of solar panels, an alternative is a solar roof, where the tiles (or shingles) house solar cells, but look much the same as regular tiles."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI fires workers for 'mishandling sensitive information'",
+      "글로벌 최신 소식: Why are more roofs not made of solar tiles?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -781,7 +874,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI fires workers for 'mishandling sensitive information'",
+          "Why are more roofs not made of solar tiles?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1504,70 +1597,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_2450974080697081995",
-    "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
-    "subtitle": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month....",
-    "speaker": "BBC Science",
-    "date": "2026-10-02",
-    "addedAt": "2026-10-03T15:35:59Z",
-    "category": "science",
+    "id": "auto_economy_4357724109916875049",
+    "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+    "subtitle": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech co...",
+    "speaker": "BBC Business",
+    "date": "2026-10-08",
+    "addedAt": "2026-10-09T04:13:27Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 130,
+    "wordCount": 148,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpCould El Niño mean there are no Atlantic hurricanes this year?Image source, GettyBySimon King Lead Weather PresenterPublished3 October 2026, 00:37 BSTFor the first time in more than 30 years, a hurricane has not formed in the Atlantic throughout September - normally the most active month for hurricane activity.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatMark Zuckerberg has an image problem - so why is Meta&#x27;s business booming?",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpCould El Niño mean there are no Atlantic hurricanes this year?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpCould El Niño mean there are no Atlantic hurricanes this year?"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatMark Zuckerberg has an image problem - so why is Meta&#x27;s business booming?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatMark Zuckerberg has an image problem - so why is Meta&#x27;s business booming?"
+          }
+        ]
+      },
+      {
+        "en": "Image source, CQ-Roll Call, Inc via Getty Images / CTMG, Inc./Leah GalByLily JamaliNorth America Technology correspondentMark Zuckerberg was just three minutes into his keynote speech at the company&#x27;s annual Meta Connect product event last month when his tone turned almost wistful.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Image source, CQ-Roll Call, Inc via Getty Images / CTMG, Inc.",
+            "ko": "실시간 보도 번역: Image source, CQ-Roll Call, Inc via Getty Images / CTMG, Inc."
           },
           {
-            "en": "Image source, GettyBySimon King Lead Weather PresenterPublished3 October 2026, 00:37 BSTFor the first time in more than 30 years, a hurricane has not formed in the Atlantic throughout September - normally the most active month for hurricane activity.",
-            "ko": "실시간 보도 번역: Image source, GettyBySimon King Lead Weather PresenterPublished3 October 2026, 00:37 BSTFor the first time in more than 30 years, a hurricane has not formed in the Atlantic throughout September - normally the most active month for hurricane activity."
+            "en": "/Leah GalByLily JamaliNorth America Technology correspondentMark Zuckerberg was just three minutes into his keynote speech at the company&#x27;s annual Meta Connect product event last month when his tone turned almost wistful.",
+            "ko": "실시간 보도 번역: /Leah GalByLily JamaliNorth America Technology correspondentMark Zuckerberg was just three minutes into his keynote speech at the company&#x27;s annual Meta Connect product event last month when his tone turned almost wistful."
           }
         ]
       },
       {
-        "en": "With just two months left of the defined hurricane season, there is an increasing possibility that no hurricanes will develop at all.",
+        "en": "&quot;Building is an act of love,&quot; he said, glancing down at the ground with his hands in his pockets. &quot;It&#x27;s how we impart what we believe, and we pour our hearts and our souls into what we make.&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "With just two months left of the defined hurricane season, there is an increasing possibility that no hurricanes will develop at all.",
-            "ko": "실시간 보도 번역: With just two months left of the defined hurricane season, there is an increasing possibility that no hurricanes will develop at all."
+            "en": "&quot;Building is an act of love,&quot; he said, glancing down at the ground with his hands in his pockets.",
+            "ko": "실시간 보도 번역: &quot;Building is an act of love,&quot; he said, glancing down at the ground with his hands in his pockets."
+          },
+          {
+            "en": "&quot;It&#x27;s how we impart what we believe, and we pour our hearts and our souls into what we make.",
+            "ko": "실시간 보도 번역: &quot;It&#x27;s how we impart what we believe, and we pour our hearts and our souls into what we make."
           }
         ]
       },
       {
-        "en": "This would make the 2026 Atlantic hurricane season the only one in the satellite era without a hurricane.",
+        "en": "Speaking to hundreds of analysts and developers, Zuckerberg proceeded to share news about Meta&#x27;s latest AI products: its new agentic chatbot Muse, a slew of smart glasses, as well as a Tamagotchi-like AI gadget users can attach to their wrists.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "This would make the 2026 Atlantic hurricane season the only one in the satellite era without a hurricane.",
-            "ko": "실시간 보도 번역: This would make the 2026 Atlantic hurricane season the only one in the satellite era without a hurricane."
-          }
-        ]
-      },
-      {
-        "en": "The biggest reason for this is El Niño, which traditionally stifles activity in the Atlantic but brings a very active season in the eastern North Pacific.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The biggest reason for this is El Niño, which traditionally stifles activity in the Atlantic but brings a very active season in the eastern North Pacific.",
-            "ko": "실시간 보도 번역: The biggest reason for this is El Niño, which traditionally stifles activity in the Atlantic but brings a very active season in the eastern North Pacific."
+            "en": "Speaking to hundreds of analysts and developers, Zuckerberg proceeded to share news about Meta&#x27;s latest AI products: its new agentic chatbot Muse, a slew of smart glasses, as well as a Tamagotchi-like AI gadget users can attach to their wrists.",
+            "ko": "실시간 보도 번역: Speaking to hundreds of analysts and developers, Zuckerberg proceeded to share news about Meta&#x27;s latest AI products: its new agentic chatbot Muse, a slew of smart glasses, as well as a Tamagotchi-like AI gadget users can attach to their wrists."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Could El Niño mean there are no Atlantic hurricanes this year?",
+      "글로벌 최신 소식: Mark Zuckerberg has an image problem - so why is Meta's business booming?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1575,7 +1672,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Could El Niño mean there are no Atlantic hurricanes this year?",
+          "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2294,66 +2391,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_1046985634762940181",
-    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-    "subtitle": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports....",
-    "speaker": "BBC Business",
-    "date": "2026-10-03",
-    "addedAt": "2026-10-03T15:35:59Z",
-    "category": "economy",
+    "id": "auto_sports_5468090361067596639",
+    "title": "'Draining' few days for Gauff after online racist abuse",
+    "subtitle": "Coco Gauff says she had a \"draining\" few days after receiving racist abuse online before her fourth-round China Open exit....",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-07",
+    "addedAt": "2026-10-09T04:13:28Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 151,
+    "wordCount": 138,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026 05:38 BSTThe G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026 05:38 BSTThe G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026 05:38 BSTThe G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year"
           }
         ]
       },
       {
-        "en": "It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement.",
+        "en": "Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement.",
-            "ko": "실시간 보도 번역: It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement."
+            "en": "Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit.",
+            "ko": "실시간 보도 번역: Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit."
           }
         ]
       },
       {
-        "en": "The group of advanced economies, including the US, said the move would begin immediately and would last for four months.",
+        "en": "The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The group of advanced economies, including the US, said the move would begin immediately and would last for four months.",
-            "ko": "실시간 보도 번역: The group of advanced economies, including the US, said the move would begin immediately and would last for four months."
+            "en": "The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday.",
+            "ko": "실시간 보도 번역: The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday."
           }
         ]
       },
       {
-        "en": "Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members.",
+        "en": "China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members.",
-            "ko": "실시간 보도 번역: Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members."
+            "en": "China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court.",
+            "ko": "실시간 보도 번역: China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: G7 to release millions of barrels of oil and diesel after Trump threat",
+      "글로벌 최신 소식: 'Draining' few days for Gauff after online racist abuse",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2361,14 +2458,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "G7 to release millions of barrels of oil and diesel after Trump threat",
+          "'Draining' few days for Gauff after online racist abuse",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_7614248148985463587",
@@ -3090,66 +3189,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_4441336460739369151",
-    "title": "Sabalenka 'trying hard to be easier on myself'",
-    "subtitle": "Aryna Sabalenka says she is \"trying so hard to be easier on myself\" as she begins her China Open campaign with victory over Renata...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-02",
-    "addedAt": "2026-10-03T15:36:00Z",
-    "category": "sports",
+    "id": "auto_culture_5540667171449964840",
+    "title": "Emotions run high at the round table as Celebrity Traitors banish two players",
+    "subtitle": "Viewers watched to see whether Richard E Grant could save himself at the first round table of the series....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-08",
+    "addedAt": "2026-10-09T04:13:29Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 131,
+    "wordCount": 130,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSabalenka &#x27;trying hard to be easier on myself&#x27;Image source, Getty ImagesImage caption, Aryna Sabalenka&#x27;s last title came at the Miami Open in March",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEmotions run high at the round table as Celebrity Traitors banish two playersImage caption, Actress Sharon Rooney was visibly shocked to find which players returned to breakfast during Thursday&#x27;s episode",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSabalenka &#x27;trying hard to be easier on myself&#x27;Image source, Getty ImagesImage caption, Aryna Sabalenka&#x27;s last title came at the Miami Open in March",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSabalenka &#x27;trying hard to be easier on myself&#x27;Image source, Getty ImagesImage caption, Aryna Sabalenka&#x27;s last title came at the Miami Open in March"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEmotions run high at the round table as Celebrity Traitors banish two playersImage caption, Actress Sharon Rooney was visibly shocked to find which players returned to breakfast during Thursday&#x27;s episode",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEmotions run high at the round table as Celebrity Traitors banish two playersImage caption, Actress Sharon Rooney was visibly shocked to find which players returned to breakfast during Thursday&#x27;s episode"
           }
         ]
       },
       {
-        "en": "Aryna Sabalenka said she was &quot;trying so hard to be easier on myself&quot; as she began her China Open campaign with victory over Renata Zarazua.",
+        "en": "Spoiler warning: This article reveals details from the third episode of The Celebrity Traitors, series two.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Aryna Sabalenka said she was &quot;trying so hard to be easier on myself&quot; as she began her China Open campaign with victory over Renata Zarazua.",
-            "ko": "실시간 보도 번역: Aryna Sabalenka said she was &quot;trying so hard to be easier on myself&quot; as she began her China Open campaign with victory over Renata Zarazua."
+            "en": "Spoiler warning: This article reveals details from the third episode of The Celebrity Traitors, series two.",
+            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from the third episode of The Celebrity Traitors, series two."
           }
         ]
       },
       {
-        "en": "World number two Sabalenka hit 11 aces and did not face a break point in a 6-1 6-3 victory over the Mexican.",
+        "en": "We normally expect raised voices, conflicting theories and a dramatic showdown from the Celebrity Traitors. But as this year&#x27;s first round table got under way, the writing was on the castle wall.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "World number two Sabalenka hit 11 aces and did not face a break point in a 6-1 6-3 victory over the Mexican.",
-            "ko": "실시간 보도 번역: World number two Sabalenka hit 11 aces and did not face a break point in a 6-1 6-3 victory over the Mexican."
+            "en": "We normally expect raised voices, conflicting theories and a dramatic showdown from the Celebrity Traitors.",
+            "ko": "실시간 보도 번역: We normally expect raised voices, conflicting theories and a dramatic showdown from the Celebrity Traitors."
+          },
+          {
+            "en": "But as this year&#x27;s first round table got under way, the writing was on the castle wall.",
+            "ko": "실시간 보도 번역: But as this year&#x27;s first round table got under way, the writing was on the castle wall."
           }
         ]
       },
       {
-        "en": "The Belarusian needed just 63 minutes to win her first match since losing her world number one ranking and her US Open crown to Elena Rybakina in September.",
+        "en": "Viewers who often get frustrated with the faithful and root for them to uncover a traitor had their wish firmly Richard E Grant-ed on Thursday, as the actor was banished in a landslide vote.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Belarusian needed just 63 minutes to win her first match since losing her world number one ranking and her US Open crown to Elena Rybakina in September.",
-            "ko": "실시간 보도 번역: The Belarusian needed just 63 minutes to win her first match since losing her world number one ranking and her US Open crown to Elena Rybakina in September."
+            "en": "Viewers who often get frustrated with the faithful and root for them to uncover a traitor had their wish firmly Richard E Grant-ed on Thursday, as the actor was banished in a landslide vote.",
+            "ko": "실시간 보도 번역: Viewers who often get frustrated with the faithful and root for them to uncover a traitor had their wish firmly Richard E Grant-ed on Thursday, as the actor was banished in a landslide vote."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Sabalenka 'trying hard to be easier on myself'",
+      "글로벌 최신 소식: Emotions run high at the round table as Celebrity Traitors banish two players",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3157,16 +3260,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Sabalenka 'trying hard to be easier on myself'",
+          "Emotions run high at the round table as Celebrity Traitors banish two players",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_3638908856577588886",
@@ -3815,87 +3916,6 @@ const READPULSE_ARTICLES = [
     "speaker": "BBC Arts",
     "date": "2026-10-03",
     "addedAt": "2026-10-04T03:56:09Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 134,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTraitors claim their first victim as Richard E Grant tries to save his skinImage caption, Maya Jama is off to a strong start as a traitor, but Richard E Grant is in damage control mode",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTraitors claim their first victim as Richard E Grant tries to save his skinImage caption, Maya Jama is off to a strong start as a traitor, but Richard E Grant is in damage control mode",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTraitors claim their first victim as Richard E Grant tries to save his skinImage caption, Maya Jama is off to a strong start as a traitor, but Richard E Grant is in damage control mode"
-          }
-        ]
-      },
-      {
-        "en": "Spoiler warning: This article reveals details from the second episode of The Celebrity Traitors, series two.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Spoiler warning: This article reveals details from the second episode of The Celebrity Traitors, series two.",
-            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from the second episode of The Celebrity Traitors, series two."
-          }
-        ]
-      },
-      {
-        "en": "A comedian, a journalist, an actor and a TV presenter walk into a church. But sadly, the punchline for one of them was becoming the first victim of this year&#x27;s Celebrity Traitors.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "A comedian, a journalist, an actor and a TV presenter walk into a church.",
-            "ko": "실시간 보도 번역: A comedian, a journalist, an actor and a TV presenter walk into a church."
-          },
-          {
-            "en": "But sadly, the punchline for one of them was becoming the first victim of this year&#x27;s Celebrity Traitors.",
-            "ko": "실시간 보도 번역: But sadly, the punchline for one of them was becoming the first victim of this year&#x27;s Celebrity Traitors."
-          }
-        ]
-      },
-      {
-        "en": "As Friday&#x27;s episode got under way, a delicious new twist saw traitors Richard E Grant and Maya Jama invite James Acaster to join them in the turret, and simultaneously murder a fellow player.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "As Friday&#x27;s episode got under way, a delicious new twist saw traitors Richard E Grant and Maya Jama invite James Acaster to join them in the turret, and simultaneously murder a fellow player.",
-            "ko": "실시간 보도 번역: As Friday&#x27;s episode got under way, a delicious new twist saw traitors Richard E Grant and Maya Jama invite James Acaster to join them in the turret, and simultaneously murder a fellow player."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Traitors claim their first victim as Richard E Grant tries to save his skin",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Traitors claim their first victim as Richard E Grant tries to save his skin",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_6155858598932782603",
-    "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
-    "subtitle": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-03",
-    "addedAt": "2026-10-03T15:36:02Z",
     "category": "culture",
     "isLive": true,
     "level": "B2",
