@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_9214540859959072844",
+    "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+    "subtitle": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-09",
+    "addedAt": "2026-10-10T03:58:53Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 114,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPrize-winning image which sparked backlash was AI-generated, Nikon rulesTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPrize-winning image which sparked backlash was AI-generated, Nikon rulesTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPrize-winning image which sparked backlash was AI-generated, Nikon rulesTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "Watch: The competition&#x27;s former winner and runners up. Nikon disqualified the winning video (shown left).",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Watch: The competition&#x27;s former winner and runners up.",
+            "ko": "실시간 보도 번역: Watch: The competition&#x27;s former winner and runners up."
+          },
+          {
+            "en": "Nikon disqualified the winning video (shown left).",
+            "ko": "실시간 보도 번역: Nikon disqualified the winning video (shown left)."
+          }
+        ]
+      },
+      {
+        "en": "Technology &amp; AI editorPublished9 October 2026The winner of a prestigious scientific photography competition has been disqualified following concerns raised by other scientists that it was fake.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Technology &amp; AI editorPublished9 October 2026The winner of a prestigious scientific photography competition has been disqualified following concerns raised by other scientists that it was fake.",
+            "ko": "실시간 보도 번역: Technology &amp; AI editorPublished9 October 2026The winner of a prestigious scientific photography competition has been disqualified following concerns raised by other scientists that it was fake."
+          }
+        ]
+      },
+      {
+        "en": "Nikon said the use of generative AI in the composition of the video broke the rules of its Small World In Motion contest, which accepts photos and video taken using powerful microscopes.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Nikon said the use of generative AI in the composition of the video broke the rules of its Small World In Motion contest, which accepts photos and video taken using powerful microscopes.",
+            "ko": "실시간 보도 번역: Nikon said the use of generative AI in the composition of the video broke the rules of its Small World In Motion contest, which accepts photos and video taken using powerful microscopes."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_5825657007884530204",
     "title": "Anthropic bans users from being 'cruel' to its AI systems",
     "subtitle": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech....",
@@ -722,66 +803,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1701754024283624991",
-    "title": "OpenAI fires workers for 'mishandling sensitive information'",
-    "subtitle": "The former employees were investigated for sharing data with an outside AI evaluation group....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-02",
-    "addedAt": "2026-10-04T16:19:59Z",
-    "category": "tech",
+    "id": "auto_science_2904837605850189568",
+    "title": "'People don't think recycling at work is part of their job description'",
+    "subtitle": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue....",
+    "speaker": "BBC Science",
+    "date": "2026-10-09",
+    "addedAt": "2026-10-10T03:58:53Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 102,
+    "wordCount": 135,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal News&#x27;People don&#x27;t think recycling at work is part of their job description&#x27;Image caption, Businesses in Wales are required to sort waste into the same recycling categories that households are expected to do",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechOpenAI fires workers for &#x27;mishandling sensitive information&#x27;Image source, Getty ImagesImage caption, OpenAI chief executive Sam Altman"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal News&#x27;People don&#x27;t think recycling at work is part of their job description&#x27;Image caption, Businesses in Wales are required to sort waste into the same recycling categories that households are expected to do",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal News&#x27;People don&#x27;t think recycling at work is part of their job description&#x27;Image caption, Businesses in Wales are required to sort waste into the same recycling categories that households are expected to do"
           }
         ]
       },
       {
-        "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
+        "en": "There was still &quot;lots of room for improvement&quot; when it comes to how much we recycle at work compared with our habits at home, according to an expert.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
-            "ko": "실시간 보도 번역: OpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models."
+            "en": "There was still &quot;lots of room for improvement&quot; when it comes to how much we recycle at work compared with our habits at home, according to an expert.",
+            "ko": "실시간 보도 번역: There was still &quot;lots of room for improvement&quot; when it comes to how much we recycle at work compared with our habits at home, according to an expert."
           }
         ]
       },
       {
-        "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
+        "en": "Figures suggest only 61% of people in Wales recycle often at their workplace, with one in five saying they do not recall seeing the appropriate facilities to do so.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC.",
-            "ko": "실시간 보도 번역: &quot;Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,&quot; a spokesperson told the BBC."
+            "en": "Figures suggest only 61% of people in Wales recycle often at their workplace, with one in five saying they do not recall seeing the appropriate facilities to do so.",
+            "ko": "실시간 보도 번역: Figures suggest only 61% of people in Wales recycle often at their workplace, with one in five saying they do not recall seeing the appropriate facilities to do so."
           }
         ]
       },
       {
-        "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
+        "en": "Providing more bins or clearer labelling are some of the ways in which businesses could make a difference, said waste reduction charity Wrap.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.",
-            "ko": "실시간 보도 번역: The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm."
+            "en": "Providing more bins or clearer labelling are some of the ways in which businesses could make a difference, said waste reduction charity Wrap.",
+            "ko": "실시간 보도 번역: Providing more bins or clearer labelling are some of the ways in which businesses could make a difference, said waste reduction charity Wrap."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: OpenAI fires workers for 'mishandling sensitive information'",
+      "글로벌 최신 소식: 'People don't think recycling at work is part of their job description'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -789,7 +870,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "OpenAI fires workers for 'mishandling sensitive information'",
+          "'People don't think recycling at work is part of their job description'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1564,66 +1645,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_1698501321407279002",
-    "title": "Queen's University students blast off to US for Nasa robotics competition",
-    "subtitle": "The students will head to Florida to compete against university teams from Australia, India and the US....",
-    "speaker": "BBC Science",
-    "date": "2026-10-04",
-    "addedAt": "2026-10-04T16:19:59Z",
-    "category": "science",
+    "id": "auto_economy_7313130444688109123",
+    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "subtitle": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"....",
+    "speaker": "BBC Business",
+    "date": "2026-10-10",
+    "addedAt": "2026-10-10T03:58:53Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 107,
+    "wordCount": 175,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN. IrelandN. Ireland PoliticsQueen&#x27;s University students blast off to US for Nasa robotics competitionImage source, Queen&#x27;s University BelfastImage caption, The team is made up of 10 students from Queen&#x27;s University Belfast",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Anna Moneymaker/Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Anthony Zurcher, North America correspondentPublished9 October 2026Updated 3 hours agoPresident Donald Trump has announced a deal to import Russian diesel into the US, as he faces mounting pressure to bring down fuel prices.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Anna Moneymaker/Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Anthony Zurcher, North America correspondentPublished9 October 2026Updated 3 hours agoPresident Donald Trump has announced a deal to import Russian diesel into the US, as he faces mounting pressure to bring down fuel prices.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Anna Moneymaker/Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Anthony Zurcher, North America correspondentPublished9 October 2026Updated 3 hours agoPresident Donald Trump has announced a deal to import Russian diesel into the US, as he faces mounting pressure to bring down fuel prices."
           }
         ]
       },
       {
-        "en": "Could a robot designed by young engineering students from Northern Ireland end up on the Moon?",
+        "en": "Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Could a robot designed by young engineering students from Northern Ireland end up on the Moon?",
-            "ko": "실시간 보도 번역: Could a robot designed by young engineering students from Northern Ireland end up on the Moon?"
+            "en": "Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that.",
+            "ko": "실시간 보도 번역: Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that."
           }
         ]
       },
       {
-        "en": "A team, from Queen&#x27;s University Belfast (QUB), are heading to Florida later this month to take part in a Nasa &#x27;lunabotics&#x27; competition.",
+        "en": "The move on Friday sparked anger from Ukraine&#x27;s President Volodymr Zelensky, who called it a gift to Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A team, from Queen&#x27;s University Belfast (QUB), are heading to Florida later this month to take part in a Nasa &#x27;lunabotics&#x27; competition.",
-            "ko": "실시간 보도 번역: A team, from Queen&#x27;s University Belfast (QUB), are heading to Florida later this month to take part in a Nasa &#x27;lunabotics&#x27; competition."
+            "en": "The move on Friday sparked anger from Ukraine&#x27;s President Volodymr Zelensky, who called it a gift to Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;.",
+            "ko": "실시간 보도 번역: The move on Friday sparked anger from Ukraine&#x27;s President Volodymr Zelensky, who called it a gift to Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;."
           }
         ]
       },
       {
-        "en": "Lunabotics is a university-level competition for teams to use the Nasa systems engineering process to design, build, and operate a lunar robot.",
+        "en": "It is understood the US Treasury is suspending sanctions on Russian diesel exports until 7 April as part of the deal, but other assets like those in American banks are still frozen.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Lunabotics is a university-level competition for teams to use the Nasa systems engineering process to design, build, and operate a lunar robot.",
-            "ko": "실시간 보도 번역: Lunabotics is a university-level competition for teams to use the Nasa systems engineering process to design, build, and operate a lunar robot."
+            "en": "It is understood the US Treasury is suspending sanctions on Russian diesel exports until 7 April as part of the deal, but other assets like those in American banks are still frozen.",
+            "ko": "실시간 보도 번역: It is understood the US Treasury is suspending sanctions on Russian diesel exports until 7 April as part of the deal, but other assets like those in American banks are still frozen."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Queen's University students blast off to US for Nasa robotics competition",
+      "글로벌 최신 소식: Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1631,7 +1712,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Queen's University students blast off to US for Nasa robotics competition",
+          "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2358,66 +2439,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_5253543142086813963",
-    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-    "subtitle": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports....",
-    "speaker": "BBC Business",
-    "date": "2026-10-03",
-    "addedAt": "2026-10-04T16:20:00Z",
-    "category": "economy",
+    "id": "auto_sports_2803467312989416391",
+    "title": "Djokovic suffers surprise Hurkacz loss in Shanghai",
+    "subtitle": "Novak Djokovic suffers a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after his triumph a...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-09",
+    "addedAt": "2026-10-10T03:58:53Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 149,
+    "wordCount": 135,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026The G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026The G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessG7 to release millions of barrels of oil and diesel after Trump threatImage source, PA MediaByArchie Mitchell and Lucy Hooker, Business reportersPublished2 October 2026Updated 3 October 2026The G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed"
           }
         ]
       },
       {
-        "en": "It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement.",
+        "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement.",
-            "ko": "실시간 보도 번역: It includes a &quot;substantial release&quot; of diesel within 20 days, with discussions around &quot;additional diesel releases as necessary&quot;, G7 leaders said in a statement."
+            "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
+            "ko": "실시간 보도 번역: Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing."
           }
         ]
       },
       {
-        "en": "The group of advanced economies, including the US, said the move would begin immediately and would last for four months.",
+        "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The group of advanced economies, including the US, said the move would begin immediately and would last for four months.",
-            "ko": "실시간 보도 번역: The group of advanced economies, including the US, said the move would begin immediately and would last for four months."
+            "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
+            "ko": "실시간 보도 번역: The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final."
           }
         ]
       },
       {
-        "en": "Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members.",
+        "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members.",
-            "ko": "실시간 보도 번역: Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any &quot;export restrictions on energy and energy products&quot; between G7 members."
+            "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
+            "ko": "실시간 보도 번역: But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: G7 to release millions of barrels of oil and diesel after Trump threat",
+      "글로벌 최신 소식: Djokovic suffers surprise Hurkacz loss in Shanghai",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2425,14 +2506,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "G7 to release millions of barrels of oil and diesel after Trump threat",
+          "Djokovic suffers surprise Hurkacz loss in Shanghai",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_6967422473021834750",
@@ -3154,66 +3237,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_2932793396944627059",
-    "title": "Djokovic beats Zverev to reach China Open semis",
-    "subtitle": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open....",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-04",
-    "addedAt": "2026-10-04T16:20:00Z",
-    "category": "sports",
+    "id": "auto_culture_1614729091811194412",
+    "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
+    "subtitle": "Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-09",
+    "addedAt": "2026-10-10T03:58:55Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 120,
+    "wordCount": 123,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic beats Zverev to reach China Open semisImage source, Getty ImagesImage caption, Novak Djokovic won his last Grand Slam at the US Open in 2023",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsScreams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats upImage caption, Romesh Ranganathan lets out a scream while holding a dead woman&#x27;s wedding dress in a haunted cabin",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic beats Zverev to reach China Open semisImage source, Getty ImagesImage caption, Novak Djokovic won his last Grand Slam at the US Open in 2023",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic beats Zverev to reach China Open semisImage source, Getty ImagesImage caption, Novak Djokovic won his last Grand Slam at the US Open in 2023"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsScreams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats upImage caption, Romesh Ranganathan lets out a scream while holding a dead woman&#x27;s wedding dress in a haunted cabin",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsScreams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats upImage caption, Romesh Ranganathan lets out a scream while holding a dead woman&#x27;s wedding dress in a haunted cabin"
           }
         ]
       },
       {
-        "en": "Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals.",
+        "en": "Spoiler warning: This article reveals details from the fourth episode of The Celebrity Traitors, series two.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals.",
-            "ko": "실시간 보도 번역: Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals."
+            "en": "Spoiler warning: This article reveals details from the fourth episode of The Celebrity Traitors, series two.",
+            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from the fourth episode of The Celebrity Traitors, series two."
           }
         ]
       },
       {
-        "en": "The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four.",
+        "en": "While other people are out enjoying their lives, they have to kill it, night after night. Even on the weekend, there is no rest for the wicked.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four.",
-            "ko": "실시간 보도 번역: The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four."
+            "en": "While other people are out enjoying their lives, they have to kill it, night after night.",
+            "ko": "실시간 보도 번역: While other people are out enjoying their lives, they have to kill it, night after night."
+          },
+          {
+            "en": "Even on the weekend, there is no rest for the wicked.",
+            "ko": "실시간 보도 번역: Even on the weekend, there is no rest for the wicked."
           }
         ]
       },
       {
-        "en": "Djokovic&#x27;s victory over Zverev dented the German&#x27;s quest to finish the year as the world&#x27;s number one-ranked player.",
+        "en": "Friday&#x27;s episode saw the the Traitors at it again, murdering Last of Us actor Bella Ramsey, before the faithfuls did their dirty work for them by banishing another of their own, Julie Hesmondhalgh.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Djokovic&#x27;s victory over Zverev dented the German&#x27;s quest to finish the year as the world&#x27;s number one-ranked player.",
-            "ko": "실시간 보도 번역: Djokovic&#x27;s victory over Zverev dented the German&#x27;s quest to finish the year as the world&#x27;s number one-ranked player."
+            "en": "Friday&#x27;s episode saw the the Traitors at it again, murdering Last of Us actor Bella Ramsey, before the faithfuls did their dirty work for them by banishing another of their own, Julie Hesmondhalgh.",
+            "ko": "실시간 보도 번역: Friday&#x27;s episode saw the the Traitors at it again, murdering Last of Us actor Bella Ramsey, before the faithfuls did their dirty work for them by banishing another of their own, Julie Hesmondhalgh."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Djokovic beats Zverev to reach China Open semis",
+      "글로벌 최신 소식: Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3221,16 +3308,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Djokovic beats Zverev to reach China Open semis",
+          "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_116130139641076027",
@@ -3875,87 +3960,6 @@ const READPULSE_ARTICLES = [
     "speaker": "BBC Arts",
     "date": "2026-10-04",
     "addedAt": "2026-10-05T03:41:07Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 123,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSomersetGlastonbury 2027 tickets sell out in 42 minutesImage source, Getty ImagesImage caption, Glastonbury Festival returns to Worthy Farm in June, following a fallow year",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSomersetGlastonbury 2027 tickets sell out in 42 minutesImage source, Getty ImagesImage caption, Glastonbury Festival returns to Worthy Farm in June, following a fallow year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSomersetGlastonbury 2027 tickets sell out in 42 minutesImage source, Getty ImagesImage caption, Glastonbury Festival returns to Worthy Farm in June, following a fallow year"
-          }
-        ]
-      },
-      {
-        "en": "Tickets for Glastonbury Festival 2027 sold out in 42 minutes, organisers have said.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Tickets for Glastonbury Festival 2027 sold out in 42 minutes, organisers have said.",
-            "ko": "실시간 보도 번역: Tickets for Glastonbury Festival 2027 sold out in 42 minutes, organisers have said."
-          }
-        ]
-      },
-      {
-        "en": "Thousands of people joined the online queue at 09:00 BST in the hope of securing tickets to the festival at Worthy Farm in Somerset, which returns from 23 to 27 June after a fallow year.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Thousands of people joined the online queue at 09:00 BST in the hope of securing tickets to the festival at Worthy Farm in Somerset, which returns from 23 to 27 June after a fallow year.",
-            "ko": "실시간 보도 번역: Thousands of people joined the online queue at 09:00 BST in the hope of securing tickets to the festival at Worthy Farm in Somerset, which returns from 23 to 27 June after a fallow year."
-          }
-        ]
-      },
-      {
-        "en": "Organisers confirmed last month that tickets for the weekend were at their highest price ever - £408, including a £5 booking fee per ticket - an increase of £29.50 from the last event in 2025.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Organisers confirmed last month that tickets for the weekend were at their highest price ever - £408, including a £5 booking fee per ticket - an increase of £29.",
-            "ko": "실시간 보도 번역: Organisers confirmed last month that tickets for the weekend were at their highest price ever - £408, including a £5 booking fee per ticket - an increase of £29."
-          },
-          {
-            "en": "50 from the last event in 2025.",
-            "ko": "실시간 보도 번역: 50 from the last event in 2025."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Glastonbury 2027 tickets sell out in 42 minutes",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Glastonbury 2027 tickets sell out in 42 minutes",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_4891140307180524777",
-    "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-    "subtitle": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-04",
-    "addedAt": "2026-10-04T16:20:01Z",
     "category": "culture",
     "isLive": true,
     "level": "B2",
