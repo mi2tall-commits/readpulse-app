@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_4142273937905996346",
+    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+    "subtitle": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect ...",
+    "speaker": "BBC Technology",
+    "date": "2026-10-10",
+    "addedAt": "2026-10-10T16:49:51Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 158,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaRogue Anthropic AI agent gave police fake tip in unsolved murder caseImage source, LightRocket via Getty ImagesImage caption, AI tech company Anthropic was running a test that involved interactions with randomly selected websites, when it sent a fake homicide tip to police",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaRogue Anthropic AI agent gave police fake tip in unsolved murder caseImage source, LightRocket via Getty ImagesImage caption, AI tech company Anthropic was running a test that involved interactions with randomly selected websites, when it sent a fake homicide tip to police",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaRogue Anthropic AI agent gave police fake tip in unsolved murder caseImage source, LightRocket via Getty ImagesImage caption, AI tech company Anthropic was running a test that involved interactions with randomly selected websites, when it sent a fake homicide tip to police"
+          }
+        ]
+      },
+      {
+        "en": "An artificial intelligence (AI) agent developed by Anthropic went rogue and sent US police a fake tip about an unsolved murder earlier this year, authorities have revealed.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "An artificial intelligence (AI) agent developed by Anthropic went rogue and sent US police a fake tip about an unsolved murder earlier this year, authorities have revealed.",
+            "ko": "실시간 보도 번역: An artificial intelligence (AI) agent developed by Anthropic went rogue and sent US police a fake tip about an unsolved murder earlier this year, authorities have revealed."
+          }
+        ]
+      },
+      {
+        "en": "The Philadelphia Police Department said the 18 July tip was &quot;flagged as spam&quot; and not passed on for investigation - but the force criticised the tech firm for taking more than two months to detect and report the breach.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The Philadelphia Police Department said the 18 July tip was &quot;flagged as spam&quot; and not passed on for investigation - but the force criticised the tech firm for taking more than two months to detect and report the breach.",
+            "ko": "실시간 보도 번역: The Philadelphia Police Department said the 18 July tip was &quot;flagged as spam&quot; and not passed on for investigation - but the force criticised the tech firm for taking more than two months to detect and report the breach."
+          }
+        ]
+      },
+      {
+        "en": "It said the bogus tip came through a public website where people can share information on unsolved murders, and that the AI agent had claimed to have seen &quot;someone matching the description&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It said the bogus tip came through a public website where people can share information on unsolved murders, and that the AI agent had claimed to have seen &quot;someone matching the description&quot;.",
+            "ko": "실시간 보도 번역: It said the bogus tip came through a public website where people can share information on unsolved murders, and that the AI agent had claimed to have seen &quot;someone matching the description&quot;."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_9214540859959072844",
     "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
     "subtitle": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest....",
@@ -726,66 +803,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_9028144944324127861",
-    "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-    "subtitle": "The president named his national intelligence chief as the taskforce's head as worries over AI grow....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-05",
-    "addedAt": "2026-10-05T03:41:02Z",
-    "category": "tech",
+    "id": "auto_science_4003754073611913957",
+    "title": "How drones are hunting fires hidden beneath the Cairngorms",
+    "subtitle": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth....",
+    "speaker": "BBC Science",
+    "date": "2026-10-10",
+    "addedAt": "2026-10-10T16:49:51Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 159,
+    "wordCount": 117,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump unveils &#x27;Super Intelligence Force&#x27; to oversee AI policyImage source, Getty ImagesByOsmond ChiaBusiness reporterPublished5 October 2026, 02:33 BSTUpdated 1 minute agoUS President Donald Trump says he has created a new task force focused on artificial intelligence, which will be led by Director of National Intelligence Jay Clayton.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechHow drones are hunting fires hidden beneath the Cairngorms Image caption, Drone pilot Pete Short hunts for hotspots in the Cairngorms National Park which was devastated by a huge wildfire over the summer",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump unveils &#x27;Super Intelligence Force&#x27; to oversee AI policyImage source, Getty ImagesByOsmond ChiaBusiness reporterPublished5 October 2026, 02:33 BSTUpdated 1 minute agoUS President Donald Trump says he has created a new task force focused on artificial intelligence, which will be led by Director of National Intelligence Jay Clayton.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump unveils &#x27;Super Intelligence Force&#x27; to oversee AI policyImage source, Getty ImagesByOsmond ChiaBusiness reporterPublished5 October 2026, 02:33 BSTUpdated 1 minute agoUS President Donald Trump says he has created a new task force focused on artificial intelligence, which will be led by Director of National Intelligence Jay Clayton."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechHow drones are hunting fires hidden beneath the Cairngorms Image caption, Drone pilot Pete Short hunts for hotspots in the Cairngorms National Park which was devastated by a huge wildfire over the summer",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechHow drones are hunting fires hidden beneath the Cairngorms Image caption, Drone pilot Pete Short hunts for hotspots in the Cairngorms National Park which was devastated by a huge wildfire over the summer"
           }
         ]
       },
       {
-        "en": "The &quot;Super Intelligence Force&quot; will work to ensure that the US continues to lead in the technology&#x27;s development and will coordinate the government&#x27;s engagement with the public, Trump posted on Sunday.",
+        "en": "It is 06:00 and I&#x27;m meeting drone pilot Pete Short for a dawn patrol in the Cairngorms National Park.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The &quot;Super Intelligence Force&quot; will work to ensure that the US continues to lead in the technology&#x27;s development and will coordinate the government&#x27;s engagement with the public, Trump posted on Sunday.",
-            "ko": "실시간 보도 번역: The &quot;Super Intelligence Force&quot; will work to ensure that the US continues to lead in the technology&#x27;s development and will coordinate the government&#x27;s engagement with the public, Trump posted on Sunday."
+            "en": "It is 06:00 and I&#x27;m meeting drone pilot Pete Short for a dawn patrol in the Cairngorms National Park.",
+            "ko": "실시간 보도 번역: It is 06:00 and I&#x27;m meeting drone pilot Pete Short for a dawn patrol in the Cairngorms National Park."
           }
         ]
       },
       {
-        "en": "It comes after the president signed an executive order on 29 September to rename AI as Super Intelligence, after previously saying the word artificial made it sound &quot;fake&quot;.",
+        "en": "It is a job he has been doing for almost three months, since a huge wildfire tore through this landscape in July.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It comes after the president signed an executive order on 29 September to rename AI as Super Intelligence, after previously saying the word artificial made it sound &quot;fake&quot;.",
-            "ko": "실시간 보도 번역: It comes after the president signed an executive order on 29 September to rename AI as Super Intelligence, after previously saying the word artificial made it sound &quot;fake&quot;."
+            "en": "It is a job he has been doing for almost three months, since a huge wildfire tore through this landscape in July.",
+            "ko": "실시간 보도 번역: It is a job he has been doing for almost three months, since a huge wildfire tore through this landscape in July."
           }
         ]
       },
       {
-        "en": "Trump also said last week that he would set up a board to oversee AI safety after top tech bosses signed what he described as a &quot;morally binding&quot; pact.",
+        "en": "The flames which swept across the hillsides are gone. From where we are standing, there is little to suggest there is still a fire here at all.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Trump also said last week that he would set up a board to oversee AI safety after top tech bosses signed what he described as a &quot;morally binding&quot; pact.",
-            "ko": "실시간 보도 번역: Trump also said last week that he would set up a board to oversee AI safety after top tech bosses signed what he described as a &quot;morally binding&quot; pact."
+            "en": "The flames which swept across the hillsides are gone.",
+            "ko": "실시간 보도 번역: The flames which swept across the hillsides are gone."
+          },
+          {
+            "en": "From where we are standing, there is little to suggest there is still a fire here at all.",
+            "ko": "실시간 보도 번역: From where we are standing, there is little to suggest there is still a fire here at all."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "글로벌 최신 소식: How drones are hunting fires hidden beneath the Cairngorms",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -793,7 +874,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+          "How drones are hunting fires hidden beneath the Cairngorms",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1568,66 +1649,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_1886195579630006418",
-    "title": "Students blast off to US for Nasa robotics competition",
-    "subtitle": "The students will head to Florida to compete against university teams from Australia, India and the US....",
-    "speaker": "BBC Science",
-    "date": "2026-10-04",
-    "addedAt": "2026-10-05T03:41:04Z",
-    "category": "science",
+    "id": "auto_economy_8741500579526227067",
+    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "subtitle": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"....",
+    "speaker": "BBC Business",
+    "date": "2026-10-10",
+    "addedAt": "2026-10-10T16:49:52Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 105,
+    "wordCount": 133,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN. IrelandN. Ireland PoliticsStudents blast off to US for Nasa robotics competitionImage source, Queen&#x27;s University BelfastImage caption, The team is made up of 10 students from Queen&#x27;s University Belfast",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Andrew Harnik/Getty ImagesImage caption, Donald Trump and Vladimir Putin met in Alaska last year",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatN."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Andrew Harnik/Getty ImagesImage caption, Donald Trump and Vladimir Putin met in Alaska last year",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Andrew Harnik/Getty ImagesImage caption, Donald Trump and Vladimir Putin met in Alaska last year"
           }
         ]
       },
       {
-        "en": "Could a robot designed by young engineering students from Northern Ireland end up on the Moon?",
+        "en": "Ukraine&#x27;s President Volodymyr Zelensky has condemned Donald Trump&#x27;s announcement of a deal to import Russian diesel into the US.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Could a robot designed by young engineering students from Northern Ireland end up on the Moon?",
-            "ko": "실시간 보도 번역: Could a robot designed by young engineering students from Northern Ireland end up on the Moon?"
+            "en": "Ukraine&#x27;s President Volodymyr Zelensky has condemned Donald Trump&#x27;s announcement of a deal to import Russian diesel into the US.",
+            "ko": "실시간 보도 번역: Ukraine&#x27;s President Volodymyr Zelensky has condemned Donald Trump&#x27;s announcement of a deal to import Russian diesel into the US."
           }
         ]
       },
       {
-        "en": "A team, from Queen&#x27;s University Belfast (QUB), are heading to Florida later this month to take part in a Nasa &#x27;lunabotics&#x27; competition.",
+        "en": "Zelensky called it a gift to Russian President Vladimir Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;, a position quickly backed by Ukraine&#x27;s European allies.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A team, from Queen&#x27;s University Belfast (QUB), are heading to Florida later this month to take part in a Nasa &#x27;lunabotics&#x27; competition.",
-            "ko": "실시간 보도 번역: A team, from Queen&#x27;s University Belfast (QUB), are heading to Florida later this month to take part in a Nasa &#x27;lunabotics&#x27; competition."
+            "en": "Zelensky called it a gift to Russian President Vladimir Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;, a position quickly backed by Ukraine&#x27;s European allies.",
+            "ko": "실시간 보도 번역: Zelensky called it a gift to Russian President Vladimir Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;, a position quickly backed by Ukraine&#x27;s European allies."
           }
         ]
       },
       {
-        "en": "Lunabotics is a university-level competition for teams to use the Nasa systems engineering process to design, build, and operate a lunar robot.",
+        "en": "Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Lunabotics is a university-level competition for teams to use the Nasa systems engineering process to design, build, and operate a lunar robot.",
-            "ko": "실시간 보도 번역: Lunabotics is a university-level competition for teams to use the Nasa systems engineering process to design, build, and operate a lunar robot."
+            "en": "Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that.",
+            "ko": "실시간 보도 번역: Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Students blast off to US for Nasa robotics competition",
+      "글로벌 최신 소식: Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1635,7 +1716,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Students blast off to US for Nasa robotics competition",
+          "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2362,66 +2443,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_3479183330670477386",
-    "title": "The job interview question you don't have to answer",
-    "subtitle": "Experts explain what you should do if you are asked for your current salary during a job interview....",
-    "speaker": "BBC Business",
-    "date": "2026-10-04",
-    "addedAt": "2026-10-05T03:41:04Z",
-    "category": "economy",
+    "id": "auto_sports_3051949597332496228",
+    "title": "Djokovic suffers surprise Hurkacz loss in Shanghai",
+    "subtitle": "Novak Djokovic suffers a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after his triumph a...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-09",
+    "addedAt": "2026-10-10T16:49:52Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 122,
+    "wordCount": 135,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessThe job interview question you don&#x27;t have to answerTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessThe job interview question you don&#x27;t have to answerTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessThe job interview question you don&#x27;t have to answerTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed"
           }
         ]
       },
       {
-        "en": "Cost of living correspondentPublished4 hours agoPrepare all you like, but there is often still one job interview question that leaves you feeling uncomfortable.",
+        "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Cost of living correspondentPublished4 hours agoPrepare all you like, but there is often still one job interview question that leaves you feeling uncomfortable.",
-            "ko": "실시간 보도 번역: Cost of living correspondentPublished4 hours agoPrepare all you like, but there is often still one job interview question that leaves you feeling uncomfortable."
+            "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
+            "ko": "실시간 보도 번역: Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing."
           }
         ]
       },
       {
-        "en": "While employers in the UK are within their rights to ask you how much you get paid in your current role, applicants are not obliged to tell them.",
+        "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "While employers in the UK are within their rights to ask you how much you get paid in your current role, applicants are not obliged to tell them.",
-            "ko": "실시간 보도 번역: While employers in the UK are within their rights to ask you how much you get paid in your current role, applicants are not obliged to tell them."
+            "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
+            "ko": "실시간 보도 번역: The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final."
           }
         ]
       },
       {
-        "en": "Recruiters have been encouraged to stop posing questions about salary history and, in the EU, new rules will prevent them doing so.",
+        "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Recruiters have been encouraged to stop posing questions about salary history and, in the EU, new rules will prevent them doing so.",
-            "ko": "실시간 보도 번역: Recruiters have been encouraged to stop posing questions about salary history and, in the EU, new rules will prevent them doing so."
+            "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
+            "ko": "실시간 보도 번역: But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: The job interview question you don't have to answer",
+      "글로벌 최신 소식: Djokovic suffers surprise Hurkacz loss in Shanghai",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2429,14 +2510,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "The job interview question you don't have to answer",
+          "Djokovic suffers surprise Hurkacz loss in Shanghai",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_2803467312989416391",
@@ -3158,66 +3241,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_5098663972328328708",
-    "title": "Djokovic beats Zverev to reach China Open semis",
-    "subtitle": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open....",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-04",
-    "addedAt": "2026-10-05T03:41:05Z",
-    "category": "sports",
+    "id": "auto_culture_2343749866373135955",
+    "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
+    "subtitle": "Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-10",
+    "addedAt": "2026-10-10T16:49:54Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 120,
+    "wordCount": 139,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic beats Zverev to reach China Open semisImage source, Getty ImagesImage caption, Novak Djokovic won his last Grand Slam at the US Open in 2023",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsScreams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats upByPaul GlynnCulture reporterPublished9 October 2026Updated 5 hours agoSpoiler warning: This article reveals details from the fourth episode of The Celebrity Traitors, series two.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic beats Zverev to reach China Open semisImage source, Getty ImagesImage caption, Novak Djokovic won his last Grand Slam at the US Open in 2023",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic beats Zverev to reach China Open semisImage source, Getty ImagesImage caption, Novak Djokovic won his last Grand Slam at the US Open in 2023"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsScreams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats upByPaul GlynnCulture reporterPublished9 October 2026Updated 5 hours agoSpoiler warning: This article reveals details from the fourth episode of The Celebrity Traitors, series two.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsScreams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats upByPaul GlynnCulture reporterPublished9 October 2026Updated 5 hours agoSpoiler warning: This article reveals details from the fourth episode of The Celebrity Traitors, series two."
           }
         ]
       },
       {
-        "en": "Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals.",
+        "en": "While other people are out enjoying their lives, they have to kill it, night after night. Even on the weekend, there is no rest for the wicked.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals.",
-            "ko": "실시간 보도 번역: Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals."
+            "en": "While other people are out enjoying their lives, they have to kill it, night after night.",
+            "ko": "실시간 보도 번역: While other people are out enjoying their lives, they have to kill it, night after night."
+          },
+          {
+            "en": "Even on the weekend, there is no rest for the wicked.",
+            "ko": "실시간 보도 번역: Even on the weekend, there is no rest for the wicked."
           }
         ]
       },
       {
-        "en": "The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four.",
+        "en": "Friday&#x27;s episode saw the Traitors at it again, murdering Last of Us actor Bella Ramsey, before the faithfuls did their dirty work for them by banishing another of their own, Julie Hesmondhalgh.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four.",
-            "ko": "실시간 보도 번역: The 39-year-old Serbian triumphed 4-6 6-4 6-4 against world number two Zverev and will play Daniil Medvedev in the last four."
+            "en": "Friday&#x27;s episode saw the Traitors at it again, murdering Last of Us actor Bella Ramsey, before the faithfuls did their dirty work for them by banishing another of their own, Julie Hesmondhalgh.",
+            "ko": "실시간 보도 번역: Friday&#x27;s episode saw the Traitors at it again, murdering Last of Us actor Bella Ramsey, before the faithfuls did their dirty work for them by banishing another of their own, Julie Hesmondhalgh."
           }
         ]
       },
       {
-        "en": "Djokovic&#x27;s victory over Zverev dented the German&#x27;s quest to finish the year as the world&#x27;s number one-ranked player.",
+        "en": "The previous episode - watched on Thursday by 10 million people - saw another faithful, unlucky Industry star Myha&#x27;la, follow self-sabotaging traitor Richard E Grant out of the castle.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Djokovic&#x27;s victory over Zverev dented the German&#x27;s quest to finish the year as the world&#x27;s number one-ranked player.",
-            "ko": "실시간 보도 번역: Djokovic&#x27;s victory over Zverev dented the German&#x27;s quest to finish the year as the world&#x27;s number one-ranked player."
+            "en": "The previous episode - watched on Thursday by 10 million people - saw another faithful, unlucky Industry star Myha&#x27;la, follow self-sabotaging traitor Richard E Grant out of the castle.",
+            "ko": "실시간 보도 번역: The previous episode - watched on Thursday by 10 million people - saw another faithful, unlucky Industry star Myha&#x27;la, follow self-sabotaging traitor Richard E Grant out of the castle."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Djokovic beats Zverev to reach China Open semis",
+      "글로벌 최신 소식: Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3225,16 +3312,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Djokovic beats Zverev to reach China Open semis",
+          "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_1614729091811194412",
@@ -3945,87 +4030,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Author and former politician Jeffrey Archer dies aged 86",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_3327977907939523000",
-    "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-    "subtitle": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-04",
-    "addedAt": "2026-10-05T03:41:07Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 123,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSomersetGlastonbury 2027 tickets sell out in 42 minutesImage source, Getty ImagesImage caption, Glastonbury Festival returns to Worthy Farm in June, following a fallow year",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSomersetGlastonbury 2027 tickets sell out in 42 minutesImage source, Getty ImagesImage caption, Glastonbury Festival returns to Worthy Farm in June, following a fallow year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSomersetGlastonbury 2027 tickets sell out in 42 minutesImage source, Getty ImagesImage caption, Glastonbury Festival returns to Worthy Farm in June, following a fallow year"
-          }
-        ]
-      },
-      {
-        "en": "Tickets for Glastonbury Festival 2027 sold out in 42 minutes, organisers have said.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Tickets for Glastonbury Festival 2027 sold out in 42 minutes, organisers have said.",
-            "ko": "실시간 보도 번역: Tickets for Glastonbury Festival 2027 sold out in 42 minutes, organisers have said."
-          }
-        ]
-      },
-      {
-        "en": "Thousands of people joined the online queue at 09:00 BST in the hope of securing tickets to the festival at Worthy Farm in Somerset, which returns from 23 to 27 June after a fallow year.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Thousands of people joined the online queue at 09:00 BST in the hope of securing tickets to the festival at Worthy Farm in Somerset, which returns from 23 to 27 June after a fallow year.",
-            "ko": "실시간 보도 번역: Thousands of people joined the online queue at 09:00 BST in the hope of securing tickets to the festival at Worthy Farm in Somerset, which returns from 23 to 27 June after a fallow year."
-          }
-        ]
-      },
-      {
-        "en": "Organisers confirmed last month that tickets for the weekend were at their highest price ever - £408, including a £5 booking fee per ticket - an increase of £29.50 from the last event in 2025.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Organisers confirmed last month that tickets for the weekend were at their highest price ever - £408, including a £5 booking fee per ticket - an increase of £29.",
-            "ko": "실시간 보도 번역: Organisers confirmed last month that tickets for the weekend were at their highest price ever - £408, including a £5 booking fee per ticket - an increase of £29."
-          },
-          {
-            "en": "50 from the last event in 2025.",
-            "ko": "실시간 보도 번역: 50 from the last event in 2025."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Glastonbury 2027 tickets sell out in 42 minutes",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Glastonbury 2027 tickets sell out in 42 minutes",
           "Historical retrospective",
           "Unrelated general weather"
         ],
