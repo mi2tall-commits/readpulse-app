@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_585074891008297771",
+    "title": "King warns malicious online actors are evolving tactics",
+    "subtitle": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Cen...",
+    "speaker": "BBC Technology",
+    "date": "2026-10-10",
+    "addedAt": "2026-10-11T17:13:42Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 130,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechKing warns malicious online actors are evolving tacticsImage source, Lesley Martin/PA WireImage caption, The King has previously warned of the &quot;existential dangers&quot; posed by AI",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechKing warns malicious online actors are evolving tacticsImage source, Lesley Martin/PA WireImage caption, The King has previously warned of the &quot;existential dangers&quot; posed by AI",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechKing warns malicious online actors are evolving tacticsImage source, Lesley Martin/PA WireImage caption, The King has previously warned of the &quot;existential dangers&quot; posed by AI"
+          }
+        ]
+      },
+      {
+        "en": "King Charles III has warned of the challenges disinformation and other &quot;hostile online activity&quot; pose to trust and security in the digital age.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "King Charles III has warned of the challenges disinformation and other &quot;hostile online activity&quot; pose to trust and security in the digital age.",
+            "ko": "실시간 보도 번역: King Charles III has warned of the challenges disinformation and other &quot;hostile online activity&quot; pose to trust and security in the digital age."
+          }
+        ]
+      },
+      {
+        "en": "The comments, made in a letter to the National Cyber Security Centre (NCSC) to mark its 10th anniversary, spoke of &quot;malicious actors&quot; continuing to &quot;evolve their tactics by using automated technologies&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The comments, made in a letter to the National Cyber Security Centre (NCSC) to mark its 10th anniversary, spoke of &quot;malicious actors&quot; continuing to &quot;evolve their tactics by using automated technologies&quot;.",
+            "ko": "실시간 보도 번역: The comments, made in a letter to the National Cyber Security Centre (NCSC) to mark its 10th anniversary, spoke of &quot;malicious actors&quot; continuing to &quot;evolve their tactics by using automated technologies&quot;."
+          }
+        ]
+      },
+      {
+        "en": "&quot;From threats to our international order, to the need to balance the risks and opportunities of powerful new technologies, strong cyber security is fundamental to making the online environment safer and more resilient,&quot; he wrote.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;From threats to our international order, to the need to balance the risks and opportunities of powerful new technologies, strong cyber security is fundamental to making the online environment safer and more resilient,&quot; he wrote.",
+            "ko": "실시간 보도 번역: &quot;From threats to our international order, to the need to balance the risks and opportunities of powerful new technologies, strong cyber security is fundamental to making the online environment safer and more resilient,&quot; he wrote."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: King warns malicious online actors are evolving tactics",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "King warns malicious online actors are evolving tactics",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_5398054819915496519",
     "title": "King warns malicious online actors are evolving tactics",
     "subtitle": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Cen...",
@@ -714,74 +791,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1828721946077054838",
-    "title": "Italian PM files to trademark her voice against AI threats",
-    "subtitle": "Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-06",
-    "addedAt": "2026-10-06T17:48:07Z",
-    "category": "tech",
+    "id": "auto_science_3036405108392931937",
+    "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+    "subtitle": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclon...",
+    "speaker": "BBC Science",
+    "date": "2026-10-10",
+    "addedAt": "2026-10-11T17:13:43Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 140,
+    "wordCount": 115,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastItalian PM files to trademark her voice against AI threatsImage source, Getty ImagesByMalu CursinoPublished6 hours agoItalian Prime Minister Giorgia Meloni has applied to trademark her voice in a move to protect herself against artificial intelligence (AI) deepfakes.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaFour dead and thousands without power after Hurricane Isaias lashes USTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastItalian PM files to trademark her voice against AI threatsImage source, Getty ImagesByMalu CursinoPublished6 hours agoItalian Prime Minister Giorgia Meloni has applied to trademark her voice in a move to protect herself against artificial intelligence (AI) deepfakes.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastItalian PM files to trademark her voice against AI threatsImage source, Getty ImagesByMalu CursinoPublished6 hours agoItalian Prime Minister Giorgia Meloni has applied to trademark her voice in a move to protect herself against artificial intelligence (AI) deepfakes."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaFour dead and thousands without power after Hurricane Isaias lashes USTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaFour dead and thousands without power after Hurricane Isaias lashes USTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "The application to the European Union Intellectual Property Office (EUIPO) was made on Monday and can be found on their website, external. The prime minister&#x27;s office also confirmed the application.",
+        "en": "Four people have died and hundreds of thousands are without power after Hurricane Isaias battered parts of the southern US with powerful winds and heavy rain.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The application to the European Union Intellectual Property Office (EUIPO) was made on Monday and can be found on their website, external.",
-            "ko": "실시간 보도 번역: The application to the European Union Intellectual Property Office (EUIPO) was made on Monday and can be found on their website, external."
-          },
-          {
-            "en": "The prime minister&#x27;s office also confirmed the application.",
-            "ko": "실시간 보도 번역: The prime minister&#x27;s office also confirmed the application."
+            "en": "Four people have died and hundreds of thousands are without power after Hurricane Isaias battered parts of the southern US with powerful winds and heavy rain.",
+            "ko": "실시간 보도 번역: Four people have died and hundreds of thousands are without power after Hurricane Isaias battered parts of the southern US with powerful winds and heavy rain."
           }
         ]
       },
       {
-        "en": "As part of it, Meloni recorded a four-second audio where she says &quot;Io sono Giorgia&quot; - I am Giorgia Meloni&quot; in Italian - twice.",
+        "en": "Officials reported two deaths each in the states of Alabama and Florida, which included people who were killed when trees fell on their houses.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "As part of it, Meloni recorded a four-second audio where she says &quot;Io sono Giorgia&quot; - I am Giorgia Meloni&quot; in Italian - twice.",
-            "ko": "실시간 보도 번역: As part of it, Meloni recorded a four-second audio where she says &quot;Io sono Giorgia&quot; - I am Giorgia Meloni&quot; in Italian - twice."
+            "en": "Officials reported two deaths each in the states of Alabama and Florida, which included people who were killed when trees fell on their houses.",
+            "ko": "실시간 보도 번역: Officials reported two deaths each in the states of Alabama and Florida, which included people who were killed when trees fell on their houses."
           }
         ]
       },
       {
-        "en": "Meloni is not alone in filing to protect her identity from unauthorised use by AI platforms. In January, US actor Matthew McConaughey led the way by trademarking his image and voice.",
+        "en": "An estimated 500,000 people in total were without power in several states as of Saturday evening, according to tracker PowerOutage.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Meloni is not alone in filing to protect her identity from unauthorised use by AI platforms.",
-            "ko": "실시간 보도 번역: Meloni is not alone in filing to protect her identity from unauthorised use by AI platforms."
-          },
-          {
-            "en": "In January, US actor Matthew McConaughey led the way by trademarking his image and voice.",
-            "ko": "실시간 보도 번역: In January, US actor Matthew McConaughey led the way by trademarking his image and voice."
+            "en": "An estimated 500,000 people in total were without power in several states as of Saturday evening, according to tracker PowerOutage.",
+            "ko": "실시간 보도 번역: An estimated 500,000 people in total were without power in several states as of Saturday evening, according to tracker PowerOutage."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Italian PM files to trademark her voice against AI threats",
+      "글로벌 최신 소식: Four dead and thousands without power after Hurricane Isaias lashes US",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -789,7 +858,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Italian PM files to trademark her voice against AI threats",
+          "Four dead and thousands without power after Hurricane Isaias lashes US",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1564,70 +1633,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_2520404947272372896",
-    "title": "'Ghost particles' from space telescope wins physics Nobel",
-    "subtitle": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space....",
-    "speaker": "BBC Science",
-    "date": "2026-10-06",
-    "addedAt": "2026-10-06T17:48:08Z",
-    "category": "science",
+    "id": "auto_economy_2766831385983397538",
+    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "subtitle": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"....",
+    "speaker": "BBC Business",
+    "date": "2026-10-10",
+    "addedAt": "2026-10-11T17:13:43Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 128,
+    "wordCount": 135,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScience&#x27;Ghost particles&#x27; from space telescope wins physics NobelImage source, Yuya Makino/IceCube/NSFImage caption, Prof Francis Halzen won for &quot;decisive contribution&quot; to developing the IceCube Neutrino Observatory",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Andrew Harnik/Getty ImagesImage caption, Donald Trump and Vladimir Putin met in Alaska last year",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScience&#x27;Ghost particles&#x27; from space telescope wins physics NobelImage source, Yuya Makino/IceCube/NSFImage caption, Prof Francis Halzen won for &quot;decisive contribution&quot; to developing the IceCube Neutrino Observatory",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScience&#x27;Ghost particles&#x27; from space telescope wins physics NobelImage source, Yuya Makino/IceCube/NSFImage caption, Prof Francis Halzen won for &quot;decisive contribution&quot; to developing the IceCube Neutrino Observatory"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Andrew Harnik/Getty ImagesImage caption, Donald Trump and Vladimir Putin met in Alaska last year",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Andrew Harnik/Getty ImagesImage caption, Donald Trump and Vladimir Putin met in Alaska last year"
           }
         ]
       },
       {
-        "en": "Belgian-born physicist Prof Francis Halzen has won the Nobel Prize in Physics for his pioneering work on an observatory that detects particles from space, shedding light on the distant universe.",
+        "en": "Ukraine&#x27;s President Volodymyr Zelensky has condemned Donald Trump&#x27;s announcement of a deal to import Russian diesel into the US.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Belgian-born physicist Prof Francis Halzen has won the Nobel Prize in Physics for his pioneering work on an observatory that detects particles from space, shedding light on the distant universe.",
-            "ko": "실시간 보도 번역: Belgian-born physicist Prof Francis Halzen has won the Nobel Prize in Physics for his pioneering work on an observatory that detects particles from space, shedding light on the distant universe."
+            "en": "Ukraine&#x27;s President Volodymyr Zelensky has condemned Donald Trump&#x27;s announcement of a deal to import Russian diesel into the US.",
+            "ko": "실시간 보도 번역: Ukraine&#x27;s President Volodymyr Zelensky has condemned Donald Trump&#x27;s announcement of a deal to import Russian diesel into the US."
           }
         ]
       },
       {
-        "en": "Halzen led the development of IceCube at the South Pole, which uses a cubic kilometre of Antarctic ice fitted with light sensors to detect particles called neutrinos. These carry information about violent, high-energy processes in the cosmos.",
+        "en": "Zelensky called it a gift to Russian President Vladimir Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;, a position quickly backed by Ukraine&#x27;s European allies.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Halzen led the development of IceCube at the South Pole, which uses a cubic kilometre of Antarctic ice fitted with light sensors to detect particles called neutrinos.",
-            "ko": "실시간 보도 번역: Halzen led the development of IceCube at the South Pole, which uses a cubic kilometre of Antarctic ice fitted with light sensors to detect particles called neutrinos."
-          },
-          {
-            "en": "These carry information about violent, high-energy processes in the cosmos.",
-            "ko": "실시간 보도 번역: These carry information about violent, high-energy processes in the cosmos."
+            "en": "Zelensky called it a gift to Russian President Vladimir Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;, a position quickly backed by Ukraine&#x27;s European allies.",
+            "ko": "실시간 보도 번역: Zelensky called it a gift to Russian President Vladimir Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;, a position quickly backed by Ukraine&#x27;s European allies."
           }
         ]
       },
       {
-        "en": "The Royal Swedish Academy of Sciences said &quot;his vision and scientific leadership have been fundamental for the IceCube Neutrino Observatory&quot;.",
+        "en": "Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and a further one million after that.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Royal Swedish Academy of Sciences said &quot;his vision and scientific leadership have been fundamental for the IceCube Neutrino Observatory&quot;.",
-            "ko": "실시간 보도 번역: The Royal Swedish Academy of Sciences said &quot;his vision and scientific leadership have been fundamental for the IceCube Neutrino Observatory&quot;."
+            "en": "Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and a further one million after that.",
+            "ko": "실시간 보도 번역: Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and a further one million after that."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'Ghost particles' from space telescope wins physics Nobel",
+      "글로벌 최신 소식: Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1635,7 +1700,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'Ghost particles' from space telescope wins physics Nobel",
+          "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2358,66 +2423,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_5521519406031991914",
-    "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-    "subtitle": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition....",
-    "speaker": "BBC Business",
-    "date": "2026-10-06",
-    "addedAt": "2026-10-06T17:48:08Z",
-    "category": "economy",
+    "id": "auto_sports_9039897422132474260",
+    "title": "Djokovic suffers surprise Hurkacz loss in Shanghai",
+    "subtitle": "Novak Djokovic suffers a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after his triumph a...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-09",
+    "addedAt": "2026-10-11T17:13:44Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 146,
+    "wordCount": 135,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaParamount takes over Warner Bros in $110bn Hollywood mergerImage source, Getty ImagesByChristal HayesReporting fromLos AngelesPublished6 October 2026, 13:55 BSTUpdated 1 hour agoParamount Skydance has officially taken over Warner Bros Discovery in a $110bn merger that is set to reshape Hollywood and the media landscape.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaParamount takes over Warner Bros in $110bn Hollywood mergerImage source, Getty ImagesByChristal HayesReporting fromLos AngelesPublished6 October 2026, 13:55 BSTUpdated 1 hour agoParamount Skydance has officially taken over Warner Bros Discovery in a $110bn merger that is set to reshape Hollywood and the media landscape.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaParamount takes over Warner Bros in $110bn Hollywood mergerImage source, Getty ImagesByChristal HayesReporting fromLos AngelesPublished6 October 2026, 13:55 BSTUpdated 1 hour agoParamount Skydance has officially taken over Warner Bros Discovery in a $110bn merger that is set to reshape Hollywood and the media landscape."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed"
           }
         ]
       },
       {
-        "en": "The takeover - merging two of the biggest studios in Los Angeles - comes after months of legal disputes and widespread criticism over feared cuts and consolidation could harm competition and consumers.",
+        "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The takeover - merging two of the biggest studios in Los Angeles - comes after months of legal disputes and widespread criticism over feared cuts and consolidation could harm competition and consumers.",
-            "ko": "실시간 보도 번역: The takeover - merging two of the biggest studios in Los Angeles - comes after months of legal disputes and widespread criticism over feared cuts and consolidation could harm competition and consumers."
+            "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
+            "ko": "실시간 보도 번역: Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing."
           }
         ]
       },
       {
-        "en": "It will alter streaming for millions, usher in a new chapter in the film and TV industry, and leave one of the biggest US news outlets, CNN, in uncertain territory.",
+        "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It will alter streaming for millions, usher in a new chapter in the film and TV industry, and leave one of the biggest US news outlets, CNN, in uncertain territory.",
-            "ko": "실시간 보도 번역: It will alter streaming for millions, usher in a new chapter in the film and TV industry, and leave one of the biggest US news outlets, CNN, in uncertain territory."
+            "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
+            "ko": "실시간 보도 번역: The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final."
           }
         ]
       },
       {
-        "en": "The merger will also bring together a host of entities including HBO, CBS, Nickelodeon, Showtime, Comedy Central, DC Studios and Food Network.",
+        "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The merger will also bring together a host of entities including HBO, CBS, Nickelodeon, Showtime, Comedy Central, DC Studios and Food Network.",
-            "ko": "실시간 보도 번역: The merger will also bring together a host of entities including HBO, CBS, Nickelodeon, Showtime, Comedy Central, DC Studios and Food Network."
+            "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
+            "ko": "실시간 보도 번역: But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Paramount takes over Warner Bros in $110bn Hollywood merger",
+      "글로벌 최신 소식: Djokovic suffers surprise Hurkacz loss in Shanghai",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2425,14 +2490,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Paramount takes over Warner Bros in $110bn Hollywood merger",
+          "Djokovic suffers surprise Hurkacz loss in Shanghai",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_633399403005831802",
@@ -3150,70 +3217,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_789195818912447426",
-    "title": "Calm in real life but demons on court - Medvedev finally runs out of chances",
-    "subtitle": "Daniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry - but his Chi...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-06",
-    "addedAt": "2026-10-06T17:48:08Z",
-    "category": "sports",
+    "id": "auto_culture_1640019930436233958",
+    "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+    "subtitle": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-10",
+    "addedAt": "2026-10-11T17:13:46Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 152,
+    "wordCount": 129,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCalm in real life but demons on court - Medvedev runs out of chancesTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsInside the room: What it was like to be with Blackpink&#x27;s Lisa as race scandal eruptedImage source, Getty ImagesImage caption, Lisa, who was born Pranpriya Manobal in Thailand, became one of the world&#x27;s most-recognisable K-pop idols as a member of Blackpink",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCalm in real life but demons on court - Medvedev runs out of chancesTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCalm in real life but demons on court - Medvedev runs out of chancesTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsInside the room: What it was like to be with Blackpink&#x27;s Lisa as race scandal eruptedImage source, Getty ImagesImage caption, Lisa, who was born Pranpriya Manobal in Thailand, became one of the world&#x27;s most-recognisable K-pop idols as a member of Blackpink",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsInside the room: What it was like to be with Blackpink&#x27;s Lisa as race scandal eruptedImage source, Getty ImagesImage caption, Lisa, who was born Pranpriya Manobal in Thailand, became one of the world&#x27;s most-recognisable K-pop idols as a member of Blackpink"
           }
         ]
       },
       {
-        "en": "Tennis correspondentPublished6 hours agoDaniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry.",
+        "en": "Music correspondentPublished11 October 2026, 00:31 BSTWhat&#x27;s it like to be the main character of an online scandal?",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Tennis correspondentPublished6 hours agoDaniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry.",
-            "ko": "실시간 보도 번역: Tennis correspondentPublished6 hours agoDaniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry."
+            "en": "Music correspondentPublished11 October 2026, 00:31 BSTWhat&#x27;s it like to be the main character of an online scandal?",
+            "ko": "실시간 보도 번역: Music correspondentPublished11 October 2026, 00:31 BSTWhat&#x27;s it like to be the main character of an online scandal?"
           }
         ]
       },
       {
-        "en": "On court, though, he is a far more combustible character who finally ran out of chances when he was disqualified from Monday&#x27;s China Open semi-final against Novak Djokovic.",
+        "en": "That&#x27;s one of the questions raised in a new documentary about Lisa Manobal – one quarter of K-pop phenomenon Blackpink and a breakout star of TV show The White Lotus.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "On court, though, he is a far more combustible character who finally ran out of chances when he was disqualified from Monday&#x27;s China Open semi-final against Novak Djokovic.",
-            "ko": "실시간 보도 번역: On court, though, he is a far more combustible character who finally ran out of chances when he was disqualified from Monday&#x27;s China Open semi-final against Novak Djokovic."
+            "en": "That&#x27;s one of the questions raised in a new documentary about Lisa Manobal – one quarter of K-pop phenomenon Blackpink and a breakout star of TV show The White Lotus.",
+            "ko": "실시간 보도 번역: That&#x27;s one of the questions raised in a new documentary about Lisa Manobal – one quarter of K-pop phenomenon Blackpink and a breakout star of TV show The White Lotus."
           }
         ]
       },
       {
-        "en": "Djokovic was serving for a place in the final when the ball ricocheted off the back of the court. Medvedev swiped it into the stands, where it hit a spectator in the face.",
+        "en": "The film captures an unfolding controversy, as leaked videos show Blackpink using racial slurs when they were teenage trainees in the K-pop system.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Djokovic was serving for a place in the final when the ball ricocheted off the back of the court.",
-            "ko": "실시간 보도 번역: Djokovic was serving for a place in the final when the ball ricocheted off the back of the court."
-          },
-          {
-            "en": "Medvedev swiped it into the stands, where it hit a spectator in the face.",
-            "ko": "실시간 보도 번역: Medvedev swiped it into the stands, where it hit a spectator in the face."
+            "en": "The film captures an unfolding controversy, as leaked videos show Blackpink using racial slurs when they were teenage trainees in the K-pop system.",
+            "ko": "실시간 보도 번역: The film captures an unfolding controversy, as leaked videos show Blackpink using racial slurs when they were teenage trainees in the K-pop system."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Calm in real life but demons on court - Medvedev finally runs out of chances",
+      "글로벌 최신 소식: Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3221,16 +3284,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Calm in real life but demons on court - Medvedev finally runs out of chances",
+          "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_4990652593461291662",
@@ -3937,87 +3998,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Queen pays tribute to 'irrepressible' Jeffrey Archer",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_3767591337527589392",
-    "title": "Author and former politician Jeffrey Archer dies aged 86",
-    "subtitle": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released...",
-    "speaker": "BBC Arts",
-    "date": "2026-10-06",
-    "addedAt": "2026-10-06T17:48:10Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 111,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN. IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsAuthor and former politician Jeffrey Archer dies aged 86To play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN."
-          },
-          {
-            "en": "IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsAuthor and former politician Jeffrey Archer dies aged 86To play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsAuthor and former politician Jeffrey Archer dies aged 86To play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Watch: Jeffrey Archer spoke about his time in prison, today&#x27;s politics and retirement in a BBC Breakfast interview last week",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Watch: Jeffrey Archer spoke about his time in prison, today&#x27;s politics and retirement in a BBC Breakfast interview last week",
-            "ko": "실시간 보도 번역: Watch: Jeffrey Archer spoke about his time in prison, today&#x27;s politics and retirement in a BBC Breakfast interview last week"
-          }
-        ]
-      },
-      {
-        "en": "Bestselling author and former politician Jeffrey Archer has died at the age of 86.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Bestselling author and former politician Jeffrey Archer has died at the age of 86.",
-            "ko": "실시간 보도 번역: Bestselling author and former politician Jeffrey Archer has died at the age of 86."
-          }
-        ]
-      },
-      {
-        "en": "Archer sold more than 300 million books in his five-decade writing career, including the Clifton Chronicles and Kane and Abel, and often set the novels in his home town of Wellington, Somerset.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Archer sold more than 300 million books in his five-decade writing career, including the Clifton Chronicles and Kane and Abel, and often set the novels in his home town of Wellington, Somerset.",
-            "ko": "실시간 보도 번역: Archer sold more than 300 million books in his five-decade writing career, including the Clifton Chronicles and Kane and Abel, and often set the novels in his home town of Wellington, Somerset."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Author and former politician Jeffrey Archer dies aged 86",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Author and former politician Jeffrey Archer dies aged 86",
           "Historical retrospective",
           "Unrelated general weather"
         ],
