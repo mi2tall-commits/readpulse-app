@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_5398054819915496519",
+    "title": "King warns malicious online actors are evolving tactics",
+    "subtitle": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Cen...",
+    "speaker": "BBC Technology",
+    "date": "2026-10-10",
+    "addedAt": "2026-10-11T03:33:26Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 130,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechKing warns malicious online actors are evolving tacticsImage source, Lesley Martin/PA WireImage caption, The King has previously warned of the &quot;existential dangers&quot; posed by AI",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechKing warns malicious online actors are evolving tacticsImage source, Lesley Martin/PA WireImage caption, The King has previously warned of the &quot;existential dangers&quot; posed by AI",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechKing warns malicious online actors are evolving tacticsImage source, Lesley Martin/PA WireImage caption, The King has previously warned of the &quot;existential dangers&quot; posed by AI"
+          }
+        ]
+      },
+      {
+        "en": "King Charles III has warned of the challenges disinformation and other &quot;hostile online activity&quot; pose to trust and security in the digital age.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "King Charles III has warned of the challenges disinformation and other &quot;hostile online activity&quot; pose to trust and security in the digital age.",
+            "ko": "실시간 보도 번역: King Charles III has warned of the challenges disinformation and other &quot;hostile online activity&quot; pose to trust and security in the digital age."
+          }
+        ]
+      },
+      {
+        "en": "The comments, made in a letter to the National Cyber Security Centre (NCSC) to mark its 10th anniversary, spoke of &quot;malicious actors&quot; continuing to &quot;evolve their tactics by using automated technologies&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The comments, made in a letter to the National Cyber Security Centre (NCSC) to mark its 10th anniversary, spoke of &quot;malicious actors&quot; continuing to &quot;evolve their tactics by using automated technologies&quot;.",
+            "ko": "실시간 보도 번역: The comments, made in a letter to the National Cyber Security Centre (NCSC) to mark its 10th anniversary, spoke of &quot;malicious actors&quot; continuing to &quot;evolve their tactics by using automated technologies&quot;."
+          }
+        ]
+      },
+      {
+        "en": "&quot;From threats to our international order, to the need to balance the risks and opportunities of powerful new technologies, strong cyber security is fundamental to making the online environment safer and more resilient,&quot; he wrote.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;From threats to our international order, to the need to balance the risks and opportunities of powerful new technologies, strong cyber security is fundamental to making the online environment safer and more resilient,&quot; he wrote.",
+            "ko": "실시간 보도 번역: &quot;From threats to our international order, to the need to balance the risks and opportunities of powerful new technologies, strong cyber security is fundamental to making the online environment safer and more resilient,&quot; he wrote."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: King warns malicious online actors are evolving tactics",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "King warns malicious online actors are evolving tactics",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_4142273937905996346",
     "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
     "subtitle": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect ...",
@@ -722,70 +799,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_2061654446742094121",
-    "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-    "subtitle": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-05",
-    "addedAt": "2026-10-06T04:29:02Z",
-    "category": "tech",
+    "id": "auto_science_4082422584414794959",
+    "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+    "subtitle": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclon...",
+    "speaker": "BBC Science",
+    "date": "2026-10-10",
+    "addedAt": "2026-10-11T03:33:27Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 126,
+    "wordCount": 115,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPentagon stops using Anthropic AI tools after blacklisting company, BBC toldImage source, ReutersImage caption, Defence secretary Pete Hegseth has publicly criticised Anthropic&#x27;s boss Dario Amodei",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaFour dead and thousands without power after Hurricane Isaias lashes USTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPentagon stops using Anthropic AI tools after blacklisting company, BBC toldImage source, ReutersImage caption, Defence secretary Pete Hegseth has publicly criticised Anthropic&#x27;s boss Dario Amodei",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPentagon stops using Anthropic AI tools after blacklisting company, BBC toldImage source, ReutersImage caption, Defence secretary Pete Hegseth has publicly criticised Anthropic&#x27;s boss Dario Amodei"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaFour dead and thousands without power after Hurricane Isaias lashes USTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaFour dead and thousands without power after Hurricane Isaias lashes USTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "The US Department of Defence is no longer using Anthropic&#x27;s AI tools, an official has told the BBC, months after it designated the company a supply chain risk on national security grounds.",
+        "en": "Four people have died and hundreds of thousands are without power after Hurricane Isaias battered parts of the southern US with powerful winds and heavy rain.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The US Department of Defence is no longer using Anthropic&#x27;s AI tools, an official has told the BBC, months after it designated the company a supply chain risk on national security grounds.",
-            "ko": "실시간 보도 번역: The US Department of Defence is no longer using Anthropic&#x27;s AI tools, an official has told the BBC, months after it designated the company a supply chain risk on national security grounds."
+            "en": "Four people have died and hundreds of thousands are without power after Hurricane Isaias battered parts of the southern US with powerful winds and heavy rain.",
+            "ko": "실시간 보도 번역: Four people have died and hundreds of thousands are without power after Hurricane Isaias battered parts of the southern US with powerful winds and heavy rain."
           }
         ]
       },
       {
-        "en": "The Pentagon &quot;has ceased the use of Anthropic products&quot;, the department official said in a statement on Monday.",
+        "en": "Officials reported two deaths each in the states of Alabama and Florida, which included people who were killed when trees fell on their houses.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Pentagon &quot;has ceased the use of Anthropic products&quot;, the department official said in a statement on Monday.",
-            "ko": "실시간 보도 번역: The Pentagon &quot;has ceased the use of Anthropic products&quot;, the department official said in a statement on Monday."
+            "en": "Officials reported two deaths each in the states of Alabama and Florida, which included people who were killed when trees fell on their houses.",
+            "ko": "실시간 보도 번역: Officials reported two deaths each in the states of Alabama and Florida, which included people who were killed when trees fell on their houses."
           }
         ]
       },
       {
-        "en": "Secretary of Defence Pete Hegseth labelled Anthropic a supply chain risk in February, and announced that the Pentagon would stop using it by late August. It is not clear why there has been a delay.",
+        "en": "An estimated 500,000 people in total were without power in several states as of Saturday evening, according to tracker PowerOutage.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Secretary of Defence Pete Hegseth labelled Anthropic a supply chain risk in February, and announced that the Pentagon would stop using it by late August.",
-            "ko": "실시간 보도 번역: Secretary of Defence Pete Hegseth labelled Anthropic a supply chain risk in February, and announced that the Pentagon would stop using it by late August."
-          },
-          {
-            "en": "It is not clear why there has been a delay.",
-            "ko": "실시간 보도 번역: It is not clear why there has been a delay."
+            "en": "An estimated 500,000 people in total were without power in several states as of Saturday evening, according to tracker PowerOutage.",
+            "ko": "실시간 보도 번역: An estimated 500,000 people in total were without power in several states as of Saturday evening, according to tracker PowerOutage."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "글로벌 최신 소식: Four dead and thousands without power after Hurricane Isaias lashes US",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -793,7 +866,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+          "Four dead and thousands without power after Hurricane Isaias lashes US",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1572,66 +1645,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_7759774018428042662",
-    "title": "Why are data centres such a big deal in Scotland?",
-    "subtitle": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners....",
-    "speaker": "BBC Science",
-    "date": "2026-10-05",
-    "addedAt": "2026-10-06T04:29:03Z",
-    "category": "science",
+    "id": "auto_economy_878544050229019247",
+    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "subtitle": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"....",
+    "speaker": "BBC Business",
+    "date": "2026-10-10",
+    "addedAt": "2026-10-11T03:33:27Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 128,
+    "wordCount": 133,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScotlandScotland PoliticsScotland BusinessEdinburgh, Fife &amp; EastGlasgow &amp; WestHighlands &amp; IslandsNE, Orkney &amp; ShetlandSouthTayside &amp; CentralWhy are data centres such a big deal in Scotland?Image source, GoogleImage caption, A Google Data Centre in Cheshunt in Hertfordshire",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Andrew Harnik/Getty ImagesImage caption, Donald Trump and Vladimir Putin met in Alaska last year",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScotlandScotland PoliticsScotland BusinessEdinburgh, Fife &amp; EastGlasgow &amp; WestHighlands &amp; IslandsNE, Orkney &amp; ShetlandSouthTayside &amp; CentralWhy are data centres such a big deal in Scotland?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScotlandScotland PoliticsScotland BusinessEdinburgh, Fife &amp; EastGlasgow &amp; WestHighlands &amp; IslandsNE, Orkney &amp; ShetlandSouthTayside &amp; CentralWhy are data centres such a big deal in Scotland?"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Andrew Harnik/Getty ImagesImage caption, Donald Trump and Vladimir Putin met in Alaska last year",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Andrew Harnik/Getty ImagesImage caption, Donald Trump and Vladimir Putin met in Alaska last year"
           }
         ]
       },
       {
-        "en": "Every time you ask ChatGPT a question, read a Google summary or make an online bank payment, a data centre is working behind the scenes.",
+        "en": "Ukraine&#x27;s President Volodymyr Zelensky has condemned Donald Trump&#x27;s announcement of a deal to import Russian diesel into the US.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Every time you ask ChatGPT a question, read a Google summary or make an online bank payment, a data centre is working behind the scenes.",
-            "ko": "실시간 보도 번역: Every time you ask ChatGPT a question, read a Google summary or make an online bank payment, a data centre is working behind the scenes."
+            "en": "Ukraine&#x27;s President Volodymyr Zelensky has condemned Donald Trump&#x27;s announcement of a deal to import Russian diesel into the US.",
+            "ko": "실시간 보도 번역: Ukraine&#x27;s President Volodymyr Zelensky has condemned Donald Trump&#x27;s announcement of a deal to import Russian diesel into the US."
           }
         ]
       },
       {
-        "en": "Now Scotland is part of a global race to build many more of them - on a massive scale.",
+        "en": "Zelensky called it a gift to Russian President Vladimir Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;, a position quickly backed by Ukraine&#x27;s European allies.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Now Scotland is part of a global race to build many more of them - on a massive scale.",
-            "ko": "실시간 보도 번역: Now Scotland is part of a global race to build many more of them - on a massive scale."
+            "en": "Zelensky called it a gift to Russian President Vladimir Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;, a position quickly backed by Ukraine&#x27;s European allies.",
+            "ko": "실시간 보도 번역: Zelensky called it a gift to Russian President Vladimir Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;, a position quickly backed by Ukraine&#x27;s European allies."
           }
         ]
       },
       {
-        "en": "The explosion in artificial intelligence (AI) over the past few years has seen tech firms scrambling to build new  &quot;hyperscale&quot; data centres, including some which would rank among the biggest in the world.",
+        "en": "Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The explosion in artificial intelligence (AI) over the past few years has seen tech firms scrambling to build new  &quot;hyperscale&quot; data centres, including some which would rank among the biggest in the world.",
-            "ko": "실시간 보도 번역: The explosion in artificial intelligence (AI) over the past few years has seen tech firms scrambling to build new  &quot;hyperscale&quot; data centres, including some which would rank among the biggest in the world."
+            "en": "Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that.",
+            "ko": "실시간 보도 번역: Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Why are data centres such a big deal in Scotland?",
+      "글로벌 최신 소식: Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1639,7 +1712,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Why are data centres such a big deal in Scotland?",
+          "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2362,70 +2435,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_4029897438127065696",
-    "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
-    "subtitle": "A growing number of parents are opening retirement funds for their children....",
-    "speaker": "BBC Business",
-    "date": "2026-10-05",
-    "addedAt": "2026-10-06T04:29:03Z",
-    "category": "economy",
+    "id": "auto_sports_633399403005831802",
+    "title": "Djokovic suffers surprise Hurkacz loss in Shanghai",
+    "subtitle": "Novak Djokovic suffers a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after his triumph a...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-09",
+    "addedAt": "2026-10-11T03:33:28Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 140,
+    "wordCount": 135,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWe&#x27;re saving £100 a month into pensions for our toddler and baby - here&#x27;s whyImage source, Richard BrainImage caption, Richard Brain says that opening pensions for his young children means a few financial sacrifices now",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWe&#x27;re saving £100 a month into pensions for our toddler and baby - here&#x27;s whyImage source, Richard BrainImage caption, Richard Brain says that opening pensions for his young children means a few financial sacrifices now",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWe&#x27;re saving £100 a month into pensions for our toddler and baby - here&#x27;s whyImage source, Richard BrainImage caption, Richard Brain says that opening pensions for his young children means a few financial sacrifices now"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed"
           }
         ]
       },
       {
-        "en": "Richard and Caitlin Brain&#x27;s two children are aged just 20 months and five months respectively, yet mum and dad have already set up pensions for them.",
+        "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Richard and Caitlin Brain&#x27;s two children are aged just 20 months and five months respectively, yet mum and dad have already set up pensions for them.",
-            "ko": "실시간 보도 번역: Richard and Caitlin Brain&#x27;s two children are aged just 20 months and five months respectively, yet mum and dad have already set up pensions for them."
+            "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
+            "ko": "실시간 보도 번역: Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing."
           }
         ]
       },
       {
-        "en": "The Brains, who live in Swansea, south Wales, are paying £50 a month into each of their kids&#x27; accounts. It&#x27;s money that the children won&#x27;t be able to access until they are 57, under current UK private pension fund rules., external",
+        "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Brains, who live in Swansea, south Wales, are paying £50 a month into each of their kids&#x27; accounts.",
-            "ko": "실시간 보도 번역: The Brains, who live in Swansea, south Wales, are paying £50 a month into each of their kids&#x27; accounts."
-          },
-          {
-            "en": "It&#x27;s money that the children won&#x27;t be able to access until they are 57, under current UK private pension fund rules.",
-            "ko": "실시간 보도 번역: It&#x27;s money that the children won&#x27;t be able to access until they are 57, under current UK private pension fund rules."
+            "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
+            "ko": "실시간 보도 번역: The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final."
           }
         ]
       },
       {
-        "en": "So the eldest will have to wait until 2082, and the youngest until 2083.",
+        "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "So the eldest will have to wait until 2082, and the youngest until 2083.",
-            "ko": "실시간 보도 번역: So the eldest will have to wait until 2082, and the youngest until 2083."
+            "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
+            "ko": "실시간 보도 번역: But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: We're saving £100 a month into pensions for our toddler and baby - here's why",
+      "글로벌 최신 소식: Djokovic suffers surprise Hurkacz loss in Shanghai",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2433,14 +2502,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "We're saving £100 a month into pensions for our toddler and baby - here's why",
+          "Djokovic suffers surprise Hurkacz loss in Shanghai",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_3051949597332496228",
@@ -3162,66 +3233,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_8101891110362450098",
-    "title": "Medvedev disqualified from Djokovic match for hitting spectator with ball",
-    "subtitle": "Daniil Medvedev is disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final agains...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-05",
-    "addedAt": "2026-10-06T04:29:03Z",
-    "category": "sports",
+    "id": "auto_culture_4990652593461291662",
+    "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+    "subtitle": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-10",
+    "addedAt": "2026-10-11T03:33:29Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 136,
+    "wordCount": 127,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarMedvedev disqualified for hitting spectator with ballTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsInside the room: What it was like to be with Blackpink&#x27;s Lisa as race scandal eruptedImage source, Getty ImagesImage caption, Lisa, who was born Pranpriya Manobal in Thailand, became one of the world&#x27;s most-recognisable K-pop idols as a member of Blackpink",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarMedvedev disqualified for hitting spectator with ballTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarMedvedev disqualified for hitting spectator with ballTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsInside the room: What it was like to be with Blackpink&#x27;s Lisa as race scandal eruptedImage source, Getty ImagesImage caption, Lisa, who was born Pranpriya Manobal in Thailand, became one of the world&#x27;s most-recognisable K-pop idols as a member of Blackpink",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsInside the room: What it was like to be with Blackpink&#x27;s Lisa as race scandal eruptedImage source, Getty ImagesImage caption, Lisa, who was born Pranpriya Manobal in Thailand, became one of the world&#x27;s most-recognisable K-pop idols as a member of Blackpink"
           }
         ]
       },
       {
-        "en": "Daniil Medvedev was disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
+        "en": "Music correspondentPublished3 hours agoWhat&#x27;s it like to be the main character of an online scandal?",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Daniil Medvedev was disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
-            "ko": "실시간 보도 번역: Daniil Medvedev was disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic."
+            "en": "Music correspondentPublished3 hours agoWhat&#x27;s it like to be the main character of an online scandal?",
+            "ko": "실시간 보도 번역: Music correspondentPublished3 hours agoWhat&#x27;s it like to be the main character of an online scandal?"
           }
         ]
       },
       {
-        "en": "Third seed Medvedev trailed Djokovic 7-5 5-3 when the Serb hit a winner beyond him for 15-15.",
+        "en": "That&#x27;s one of the questions raised in a new documentary about Lisa Manobal – one quarter of K-pop phenomenon Blackpink and a breakout star of TV show The White Lotus.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Third seed Medvedev trailed Djokovic 7-5 5-3 when the Serb hit a winner beyond him for 15-15.",
-            "ko": "실시간 보도 번역: Third seed Medvedev trailed Djokovic 7-5 5-3 when the Serb hit a winner beyond him for 15-15."
+            "en": "That&#x27;s one of the questions raised in a new documentary about Lisa Manobal – one quarter of K-pop phenomenon Blackpink and a breakout star of TV show The White Lotus.",
+            "ko": "실시간 보도 번역: That&#x27;s one of the questions raised in a new documentary about Lisa Manobal – one quarter of K-pop phenomenon Blackpink and a breakout star of TV show The White Lotus."
           }
         ]
       },
       {
-        "en": "The ball ricocheted off the back of the court and Medvedev swiped at a backhand in annoyance, sending the ball into the air and hitting a spectator who was sitting in the front row of the stand behind him.",
+        "en": "The film captures an unfolding controversy, as leaked videos show Blackpink using racial slurs when they were teenage trainees in the K-pop system.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The ball ricocheted off the back of the court and Medvedev swiped at a backhand in annoyance, sending the ball into the air and hitting a spectator who was sitting in the front row of the stand behind him.",
-            "ko": "실시간 보도 번역: The ball ricocheted off the back of the court and Medvedev swiped at a backhand in annoyance, sending the ball into the air and hitting a spectator who was sitting in the front row of the stand behind him."
+            "en": "The film captures an unfolding controversy, as leaked videos show Blackpink using racial slurs when they were teenage trainees in the K-pop system.",
+            "ko": "실시간 보도 번역: The film captures an unfolding controversy, as leaked videos show Blackpink using racial slurs when they were teenage trainees in the K-pop system."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Medvedev disqualified from Djokovic match for hitting spectator with ball",
+      "글로벌 최신 소식: Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3229,16 +3300,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Medvedev disqualified from Djokovic match for hitting spectator with ball",
+          "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_2343749866373135955",
@@ -3915,87 +3984,6 @@ const READPULSE_ARTICLES = [
           {
             "en": "Watch: Jeffrey Archer spoke about his time in prison, today&#x27;s politics and retirement in a BBC Breakfast interview last week",
             "ko": "실시간 보도 번역: Watch: Jeffrey Archer spoke about his time in prison, today&#x27;s politics and retirement in a BBC Breakfast interview last week"
-          }
-        ]
-      },
-      {
-        "en": "Bestselling author and former politician Jeffrey Archer has died at the age of 86.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Bestselling author and former politician Jeffrey Archer has died at the age of 86.",
-            "ko": "실시간 보도 번역: Bestselling author and former politician Jeffrey Archer has died at the age of 86."
-          }
-        ]
-      },
-      {
-        "en": "Archer sold more than 300 million books in his five-decade writing career, including the Clifton Chronicles and Kane and Abel, and often set the novels in his home town of Wellington, Somerset.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Archer sold more than 300 million books in his five-decade writing career, including the Clifton Chronicles and Kane and Abel, and often set the novels in his home town of Wellington, Somerset.",
-            "ko": "실시간 보도 번역: Archer sold more than 300 million books in his five-decade writing career, including the Clifton Chronicles and Kane and Abel, and often set the novels in his home town of Wellington, Somerset."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Author and former politician Jeffrey Archer dies aged 86",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Author and former politician Jeffrey Archer dies aged 86",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_2270837066646926628",
-    "title": "Author and former politician Jeffrey Archer dies aged 86",
-    "subtitle": "His last book, Adam and Eve, is set to release this month....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-05",
-    "addedAt": "2026-10-06T04:29:05Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 111,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN. IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsAuthor and former politician Jeffrey Archer dies aged 86To play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUKEnglandN."
-          },
-          {
-            "en": "IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsAuthor and former politician Jeffrey Archer dies aged 86To play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: IrelandScotlandWalesIsle of ManGuernseyJerseyLocal NewsAuthor and former politician Jeffrey Archer dies aged 86To play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Watch: Jeffrey Archer spoke about his time in prison, today&#x27;s politics and retirement in a BBC Breakfast interview in September",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Watch: Jeffrey Archer spoke about his time in prison, today&#x27;s politics and retirement in a BBC Breakfast interview in September",
-            "ko": "실시간 보도 번역: Watch: Jeffrey Archer spoke about his time in prison, today&#x27;s politics and retirement in a BBC Breakfast interview in September"
           }
         ]
       },
