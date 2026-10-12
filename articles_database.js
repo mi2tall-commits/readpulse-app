@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_602790139097149066",
+    "title": "AI minister warns 'likely' UK's cyber defences will be breached",
+    "subtitle": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-12",
+    "addedAt": "2026-10-12T20:48:06Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 139,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI minister warns &#x27;likely&#x27; UK&#x27;s cyber defences will be breachedImage source, PA MediaByLaura Cress, Technology reporter and Marc Cieslak, AI correspondentPublished12 October 2026, 13:11 BSTUpdated 5 hours agoThe UK&#x27;s AI minister has warned it is &quot;likely, if not inevitable&quot; the country&#x27;s cyber defences will at some point be breached.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI minister warns &#x27;likely&#x27; UK&#x27;s cyber defences will be breachedImage source, PA MediaByLaura Cress, Technology reporter and Marc Cieslak, AI correspondentPublished12 October 2026, 13:11 BSTUpdated 5 hours agoThe UK&#x27;s AI minister has warned it is &quot;likely, if not inevitable&quot; the country&#x27;s cyber defences will at some point be breached.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI minister warns &#x27;likely&#x27; UK&#x27;s cyber defences will be breachedImage source, PA MediaByLaura Cress, Technology reporter and Marc Cieslak, AI correspondentPublished12 October 2026, 13:11 BSTUpdated 5 hours agoThe UK&#x27;s AI minister has warned it is &quot;likely, if not inevitable&quot; the country&#x27;s cyber defences will at some point be breached."
+          }
+        ]
+      },
+      {
+        "en": "Speaking at a press conference, Kanishka Narayan pointed to an incident of a rogue OpenAI agent hacking an Australian government website in June.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Speaking at a press conference, Kanishka Narayan pointed to an incident of a rogue OpenAI agent hacking an Australian government website in June.",
+            "ko": "실시간 보도 번역: Speaking at a press conference, Kanishka Narayan pointed to an incident of a rogue OpenAI agent hacking an Australian government website in June."
+          }
+        ]
+      },
+      {
+        "en": "He said while no medical records are known to have been accessed in the attack, the incident should still &quot;concern us&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "He said while no medical records are known to have been accessed in the attack, the incident should still &quot;concern us&quot;.",
+            "ko": "실시간 보도 번역: He said while no medical records are known to have been accessed in the attack, the incident should still &quot;concern us&quot;."
+          }
+        ]
+      },
+      {
+        "en": "Narayan said the government plans to put advanced AI to work to combat the threat, as he set out how the government plans to prepare for any serious future incidents.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Narayan said the government plans to put advanced AI to work to combat the threat, as he set out how the government plans to prepare for any serious future incidents.",
+            "ko": "실시간 보도 번역: Narayan said the government plans to put advanced AI to work to combat the threat, as he set out how the government plans to prepare for any serious future incidents."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: AI minister warns 'likely' UK's cyber defences will be breached",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "AI minister warns 'likely' UK's cyber defences will be breached",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_8713266885905781983",
     "title": "AI is less regulated than milk, says Microsoft president",
     "subtitle": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge....",
@@ -714,66 +791,118 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1873151843419293233",
-    "title": "Rainmakers: The drones used to seed clouds",
-    "subtitle": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?...",
-    "speaker": "BBC Technology",
-    "date": "2026-10-07",
-    "addedAt": "2026-10-07T18:19:20Z",
-    "category": "tech",
+    "id": "auto_science_7938172628742617592",
+    "title": "Storm Rachel batters Southern California, brings flooding to Las Vegas",
+    "subtitle": "Large waves from the post-tropical cyclone battered homes in Southern California, and also brought flooding to parts of Las Vegas....",
+    "speaker": "BBC Science",
+    "date": "2026-10-12",
+    "addedAt": "2026-10-12T20:48:07Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 100,
+    "wordCount": 146,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechRainmakers: The drones used to seed cloudsImage source, RainmakerImage caption, Rainmaker&#x27;s drones were used over Alaska this year",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Storm Rachel batters California, brings flooding to Las Vegas\",\"description\":\"Large waves from the post-tropical cyclone battered homes in Long Beach, and brought flooding to parts of Las Vegas near the famed Strip. \",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pgb6bk.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pgb6bk.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pgb6bk.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pgb6bk.jpg\"],\"uploadDate\":\"2026-10-12T16:12:57.315Z\",\"duration\":\"PT1M7S\"}Storm Rachel batters Southern California, brings flooding to Las VegasTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechRainmakers: The drones used to seed cloudsImage source, RainmakerImage caption, Rainmaker&#x27;s drones were used over Alaska this year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechRainmakers: The drones used to seed cloudsImage source, RainmakerImage caption, Rainmaker&#x27;s drones were used over Alaska this year"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema."
+          },
+          {
+            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Storm Rachel batters California, brings flooding to Las Vegas\",\"description\":\"Large waves from the post-tropical cyclone battered homes in Long Beach, and brought flooding to parts of Las Vegas near the famed Strip.",
+            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Storm Rachel batters California, brings flooding to Las Vegas\",\"description\":\"Large waves from the post-tropical cyclone battered homes in Long Beach, and brought flooding to parts of Las Vegas near the famed Strip."
+          },
+          {
+            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
+            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1920/galileo/p0pgb6bk.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pgb6bk."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1248/galileo/p0pgb6bk.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pgb6bk."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/688/galileo/p0pgb6bk.",
+            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pgb6bk."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/400/galileo/p0pgb6bk.",
+            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pgb6bk."
+          },
+          {
+            "en": "jpg\"],\"uploadDate\":\"2026-10-12T16:12:57.",
+            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-10-12T16:12:57."
+          },
+          {
+            "en": "315Z\",\"duration\":\"PT1M7S\"}Storm Rachel batters Southern California, brings flooding to Las VegasTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: 315Z\",\"duration\":\"PT1M7S\"}Storm Rachel batters Southern California, brings flooding to Las VegasTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "On 23 August, Cooper Freeman had no idea clouds above his head were being filled with a silver compound in order to cause rainfall.",
+        "en": "CloseLarge waves from Post-Tropical Cyclone Rachel battered homes across Southern California over the weekend, leaving some properties at risk of collapse. Rachel also brought flash flooding to Las Vegas near the Strip. Water was knee-deep in some places.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "On 23 August, Cooper Freeman had no idea clouds above his head were being filled with a silver compound in order to cause rainfall.",
-            "ko": "실시간 보도 번역: On 23 August, Cooper Freeman had no idea clouds above his head were being filled with a silver compound in order to cause rainfall."
+            "en": "CloseLarge waves from Post-Tropical Cyclone Rachel battered homes across Southern California over the weekend, leaving some properties at risk of collapse.",
+            "ko": "실시간 보도 번역: CloseLarge waves from Post-Tropical Cyclone Rachel battered homes across Southern California over the weekend, leaving some properties at risk of collapse."
+          },
+          {
+            "en": "Rachel also brought flash flooding to Las Vegas near the Strip.",
+            "ko": "실시간 보도 번역: Rachel also brought flash flooding to Las Vegas near the Strip."
+          },
+          {
+            "en": "Water was knee-deep in some places.",
+            "ko": "실시간 보도 번역: Water was knee-deep in some places."
           }
         ]
       },
       {
-        "en": "Neither did thousands of other residents in Homer, Alaska, who later discovered San Francisco start-up Rainmaker conducted an experiment in that region using cloud-seeding technology.",
+        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsFloodsFollow Floods",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Neither did thousands of other residents in Homer, Alaska, who later discovered San Francisco start-up Rainmaker conducted an experiment in that region using cloud-seeding technology.",
-            "ko": "실시간 보도 번역: Neither did thousands of other residents in Homer, Alaska, who later discovered San Francisco start-up Rainmaker conducted an experiment in that region using cloud-seeding technology."
+            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsFloodsFollow Floods",
+            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsFloodsFollow Floods"
           }
         ]
       },
       {
-        "en": "The company claims it produced 19 million US gallons of water in the sky in three hours.",
+        "en": "close panelYou are now following\n    FloodsUpdates from your News topics will appear in My News and in a collection on the News homepage.Severe weatherFollow Severe weather",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The company claims it produced 19 million US gallons of water in the sky in three hours.",
-            "ko": "실시간 보도 번역: The company claims it produced 19 million US gallons of water in the sky in three hours."
+            "en": "close panelYou are now following\n    FloodsUpdates from your News topics will appear in My News and in a collection on the News homepage.",
+            "ko": "실시간 보도 번역: close panelYou are now following\n    FloodsUpdates from your News topics will appear in My News and in a collection on the News homepage."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Rainmakers: The drones used to seed clouds",
+      "글로벌 최신 소식: Storm Rachel batters Southern California, brings flooding to Las Vegas",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -781,7 +910,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Rainmakers: The drones used to seed clouds",
+          "Storm Rachel batters Southern California, brings flooding to Las Vegas",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1592,70 +1721,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_5845753841655257752",
-    "title": "Tropical Storm Isaias forecast to become first Atlantic hurricane of 2026",
-    "subtitle": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern US...",
-    "speaker": "BBC Science",
-    "date": "2026-10-07",
-    "addedAt": "2026-10-07T18:19:21Z",
-    "category": "science",
+    "id": "auto_economy_7100271978361112789",
+    "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
+    "subtitle": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending p...",
+    "speaker": "BBC Business",
+    "date": "2026-10-12",
+    "addedAt": "2026-10-12T20:48:07Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 122,
+    "wordCount": 185,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpTropical Storm Isaias forecast to become first Atlantic hurricane of 2026Image source, CIRA/NOAAImage caption, Satellite imagery shows thunderstorms clumping together to form Tropical Storm Isaias.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHealey faces £35bn Budget challenge to meet spending pledges, says think tankImage source, Getty ImagesByDharshini David, Deputy economics editor, Dearbail Jordan and Tom Espiner, Business reportersPublished12 October 2026, 00:04 BSTUpdated 09:50 BSTChancellor John Healey faces having to find £35bn to avoid cuts to public spending while meeting defence promises in his first Budget, an influential think tank has warned.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpTropical Storm Isaias forecast to become first Atlantic hurricane of 2026Image source, CIRA/NOAAImage caption, Satellite imagery shows thunderstorms clumping together to form Tropical Storm Isaias.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpTropical Storm Isaias forecast to become first Atlantic hurricane of 2026Image source, CIRA/NOAAImage caption, Satellite imagery shows thunderstorms clumping together to form Tropical Storm Isaias."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHealey faces £35bn Budget challenge to meet spending pledges, says think tankImage source, Getty ImagesByDharshini David, Deputy economics editor, Dearbail Jordan and Tom Espiner, Business reportersPublished12 October 2026, 00:04 BSTUpdated 09:50 BSTChancellor John Healey faces having to find £35bn to avoid cuts to public spending while meeting defence promises in his first Budget, an influential think tank has warned.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHealey faces £35bn Budget challenge to meet spending pledges, says think tankImage source, Getty ImagesByDharshini David, Deputy economics editor, Dearbail Jordan and Tom Espiner, Business reportersPublished12 October 2026, 00:04 BSTUpdated 09:50 BSTChancellor John Healey faces having to find £35bn to avoid cuts to public spending while meeting defence promises in his first Budget, an influential think tank has warned."
           }
         ]
       },
       {
-        "en": "Tropical Storm Isaias has formed in the Gulf of Mexico and looks likely to strengthen into the first Atlantic hurricane of this year.",
+        "en": "The Institute for Fiscal Studies (IFS) said that if the government wants to raise defence spending to 3% of national income by 2030 and lift health spending without squeezing other departments, it will need a &quot;top-up&quot; of billions of pounds.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Tropical Storm Isaias has formed in the Gulf of Mexico and looks likely to strengthen into the first Atlantic hurricane of this year.",
-            "ko": "실시간 보도 번역: Tropical Storm Isaias has formed in the Gulf of Mexico and looks likely to strengthen into the first Atlantic hurricane of this year."
+            "en": "The Institute for Fiscal Studies (IFS) said that if the government wants to raise defence spending to 3% of national income by 2030 and lift health spending without squeezing other departments, it will need a &quot;top-up&quot; of billions of pounds.",
+            "ko": "실시간 보도 번역: The Institute for Fiscal Studies (IFS) said that if the government wants to raise defence spending to 3% of national income by 2030 and lift health spending without squeezing other departments, it will need a &quot;top-up&quot; of billions of pounds."
           }
         ]
       },
       {
-        "en": "It is expected to reach hurricane strength by Thursday morning with forecasts suggesting it could then intensify to a category two storm.",
+        "en": "Higher inflation, caused by the Iran war, could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the IFS said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It is expected to reach hurricane strength by Thursday morning with forecasts suggesting it could then intensify to a category two storm.",
-            "ko": "실시간 보도 번역: It is expected to reach hurricane strength by Thursday morning with forecasts suggesting it could then intensify to a category two storm."
+            "en": "Higher inflation, caused by the Iran war, could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the IFS said.",
+            "ko": "실시간 보도 번역: Higher inflation, caused by the Iran war, could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the IFS said."
           }
         ]
       },
       {
-        "en": "It has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday. Hurricane and Storm Surge Watches have been issued.",
+        "en": "The government is under growing pressure to show financial markets that it has a tight grip on finances as the cost of borrowing rises.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday.",
-            "ko": "실시간 보도 번역: It has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday."
-          },
-          {
-            "en": "Hurricane and Storm Surge Watches have been issued.",
-            "ko": "실시간 보도 번역: Hurricane and Storm Surge Watches have been issued."
+            "en": "The government is under growing pressure to show financial markets that it has a tight grip on finances as the cost of borrowing rises.",
+            "ko": "실시간 보도 번역: The government is under growing pressure to show financial markets that it has a tight grip on finances as the cost of borrowing rises."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Tropical Storm Isaias forecast to become first Atlantic hurricane of 2026",
+      "글로벌 최신 소식: Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1663,7 +1788,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Tropical Storm Isaias forecast to become first Atlantic hurricane of 2026",
+          "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2374,70 +2499,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_9216552439315444404",
-    "title": "Ex-bankers jailed for rigging rates have convictions quashed",
-    "subtitle": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of ...",
-    "speaker": "BBC Business",
-    "date": "2026-10-07",
-    "addedAt": "2026-10-07T18:19:21Z",
-    "category": "economy",
+    "id": "auto_sports_7588567797120154784",
+    "title": "Zverev secures year-end number one ranking",
+    "subtitle": "Alexander Zverev is guaranteed to finish his 2026 season as the world number one after Carlos Alcaraz suffers a surprise defeat in...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-12",
+    "addedAt": "2026-10-12T20:48:08Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 151,
+    "wordCount": 147,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessEx-bankers jailed for rigging rates have convictions quashedImage source, Getty ImagesByAndy VerityFinancial investigations correspondent Published7 October 2026, 12:46 BSTUpdated 4 hours agoFive former Barclays traders sentenced in one of the biggest scandals of the financial crisis have had their convictions overturned following a long-running legal battle.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev secures year-end number one rankingImage source, Getty ImagesImage caption, Alexander Zverev will be the 30th man to be ranked number one on the ATP Tour",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessEx-bankers jailed for rigging rates have convictions quashedImage source, Getty ImagesByAndy VerityFinancial investigations correspondent Published7 October 2026, 12:46 BSTUpdated 4 hours agoFive former Barclays traders sentenced in one of the biggest scandals of the financial crisis have had their convictions overturned following a long-running legal battle.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessEx-bankers jailed for rigging rates have convictions quashedImage source, Getty ImagesByAndy VerityFinancial investigations correspondent Published7 October 2026, 12:46 BSTUpdated 4 hours agoFive former Barclays traders sentenced in one of the biggest scandals of the financial crisis have had their convictions overturned following a long-running legal battle."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev secures year-end number one rankingImage source, Getty ImagesImage caption, Alexander Zverev will be the 30th man to be ranked number one on the ATP Tour",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev secures year-end number one rankingImage source, Getty ImagesImage caption, Alexander Zverev will be the 30th man to be ranked number one on the ATP Tour"
           }
         ]
       },
       {
-        "en": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham were convicted following trials for manipulating the interest rates used for loans between banks.",
+        "en": "BBC Sport tennis news reporterPublished12 October 2026, 14:57 BSTUpdated 5 hours agoAlexander Zverev is guaranteed to finish the 2026 season as world number one after Carlos Alcaraz&#x27;s surprise defeat in the Shanghai Masters.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham were convicted following trials for manipulating the interest rates used for loans between banks.",
-            "ko": "실시간 보도 번역: Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham were convicted following trials for manipulating the interest rates used for loans between banks."
+            "en": "BBC Sport tennis news reporterPublished12 October 2026, 14:57 BSTUpdated 5 hours agoAlexander Zverev is guaranteed to finish the 2026 season as world number one after Carlos Alcaraz&#x27;s surprise defeat in the Shanghai Masters.",
+            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished12 October 2026, 14:57 BSTUpdated 5 hours agoAlexander Zverev is guaranteed to finish the 2026 season as world number one after Carlos Alcaraz&#x27;s surprise defeat in the Shanghai Masters."
           }
         ]
       },
       {
-        "en": "But their convictions were quashed on Wednesday by the Court of Appeal. The ruling came after two other former City traders had their convictions overturned last year, which paved the way for others to appeal.",
+        "en": "German Zverev was on course to climb above current world number one Jannik Sinner, who has been ruled out for the rest of the year with a knee injury.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But their convictions were quashed on Wednesday by the Court of Appeal.",
-            "ko": "실시간 보도 번역: But their convictions were quashed on Wednesday by the Court of Appeal."
-          },
-          {
-            "en": "The ruling came after two other former City traders had their convictions overturned last year, which paved the way for others to appeal.",
-            "ko": "실시간 보도 번역: The ruling came after two other former City traders had their convictions overturned last year, which paved the way for others to appeal."
+            "en": "German Zverev was on course to climb above current world number one Jannik Sinner, who has been ruled out for the rest of the year with a knee injury.",
+            "ko": "실시간 보도 번역: German Zverev was on course to climb above current world number one Jannik Sinner, who has been ruled out for the rest of the year with a knee injury."
           }
         ]
       },
       {
-        "en": "The traders were cast by prosecutors as a symbol of banker greed amid public backlash and anger during the 2008 financial crisis.",
+        "en": "Alcaraz still had a mathematical chance of stopping Zverev until he was beaten 7-5 7-6 (7-4) by Belgium&#x27;s Zizou Bergs in the third round on Monday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The traders were cast by prosecutors as a symbol of banker greed amid public backlash and anger during the 2008 financial crisis.",
-            "ko": "실시간 보도 번역: The traders were cast by prosecutors as a symbol of banker greed amid public backlash and anger during the 2008 financial crisis."
+            "en": "Alcaraz still had a mathematical chance of stopping Zverev until he was beaten 7-5 7-6 (7-4) by Belgium&#x27;s Zizou Bergs in the third round on Monday.",
+            "ko": "실시간 보도 번역: Alcaraz still had a mathematical chance of stopping Zverev until he was beaten 7-5 7-6 (7-4) by Belgium&#x27;s Zizou Bergs in the third round on Monday."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Ex-bankers jailed for rigging rates have convictions quashed",
+      "글로벌 최신 소식: Zverev secures year-end number one ranking",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2445,14 +2566,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Ex-bankers jailed for rigging rates have convictions quashed",
+          "Zverev secures year-end number one ranking",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_1432447330451714303",
@@ -3166,66 +3289,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_830284229724108975",
-    "title": "'Draining' few days for Gauff after online racist abuse",
-    "subtitle": "Coco Gauff says she had a \"draining\" few days after receiving racist abuse online before her fourth-round China Open exit....",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-07",
-    "addedAt": "2026-10-07T18:19:22Z",
-    "category": "sports",
+    "id": "auto_culture_6611940235336488443",
+    "title": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
+    "subtitle": "The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-12",
+    "addedAt": "2026-10-12T20:48:10Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 138,
+    "wordCount": 162,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTom Cruise film Digger forecast to become one of Hollywood&#x27;s biggest flopsImage source, Warner BrosBySteven McIntoshEntertainment reporter Published12 October 2026, 12:29 BSTUpdated 6 hours agoTom Cruise&#x27;s latest film Digger is expected to lose around $245m (£185m), Hollywood analysts have said, after the film&#x27;s continuing poor performance at the box office.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTom Cruise film Digger forecast to become one of Hollywood&#x27;s biggest flopsImage source, Warner BrosBySteven McIntoshEntertainment reporter Published12 October 2026, 12:29 BSTUpdated 6 hours agoTom Cruise&#x27;s latest film Digger is expected to lose around $245m (£185m), Hollywood analysts have said, after the film&#x27;s continuing poor performance at the box office.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTom Cruise film Digger forecast to become one of Hollywood&#x27;s biggest flopsImage source, Warner BrosBySteven McIntoshEntertainment reporter Published12 October 2026, 12:29 BSTUpdated 6 hours agoTom Cruise&#x27;s latest film Digger is expected to lose around $245m (£185m), Hollywood analysts have said, after the film&#x27;s continuing poor performance at the box office."
           }
         ]
       },
       {
-        "en": "Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit.",
+        "en": "Ticket sales for the satirical black comedy, which stars Cruise as oil magnate Digger Rockwell, dropped by around 60% in the movie&#x27;s second weekend in cinemas.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit.",
-            "ko": "실시간 보도 번역: Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit."
+            "en": "Ticket sales for the satirical black comedy, which stars Cruise as oil magnate Digger Rockwell, dropped by around 60% in the movie&#x27;s second weekend in cinemas.",
+            "ko": "실시간 보도 번역: Ticket sales for the satirical black comedy, which stars Cruise as oil magnate Digger Rockwell, dropped by around 60% in the movie&#x27;s second weekend in cinemas."
           }
         ]
       },
       {
-        "en": "The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday.",
+        "en": "It brings Digger&#x27;s total box office takings so far to around $35m (£26m) globally. The film is estimated to have cost its studio Warner Bros around $280m (£211m) to make and market.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday.",
-            "ko": "실시간 보도 번역: The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday."
+            "en": "It brings Digger&#x27;s total box office takings so far to around $35m (£26m) globally.",
+            "ko": "실시간 보도 번역: It brings Digger&#x27;s total box office takings so far to around $35m (£26m) globally."
+          },
+          {
+            "en": "The film is estimated to have cost its studio Warner Bros around $280m (£211m) to make and market.",
+            "ko": "실시간 보도 번역: The film is estimated to have cost its studio Warner Bros around $280m (£211m) to make and market."
           }
         ]
       },
       {
-        "en": "China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court.",
+        "en": "But Cruise said last week, external that he &quot;never thought of movies when I&#x27;m making them [in terms of] opening weekend,&quot; adding he was instead focused on making films that &quot;hopefully will translate, last and evolve&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court.",
-            "ko": "실시간 보도 번역: China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court."
+            "en": "But Cruise said last week, external that he &quot;never thought of movies when I&#x27;m making them [in terms of] opening weekend,&quot; adding he was instead focused on making films that &quot;hopefully will translate, last and evolve&quot;.",
+            "ko": "실시간 보도 번역: But Cruise said last week, external that he &quot;never thought of movies when I&#x27;m making them [in terms of] opening weekend,&quot; adding he was instead focused on making films that &quot;hopefully will translate, last and evolve&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'Draining' few days for Gauff after online racist abuse",
+      "글로벌 최신 소식: Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3233,16 +3360,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'Draining' few days for Gauff after online racist abuse",
+          "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_8463228162117389753",
@@ -3887,83 +4012,6 @@ const READPULSE_ARTICLES = [
     "speaker": "BBC Arts",
     "date": "2026-10-07",
     "addedAt": "2026-10-08T04:08:07Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 129,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsOscar-winning actress Eva Marie Saint dies aged 102Image source, ReutersImage caption, Eve Marie Saint has two stars on the Hollywood Walk of Fame",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsOscar-winning actress Eva Marie Saint dies aged 102Image source, ReutersImage caption, Eve Marie Saint has two stars on the Hollywood Walk of Fame",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsOscar-winning actress Eva Marie Saint dies aged 102Image source, ReutersImage caption, Eve Marie Saint has two stars on the Hollywood Walk of Fame"
-          }
-        ]
-      },
-      {
-        "en": "Eva Marie Saint, the Oscar-winning actress who starred in Hollywood classics such as On the Waterfront and North by Northwest, has died aged 102.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Eva Marie Saint, the Oscar-winning actress who starred in Hollywood classics such as On the Waterfront and North by Northwest, has died aged 102.",
-            "ko": "실시간 보도 번역: Eva Marie Saint, the Oscar-winning actress who starred in Hollywood classics such as On the Waterfront and North by Northwest, has died aged 102."
-          }
-        ]
-      },
-      {
-        "en": "Saint won the Academy Award for best supporting actress for her movie debut in director Elia Kazan&#x27;s 1954 crime drama, On the Waterfront; playing Edie Doyle, the moral compass of the film and love interest of Marlon Brando&#x27;s conflicted boxer-turned-docker.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Saint won the Academy Award for best supporting actress for her movie debut in director Elia Kazan&#x27;s 1954 crime drama, On the Waterfront; playing Edie Doyle, the moral compass of the film and love interest of Marlon Brando&#x27;s conflicted boxer-turned-docker.",
-            "ko": "실시간 보도 번역: Saint won the Academy Award for best supporting actress for her movie debut in director Elia Kazan&#x27;s 1954 crime drama, On the Waterfront; playing Edie Doyle, the moral compass of the film and love interest of Marlon Brando&#x27;s conflicted boxer-turned-docker."
-          }
-        ]
-      },
-      {
-        "en": "Five years later, she portrayed femme fatale Eve Kendall, dangerously seducing Cary Grant&#x27;s entangled advertising executive in Alfred Hitchcock&#x27;s spy thriller, North by Northwest.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Five years later, she portrayed femme fatale Eve Kendall, dangerously seducing Cary Grant&#x27;s entangled advertising executive in Alfred Hitchcock&#x27;s spy thriller, North by Northwest.",
-            "ko": "실시간 보도 번역: Five years later, she portrayed femme fatale Eve Kendall, dangerously seducing Cary Grant&#x27;s entangled advertising executive in Alfred Hitchcock&#x27;s spy thriller, North by Northwest."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Oscar-winning actress Eva Marie Saint dies aged 102",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Oscar-winning actress Eva Marie Saint dies aged 102",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_653113469258211860",
-    "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
-    "subtitle": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-07",
-    "addedAt": "2026-10-07T18:19:23Z",
     "category": "culture",
     "isLive": true,
     "level": "B2",
