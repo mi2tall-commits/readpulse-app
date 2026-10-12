@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_8713266885905781983",
+    "title": "AI is less regulated than milk, says Microsoft president",
+    "subtitle": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-11",
+    "addedAt": "2026-10-12T03:57:18Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 165,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI is less regulated than milk, says Microsoft presidentImage source, Bloomberg via Getty ImagesByMitchell LabiakBusiness reporterPublished4 hours agoMilk and washing machines are currently more regulated than AI, the president of Microsoft has said.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI is less regulated than milk, says Microsoft presidentImage source, Bloomberg via Getty ImagesByMitchell LabiakBusiness reporterPublished4 hours agoMilk and washing machines are currently more regulated than AI, the president of Microsoft has said.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI is less regulated than milk, says Microsoft presidentImage source, Bloomberg via Getty ImagesByMitchell LabiakBusiness reporterPublished4 hours agoMilk and washing machines are currently more regulated than AI, the president of Microsoft has said."
+          }
+        ]
+      },
+      {
+        "en": "Brad Smith said there needed to be global safety rules in place, including a legal obligation to tell a &quot;victim&quot; if their system is breached by a rogue AI agent as well as deciding when outside evaluators should sign off on an AI product before it is released.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Brad Smith said there needed to be global safety rules in place, including a legal obligation to tell a &quot;victim&quot; if their system is breached by a rogue AI agent as well as deciding when outside evaluators should sign off on an AI product before it is released.",
+            "ko": "실시간 보도 번역: Brad Smith said there needed to be global safety rules in place, including a legal obligation to tell a &quot;victim&quot; if their system is breached by a rogue AI agent as well as deciding when outside evaluators should sign off on an AI product before it is released."
+          }
+        ]
+      },
+      {
+        "en": "His comments put him at odds with President Donald Trump, who said the sector should regulate itself so US firms don&#x27;t lose out to Chinese rivals.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "His comments put him at odds with President Donald Trump, who said the sector should regulate itself so US firms don&#x27;t lose out to Chinese rivals.",
+            "ko": "실시간 보도 번역: His comments put him at odds with President Donald Trump, who said the sector should regulate itself so US firms don&#x27;t lose out to Chinese rivals."
+          }
+        ]
+      },
+      {
+        "en": "But Smith said: &quot;Right now, your washing machine is subject to more safety rules than AI. Every carton of milk that you see in the grocery store is subject to safety rules and inspection.&quot;",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "But Smith said: &quot;Right now, your washing machine is subject to more safety rules than AI.",
+            "ko": "실시간 보도 번역: But Smith said: &quot;Right now, your washing machine is subject to more safety rules than AI."
+          },
+          {
+            "en": "Every carton of milk that you see in the grocery store is subject to safety rules and inspection.",
+            "ko": "실시간 보도 번역: Every carton of milk that you see in the grocery store is subject to safety rules and inspection."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: AI is less regulated than milk, says Microsoft president",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "AI is less regulated than milk, says Microsoft president",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_585074891008297771",
     "title": "King warns malicious online actors are evolving tactics",
     "subtitle": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Cen...",
@@ -710,70 +791,110 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_6700425133843446162",
-    "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
-    "subtitle": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try...",
-    "speaker": "BBC Technology",
-    "date": "2026-10-06",
-    "addedAt": "2026-10-07T03:54:53Z",
-    "category": "tech",
+    "id": "auto_science_8578324351902581962",
+    "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+    "subtitle": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September....",
+    "speaker": "BBC Science",
+    "date": "2026-10-11",
+    "addedAt": "2026-10-12T03:57:19Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 137,
+    "wordCount": 128,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechBraid-creator Jonathan Blow on making the &#x27;biggest puzzle game ever&#x27;Image source, Thekla, Inc., Arc GamesByLaura CressTechnology reporterPublished4 hours agoFor ten years, Jonathan Blow has been working with a small team on what he believes is &quot;the biggest puzzle game ever made&quot;.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Endangered orangutans released back into the wild after Borneo fires\",\"description\":\"The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pg67qg.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pg67qg.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pg67qg.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pg67qg.jpg\"],\"uploadDate\":\"2026-10-11T23:48:25.110Z\",\"duration\":\"PT52S\"}Watch: Endangered orangutans released back into the wild after Borneo firesTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechBraid-creator Jonathan Blow on making the &#x27;biggest puzzle game ever&#x27;Image source, Thekla, Inc.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechBraid-creator Jonathan Blow on making the &#x27;biggest puzzle game ever&#x27;Image source, Thekla, Inc."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema."
           },
           {
-            "en": ", Arc GamesByLaura CressTechnology reporterPublished4 hours agoFor ten years, Jonathan Blow has been working with a small team on what he believes is &quot;the biggest puzzle game ever made&quot;.",
-            "ko": "실시간 보도 번역: , Arc GamesByLaura CressTechnology reporterPublished4 hours agoFor ten years, Jonathan Blow has been working with a small team on what he believes is &quot;the biggest puzzle game ever made&quot;."
+            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Endangered orangutans released back into the wild after Borneo fires\",\"description\":\"The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
+            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Endangered orangutans released back into the wild after Borneo fires\",\"description\":\"The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September."
+          },
+          {
+            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
+            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1920/galileo/p0pg67qg.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pg67qg."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1248/galileo/p0pg67qg.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pg67qg."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/688/galileo/p0pg67qg.",
+            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pg67qg."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/400/galileo/p0pg67qg.",
+            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pg67qg."
+          },
+          {
+            "en": "jpg\"],\"uploadDate\":\"2026-10-11T23:48:25.",
+            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-10-11T23:48:25."
+          },
+          {
+            "en": "110Z\",\"duration\":\"PT52S\"}Watch: Endangered orangutans released back into the wild after Borneo firesTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: 110Z\",\"duration\":\"PT52S\"}Watch: Endangered orangutans released back into the wild after Borneo firesTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "The American developer is renowned as one of the fathers of the modern indie game movement, creating the genre-defining puzzle-platformer Braid in 2008.",
+        "en": "CloseEight orangutans have been released into the wild in Borneo after being rescued from intense wildfires.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The American developer is renowned as one of the fathers of the modern indie game movement, creating the genre-defining puzzle-platformer Braid in 2008.",
-            "ko": "실시간 보도 번역: The American developer is renowned as one of the fathers of the modern indie game movement, creating the genre-defining puzzle-platformer Braid in 2008."
+            "en": "CloseEight orangutans have been released into the wild in Borneo after being rescued from intense wildfires.",
+            "ko": "실시간 보도 번역: CloseEight orangutans have been released into the wild in Borneo after being rescued from intense wildfires."
           }
         ]
       },
       {
-        "en": "Now, a decade on from his last project, The Witness, The Order of the Sinking Star is due to be released on Thursday - a game with roughly 1,500 puzzles that he estimates could take around 500 hours to complete.",
+        "en": "Three mothers, their three daughters and two adult males were freed in a reserve in the west of the island on Friday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Now, a decade on from his last project, The Witness, The Order of the Sinking Star is due to be released on Thursday - a game with roughly 1,500 puzzles that he estimates could take around 500 hours to complete.",
-            "ko": "실시간 보도 번역: Now, a decade on from his last project, The Witness, The Order of the Sinking Star is due to be released on Thursday - a game with roughly 1,500 puzzles that he estimates could take around 500 hours to complete."
+            "en": "Three mothers, their three daughters and two adult males were freed in a reserve in the west of the island on Friday.",
+            "ko": "실시간 보도 번역: Three mothers, their three daughters and two adult males were freed in a reserve in the west of the island on Friday."
           }
         ]
       },
       {
-        "en": "So why make something the majority of players may never get even halfway through, let alone finish?",
+        "en": "Indonesian wildlife authorities rescued 46 of the apes, which are critically endangered, before fires tore through their habitat in August and September.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "So why make something the majority of players may never get even halfway through, let alone finish?",
-            "ko": "실시간 보도 번역: So why make something the majority of players may never get even halfway through, let alone finish?"
+            "en": "Indonesian wildlife authorities rescued 46 of the apes, which are critically endangered, before fires tore through their habitat in August and September.",
+            "ko": "실시간 보도 번역: Indonesian wildlife authorities rescued 46 of the apes, which are critically endangered, before fires tore through their habitat in August and September."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+      "글로벌 최신 소식: Watch: Endangered orangutans released back into the wild after Borneo fires",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -781,7 +902,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+          "Watch: Endangered orangutans released back into the wild after Borneo fires",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1552,70 +1673,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_4205617121826614368",
-    "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
-    "subtitle": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show....",
-    "speaker": "BBC Science",
-    "date": "2026-10-06",
-    "addedAt": "2026-10-07T03:54:53Z",
-    "category": "science",
+    "id": "auto_economy_1399454314846684003",
+    "title": "Iran war threatens Healey's Budget plans, think tank warns",
+    "subtitle": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says....",
+    "speaker": "BBC Business",
+    "date": "2026-10-11",
+    "addedAt": "2026-10-12T03:57:19Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 149,
+    "wordCount": 148,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaA beautiful Himalayan bird is changing its voice due to human activity, research showsImage source, Rajeev LochanImage caption, The male monal has distinctive green, blue and copper plumage",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessIran war threatens Healey&#x27;s Budget plans, think tank warnsImage source, Dan Kitwood/Getty ImagesByDharshini David, Deputy economics editor and Tom Espiner, Business reporterPublished4 hours agoThe price spike caused by the US-Israel war in Iran poses a major challenge for Chancellor John Healey as he puts together his first Budget, an influential think tank has warned.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaA beautiful Himalayan bird is changing its voice due to human activity, research showsImage source, Rajeev LochanImage caption, The male monal has distinctive green, blue and copper plumage",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndiaA beautiful Himalayan bird is changing its voice due to human activity, research showsImage source, Rajeev LochanImage caption, The male monal has distinctive green, blue and copper plumage"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessIran war threatens Healey&#x27;s Budget plans, think tank warnsImage source, Dan Kitwood/Getty ImagesByDharshini David, Deputy economics editor and Tom Espiner, Business reporterPublished4 hours agoThe price spike caused by the US-Israel war in Iran poses a major challenge for Chancellor John Healey as he puts together his first Budget, an influential think tank has warned.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessIran war threatens Healey&#x27;s Budget plans, think tank warnsImage source, Dan Kitwood/Getty ImagesByDharshini David, Deputy economics editor and Tom Espiner, Business reporterPublished4 hours agoThe price spike caused by the US-Israel war in Iran poses a major challenge for Chancellor John Healey as he puts together his first Budget, an influential think tank has warned."
           }
         ]
       },
       {
-        "en": "A sharp increase in human activity is having an impact on the way a Himalayan bird lives and communicates, two studies by Indian researchers have found.",
+        "en": "Higher-than-expected inflation could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the Institute for Fiscal Studies (IFS) said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A sharp increase in human activity is having an impact on the way a Himalayan bird lives and communicates, two studies by Indian researchers have found.",
-            "ko": "실시간 보도 번역: A sharp increase in human activity is having an impact on the way a Himalayan bird lives and communicates, two studies by Indian researchers have found."
+            "en": "Higher-than-expected inflation could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the Institute for Fiscal Studies (IFS) said.",
+            "ko": "실시간 보도 번역: Higher-than-expected inflation could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the Institute for Fiscal Studies (IFS) said."
           }
         ]
       },
       {
-        "en": "The monal, a pheasant native to Himalayan mountain forests, is deeply woven into the region&#x27;s cultural, folklore and identity. The eye-catching monal - the male has distinctive green, blue and copper feathers - is the state bird of India&#x27;s Uttarakhand state and the national bird of Nepal, reflecting its cultural significance across the Himalayas.",
+        "en": "It urged the government to ensure its spending plans are credible, as opposed to proposing unrealistic future cuts to make the Budget add up.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The monal, a pheasant native to Himalayan mountain forests, is deeply woven into the region&#x27;s cultural, folklore and identity.",
-            "ko": "실시간 보도 번역: The monal, a pheasant native to Himalayan mountain forests, is deeply woven into the region&#x27;s cultural, folklore and identity."
-          },
-          {
-            "en": "The eye-catching monal - the male has distinctive green, blue and copper feathers - is the state bird of India&#x27;s Uttarakhand state and the national bird of Nepal, reflecting its cultural significance across the Himalayas.",
-            "ko": "실시간 보도 번역: The eye-catching monal - the male has distinctive green, blue and copper feathers - is the state bird of India&#x27;s Uttarakhand state and the national bird of Nepal, reflecting its cultural significance across the Himalayas."
+            "en": "It urged the government to ensure its spending plans are credible, as opposed to proposing unrealistic future cuts to make the Budget add up.",
+            "ko": "실시간 보도 번역: It urged the government to ensure its spending plans are credible, as opposed to proposing unrealistic future cuts to make the Budget add up."
           }
         ]
       },
       {
-        "en": "But studies show that infrastructure development and tourism are squeezing its habitat, while increasing noise is altering how it communicates with potential mates and rivals.",
+        "en": "The Treasury declined to comment on &quot;rumour and speculation&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But studies show that infrastructure development and tourism are squeezing its habitat, while increasing noise is altering how it communicates with potential mates and rivals.",
-            "ko": "실시간 보도 번역: But studies show that infrastructure development and tourism are squeezing its habitat, while increasing noise is altering how it communicates with potential mates and rivals."
+            "en": "The Treasury declined to comment on &quot;rumour and speculation&quot;.",
+            "ko": "실시간 보도 번역: The Treasury declined to comment on &quot;rumour and speculation&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "글로벌 최신 소식: Iran war threatens Healey's Budget plans, think tank warns",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1623,7 +1740,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+          "Iran war threatens Healey's Budget plans, think tank warns",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2338,74 +2455,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_728674386972834531",
-    "title": "From 'woke' ridicule to real car - new electric Jaguar unveiled",
-    "subtitle": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has unveiled its new electric car....",
-    "speaker": "BBC Business",
-    "date": "2026-10-07",
-    "addedAt": "2026-10-07T03:54:54Z",
-    "category": "economy",
+    "id": "auto_sports_1432447330451714303",
+    "title": "Karaoke-singing Zheng makes history with China Open win",
+    "subtitle": "Zheng Qinwen becomes the first Chinese champion of the China Open after overcoming Mirra Andreeva in straight sets....",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-11",
+    "addedAt": "2026-10-12T03:57:19Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 136,
+    "wordCount": 118,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessIncredible or catastrophic? Jaguar unveils its polarising electric carImage source, Variety via Getty ImagesImage caption, The Type 01&#x27;s launch event was attended by celebrities including actor Florence Pugh",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKaraoke-singing Zheng makes history with China Open winTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessIncredible or catastrophic?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessIncredible or catastrophic?"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKaraoke-singing Zheng makes history with China Open winTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKaraoke-singing Zheng makes history with China Open winTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Two years ago, Jaguar Land Rover (JLR) relaunched Jaguar into a blizzard of controversy. Its bizarre teaser ad was described as &quot;woke&quot; and its &quot;Barbie pink&quot; concept car was ridiculed.",
+        "en": "Highlights: Zheng Qinwen beats Mirra Andreeva to become China Open champion",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Two years ago, Jaguar Land Rover (JLR) relaunched Jaguar into a blizzard of controversy.",
-            "ko": "실시간 보도 번역: Two years ago, Jaguar Land Rover (JLR) relaunched Jaguar into a blizzard of controversy."
-          },
-          {
-            "en": "Its bizarre teaser ad was described as &quot;woke&quot; and its &quot;Barbie pink&quot; concept car was ridiculed.",
-            "ko": "실시간 보도 번역: Its bizarre teaser ad was described as &quot;woke&quot; and its &quot;Barbie pink&quot; concept car was ridiculed."
+            "en": "Highlights: Zheng Qinwen beats Mirra Andreeva to become China Open champion",
+            "ko": "실시간 보도 번역: Highlights: Zheng Qinwen beats Mirra Andreeva to become China Open champion"
           }
         ]
       },
       {
-        "en": "Now, the first of its new models has appeared in public for the first time. The all-electric Type 01, unveiled in New York, represents a radical new direction for the classic brand.",
+        "en": "Zheng Qinwen became the first Chinese woman to win the China Open by beating Mirra Andreeva in straight sets in Beijing.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Now, the first of its new models has appeared in public for the first time.",
-            "ko": "실시간 보도 번역: Now, the first of its new models has appeared in public for the first time."
-          },
-          {
-            "en": "The all-electric Type 01, unveiled in New York, represents a radical new direction for the classic brand.",
-            "ko": "실시간 보도 번역: The all-electric Type 01, unveiled in New York, represents a radical new direction for the classic brand."
+            "en": "Zheng Qinwen became the first Chinese woman to win the China Open by beating Mirra Andreeva in straight sets in Beijing.",
+            "ko": "실시간 보도 번역: Zheng Qinwen became the first Chinese woman to win the China Open by beating Mirra Andreeva in straight sets in Beijing."
           }
         ]
       },
       {
-        "en": "The car itself is an imposing four-door &quot;Grand Tourer&quot;, with a long bonnet that deliberately harks back to Jaguar&#x27;s emblematic 1960s E-Type.",
+        "en": "Zheng, who entered the tournament as a wildcard ranked number 54 in the world, saved three set points in Sunday&#x27;s opening set before overcoming fourth seed Andreeva 7-5, 6-4.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The car itself is an imposing four-door &quot;Grand Tourer&quot;, with a long bonnet that deliberately harks back to Jaguar&#x27;s emblematic 1960s E-Type.",
-            "ko": "실시간 보도 번역: The car itself is an imposing four-door &quot;Grand Tourer&quot;, with a long bonnet that deliberately harks back to Jaguar&#x27;s emblematic 1960s E-Type."
+            "en": "Zheng, who entered the tournament as a wildcard ranked number 54 in the world, saved three set points in Sunday&#x27;s opening set before overcoming fourth seed Andreeva 7-5, 6-4.",
+            "ko": "실시간 보도 번역: Zheng, who entered the tournament as a wildcard ranked number 54 in the world, saved three set points in Sunday&#x27;s opening set before overcoming fourth seed Andreeva 7-5, 6-4."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: From 'woke' ridicule to real car - new electric Jaguar unveiled",
+      "글로벌 최신 소식: Karaoke-singing Zheng makes history with China Open win",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2413,14 +2522,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "From 'woke' ridicule to real car - new electric Jaguar unveiled",
+          "Karaoke-singing Zheng makes history with China Open win",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_9039897422132474260",
@@ -3134,70 +3245,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_2486443221870218395",
-    "title": "Calm in real life but demons on court - Medvedev finally runs out of chances",
-    "subtitle": "Daniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry - but his Chi...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-06",
-    "addedAt": "2026-10-07T03:54:54Z",
-    "category": "sports",
+    "id": "auto_culture_8463228162117389753",
+    "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+    "subtitle": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-10",
+    "addedAt": "2026-10-12T03:57:21Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 152,
+    "wordCount": 127,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCalm in real life but demons on court - Medvedev runs out of chancesTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsInside the room: What it was like to be with Blackpink&#x27;s Lisa as race scandal eruptedImage source, Getty ImagesImage caption, Lisa, who was born Pranpriya Manobal in Thailand, became one of the world&#x27;s most-recognisable K-pop idols as a member of Blackpink",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCalm in real life but demons on court - Medvedev runs out of chancesTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarCalm in real life but demons on court - Medvedev runs out of chancesTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsInside the room: What it was like to be with Blackpink&#x27;s Lisa as race scandal eruptedImage source, Getty ImagesImage caption, Lisa, who was born Pranpriya Manobal in Thailand, became one of the world&#x27;s most-recognisable K-pop idols as a member of Blackpink",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsInside the room: What it was like to be with Blackpink&#x27;s Lisa as race scandal eruptedImage source, Getty ImagesImage caption, Lisa, who was born Pranpriya Manobal in Thailand, became one of the world&#x27;s most-recognisable K-pop idols as a member of Blackpink"
           }
         ]
       },
       {
-        "en": "Tennis correspondentPublished6 October 2026Daniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry.",
+        "en": "Music correspondentPublished11 October 2026What&#x27;s it like to be the main character of an online scandal?",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Tennis correspondentPublished6 October 2026Daniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry.",
-            "ko": "실시간 보도 번역: Tennis correspondentPublished6 October 2026Daniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry."
+            "en": "Music correspondentPublished11 October 2026What&#x27;s it like to be the main character of an online scandal?",
+            "ko": "실시간 보도 번역: Music correspondentPublished11 October 2026What&#x27;s it like to be the main character of an online scandal?"
           }
         ]
       },
       {
-        "en": "On court, though, he is a far more combustible character who finally ran out of chances when he was disqualified from Monday&#x27;s China Open semi-final against Novak Djokovic.",
+        "en": "That&#x27;s one of the questions raised in a new documentary about Lisa Manobal – one quarter of K-pop phenomenon Blackpink and a breakout star of TV show The White Lotus.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "On court, though, he is a far more combustible character who finally ran out of chances when he was disqualified from Monday&#x27;s China Open semi-final against Novak Djokovic.",
-            "ko": "실시간 보도 번역: On court, though, he is a far more combustible character who finally ran out of chances when he was disqualified from Monday&#x27;s China Open semi-final against Novak Djokovic."
+            "en": "That&#x27;s one of the questions raised in a new documentary about Lisa Manobal – one quarter of K-pop phenomenon Blackpink and a breakout star of TV show The White Lotus.",
+            "ko": "실시간 보도 번역: That&#x27;s one of the questions raised in a new documentary about Lisa Manobal – one quarter of K-pop phenomenon Blackpink and a breakout star of TV show The White Lotus."
           }
         ]
       },
       {
-        "en": "Djokovic was serving for a place in the final when the ball ricocheted off the back of the court. Medvedev swiped it into the stands, where it hit a spectator in the face.",
+        "en": "The film captures an unfolding controversy, as leaked videos show Blackpink using racial slurs when they were teenage trainees in the K-pop system.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Djokovic was serving for a place in the final when the ball ricocheted off the back of the court.",
-            "ko": "실시간 보도 번역: Djokovic was serving for a place in the final when the ball ricocheted off the back of the court."
-          },
-          {
-            "en": "Medvedev swiped it into the stands, where it hit a spectator in the face.",
-            "ko": "실시간 보도 번역: Medvedev swiped it into the stands, where it hit a spectator in the face."
+            "en": "The film captures an unfolding controversy, as leaked videos show Blackpink using racial slurs when they were teenage trainees in the K-pop system.",
+            "ko": "실시간 보도 번역: The film captures an unfolding controversy, as leaked videos show Blackpink using racial slurs when they were teenage trainees in the K-pop system."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Calm in real life but demons on court - Medvedev finally runs out of chances",
+      "글로벌 최신 소식: Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3205,16 +3312,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Calm in real life but demons on court - Medvedev finally runs out of chances",
+          "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_1640019930436233958",
@@ -3921,83 +4026,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Oscar-winning actress Eva Marie Saint dies aged 102",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_5882763503135022279",
-    "title": "Queen pays tribute to 'irrepressible' Jeffrey Archer",
-    "subtitle": "The bestselling author and former politician died on Monday at the age of 86....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-06",
-    "addedAt": "2026-10-07T03:54:55Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 147,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsQueen pays tribute to &#x27;irrepressible&#x27; Jeffrey ArcherImage source, Getty ImagesByEmma Saunders, Culture reporter and Henry MoorePublished6 October 2026Queen Camilla has paid tribute to the bestselling author and former politician Jeffrey Archer, who has died at the age of 86.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsQueen pays tribute to &#x27;irrepressible&#x27; Jeffrey ArcherImage source, Getty ImagesByEmma Saunders, Culture reporter and Henry MoorePublished6 October 2026Queen Camilla has paid tribute to the bestselling author and former politician Jeffrey Archer, who has died at the age of 86.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsQueen pays tribute to &#x27;irrepressible&#x27; Jeffrey ArcherImage source, Getty ImagesByEmma Saunders, Culture reporter and Henry MoorePublished6 October 2026Queen Camilla has paid tribute to the bestselling author and former politician Jeffrey Archer, who has died at the age of 86."
-          }
-        ]
-      },
-      {
-        "en": "&quot;Seldom does an author get to live a life as rich, varied and colourful as any of the characters in their books, or with as many surprising plot twists,&quot; the Queen said in a statement.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&quot;Seldom does an author get to live a life as rich, varied and colourful as any of the characters in their books, or with as many surprising plot twists,&quot; the Queen said in a statement.",
-            "ko": "실시간 보도 번역: &quot;Seldom does an author get to live a life as rich, varied and colourful as any of the characters in their books, or with as many surprising plot twists,&quot; the Queen said in a statement."
-          }
-        ]
-      },
-      {
-        "en": "She added that Archer was &quot;not without flaw&quot;, but that &quot;friends will recall him as an irrepressible life force through all the many differing chapters of his life&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "She added that Archer was &quot;not without flaw&quot;, but that &quot;friends will recall him as an irrepressible life force through all the many differing chapters of his life&quot;.",
-            "ko": "실시간 보도 번역: She added that Archer was &quot;not without flaw&quot;, but that &quot;friends will recall him as an irrepressible life force through all the many differing chapters of his life&quot;."
-          }
-        ]
-      },
-      {
-        "en": "The former Conservative MP was jailed for perjury in 2001 after being found guilty of lying and cheating in his 1987 libel case against the Daily Star.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The former Conservative MP was jailed for perjury in 2001 after being found guilty of lying and cheating in his 1987 libel case against the Daily Star.",
-            "ko": "실시간 보도 번역: The former Conservative MP was jailed for perjury in 2001 after being found guilty of lying and cheating in his 1987 libel case against the Daily Star."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Queen pays tribute to 'irrepressible' Jeffrey Archer",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Queen pays tribute to 'irrepressible' Jeffrey Archer",
           "Historical retrospective",
           "Unrelated general weather"
         ],
