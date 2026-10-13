@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_9001551634123272898",
+    "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+    "subtitle": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-13",
+    "addedAt": "2026-10-13T05:07:02Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 132,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble shares soar after report dating firm in $1bn takeover talksImage source, AFP via Getty ImagesImage caption, Bumble founder Whitney Wolfe Herd",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble shares soar after report dating firm in $1bn takeover talksImage source, AFP via Getty ImagesImage caption, Bumble founder Whitney Wolfe Herd",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble shares soar after report dating firm in $1bn takeover talksImage source, AFP via Getty ImagesImage caption, Bumble founder Whitney Wolfe Herd"
+          }
+        ]
+      },
+      {
+        "en": "Shares in dating app company Bumble soared by almost 50% on Monday after a report that it is in advanced talks to be bought for around $1bn (£757m).",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Shares in dating app company Bumble soared by almost 50% on Monday after a report that it is in advanced talks to be bought for around $1bn (£757m).",
+            "ko": "실시간 보도 번역: Shares in dating app company Bumble soared by almost 50% on Monday after a report that it is in advanced talks to be bought for around $1bn (£757m)."
+          }
+        ]
+      },
+      {
+        "en": "Technology holding company Ithaca could announce a deal to buy the Texas-based firm as early as this week, according to the Wall Street Journal.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Technology holding company Ithaca could announce a deal to buy the Texas-based firm as early as this week, according to the Wall Street Journal.",
+            "ko": "실시간 보도 번역: Technology holding company Ithaca could announce a deal to buy the Texas-based firm as early as this week, according to the Wall Street Journal."
+          }
+        ]
+      },
+      {
+        "en": "The jump in Bumble&#x27;s shares pushed its stock market valuation to over $580m but that is still far below a peak of more than $14bn it reached after listing on the Nasdaq in 2021.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The jump in Bumble&#x27;s shares pushed its stock market valuation to over $580m but that is still far below a peak of more than $14bn it reached after listing on the Nasdaq in 2021.",
+            "ko": "실시간 보도 번역: The jump in Bumble&#x27;s shares pushed its stock market valuation to over $580m but that is still far below a peak of more than $14bn it reached after listing on the Nasdaq in 2021."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Bumble shares soar after report dating firm in $1bn takeover talks",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Bumble shares soar after report dating firm in $1bn takeover talks",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_602790139097149066",
     "title": "AI minister warns 'likely' UK's cyber defences will be breached",
     "subtitle": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks....",
@@ -710,70 +787,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_6103639155459448475",
-    "title": "AI chip boom pushes Samsung profits to record $80bn",
-    "subtitle": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-08",
-    "addedAt": "2026-10-08T04:08:05Z",
-    "category": "tech",
+    "id": "auto_science_6934975017782633595",
+    "title": "Crew searching for Amelia Earhart arrives at crab-infested island",
+    "subtitle": "Researchers will sleep on their ship to avoid giant crabs that can lift heavy weights, split open coconuts, and may have played a ...",
+    "speaker": "BBC Science",
+    "date": "2026-10-12",
+    "addedAt": "2026-10-13T05:07:03Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 139,
+    "wordCount": 126,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI chip boom pushes Samsung profits to record $80bnImage source, EPAImage caption, Samsung is also one of the world&#x27;s biggest smartphone makers",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaCrew searching for Amelia Earhart arrives at crab-infested islandImage source, Getty ImagesImage caption, Amelia Earhart disappeared over the Pacific Ocean while piloting her Electra plane in 1937",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI chip boom pushes Samsung profits to record $80bnImage source, EPAImage caption, Samsung is also one of the world&#x27;s biggest smartphone makers",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI chip boom pushes Samsung profits to record $80bnImage source, EPAImage caption, Samsung is also one of the world&#x27;s biggest smartphone makers"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaCrew searching for Amelia Earhart arrives at crab-infested islandImage source, Getty ImagesImage caption, Amelia Earhart disappeared over the Pacific Ocean while piloting her Electra plane in 1937",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaCrew searching for Amelia Earhart arrives at crab-infested islandImage source, Getty ImagesImage caption, Amelia Earhart disappeared over the Pacific Ocean while piloting her Electra plane in 1937"
           }
         ]
       },
       {
-        "en": "Samsung Electronics says it expects a nine-fold surge in its quarterly profits compared with a year earlier, driven by surging demand for memory chips used in artificial intelligence (AI) data centres.",
+        "en": "A team of researchers have arrived at a remote island to inspect possible plane wreckage of famed aviator Amelia Earhart, who vanished in 1937 while flying around the world.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Samsung Electronics says it expects a nine-fold surge in its quarterly profits compared with a year earlier, driven by surging demand for memory chips used in artificial intelligence (AI) data centres.",
-            "ko": "실시간 보도 번역: Samsung Electronics says it expects a nine-fold surge in its quarterly profits compared with a year earlier, driven by surging demand for memory chips used in artificial intelligence (AI) data centres."
+            "en": "A team of researchers have arrived at a remote island to inspect possible plane wreckage of famed aviator Amelia Earhart, who vanished in 1937 while flying around the world.",
+            "ko": "실시간 보도 번역: A team of researchers have arrived at a remote island to inspect possible plane wreckage of famed aviator Amelia Earhart, who vanished in 1937 while flying around the world."
           }
         ]
       },
       {
-        "en": "The tech giant estimates that its operating profit for the three months to the end of September will jump to 107.4tn won (£61bn; $80bn), its fourth quarter in a row of record earnings.",
+        "en": "The group from the Archaeological Legacy Institute (ALI) and Purdue University arrived at Nikumaroro Island in the Pacific Ocean on Monday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The tech giant estimates that its operating profit for the three months to the end of September will jump to 107.",
-            "ko": "실시간 보도 번역: The tech giant estimates that its operating profit for the three months to the end of September will jump to 107."
-          },
-          {
-            "en": "4tn won (£61bn; $80bn), its fourth quarter in a row of record earnings.",
-            "ko": "실시간 보도 번역: 4tn won (£61bn; $80bn), its fourth quarter in a row of record earnings."
+            "en": "The group from the Archaeological Legacy Institute (ALI) and Purdue University arrived at Nikumaroro Island in the Pacific Ocean on Monday.",
+            "ko": "실시간 보도 번역: The group from the Archaeological Legacy Institute (ALI) and Purdue University arrived at Nikumaroro Island in the Pacific Ocean on Monday."
           }
         ]
       },
       {
-        "en": "Samsung is one of the world&#x27;s largest memory chip makers alongside local rival SK Hynix and Micron in the US, which produce chips crucial for AI firms like Nvidia.",
+        "en": "The search team&#x27;s work, expected to take five days, could be hampered by giant land-dwelling crabs, as well as the El Niño climate phenomenon which is now the strongest ever recorded.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Samsung is one of the world&#x27;s largest memory chip makers alongside local rival SK Hynix and Micron in the US, which produce chips crucial for AI firms like Nvidia.",
-            "ko": "실시간 보도 번역: Samsung is one of the world&#x27;s largest memory chip makers alongside local rival SK Hynix and Micron in the US, which produce chips crucial for AI firms like Nvidia."
+            "en": "The search team&#x27;s work, expected to take five days, could be hampered by giant land-dwelling crabs, as well as the El Niño climate phenomenon which is now the strongest ever recorded.",
+            "ko": "실시간 보도 번역: The search team&#x27;s work, expected to take five days, could be hampered by giant land-dwelling crabs, as well as the El Niño climate phenomenon which is now the strongest ever recorded."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: AI chip boom pushes Samsung profits to record $80bn",
+      "글로벌 최신 소식: Crew searching for Amelia Earhart arrives at crab-infested island",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -781,7 +854,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "AI chip boom pushes Samsung profits to record $80bn",
+          "Crew searching for Amelia Earhart arrives at crab-infested island",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1640,70 +1713,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_3908078240526454312",
-    "title": "Tropical Storm Isaias forecast to become first Atlantic hurricane of 2026",
-    "subtitle": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern US...",
-    "speaker": "BBC Science",
-    "date": "2026-10-07",
-    "addedAt": "2026-10-08T04:08:05Z",
-    "category": "science",
+    "id": "auto_economy_554549896283982099",
+    "title": "UK growth upgraded but energy prices and rates to bite in 2027",
+    "subtitle": "The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham....",
+    "speaker": "BBC Business",
+    "date": "2026-10-13",
+    "addedAt": "2026-10-13T05:07:03Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 122,
+    "wordCount": 173,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpTropical Storm Isaias forecast to become first Atlantic hurricane of 2026Image source, CIRA/NOAAImage caption, Satellite imagery shows thunderstorms clumping together to form Tropical Storm Isaias.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUK growth upgraded but energy prices and rates to bite in 2027Image source, Getty ImagesByFaisal Islam, Economics editor, Reporting fromBangkok and Michael Race, Business reporter, Reporting fromLondonPublished13 October 2026, 03:00 BSTUpdated 1 hour agoThe UK economy is forecast to grow by more than previously expected this year before higher energy prices and interest rates hit growth in 2027, the International Monetary Fund (IMF) has said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpTropical Storm Isaias forecast to become first Atlantic hurricane of 2026Image source, CIRA/NOAAImage caption, Satellite imagery shows thunderstorms clumping together to form Tropical Storm Isaias.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpTropical Storm Isaias forecast to become first Atlantic hurricane of 2026Image source, CIRA/NOAAImage caption, Satellite imagery shows thunderstorms clumping together to form Tropical Storm Isaias."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUK growth upgraded but energy prices and rates to bite in 2027Image source, Getty ImagesByFaisal Islam, Economics editor, Reporting fromBangkok and Michael Race, Business reporter, Reporting fromLondonPublished13 October 2026, 03:00 BSTUpdated 1 hour agoThe UK economy is forecast to grow by more than previously expected this year before higher energy prices and interest rates hit growth in 2027, the International Monetary Fund (IMF) has said.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUK growth upgraded but energy prices and rates to bite in 2027Image source, Getty ImagesByFaisal Islam, Economics editor, Reporting fromBangkok and Michael Race, Business reporter, Reporting fromLondonPublished13 October 2026, 03:00 BSTUpdated 1 hour agoThe UK economy is forecast to grow by more than previously expected this year before higher energy prices and interest rates hit growth in 2027, the International Monetary Fund (IMF) has said."
           }
         ]
       },
       {
-        "en": "Tropical Storm Isaias has formed in the Gulf of Mexico and looks likely to strengthen into the first Atlantic hurricane of this year.",
+        "en": "The organisation&#x27;s latest report, which is closely watched by the government, said the UK economy would expand by 1.3% in 2026, up from the 1% it predicted in July, before slowing in 2027.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Tropical Storm Isaias has formed in the Gulf of Mexico and looks likely to strengthen into the first Atlantic hurricane of this year.",
-            "ko": "실시간 보도 번역: Tropical Storm Isaias has formed in the Gulf of Mexico and looks likely to strengthen into the first Atlantic hurricane of this year."
-          }
-        ]
-      },
-      {
-        "en": "It is expected to reach hurricane strength by Thursday morning with forecasts suggesting it could then intensify to a category two storm.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "It is expected to reach hurricane strength by Thursday morning with forecasts suggesting it could then intensify to a category two storm.",
-            "ko": "실시간 보도 번역: It is expected to reach hurricane strength by Thursday morning with forecasts suggesting it could then intensify to a category two storm."
-          }
-        ]
-      },
-      {
-        "en": "It has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday. Hurricane and Storm Surge Watches have been issued.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "It has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday.",
-            "ko": "실시간 보도 번역: It has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday."
+            "en": "The organisation&#x27;s latest report, which is closely watched by the government, said the UK economy would expand by 1.",
+            "ko": "실시간 보도 번역: The organisation&#x27;s latest report, which is closely watched by the government, said the UK economy would expand by 1."
           },
           {
-            "en": "Hurricane and Storm Surge Watches have been issued.",
-            "ko": "실시간 보도 번역: Hurricane and Storm Surge Watches have been issued."
+            "en": "3% in 2026, up from the 1% it predicted in July, before slowing in 2027.",
+            "ko": "실시간 보도 번역: 3% in 2026, up from the 1% it predicted in July, before slowing in 2027."
+          }
+        ]
+      },
+      {
+        "en": "Economies across the world have proved more resilient to the energy price shock caused by the US-Iran war, the IMF said, but it warned the economic fallout from the conflict remained &quot;highly uncertain&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Economies across the world have proved more resilient to the energy price shock caused by the US-Iran war, the IMF said, but it warned the economic fallout from the conflict remained &quot;highly uncertain&quot;.",
+            "ko": "실시간 보도 번역: Economies across the world have proved more resilient to the energy price shock caused by the US-Iran war, the IMF said, but it warned the economic fallout from the conflict remained &quot;highly uncertain&quot;."
+          }
+        ]
+      },
+      {
+        "en": "Chancellor John Healey said the government would look to &quot;provide some breathing space&quot; for households in the Budget.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Chancellor John Healey said the government would look to &quot;provide some breathing space&quot; for households in the Budget.",
+            "ko": "실시간 보도 번역: Chancellor John Healey said the government would look to &quot;provide some breathing space&quot; for households in the Budget."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Tropical Storm Isaias forecast to become first Atlantic hurricane of 2026",
+      "글로벌 최신 소식: UK growth upgraded but energy prices and rates to bite in 2027",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1711,7 +1784,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Tropical Storm Isaias forecast to become first Atlantic hurricane of 2026",
+          "UK growth upgraded but energy prices and rates to bite in 2027",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2422,66 +2495,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_8262827662841343984",
-    "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-    "subtitle": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange...",
-    "speaker": "BBC Business",
-    "date": "2026-10-07",
-    "addedAt": "2026-10-08T04:08:05Z",
-    "category": "economy",
+    "id": "auto_sports_7629168317560629683",
+    "title": "Zverev secures year-end number one ranking",
+    "subtitle": "Alexander Zverev is guaranteed to finish his 2026 season as the world number one after Carlos Alcaraz suffers a surprise defeat in...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-12",
+    "addedAt": "2026-10-13T05:07:03Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 146,
+    "wordCount": 142,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;Stop throwing shade&#x27; - the woman trying to stop firms leaving the UKTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev secures year-end number one rankingImage source, Getty ImagesImage caption, Alexander Zverev will be the 30th man to be ranked number one on the ATP Tour",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;Stop throwing shade&#x27; - the woman trying to stop firms leaving the UKTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;Stop throwing shade&#x27; - the woman trying to stop firms leaving the UKTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev secures year-end number one rankingImage source, Getty ImagesImage caption, Alexander Zverev will be the 30th man to be ranked number one on the ATP Tour",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev secures year-end number one rankingImage source, Getty ImagesImage caption, Alexander Zverev will be the 30th man to be ranked number one on the ATP Tour"
           }
         ]
       },
       {
-        "en": "Dame Julia Hoggett says negative sentiment about the UK market has pushed companies to leave in the past",
+        "en": "BBC Sport tennis news reporterPublished12 October 2026Alexander Zverev is guaranteed to finish the 2026 season as world number one after Carlos Alcaraz&#x27;s surprise defeat in the Shanghai Masters.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Dame Julia Hoggett says negative sentiment about the UK market has pushed companies to leave in the past",
-            "ko": "실시간 보도 번역: Dame Julia Hoggett says negative sentiment about the UK market has pushed companies to leave in the past"
+            "en": "BBC Sport tennis news reporterPublished12 October 2026Alexander Zverev is guaranteed to finish the 2026 season as world number one after Carlos Alcaraz&#x27;s surprise defeat in the Shanghai Masters.",
+            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished12 October 2026Alexander Zverev is guaranteed to finish the 2026 season as world number one after Carlos Alcaraz&#x27;s surprise defeat in the Shanghai Masters."
           }
         ]
       },
       {
-        "en": "The UK needs to do more back its own companies at a time when a growing number are choosing to list their shares in the US rather than at home, the boss of the London Stock Exchange (LSE) has told the BBC.",
+        "en": "German Zverev was on course to climb above current world number one Jannik Sinner, who has been ruled out for the rest of the year with a knee injury.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The UK needs to do more back its own companies at a time when a growing number are choosing to list their shares in the US rather than at home, the boss of the London Stock Exchange (LSE) has told the BBC.",
-            "ko": "실시간 보도 번역: The UK needs to do more back its own companies at a time when a growing number are choosing to list their shares in the US rather than at home, the boss of the London Stock Exchange (LSE) has told the BBC."
+            "en": "German Zverev was on course to climb above current world number one Jannik Sinner, who has been ruled out for the rest of the year with a knee injury.",
+            "ko": "실시간 보도 번역: German Zverev was on course to climb above current world number one Jannik Sinner, who has been ruled out for the rest of the year with a knee injury."
           }
         ]
       },
       {
-        "en": "Dame Julia Hoggett said the government needed to make it &quot;more attractive&quot; to invest in the UK stock market, otherwise big firms would continue to look overseas for their next stage of growth.",
+        "en": "Alcaraz still had a mathematical chance of stopping Zverev until he was beaten 7-5 7-6 (7-4) by Belgium&#x27;s Zizou Bergs in the third round on Monday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Dame Julia Hoggett said the government needed to make it &quot;more attractive&quot; to invest in the UK stock market, otherwise big firms would continue to look overseas for their next stage of growth.",
-            "ko": "실시간 보도 번역: Dame Julia Hoggett said the government needed to make it &quot;more attractive&quot; to invest in the UK stock market, otherwise big firms would continue to look overseas for their next stage of growth."
+            "en": "Alcaraz still had a mathematical chance of stopping Zverev until he was beaten 7-5 7-6 (7-4) by Belgium&#x27;s Zizou Bergs in the third round on Monday.",
+            "ko": "실시간 보도 번역: Alcaraz still had a mathematical chance of stopping Zverev until he was beaten 7-5 7-6 (7-4) by Belgium&#x27;s Zizou Bergs in the third round on Monday."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+      "글로벌 최신 소식: Zverev secures year-end number one ranking",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2489,14 +2562,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+          "Zverev secures year-end number one ranking",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_7588567797120154784",
@@ -3210,66 +3285,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_94774504170938251",
-    "title": "'Draining' few days for Gauff after online racist abuse",
-    "subtitle": "Coco Gauff says she had a \"draining\" few days after receiving racist abuse online before her fourth-round China Open exit....",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-07",
-    "addedAt": "2026-10-08T04:08:05Z",
-    "category": "sports",
+    "id": "auto_culture_8771223573280794269",
+    "title": "Breaking Bad actor RJ Mitte dies aged 34",
+    "subtitle": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-13",
+    "addedAt": "2026-10-13T05:07:05Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 138,
+    "wordCount": 110,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaBreaking Bad actor RJ Mitte dies aged 34To play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaBreaking Bad actor RJ Mitte dies aged 34To play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaBreaking Bad actor RJ Mitte dies aged 34To play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit.",
+        "en": "Watch: &quot;It&#x27;s nice to see everyone&quot;, says RJ Mitte at Breaking Bad reunion",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit.",
-            "ko": "실시간 보도 번역: Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit."
+            "en": "Watch: &quot;It&#x27;s nice to see everyone&quot;, says RJ Mitte at Breaking Bad reunion",
+            "ko": "실시간 보도 번역: Watch: &quot;It&#x27;s nice to see everyone&quot;, says RJ Mitte at Breaking Bad reunion"
           }
         ]
       },
       {
-        "en": "The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday.",
+        "en": "US actor RJ Mitte, best known for his role as the defiant son of drug kingpin Walter White in the drama series Breaking Bad, has died aged 34.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday.",
-            "ko": "실시간 보도 번역: The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday."
+            "en": "US actor RJ Mitte, best known for his role as the defiant son of drug kingpin Walter White in the drama series Breaking Bad, has died aged 34.",
+            "ko": "실시간 보도 번역: US actor RJ Mitte, best known for his role as the defiant son of drug kingpin Walter White in the drama series Breaking Bad, has died aged 34."
           }
         ]
       },
       {
-        "en": "China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court.",
+        "en": "&quot;It is with profound sadness that we share the tragic passing of beloved actor, philanthropist, and passionate disability rights advocate RJ Mitte,&quot; his representative told the BBC.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court.",
-            "ko": "실시간 보도 번역: China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court."
+            "en": "&quot;It is with profound sadness that we share the tragic passing of beloved actor, philanthropist, and passionate disability rights advocate RJ Mitte,&quot; his representative told the BBC.",
+            "ko": "실시간 보도 번역: &quot;It is with profound sadness that we share the tragic passing of beloved actor, philanthropist, and passionate disability rights advocate RJ Mitte,&quot; his representative told the BBC."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'Draining' few days for Gauff after online racist abuse",
+      "글로벌 최신 소식: Breaking Bad actor RJ Mitte dies aged 34",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3277,16 +3352,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'Draining' few days for Gauff after online racist abuse",
+          "Breaking Bad actor RJ Mitte dies aged 34",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_6611940235336488443",
@@ -3997,83 +4070,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_3074889563187392125",
-    "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
-    "subtitle": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-07",
-    "addedAt": "2026-10-08T04:08:07Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 129,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsOscar-winning actress Eva Marie Saint dies aged 102Image source, ReutersImage caption, Eve Marie Saint has two stars on the Hollywood Walk of Fame",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsOscar-winning actress Eva Marie Saint dies aged 102Image source, ReutersImage caption, Eve Marie Saint has two stars on the Hollywood Walk of Fame",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsOscar-winning actress Eva Marie Saint dies aged 102Image source, ReutersImage caption, Eve Marie Saint has two stars on the Hollywood Walk of Fame"
-          }
-        ]
-      },
-      {
-        "en": "Eva Marie Saint, the Oscar-winning actress who starred in Hollywood classics such as On the Waterfront and North by Northwest, has died aged 102.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Eva Marie Saint, the Oscar-winning actress who starred in Hollywood classics such as On the Waterfront and North by Northwest, has died aged 102.",
-            "ko": "실시간 보도 번역: Eva Marie Saint, the Oscar-winning actress who starred in Hollywood classics such as On the Waterfront and North by Northwest, has died aged 102."
-          }
-        ]
-      },
-      {
-        "en": "Saint won the Academy Award for best supporting actress for her movie debut in director Elia Kazan&#x27;s 1954 crime drama, On the Waterfront; playing Edie Doyle, the moral compass of the film and love interest of Marlon Brando&#x27;s conflicted boxer-turned-docker.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Saint won the Academy Award for best supporting actress for her movie debut in director Elia Kazan&#x27;s 1954 crime drama, On the Waterfront; playing Edie Doyle, the moral compass of the film and love interest of Marlon Brando&#x27;s conflicted boxer-turned-docker.",
-            "ko": "실시간 보도 번역: Saint won the Academy Award for best supporting actress for her movie debut in director Elia Kazan&#x27;s 1954 crime drama, On the Waterfront; playing Edie Doyle, the moral compass of the film and love interest of Marlon Brando&#x27;s conflicted boxer-turned-docker."
-          }
-        ]
-      },
-      {
-        "en": "Five years later, she portrayed femme fatale Eve Kendall, dangerously seducing Cary Grant&#x27;s entangled advertising executive in Alfred Hitchcock&#x27;s spy thriller, North by Northwest.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Five years later, she portrayed femme fatale Eve Kendall, dangerously seducing Cary Grant&#x27;s entangled advertising executive in Alfred Hitchcock&#x27;s spy thriller, North by Northwest.",
-            "ko": "실시간 보도 번역: Five years later, she portrayed femme fatale Eve Kendall, dangerously seducing Cary Grant&#x27;s entangled advertising executive in Alfred Hitchcock&#x27;s spy thriller, North by Northwest."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Oscar-winning actress Eva Marie Saint dies aged 102",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Oscar-winning actress Eva Marie Saint dies aged 102",
           "Historical retrospective",
           "Unrelated general weather"
         ],
