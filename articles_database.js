@@ -1,6 +1,91 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_5039239956000953090",
+    "title": "Dating app Bumble bought for $1.3bn",
+    "subtitle": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-13",
+    "addedAt": "2026-10-13T18:46:48Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 160,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble bought for $1.3bn in &#x27;bet on the future of humanity&#x27;Image source, Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Osmond Chia, Business reporterPublished13 October 2026, 02:36 BSTUpdated 2 hours agoDating app Bumble has been bought for $1.3bn (£980m) in what the new owners called &quot;a bet on the future of humanity&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble bought for $1.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble bought for $1."
+          },
+          {
+            "en": "3bn in &#x27;bet on the future of humanity&#x27;Image source, Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Osmond Chia, Business reporterPublished13 October 2026, 02:36 BSTUpdated 2 hours agoDating app Bumble has been bought for $1.",
+            "ko": "실시간 보도 번역: 3bn in &#x27;bet on the future of humanity&#x27;Image source, Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Osmond Chia, Business reporterPublished13 October 2026, 02:36 BSTUpdated 2 hours agoDating app Bumble has been bought for $1."
+          },
+          {
+            "en": "3bn (£980m) in what the new owners called &quot;a bet on the future of humanity&quot;.",
+            "ko": "실시간 보도 번역: 3bn (£980m) in what the new owners called &quot;a bet on the future of humanity&quot;."
+          }
+        ]
+      },
+      {
+        "en": "Investment firm Ithaca Holdings is taking over the loss-making firm and it directors, Ravi Gupta and John Hegeman, will become co-chief executives of the company which once differentiated itself by having a &quot;women-first&quot; chat rule.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Investment firm Ithaca Holdings is taking over the loss-making firm and it directors, Ravi Gupta and John Hegeman, will become co-chief executives of the company which once differentiated itself by having a &quot;women-first&quot; chat rule.",
+            "ko": "실시간 보도 번역: Investment firm Ithaca Holdings is taking over the loss-making firm and it directors, Ravi Gupta and John Hegeman, will become co-chief executives of the company which once differentiated itself by having a &quot;women-first&quot; chat rule."
+          }
+        ]
+      },
+      {
+        "en": "Whitney Wolfe Herd, Bumble&#x27;s founder and current chief executive, said she would remain &quot;actively involved&quot; with the business she set up 12 years ago.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Whitney Wolfe Herd, Bumble&#x27;s founder and current chief executive, said she would remain &quot;actively involved&quot; with the business she set up 12 years ago.",
+            "ko": "실시간 보도 번역: Whitney Wolfe Herd, Bumble&#x27;s founder and current chief executive, said she would remain &quot;actively involved&quot; with the business she set up 12 years ago."
+          }
+        ]
+      },
+      {
+        "en": "While it is unclear what Wolfe Herd&#x27;s role at the dating app will be, she said she will work closely with the new owners.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "While it is unclear what Wolfe Herd&#x27;s role at the dating app will be, she said she will work closely with the new owners.",
+            "ko": "실시간 보도 번역: While it is unclear what Wolfe Herd&#x27;s role at the dating app will be, she said she will work closely with the new owners."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Dating app Bumble bought for $1.3bn",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Dating app Bumble bought for $1.3bn",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_9001551634123272898",
     "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
     "subtitle": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn....",
@@ -710,66 +795,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_6479190971032052251",
-    "title": "Asos hackers took more personal details than first revealed, BBC finds",
-    "subtitle": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"...",
-    "speaker": "BBC Technology",
-    "date": "2026-10-08",
-    "addedAt": "2026-10-08T18:19:21Z",
-    "category": "tech",
+    "id": "auto_science_5089956962350596995",
+    "title": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
+    "subtitle": "El Niño has continued to strengthen, with several key measures now in record territory. Simon King explores how it compares to pre...",
+    "speaker": "BBC Science",
+    "date": "2026-10-13",
+    "addedAt": "2026-10-13T18:46:48Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 132,
+    "wordCount": 150,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAsos hackers took more personal details than first revealed, BBC findsImage source, AlamyByJoe TidyCyber correspondent, BBC World ServicePublished8 October 2026, 10:29 BSTUpdated 1 hour agoAsos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store&#x27;s users.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpSuper El Niño sets another record as it strengthens to &#x27;unprecedented levels&#x27;Image source, AFP via Getty ImagesImage caption, Flooded streets following the arrival of Hurricane Polo in the town of Puerto San Carlos, Baja California Sur, Mexico, on 29 September. The Category 3 storm added to an already busy hurricane season turbo-charged by El Niño.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAsos hackers took more personal details than first revealed, BBC findsImage source, AlamyByJoe TidyCyber correspondent, BBC World ServicePublished8 October 2026, 10:29 BSTUpdated 1 hour agoAsos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store&#x27;s users.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAsos hackers took more personal details than first revealed, BBC findsImage source, AlamyByJoe TidyCyber correspondent, BBC World ServicePublished8 October 2026, 10:29 BSTUpdated 1 hour agoAsos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store&#x27;s users."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpSuper El Niño sets another record as it strengthens to &#x27;unprecedented levels&#x27;Image source, AFP via Getty ImagesImage caption, Flooded streets following the arrival of Hurricane Polo in the town of Puerto San Carlos, Baja California Sur, Mexico, on 29 September.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpSuper El Niño sets another record as it strengthens to &#x27;unprecedented levels&#x27;Image source, AFP via Getty ImagesImage caption, Flooded streets following the arrival of Hurricane Polo in the town of Puerto San Carlos, Baja California Sur, Mexico, on 29 September."
+          },
+          {
+            "en": "The Category 3 storm added to an already busy hurricane season turbo-charged by El Niño.",
+            "ko": "실시간 보도 번역: The Category 3 storm added to an already busy hurricane season turbo-charged by El Niño."
           }
         ]
       },
       {
-        "en": "It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week&#x27;s breach went beyond the &quot;basic contact details&quot; Asos previously said might have been accessed.",
+        "en": "El Niño has continued to strengthen to what some scientists are calling &quot;unprecedented levels&quot;, weeks before its expected peak in December.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week&#x27;s breach went beyond the &quot;basic contact details&quot; Asos previously said might have been accessed.",
-            "ko": "실시간 보도 번역: It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week&#x27;s breach went beyond the &quot;basic contact details&quot; Asos previously said might have been accessed."
+            "en": "El Niño has continued to strengthen to what some scientists are calling &quot;unprecedented levels&quot;, weeks before its expected peak in December.",
+            "ko": "실시간 보도 번역: El Niño has continued to strengthen to what some scientists are calling &quot;unprecedented levels&quot;, weeks before its expected peak in December."
           }
         ]
       },
       {
-        "en": "Names, addresses, phone numbers, emails, customer numbers and dates of birth are now in the hands of criminals.",
+        "en": "In its latest update, Australia&#x27;s Bureau of Meteorology (BOM) said average weekly sea-surface temperatures in the central Pacific have reached their highest level on record, external.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Names, addresses, phone numbers, emails, customer numbers and dates of birth are now in the hands of criminals.",
-            "ko": "실시간 보도 번역: Names, addresses, phone numbers, emails, customer numbers and dates of birth are now in the hands of criminals."
+            "en": "In its latest update, Australia&#x27;s Bureau of Meteorology (BOM) said average weekly sea-surface temperatures in the central Pacific have reached their highest level on record, external.",
+            "ko": "실시간 보도 번역: In its latest update, Australia&#x27;s Bureau of Meteorology (BOM) said average weekly sea-surface temperatures in the central Pacific have reached their highest level on record, external."
           }
         ]
       },
       {
-        "en": "One victim told the BBC it was &quot;very unsettling&quot; that the hackers now know these things about her.",
+        "en": "It comes after scientists declared a new record for daily sea surface temperatures in the central-eastern Pacific in September, exceeding the previous record set during the very strong El Niño of 2015.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "One victim told the BBC it was &quot;very unsettling&quot; that the hackers now know these things about her.",
-            "ko": "실시간 보도 번역: One victim told the BBC it was &quot;very unsettling&quot; that the hackers now know these things about her."
+            "en": "It comes after scientists declared a new record for daily sea surface temperatures in the central-eastern Pacific in September, exceeding the previous record set during the very strong El Niño of 2015.",
+            "ko": "실시간 보도 번역: It comes after scientists declared a new record for daily sea surface temperatures in the central-eastern Pacific in September, exceeding the previous record set during the very strong El Niño of 2015."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Asos hackers took more personal details than first revealed, BBC finds",
+      "글로벌 최신 소식: Super El Niño sets another record as it strengthens to 'unprecedented levels'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -777,7 +866,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Asos hackers took more personal details than first revealed, BBC finds",
+          "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1632,70 +1721,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_7066409150992263271",
-    "title": "First Hurricane of the Atlantic season due to hit the Gulf coast",
-    "subtitle": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern US...",
-    "speaker": "BBC Science",
-    "date": "2026-10-08",
-    "addedAt": "2026-10-08T18:19:22Z",
-    "category": "science",
+    "id": "auto_economy_122162282199446428",
+    "title": "Three things we've learnt about the UK economy from the IMF",
+    "subtitle": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain....",
+    "speaker": "BBC Business",
+    "date": "2026-10-13",
+    "addedAt": "2026-10-13T18:46:48Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 118,
+    "wordCount": 127,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFirst Hurricane of the Atlantic season due to hit the Gulf coastImage source, BBC WeatherImage caption, Hurricane Isaias continues to strengthen in the Gulf of Mexico",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessThree things we&#x27;ve learnt about the UK economy from the IMFImage source, Getty ImagesByMitchell LabiakBusiness reporterPublished6 hours agoCountries around the world have had their future economic prospects assessed by  influential body, the International Monetary Fund (IMF).",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFirst Hurricane of the Atlantic season due to hit the Gulf coastImage source, BBC WeatherImage caption, Hurricane Isaias continues to strengthen in the Gulf of Mexico",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFirst Hurricane of the Atlantic season due to hit the Gulf coastImage source, BBC WeatherImage caption, Hurricane Isaias continues to strengthen in the Gulf of Mexico"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessThree things we&#x27;ve learnt about the UK economy from the IMFImage source, Getty ImagesByMitchell LabiakBusiness reporterPublished6 hours agoCountries around the world have had their future economic prospects assessed by  influential body, the International Monetary Fund (IMF).",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessThree things we&#x27;ve learnt about the UK economy from the IMFImage source, Getty ImagesByMitchell LabiakBusiness reporterPublished6 hours agoCountries around the world have had their future economic prospects assessed by  influential body, the International Monetary Fund (IMF)."
           }
         ]
       },
       {
-        "en": "Isaias has strengthened to the first hurricane of the Atlantic season this year and will make landfall over the coming days.",
+        "en": "What the IMF says matters – it aims to keep the global economy stable and its twice-yearly forecasts are one of the most authoritative looks at what is really going on around the world.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Isaias has strengthened to the first hurricane of the Atlantic season this year and will make landfall over the coming days.",
-            "ko": "실시간 보도 번역: Isaias has strengthened to the first hurricane of the Atlantic season this year and will make landfall over the coming days."
+            "en": "What the IMF says matters – it aims to keep the global economy stable and its twice-yearly forecasts are one of the most authoritative looks at what is really going on around the world.",
+            "ko": "실시간 보도 번역: What the IMF says matters – it aims to keep the global economy stable and its twice-yearly forecasts are one of the most authoritative looks at what is really going on around the world."
           }
         ]
       },
       {
-        "en": "Early on Thursday morning it became a category one hurricane with sustained wind speeds in excess of 80mph (129km/h)",
+        "en": "Yet like all forecasts they can also turn out to be incorrect, so they shouldn&#x27;t be treated as gospel.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Early on Thursday morning it became a category one hurricane with sustained wind speeds in excess of 80mph (129km/h)",
-            "ko": "실시간 보도 번역: Early on Thursday morning it became a category one hurricane with sustained wind speeds in excess of 80mph (129km/h)"
+            "en": "Yet like all forecasts they can also turn out to be incorrect, so they shouldn&#x27;t be treated as gospel.",
+            "ko": "실시간 보도 번역: Yet like all forecasts they can also turn out to be incorrect, so they shouldn&#x27;t be treated as gospel."
           }
         ]
       },
       {
-        "en": "It has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday. Hurricane and Storm Surge Watches have been issued.",
+        "en": "Here are three things we&#x27;ve learnt about the UK from the IMF&#x27;s latest report.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday.",
-            "ko": "실시간 보도 번역: It has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday."
-          },
-          {
-            "en": "Hurricane and Storm Surge Watches have been issued.",
-            "ko": "실시간 보도 번역: Hurricane and Storm Surge Watches have been issued."
+            "en": "Here are three things we&#x27;ve learnt about the UK from the IMF&#x27;s latest report.",
+            "ko": "실시간 보도 번역: Here are three things we&#x27;ve learnt about the UK from the IMF&#x27;s latest report."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: First Hurricane of the Atlantic season due to hit the Gulf coast",
+      "글로벌 최신 소식: Three things we've learnt about the UK economy from the IMF",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1703,7 +1788,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "First Hurricane of the Atlantic season due to hit the Gulf coast",
+          "Three things we've learnt about the UK economy from the IMF",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2418,66 +2503,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_6479190971032052251",
-    "title": "Asos hackers took more personal details than first revealed, BBC finds",
-    "subtitle": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"...",
-    "speaker": "BBC Business",
-    "date": "2026-10-08",
-    "addedAt": "2026-10-08T18:19:22Z",
-    "category": "economy",
+    "id": "auto_sports_549358696513408307",
+    "title": "Boulter beaten by Shnaider in Wuhan",
+    "subtitle": "British number one Katie Boulter loses to Diana Shnaider in the Wuhan Open first round....",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-13",
+    "addedAt": "2026-10-13T18:46:49Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
     "wordCount": 132,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAsos hackers took more personal details than first revealed, BBC findsImage source, AlamyByJoe TidyCyber correspondent, BBC World ServicePublished8 October 2026, 10:29 BSTUpdated 1 hour agoAsos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store&#x27;s users.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter beaten by Shnaider in WuhanImage source, Getty ImagesImage caption, Katie Boulter is the 23rd woman to hold the British number one ranking",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAsos hackers took more personal details than first revealed, BBC findsImage source, AlamyByJoe TidyCyber correspondent, BBC World ServicePublished8 October 2026, 10:29 BSTUpdated 1 hour agoAsos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store&#x27;s users.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAsos hackers took more personal details than first revealed, BBC findsImage source, AlamyByJoe TidyCyber correspondent, BBC World ServicePublished8 October 2026, 10:29 BSTUpdated 1 hour agoAsos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store&#x27;s users."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter beaten by Shnaider in WuhanImage source, Getty ImagesImage caption, Katie Boulter is the 23rd woman to hold the British number one ranking",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter beaten by Shnaider in WuhanImage source, Getty ImagesImage caption, Katie Boulter is the 23rd woman to hold the British number one ranking"
           }
         ]
       },
       {
-        "en": "It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week&#x27;s breach went beyond the &quot;basic contact details&quot; Asos previously said might have been accessed.",
+        "en": "British number one Katie Boulter is out of the Wuhan Open after a first-round defeat by Russian Diana Shnaider.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week&#x27;s breach went beyond the &quot;basic contact details&quot; Asos previously said might have been accessed.",
-            "ko": "실시간 보도 번역: It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week&#x27;s breach went beyond the &quot;basic contact details&quot; Asos previously said might have been accessed."
+            "en": "British number one Katie Boulter is out of the Wuhan Open after a first-round defeat by Russian Diana Shnaider.",
+            "ko": "실시간 보도 번역: British number one Katie Boulter is out of the Wuhan Open after a first-round defeat by Russian Diana Shnaider."
           }
         ]
       },
       {
-        "en": "Names, addresses, phone numbers, emails, customer numbers and dates of birth are now in the hands of criminals.",
+        "en": "After a competitive first set, Boulter lost her serve four times in the second as world number 13 Shnaider convincingly won 6-3 6-1 in one hour and 30 minutes.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Names, addresses, phone numbers, emails, customer numbers and dates of birth are now in the hands of criminals.",
-            "ko": "실시간 보도 번역: Names, addresses, phone numbers, emails, customer numbers and dates of birth are now in the hands of criminals."
+            "en": "After a competitive first set, Boulter lost her serve four times in the second as world number 13 Shnaider convincingly won 6-3 6-1 in one hour and 30 minutes.",
+            "ko": "실시간 보도 번역: After a competitive first set, Boulter lost her serve four times in the second as world number 13 Shnaider convincingly won 6-3 6-1 in one hour and 30 minutes."
           }
         ]
       },
       {
-        "en": "One victim told the BBC it was &quot;very unsettling&quot; that the hackers now know these things about her.",
+        "en": "This has been a largely disappointing season for Boulter, who is ranked 54th in the world and has posted just two wins across the four Grand Slam tournaments.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "One victim told the BBC it was &quot;very unsettling&quot; that the hackers now know these things about her.",
-            "ko": "실시간 보도 번역: One victim told the BBC it was &quot;very unsettling&quot; that the hackers now know these things about her."
+            "en": "This has been a largely disappointing season for Boulter, who is ranked 54th in the world and has posted just two wins across the four Grand Slam tournaments.",
+            "ko": "실시간 보도 번역: This has been a largely disappointing season for Boulter, who is ranked 54th in the world and has posted just two wins across the four Grand Slam tournaments."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Asos hackers took more personal details than first revealed, BBC finds",
+      "글로벌 최신 소식: Boulter beaten by Shnaider in Wuhan",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2485,14 +2570,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Asos hackers took more personal details than first revealed, BBC finds",
+          "Boulter beaten by Shnaider in Wuhan",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_7629168317560629683",
@@ -3206,66 +3293,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_7614248148985463587",
-    "title": "'Draining' few days for Gauff after online racist abuse",
-    "subtitle": "Coco Gauff says she had a \"draining\" few days after receiving racist abuse online before her fourth-round China Open exit....",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-07",
-    "addedAt": "2026-10-08T18:19:23Z",
-    "category": "sports",
+    "id": "auto_culture_475625501798738775",
+    "title": "How Breaking Bad's RJ Mitte changed the way we see cerebral palsy",
+    "subtitle": "The star, who has died at the age of 34, fought for better representation of disabilities on screen....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-13",
+    "addedAt": "2026-10-13T18:46:50Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 138,
+    "wordCount": 93,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow Breaking Bad&#x27;s RJ Mitte changed the way we see cerebral palsyTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow Breaking Bad&#x27;s RJ Mitte changed the way we see cerebral palsyTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow Breaking Bad&#x27;s RJ Mitte changed the way we see cerebral palsyTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit.",
+        "en": "&#x27;Disabled or not, everyone deserves an opportunity,&#x27; RJ Mitte says in 2015 BBC interview",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit.",
-            "ko": "실시간 보도 번역: Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit."
+            "en": "&#x27;Disabled or not, everyone deserves an opportunity,&#x27; RJ Mitte says in 2015 BBC interview",
+            "ko": "실시간 보도 번역: &#x27;Disabled or not, everyone deserves an opportunity,&#x27; RJ Mitte says in 2015 BBC interview"
           }
         ]
       },
       {
-        "en": "The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday.",
+        "en": "&quot;I have cerebral palsy but I&#x27;ve never let it hold me back.&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday.",
-            "ko": "실시간 보도 번역: The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday."
+            "en": "&quot;I have cerebral palsy but I&#x27;ve never let it hold me back.",
+            "ko": "실시간 보도 번역: &quot;I have cerebral palsy but I&#x27;ve never let it hold me back."
           }
         ]
       },
       {
-        "en": "China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court.",
+        "en": "Those are the words of a 22-year-old Breaking Bad star RJ Mitte in an essay for Huffpost, external back in 2014.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court.",
-            "ko": "실시간 보도 번역: China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court."
+            "en": "Those are the words of a 22-year-old Breaking Bad star RJ Mitte in an essay for Huffpost, external back in 2014.",
+            "ko": "실시간 보도 번역: Those are the words of a 22-year-old Breaking Bad star RJ Mitte in an essay for Huffpost, external back in 2014."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'Draining' few days for Gauff after online racist abuse",
+      "글로벌 최신 소식: How Breaking Bad's RJ Mitte changed the way we see cerebral palsy",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3273,16 +3360,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'Draining' few days for Gauff after online racist abuse",
+          "How Breaking Bad's RJ Mitte changed the way we see cerebral palsy",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_8771223573280794269",
@@ -3985,91 +4070,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Emotions run high at the round table as Celebrity Traitors banish two players",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_3638908856577588886",
-    "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-    "subtitle": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-08",
-    "addedAt": "2026-10-08T18:19:25Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 135,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; Arts&#x27;Bold and inventive&#x27; Canadian poet Anne Carson wins Nobel Literature PrizeImage source, AlamyByIan YoungsCulture reporterPublished8 October 2026, 12:03 BSTUpdated 3 hours agoCanadian poet, essayist and translator Anne Carson has been awarded this year&#x27;s Nobel Prize in Literature.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; Arts&#x27;Bold and inventive&#x27; Canadian poet Anne Carson wins Nobel Literature PrizeImage source, AlamyByIan YoungsCulture reporterPublished8 October 2026, 12:03 BSTUpdated 3 hours agoCanadian poet, essayist and translator Anne Carson has been awarded this year&#x27;s Nobel Prize in Literature.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; Arts&#x27;Bold and inventive&#x27; Canadian poet Anne Carson wins Nobel Literature PrizeImage source, AlamyByIan YoungsCulture reporterPublished8 October 2026, 12:03 BSTUpdated 3 hours agoCanadian poet, essayist and translator Anne Carson has been awarded this year&#x27;s Nobel Prize in Literature."
-          }
-        ]
-      },
-      {
-        "en": "Carson, 76, is celebrated for works that often cross the boundaries between poetry, fiction and scholarship.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Carson, 76, is celebrated for works that often cross the boundaries between poetry, fiction and scholarship.",
-            "ko": "실시간 보도 번역: Carson, 76, is celebrated for works that often cross the boundaries between poetry, fiction and scholarship."
-          }
-        ]
-      },
-      {
-        "en": "The Nobel Prize committee said they had selected her &quot;for her bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The Nobel Prize committee said they had selected her &quot;for her bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature&quot;.",
-            "ko": "실시간 보도 번역: The Nobel Prize committee said they had selected her &quot;for her bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature&quot;."
-          }
-        ]
-      },
-      {
-        "en": "Carson responded by joking that the judges were &quot;crazy&quot; for honouring her. &quot;I think they&#x27;re all crazy... Well, you know, it&#x27;s crazy,&quot; she told public broadcaster RUV in Iceland, where she is currently staying.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Carson responded by joking that the judges were &quot;crazy&quot; for honouring her.",
-            "ko": "실시간 보도 번역: Carson responded by joking that the judges were &quot;crazy&quot; for honouring her."
-          },
-          {
-            "en": "&quot;I think they&#x27;re all crazy...",
-            "ko": "실시간 보도 번역: &quot;I think they&#x27;re all crazy..."
-          },
-          {
-            "en": "Well, you know, it&#x27;s crazy,&quot; she told public broadcaster RUV in Iceland, where she is currently staying.",
-            "ko": "실시간 보도 번역: Well, you know, it&#x27;s crazy,&quot; she told public broadcaster RUV in Iceland, where she is currently staying."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: 'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
           "Historical retrospective",
           "Unrelated general weather"
         ],
