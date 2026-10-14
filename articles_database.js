@@ -1,6 +1,91 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_6178227025567495499",
+    "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+    "subtitle": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-13",
+    "addedAt": "2026-10-14T03:13:53Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 155,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble bought for $1.3bn in &#x27;bet on the future of humanity&#x27;Image source, Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Osmond Chia, Business reporterPublished13 October 2026Dating app Bumble has been bought for $1.3bn (£980m) in what the new owners called &quot;a bet on the future of humanity&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble bought for $1.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble bought for $1."
+          },
+          {
+            "en": "3bn in &#x27;bet on the future of humanity&#x27;Image source, Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Osmond Chia, Business reporterPublished13 October 2026Dating app Bumble has been bought for $1.",
+            "ko": "실시간 보도 번역: 3bn in &#x27;bet on the future of humanity&#x27;Image source, Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Osmond Chia, Business reporterPublished13 October 2026Dating app Bumble has been bought for $1."
+          },
+          {
+            "en": "3bn (£980m) in what the new owners called &quot;a bet on the future of humanity&quot;.",
+            "ko": "실시간 보도 번역: 3bn (£980m) in what the new owners called &quot;a bet on the future of humanity&quot;."
+          }
+        ]
+      },
+      {
+        "en": "Investment firm Ithaca Holdings is taking over the loss-making firm and it directors, Ravi Gupta and John Hegeman, will become co-chief executives of the company which once differentiated itself by having a &quot;women-first&quot; chat rule.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Investment firm Ithaca Holdings is taking over the loss-making firm and it directors, Ravi Gupta and John Hegeman, will become co-chief executives of the company which once differentiated itself by having a &quot;women-first&quot; chat rule.",
+            "ko": "실시간 보도 번역: Investment firm Ithaca Holdings is taking over the loss-making firm and it directors, Ravi Gupta and John Hegeman, will become co-chief executives of the company which once differentiated itself by having a &quot;women-first&quot; chat rule."
+          }
+        ]
+      },
+      {
+        "en": "Whitney Wolfe Herd, Bumble&#x27;s founder and current chief executive, said she would remain &quot;actively involved&quot; with the business she set up 12 years ago.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Whitney Wolfe Herd, Bumble&#x27;s founder and current chief executive, said she would remain &quot;actively involved&quot; with the business she set up 12 years ago.",
+            "ko": "실시간 보도 번역: Whitney Wolfe Herd, Bumble&#x27;s founder and current chief executive, said she would remain &quot;actively involved&quot; with the business she set up 12 years ago."
+          }
+        ]
+      },
+      {
+        "en": "While it is unclear what Wolfe Herd&#x27;s role at the dating app will be, she said she will work closely with the new owners.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "While it is unclear what Wolfe Herd&#x27;s role at the dating app will be, she said she will work closely with the new owners.",
+            "ko": "실시간 보도 번역: While it is unclear what Wolfe Herd&#x27;s role at the dating app will be, she said she will work closely with the new owners."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Bumble bought for $1.3bn in 'bet on the future of humanity'",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_5039239956000953090",
     "title": "Dating app Bumble bought for $1.3bn",
     "subtitle": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm....",
@@ -710,74 +795,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_5233268803151484515",
-    "title": "Why are more roofs not made of solar tiles?",
-    "subtitle": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?...",
-    "speaker": "BBC Technology",
-    "date": "2026-10-08",
-    "addedAt": "2026-10-09T04:13:27Z",
-    "category": "tech",
+    "id": "auto_science_2390726777389401500",
+    "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
+    "subtitle": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich exp...",
+    "speaker": "BBC Science",
+    "date": "2026-10-13",
+    "addedAt": "2026-10-14T03:13:53Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 130,
+    "wordCount": 143,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWhy are more roofs not made of solar tiles?Image source, Solar Energy InternationalImage caption, From installer to instructor Kate Collardson (left) has a long history in solar systems",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpGales and heavy rain to impact UK as yellow wind warning issuedImage source, Andrew Milligan/PA WireByBen RichLead Weather PresenterPublished3 hours agoA weather system containing the remnants of Hurricane Isaias is forecast to send gales, heavy rain and a surge of warm air to parts of the UK this week.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWhy are more roofs not made of solar tiles?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWhy are more roofs not made of solar tiles?"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpGales and heavy rain to impact UK as yellow wind warning issuedImage source, Andrew Milligan/PA WireByBen RichLead Weather PresenterPublished3 hours agoA weather system containing the remnants of Hurricane Isaias is forecast to send gales, heavy rain and a surge of warm air to parts of the UK this week.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpGales and heavy rain to impact UK as yellow wind warning issuedImage source, Andrew Milligan/PA WireByBen RichLead Weather PresenterPublished3 hours agoA weather system containing the remnants of Hurricane Isaias is forecast to send gales, heavy rain and a surge of warm air to parts of the UK this week."
           }
         ]
       },
       {
-        "en": "Some people in the US &quot;still hate the look of solar&quot;, Kate Collardson acknowledges.",
+        "en": "The centre of the low, and its most significant impacts, will stay hundreds of miles from UK shores but north-west Scotland will see a spell of gales.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Some people in the US &quot;still hate the look of solar&quot;, Kate Collardson acknowledges.",
-            "ko": "실시간 보도 번역: Some people in the US &quot;still hate the look of solar&quot;, Kate Collardson acknowledges."
+            "en": "The centre of the low, and its most significant impacts, will stay hundreds of miles from UK shores but north-west Scotland will see a spell of gales.",
+            "ko": "실시간 보도 번역: The centre of the low, and its most significant impacts, will stay hundreds of miles from UK shores but north-west Scotland will see a spell of gales."
           }
         ]
       },
       {
-        "en": "She would know. Collardson handles operations for the Solar Service of Colorado, a solar maintenance and inspection company. She&#x27;s also held just about every other job in the industry, from installer to instructor.",
+        "en": "A Met Office yellow warning has been issued for parts of the Highlands and Western Isles with the risk of gusts touching 70mph (113km/h) in places.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "She would know.",
-            "ko": "실시간 보도 번역: She would know."
-          },
-          {
-            "en": "Collardson handles operations for the Solar Service of Colorado, a solar maintenance and inspection company.",
-            "ko": "실시간 보도 번역: Collardson handles operations for the Solar Service of Colorado, a solar maintenance and inspection company."
-          },
-          {
-            "en": "She&#x27;s also held just about every other job in the industry, from installer to instructor.",
-            "ko": "실시간 보도 번역: She&#x27;s also held just about every other job in the industry, from installer to instructor."
+            "en": "A Met Office yellow warning has been issued for parts of the Highlands and Western Isles with the risk of gusts touching 70mph (113km/h) in places.",
+            "ko": "실시간 보도 번역: A Met Office yellow warning has been issued for parts of the Highlands and Western Isles with the risk of gusts touching 70mph (113km/h) in places."
           }
         ]
       },
       {
-        "en": "For those that hate the look of solar panels, an alternative is a solar roof, where the tiles (or shingles) house solar cells, but look much the same as regular tiles.",
+        "en": "Heavy rain will also affect parts of Scotland and Northern Ireland but much of England and Wales will remain largely dry with spells of sunshine.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "For those that hate the look of solar panels, an alternative is a solar roof, where the tiles (or shingles) house solar cells, but look much the same as regular tiles.",
-            "ko": "실시간 보도 번역: For those that hate the look of solar panels, an alternative is a solar roof, where the tiles (or shingles) house solar cells, but look much the same as regular tiles."
+            "en": "Heavy rain will also affect parts of Scotland and Northern Ireland but much of England and Wales will remain largely dry with spells of sunshine.",
+            "ko": "실시간 보도 번역: Heavy rain will also affect parts of Scotland and Northern Ireland but much of England and Wales will remain largely dry with spells of sunshine."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Why are more roofs not made of solar tiles?",
+      "글로벌 최신 소식: Gales and heavy rain to impact UK as yellow wind warning issued",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -785,7 +862,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Why are more roofs not made of solar tiles?",
+          "Gales and heavy rain to impact UK as yellow wind warning issued",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1636,74 +1713,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_5233268803151484515",
-    "title": "Why are more roofs not made of solar tiles?",
-    "subtitle": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?...",
-    "speaker": "BBC Science",
-    "date": "2026-10-08",
-    "addedAt": "2026-10-09T04:13:27Z",
-    "category": "science",
+    "id": "auto_economy_5192540087161951266",
+    "title": "Royal Mail losing 400 postal workers a week, says union",
+    "subtitle": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of off...",
+    "speaker": "BBC Business",
+    "date": "2026-10-13",
+    "addedAt": "2026-10-14T03:13:54Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 130,
+    "wordCount": 169,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWhy are more roofs not made of solar tiles?Image source, Solar Energy InternationalImage caption, From installer to instructor Kate Collardson (left) has a long history in solar systems",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRoyal Mail losing 400 postal workers a week, says unionImage source, Getty ImagesByColletta Smith, BBC Your Voice correspondent and Elaine Doran, BBC Your Voice producerPublished4 hours agoAbout 400 postmen and women are leaving Royal Mail per week, according to the Communication Workers Union (CWU), who claims this number has gone up since the company introduced a new delivery system earlier this year.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWhy are more roofs not made of solar tiles?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessWhy are more roofs not made of solar tiles?"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRoyal Mail losing 400 postal workers a week, says unionImage source, Getty ImagesByColletta Smith, BBC Your Voice correspondent and Elaine Doran, BBC Your Voice producerPublished4 hours agoAbout 400 postmen and women are leaving Royal Mail per week, according to the Communication Workers Union (CWU), who claims this number has gone up since the company introduced a new delivery system earlier this year.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRoyal Mail losing 400 postal workers a week, says unionImage source, Getty ImagesByColletta Smith, BBC Your Voice correspondent and Elaine Doran, BBC Your Voice producerPublished4 hours agoAbout 400 postmen and women are leaving Royal Mail per week, according to the Communication Workers Union (CWU), who claims this number has gone up since the company introduced a new delivery system earlier this year."
           }
         ]
       },
       {
-        "en": "Some people in the US &quot;still hate the look of solar&quot;, Kate Collardson acknowledges.",
+        "en": "The CWU says the firm had been losing about 330 postal staff a week from a workforce of 83,000 before it rolled out DM26, which reorganised routes to improve delivery performance.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Some people in the US &quot;still hate the look of solar&quot;, Kate Collardson acknowledges.",
-            "ko": "실시간 보도 번역: Some people in the US &quot;still hate the look of solar&quot;, Kate Collardson acknowledges."
+            "en": "The CWU says the firm had been losing about 330 postal staff a week from a workforce of 83,000 before it rolled out DM26, which reorganised routes to improve delivery performance.",
+            "ko": "실시간 보도 번역: The CWU says the firm had been losing about 330 postal staff a week from a workforce of 83,000 before it rolled out DM26, which reorganised routes to improve delivery performance."
           }
         ]
       },
       {
-        "en": "She would know. Collardson handles operations for the Solar Service of Colorado, a solar maintenance and inspection company. She&#x27;s also held just about every other job in the industry, from installer to instructor.",
+        "en": "The union claims the new system is not working in hundreds of offices, and BBC Your Voice has heard from staff warning of a &quot;nightmare&quot; Christmas ahead as the number of parcels increases.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "She would know.",
-            "ko": "실시간 보도 번역: She would know."
-          },
-          {
-            "en": "Collardson handles operations for the Solar Service of Colorado, a solar maintenance and inspection company.",
-            "ko": "실시간 보도 번역: Collardson handles operations for the Solar Service of Colorado, a solar maintenance and inspection company."
-          },
-          {
-            "en": "She&#x27;s also held just about every other job in the industry, from installer to instructor.",
-            "ko": "실시간 보도 번역: She&#x27;s also held just about every other job in the industry, from installer to instructor."
+            "en": "The union claims the new system is not working in hundreds of offices, and BBC Your Voice has heard from staff warning of a &quot;nightmare&quot; Christmas ahead as the number of parcels increases.",
+            "ko": "실시간 보도 번역: The union claims the new system is not working in hundreds of offices, and BBC Your Voice has heard from staff warning of a &quot;nightmare&quot; Christmas ahead as the number of parcels increases."
           }
         ]
       },
       {
-        "en": "For those that hate the look of solar panels, an alternative is a solar roof, where the tiles (or shingles) house solar cells, but look much the same as regular tiles.",
+        "en": "Royal Mail says the reforms are part of its plan to deliver a more &quot;efficient and financially sustainable&quot; service.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "For those that hate the look of solar panels, an alternative is a solar roof, where the tiles (or shingles) house solar cells, but look much the same as regular tiles.",
-            "ko": "실시간 보도 번역: For those that hate the look of solar panels, an alternative is a solar roof, where the tiles (or shingles) house solar cells, but look much the same as regular tiles."
+            "en": "Royal Mail says the reforms are part of its plan to deliver a more &quot;efficient and financially sustainable&quot; service.",
+            "ko": "실시간 보도 번역: Royal Mail says the reforms are part of its plan to deliver a more &quot;efficient and financially sustainable&quot; service."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Why are more roofs not made of solar tiles?",
+      "글로벌 최신 소식: Royal Mail losing 400 postal workers a week, says union",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1711,7 +1780,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Why are more roofs not made of solar tiles?",
+          "Royal Mail losing 400 postal workers a week, says union",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2418,74 +2487,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_4357724109916875049",
-    "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-    "subtitle": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech co...",
-    "speaker": "BBC Business",
-    "date": "2026-10-08",
-    "addedAt": "2026-10-09T04:13:27Z",
-    "category": "economy",
+    "id": "auto_sports_6309332497310380426",
+    "title": "Boulter beaten by Shnaider in Wuhan",
+    "subtitle": "British number one Katie Boulter loses to Diana Shnaider in the Wuhan Open first round....",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-13",
+    "addedAt": "2026-10-14T03:13:54Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 148,
+    "wordCount": 132,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatMark Zuckerberg has an image problem - so why is Meta&#x27;s business booming?",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter beaten by Shnaider in WuhanImage source, Getty ImagesImage caption, Katie Boulter is the 23rd woman to hold the British number one ranking",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatMark Zuckerberg has an image problem - so why is Meta&#x27;s business booming?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatMark Zuckerberg has an image problem - so why is Meta&#x27;s business booming?"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter beaten by Shnaider in WuhanImage source, Getty ImagesImage caption, Katie Boulter is the 23rd woman to hold the British number one ranking",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter beaten by Shnaider in WuhanImage source, Getty ImagesImage caption, Katie Boulter is the 23rd woman to hold the British number one ranking"
           }
         ]
       },
       {
-        "en": "Image source, CQ-Roll Call, Inc via Getty Images / CTMG, Inc./Leah GalByLily JamaliNorth America Technology correspondentMark Zuckerberg was just three minutes into his keynote speech at the company&#x27;s annual Meta Connect product event last month when his tone turned almost wistful.",
+        "en": "British number one Katie Boulter is out of the Wuhan Open after a first-round defeat by Russian Diana Shnaider.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Image source, CQ-Roll Call, Inc via Getty Images / CTMG, Inc.",
-            "ko": "실시간 보도 번역: Image source, CQ-Roll Call, Inc via Getty Images / CTMG, Inc."
-          },
-          {
-            "en": "/Leah GalByLily JamaliNorth America Technology correspondentMark Zuckerberg was just three minutes into his keynote speech at the company&#x27;s annual Meta Connect product event last month when his tone turned almost wistful.",
-            "ko": "실시간 보도 번역: /Leah GalByLily JamaliNorth America Technology correspondentMark Zuckerberg was just three minutes into his keynote speech at the company&#x27;s annual Meta Connect product event last month when his tone turned almost wistful."
+            "en": "British number one Katie Boulter is out of the Wuhan Open after a first-round defeat by Russian Diana Shnaider.",
+            "ko": "실시간 보도 번역: British number one Katie Boulter is out of the Wuhan Open after a first-round defeat by Russian Diana Shnaider."
           }
         ]
       },
       {
-        "en": "&quot;Building is an act of love,&quot; he said, glancing down at the ground with his hands in his pockets. &quot;It&#x27;s how we impart what we believe, and we pour our hearts and our souls into what we make.&quot;",
+        "en": "After a competitive first set, Boulter lost her serve four times in the second as world number 13 Shnaider convincingly won 6-3 6-1 in one hour and 30 minutes.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Building is an act of love,&quot; he said, glancing down at the ground with his hands in his pockets.",
-            "ko": "실시간 보도 번역: &quot;Building is an act of love,&quot; he said, glancing down at the ground with his hands in his pockets."
-          },
-          {
-            "en": "&quot;It&#x27;s how we impart what we believe, and we pour our hearts and our souls into what we make.",
-            "ko": "실시간 보도 번역: &quot;It&#x27;s how we impart what we believe, and we pour our hearts and our souls into what we make."
+            "en": "After a competitive first set, Boulter lost her serve four times in the second as world number 13 Shnaider convincingly won 6-3 6-1 in one hour and 30 minutes.",
+            "ko": "실시간 보도 번역: After a competitive first set, Boulter lost her serve four times in the second as world number 13 Shnaider convincingly won 6-3 6-1 in one hour and 30 minutes."
           }
         ]
       },
       {
-        "en": "Speaking to hundreds of analysts and developers, Zuckerberg proceeded to share news about Meta&#x27;s latest AI products: its new agentic chatbot Muse, a slew of smart glasses, as well as a Tamagotchi-like AI gadget users can attach to their wrists.",
+        "en": "This has been a largely disappointing season for Boulter, who is ranked 54th in the world and has posted just two wins across the four Grand Slam tournaments.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Speaking to hundreds of analysts and developers, Zuckerberg proceeded to share news about Meta&#x27;s latest AI products: its new agentic chatbot Muse, a slew of smart glasses, as well as a Tamagotchi-like AI gadget users can attach to their wrists.",
-            "ko": "실시간 보도 번역: Speaking to hundreds of analysts and developers, Zuckerberg proceeded to share news about Meta&#x27;s latest AI products: its new agentic chatbot Muse, a slew of smart glasses, as well as a Tamagotchi-like AI gadget users can attach to their wrists."
+            "en": "This has been a largely disappointing season for Boulter, who is ranked 54th in the world and has posted just two wins across the four Grand Slam tournaments.",
+            "ko": "실시간 보도 번역: This has been a largely disappointing season for Boulter, who is ranked 54th in the world and has posted just two wins across the four Grand Slam tournaments."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+      "글로벌 최신 소식: Boulter beaten by Shnaider in Wuhan",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2493,14 +2554,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+          "Boulter beaten by Shnaider in Wuhan",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_549358696513408307",
@@ -3214,66 +3277,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_5468090361067596639",
-    "title": "'Draining' few days for Gauff after online racist abuse",
-    "subtitle": "Coco Gauff says she had a \"draining\" few days after receiving racist abuse online before her fourth-round China Open exit....",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-07",
-    "addedAt": "2026-10-09T04:13:28Z",
-    "category": "sports",
+    "id": "auto_culture_6027511347753351478",
+    "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+    "subtitle": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-13",
+    "addedAt": "2026-10-14T03:13:55Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 138,
+    "wordCount": 123,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEx-gang boss sentenced to 40 years for orchestrating Tupac Shakur&#x27;s murderTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendar&#x27;Draining&#x27; few days for Gauff after online racist abuseImage source, Getty ImagesImage caption, Coco Gauff won the China Open in 2024 and reached the semi-finals last year"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEx-gang boss sentenced to 40 years for orchestrating Tupac Shakur&#x27;s murderTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEx-gang boss sentenced to 40 years for orchestrating Tupac Shakur&#x27;s murderTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit.",
+        "en": "Watch: Moment Duane Davis is sentenced to 40 years for Tupac Shakur&#x27;s murder",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit.",
-            "ko": "실시간 보도 번역: Coco Gauff said she had a &quot;draining&quot; few days after receiving racist abuse online before her fourth-round China Open exit."
+            "en": "Watch: Moment Duane Davis is sentenced to 40 years for Tupac Shakur&#x27;s murder",
+            "ko": "실시간 보도 번역: Watch: Moment Duane Davis is sentenced to 40 years for Tupac Shakur&#x27;s murder"
           }
         ]
       },
       {
-        "en": "The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday.",
+        "en": "Former gang boss Duane &quot;Keffe D&quot; Davis has been sentenced to at least 40 years in prison for orchestrating the murder of Tupac Shakur.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday.",
-            "ko": "실시간 보도 번역: The American received an &quot;insane&quot; amount of racist comments and direct messages following an incident in her third-round win over 16-year-old Sun Xinran on Monday."
+            "en": "Former gang boss Duane &quot;Keffe D&quot; Davis has been sentenced to at least 40 years in prison for orchestrating the murder of Tupac Shakur.",
+            "ko": "실시간 보도 번역: Former gang boss Duane &quot;Keffe D&quot; Davis has been sentenced to at least 40 years in prison for orchestrating the murder of Tupac Shakur."
           }
         ]
       },
       {
-        "en": "China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court.",
+        "en": "A jury found Davis, 63, guilty in September of one count of murder with a deadly weapon for the rap superstar&#x27;s death in a drive-by shooting in Las Vegas on 7 September 1996. He has said he will appeal the verdict.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court.",
-            "ko": "실시간 보도 번역: China&#x27;s Sun thought she had hit a winner late in the first set, but Gauff raised her hand to halt play because of a flickering light in the side panels surrounding the court."
+            "en": "A jury found Davis, 63, guilty in September of one count of murder with a deadly weapon for the rap superstar&#x27;s death in a drive-by shooting in Las Vegas on 7 September 1996.",
+            "ko": "실시간 보도 번역: A jury found Davis, 63, guilty in September of one count of murder with a deadly weapon for the rap superstar&#x27;s death in a drive-by shooting in Las Vegas on 7 September 1996."
+          },
+          {
+            "en": "He has said he will appeal the verdict.",
+            "ko": "실시간 보도 번역: He has said he will appeal the verdict."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'Draining' few days for Gauff after online racist abuse",
+      "글로벌 최신 소식: Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3281,16 +3348,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'Draining' few days for Gauff after online racist abuse",
+          "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_475625501798738775",
@@ -3989,87 +4054,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Alison Hammond: 'I thought I was having heart attack on air'",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_5540667171449964840",
-    "title": "Emotions run high at the round table as Celebrity Traitors banish two players",
-    "subtitle": "Viewers watched to see whether Richard E Grant could save himself at the first round table of the series....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-08",
-    "addedAt": "2026-10-09T04:13:29Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 130,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEmotions run high at the round table as Celebrity Traitors banish two playersImage caption, Actress Sharon Rooney was visibly shocked to find which players returned to breakfast during Thursday&#x27;s episode",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEmotions run high at the round table as Celebrity Traitors banish two playersImage caption, Actress Sharon Rooney was visibly shocked to find which players returned to breakfast during Thursday&#x27;s episode",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsEmotions run high at the round table as Celebrity Traitors banish two playersImage caption, Actress Sharon Rooney was visibly shocked to find which players returned to breakfast during Thursday&#x27;s episode"
-          }
-        ]
-      },
-      {
-        "en": "Spoiler warning: This article reveals details from the third episode of The Celebrity Traitors, series two.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Spoiler warning: This article reveals details from the third episode of The Celebrity Traitors, series two.",
-            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from the third episode of The Celebrity Traitors, series two."
-          }
-        ]
-      },
-      {
-        "en": "We normally expect raised voices, conflicting theories and a dramatic showdown from the Celebrity Traitors. But as this year&#x27;s first round table got under way, the writing was on the castle wall.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "We normally expect raised voices, conflicting theories and a dramatic showdown from the Celebrity Traitors.",
-            "ko": "실시간 보도 번역: We normally expect raised voices, conflicting theories and a dramatic showdown from the Celebrity Traitors."
-          },
-          {
-            "en": "But as this year&#x27;s first round table got under way, the writing was on the castle wall.",
-            "ko": "실시간 보도 번역: But as this year&#x27;s first round table got under way, the writing was on the castle wall."
-          }
-        ]
-      },
-      {
-        "en": "Viewers who often get frustrated with the faithful and root for them to uncover a traitor had their wish firmly Richard E Grant-ed on Thursday, as the actor was banished in a landslide vote.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Viewers who often get frustrated with the faithful and root for them to uncover a traitor had their wish firmly Richard E Grant-ed on Thursday, as the actor was banished in a landslide vote.",
-            "ko": "실시간 보도 번역: Viewers who often get frustrated with the faithful and root for them to uncover a traitor had their wish firmly Richard E Grant-ed on Thursday, as the actor was banished in a landslide vote."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Emotions run high at the round table as Celebrity Traitors banish two players",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Emotions run high at the round table as Celebrity Traitors banish two players",
           "Historical retrospective",
           "Unrelated general weather"
         ],
