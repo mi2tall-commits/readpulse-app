@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1978146251069101986",
+    "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+    "subtitle": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer gro...",
+    "speaker": "BBC Technology",
+    "date": "2026-10-14",
+    "addedAt": "2026-10-14T16:22:13Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 122,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;I applied for 200 jobs&#x27; - How &#x27;spray and pray&#x27; AI job applications can backfireTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;I applied for 200 jobs&#x27; - How &#x27;spray and pray&#x27; AI job applications can backfireTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;I applied for 200 jobs&#x27; - How &#x27;spray and pray&#x27; AI job applications can backfireTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "Could using AI in your job application be ruining your chances of getting hired?",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Could using AI in your job application be ruining your chances of getting hired?",
+            "ko": "실시간 보도 번역: Could using AI in your job application be ruining your chances of getting hired?"
+          }
+        ]
+      },
+      {
+        "en": "Would you use AI to help you write a CV or cover letter? How about during an online assessment or video interview for a job?",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Would you use AI to help you write a CV or cover letter?",
+            "ko": "실시간 보도 번역: Would you use AI to help you write a CV or cover letter?"
+          },
+          {
+            "en": "How about during an online assessment or video interview for a job?",
+            "ko": "실시간 보도 번역: How about during an online assessment or video interview for a job?"
+          }
+        ]
+      },
+      {
+        "en": "We are increasingly using the technology to help us with job applications, graduates, external and recruiters say, with many employers happy for us to do so within reason.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "We are increasingly using the technology to help us with job applications, graduates, external and recruiters say, with many employers happy for us to do so within reason.",
+            "ko": "실시간 보도 번역: We are increasingly using the technology to help us with job applications, graduates, external and recruiters say, with many employers happy for us to do so within reason."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: 'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_6178227025567495499",
     "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
     "subtitle": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm....",
@@ -718,66 +799,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_5825657007884530204",
-    "title": "Anthropic bans users from being 'cruel' to its AI systems",
-    "subtitle": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-09",
-    "addedAt": "2026-10-09T17:52:44Z",
-    "category": "tech",
+    "id": "auto_science_4301459221593059282",
+    "title": "More tea? How Scotland's crops of the future could be set to change",
+    "subtitle": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate....",
+    "speaker": "BBC Science",
+    "date": "2026-10-14",
+    "addedAt": "2026-10-14T16:22:14Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 132,
+    "wordCount": 117,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAnthropic bans users from being &#x27;cruel&#x27; to its AI systemsImage source, Getty ImagesByLiv McMahonTechnology reporterPublished5 hours agoAnthropic has raised eyebrows by announcing it will ban users from &quot;sustained and needless&quot; abusive behaviour towards its AI.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScotlandScotland PoliticsScotland BusinessEdinburgh, Fife &amp; EastGlasgow &amp; WestHighlands &amp; IslandsNE, Orkney &amp; ShetlandSouthTayside &amp; CentralMore tea? How Scotland&#x27;s crops of the future could be set to changeImage caption, Susie Walker-Munro has been growing tea on her family farm in Angus since 2007",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAnthropic bans users from being &#x27;cruel&#x27; to its AI systemsImage source, Getty ImagesByLiv McMahonTechnology reporterPublished5 hours agoAnthropic has raised eyebrows by announcing it will ban users from &quot;sustained and needless&quot; abusive behaviour towards its AI.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAnthropic bans users from being &#x27;cruel&#x27; to its AI systemsImage source, Getty ImagesByLiv McMahonTechnology reporterPublished5 hours agoAnthropic has raised eyebrows by announcing it will ban users from &quot;sustained and needless&quot; abusive behaviour towards its AI."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScotlandScotland PoliticsScotland BusinessEdinburgh, Fife &amp; EastGlasgow &amp; WestHighlands &amp; IslandsNE, Orkney &amp; ShetlandSouthTayside &amp; CentralMore tea?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScotlandScotland PoliticsScotland BusinessEdinburgh, Fife &amp; EastGlasgow &amp; WestHighlands &amp; IslandsNE, Orkney &amp; ShetlandSouthTayside &amp; CentralMore tea?"
           }
         ]
       },
       {
-        "en": "The Claude-maker said on Thursday it was updating its usage policy to let its tools end interactions where people are &quot;cruel&quot; - something it said it had done in &quot;rare&quot; cases prior.",
+        "en": "Scotland environment, energy and rural affairs correspondentPublished13 October 2026Updated 14 October 2026 06:02 BSTSusie Walker-Munro is one of a handful of tea growers in Scotland.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Claude-maker said on Thursday it was updating its usage policy to let its tools end interactions where people are &quot;cruel&quot; - something it said it had done in &quot;rare&quot; cases prior.",
-            "ko": "실시간 보도 번역: The Claude-maker said on Thursday it was updating its usage policy to let its tools end interactions where people are &quot;cruel&quot; - something it said it had done in &quot;rare&quot; cases prior."
+            "en": "Scotland environment, energy and rural affairs correspondentPublished13 October 2026Updated 14 October 2026 06:02 BSTSusie Walker-Munro is one of a handful of tea growers in Scotland.",
+            "ko": "실시간 보도 번역: Scotland environment, energy and rural affairs correspondentPublished13 October 2026Updated 14 October 2026 06:02 BSTSusie Walker-Munro is one of a handful of tea growers in Scotland."
           }
         ]
       },
       {
-        "en": "It will now be included on a list of forbidden conduct which also contains bullying others, promoting self-harm and creating non-consensual intimate imagery.",
+        "en": "She says the acidic soil creates ideal conditions for the perfect artisan brew.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It will now be included on a list of forbidden conduct which also contains bullying others, promoting self-harm and creating non-consensual intimate imagery.",
-            "ko": "실시간 보도 번역: It will now be included on a list of forbidden conduct which also contains bullying others, promoting self-harm and creating non-consensual intimate imagery."
+            "en": "She says the acidic soil creates ideal conditions for the perfect artisan brew.",
+            "ko": "실시간 보도 번역: She says the acidic soil creates ideal conditions for the perfect artisan brew."
           }
         ]
       },
       {
-        "en": "While Anthropic said the policy would only apply in &quot;extreme cases&quot; of repeated abuse, it has reignited debate over how we should communicate with AI tools.",
+        "en": "Costing about £40 per packet for her most expensive product, it&#x27;s not going to replace the supermarket brands any time soon.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "While Anthropic said the policy would only apply in &quot;extreme cases&quot; of repeated abuse, it has reignited debate over how we should communicate with AI tools.",
-            "ko": "실시간 보도 번역: While Anthropic said the policy would only apply in &quot;extreme cases&quot; of repeated abuse, it has reignited debate over how we should communicate with AI tools."
+            "en": "Costing about £40 per packet for her most expensive product, it&#x27;s not going to replace the supermarket brands any time soon.",
+            "ko": "실시간 보도 번역: Costing about £40 per packet for her most expensive product, it&#x27;s not going to replace the supermarket brands any time soon."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Anthropic bans users from being 'cruel' to its AI systems",
+      "글로벌 최신 소식: More tea? How Scotland's crops of the future could be set to change",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -785,7 +866,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Anthropic bans users from being 'cruel' to its AI systems",
+          "More tea? How Scotland's crops of the future could be set to change",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1592,110 +1673,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_1698688144255257521",
-    "title": "Isaias becomes major category three storm before landfall",
-    "subtitle": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane...",
-    "speaker": "BBC Science",
-    "date": "2026-10-09",
-    "addedAt": "2026-10-09T17:52:45Z",
-    "category": "science",
+    "id": "auto_economy_9037599426762443686",
+    "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+    "subtitle": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing....",
+    "speaker": "BBC Business",
+    "date": "2026-10-14",
+    "addedAt": "2026-10-14T16:22:14Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 144,
+    "wordCount": 151,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScience{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Isaias becomes major category three storm before landfall \",\"description\":\"Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pfxx20.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pfxx20.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pfxx20.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pfxx20.jpg\"],\"uploadDate\":\"2026-10-09T16:46:32.148Z\",\"duration\":\"PT49S\"}Isaias becomes major category three storm before landfall To play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessFaisal Islam: What surprise praise for UK economy tells us about the BudgetImage source, Sirachai Arunrugstichai/Bloomberg via Getty ImagesImage caption, The managing director of the IMF, Kristalina Georgieva, has praised the UK&#x27;s approach to debt reduction.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScience{\"@context\":\"https://schema.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScience{\"@context\":\"https://schema."
-          },
-          {
-            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Isaias becomes major category three storm before landfall \",\"description\":\"Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
-            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Isaias becomes major category three storm before landfall \",\"description\":\"Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane."
-          },
-          {
-            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
-            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1920/galileo/p0pfxx20.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pfxx20."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1248/galileo/p0pfxx20.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pfxx20."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/688/galileo/p0pfxx20.",
-            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pfxx20."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/400/galileo/p0pfxx20.",
-            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pfxx20."
-          },
-          {
-            "en": "jpg\"],\"uploadDate\":\"2026-10-09T16:46:32.",
-            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-10-09T16:46:32."
-          },
-          {
-            "en": "148Z\",\"duration\":\"PT49S\"}Isaias becomes major category three storm before landfall To play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: 148Z\",\"duration\":\"PT49S\"}Isaias becomes major category three storm before landfall To play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessFaisal Islam: What surprise praise for UK economy tells us about the BudgetImage source, Sirachai Arunrugstichai/Bloomberg via Getty ImagesImage caption, The managing director of the IMF, Kristalina Georgieva, has praised the UK&#x27;s approach to debt reduction.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessFaisal Islam: What surprise praise for UK economy tells us about the BudgetImage source, Sirachai Arunrugstichai/Bloomberg via Getty ImagesImage caption, The managing director of the IMF, Kristalina Georgieva, has praised the UK&#x27;s approach to debt reduction."
           }
         ]
       },
       {
-        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSevere weatherFollow Severe weather",
+        "en": "Economics editor, Reporting fromin BangkokPublished14 October 2026, 12:03 BSTUpdated 5 hours ago&quot;Get your fiscal health in order,&quot; is a key message at the the International Monetary Fund&#x27;s (IMF) annual meeting here in Thailand.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsSevere weatherFollow Severe weather",
-            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsSevere weatherFollow Severe weather"
+            "en": "Economics editor, Reporting fromin BangkokPublished14 October 2026, 12:03 BSTUpdated 5 hours ago&quot;Get your fiscal health in order,&quot; is a key message at the the International Monetary Fund&#x27;s (IMF) annual meeting here in Thailand.",
+            "ko": "실시간 보도 번역: Economics editor, Reporting fromin BangkokPublished14 October 2026, 12:03 BSTUpdated 5 hours ago&quot;Get your fiscal health in order,&quot; is a key message at the the International Monetary Fund&#x27;s (IMF) annual meeting here in Thailand."
           }
         ]
       },
       {
-        "en": "close panelYou are now following\n    Severe weatherUpdates from your News topics will appear in My News and in a collection on the News homepage.HurricanesFollow Hurricanes",
+        "en": "The IMF is worried about the debts of the world&#x27;s biggest economies. It is doing its job as a watchdog, looking for and warning about financial vulnerabilities.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "close panelYou are now following\n    Severe weatherUpdates from your News topics will appear in My News and in a collection on the News homepage.",
-            "ko": "실시간 보도 번역: close panelYou are now following\n    Severe weatherUpdates from your News topics will appear in My News and in a collection on the News homepage."
+            "en": "The IMF is worried about the debts of the world&#x27;s biggest economies.",
+            "ko": "실시간 보도 번역: The IMF is worried about the debts of the world&#x27;s biggest economies."
+          },
+          {
+            "en": "It is doing its job as a watchdog, looking for and warning about financial vulnerabilities.",
+            "ko": "실시간 보도 번역: It is doing its job as a watchdog, looking for and warning about financial vulnerabilities."
           }
         ]
       },
       {
-        "en": "close panelYou are now following\n    HurricanesUpdates from your News topics will appear in My News and in a collection on the News homepage.Read descriptionEditor&#x27;s recommendationsIsaias becomes major category three storm before landfall  Video, 00:00:49Isaias becomes major category three storm before landfall",
+        "en": "In the meantime, the finance ministers of former crisis countries are boasting about how little their borrowing costs have gone up, compared to the world&#x27;s biggest economies, such as the US.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "close panelYou are now following\n    HurricanesUpdates from your News topics will appear in My News and in a collection on the News homepage.",
-            "ko": "실시간 보도 번역: close panelYou are now following\n    HurricanesUpdates from your News topics will appear in My News and in a collection on the News homepage."
+            "en": "In the meantime, the finance ministers of former crisis countries are boasting about how little their borrowing costs have gone up, compared to the world&#x27;s biggest economies, such as the US.",
+            "ko": "실시간 보도 번역: In the meantime, the finance ministers of former crisis countries are boasting about how little their borrowing costs have gone up, compared to the world&#x27;s biggest economies, such as the US."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Isaias becomes major category three storm before landfall",
+      "글로벌 최신 소식: Faisal Islam: What surprise praise for UK economy tells us about the Budget",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1703,7 +1744,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Isaias becomes major category three storm before landfall",
+          "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2410,66 +2451,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_3880610925455559919",
-    "title": "Burnham promises to curb non-compete rules in job contracts",
-    "subtitle": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\"....",
-    "speaker": "BBC Business",
-    "date": "2026-10-09",
-    "addedAt": "2026-10-09T17:52:45Z",
-    "category": "economy",
+    "id": "auto_sports_7135307141900585311",
+    "title": "Briton Kartal upsets Bencic at Wuhan Open",
+    "subtitle": "Sonay Kartal upsets Swiss ninth seed Belinda Bencic to reach the Wuhan Open third round as she continues to build momentum....",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-14",
+    "addedAt": "2026-10-14T16:22:15Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 135,
+    "wordCount": 136,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham promises to curb non-compete rules in job contractsImage source, Getty ImagesByPaul SeddonPolitical reporterPublished9 October 2026, 14:02 BSTUpdated 1 hour agoAndy Burnham has promised to curb companies&#x27; ability to restrict what their workers can do after leaving their job.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBriton Kartal causes upset before Sabalenka loses againImage source, Getty ImagesImage caption, Sonay Kartal reached a career-high ranking of 44 following Wimbledon last year",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham promises to curb non-compete rules in job contractsImage source, Getty ImagesByPaul SeddonPolitical reporterPublished9 October 2026, 14:02 BSTUpdated 1 hour agoAndy Burnham has promised to curb companies&#x27; ability to restrict what their workers can do after leaving their job.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBurnham promises to curb non-compete rules in job contractsImage source, Getty ImagesByPaul SeddonPolitical reporterPublished9 October 2026, 14:02 BSTUpdated 1 hour agoAndy Burnham has promised to curb companies&#x27; ability to restrict what their workers can do after leaving their job."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBriton Kartal causes upset before Sabalenka loses againImage source, Getty ImagesImage caption, Sonay Kartal reached a career-high ranking of 44 following Wimbledon last year",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBriton Kartal causes upset before Sabalenka loses againImage source, Getty ImagesImage caption, Sonay Kartal reached a career-high ranking of 44 following Wimbledon last year"
           }
         ]
       },
       {
-        "en": "In a speech, the prime minister said the use of non-compete clauses in employment contracts had &quot;gone too far&quot; and was holding innovative UK companies back.",
+        "en": "Britain&#x27;s Sonay Kartal upset ninth seed Belinda Bencic as she continued to build post-injury momentum at the Wuhan Open.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In a speech, the prime minister said the use of non-compete clauses in employment contracts had &quot;gone too far&quot; and was holding innovative UK companies back.",
-            "ko": "실시간 보도 번역: In a speech, the prime minister said the use of non-compete clauses in employment contracts had &quot;gone too far&quot; and was holding innovative UK companies back."
+            "en": "Britain&#x27;s Sonay Kartal upset ninth seed Belinda Bencic as she continued to build post-injury momentum at the Wuhan Open.",
+            "ko": "실시간 보도 번역: Britain&#x27;s Sonay Kartal upset ninth seed Belinda Bencic as she continued to build post-injury momentum at the Wuhan Open."
           }
         ]
       },
       {
-        "en": "He added the clauses had forced workers to go without pay after leaving a role, as well as making it harder for growing firms to hire new staff.",
+        "en": "Kartal reached a career-high ranking of 44 last year but has slipped to 170th in the world after a six-month injury absence.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "He added the clauses had forced workers to go without pay after leaving a role, as well as making it harder for growing firms to hire new staff.",
-            "ko": "실시간 보도 번역: He added the clauses had forced workers to go without pay after leaving a role, as well as making it harder for growing firms to hire new staff."
+            "en": "Kartal reached a career-high ranking of 44 last year but has slipped to 170th in the world after a six-month injury absence.",
+            "ko": "실시간 보도 번역: Kartal reached a career-high ranking of 44 last year but has slipped to 170th in the world after a six-month injury absence."
           }
         ]
       },
       {
-        "en": "Ahead of the Budget later this month, he also said there was &quot;more to do&quot; on tax to encourage promising firms to stay in the UK.",
+        "en": "Having returned to action for Great Britain at last month&#x27;s Billie Jean King Cup Finals, the 24-year-old reached the third round at the Beijing Open last week before beating Ukraine&#x27;s Anhelina Kalinina in her opening match in Wuhan.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Ahead of the Budget later this month, he also said there was &quot;more to do&quot; on tax to encourage promising firms to stay in the UK.",
-            "ko": "실시간 보도 번역: Ahead of the Budget later this month, he also said there was &quot;more to do&quot; on tax to encourage promising firms to stay in the UK."
+            "en": "Having returned to action for Great Britain at last month&#x27;s Billie Jean King Cup Finals, the 24-year-old reached the third round at the Beijing Open last week before beating Ukraine&#x27;s Anhelina Kalinina in her opening match in Wuhan.",
+            "ko": "실시간 보도 번역: Having returned to action for Great Britain at last month&#x27;s Billie Jean King Cup Finals, the 24-year-old reached the third round at the Beijing Open last week before beating Ukraine&#x27;s Anhelina Kalinina in her opening match in Wuhan."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Burnham promises to curb non-compete rules in job contracts",
+      "글로벌 최신 소식: Briton Kartal upsets Bencic at Wuhan Open",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2477,14 +2518,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Burnham promises to curb non-compete rules in job contracts",
+          "Briton Kartal upsets Bencic at Wuhan Open",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_6309332497310380426",
@@ -3198,66 +3241,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_6967422473021834750",
-    "title": "Djokovic suffers surprise Hurkacz loss in Shanghai",
-    "subtitle": "Novak Djokovic suffers a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after his triumph a...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-09",
-    "addedAt": "2026-10-09T17:52:46Z",
-    "category": "sports",
+    "id": "auto_culture_7854577117528432463",
+    "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+    "subtitle": "The comedian and actor faces charges including rape and sexual assault from six female complainants who have never met each other,...",
+    "speaker": "BBC Arts",
+    "date": "2026-10-14",
+    "addedAt": "2026-10-14T16:22:16Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 135,
+    "wordCount": 104,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand was a &#x27;sexual predator&#x27;, prosecution alleges as rape trial beginsTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand was a &#x27;sexual predator&#x27;, prosecution alleges as rape trial beginsTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand was a &#x27;sexual predator&#x27;, prosecution alleges as rape trial beginsTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
+        "en": "Watch: Russell Brand arrives at court for rape and sexual assault trial",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
-            "ko": "실시간 보도 번역: Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing."
+            "en": "Watch: Russell Brand arrives at court for rape and sexual assault trial",
+            "ko": "실시간 보도 번역: Watch: Russell Brand arrives at court for rape and sexual assault trial"
           }
         ]
       },
       {
-        "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
+        "en": "Russell Brand was described as &quot;ruthless&quot; and a &quot;sexual predator&quot; by the prosecution at the start of his trial for rape and sexual assault on Wednesday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
-            "ko": "실시간 보도 번역: The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final."
+            "en": "Russell Brand was described as &quot;ruthless&quot; and a &quot;sexual predator&quot; by the prosecution at the start of his trial for rape and sexual assault on Wednesday.",
+            "ko": "실시간 보도 번역: Russell Brand was described as &quot;ruthless&quot; and a &quot;sexual predator&quot; by the prosecution at the start of his trial for rape and sexual assault on Wednesday."
           }
         ]
       },
       {
-        "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
+        "en": "The 51-year-old actor and comedian faces three counts of rape, three charges of sexual assault and one of indecent assault.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
-            "ko": "실시간 보도 번역: But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole."
+            "en": "The 51-year-old actor and comedian faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+            "ko": "실시간 보도 번역: The 51-year-old actor and comedian faces three counts of rape, three charges of sexual assault and one of indecent assault."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Djokovic suffers surprise Hurkacz loss in Shanghai",
+      "글로벌 최신 소식: Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3265,16 +3308,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Djokovic suffers surprise Hurkacz loss in Shanghai",
+          "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_6027511347753351478",
@@ -3977,83 +4018,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_116130139641076027",
-    "title": "Alison Hammond: 'I thought I was having heart attack on air'",
-    "subtitle": "The host says a health scare on live TV was one of the \"scariest things I've ever been through\"....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-09",
-    "addedAt": "2026-10-09T17:52:49Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 123,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAlison Hammond: &#x27;I thought I was having heart attack on air&#x27;Image source, Ken McKay/ITV/ShutterstockImage caption, Hammond returned to This Morning one week after her dramatic early exit",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAlison Hammond: &#x27;I thought I was having heart attack on air&#x27;Image source, Ken McKay/ITV/ShutterstockImage caption, Hammond returned to This Morning one week after her dramatic early exit",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsAlison Hammond: &#x27;I thought I was having heart attack on air&#x27;Image source, Ken McKay/ITV/ShutterstockImage caption, Hammond returned to This Morning one week after her dramatic early exit"
-          }
-        ]
-      },
-      {
-        "en": "Alison Hammond has said she feared she was having a heart attack on air when she had to rush off ITV&#x27;s This Morning midway through the programme last week.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Alison Hammond has said she feared she was having a heart attack on air when she had to rush off ITV&#x27;s This Morning midway through the programme last week.",
-            "ko": "실시간 보도 번역: Alison Hammond has said she feared she was having a heart attack on air when she had to rush off ITV&#x27;s This Morning midway through the programme last week."
-          }
-        ]
-      },
-      {
-        "en": "The presenter appeared to clutch her chest as she left the show last Friday, and was taken to hospital to have a heart check-up.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The presenter appeared to clutch her chest as she left the show last Friday, and was taken to hospital to have a heart check-up.",
-            "ko": "실시간 보도 번역: The presenter appeared to clutch her chest as she left the show last Friday, and was taken to hospital to have a heart check-up."
-          }
-        ]
-      },
-      {
-        "en": "She turned out to have suffered a panic attack, and said the experience was &quot;probably one of the most scariest things I&#x27;ve ever been through&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "She turned out to have suffered a panic attack, and said the experience was &quot;probably one of the most scariest things I&#x27;ve ever been through&quot;.",
-            "ko": "실시간 보도 번역: She turned out to have suffered a panic attack, and said the experience was &quot;probably one of the most scariest things I&#x27;ve ever been through&quot;."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Alison Hammond: 'I thought I was having heart attack on air'",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Alison Hammond: 'I thought I was having heart attack on air'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
