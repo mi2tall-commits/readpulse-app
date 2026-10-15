@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_8887450112497025322",
+    "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+    "subtitle": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-15",
+    "addedAt": "2026-10-15T16:10:02Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 116,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI giant Anthropic woos potential investors ahead of stock market debutImage source, Getty Images for HubSpotImage caption, Anthropic chief executive Dario Amodei",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI giant Anthropic woos potential investors ahead of stock market debutImage source, Getty Images for HubSpotImage caption, Anthropic chief executive Dario Amodei",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI giant Anthropic woos potential investors ahead of stock market debutImage source, Getty Images for HubSpotImage caption, Anthropic chief executive Dario Amodei"
+          }
+        ]
+      },
+      {
+        "en": "Artificial intelligence (AI) giant Anthropic has been drumming up support for its expected stock market listing as it seeks to reassure investors of its profit-making potential.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Artificial intelligence (AI) giant Anthropic has been drumming up support for its expected stock market listing as it seeks to reassure investors of its profit-making potential.",
+            "ko": "실시간 보도 번역: Artificial intelligence (AI) giant Anthropic has been drumming up support for its expected stock market listing as it seeks to reassure investors of its profit-making potential."
+          }
+        ]
+      },
+      {
+        "en": "Anthropic revenue surged by 45% to $16.8bn (£12.7bn) in the three months to the end of September, the BBC understands.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Anthropic revenue surged by 45% to $16.",
+            "ko": "실시간 보도 번역: Anthropic revenue surged by 45% to $16."
+          },
+          {
+            "en": "7bn) in the three months to the end of September, the BBC understands.",
+            "ko": "실시간 보도 번역: 7bn) in the three months to the end of September, the BBC understands."
+          }
+        ]
+      },
+      {
+        "en": "In common with other AI firms, it is seeking to position itself as being able to generate huge profits despite spending billions on tech.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "In common with other AI firms, it is seeking to position itself as being able to generate huge profits despite spending billions on tech.",
+            "ko": "실시간 보도 번역: In common with other AI firms, it is seeking to position itself as being able to generate huge profits despite spending billions on tech."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Anthropic flags revenue surge to investors ahead of stock market debut",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Anthropic flags revenue surge to investors ahead of stock market debut",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1978146251069101986",
     "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
     "subtitle": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer gro...",
@@ -718,70 +799,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_9214540859959072844",
-    "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-    "subtitle": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-09",
-    "addedAt": "2026-10-10T03:58:53Z",
-    "category": "tech",
+    "id": "auto_science_6631155569693215543",
+    "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
+    "subtitle": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban....",
+    "speaker": "BBC Science",
+    "date": "2026-10-15",
+    "addedAt": "2026-10-15T16:10:04Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 114,
+    "wordCount": 147,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPrize-winning image which sparked backlash was AI-generated, Nikon rulesTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateSevere drought declared and hosepipe bans in force - is your area affected?Image source, Matt Cardy/Getty ImagesByMark Poynting, Climate reporter, Jess Carr, Data designer and Phil Leake, Data journalistPublished2 July 2025Updated 27 minutes agoSevere drought has been declared in parts of southern England after months of dry weather drove some reservoirs to exceptionally low levels.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPrize-winning image which sparked backlash was AI-generated, Nikon rulesTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechPrize-winning image which sparked backlash was AI-generated, Nikon rulesTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Watch: The competition&#x27;s former winner and runners up. Nikon disqualified the winning video (shown left).",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Watch: The competition&#x27;s former winner and runners up.",
-            "ko": "실시간 보도 번역: Watch: The competition&#x27;s former winner and runners up."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateSevere drought declared and hosepipe bans in force - is your area affected?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateSevere drought declared and hosepipe bans in force - is your area affected?"
           },
           {
-            "en": "Nikon disqualified the winning video (shown left).",
-            "ko": "실시간 보도 번역: Nikon disqualified the winning video (shown left)."
+            "en": "Image source, Matt Cardy/Getty ImagesByMark Poynting, Climate reporter, Jess Carr, Data designer and Phil Leake, Data journalistPublished2 July 2025Updated 27 minutes agoSevere drought has been declared in parts of southern England after months of dry weather drove some reservoirs to exceptionally low levels.",
+            "ko": "실시간 보도 번역: Image source, Matt Cardy/Getty ImagesByMark Poynting, Climate reporter, Jess Carr, Data designer and Phil Leake, Data journalistPublished2 July 2025Updated 27 minutes agoSevere drought has been declared in parts of southern England after months of dry weather drove some reservoirs to exceptionally low levels."
           }
         ]
       },
       {
-        "en": "Technology &amp; AI editorPublished9 October 2026The winner of a prestigious scientific photography competition has been disqualified following concerns raised by other scientists that it was fake.",
+        "en": "Most of England and all of Wales were already under drought conditions after both nations&#x27; hottest summers on record, which has taken its toll on rivers, crops and nature.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Technology &amp; AI editorPublished9 October 2026The winner of a prestigious scientific photography competition has been disqualified following concerns raised by other scientists that it was fake.",
-            "ko": "실시간 보도 번역: Technology &amp; AI editorPublished9 October 2026The winner of a prestigious scientific photography competition has been disqualified following concerns raised by other scientists that it was fake."
+            "en": "Most of England and all of Wales were already under drought conditions after both nations&#x27; hottest summers on record, which has taken its toll on rivers, crops and nature.",
+            "ko": "실시간 보도 번역: Most of England and all of Wales were already under drought conditions after both nations&#x27; hottest summers on record, which has taken its toll on rivers, crops and nature."
           }
         ]
       },
       {
-        "en": "Nikon said the use of generative AI in the composition of the video broke the rules of its Small World In Motion contest, which accepts photos and video taken using powerful microscopes.",
+        "en": "Roughly 30 million people across parts of England and Wales are covered by hosepipe bans, as part of water companies&#x27; efforts to manage supplies.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Nikon said the use of generative AI in the composition of the video broke the rules of its Small World In Motion contest, which accepts photos and video taken using powerful microscopes.",
-            "ko": "실시간 보도 번역: Nikon said the use of generative AI in the composition of the video broke the rules of its Small World In Motion contest, which accepts photos and video taken using powerful microscopes."
+            "en": "Roughly 30 million people across parts of England and Wales are covered by hosepipe bans, as part of water companies&#x27; efforts to manage supplies.",
+            "ko": "실시간 보도 번역: Roughly 30 million people across parts of England and Wales are covered by hosepipe bans, as part of water companies&#x27; efforts to manage supplies."
+          }
+        ]
+      },
+      {
+        "en": "&quot;Severe drought&quot; - the highest category - has now been declared for parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;Severe drought&quot; - the highest category - has now been declared for parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex.",
+            "ko": "실시간 보도 번역: &quot;Severe drought&quot; - the highest category - has now been declared for parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "글로벌 최신 소식: Severe drought declared and hosepipe bans in force - is your area affected?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -789,7 +870,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+          "Severe drought declared and hosepipe bans in force - is your area affected?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1596,66 +1677,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_2904837605850189568",
-    "title": "'People don't think recycling at work is part of their job description'",
-    "subtitle": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue....",
-    "speaker": "BBC Science",
-    "date": "2026-10-09",
-    "addedAt": "2026-10-10T03:58:53Z",
-    "category": "science",
+    "id": "auto_economy_7488293893588883332",
+    "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+    "subtitle": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape....",
+    "speaker": "BBC Business",
+    "date": "2026-10-15",
+    "addedAt": "2026-10-15T16:10:07Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 135,
+    "wordCount": 138,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal News&#x27;People don&#x27;t think recycling at work is part of their job description&#x27;Image caption, Businesses in Wales are required to sort waste into the same recycling categories that households are expected to do",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessNandy &#x27;minded to intervene&#x27; in Sky&#x27;s £1.6bn takeover of ITV entertainment armImage source, Getty ImagesByArchie MitchellBusiness reporterPublished15 October 2026, 14:07 BSTUpdated 1 hour agoCulture Secretary Lisa Nandy has said she is &quot;minded to intervene&quot; in the proposed £1.6bn deal for Sky to buy ITV&#x27;s media and entertainment division.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal News&#x27;People don&#x27;t think recycling at work is part of their job description&#x27;Image caption, Businesses in Wales are required to sort waste into the same recycling categories that households are expected to do",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal News&#x27;People don&#x27;t think recycling at work is part of their job description&#x27;Image caption, Businesses in Wales are required to sort waste into the same recycling categories that households are expected to do"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessNandy &#x27;minded to intervene&#x27; in Sky&#x27;s £1.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessNandy &#x27;minded to intervene&#x27; in Sky&#x27;s £1."
+          },
+          {
+            "en": "6bn takeover of ITV entertainment armImage source, Getty ImagesByArchie MitchellBusiness reporterPublished15 October 2026, 14:07 BSTUpdated 1 hour agoCulture Secretary Lisa Nandy has said she is &quot;minded to intervene&quot; in the proposed £1.",
+            "ko": "실시간 보도 번역: 6bn takeover of ITV entertainment armImage source, Getty ImagesByArchie MitchellBusiness reporterPublished15 October 2026, 14:07 BSTUpdated 1 hour agoCulture Secretary Lisa Nandy has said she is &quot;minded to intervene&quot; in the proposed £1."
+          },
+          {
+            "en": "6bn deal for Sky to buy ITV&#x27;s media and entertainment division.",
+            "ko": "실시간 보도 번역: 6bn deal for Sky to buy ITV&#x27;s media and entertainment division."
           }
         ]
       },
       {
-        "en": "There was still &quot;lots of room for improvement&quot; when it comes to how much we recycle at work compared with our habits at home, according to an expert.",
+        "en": "Nandy said there were reasonable grounds to believe the deal could affect free expression in the media and the variety of Britain&#x27;s news landscape.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "There was still &quot;lots of room for improvement&quot; when it comes to how much we recycle at work compared with our habits at home, according to an expert.",
-            "ko": "실시간 보도 번역: There was still &quot;lots of room for improvement&quot; when it comes to how much we recycle at work compared with our habits at home, according to an expert."
+            "en": "Nandy said there were reasonable grounds to believe the deal could affect free expression in the media and the variety of Britain&#x27;s news landscape.",
+            "ko": "실시간 보도 번역: Nandy said there were reasonable grounds to believe the deal could affect free expression in the media and the variety of Britain&#x27;s news landscape."
           }
         ]
       },
       {
-        "en": "Figures suggest only 61% of people in Wales recycle often at their workplace, with one in five saying they do not recall seeing the appropriate facilities to do so.",
+        "en": "Sky said it would &quot;carefully consider&quot; a letter from the culture secretary and &quot;engage constructively&quot; with the review into the deal.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Figures suggest only 61% of people in Wales recycle often at their workplace, with one in five saying they do not recall seeing the appropriate facilities to do so.",
-            "ko": "실시간 보도 번역: Figures suggest only 61% of people in Wales recycle often at their workplace, with one in five saying they do not recall seeing the appropriate facilities to do so."
+            "en": "Sky said it would &quot;carefully consider&quot; a letter from the culture secretary and &quot;engage constructively&quot; with the review into the deal.",
+            "ko": "실시간 보도 번역: Sky said it would &quot;carefully consider&quot; a letter from the culture secretary and &quot;engage constructively&quot; with the review into the deal."
           }
         ]
       },
       {
-        "en": "Providing more bins or clearer labelling are some of the ways in which businesses could make a difference, said waste reduction charity Wrap.",
+        "en": "&quot;We remain confident that bringing Sky and ITV&#x27;s media and entertainment business together will create a stronger British media,&quot; it said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Providing more bins or clearer labelling are some of the ways in which businesses could make a difference, said waste reduction charity Wrap.",
-            "ko": "실시간 보도 번역: Providing more bins or clearer labelling are some of the ways in which businesses could make a difference, said waste reduction charity Wrap."
+            "en": "&quot;We remain confident that bringing Sky and ITV&#x27;s media and entertainment business together will create a stronger British media,&quot; it said.",
+            "ko": "실시간 보도 번역: &quot;We remain confident that bringing Sky and ITV&#x27;s media and entertainment business together will create a stronger British media,&quot; it said."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'People don't think recycling at work is part of their job description'",
+      "글로벌 최신 소식: Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1663,7 +1752,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'People don't think recycling at work is part of their job description'",
+          "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2374,66 +2463,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_7313130444688109123",
-    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-    "subtitle": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"....",
-    "speaker": "BBC Business",
-    "date": "2026-10-10",
-    "addedAt": "2026-10-10T03:58:53Z",
-    "category": "economy",
+    "id": "auto_sports_6227945876326516854",
+    "title": "Star-studded Saudi exhibition postponed after deadly attacks",
+    "subtitle": "The Six Kings Slam exhibition event - featuring Carlos Alcaraz and Novak Djokovic - is postponed following a series of deadly atta...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-14",
+    "addedAt": "2026-10-15T16:10:08Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 175,
+    "wordCount": 144,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Anna Moneymaker/Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Anthony Zurcher, North America correspondentPublished9 October 2026Updated 3 hours agoPresident Donald Trump has announced a deal to import Russian diesel into the US, as he faces mounting pressure to bring down fuel prices.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarStar-studded Saudi exhibition postponed after deadly attacksImage source, Getty ImagesImage caption, Carlos Alcaraz and Jannik Sinner contested last year&#x27;s Six Kings Slams final, with the winner taking home a reported £4.5m",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Anna Moneymaker/Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Anthony Zurcher, North America correspondentPublished9 October 2026Updated 3 hours agoPresident Donald Trump has announced a deal to import Russian diesel into the US, as he faces mounting pressure to bring down fuel prices.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Anna Moneymaker/Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Anthony Zurcher, North America correspondentPublished9 October 2026Updated 3 hours agoPresident Donald Trump has announced a deal to import Russian diesel into the US, as he faces mounting pressure to bring down fuel prices."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarStar-studded Saudi exhibition postponed after deadly attacksImage source, Getty ImagesImage caption, Carlos Alcaraz and Jannik Sinner contested last year&#x27;s Six Kings Slams final, with the winner taking home a reported £4.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarStar-studded Saudi exhibition postponed after deadly attacksImage source, Getty ImagesImage caption, Carlos Alcaraz and Jannik Sinner contested last year&#x27;s Six Kings Slams final, with the winner taking home a reported £4."
           }
         ]
       },
       {
-        "en": "Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that.",
+        "en": "BBC Sport tennis news reporterPublished14 October 2026The Six Kings Slam tennis exhibition event in Saudi Arabia - featuring Grand Slam champions Carlos Alcaraz, Novak Djokovic and Alexander Zverev - has been postponed following a series of deadly attacks on host city Riyadh.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that.",
-            "ko": "실시간 보도 번역: Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that."
+            "en": "BBC Sport tennis news reporterPublished14 October 2026The Six Kings Slam tennis exhibition event in Saudi Arabia - featuring Grand Slam champions Carlos Alcaraz, Novak Djokovic and Alexander Zverev - has been postponed following a series of deadly attacks on host city Riyadh.",
+            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished14 October 2026The Six Kings Slam tennis exhibition event in Saudi Arabia - featuring Grand Slam champions Carlos Alcaraz, Novak Djokovic and Alexander Zverev - has been postponed following a series of deadly attacks on host city Riyadh."
           }
         ]
       },
       {
-        "en": "The move on Friday sparked anger from Ukraine&#x27;s President Volodymr Zelensky, who called it a gift to Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;.",
+        "en": "Alcaraz, Djokovic and Zverev were set to travel to the Saudi capital for a three-day event starting on 21 October.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The move on Friday sparked anger from Ukraine&#x27;s President Volodymr Zelensky, who called it a gift to Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;.",
-            "ko": "실시간 보도 번역: The move on Friday sparked anger from Ukraine&#x27;s President Volodymr Zelensky, who called it a gift to Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;."
+            "en": "Alcaraz, Djokovic and Zverev were set to travel to the Saudi capital for a three-day event starting on 21 October.",
+            "ko": "실시간 보도 번역: Alcaraz, Djokovic and Zverev were set to travel to the Saudi capital for a three-day event starting on 21 October."
           }
         ]
       },
       {
-        "en": "It is understood the US Treasury is suspending sanctions on Russian diesel exports until 7 April as part of the deal, but other assets like those in American banks are still frozen.",
+        "en": "Australia&#x27;s Alex de Minaur, along with American pair Taylor Fritz and Learner Tien, were also earmarked to play.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It is understood the US Treasury is suspending sanctions on Russian diesel exports until 7 April as part of the deal, but other assets like those in American banks are still frozen.",
-            "ko": "실시간 보도 번역: It is understood the US Treasury is suspending sanctions on Russian diesel exports until 7 April as part of the deal, but other assets like those in American banks are still frozen."
+            "en": "Australia&#x27;s Alex de Minaur, along with American pair Taylor Fritz and Learner Tien, were also earmarked to play.",
+            "ko": "실시간 보도 번역: Australia&#x27;s Alex de Minaur, along with American pair Taylor Fritz and Learner Tien, were also earmarked to play."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "글로벌 최신 소식: Star-studded Saudi exhibition postponed after deadly attacks",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2441,14 +2530,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "Star-studded Saudi exhibition postponed after deadly attacks",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_7135307141900585311",
@@ -3162,66 +3253,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_2803467312989416391",
-    "title": "Djokovic suffers surprise Hurkacz loss in Shanghai",
-    "subtitle": "Novak Djokovic suffers a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after his triumph a...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-09",
-    "addedAt": "2026-10-10T03:58:53Z",
-    "category": "sports",
+    "id": "auto_culture_3579992107252940790",
+    "title": "Russell Brand accuser says alleged rape left her afraid she may be pregnant",
+    "subtitle": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-15",
+    "addedAt": "2026-10-15T16:10:13Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 135,
+    "wordCount": 127,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand accuser says alleged rape left her afraid she may be pregnantImage source, ReutersBySima Kotecha and Helena Wilkinson, Reporting fromSouthwark Crown CourtPublished15 October 2026, 13:54 BSTUpdated 2 hours agoWarning - this report contains graphic content",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand accuser says alleged rape left her afraid she may be pregnantImage source, ReutersBySima Kotecha and Helena Wilkinson, Reporting fromSouthwark Crown CourtPublished15 October 2026, 13:54 BSTUpdated 2 hours agoWarning - this report contains graphic content",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand accuser says alleged rape left her afraid she may be pregnantImage source, ReutersBySima Kotecha and Helena Wilkinson, Reporting fromSouthwark Crown CourtPublished15 October 2026, 13:54 BSTUpdated 2 hours agoWarning - this report contains graphic content"
           }
         ]
       },
       {
-        "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
+        "en": "A woman who alleges Russell Brand raped her in a hotel has said she was left feeling &quot;dirty&quot; and afraid she may be pregnant in the aftermath of the alleged attack.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
-            "ko": "실시간 보도 번역: Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing."
+            "en": "A woman who alleges Russell Brand raped her in a hotel has said she was left feeling &quot;dirty&quot; and afraid she may be pregnant in the aftermath of the alleged attack.",
+            "ko": "실시간 보도 번역: A woman who alleges Russell Brand raped her in a hotel has said she was left feeling &quot;dirty&quot; and afraid she may be pregnant in the aftermath of the alleged attack."
           }
         ]
       },
       {
-        "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
+        "en": "The 51-year-old actor and comedian faces seven charges - three counts of rape, three charges of sexual assault and one of indecent assault.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
-            "ko": "실시간 보도 번역: The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final."
+            "en": "The 51-year-old actor and comedian faces seven charges - three counts of rape, three charges of sexual assault and one of indecent assault.",
+            "ko": "실시간 보도 번역: The 51-year-old actor and comedian faces seven charges - three counts of rape, three charges of sexual assault and one of indecent assault."
           }
         ]
       },
       {
-        "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
+        "en": "The allegations, made by six female complainants, span a 10-year period between 1999 and 2009. He denies the charges.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
-            "ko": "실시간 보도 번역: But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole."
+            "en": "The allegations, made by six female complainants, span a 10-year period between 1999 and 2009.",
+            "ko": "실시간 보도 번역: The allegations, made by six female complainants, span a 10-year period between 1999 and 2009."
+          },
+          {
+            "en": "He denies the charges.",
+            "ko": "실시간 보도 번역: He denies the charges."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Djokovic suffers surprise Hurkacz loss in Shanghai",
+      "글로벌 최신 소식: Russell Brand accuser says alleged rape left her afraid she may be pregnant",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3229,16 +3324,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Djokovic suffers surprise Hurkacz loss in Shanghai",
+          "Russell Brand accuser says alleged rape left her afraid she may be pregnant",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_7854577117528432463",
@@ -3923,87 +4016,6 @@ const READPULSE_ARTICLES = [
           {
             "en": "The previous episode - watched on Thursday by 10 million people - saw another faithful, unlucky Industry star Myha&#x27;la, follow self-sabotaging traitor Richard E Grant out of the castle.",
             "ko": "실시간 보도 번역: The previous episode - watched on Thursday by 10 million people - saw another faithful, unlucky Industry star Myha&#x27;la, follow self-sabotaging traitor Richard E Grant out of the castle."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_1614729091811194412",
-    "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
-    "subtitle": "Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-09",
-    "addedAt": "2026-10-10T03:58:55Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 123,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsScreams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats upImage caption, Romesh Ranganathan lets out a scream while holding a dead woman&#x27;s wedding dress in a haunted cabin",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsScreams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats upImage caption, Romesh Ranganathan lets out a scream while holding a dead woman&#x27;s wedding dress in a haunted cabin",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsScreams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats upImage caption, Romesh Ranganathan lets out a scream while holding a dead woman&#x27;s wedding dress in a haunted cabin"
-          }
-        ]
-      },
-      {
-        "en": "Spoiler warning: This article reveals details from the fourth episode of The Celebrity Traitors, series two.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Spoiler warning: This article reveals details from the fourth episode of The Celebrity Traitors, series two.",
-            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from the fourth episode of The Celebrity Traitors, series two."
-          }
-        ]
-      },
-      {
-        "en": "While other people are out enjoying their lives, they have to kill it, night after night. Even on the weekend, there is no rest for the wicked.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "While other people are out enjoying their lives, they have to kill it, night after night.",
-            "ko": "실시간 보도 번역: While other people are out enjoying their lives, they have to kill it, night after night."
-          },
-          {
-            "en": "Even on the weekend, there is no rest for the wicked.",
-            "ko": "실시간 보도 번역: Even on the weekend, there is no rest for the wicked."
-          }
-        ]
-      },
-      {
-        "en": "Friday&#x27;s episode saw the the Traitors at it again, murdering Last of Us actor Bella Ramsey, before the faithfuls did their dirty work for them by banishing another of their own, Julie Hesmondhalgh.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Friday&#x27;s episode saw the the Traitors at it again, murdering Last of Us actor Bella Ramsey, before the faithfuls did their dirty work for them by banishing another of their own, Julie Hesmondhalgh.",
-            "ko": "실시간 보도 번역: Friday&#x27;s episode saw the the Traitors at it again, murdering Last of Us actor Bella Ramsey, before the faithfuls did their dirty work for them by banishing another of their own, Julie Hesmondhalgh."
           }
         ]
       }
