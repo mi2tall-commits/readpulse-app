@@ -1,6 +1,91 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_2150340672736557481",
+    "title": "Snapchat and Instagram grooming becoming 'easier'",
+    "subtitle": "Online grooming is rising, with children as young as five targeted, prompting calls for reform....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-16",
+    "addedAt": "2026-10-16T15:57:23Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 136,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSnapchat and Instagram grooming becoming &#x27;easier&#x27;Image source, Getty ImagesImage caption, Experts warn children as young as five years old are now being groomed on social media and gaming sites",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSnapchat and Instagram grooming becoming &#x27;easier&#x27;Image source, Getty ImagesImage caption, Experts warn children as young as five years old are now being groomed on social media and gaming sites",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSnapchat and Instagram grooming becoming &#x27;easier&#x27;Image source, Getty ImagesImage caption, Experts warn children as young as five years old are now being groomed on social media and gaming sites"
+          }
+        ]
+      },
+      {
+        "en": "Experts are urging parents to talk to their children amid warnings social media grooming is becoming &quot;quicker&quot; and &quot;easier&quot; than ever before.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Experts are urging parents to talk to their children amid warnings social media grooming is becoming &quot;quicker&quot; and &quot;easier&quot; than ever before.",
+            "ko": "실시간 보도 번역: Experts are urging parents to talk to their children amid warnings social media grooming is becoming &quot;quicker&quot; and &quot;easier&quot; than ever before."
+          }
+        ]
+      },
+      {
+        "en": "Childline said Snapchat, TikTok and Instagram were the top platforms children named in counselling about online sexual abuse last year. The companies have been approached for comment.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Childline said Snapchat, TikTok and Instagram were the top platforms children named in counselling about online sexual abuse last year.",
+            "ko": "실시간 보도 번역: Childline said Snapchat, TikTok and Instagram were the top platforms children named in counselling about online sexual abuse last year."
+          },
+          {
+            "en": "The companies have been approached for comment.",
+            "ko": "실시간 보도 번역: The companies have been approached for comment."
+          }
+        ]
+      },
+      {
+        "en": "Avon and Somerset Police&#x27;s child exploitation prevention officer Andri Nicolau said children as young as five can be targeted through social media, gaming and messaging platforms. She urged parents to encourage kids to ask for help without fear of blame or punishment.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Avon and Somerset Police&#x27;s child exploitation prevention officer Andri Nicolau said children as young as five can be targeted through social media, gaming and messaging platforms.",
+            "ko": "실시간 보도 번역: Avon and Somerset Police&#x27;s child exploitation prevention officer Andri Nicolau said children as young as five can be targeted through social media, gaming and messaging platforms."
+          },
+          {
+            "en": "She urged parents to encourage kids to ask for help without fear of blame or punishment.",
+            "ko": "실시간 보도 번역: She urged parents to encourage kids to ask for help without fear of blame or punishment."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Snapchat and Instagram grooming becoming 'easier'",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Snapchat and Instagram grooming becoming 'easier'",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_8273618583851228632",
     "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
     "subtitle": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year....",
@@ -722,66 +807,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_5398054819915496519",
-    "title": "King warns malicious online actors are evolving tactics",
-    "subtitle": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Cen...",
-    "speaker": "BBC Technology",
-    "date": "2026-10-10",
-    "addedAt": "2026-10-11T03:33:26Z",
-    "category": "tech",
+    "id": "auto_science_8865115056992899827",
+    "title": "Living with a stink? Technology might help",
+    "subtitle": "Smells from rubbish dumps and industrial facilities are being more carefully monitored....",
+    "speaker": "BBC Science",
+    "date": "2026-10-15",
+    "addedAt": "2026-10-16T15:57:24Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 130,
+    "wordCount": 118,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechKing warns malicious online actors are evolving tacticsImage source, Lesley Martin/PA WireImage caption, The King has previously warned of the &quot;existential dangers&quot; posed by AI",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessLiving with a stink? Technology might helpImage source, The Mercury News via Getty ImagesImage caption, The operators of Newby Island landfill have been ordered to take action over odours",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechKing warns malicious online actors are evolving tacticsImage source, Lesley Martin/PA WireImage caption, The King has previously warned of the &quot;existential dangers&quot; posed by AI",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechKing warns malicious online actors are evolving tacticsImage source, Lesley Martin/PA WireImage caption, The King has previously warned of the &quot;existential dangers&quot; posed by AI"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessLiving with a stink?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessLiving with a stink?"
           }
         ]
       },
       {
-        "en": "King Charles III has warned of the challenges disinformation and other &quot;hostile online activity&quot; pose to trust and security in the digital age.",
+        "en": "Milpitas, an affluent city in California&#x27;s Silicon Valley tech hub, has an odour problem.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "King Charles III has warned of the challenges disinformation and other &quot;hostile online activity&quot; pose to trust and security in the digital age.",
-            "ko": "실시간 보도 번역: King Charles III has warned of the challenges disinformation and other &quot;hostile online activity&quot; pose to trust and security in the digital age."
+            "en": "Milpitas, an affluent city in California&#x27;s Silicon Valley tech hub, has an odour problem.",
+            "ko": "실시간 보도 번역: Milpitas, an affluent city in California&#x27;s Silicon Valley tech hub, has an odour problem."
           }
         ]
       },
       {
-        "en": "The comments, made in a letter to the National Cyber Security Centre (NCSC) to mark its 10th anniversary, spoke of &quot;malicious actors&quot; continuing to &quot;evolve their tactics by using automated technologies&quot;.",
+        "en": "For decades, residents have had to endure rank smells wafting from industrial sites, among them a 342-acre landfill.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The comments, made in a letter to the National Cyber Security Centre (NCSC) to mark its 10th anniversary, spoke of &quot;malicious actors&quot; continuing to &quot;evolve their tactics by using automated technologies&quot;.",
-            "ko": "실시간 보도 번역: The comments, made in a letter to the National Cyber Security Centre (NCSC) to mark its 10th anniversary, spoke of &quot;malicious actors&quot; continuing to &quot;evolve their tactics by using automated technologies&quot;."
+            "en": "For decades, residents have had to endure rank smells wafting from industrial sites, among them a 342-acre landfill.",
+            "ko": "실시간 보도 번역: For decades, residents have had to endure rank smells wafting from industrial sites, among them a 342-acre landfill."
           }
         ]
       },
       {
-        "en": "&quot;From threats to our international order, to the need to balance the risks and opportunities of powerful new technologies, strong cyber security is fundamental to making the online environment safer and more resilient,&quot; he wrote.",
+        "en": "&quot;When I first moved here, I could not open my window for over 10 years,&quot; says Chia-Ling Kong, an engineer for a tech firm who lives around half a mile from the dump.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;From threats to our international order, to the need to balance the risks and opportunities of powerful new technologies, strong cyber security is fundamental to making the online environment safer and more resilient,&quot; he wrote.",
-            "ko": "실시간 보도 번역: &quot;From threats to our international order, to the need to balance the risks and opportunities of powerful new technologies, strong cyber security is fundamental to making the online environment safer and more resilient,&quot; he wrote."
+            "en": "&quot;When I first moved here, I could not open my window for over 10 years,&quot; says Chia-Ling Kong, an engineer for a tech firm who lives around half a mile from the dump.",
+            "ko": "실시간 보도 번역: &quot;When I first moved here, I could not open my window for over 10 years,&quot; says Chia-Ling Kong, an engineer for a tech firm who lives around half a mile from the dump."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: King warns malicious online actors are evolving tactics",
+      "글로벌 최신 소식: Living with a stink? Technology might help",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -789,7 +874,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "King warns malicious online actors are evolving tactics",
+          "Living with a stink? Technology might help",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1600,66 +1685,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_4082422584414794959",
-    "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-    "subtitle": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclon...",
-    "speaker": "BBC Science",
-    "date": "2026-10-10",
-    "addedAt": "2026-10-11T03:33:27Z",
-    "category": "science",
+    "id": "auto_economy_8707734422488392585",
+    "title": "Banks expect to be hit with higher taxes in Budget",
+    "subtitle": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month....",
+    "speaker": "BBC Business",
+    "date": "2026-10-16",
+    "addedAt": "2026-10-16T15:57:25Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 115,
+    "wordCount": 158,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaFour dead and thousands without power after Hurricane Isaias lashes USTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 5 hours agoChancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaFour dead and thousands without power after Hurricane Isaias lashes USTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaFour dead and thousands without power after Hurricane Isaias lashes USTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 5 hours agoChancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 5 hours agoChancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC."
           }
         ]
       },
       {
-        "en": "Four people have died and hundreds of thousands are without power after Hurricane Isaias battered parts of the southern US with powerful winds and heavy rain.",
+        "en": "Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Four people have died and hundreds of thousands are without power after Hurricane Isaias battered parts of the southern US with powerful winds and heavy rain.",
-            "ko": "실시간 보도 번역: Four people have died and hundreds of thousands are without power after Hurricane Isaias battered parts of the southern US with powerful winds and heavy rain."
+            "en": "Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time.",
+            "ko": "실시간 보도 번역: Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time."
           }
         ]
       },
       {
-        "en": "Officials reported two deaths each in the states of Alabama and Florida, which included people who were killed when trees fell on their houses.",
+        "en": "The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Officials reported two deaths each in the states of Alabama and Florida, which included people who were killed when trees fell on their houses.",
-            "ko": "실시간 보도 번역: Officials reported two deaths each in the states of Alabama and Florida, which included people who were killed when trees fell on their houses."
+            "en": "The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.",
+            "ko": "실시간 보도 번역: The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes."
           }
         ]
       },
       {
-        "en": "An estimated 500,000 people in total were without power in several states as of Saturday evening, according to tracker PowerOutage.",
+        "en": "The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "An estimated 500,000 people in total were without power in several states as of Saturday evening, according to tracker PowerOutage.",
-            "ko": "실시간 보도 번역: An estimated 500,000 people in total were without power in several states as of Saturday evening, according to tracker PowerOutage."
+            "en": "The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
+            "ko": "실시간 보도 번역: The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Four dead and thousands without power after Hurricane Isaias lashes US",
+      "글로벌 최신 소식: Banks expect to be hit with higher taxes in Budget",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1667,7 +1752,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Four dead and thousands without power after Hurricane Isaias lashes US",
+          "Banks expect to be hit with higher taxes in Budget",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2386,66 +2471,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_878544050229019247",
-    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-    "subtitle": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"....",
-    "speaker": "BBC Business",
-    "date": "2026-10-10",
-    "addedAt": "2026-10-11T03:33:27Z",
-    "category": "economy",
+    "id": "auto_sports_7723313851907133483",
+    "title": "Kartal upsets Svitolina to reach Wuhan semi-finals",
+    "subtitle": "Sonay Kartal's winning streak following a long injury lay-off continues as she seals a hard-fought victory over fifth seed Elina S...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-16",
+    "addedAt": "2026-10-16T15:57:27Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 133,
+    "wordCount": 144,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Andrew Harnik/Getty ImagesImage caption, Donald Trump and Vladimir Putin met in Alaska last year",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal enjoys &#x27;best week of career&#x27; after diving into deep endImage source, Getty ImagesImage caption, Sonay Kartal has dropped to 170 in the world after her long-term injury, but reached a career-high ranking of 44 in July 2025",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Andrew Harnik/Getty ImagesImage caption, Donald Trump and Vladimir Putin met in Alaska last year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Andrew Harnik/Getty ImagesImage caption, Donald Trump and Vladimir Putin met in Alaska last year"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal enjoys &#x27;best week of career&#x27; after diving into deep endImage source, Getty ImagesImage caption, Sonay Kartal has dropped to 170 in the world after her long-term injury, but reached a career-high ranking of 44 in July 2025",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal enjoys &#x27;best week of career&#x27; after diving into deep endImage source, Getty ImagesImage caption, Sonay Kartal has dropped to 170 in the world after her long-term injury, but reached a career-high ranking of 44 in July 2025"
           }
         ]
       },
       {
-        "en": "Ukraine&#x27;s President Volodymyr Zelensky has condemned Donald Trump&#x27;s announcement of a deal to import Russian diesel into the US.",
+        "en": "Sonay Kartal had a difficult decision to make when she felt ready to rejoin the WTA Tour, having not played for six months because of a debilitating back injury.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Ukraine&#x27;s President Volodymyr Zelensky has condemned Donald Trump&#x27;s announcement of a deal to import Russian diesel into the US.",
-            "ko": "실시간 보도 번역: Ukraine&#x27;s President Volodymyr Zelensky has condemned Donald Trump&#x27;s announcement of a deal to import Russian diesel into the US."
+            "en": "Sonay Kartal had a difficult decision to make when she felt ready to rejoin the WTA Tour, having not played for six months because of a debilitating back injury.",
+            "ko": "실시간 보도 번역: Sonay Kartal had a difficult decision to make when she felt ready to rejoin the WTA Tour, having not played for six months because of a debilitating back injury."
           }
         ]
       },
       {
-        "en": "Zelensky called it a gift to Russian President Vladimir Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;, a position quickly backed by Ukraine&#x27;s European allies.",
+        "en": "Did the 24-year-old Briton ease herself in more gently at lower-ranked tournaments?",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Zelensky called it a gift to Russian President Vladimir Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;, a position quickly backed by Ukraine&#x27;s European allies.",
-            "ko": "실시간 보도 번역: Zelensky called it a gift to Russian President Vladimir Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;, a position quickly backed by Ukraine&#x27;s European allies."
+            "en": "Did the 24-year-old Briton ease herself in more gently at lower-ranked tournaments?",
+            "ko": "실시간 보도 번역: Did the 24-year-old Briton ease herself in more gently at lower-ranked tournaments?"
           }
         ]
       },
       {
-        "en": "Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that.",
+        "en": "Or did the former world number 54 use a protected injury ranking to enter WTA 1000 events in China, where the world&#x27;s best players compete at the pinnacle of the women&#x27;s tour?",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that.",
-            "ko": "실시간 보도 번역: Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that."
+            "en": "Or did the former world number 54 use a protected injury ranking to enter WTA 1000 events in China, where the world&#x27;s best players compete at the pinnacle of the women&#x27;s tour?",
+            "ko": "실시간 보도 번역: Or did the former world number 54 use a protected injury ranking to enter WTA 1000 events in China, where the world&#x27;s best players compete at the pinnacle of the women&#x27;s tour?"
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "글로벌 최신 소식: Kartal upsets Svitolina to reach Wuhan semi-finals",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2453,14 +2538,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "Kartal upsets Svitolina to reach Wuhan semi-finals",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_7288462649070504906",
@@ -3174,66 +3261,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_633399403005831802",
-    "title": "Djokovic suffers surprise Hurkacz loss in Shanghai",
-    "subtitle": "Novak Djokovic suffers a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after his triumph a...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-09",
-    "addedAt": "2026-10-11T03:33:28Z",
-    "category": "sports",
+    "id": "auto_culture_1290591963825310094",
+    "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death parade",
+    "subtitle": "The celebrities turn on each other at the round table, and have to beat the death walkers for their mission....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-15",
+    "addedAt": "2026-10-16T15:57:30Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 135,
+    "wordCount": 102,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsSparks fly at the Celebrity Traitors round table and a &#x27;terrifying&#x27; death paradeImage source, BBC/Studio Lambert/Euan CherryImage caption, The death walkers terrified Leigh-Anne Pinnock, who felt like she was in a horror film",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsSparks fly at the Celebrity Traitors round table and a &#x27;terrifying&#x27; death paradeImage source, BBC/Studio Lambert/Euan CherryImage caption, The death walkers terrified Leigh-Anne Pinnock, who felt like she was in a horror film",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsSparks fly at the Celebrity Traitors round table and a &#x27;terrifying&#x27; death paradeImage source, BBC/Studio Lambert/Euan CherryImage caption, The death walkers terrified Leigh-Anne Pinnock, who felt like she was in a horror film"
           }
         ]
       },
       {
-        "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
+        "en": "Spoiler warning: This article reveals details from the fifth episode of The Celebrity Traitors, series two.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
-            "ko": "실시간 보도 번역: Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing."
+            "en": "Spoiler warning: This article reveals details from the fifth episode of The Celebrity Traitors, series two.",
+            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from the fifth episode of The Celebrity Traitors, series two."
           }
         ]
       },
       {
-        "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
+        "en": "Things are hotting up a bit in the castle, not least for Ross Kemp, who doesn&#x27;t seem to be enjoying it very much.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
-            "ko": "실시간 보도 번역: The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final."
+            "en": "Things are hotting up a bit in the castle, not least for Ross Kemp, who doesn&#x27;t seem to be enjoying it very much.",
+            "ko": "실시간 보도 번역: Things are hotting up a bit in the castle, not least for Ross Kemp, who doesn&#x27;t seem to be enjoying it very much."
           }
         ]
       },
       {
-        "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
+        "en": "&quot;I&#x27;m quite angry,&quot; he said, his brow furrowing even more than usual.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
-            "ko": "실시간 보도 번역: But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole."
+            "en": "&quot;I&#x27;m quite angry,&quot; he said, his brow furrowing even more than usual.",
+            "ko": "실시간 보도 번역: &quot;I&#x27;m quite angry,&quot; he said, his brow furrowing even more than usual."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Djokovic suffers surprise Hurkacz loss in Shanghai",
+      "글로벌 최신 소식: Sparks fly at the Celebrity Traitors round table and a 'terrifying' death parade",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3241,16 +3328,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Djokovic suffers surprise Hurkacz loss in Shanghai",
+          "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death parade",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_8570335344400802606",
@@ -3919,83 +4004,6 @@ const READPULSE_ARTICLES = [
           {
             "en": "Music correspondentPublished11 October 2026, 00:31 BSTWhat&#x27;s it like to be the main character of an online scandal?",
             "ko": "실시간 보도 번역: Music correspondentPublished11 October 2026, 00:31 BSTWhat&#x27;s it like to be the main character of an online scandal?"
-          }
-        ]
-      },
-      {
-        "en": "That&#x27;s one of the questions raised in a new documentary about Lisa Manobal – one quarter of K-pop phenomenon Blackpink and a breakout star of TV show The White Lotus.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "That&#x27;s one of the questions raised in a new documentary about Lisa Manobal – one quarter of K-pop phenomenon Blackpink and a breakout star of TV show The White Lotus.",
-            "ko": "실시간 보도 번역: That&#x27;s one of the questions raised in a new documentary about Lisa Manobal – one quarter of K-pop phenomenon Blackpink and a breakout star of TV show The White Lotus."
-          }
-        ]
-      },
-      {
-        "en": "The film captures an unfolding controversy, as leaked videos show Blackpink using racial slurs when they were teenage trainees in the K-pop system.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The film captures an unfolding controversy, as leaked videos show Blackpink using racial slurs when they were teenage trainees in the K-pop system.",
-            "ko": "실시간 보도 번역: The film captures an unfolding controversy, as leaked videos show Blackpink using racial slurs when they were teenage trainees in the K-pop system."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_4990652593461291662",
-    "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-    "subtitle": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-10",
-    "addedAt": "2026-10-11T03:33:29Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 127,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsInside the room: What it was like to be with Blackpink&#x27;s Lisa as race scandal eruptedImage source, Getty ImagesImage caption, Lisa, who was born Pranpriya Manobal in Thailand, became one of the world&#x27;s most-recognisable K-pop idols as a member of Blackpink",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsInside the room: What it was like to be with Blackpink&#x27;s Lisa as race scandal eruptedImage source, Getty ImagesImage caption, Lisa, who was born Pranpriya Manobal in Thailand, became one of the world&#x27;s most-recognisable K-pop idols as a member of Blackpink",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsInside the room: What it was like to be with Blackpink&#x27;s Lisa as race scandal eruptedImage source, Getty ImagesImage caption, Lisa, who was born Pranpriya Manobal in Thailand, became one of the world&#x27;s most-recognisable K-pop idols as a member of Blackpink"
-          }
-        ]
-      },
-      {
-        "en": "Music correspondentPublished3 hours agoWhat&#x27;s it like to be the main character of an online scandal?",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Music correspondentPublished3 hours agoWhat&#x27;s it like to be the main character of an online scandal?",
-            "ko": "실시간 보도 번역: Music correspondentPublished3 hours agoWhat&#x27;s it like to be the main character of an online scandal?"
           }
         ]
       },
