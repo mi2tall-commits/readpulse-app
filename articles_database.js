@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_8273618583851228632",
+    "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+    "subtitle": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-15",
+    "addedAt": "2026-10-16T02:49:54Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 125,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGTA 6 - all you need to know about Rockstar&#x27;s blockbuster gameImage source, Rockstar GamesImage caption, GTA 6 will feature Jason and Lucia as playable characters",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGTA 6 - all you need to know about Rockstar&#x27;s blockbuster gameImage source, Rockstar GamesImage caption, GTA 6 will feature Jason and Lucia as playable characters",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGTA 6 - all you need to know about Rockstar&#x27;s blockbuster gameImage source, Rockstar GamesImage caption, GTA 6 will feature Jason and Lucia as playable characters"
+          }
+        ]
+      },
+      {
+        "en": "Rockstar has released a new launch trailer for Grand Theft Auto VI, revealing more details about what is set to be the biggest game of the year.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Rockstar has released a new launch trailer for Grand Theft Auto VI, revealing more details about what is set to be the biggest game of the year.",
+            "ko": "실시간 보도 번역: Rockstar has released a new launch trailer for Grand Theft Auto VI, revealing more details about what is set to be the biggest game of the year."
+          }
+        ]
+      },
+      {
+        "en": "GTA 6 became available to pre-order at midnight on 25 June in the UK and elsewhere around the world, after Rockstar revealed the game&#x27;s pre-sales launch date and cover art in mid-June.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "GTA 6 became available to pre-order at midnight on 25 June in the UK and elsewhere around the world, after Rockstar revealed the game&#x27;s pre-sales launch date and cover art in mid-June.",
+            "ko": "실시간 보도 번역: GTA 6 became available to pre-order at midnight on 25 June in the UK and elsewhere around the world, after Rockstar revealed the game&#x27;s pre-sales launch date and cover art in mid-June."
+          }
+        ]
+      },
+      {
+        "en": "Analysts believe Rockstar&#x27;s action adventure could become the most expensive game ever made, with estimates, external putting development costs at more than $1bn (£866m).",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Analysts believe Rockstar&#x27;s action adventure could become the most expensive game ever made, with estimates, external putting development costs at more than $1bn (£866m).",
+            "ko": "실시간 보도 번역: Analysts believe Rockstar&#x27;s action adventure could become the most expensive game ever made, with estimates, external putting development costs at more than $1bn (£866m)."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: GTA 6 - all you need to know about Rockstar's blockbuster game",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "GTA 6 - all you need to know about Rockstar's blockbuster game",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_8887450112497025322",
     "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
     "subtitle": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure....",
@@ -722,66 +799,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_4142273937905996346",
-    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-    "subtitle": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect ...",
-    "speaker": "BBC Technology",
-    "date": "2026-10-10",
-    "addedAt": "2026-10-10T16:49:51Z",
-    "category": "tech",
+    "id": "auto_science_4253691306955064653",
+    "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
+    "subtitle": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban....",
+    "speaker": "BBC Science",
+    "date": "2026-10-15",
+    "addedAt": "2026-10-16T02:49:54Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 158,
+    "wordCount": 147,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaRogue Anthropic AI agent gave police fake tip in unsolved murder caseImage source, LightRocket via Getty ImagesImage caption, AI tech company Anthropic was running a test that involved interactions with randomly selected websites, when it sent a fake homicide tip to police",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateSevere drought declared and hosepipe bans in force - is your area affected?Image source, Matt Cardy/Getty ImagesByMark Poynting, Climate reporter, Jess Carr, Data designer and Phil Leake, Data journalistPublished2 July 2025Updated 15 October 2026Severe drought has been declared in parts of southern England after months of dry weather drove some reservoirs to exceptionally low levels.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaRogue Anthropic AI agent gave police fake tip in unsolved murder caseImage source, LightRocket via Getty ImagesImage caption, AI tech company Anthropic was running a test that involved interactions with randomly selected websites, when it sent a fake homicide tip to police",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaRogue Anthropic AI agent gave police fake tip in unsolved murder caseImage source, LightRocket via Getty ImagesImage caption, AI tech company Anthropic was running a test that involved interactions with randomly selected websites, when it sent a fake homicide tip to police"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateSevere drought declared and hosepipe bans in force - is your area affected?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateSevere drought declared and hosepipe bans in force - is your area affected?"
+          },
+          {
+            "en": "Image source, Matt Cardy/Getty ImagesByMark Poynting, Climate reporter, Jess Carr, Data designer and Phil Leake, Data journalistPublished2 July 2025Updated 15 October 2026Severe drought has been declared in parts of southern England after months of dry weather drove some reservoirs to exceptionally low levels.",
+            "ko": "실시간 보도 번역: Image source, Matt Cardy/Getty ImagesByMark Poynting, Climate reporter, Jess Carr, Data designer and Phil Leake, Data journalistPublished2 July 2025Updated 15 October 2026Severe drought has been declared in parts of southern England after months of dry weather drove some reservoirs to exceptionally low levels."
           }
         ]
       },
       {
-        "en": "An artificial intelligence (AI) agent developed by Anthropic went rogue and sent US police a fake tip about an unsolved murder earlier this year, authorities have revealed.",
+        "en": "Most of England and all of Wales were already under drought conditions after both nations&#x27; hottest summers on record, which has taken its toll on rivers, crops and nature.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "An artificial intelligence (AI) agent developed by Anthropic went rogue and sent US police a fake tip about an unsolved murder earlier this year, authorities have revealed.",
-            "ko": "실시간 보도 번역: An artificial intelligence (AI) agent developed by Anthropic went rogue and sent US police a fake tip about an unsolved murder earlier this year, authorities have revealed."
+            "en": "Most of England and all of Wales were already under drought conditions after both nations&#x27; hottest summers on record, which has taken its toll on rivers, crops and nature.",
+            "ko": "실시간 보도 번역: Most of England and all of Wales were already under drought conditions after both nations&#x27; hottest summers on record, which has taken its toll on rivers, crops and nature."
           }
         ]
       },
       {
-        "en": "The Philadelphia Police Department said the 18 July tip was &quot;flagged as spam&quot; and not passed on for investigation - but the force criticised the tech firm for taking more than two months to detect and report the breach.",
+        "en": "Roughly 30 million people across parts of England and Wales are covered by hosepipe bans, as part of water companies&#x27; efforts to manage supplies.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Philadelphia Police Department said the 18 July tip was &quot;flagged as spam&quot; and not passed on for investigation - but the force criticised the tech firm for taking more than two months to detect and report the breach.",
-            "ko": "실시간 보도 번역: The Philadelphia Police Department said the 18 July tip was &quot;flagged as spam&quot; and not passed on for investigation - but the force criticised the tech firm for taking more than two months to detect and report the breach."
+            "en": "Roughly 30 million people across parts of England and Wales are covered by hosepipe bans, as part of water companies&#x27; efforts to manage supplies.",
+            "ko": "실시간 보도 번역: Roughly 30 million people across parts of England and Wales are covered by hosepipe bans, as part of water companies&#x27; efforts to manage supplies."
           }
         ]
       },
       {
-        "en": "It said the bogus tip came through a public website where people can share information on unsolved murders, and that the AI agent had claimed to have seen &quot;someone matching the description&quot;.",
+        "en": "&quot;Severe drought&quot; - the highest category - has now been declared for parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It said the bogus tip came through a public website where people can share information on unsolved murders, and that the AI agent had claimed to have seen &quot;someone matching the description&quot;.",
-            "ko": "실시간 보도 번역: It said the bogus tip came through a public website where people can share information on unsolved murders, and that the AI agent had claimed to have seen &quot;someone matching the description&quot;."
+            "en": "&quot;Severe drought&quot; - the highest category - has now been declared for parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex.",
+            "ko": "실시간 보도 번역: &quot;Severe drought&quot; - the highest category - has now been declared for parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "글로벌 최신 소식: Severe drought declared and hosepipe bans in force - is your area affected?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -789,7 +870,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+          "Severe drought declared and hosepipe bans in force - is your area affected?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1596,70 +1677,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_4003754073611913957",
-    "title": "How drones are hunting fires hidden beneath the Cairngorms",
-    "subtitle": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth....",
-    "speaker": "BBC Science",
-    "date": "2026-10-10",
-    "addedAt": "2026-10-10T16:49:51Z",
-    "category": "science",
+    "id": "auto_economy_6032001306773446827",
+    "title": "Banks say Healey is planning Budget tax raid on their profits",
+    "subtitle": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month....",
+    "speaker": "BBC Business",
+    "date": "2026-10-15",
+    "addedAt": "2026-10-16T02:49:55Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 117,
+    "wordCount": 160,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechHow drones are hunting fires hidden beneath the Cairngorms Image caption, Drone pilot Pete Short hunts for hotspots in the Cairngorms National Park which was devastated by a huge wildfire over the summer",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks say Healey is planning Budget tax raid on their profitsImage source, Sirachai Arunrugstichai/Bloomberg via Getty ImagesBySimon JackBusiness editorPublished9 hours agoSenior banking executives have told the BBC they expect the sector to be &quot;on the menu&quot; when the chancellor announces his Budget in two weeks&#x27; time.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechHow drones are hunting fires hidden beneath the Cairngorms Image caption, Drone pilot Pete Short hunts for hotspots in the Cairngorms National Park which was devastated by a huge wildfire over the summer",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechHow drones are hunting fires hidden beneath the Cairngorms Image caption, Drone pilot Pete Short hunts for hotspots in the Cairngorms National Park which was devastated by a huge wildfire over the summer"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks say Healey is planning Budget tax raid on their profitsImage source, Sirachai Arunrugstichai/Bloomberg via Getty ImagesBySimon JackBusiness editorPublished9 hours agoSenior banking executives have told the BBC they expect the sector to be &quot;on the menu&quot; when the chancellor announces his Budget in two weeks&#x27; time.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks say Healey is planning Budget tax raid on their profitsImage source, Sirachai Arunrugstichai/Bloomberg via Getty ImagesBySimon JackBusiness editorPublished9 hours agoSenior banking executives have told the BBC they expect the sector to be &quot;on the menu&quot; when the chancellor announces his Budget in two weeks&#x27; time."
           }
         ]
       },
       {
-        "en": "It is 06:00 and I&#x27;m meeting drone pilot Pete Short for a dawn patrol in the Cairngorms National Park.",
+        "en": "John Healey has described the banks as part of &quot;the crown jewels&quot; of the UK economy, yet has refused to rule out a raid on the sector.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It is 06:00 and I&#x27;m meeting drone pilot Pete Short for a dawn patrol in the Cairngorms National Park.",
-            "ko": "실시간 보도 번역: It is 06:00 and I&#x27;m meeting drone pilot Pete Short for a dawn patrol in the Cairngorms National Park."
+            "en": "John Healey has described the banks as part of &quot;the crown jewels&quot; of the UK economy, yet has refused to rule out a raid on the sector.",
+            "ko": "실시간 보도 번역: John Healey has described the banks as part of &quot;the crown jewels&quot; of the UK economy, yet has refused to rule out a raid on the sector."
           }
         ]
       },
       {
-        "en": "It is a job he has been doing for almost three months, since a huge wildfire tore through this landscape in July.",
+        "en": "The biggest four banks collectively made around £15bn profit in the first six months of this year, leading to calls from trade unions and others for additional taxes.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It is a job he has been doing for almost three months, since a huge wildfire tore through this landscape in July.",
-            "ko": "실시간 보도 번역: It is a job he has been doing for almost three months, since a huge wildfire tore through this landscape in July."
+            "en": "The biggest four banks collectively made around £15bn profit in the first six months of this year, leading to calls from trade unions and others for additional taxes.",
+            "ko": "실시간 보도 번역: The biggest four banks collectively made around £15bn profit in the first six months of this year, leading to calls from trade unions and others for additional taxes."
           }
         ]
       },
       {
-        "en": "The flames which swept across the hillsides are gone. From where we are standing, there is little to suggest there is still a fire here at all.",
+        "en": "However, the banking sector trade body, UK Finance, warned that &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The flames which swept across the hillsides are gone.",
-            "ko": "실시간 보도 번역: The flames which swept across the hillsides are gone."
-          },
-          {
-            "en": "From where we are standing, there is little to suggest there is still a fire here at all.",
-            "ko": "실시간 보도 번역: From where we are standing, there is little to suggest there is still a fire here at all."
+            "en": "However, the banking sector trade body, UK Finance, warned that &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
+            "ko": "실시간 보도 번역: However, the banking sector trade body, UK Finance, warned that &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: How drones are hunting fires hidden beneath the Cairngorms",
+      "글로벌 최신 소식: Banks say Healey is planning Budget tax raid on their profits",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1667,7 +1744,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "How drones are hunting fires hidden beneath the Cairngorms",
+          "Banks say Healey is planning Budget tax raid on their profits",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2386,66 +2463,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_8741500579526227067",
-    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-    "subtitle": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"....",
-    "speaker": "BBC Business",
-    "date": "2026-10-10",
-    "addedAt": "2026-10-10T16:49:52Z",
-    "category": "economy",
+    "id": "auto_sports_7288462649070504906",
+    "title": "Serb player banned until 2050 for tennis match-fixing",
+    "subtitle": "Stefan Milicevic is given a 24-year suspension from tennis - one of the most severe punishments outside of a lifetime ban - for ma...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-15",
+    "addedAt": "2026-10-16T02:49:55Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 133,
+    "wordCount": 144,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Andrew Harnik/Getty ImagesImage caption, Donald Trump and Vladimir Putin met in Alaska last year",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSerb player banned to 2050 for tennis match-fixingImage source, Getty ImagesImage caption, Stefan Milicevic played in 22 professional tournaments on the lower-tier ITF Tour between 2013 and 2023",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Andrew Harnik/Getty ImagesImage caption, Donald Trump and Vladimir Putin met in Alaska last year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessTrump announces deal for Russian diesel as Zelensky calls it a gift to PutinImage source, Andrew Harnik/Getty ImagesImage caption, Donald Trump and Vladimir Putin met in Alaska last year"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSerb player banned to 2050 for tennis match-fixingImage source, Getty ImagesImage caption, Stefan Milicevic played in 22 professional tournaments on the lower-tier ITF Tour between 2013 and 2023",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSerb player banned to 2050 for tennis match-fixingImage source, Getty ImagesImage caption, Stefan Milicevic played in 22 professional tournaments on the lower-tier ITF Tour between 2013 and 2023"
           }
         ]
       },
       {
-        "en": "Ukraine&#x27;s President Volodymyr Zelensky has condemned Donald Trump&#x27;s announcement of a deal to import Russian diesel into the US.",
+        "en": "A player from Serbia has been given a 24-year suspension from tennis - one of the most severe punishments imposed by anti-corruption investigators outside of a lifetime ban - for match-fixing.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Ukraine&#x27;s President Volodymyr Zelensky has condemned Donald Trump&#x27;s announcement of a deal to import Russian diesel into the US.",
-            "ko": "실시간 보도 번역: Ukraine&#x27;s President Volodymyr Zelensky has condemned Donald Trump&#x27;s announcement of a deal to import Russian diesel into the US."
+            "en": "A player from Serbia has been given a 24-year suspension from tennis - one of the most severe punishments imposed by anti-corruption investigators outside of a lifetime ban - for match-fixing.",
+            "ko": "실시간 보도 번역: A player from Serbia has been given a 24-year suspension from tennis - one of the most severe punishments imposed by anti-corruption investigators outside of a lifetime ban - for match-fixing."
           }
         ]
       },
       {
-        "en": "Zelensky called it a gift to Russian President Vladimir Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;, a position quickly backed by Ukraine&#x27;s European allies.",
+        "en": "Stefan Milicevic, who reached a career-high world ranking of 1,338th in 2014, was charged with fixing six matches, including five in which he was competing.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Zelensky called it a gift to Russian President Vladimir Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;, a position quickly backed by Ukraine&#x27;s European allies.",
-            "ko": "실시간 보도 번역: Zelensky called it a gift to Russian President Vladimir Putin that amounts to &quot;an investment in a war that must be ended, not prolonged&quot;, a position quickly backed by Ukraine&#x27;s European allies."
+            "en": "Stefan Milicevic, who reached a career-high world ranking of 1,338th in 2014, was charged with fixing six matches, including five in which he was competing.",
+            "ko": "실시간 보도 번역: Stefan Milicevic, who reached a career-high world ranking of 1,338th in 2014, was charged with fixing six matches, including five in which he was competing."
           }
         ]
       },
       {
-        "en": "Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that.",
+        "en": "The 29-year-old, who played on the lower rungs of the professional ladder, was also charged with attempting to fix a further six matches between 2022 and 2024.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that.",
-            "ko": "실시간 보도 번역: Trump said Putin had agreed to release 300,000 tonnes of diesel immediately &quot;to the American and global marketplace&quot; followed by 500,000 tonnes in November and another million after that."
+            "en": "The 29-year-old, who played on the lower rungs of the professional ladder, was also charged with attempting to fix a further six matches between 2022 and 2024.",
+            "ko": "실시간 보도 번역: The 29-year-old, who played on the lower rungs of the professional ladder, was also charged with attempting to fix a further six matches between 2022 and 2024."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "글로벌 최신 소식: Serb player banned until 2050 for tennis match-fixing",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2453,14 +2530,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "Serb player banned until 2050 for tennis match-fixing",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_6227945876326516854",
@@ -3174,66 +3253,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_3051949597332496228",
-    "title": "Djokovic suffers surprise Hurkacz loss in Shanghai",
-    "subtitle": "Novak Djokovic suffers a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after his triumph a...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-09",
-    "addedAt": "2026-10-10T16:49:52Z",
-    "category": "sports",
+    "id": "auto_culture_8570335344400802606",
+    "title": "Russell Brand accuser says he turned 'monster-like' before alleged rape",
+    "subtitle": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-15",
+    "addedAt": "2026-10-16T02:49:56Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 135,
+    "wordCount": 115,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand accuser says he turned &#x27;monster-like&#x27; before alleged rapeImage source, ReutersBySima Kotecha and Helena Wilkinson, Reporting fromSouthwark Crown CourtPublished15 October 2026Warning - this report contains graphic content",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarDjokovic suffers surprise Hurkacz loss in ShanghaiImage source, Getty ImagesImage caption, Novak Djokovic received a first-round bye in Shanghai as the tournament&#x27;s 10th seed"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand accuser says he turned &#x27;monster-like&#x27; before alleged rapeImage source, ReutersBySima Kotecha and Helena Wilkinson, Reporting fromSouthwark Crown CourtPublished15 October 2026Warning - this report contains graphic content",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand accuser says he turned &#x27;monster-like&#x27; before alleged rapeImage source, ReutersBySima Kotecha and Helena Wilkinson, Reporting fromSouthwark Crown CourtPublished15 October 2026Warning - this report contains graphic content"
           }
         ]
       },
       {
-        "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
+        "en": "A woman who alleges Russell Brand raped her in a hotel room has said he turned from &quot;camp, friendly and effeminate&quot; to &quot;monster-like&quot; before the alleged assault.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing.",
-            "ko": "실시간 보도 번역: Novak Djokovic suffered a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after triumphing at the China Open in Beijing."
+            "en": "A woman who alleges Russell Brand raped her in a hotel room has said he turned from &quot;camp, friendly and effeminate&quot; to &quot;monster-like&quot; before the alleged assault.",
+            "ko": "실시간 보도 번역: A woman who alleges Russell Brand raped her in a hotel room has said he turned from &quot;camp, friendly and effeminate&quot; to &quot;monster-like&quot; before the alleged assault."
           }
         ]
       },
       {
-        "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
+        "en": "The 51-year-old actor and comedian faces seven charges - three counts of rape, three charges of sexual assault and one of indecent assault.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final.",
-            "ko": "실시간 보도 번역: The 39-year-old Djokovic ended an 11-month wait to lift the 102nd title of his illustrious career after Alex de Minaur retired injured from the China Open final."
+            "en": "The 51-year-old actor and comedian faces seven charges - three counts of rape, three charges of sexual assault and one of indecent assault.",
+            "ko": "실시간 보도 번역: The 51-year-old actor and comedian faces seven charges - three counts of rape, three charges of sexual assault and one of indecent assault."
           }
         ]
       },
       {
-        "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
+        "en": "The allegations, made by six female complainants, span a 10-year period between 1999 and 2009. He denies the charges.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole.",
-            "ko": "실시간 보도 번역: But, contesting his sixth match in the space of 10 days, Djokovic lost to Hurkacz for the first time in nine career meetings with the Pole."
+            "en": "The allegations, made by six female complainants, span a 10-year period between 1999 and 2009.",
+            "ko": "실시간 보도 번역: The allegations, made by six female complainants, span a 10-year period between 1999 and 2009."
+          },
+          {
+            "en": "He denies the charges.",
+            "ko": "실시간 보도 번역: He denies the charges."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Djokovic suffers surprise Hurkacz loss in Shanghai",
+      "글로벌 최신 소식: Russell Brand accuser says he turned 'monster-like' before alleged rape",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3241,16 +3324,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Djokovic suffers surprise Hurkacz loss in Shanghai",
+          "Russell Brand accuser says he turned 'monster-like' before alleged rape",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_3579992107252940790",
@@ -3949,87 +4030,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_2343749866373135955",
-    "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
-    "subtitle": "Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-10",
-    "addedAt": "2026-10-10T16:49:54Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 139,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsScreams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats upByPaul GlynnCulture reporterPublished9 October 2026Updated 5 hours agoSpoiler warning: This article reveals details from the fourth episode of The Celebrity Traitors, series two.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsScreams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats upByPaul GlynnCulture reporterPublished9 October 2026Updated 5 hours agoSpoiler warning: This article reveals details from the fourth episode of The Celebrity Traitors, series two.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsScreams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats upByPaul GlynnCulture reporterPublished9 October 2026Updated 5 hours agoSpoiler warning: This article reveals details from the fourth episode of The Celebrity Traitors, series two."
-          }
-        ]
-      },
-      {
-        "en": "While other people are out enjoying their lives, they have to kill it, night after night. Even on the weekend, there is no rest for the wicked.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "While other people are out enjoying their lives, they have to kill it, night after night.",
-            "ko": "실시간 보도 번역: While other people are out enjoying their lives, they have to kill it, night after night."
-          },
-          {
-            "en": "Even on the weekend, there is no rest for the wicked.",
-            "ko": "실시간 보도 번역: Even on the weekend, there is no rest for the wicked."
-          }
-        ]
-      },
-      {
-        "en": "Friday&#x27;s episode saw the Traitors at it again, murdering Last of Us actor Bella Ramsey, before the faithfuls did their dirty work for them by banishing another of their own, Julie Hesmondhalgh.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Friday&#x27;s episode saw the Traitors at it again, murdering Last of Us actor Bella Ramsey, before the faithfuls did their dirty work for them by banishing another of their own, Julie Hesmondhalgh.",
-            "ko": "실시간 보도 번역: Friday&#x27;s episode saw the Traitors at it again, murdering Last of Us actor Bella Ramsey, before the faithfuls did their dirty work for them by banishing another of their own, Julie Hesmondhalgh."
-          }
-        ]
-      },
-      {
-        "en": "The previous episode - watched on Thursday by 10 million people - saw another faithful, unlucky Industry star Myha&#x27;la, follow self-sabotaging traitor Richard E Grant out of the castle.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The previous episode - watched on Thursday by 10 million people - saw another faithful, unlucky Industry star Myha&#x27;la, follow self-sabotaging traitor Richard E Grant out of the castle.",
-            "ko": "실시간 보도 번역: The previous episode - watched on Thursday by 10 million people - saw another faithful, unlucky Industry star Myha&#x27;la, follow self-sabotaging traitor Richard E Grant out of the castle."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
           "Historical retrospective",
           "Unrelated general weather"
         ],
