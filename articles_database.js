@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_2909883433760644382",
+    "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+    "subtitle": "The Australian government hopes to protect social media users from being served content they don't want to see....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-16",
+    "addedAt": "2026-10-17T14:50:32Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 90,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastToxic algorithms wouldn&#x27;t let them go - now Australia wants an off switchTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastToxic algorithms wouldn&#x27;t let them go - now Australia wants an off switchTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastToxic algorithms wouldn&#x27;t let them go - now Australia wants an off switchTo play this video you need to enable JavaScript in your browser."
+          }
+        ]
+      },
+      {
+        "en": "Watch: Many social platforms already have following-only feeds - here&#x27;s how they work",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Watch: Many social platforms already have following-only feeds - here&#x27;s how they work",
+            "ko": "실시간 보도 번역: Watch: Many social platforms already have following-only feeds - here&#x27;s how they work"
+          }
+        ]
+      },
+      {
+        "en": "Warning: This article contains an account of living with an eating disorder",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Warning: This article contains an account of living with an eating disorder",
+            "ko": "실시간 보도 번역: Warning: This article contains an account of living with an eating disorder"
+          }
+        ]
+      },
+      {
+        "en": "Varsha Yajman was already self-conscious about the way she looked when she joined social media as a 13-year-old.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Varsha Yajman was already self-conscious about the way she looked when she joined social media as a 13-year-old.",
+            "ko": "실시간 보도 번역: Varsha Yajman was already self-conscious about the way she looked when she joined social media as a 13-year-old."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_4064328779780722970",
     "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
     "subtitle": "Australia has proposed a switch to force social media platforms to let users turn off recommended content....",
@@ -726,70 +803,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_8713266885905781983",
-    "title": "AI is less regulated than milk, says Microsoft president",
-    "subtitle": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-11",
-    "addedAt": "2026-10-12T03:57:18Z",
-    "category": "tech",
+    "id": "auto_science_6055460808020166005",
+    "title": "Avian flu and costs among reasons for loss of captive birds at Castle Espie",
+    "subtitle": "Difficulties in transporting animals since Brexit has contributed to the decline in the number of captive birds....",
+    "speaker": "BBC Science",
+    "date": "2026-10-17",
+    "addedAt": "2026-10-17T14:50:33Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 165,
+    "wordCount": 101,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI is less regulated than milk, says Microsoft presidentImage source, Bloomberg via Getty ImagesByMitchell LabiakBusiness reporterPublished4 hours agoMilk and washing machines are currently more regulated than AI, the president of Microsoft has said.",
+        "en": "Avian flu, cost-cutting and Brexit are among the reasons behind the transfer of captive birds from one of Northern Ireland&#x27;s best-known wildlife sites, according to the charity that runs it.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI is less regulated than milk, says Microsoft presidentImage source, Bloomberg via Getty ImagesByMitchell LabiakBusiness reporterPublished4 hours agoMilk and washing machines are currently more regulated than AI, the president of Microsoft has said.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI is less regulated than milk, says Microsoft presidentImage source, Bloomberg via Getty ImagesByMitchell LabiakBusiness reporterPublished4 hours agoMilk and washing machines are currently more regulated than AI, the president of Microsoft has said."
+            "en": "Avian flu, cost-cutting and Brexit are among the reasons behind the transfer of captive birds from one of Northern Ireland&#x27;s best-known wildlife sites, according to the charity that runs it.",
+            "ko": "실시간 보도 번역: Avian flu, cost-cutting and Brexit are among the reasons behind the transfer of captive birds from one of Northern Ireland&#x27;s best-known wildlife sites, according to the charity that runs it."
           }
         ]
       },
       {
-        "en": "Brad Smith said there needed to be global safety rules in place, including a legal obligation to tell a &quot;victim&quot; if their system is breached by a rogue AI agent as well as deciding when outside evaluators should sign off on an AI product before it is released.",
+        "en": "Director of Operations at Wildfowl and Wetlands Trust (WWT) Alex Lane said avian influenza, as well as difficulties in transporting birds since Brexit, has contributed to the decline in the number of captive birds at Castle Espie.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Brad Smith said there needed to be global safety rules in place, including a legal obligation to tell a &quot;victim&quot; if their system is breached by a rogue AI agent as well as deciding when outside evaluators should sign off on an AI product before it is released.",
-            "ko": "실시간 보도 번역: Brad Smith said there needed to be global safety rules in place, including a legal obligation to tell a &quot;victim&quot; if their system is breached by a rogue AI agent as well as deciding when outside evaluators should sign off on an AI product before it is released."
+            "en": "Director of Operations at Wildfowl and Wetlands Trust (WWT) Alex Lane said avian influenza, as well as difficulties in transporting birds since Brexit, has contributed to the decline in the number of captive birds at Castle Espie.",
+            "ko": "실시간 보도 번역: Director of Operations at Wildfowl and Wetlands Trust (WWT) Alex Lane said avian influenza, as well as difficulties in transporting birds since Brexit, has contributed to the decline in the number of captive birds at Castle Espie."
           }
         ]
       },
       {
-        "en": "His comments put him at odds with President Donald Trump, who said the sector should regulate itself so US firms don&#x27;t lose out to Chinese rivals.",
+        "en": "The closure of both the site&#x27;s captive bird programme and guided school tour programme is part of wider WWT cost-cutting measures.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "His comments put him at odds with President Donald Trump, who said the sector should regulate itself so US firms don&#x27;t lose out to Chinese rivals.",
-            "ko": "실시간 보도 번역: His comments put him at odds with President Donald Trump, who said the sector should regulate itself so US firms don&#x27;t lose out to Chinese rivals."
+            "en": "The closure of both the site&#x27;s captive bird programme and guided school tour programme is part of wider WWT cost-cutting measures.",
+            "ko": "실시간 보도 번역: The closure of both the site&#x27;s captive bird programme and guided school tour programme is part of wider WWT cost-cutting measures."
           }
         ]
       },
       {
-        "en": "But Smith said: &quot;Right now, your washing machine is subject to more safety rules than AI. Every carton of milk that you see in the grocery store is subject to safety rules and inspection.&quot;",
+        "en": "An Assembly member has described the changes to the education offering as &quot;disappointing&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But Smith said: &quot;Right now, your washing machine is subject to more safety rules than AI.",
-            "ko": "실시간 보도 번역: But Smith said: &quot;Right now, your washing machine is subject to more safety rules than AI."
-          },
-          {
-            "en": "Every carton of milk that you see in the grocery store is subject to safety rules and inspection.",
-            "ko": "실시간 보도 번역: Every carton of milk that you see in the grocery store is subject to safety rules and inspection."
+            "en": "An Assembly member has described the changes to the education offering as &quot;disappointing&quot;.",
+            "ko": "실시간 보도 번역: An Assembly member has described the changes to the education offering as &quot;disappointing&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: AI is less regulated than milk, says Microsoft president",
+      "글로벌 최신 소식: Avian flu and costs among reasons for loss of captive birds at Castle Espie",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -797,7 +870,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "AI is less regulated than milk, says Microsoft president",
+          "Avian flu and costs among reasons for loss of captive birds at Castle Espie",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1564,110 +1637,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_8578324351902581962",
-    "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
-    "subtitle": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September....",
-    "speaker": "BBC Science",
-    "date": "2026-10-11",
-    "addedAt": "2026-10-12T03:57:19Z",
-    "category": "science",
+    "id": "auto_economy_4968856808446901585",
+    "title": "Banks expect to be hit with higher taxes in Budget",
+    "subtitle": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month....",
+    "speaker": "BBC Business",
+    "date": "2026-10-16",
+    "addedAt": "2026-10-17T14:50:33Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 128,
+    "wordCount": 158,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Endangered orangutans released back into the wild after Borneo fires\",\"description\":\"The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pg67qg.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pg67qg.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pg67qg.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pg67qg.jpg\"],\"uploadDate\":\"2026-10-11T23:48:25.110Z\",\"duration\":\"PT52S\"}Watch: Endangered orangutans released back into the wild after Borneo firesTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 16 October 2026Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema."
-          },
-          {
-            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Endangered orangutans released back into the wild after Borneo fires\",\"description\":\"The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
-            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Endangered orangutans released back into the wild after Borneo fires\",\"description\":\"The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September."
-          },
-          {
-            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
-            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1920/galileo/p0pg67qg.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pg67qg."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1248/galileo/p0pg67qg.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pg67qg."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/688/galileo/p0pg67qg.",
-            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pg67qg."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/400/galileo/p0pg67qg.",
-            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pg67qg."
-          },
-          {
-            "en": "jpg\"],\"uploadDate\":\"2026-10-11T23:48:25.",
-            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-10-11T23:48:25."
-          },
-          {
-            "en": "110Z\",\"duration\":\"PT52S\"}Watch: Endangered orangutans released back into the wild after Borneo firesTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: 110Z\",\"duration\":\"PT52S\"}Watch: Endangered orangutans released back into the wild after Borneo firesTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 16 October 2026Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 16 October 2026Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC."
           }
         ]
       },
       {
-        "en": "CloseEight orangutans have been released into the wild in Borneo after being rescued from intense wildfires.",
+        "en": "Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "CloseEight orangutans have been released into the wild in Borneo after being rescued from intense wildfires.",
-            "ko": "실시간 보도 번역: CloseEight orangutans have been released into the wild in Borneo after being rescued from intense wildfires."
+            "en": "Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time.",
+            "ko": "실시간 보도 번역: Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time."
           }
         ]
       },
       {
-        "en": "Three mothers, their three daughters and two adult males were freed in a reserve in the west of the island on Friday.",
+        "en": "The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Three mothers, their three daughters and two adult males were freed in a reserve in the west of the island on Friday.",
-            "ko": "실시간 보도 번역: Three mothers, their three daughters and two adult males were freed in a reserve in the west of the island on Friday."
+            "en": "The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.",
+            "ko": "실시간 보도 번역: The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes."
           }
         ]
       },
       {
-        "en": "Indonesian wildlife authorities rescued 46 of the apes, which are critically endangered, before fires tore through their habitat in August and September.",
+        "en": "The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Indonesian wildlife authorities rescued 46 of the apes, which are critically endangered, before fires tore through their habitat in August and September.",
-            "ko": "실시간 보도 번역: Indonesian wildlife authorities rescued 46 of the apes, which are critically endangered, before fires tore through their habitat in August and September."
+            "en": "The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
+            "ko": "실시간 보도 번역: The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Watch: Endangered orangutans released back into the wild after Borneo fires",
+      "글로벌 최신 소식: Banks expect to be hit with higher taxes in Budget",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1675,7 +1704,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Watch: Endangered orangutans released back into the wild after Borneo fires",
+          "Banks expect to be hit with higher taxes in Budget",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2394,66 +2423,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_1399454314846684003",
-    "title": "Iran war threatens Healey's Budget plans, think tank warns",
-    "subtitle": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says....",
-    "speaker": "BBC Business",
-    "date": "2026-10-11",
-    "addedAt": "2026-10-12T03:57:19Z",
-    "category": "economy",
+    "id": "auto_sports_7864623697551185467",
+    "title": "Kartal reaches Wuhan final as dream week continues",
+    "subtitle": "Britain's Sonay Kartal beats former French Open winner Jelena Ostapenko to reach the Wuhan Open final in only her third event afte...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-17",
+    "addedAt": "2026-10-17T14:50:34Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 148,
+    "wordCount": 165,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessIran war threatens Healey&#x27;s Budget plans, think tank warnsImage source, Dan Kitwood/Getty ImagesByDharshini David, Deputy economics editor and Tom Espiner, Business reporterPublished4 hours agoThe price spike caused by the US-Israel war in Iran poses a major challenge for Chancellor John Healey as he puts together his first Budget, an influential think tank has warned.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal reaches Wuhan final as dream week continuesImage source, Getty ImagesImage caption, Sonay Kartal is the first British player to reach a WTA 1,000 final since Johanna Konta in 2019",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessIran war threatens Healey&#x27;s Budget plans, think tank warnsImage source, Dan Kitwood/Getty ImagesByDharshini David, Deputy economics editor and Tom Espiner, Business reporterPublished4 hours agoThe price spike caused by the US-Israel war in Iran poses a major challenge for Chancellor John Healey as he puts together his first Budget, an influential think tank has warned.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessIran war threatens Healey&#x27;s Budget plans, think tank warnsImage source, Dan Kitwood/Getty ImagesByDharshini David, Deputy economics editor and Tom Espiner, Business reporterPublished4 hours agoThe price spike caused by the US-Israel war in Iran poses a major challenge for Chancellor John Healey as he puts together his first Budget, an influential think tank has warned."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal reaches Wuhan final as dream week continuesImage source, Getty ImagesImage caption, Sonay Kartal is the first British player to reach a WTA 1,000 final since Johanna Konta in 2019",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal reaches Wuhan final as dream week continuesImage source, Getty ImagesImage caption, Sonay Kartal is the first British player to reach a WTA 1,000 final since Johanna Konta in 2019"
           }
         ]
       },
       {
-        "en": "Higher-than-expected inflation could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the Institute for Fiscal Studies (IFS) said.",
+        "en": "BBC Sport tennis news reporterPublished17 October 2026, 12:41 BSTUpdated 16 minutes agoSonay Kartal&#x27;s dream week continued as she beat former Grand Slam champion Jelena Ostapenko at the Wuhan Open to reach the biggest final of her career.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Higher-than-expected inflation could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the Institute for Fiscal Studies (IFS) said.",
-            "ko": "실시간 보도 번역: Higher-than-expected inflation could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the Institute for Fiscal Studies (IFS) said."
+            "en": "BBC Sport tennis news reporterPublished17 October 2026, 12:41 BSTUpdated 16 minutes agoSonay Kartal&#x27;s dream week continued as she beat former Grand Slam champion Jelena Ostapenko at the Wuhan Open to reach the biggest final of her career.",
+            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished17 October 2026, 12:41 BSTUpdated 16 minutes agoSonay Kartal&#x27;s dream week continued as she beat former Grand Slam champion Jelena Ostapenko at the Wuhan Open to reach the biggest final of her career."
           }
         ]
       },
       {
-        "en": "It urged the government to ensure its spending plans are credible, as opposed to proposing unrealistic future cuts to make the Budget add up.",
+        "en": "British number five Kartal is playing in only her third event since returning from a six-month absence with a back injury, but she now stands one more victory away from a WTA 1,000 title - one of the most prestigious prizes outside of the Grand Slams.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It urged the government to ensure its spending plans are credible, as opposed to proposing unrealistic future cuts to make the Budget add up.",
-            "ko": "실시간 보도 번역: It urged the government to ensure its spending plans are credible, as opposed to proposing unrealistic future cuts to make the Budget add up."
+            "en": "British number five Kartal is playing in only her third event since returning from a six-month absence with a back injury, but she now stands one more victory away from a WTA 1,000 title - one of the most prestigious prizes outside of the Grand Slams.",
+            "ko": "실시간 보도 번역: British number five Kartal is playing in only her third event since returning from a six-month absence with a back injury, but she now stands one more victory away from a WTA 1,000 title - one of the most prestigious prizes outside of the Grand Slams."
           }
         ]
       },
       {
-        "en": "The Treasury declined to comment on &quot;rumour and speculation&quot;.",
+        "en": "The 24-year-old&#x27;s composure helped her secure a 7-6 (11-9) 7-6 (7-5) victory in a pulsating semi-final against Latvia&#x27;s Ostapenko.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Treasury declined to comment on &quot;rumour and speculation&quot;.",
-            "ko": "실시간 보도 번역: The Treasury declined to comment on &quot;rumour and speculation&quot;."
+            "en": "The 24-year-old&#x27;s composure helped her secure a 7-6 (11-9) 7-6 (7-5) victory in a pulsating semi-final against Latvia&#x27;s Ostapenko.",
+            "ko": "실시간 보도 번역: The 24-year-old&#x27;s composure helped her secure a 7-6 (11-9) 7-6 (7-5) victory in a pulsating semi-final against Latvia&#x27;s Ostapenko."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Iran war threatens Healey's Budget plans, think tank warns",
+      "글로벌 최신 소식: Kartal reaches Wuhan final as dream week continues",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2461,14 +2490,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Iran war threatens Healey's Budget plans, think tank warns",
+          "Kartal reaches Wuhan final as dream week continues",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_4830812575437618808",
@@ -3182,66 +3213,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_1432447330451714303",
-    "title": "Karaoke-singing Zheng makes history with China Open win",
-    "subtitle": "Zheng Qinwen becomes the first Chinese champion of the China Open after overcoming Mirra Andreeva in straight sets....",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-11",
-    "addedAt": "2026-10-12T03:57:19Z",
-    "category": "sports",
+    "id": "auto_culture_475461643427489856",
+    "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
+    "subtitle": "Miranda Hart became emotional and spoke about her health problems as more action unfolded on Friday....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-17",
+    "addedAt": "2026-10-17T14:50:35Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 118,
+    "wordCount": 135,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKaraoke-singing Zheng makes history with China Open winTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMiranda&#x27;s tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity TraitorsImage source, BBC/Studio LambertImage caption, Leigh-Anne offered to make Miranda&#x27;s &quot;dreams come true&quot; by teaching her a Little Mix dance move",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKaraoke-singing Zheng makes history with China Open winTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKaraoke-singing Zheng makes history with China Open winTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMiranda&#x27;s tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity TraitorsImage source, BBC/Studio LambertImage caption, Leigh-Anne offered to make Miranda&#x27;s &quot;dreams come true&quot; by teaching her a Little Mix dance move",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMiranda&#x27;s tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity TraitorsImage source, BBC/Studio LambertImage caption, Leigh-Anne offered to make Miranda&#x27;s &quot;dreams come true&quot; by teaching her a Little Mix dance move"
           }
         ]
       },
       {
-        "en": "Highlights: Zheng Qinwen beats Mirra Andreeva to become China Open champion",
+        "en": "Spoiler warning: This article reveals details from episode six of The Celebrity Traitors, series two.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Highlights: Zheng Qinwen beats Mirra Andreeva to become China Open champion",
-            "ko": "실시간 보도 번역: Highlights: Zheng Qinwen beats Mirra Andreeva to become China Open champion"
+            "en": "Spoiler warning: This article reveals details from episode six of The Celebrity Traitors, series two.",
+            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from episode six of The Celebrity Traitors, series two."
           }
         ]
       },
       {
-        "en": "Zheng Qinwen became the first Chinese woman to win the China Open by beating Mirra Andreeva in straight sets in Beijing.",
+        "en": "For a show that likes to keep participants and viewers on the edges of their seats, gripped by suspense and skullduggery, it was ironic that Friday&#x27;s episode of The Celebrity Traitors came down to which one of its stars would die of boredom.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Zheng Qinwen became the first Chinese woman to win the China Open by beating Mirra Andreeva in straight sets in Beijing.",
-            "ko": "실시간 보도 번역: Zheng Qinwen became the first Chinese woman to win the China Open by beating Mirra Andreeva in straight sets in Beijing."
+            "en": "For a show that likes to keep participants and viewers on the edges of their seats, gripped by suspense and skullduggery, it was ironic that Friday&#x27;s episode of The Celebrity Traitors came down to which one of its stars would die of boredom.",
+            "ko": "실시간 보도 번역: For a show that likes to keep participants and viewers on the edges of their seats, gripped by suspense and skullduggery, it was ironic that Friday&#x27;s episode of The Celebrity Traitors came down to which one of its stars would die of boredom."
           }
         ]
       },
       {
-        "en": "Zheng, who entered the tournament as a wildcard ranked number 54 in the world, saved three set points in Sunday&#x27;s opening set before overcoming fourth seed Andreeva 7-5, 6-4.",
+        "en": "The climactic final scene switched between a series of faces as we waited to see which of the famous faithful would... yawn.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Zheng, who entered the tournament as a wildcard ranked number 54 in the world, saved three set points in Sunday&#x27;s opening set before overcoming fourth seed Andreeva 7-5, 6-4.",
-            "ko": "실시간 보도 번역: Zheng, who entered the tournament as a wildcard ranked number 54 in the world, saved three set points in Sunday&#x27;s opening set before overcoming fourth seed Andreeva 7-5, 6-4."
+            "en": "The climactic final scene switched between a series of faces as we waited to see which of the famous faithful would...",
+            "ko": "실시간 보도 번역: The climactic final scene switched between a series of faces as we waited to see which of the famous faithful would..."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Karaoke-singing Zheng makes history with China Open win",
+      "글로벌 최신 소식: Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3249,16 +3280,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Karaoke-singing Zheng makes history with China Open win",
+          "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_3792763904318554772",
@@ -3961,83 +3990,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_8463228162117389753",
-    "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-    "subtitle": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-10",
-    "addedAt": "2026-10-12T03:57:21Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 127,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsInside the room: What it was like to be with Blackpink&#x27;s Lisa as race scandal eruptedImage source, Getty ImagesImage caption, Lisa, who was born Pranpriya Manobal in Thailand, became one of the world&#x27;s most-recognisable K-pop idols as a member of Blackpink",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsInside the room: What it was like to be with Blackpink&#x27;s Lisa as race scandal eruptedImage source, Getty ImagesImage caption, Lisa, who was born Pranpriya Manobal in Thailand, became one of the world&#x27;s most-recognisable K-pop idols as a member of Blackpink",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsInside the room: What it was like to be with Blackpink&#x27;s Lisa as race scandal eruptedImage source, Getty ImagesImage caption, Lisa, who was born Pranpriya Manobal in Thailand, became one of the world&#x27;s most-recognisable K-pop idols as a member of Blackpink"
-          }
-        ]
-      },
-      {
-        "en": "Music correspondentPublished11 October 2026What&#x27;s it like to be the main character of an online scandal?",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Music correspondentPublished11 October 2026What&#x27;s it like to be the main character of an online scandal?",
-            "ko": "실시간 보도 번역: Music correspondentPublished11 October 2026What&#x27;s it like to be the main character of an online scandal?"
-          }
-        ]
-      },
-      {
-        "en": "That&#x27;s one of the questions raised in a new documentary about Lisa Manobal – one quarter of K-pop phenomenon Blackpink and a breakout star of TV show The White Lotus.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "That&#x27;s one of the questions raised in a new documentary about Lisa Manobal – one quarter of K-pop phenomenon Blackpink and a breakout star of TV show The White Lotus.",
-            "ko": "실시간 보도 번역: That&#x27;s one of the questions raised in a new documentary about Lisa Manobal – one quarter of K-pop phenomenon Blackpink and a breakout star of TV show The White Lotus."
-          }
-        ]
-      },
-      {
-        "en": "The film captures an unfolding controversy, as leaked videos show Blackpink using racial slurs when they were teenage trainees in the K-pop system.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The film captures an unfolding controversy, as leaked videos show Blackpink using racial slurs when they were teenage trainees in the K-pop system.",
-            "ko": "실시간 보도 번역: The film captures an unfolding controversy, as leaked videos show Blackpink using racial slurs when they were teenage trainees in the K-pop system."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
           "Historical retrospective",
           "Unrelated general weather"
         ],
