@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_6991698530248721210",
+    "title": "No further action against government adviser's wife over Palestine Action post, police say",
+    "subtitle": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-17",
+    "addedAt": "2026-10-18T15:15:48Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 145,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNo further action against government adviser&#x27;s wife over Palestine Action post, police sayImage source, PA MediaByNeil MurphyPublished17 October 2026Police say no further action will be taken against the wife of the government&#x27;s national security adviser after she posted on social media referencing Palestine Action.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNo further action against government adviser&#x27;s wife over Palestine Action post, police sayImage source, PA MediaByNeil MurphyPublished17 October 2026Police say no further action will be taken against the wife of the government&#x27;s national security adviser after she posted on social media referencing Palestine Action.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNo further action against government adviser&#x27;s wife over Palestine Action post, police sayImage source, PA MediaByNeil MurphyPublished17 October 2026Police say no further action will be taken against the wife of the government&#x27;s national security adviser after she posted on social media referencing Palestine Action."
+          }
+        ]
+      },
+      {
+        "en": "Sarah Helm, who is married to Jonathan Powell, wrote on X on Thursday: &quot;God help us authors who support Palestine and Palestine Action.&quot;",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Sarah Helm, who is married to Jonathan Powell, wrote on X on Thursday: &quot;God help us authors who support Palestine and Palestine Action.",
+            "ko": "실시간 보도 번역: Sarah Helm, who is married to Jonathan Powell, wrote on X on Thursday: &quot;God help us authors who support Palestine and Palestine Action."
+          }
+        ]
+      },
+      {
+        "en": "She was responding to a discussion about the author Sally Rooney, whose novels will not be supplied to booksellers in the UK following her announcement that she intends to use her royalties to support the proscribed organisation.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "She was responding to a discussion about the author Sally Rooney, whose novels will not be supplied to booksellers in the UK following her announcement that she intends to use her royalties to support the proscribed organisation.",
+            "ko": "실시간 보도 번역: She was responding to a discussion about the author Sally Rooney, whose novels will not be supplied to booksellers in the UK following her announcement that she intends to use her royalties to support the proscribed organisation."
+          }
+        ]
+      },
+      {
+        "en": "On Saturday, the Metropolitan Police said Helm&#x27;s post was &quot;assessed by specialist officers and it was determined that it did not meet the criminal threshold&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "On Saturday, the Metropolitan Police said Helm&#x27;s post was &quot;assessed by specialist officers and it was determined that it did not meet the criminal threshold&quot;.",
+            "ko": "실시간 보도 번역: On Saturday, the Metropolitan Police said Helm&#x27;s post was &quot;assessed by specialist officers and it was determined that it did not meet the criminal threshold&quot;."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: No further action against government adviser's wife over Palestine Action post, police say",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "No further action against government adviser's wife over Palestine Action post, police say",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_7546234541995695519",
     "title": "No further action against government adviser's wife over Palestine Action post, police say",
     "subtitle": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney....",
@@ -726,66 +803,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_9001551634123272898",
-    "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
-    "subtitle": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-13",
-    "addedAt": "2026-10-13T05:07:02Z",
-    "category": "tech",
+    "id": "auto_science_2946127500504089367",
+    "title": "Fuel leak spreads more than two miles along River Taff",
+    "subtitle": "Public Health Wales advise people living nearby to shut their doors and windows due to the smell....",
+    "speaker": "BBC Science",
+    "date": "2026-10-18",
+    "addedAt": "2026-10-18T15:15:48Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 132,
+    "wordCount": 112,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble shares soar after report dating firm in $1bn takeover talksImage source, AFP via Getty ImagesImage caption, Bumble founder Whitney Wolfe Herd",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFuel leak spreads more than two miles along River TaffImage source, Sarah LlewelynImage caption, Residents said the area began to smell &quot;like a petrol station&quot; on Friday",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble shares soar after report dating firm in $1bn takeover talksImage source, AFP via Getty ImagesImage caption, Bumble founder Whitney Wolfe Herd",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble shares soar after report dating firm in $1bn takeover talksImage source, AFP via Getty ImagesImage caption, Bumble founder Whitney Wolfe Herd"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFuel leak spreads more than two miles along River TaffImage source, Sarah LlewelynImage caption, Residents said the area began to smell &quot;like a petrol station&quot; on Friday",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFuel leak spreads more than two miles along River TaffImage source, Sarah LlewelynImage caption, Residents said the area began to smell &quot;like a petrol station&quot; on Friday"
           }
         ]
       },
       {
-        "en": "Shares in dating app company Bumble soared by almost 50% on Monday after a report that it is in advanced talks to be bought for around $1bn (£757m).",
+        "en": "People have been advised to keep their windows and doors shut due to a widespread  fuel leak in the River Taff.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Shares in dating app company Bumble soared by almost 50% on Monday after a report that it is in advanced talks to be bought for around $1bn (£757m).",
-            "ko": "실시간 보도 번역: Shares in dating app company Bumble soared by almost 50% on Monday after a report that it is in advanced talks to be bought for around $1bn (£757m)."
+            "en": "People have been advised to keep their windows and doors shut due to a widespread  fuel leak in the River Taff.",
+            "ko": "실시간 보도 번역: People have been advised to keep their windows and doors shut due to a widespread  fuel leak in the River Taff."
           }
         ]
       },
       {
-        "en": "Technology holding company Ithaca could announce a deal to buy the Texas-based firm as early as this week, according to the Wall Street Journal.",
+        "en": "Natural Resources Wales (NRW) said it had received multiple reports about pollution affecting the Taff in places such as Nantgarw, Treforest and Taffs Well.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Technology holding company Ithaca could announce a deal to buy the Texas-based firm as early as this week, according to the Wall Street Journal.",
-            "ko": "실시간 보도 번역: Technology holding company Ithaca could announce a deal to buy the Texas-based firm as early as this week, according to the Wall Street Journal."
+            "en": "Natural Resources Wales (NRW) said it had received multiple reports about pollution affecting the Taff in places such as Nantgarw, Treforest and Taffs Well.",
+            "ko": "실시간 보도 번역: Natural Resources Wales (NRW) said it had received multiple reports about pollution affecting the Taff in places such as Nantgarw, Treforest and Taffs Well."
           }
         ]
       },
       {
-        "en": "The jump in Bumble&#x27;s shares pushed its stock market valuation to over $580m but that is still far below a peak of more than $14bn it reached after listing on the Nasdaq in 2021.",
+        "en": "GE Aerospace confirmed fuel got into the river while repair work took place at its site nearby.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The jump in Bumble&#x27;s shares pushed its stock market valuation to over $580m but that is still far below a peak of more than $14bn it reached after listing on the Nasdaq in 2021.",
-            "ko": "실시간 보도 번역: The jump in Bumble&#x27;s shares pushed its stock market valuation to over $580m but that is still far below a peak of more than $14bn it reached after listing on the Nasdaq in 2021."
+            "en": "GE Aerospace confirmed fuel got into the river while repair work took place at its site nearby.",
+            "ko": "실시간 보도 번역: GE Aerospace confirmed fuel got into the river while repair work took place at its site nearby."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Bumble shares soar after report dating firm in $1bn takeover talks",
+      "글로벌 최신 소식: Fuel leak spreads more than two miles along River Taff",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -793,7 +870,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Bumble shares soar after report dating firm in $1bn takeover talks",
+          "Fuel leak spreads more than two miles along River Taff",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1516,66 +1593,78 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_6934975017782633595",
-    "title": "Crew searching for Amelia Earhart arrives at crab-infested island",
-    "subtitle": "Researchers will sleep on their ship to avoid giant crabs that can lift heavy weights, split open coconuts, and may have played a ...",
-    "speaker": "BBC Science",
-    "date": "2026-10-12",
-    "addedAt": "2026-10-13T05:07:03Z",
-    "category": "science",
+    "id": "auto_economy_2336889282707206072",
+    "title": "There's a crackdown on sports piracy - but is it already out of control?",
+    "subtitle": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leg...",
+    "speaker": "BBC Business",
+    "date": "2026-10-18",
+    "addedAt": "2026-10-18T15:15:49Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 126,
+    "wordCount": 128,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaCrew searching for Amelia Earhart arrives at crab-infested islandImage source, Getty ImagesImage caption, Amelia Earhart disappeared over the Pacific Ocean while piloting her Electra plane in 1937",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThere&#x27;s a crackdown on sports piracy - but is it already out of control?",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaCrew searching for Amelia Earhart arrives at crab-infested islandImage source, Getty ImagesImage caption, Amelia Earhart disappeared over the Pacific Ocean while piloting her Electra plane in 1937",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaCrew searching for Amelia Earhart arrives at crab-infested islandImage source, Getty ImagesImage caption, Amelia Earhart disappeared over the Pacific Ocean while piloting her Electra plane in 1937"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThere&#x27;s a crackdown on sports piracy - but is it already out of control?",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThere&#x27;s a crackdown on sports piracy - but is it already out of control?"
           }
         ]
       },
       {
-        "en": "A team of researchers have arrived at a remote island to inspect possible plane wreckage of famed aviator Amelia Earhart, who vanished in 1937 while flying around the world.",
+        "en": "Image source, Getty ImagesByTheo LeggettInternational Business Correspondent&quot;Football&#x27;s Gone Round the Spend!&quot; screamed The People newspaper one Sunday in July 1995. It reported breathlessly that three clubs between them were set to pay out more than £20m on new players.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A team of researchers have arrived at a remote island to inspect possible plane wreckage of famed aviator Amelia Earhart, who vanished in 1937 while flying around the world.",
-            "ko": "실시간 보도 번역: A team of researchers have arrived at a remote island to inspect possible plane wreckage of famed aviator Amelia Earhart, who vanished in 1937 while flying around the world."
+            "en": "Image source, Getty ImagesByTheo LeggettInternational Business Correspondent&quot;Football&#x27;s Gone Round the Spend!",
+            "ko": "실시간 보도 번역: Image source, Getty ImagesByTheo LeggettInternational Business Correspondent&quot;Football&#x27;s Gone Round the Spend!"
+          },
+          {
+            "en": "&quot; screamed The People newspaper one Sunday in July 1995.",
+            "ko": "실시간 보도 번역: &quot; screamed The People newspaper one Sunday in July 1995."
+          },
+          {
+            "en": "It reported breathlessly that three clubs between them were set to pay out more than £20m on new players.",
+            "ko": "실시간 보도 번역: It reported breathlessly that three clubs between them were set to pay out more than £20m on new players."
           }
         ]
       },
       {
-        "en": "The group from the Archaeological Legacy Institute (ALI) and Purdue University arrived at Nikumaroro Island in the Pacific Ocean on Monday.",
+        "en": "The highlight that summer was the transfer of Stan Collymore from Nottingham Forest to Liverpool for a British record fee of £8.5m.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The group from the Archaeological Legacy Institute (ALI) and Purdue University arrived at Nikumaroro Island in the Pacific Ocean on Monday.",
-            "ko": "실시간 보도 번역: The group from the Archaeological Legacy Institute (ALI) and Purdue University arrived at Nikumaroro Island in the Pacific Ocean on Monday."
+            "en": "The highlight that summer was the transfer of Stan Collymore from Nottingham Forest to Liverpool for a British record fee of £8.",
+            "ko": "실시간 보도 번역: The highlight that summer was the transfer of Stan Collymore from Nottingham Forest to Liverpool for a British record fee of £8."
           }
         ]
       },
       {
-        "en": "The search team&#x27;s work, expected to take five days, could be hampered by giant land-dwelling crabs, as well as the El Niño climate phenomenon which is now the strongest ever recorded.",
+        "en": "That number might not seem too impressive today, in an age when £100m transfers are almost commonplace. But at the time it was seismic stuff, and it symbolised the conversion of football from sport into big business.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The search team&#x27;s work, expected to take five days, could be hampered by giant land-dwelling crabs, as well as the El Niño climate phenomenon which is now the strongest ever recorded.",
-            "ko": "실시간 보도 번역: The search team&#x27;s work, expected to take five days, could be hampered by giant land-dwelling crabs, as well as the El Niño climate phenomenon which is now the strongest ever recorded."
+            "en": "That number might not seem too impressive today, in an age when £100m transfers are almost commonplace.",
+            "ko": "실시간 보도 번역: That number might not seem too impressive today, in an age when £100m transfers are almost commonplace."
+          },
+          {
+            "en": "But at the time it was seismic stuff, and it symbolised the conversion of football from sport into big business.",
+            "ko": "실시간 보도 번역: But at the time it was seismic stuff, and it symbolised the conversion of football from sport into big business."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Crew searching for Amelia Earhart arrives at crab-infested island",
+      "글로벌 최신 소식: There's a crackdown on sports piracy - but is it already out of control?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1583,7 +1672,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Crew searching for Amelia Earhart arrives at crab-infested island",
+          "There's a crackdown on sports piracy - but is it already out of control?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2298,70 +2387,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_554549896283982099",
-    "title": "UK growth upgraded but energy prices and rates to bite in 2027",
-    "subtitle": "The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham....",
-    "speaker": "BBC Business",
-    "date": "2026-10-13",
-    "addedAt": "2026-10-13T05:07:03Z",
-    "category": "economy",
+    "id": "auto_sports_4668303762050684727",
+    "title": "Britain's Kartal misses out on biggest title of her career",
+    "subtitle": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska....",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-18",
+    "addedAt": "2026-10-18T15:15:49Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 173,
+    "wordCount": 153,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUK growth upgraded but energy prices and rates to bite in 2027Image source, Getty ImagesByFaisal Islam, Economics editor, Reporting fromBangkok and Michael Race, Business reporter, Reporting fromLondonPublished13 October 2026, 03:00 BSTUpdated 1 hour agoThe UK economy is forecast to grow by more than previously expected this year before higher energy prices and interest rates hit growth in 2027, the International Monetary Fund (IMF) has said.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBritain&#x27;s Kartal misses out on biggest title of her careerImage source, Getty ImagesImage caption, Sonay Kartal will become the British number one when the WTA rankings are released on Monday",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUK growth upgraded but energy prices and rates to bite in 2027Image source, Getty ImagesByFaisal Islam, Economics editor, Reporting fromBangkok and Michael Race, Business reporter, Reporting fromLondonPublished13 October 2026, 03:00 BSTUpdated 1 hour agoThe UK economy is forecast to grow by more than previously expected this year before higher energy prices and interest rates hit growth in 2027, the International Monetary Fund (IMF) has said.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessUK growth upgraded but energy prices and rates to bite in 2027Image source, Getty ImagesByFaisal Islam, Economics editor, Reporting fromBangkok and Michael Race, Business reporter, Reporting fromLondonPublished13 October 2026, 03:00 BSTUpdated 1 hour agoThe UK economy is forecast to grow by more than previously expected this year before higher energy prices and interest rates hit growth in 2027, the International Monetary Fund (IMF) has said."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBritain&#x27;s Kartal misses out on biggest title of her careerImage source, Getty ImagesImage caption, Sonay Kartal will become the British number one when the WTA rankings are released on Monday",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBritain&#x27;s Kartal misses out on biggest title of her careerImage source, Getty ImagesImage caption, Sonay Kartal will become the British number one when the WTA rankings are released on Monday"
           }
         ]
       },
       {
-        "en": "The organisation&#x27;s latest report, which is closely watched by the government, said the UK economy would expand by 1.3% in 2026, up from the 1% it predicted in July, before slowing in 2027.",
+        "en": "BBC Sport tennis news reporterPublished1 hour agoBritain&#x27;s Sonay Kartal missed out on what would have been the biggest title of her career as she faded in a gripping Wuhan Open final against French Open runner-up Maja Chwalinska.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The organisation&#x27;s latest report, which is closely watched by the government, said the UK economy would expand by 1.",
-            "ko": "실시간 보도 번역: The organisation&#x27;s latest report, which is closely watched by the government, said the UK economy would expand by 1."
-          },
-          {
-            "en": "3% in 2026, up from the 1% it predicted in July, before slowing in 2027.",
-            "ko": "실시간 보도 번역: 3% in 2026, up from the 1% it predicted in July, before slowing in 2027."
+            "en": "BBC Sport tennis news reporterPublished1 hour agoBritain&#x27;s Sonay Kartal missed out on what would have been the biggest title of her career as she faded in a gripping Wuhan Open final against French Open runner-up Maja Chwalinska.",
+            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished1 hour agoBritain&#x27;s Sonay Kartal missed out on what would have been the biggest title of her career as she faded in a gripping Wuhan Open final against French Open runner-up Maja Chwalinska."
           }
         ]
       },
       {
-        "en": "Economies across the world have proved more resilient to the energy price shock caused by the US-Iran war, the IMF said, but it warned the economic fallout from the conflict remained &quot;highly uncertain&quot;.",
+        "en": "Kartal, 24, was bidding to lift the trophy in only her third event since returning from a six-month absence caused by a back injury.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Economies across the world have proved more resilient to the energy price shock caused by the US-Iran war, the IMF said, but it warned the economic fallout from the conflict remained &quot;highly uncertain&quot;.",
-            "ko": "실시간 보도 번역: Economies across the world have proved more resilient to the energy price shock caused by the US-Iran war, the IMF said, but it warned the economic fallout from the conflict remained &quot;highly uncertain&quot;."
+            "en": "Kartal, 24, was bidding to lift the trophy in only her third event since returning from a six-month absence caused by a back injury.",
+            "ko": "실시간 보도 번역: Kartal, 24, was bidding to lift the trophy in only her third event since returning from a six-month absence caused by a back injury."
           }
         ]
       },
       {
-        "en": "Chancellor John Healey said the government would look to &quot;provide some breathing space&quot; for households in the Budget.",
+        "en": "But an extraordinary week in China seemed to catch up with Kartal as she ran out of steam - physically and mentally - in a 2-6 6-4 6-2 defeat.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Chancellor John Healey said the government would look to &quot;provide some breathing space&quot; for households in the Budget.",
-            "ko": "실시간 보도 번역: Chancellor John Healey said the government would look to &quot;provide some breathing space&quot; for households in the Budget."
+            "en": "But an extraordinary week in China seemed to catch up with Kartal as she ran out of steam - physically and mentally - in a 2-6 6-4 6-2 defeat.",
+            "ko": "실시간 보도 번역: But an extraordinary week in China seemed to catch up with Kartal as she ran out of steam - physically and mentally - in a 2-6 6-4 6-2 defeat."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: UK growth upgraded but energy prices and rates to bite in 2027",
+      "글로벌 최신 소식: Britain's Kartal misses out on biggest title of her career",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2369,14 +2454,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "UK growth upgraded but energy prices and rates to bite in 2027",
+          "Britain's Kartal misses out on biggest title of her career",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_8902414502021265564",
@@ -3090,66 +3177,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_7629168317560629683",
-    "title": "Zverev secures year-end number one ranking",
-    "subtitle": "Alexander Zverev is guaranteed to finish his 2026 season as the world number one after Carlos Alcaraz suffers a surprise defeat in...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-12",
-    "addedAt": "2026-10-13T05:07:03Z",
-    "category": "sports",
+    "id": "auto_culture_7315471430574369771",
+    "title": "Making murder fun: How the Traitors' soundtrack sets the tone",
+    "subtitle": "It's not just treachery and villainy - the soundtrack for Traitors helps set the show's campy tone....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-18",
+    "addedAt": "2026-10-18T15:15:50Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 142,
+    "wordCount": 80,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev secures year-end number one rankingImage source, Getty ImagesImage caption, Alexander Zverev will be the 30th man to be ranked number one on the ATP Tour",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMaking murder fun: How the Traitors&#x27; soundtrack sets the toneTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev secures year-end number one rankingImage source, Getty ImagesImage caption, Alexander Zverev will be the 30th man to be ranked number one on the ATP Tour",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev secures year-end number one rankingImage source, Getty ImagesImage caption, Alexander Zverev will be the 30th man to be ranked number one on the ATP Tour"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMaking murder fun: How the Traitors&#x27; soundtrack sets the toneTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMaking murder fun: How the Traitors&#x27; soundtrack sets the toneTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "BBC Sport tennis news reporterPublished12 October 2026Alexander Zverev is guaranteed to finish the 2026 season as world number one after Carlos Alcaraz&#x27;s surprise defeat in the Shanghai Masters.",
+        "en": "Watch: How does music on The Traitors manipulate your emotions?",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC Sport tennis news reporterPublished12 October 2026Alexander Zverev is guaranteed to finish the 2026 season as world number one after Carlos Alcaraz&#x27;s surprise defeat in the Shanghai Masters.",
-            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished12 October 2026Alexander Zverev is guaranteed to finish the 2026 season as world number one after Carlos Alcaraz&#x27;s surprise defeat in the Shanghai Masters."
+            "en": "Watch: How does music on The Traitors manipulate your emotions?",
+            "ko": "실시간 보도 번역: Watch: How does music on The Traitors manipulate your emotions?"
           }
         ]
       },
       {
-        "en": "German Zverev was on course to climb above current world number one Jannik Sinner, who has been ruled out for the rest of the year with a knee injury.",
+        "en": "Music correspondentPublished18 October 2026, 01:29 BSTSuspicion, intrigue, treachery, Claudia Winkleman. The Traitors has it all.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "German Zverev was on course to climb above current world number one Jannik Sinner, who has been ruled out for the rest of the year with a knee injury.",
-            "ko": "실시간 보도 번역: German Zverev was on course to climb above current world number one Jannik Sinner, who has been ruled out for the rest of the year with a knee injury."
+            "en": "Music correspondentPublished18 October 2026, 01:29 BSTSuspicion, intrigue, treachery, Claudia Winkleman.",
+            "ko": "실시간 보도 번역: Music correspondentPublished18 October 2026, 01:29 BSTSuspicion, intrigue, treachery, Claudia Winkleman."
+          },
+          {
+            "en": "The Traitors has it all.",
+            "ko": "실시간 보도 번역: The Traitors has it all."
           }
         ]
       },
       {
-        "en": "Alcaraz still had a mathematical chance of stopping Zverev until he was beaten 7-5 7-6 (7-4) by Belgium&#x27;s Zizou Bergs in the third round on Monday.",
+        "en": "But the shadowiest of the show&#x27;s shadowy secrets is its music.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Alcaraz still had a mathematical chance of stopping Zverev until he was beaten 7-5 7-6 (7-4) by Belgium&#x27;s Zizou Bergs in the third round on Monday.",
-            "ko": "실시간 보도 번역: Alcaraz still had a mathematical chance of stopping Zverev until he was beaten 7-5 7-6 (7-4) by Belgium&#x27;s Zizou Bergs in the third round on Monday."
+            "en": "But the shadowiest of the show&#x27;s shadowy secrets is its music.",
+            "ko": "실시간 보도 번역: But the shadowiest of the show&#x27;s shadowy secrets is its music."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Zverev secures year-end number one ranking",
+      "글로벌 최신 소식: Making murder fun: How the Traitors' soundtrack sets the tone",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3157,16 +3248,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Zverev secures year-end number one ranking",
+          "Making murder fun: How the Traitors' soundtrack sets the tone",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_1420734370777565410",
@@ -3865,83 +3954,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "How Breaking Bad's RJ Mitte changed the way we see cerebral palsy",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_8771223573280794269",
-    "title": "Breaking Bad actor RJ Mitte dies aged 34",
-    "subtitle": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-13",
-    "addedAt": "2026-10-13T05:07:05Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 110,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaBreaking Bad actor RJ Mitte dies aged 34To play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaBreaking Bad actor RJ Mitte dies aged 34To play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaBreaking Bad actor RJ Mitte dies aged 34To play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Watch: &quot;It&#x27;s nice to see everyone&quot;, says RJ Mitte at Breaking Bad reunion",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Watch: &quot;It&#x27;s nice to see everyone&quot;, says RJ Mitte at Breaking Bad reunion",
-            "ko": "실시간 보도 번역: Watch: &quot;It&#x27;s nice to see everyone&quot;, says RJ Mitte at Breaking Bad reunion"
-          }
-        ]
-      },
-      {
-        "en": "US actor RJ Mitte, best known for his role as the defiant son of drug kingpin Walter White in the drama series Breaking Bad, has died aged 34.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "US actor RJ Mitte, best known for his role as the defiant son of drug kingpin Walter White in the drama series Breaking Bad, has died aged 34.",
-            "ko": "실시간 보도 번역: US actor RJ Mitte, best known for his role as the defiant son of drug kingpin Walter White in the drama series Breaking Bad, has died aged 34."
-          }
-        ]
-      },
-      {
-        "en": "&quot;It is with profound sadness that we share the tragic passing of beloved actor, philanthropist, and passionate disability rights advocate RJ Mitte,&quot; his representative told the BBC.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&quot;It is with profound sadness that we share the tragic passing of beloved actor, philanthropist, and passionate disability rights advocate RJ Mitte,&quot; his representative told the BBC.",
-            "ko": "실시간 보도 번역: &quot;It is with profound sadness that we share the tragic passing of beloved actor, philanthropist, and passionate disability rights advocate RJ Mitte,&quot; his representative told the BBC."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Breaking Bad actor RJ Mitte dies aged 34",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Breaking Bad actor RJ Mitte dies aged 34",
           "Historical retrospective",
           "Unrelated general weather"
         ],
