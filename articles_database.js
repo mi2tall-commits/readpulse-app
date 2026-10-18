@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_7546234541995695519",
+    "title": "No further action against government adviser's wife over Palestine Action post, police say",
+    "subtitle": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-17",
+    "addedAt": "2026-10-18T02:42:46Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 145,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNo further action against government adviser&#x27;s wife over Palestine Action post, police sayImage source, PA MediaByNeil MurphyPublished6 hours agoPolice say no further action will be taken against the wife of the government&#x27;s national security adviser after she posted on social media referencing Palestine Action.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNo further action against government adviser&#x27;s wife over Palestine Action post, police sayImage source, PA MediaByNeil MurphyPublished6 hours agoPolice say no further action will be taken against the wife of the government&#x27;s national security adviser after she posted on social media referencing Palestine Action.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNo further action against government adviser&#x27;s wife over Palestine Action post, police sayImage source, PA MediaByNeil MurphyPublished6 hours agoPolice say no further action will be taken against the wife of the government&#x27;s national security adviser after she posted on social media referencing Palestine Action."
+          }
+        ]
+      },
+      {
+        "en": "Sarah Helm, who is married to Jonathan Powell, wrote on X on Thursday: &quot;God help us authors who support Palestine and Palestine Action.&quot;",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Sarah Helm, who is married to Jonathan Powell, wrote on X on Thursday: &quot;God help us authors who support Palestine and Palestine Action.",
+            "ko": "실시간 보도 번역: Sarah Helm, who is married to Jonathan Powell, wrote on X on Thursday: &quot;God help us authors who support Palestine and Palestine Action."
+          }
+        ]
+      },
+      {
+        "en": "She was responding to a discussion about the author Sally Rooney, whose novels will not be supplied to booksellers in the UK following her announcement that she intends to use her royalties to support the proscribed organisation.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "She was responding to a discussion about the author Sally Rooney, whose novels will not be supplied to booksellers in the UK following her announcement that she intends to use her royalties to support the proscribed organisation.",
+            "ko": "실시간 보도 번역: She was responding to a discussion about the author Sally Rooney, whose novels will not be supplied to booksellers in the UK following her announcement that she intends to use her royalties to support the proscribed organisation."
+          }
+        ]
+      },
+      {
+        "en": "On Saturday, the Metropolitan Police said Helm&#x27;s post was &quot;assessed by specialist officers and it was determined that it did not meet the criminal threshold&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "On Saturday, the Metropolitan Police said Helm&#x27;s post was &quot;assessed by specialist officers and it was determined that it did not meet the criminal threshold&quot;.",
+            "ko": "실시간 보도 번역: On Saturday, the Metropolitan Police said Helm&#x27;s post was &quot;assessed by specialist officers and it was determined that it did not meet the criminal threshold&quot;."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: No further action against government adviser's wife over Palestine Action post, police say",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "No further action against government adviser's wife over Palestine Action post, police say",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_2909883433760644382",
     "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
     "subtitle": "The Australian government hopes to protect social media users from being served content they don't want to see....",
@@ -726,66 +803,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_602790139097149066",
-    "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-    "subtitle": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-12",
-    "addedAt": "2026-10-12T20:48:06Z",
-    "category": "tech",
+    "id": "auto_science_7765842637786353816",
+    "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
+    "subtitle": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state....",
+    "speaker": "BBC Science",
+    "date": "2026-10-17",
+    "addedAt": "2026-10-18T02:42:46Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 139,
+    "wordCount": 110,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI minister warns &#x27;likely&#x27; UK&#x27;s cyber defences will be breachedImage source, PA MediaByLaura Cress, Technology reporter and Marc Cieslak, AI correspondentPublished12 October 2026, 13:11 BSTUpdated 5 hours agoThe UK&#x27;s AI minister has warned it is &quot;likely, if not inevitable&quot; the country&#x27;s cyber defences will at some point be breached.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaFast-moving California wildfire burns homes as people are ordered to leaveTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI minister warns &#x27;likely&#x27; UK&#x27;s cyber defences will be breachedImage source, PA MediaByLaura Cress, Technology reporter and Marc Cieslak, AI correspondentPublished12 October 2026, 13:11 BSTUpdated 5 hours agoThe UK&#x27;s AI minister has warned it is &quot;likely, if not inevitable&quot; the country&#x27;s cyber defences will at some point be breached.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechAI minister warns &#x27;likely&#x27; UK&#x27;s cyber defences will be breachedImage source, PA MediaByLaura Cress, Technology reporter and Marc Cieslak, AI correspondentPublished12 October 2026, 13:11 BSTUpdated 5 hours agoThe UK&#x27;s AI minister has warned it is &quot;likely, if not inevitable&quot; the country&#x27;s cyber defences will at some point be breached."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaFast-moving California wildfire burns homes as people are ordered to leaveTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaFast-moving California wildfire burns homes as people are ordered to leaveTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Speaking at a press conference, Kanishka Narayan pointed to an incident of a rogue OpenAI agent hacking an Australian government website in June.",
+        "en": "Watch: Aircraft deployed to fight burning Bryson fire in Malibu",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Speaking at a press conference, Kanishka Narayan pointed to an incident of a rogue OpenAI agent hacking an Australian government website in June.",
-            "ko": "실시간 보도 번역: Speaking at a press conference, Kanishka Narayan pointed to an incident of a rogue OpenAI agent hacking an Australian government website in June."
+            "en": "Watch: Aircraft deployed to fight burning Bryson fire in Malibu",
+            "ko": "실시간 보도 번역: Watch: Aircraft deployed to fight burning Bryson fire in Malibu"
           }
         ]
       },
       {
-        "en": "He said while no medical records are known to have been accessed in the attack, the incident should still &quot;concern us&quot;.",
+        "en": "Evacuation orders in California are in effect due to a rapidly growing wildfire that has already burned six homes south of Los Angeles.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "He said while no medical records are known to have been accessed in the attack, the incident should still &quot;concern us&quot;.",
-            "ko": "실시간 보도 번역: He said while no medical records are known to have been accessed in the attack, the incident should still &quot;concern us&quot;."
+            "en": "Evacuation orders in California are in effect due to a rapidly growing wildfire that has already burned six homes south of Los Angeles.",
+            "ko": "실시간 보도 번역: Evacuation orders in California are in effect due to a rapidly growing wildfire that has already burned six homes south of Los Angeles."
           }
         ]
       },
       {
-        "en": "Narayan said the government plans to put advanced AI to work to combat the threat, as he set out how the government plans to prepare for any serious future incidents.",
+        "en": "The Norte Fire erupted on Friday in Orange County and quickly grew to 465 acres by the evening. By Saturday morning, it spread to 570 acres (2.3 sq km), with 5% containment.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Narayan said the government plans to put advanced AI to work to combat the threat, as he set out how the government plans to prepare for any serious future incidents.",
-            "ko": "실시간 보도 번역: Narayan said the government plans to put advanced AI to work to combat the threat, as he set out how the government plans to prepare for any serious future incidents."
+            "en": "The Norte Fire erupted on Friday in Orange County and quickly grew to 465 acres by the evening.",
+            "ko": "실시간 보도 번역: The Norte Fire erupted on Friday in Orange County and quickly grew to 465 acres by the evening."
+          },
+          {
+            "en": "By Saturday morning, it spread to 570 acres (2.",
+            "ko": "실시간 보도 번역: By Saturday morning, it spread to 570 acres (2."
+          },
+          {
+            "en": "3 sq km), with 5% containment.",
+            "ko": "실시간 보도 번역: 3 sq km), with 5% containment."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: AI minister warns 'likely' UK's cyber defences will be breached",
+      "글로벌 최신 소식: Fast-moving California wildfire burns homes as people are ordered to leave",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -793,7 +878,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "AI minister warns 'likely' UK's cyber defences will be breached",
+          "Fast-moving California wildfire burns homes as people are ordered to leave",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1508,118 +1593,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_7938172628742617592",
-    "title": "Storm Rachel batters Southern California, brings flooding to Las Vegas",
-    "subtitle": "Large waves from the post-tropical cyclone battered homes in Southern California, and also brought flooding to parts of Las Vegas....",
-    "speaker": "BBC Science",
-    "date": "2026-10-12",
-    "addedAt": "2026-10-12T20:48:07Z",
-    "category": "science",
+    "id": "auto_economy_6761255490123097875",
+    "title": "Banks expect to be hit with higher taxes in Budget",
+    "subtitle": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month....",
+    "speaker": "BBC Business",
+    "date": "2026-10-16",
+    "addedAt": "2026-10-18T02:42:47Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 146,
+    "wordCount": 158,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Storm Rachel batters California, brings flooding to Las Vegas\",\"description\":\"Large waves from the post-tropical cyclone battered homes in Long Beach, and brought flooding to parts of Las Vegas near the famed Strip. \",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0pgb6bk.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0pgb6bk.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0pgb6bk.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0pgb6bk.jpg\"],\"uploadDate\":\"2026-10-12T16:12:57.315Z\",\"duration\":\"PT1M7S\"}Storm Rachel batters Southern California, brings flooding to Las VegasTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 16 October 2026Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; Canada{\"@context\":\"https://schema."
-          },
-          {
-            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"Storm Rachel batters California, brings flooding to Las Vegas\",\"description\":\"Large waves from the post-tropical cyclone battered homes in Long Beach, and brought flooding to parts of Las Vegas near the famed Strip.",
-            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"Storm Rachel batters California, brings flooding to Las Vegas\",\"description\":\"Large waves from the post-tropical cyclone battered homes in Long Beach, and brought flooding to parts of Las Vegas near the famed Strip."
-          },
-          {
-            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
-            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1920/galileo/p0pgb6bk.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0pgb6bk."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1248/galileo/p0pgb6bk.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0pgb6bk."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/688/galileo/p0pgb6bk.",
-            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0pgb6bk."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/400/galileo/p0pgb6bk.",
-            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0pgb6bk."
-          },
-          {
-            "en": "jpg\"],\"uploadDate\":\"2026-10-12T16:12:57.",
-            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-10-12T16:12:57."
-          },
-          {
-            "en": "315Z\",\"duration\":\"PT1M7S\"}Storm Rachel batters Southern California, brings flooding to Las VegasTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: 315Z\",\"duration\":\"PT1M7S\"}Storm Rachel batters Southern California, brings flooding to Las VegasTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 16 October 2026Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 16 October 2026Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC."
           }
         ]
       },
       {
-        "en": "CloseLarge waves from Post-Tropical Cyclone Rachel battered homes across Southern California over the weekend, leaving some properties at risk of collapse. Rachel also brought flash flooding to Las Vegas near the Strip. Water was knee-deep in some places.",
+        "en": "Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "CloseLarge waves from Post-Tropical Cyclone Rachel battered homes across Southern California over the weekend, leaving some properties at risk of collapse.",
-            "ko": "실시간 보도 번역: CloseLarge waves from Post-Tropical Cyclone Rachel battered homes across Southern California over the weekend, leaving some properties at risk of collapse."
-          },
-          {
-            "en": "Rachel also brought flash flooding to Las Vegas near the Strip.",
-            "ko": "실시간 보도 번역: Rachel also brought flash flooding to Las Vegas near the Strip."
-          },
-          {
-            "en": "Water was knee-deep in some places.",
-            "ko": "실시간 보도 번역: Water was knee-deep in some places."
+            "en": "Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time.",
+            "ko": "실시간 보도 번역: Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time."
           }
         ]
       },
       {
-        "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsFloodsFollow Floods",
+        "en": "The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Shareclose panelShare pageCopy linkAbout sharingRelated topicsFloodsFollow Floods",
-            "ko": "실시간 보도 번역: Shareclose panelShare pageCopy linkAbout sharingRelated topicsFloodsFollow Floods"
+            "en": "The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.",
+            "ko": "실시간 보도 번역: The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes."
           }
         ]
       },
       {
-        "en": "close panelYou are now following\n    FloodsUpdates from your News topics will appear in My News and in a collection on the News homepage.Severe weatherFollow Severe weather",
+        "en": "The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "close panelYou are now following\n    FloodsUpdates from your News topics will appear in My News and in a collection on the News homepage.",
-            "ko": "실시간 보도 번역: close panelYou are now following\n    FloodsUpdates from your News topics will appear in My News and in a collection on the News homepage."
+            "en": "The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
+            "ko": "실시간 보도 번역: The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Storm Rachel batters Southern California, brings flooding to Las Vegas",
+      "글로벌 최신 소식: Banks expect to be hit with higher taxes in Budget",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1627,7 +1660,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Storm Rachel batters Southern California, brings flooding to Las Vegas",
+          "Banks expect to be hit with higher taxes in Budget",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2346,66 +2379,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_7100271978361112789",
-    "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
-    "subtitle": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending p...",
-    "speaker": "BBC Business",
-    "date": "2026-10-12",
-    "addedAt": "2026-10-12T20:48:07Z",
-    "category": "economy",
+    "id": "auto_sports_8902414502021265564",
+    "title": "Kartal reaches Wuhan final as dream week continues",
+    "subtitle": "Britain's Sonay Kartal beats former French Open winner Jelena Ostapenko to reach the Wuhan Open final in only her third event afte...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-17",
+    "addedAt": "2026-10-18T02:42:47Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 185,
+    "wordCount": 160,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHealey faces £35bn Budget challenge to meet spending pledges, says think tankImage source, Getty ImagesByDharshini David, Deputy economics editor, Dearbail Jordan and Tom Espiner, Business reportersPublished12 October 2026, 00:04 BSTUpdated 09:50 BSTChancellor John Healey faces having to find £35bn to avoid cuts to public spending while meeting defence promises in his first Budget, an influential think tank has warned.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal reaches Wuhan final as dream week continuesImage source, Getty ImagesImage caption, Sonay Kartal is the first British player to reach a WTA 1,000 final since Johanna Konta in 2019",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHealey faces £35bn Budget challenge to meet spending pledges, says think tankImage source, Getty ImagesByDharshini David, Deputy economics editor, Dearbail Jordan and Tom Espiner, Business reportersPublished12 October 2026, 00:04 BSTUpdated 09:50 BSTChancellor John Healey faces having to find £35bn to avoid cuts to public spending while meeting defence promises in his first Budget, an influential think tank has warned.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessHealey faces £35bn Budget challenge to meet spending pledges, says think tankImage source, Getty ImagesByDharshini David, Deputy economics editor, Dearbail Jordan and Tom Espiner, Business reportersPublished12 October 2026, 00:04 BSTUpdated 09:50 BSTChancellor John Healey faces having to find £35bn to avoid cuts to public spending while meeting defence promises in his first Budget, an influential think tank has warned."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal reaches Wuhan final as dream week continuesImage source, Getty ImagesImage caption, Sonay Kartal is the first British player to reach a WTA 1,000 final since Johanna Konta in 2019",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal reaches Wuhan final as dream week continuesImage source, Getty ImagesImage caption, Sonay Kartal is the first British player to reach a WTA 1,000 final since Johanna Konta in 2019"
           }
         ]
       },
       {
-        "en": "The Institute for Fiscal Studies (IFS) said that if the government wants to raise defence spending to 3% of national income by 2030 and lift health spending without squeezing other departments, it will need a &quot;top-up&quot; of billions of pounds.",
+        "en": "BBC Sport tennis news reporterPublished17 October 2026Sonay Kartal&#x27;s dream week continued as she beat former Grand Slam champion Jelena Ostapenko at the Wuhan Open to reach the biggest final of her career.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Institute for Fiscal Studies (IFS) said that if the government wants to raise defence spending to 3% of national income by 2030 and lift health spending without squeezing other departments, it will need a &quot;top-up&quot; of billions of pounds.",
-            "ko": "실시간 보도 번역: The Institute for Fiscal Studies (IFS) said that if the government wants to raise defence spending to 3% of national income by 2030 and lift health spending without squeezing other departments, it will need a &quot;top-up&quot; of billions of pounds."
+            "en": "BBC Sport tennis news reporterPublished17 October 2026Sonay Kartal&#x27;s dream week continued as she beat former Grand Slam champion Jelena Ostapenko at the Wuhan Open to reach the biggest final of her career.",
+            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished17 October 2026Sonay Kartal&#x27;s dream week continued as she beat former Grand Slam champion Jelena Ostapenko at the Wuhan Open to reach the biggest final of her career."
           }
         ]
       },
       {
-        "en": "Higher inflation, caused by the Iran war, could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the IFS said.",
+        "en": "British number five Kartal is playing in only her third event since returning from a six-month absence with a back injury, but she now stands one more victory away from a WTA 1,000 title - one of the most prestigious prizes outside of the Grand Slams.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Higher inflation, caused by the Iran war, could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the IFS said.",
-            "ko": "실시간 보도 번역: Higher inflation, caused by the Iran war, could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the IFS said."
+            "en": "British number five Kartal is playing in only her third event since returning from a six-month absence with a back injury, but she now stands one more victory away from a WTA 1,000 title - one of the most prestigious prizes outside of the Grand Slams.",
+            "ko": "실시간 보도 번역: British number five Kartal is playing in only her third event since returning from a six-month absence with a back injury, but she now stands one more victory away from a WTA 1,000 title - one of the most prestigious prizes outside of the Grand Slams."
           }
         ]
       },
       {
-        "en": "The government is under growing pressure to show financial markets that it has a tight grip on finances as the cost of borrowing rises.",
+        "en": "The 24-year-old&#x27;s composure helped her secure a 7-6 (11-9) 7-6 (7-5) victory in a pulsating semi-final against Latvia&#x27;s Ostapenko.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The government is under growing pressure to show financial markets that it has a tight grip on finances as the cost of borrowing rises.",
-            "ko": "실시간 보도 번역: The government is under growing pressure to show financial markets that it has a tight grip on finances as the cost of borrowing rises."
+            "en": "The 24-year-old&#x27;s composure helped her secure a 7-6 (11-9) 7-6 (7-5) victory in a pulsating semi-final against Latvia&#x27;s Ostapenko.",
+            "ko": "실시간 보도 번역: The 24-year-old&#x27;s composure helped her secure a 7-6 (11-9) 7-6 (7-5) victory in a pulsating semi-final against Latvia&#x27;s Ostapenko."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
+      "글로벌 최신 소식: Kartal reaches Wuhan final as dream week continues",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2413,14 +2446,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
+          "Kartal reaches Wuhan final as dream week continues",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_7864623697551185467",
@@ -3134,66 +3169,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_7588567797120154784",
-    "title": "Zverev secures year-end number one ranking",
-    "subtitle": "Alexander Zverev is guaranteed to finish his 2026 season as the world number one after Carlos Alcaraz suffers a surprise defeat in...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-12",
-    "addedAt": "2026-10-12T20:48:08Z",
-    "category": "sports",
+    "id": "auto_culture_1420734370777565410",
+    "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
+    "subtitle": "Miranda Hart became emotional and spoke about her health problems as more action unfolded on Friday....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-17",
+    "addedAt": "2026-10-18T02:42:49Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 147,
+    "wordCount": 135,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev secures year-end number one rankingImage source, Getty ImagesImage caption, Alexander Zverev will be the 30th man to be ranked number one on the ATP Tour",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMiranda&#x27;s tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity TraitorsImage source, BBC/Studio LambertImage caption, Leigh-Anne offered to make Miranda&#x27;s &quot;dreams come true&quot; by teaching her a Little Mix dance move",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev secures year-end number one rankingImage source, Getty ImagesImage caption, Alexander Zverev will be the 30th man to be ranked number one on the ATP Tour",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarZverev secures year-end number one rankingImage source, Getty ImagesImage caption, Alexander Zverev will be the 30th man to be ranked number one on the ATP Tour"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMiranda&#x27;s tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity TraitorsImage source, BBC/Studio LambertImage caption, Leigh-Anne offered to make Miranda&#x27;s &quot;dreams come true&quot; by teaching her a Little Mix dance move",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMiranda&#x27;s tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity TraitorsImage source, BBC/Studio LambertImage caption, Leigh-Anne offered to make Miranda&#x27;s &quot;dreams come true&quot; by teaching her a Little Mix dance move"
           }
         ]
       },
       {
-        "en": "BBC Sport tennis news reporterPublished12 October 2026, 14:57 BSTUpdated 5 hours agoAlexander Zverev is guaranteed to finish the 2026 season as world number one after Carlos Alcaraz&#x27;s surprise defeat in the Shanghai Masters.",
+        "en": "Spoiler warning: This article reveals details from episode six of The Celebrity Traitors, series two.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC Sport tennis news reporterPublished12 October 2026, 14:57 BSTUpdated 5 hours agoAlexander Zverev is guaranteed to finish the 2026 season as world number one after Carlos Alcaraz&#x27;s surprise defeat in the Shanghai Masters.",
-            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished12 October 2026, 14:57 BSTUpdated 5 hours agoAlexander Zverev is guaranteed to finish the 2026 season as world number one after Carlos Alcaraz&#x27;s surprise defeat in the Shanghai Masters."
+            "en": "Spoiler warning: This article reveals details from episode six of The Celebrity Traitors, series two.",
+            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from episode six of The Celebrity Traitors, series two."
           }
         ]
       },
       {
-        "en": "German Zverev was on course to climb above current world number one Jannik Sinner, who has been ruled out for the rest of the year with a knee injury.",
+        "en": "For a show that likes to keep participants and viewers on the edges of their seats, gripped by suspense and skullduggery, it was ironic that Friday&#x27;s episode of The Celebrity Traitors came down to which one of its stars would die of boredom.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "German Zverev was on course to climb above current world number one Jannik Sinner, who has been ruled out for the rest of the year with a knee injury.",
-            "ko": "실시간 보도 번역: German Zverev was on course to climb above current world number one Jannik Sinner, who has been ruled out for the rest of the year with a knee injury."
+            "en": "For a show that likes to keep participants and viewers on the edges of their seats, gripped by suspense and skullduggery, it was ironic that Friday&#x27;s episode of The Celebrity Traitors came down to which one of its stars would die of boredom.",
+            "ko": "실시간 보도 번역: For a show that likes to keep participants and viewers on the edges of their seats, gripped by suspense and skullduggery, it was ironic that Friday&#x27;s episode of The Celebrity Traitors came down to which one of its stars would die of boredom."
           }
         ]
       },
       {
-        "en": "Alcaraz still had a mathematical chance of stopping Zverev until he was beaten 7-5 7-6 (7-4) by Belgium&#x27;s Zizou Bergs in the third round on Monday.",
+        "en": "The climactic final scene switched between a series of faces as we waited to see which of the famous faithful would... yawn.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Alcaraz still had a mathematical chance of stopping Zverev until he was beaten 7-5 7-6 (7-4) by Belgium&#x27;s Zizou Bergs in the third round on Monday.",
-            "ko": "실시간 보도 번역: Alcaraz still had a mathematical chance of stopping Zverev until he was beaten 7-5 7-6 (7-4) by Belgium&#x27;s Zizou Bergs in the third round on Monday."
+            "en": "The climactic final scene switched between a series of faces as we waited to see which of the famous faithful would...",
+            "ko": "실시간 보도 번역: The climactic final scene switched between a series of faces as we waited to see which of the famous faithful would..."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Zverev secures year-end number one ranking",
+      "글로벌 최신 소식: Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3201,16 +3236,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Zverev secures year-end number one ranking",
+          "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_475461643427489856",
@@ -3909,87 +3942,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Breaking Bad actor RJ Mitte dies aged 34",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_6611940235336488443",
-    "title": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
-    "subtitle": "The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-12",
-    "addedAt": "2026-10-12T20:48:10Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 162,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTom Cruise film Digger forecast to become one of Hollywood&#x27;s biggest flopsImage source, Warner BrosBySteven McIntoshEntertainment reporter Published12 October 2026, 12:29 BSTUpdated 6 hours agoTom Cruise&#x27;s latest film Digger is expected to lose around $245m (£185m), Hollywood analysts have said, after the film&#x27;s continuing poor performance at the box office.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTom Cruise film Digger forecast to become one of Hollywood&#x27;s biggest flopsImage source, Warner BrosBySteven McIntoshEntertainment reporter Published12 October 2026, 12:29 BSTUpdated 6 hours agoTom Cruise&#x27;s latest film Digger is expected to lose around $245m (£185m), Hollywood analysts have said, after the film&#x27;s continuing poor performance at the box office.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsTom Cruise film Digger forecast to become one of Hollywood&#x27;s biggest flopsImage source, Warner BrosBySteven McIntoshEntertainment reporter Published12 October 2026, 12:29 BSTUpdated 6 hours agoTom Cruise&#x27;s latest film Digger is expected to lose around $245m (£185m), Hollywood analysts have said, after the film&#x27;s continuing poor performance at the box office."
-          }
-        ]
-      },
-      {
-        "en": "Ticket sales for the satirical black comedy, which stars Cruise as oil magnate Digger Rockwell, dropped by around 60% in the movie&#x27;s second weekend in cinemas.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Ticket sales for the satirical black comedy, which stars Cruise as oil magnate Digger Rockwell, dropped by around 60% in the movie&#x27;s second weekend in cinemas.",
-            "ko": "실시간 보도 번역: Ticket sales for the satirical black comedy, which stars Cruise as oil magnate Digger Rockwell, dropped by around 60% in the movie&#x27;s second weekend in cinemas."
-          }
-        ]
-      },
-      {
-        "en": "It brings Digger&#x27;s total box office takings so far to around $35m (£26m) globally. The film is estimated to have cost its studio Warner Bros around $280m (£211m) to make and market.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "It brings Digger&#x27;s total box office takings so far to around $35m (£26m) globally.",
-            "ko": "실시간 보도 번역: It brings Digger&#x27;s total box office takings so far to around $35m (£26m) globally."
-          },
-          {
-            "en": "The film is estimated to have cost its studio Warner Bros around $280m (£211m) to make and market.",
-            "ko": "실시간 보도 번역: The film is estimated to have cost its studio Warner Bros around $280m (£211m) to make and market."
-          }
-        ]
-      },
-      {
-        "en": "But Cruise said last week, external that he &quot;never thought of movies when I&#x27;m making them [in terms of] opening weekend,&quot; adding he was instead focused on making films that &quot;hopefully will translate, last and evolve&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "But Cruise said last week, external that he &quot;never thought of movies when I&#x27;m making them [in terms of] opening weekend,&quot; adding he was instead focused on making films that &quot;hopefully will translate, last and evolve&quot;.",
-            "ko": "실시간 보도 번역: But Cruise said last week, external that he &quot;never thought of movies when I&#x27;m making them [in terms of] opening weekend,&quot; adding he was instead focused on making films that &quot;hopefully will translate, last and evolve&quot;."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
           "Historical retrospective",
           "Unrelated general weather"
         ],
