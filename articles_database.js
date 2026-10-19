@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_6571663148114711381",
+    "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+    "subtitle": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-19",
+    "addedAt": "2026-10-19T02:56:02Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 146,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAnthropic says it will commit 5% of its shares to &#x27;public benefit fund&#x27;Image source, SOPA Images/LightRocket via Getty ImagesImage caption, Jack Clark, a co-founder and Head of Public Benefit of Anthropic",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAnthropic says it will commit 5% of its shares to &#x27;public benefit fund&#x27;Image source, SOPA Images/LightRocket via Getty ImagesImage caption, Jack Clark, a co-founder and Head of Public Benefit of Anthropic",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAnthropic says it will commit 5% of its shares to &#x27;public benefit fund&#x27;Image source, SOPA Images/LightRocket via Getty ImagesImage caption, Jack Clark, a co-founder and Head of Public Benefit of Anthropic"
+          }
+        ]
+      },
+      {
+        "en": "Artificial intelligence (AI) giant Anthropic says it will commit 5% of its shares to a fund that will make donations for the &quot;public good&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Artificial intelligence (AI) giant Anthropic says it will commit 5% of its shares to a fund that will make donations for the &quot;public good&quot;.",
+            "ko": "실시간 보도 번역: Artificial intelligence (AI) giant Anthropic says it will commit 5% of its shares to a fund that will make donations for the &quot;public good&quot;."
+          }
+        ]
+      },
+      {
+        "en": "The announcement comes as Anthropic lays the ground for a potential blockbuster stock market listing that could value the firm at more than $1tn (£750bn).",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The announcement comes as Anthropic lays the ground for a potential blockbuster stock market listing that could value the firm at more than $1tn (£750bn).",
+            "ko": "실시간 보도 번역: The announcement comes as Anthropic lays the ground for a potential blockbuster stock market listing that could value the firm at more than $1tn (£750bn)."
+          }
+        ]
+      },
+      {
+        "en": "The AI industry has come under intense scrutiny recently over safety concerns and fears about its impact on society and the economy. Anthropic reportedly said in its initial public offering (IPO) filing that AI could pose &quot;catastrophic or existential risks to humanity&quot;.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The AI industry has come under intense scrutiny recently over safety concerns and fears about its impact on society and the economy.",
+            "ko": "실시간 보도 번역: The AI industry has come under intense scrutiny recently over safety concerns and fears about its impact on society and the economy."
+          },
+          {
+            "en": "Anthropic reportedly said in its initial public offering (IPO) filing that AI could pose &quot;catastrophic or existential risks to humanity&quot;.",
+            "ko": "실시간 보도 번역: Anthropic reportedly said in its initial public offering (IPO) filing that AI could pose &quot;catastrophic or existential risks to humanity&quot;."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_6991698530248721210",
     "title": "No further action against government adviser's wife over Palestine Action post, police say",
     "subtitle": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney....",
@@ -718,74 +799,110 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_5039239956000953090",
-    "title": "Dating app Bumble bought for $1.3bn",
-    "subtitle": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-13",
-    "addedAt": "2026-10-13T18:46:48Z",
-    "category": "tech",
+    "id": "auto_science_4504011705355449155",
+    "title": "BBC visits wildfire front in haze-choked Indonesia",
+    "subtitle": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents....",
+    "speaker": "BBC Science",
+    "date": "2026-10-19",
+    "addedAt": "2026-10-19T02:56:02Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 160,
+    "wordCount": 126,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble bought for $1.3bn in &#x27;bet on the future of humanity&#x27;Image source, Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Osmond Chia, Business reporterPublished13 October 2026, 02:36 BSTUpdated 2 hours agoDating app Bumble has been bought for $1.3bn (£980m) in what the new owners called &quot;a bet on the future of humanity&quot;.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"BBC visits Indonesia's wildfire ground blanketed by toxic haze\",\"description\":\"The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0phdnvx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0phdnvx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0phdnvx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0phdnvx.jpg\"],\"uploadDate\":\"2026-10-19T01:57:02.001Z\",\"duration\":\"PT1M1S\"}BBC visits wildfire front in haze-choked IndonesiaTo play this video you need to enable JavaScript in your browser.This video can not be played",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble bought for $1.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble bought for $1."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema."
           },
           {
-            "en": "3bn in &#x27;bet on the future of humanity&#x27;Image source, Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Osmond Chia, Business reporterPublished13 October 2026, 02:36 BSTUpdated 2 hours agoDating app Bumble has been bought for $1.",
-            "ko": "실시간 보도 번역: 3bn in &#x27;bet on the future of humanity&#x27;Image source, Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Osmond Chia, Business reporterPublished13 October 2026, 02:36 BSTUpdated 2 hours agoDating app Bumble has been bought for $1."
+            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"BBC visits Indonesia's wildfire ground blanketed by toxic haze\",\"description\":\"The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents.",
+            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"BBC visits Indonesia's wildfire ground blanketed by toxic haze\",\"description\":\"The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents."
           },
           {
-            "en": "3bn (£980m) in what the new owners called &quot;a bet on the future of humanity&quot;.",
-            "ko": "실시간 보도 번역: 3bn (£980m) in what the new owners called &quot;a bet on the future of humanity&quot;."
+            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
+            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1920/galileo/p0phdnvx.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0phdnvx."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/1248/galileo/p0phdnvx.",
+            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0phdnvx."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/688/galileo/p0phdnvx.",
+            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0phdnvx."
+          },
+          {
+            "en": "jpg\",\"https://ichef.",
+            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
+          },
+          {
+            "en": "uk/ace/standard/400/galileo/p0phdnvx.",
+            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0phdnvx."
+          },
+          {
+            "en": "jpg\"],\"uploadDate\":\"2026-10-19T01:57:02.",
+            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-10-19T01:57:02."
+          },
+          {
+            "en": "001Z\",\"duration\":\"PT1M1S\"}BBC visits wildfire front in haze-choked IndonesiaTo play this video you need to enable JavaScript in your browser.",
+            "ko": "실시간 보도 번역: 001Z\",\"duration\":\"PT1M1S\"}BBC visits wildfire front in haze-choked IndonesiaTo play this video you need to enable JavaScript in your browser."
           }
         ]
       },
       {
-        "en": "Investment firm Ithaca Holdings is taking over the loss-making firm and it directors, Ravi Gupta and John Hegeman, will become co-chief executives of the company which once differentiated itself by having a &quot;women-first&quot; chat rule.",
+        "en": "CloseAs Indonesia battles its worst wildfire season in a decade, a toxic haze is choking millions of residents in the region.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Investment firm Ithaca Holdings is taking over the loss-making firm and it directors, Ravi Gupta and John Hegeman, will become co-chief executives of the company which once differentiated itself by having a &quot;women-first&quot; chat rule.",
-            "ko": "실시간 보도 번역: Investment firm Ithaca Holdings is taking over the loss-making firm and it directors, Ravi Gupta and John Hegeman, will become co-chief executives of the company which once differentiated itself by having a &quot;women-first&quot; chat rule."
+            "en": "CloseAs Indonesia battles its worst wildfire season in a decade, a toxic haze is choking millions of residents in the region.",
+            "ko": "실시간 보도 번역: CloseAs Indonesia battles its worst wildfire season in a decade, a toxic haze is choking millions of residents in the region."
           }
         ]
       },
       {
-        "en": "Whitney Wolfe Herd, Bumble&#x27;s founder and current chief executive, said she would remain &quot;actively involved&quot; with the business she set up 12 years ago.",
+        "en": "The BBC&#x27;s Liza Tambunan is in central Kalimantan, where air pollution levels have plunged to hazardous levels.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Whitney Wolfe Herd, Bumble&#x27;s founder and current chief executive, said she would remain &quot;actively involved&quot; with the business she set up 12 years ago.",
-            "ko": "실시간 보도 번역: Whitney Wolfe Herd, Bumble&#x27;s founder and current chief executive, said she would remain &quot;actively involved&quot; with the business she set up 12 years ago."
+            "en": "The BBC&#x27;s Liza Tambunan is in central Kalimantan, where air pollution levels have plunged to hazardous levels.",
+            "ko": "실시간 보도 번역: The BBC&#x27;s Liza Tambunan is in central Kalimantan, where air pollution levels have plunged to hazardous levels."
           }
         ]
       },
       {
-        "en": "While it is unclear what Wolfe Herd&#x27;s role at the dating app will be, she said she will work closely with the new owners.",
+        "en": "The haze has been linked to hundreds of thousands of respiratory illnesses in Indonesia, and has drifted to neighbouring countries like Singapore and Malaysia.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "While it is unclear what Wolfe Herd&#x27;s role at the dating app will be, she said she will work closely with the new owners.",
-            "ko": "실시간 보도 번역: While it is unclear what Wolfe Herd&#x27;s role at the dating app will be, she said she will work closely with the new owners."
+            "en": "The haze has been linked to hundreds of thousands of respiratory illnesses in Indonesia, and has drifted to neighbouring countries like Singapore and Malaysia.",
+            "ko": "실시간 보도 번역: The haze has been linked to hundreds of thousands of respiratory illnesses in Indonesia, and has drifted to neighbouring countries like Singapore and Malaysia."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Dating app Bumble bought for $1.3bn",
+      "글로벌 최신 소식: BBC visits wildfire front in haze-choked Indonesia",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -793,7 +910,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Dating app Bumble bought for $1.3bn",
+          "BBC visits wildfire front in haze-choked Indonesia",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1512,70 +1629,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_5089956962350596995",
-    "title": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
-    "subtitle": "El Niño has continued to strengthen, with several key measures now in record territory. Simon King explores how it compares to pre...",
-    "speaker": "BBC Science",
-    "date": "2026-10-13",
-    "addedAt": "2026-10-13T18:46:48Z",
-    "category": "science",
+    "id": "auto_economy_8925757734190563088",
+    "title": "Microsoft pulls out of UK's largest AI data centre",
+    "subtitle": "Tech firm Nscale says it is still committed to building the site in Essex....",
+    "speaker": "BBC Business",
+    "date": "2026-10-18",
+    "addedAt": "2026-10-19T02:56:03Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 150,
+    "wordCount": 103,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpSuper El Niño sets another record as it strengthens to &#x27;unprecedented levels&#x27;Image source, AFP via Getty ImagesImage caption, Flooded streets following the arrival of Hurricane Polo in the town of Puerto San Carlos, Baja California Sur, Mexico, on 29 September. The Category 3 storm added to an already busy hurricane season turbo-charged by El Niño.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsEssexMicrosoft pulls out of UK&#x27;s largest AI data centreImage source, NscaleImage caption, Nscale said it remained committed to building a £2bn AI data centre in Loughton",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpSuper El Niño sets another record as it strengthens to &#x27;unprecedented levels&#x27;Image source, AFP via Getty ImagesImage caption, Flooded streets following the arrival of Hurricane Polo in the town of Puerto San Carlos, Baja California Sur, Mexico, on 29 September.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpSuper El Niño sets another record as it strengthens to &#x27;unprecedented levels&#x27;Image source, AFP via Getty ImagesImage caption, Flooded streets following the arrival of Hurricane Polo in the town of Puerto San Carlos, Baja California Sur, Mexico, on 29 September."
-          },
-          {
-            "en": "The Category 3 storm added to an already busy hurricane season turbo-charged by El Niño.",
-            "ko": "실시간 보도 번역: The Category 3 storm added to an already busy hurricane season turbo-charged by El Niño."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsEssexMicrosoft pulls out of UK&#x27;s largest AI data centreImage source, NscaleImage caption, Nscale said it remained committed to building a £2bn AI data centre in Loughton",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsEssexMicrosoft pulls out of UK&#x27;s largest AI data centreImage source, NscaleImage caption, Nscale said it remained committed to building a £2bn AI data centre in Loughton"
           }
         ]
       },
       {
-        "en": "El Niño has continued to strengthen to what some scientists are calling &quot;unprecedented levels&quot;, weeks before its expected peak in December.",
+        "en": "A tech company has said it still plans to build the UK&#x27;s largest AI data centre despite Microsoft pulling out of the project.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "El Niño has continued to strengthen to what some scientists are calling &quot;unprecedented levels&quot;, weeks before its expected peak in December.",
-            "ko": "실시간 보도 번역: El Niño has continued to strengthen to what some scientists are calling &quot;unprecedented levels&quot;, weeks before its expected peak in December."
+            "en": "A tech company has said it still plans to build the UK&#x27;s largest AI data centre despite Microsoft pulling out of the project.",
+            "ko": "실시간 보도 번역: A tech company has said it still plans to build the UK&#x27;s largest AI data centre despite Microsoft pulling out of the project."
           }
         ]
       },
       {
-        "en": "In its latest update, Australia&#x27;s Bureau of Meteorology (BOM) said average weekly sea-surface temperatures in the central Pacific have reached their highest level on record, external.",
+        "en": "Nscale announced last year it had pledged £2bn to build and open a pioneering facility in Loughton, Essex.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In its latest update, Australia&#x27;s Bureau of Meteorology (BOM) said average weekly sea-surface temperatures in the central Pacific have reached their highest level on record, external.",
-            "ko": "실시간 보도 번역: In its latest update, Australia&#x27;s Bureau of Meteorology (BOM) said average weekly sea-surface temperatures in the central Pacific have reached their highest level on record, external."
+            "en": "Nscale announced last year it had pledged £2bn to build and open a pioneering facility in Loughton, Essex.",
+            "ko": "실시간 보도 번역: Nscale announced last year it had pledged £2bn to build and open a pioneering facility in Loughton, Essex."
           }
         ]
       },
       {
-        "en": "It comes after scientists declared a new record for daily sea surface temperatures in the central-eastern Pacific in September, exceeding the previous record set during the very strong El Niño of 2015.",
+        "en": "However, the BBC understands that Microsoft, which said it would fund a supercomputer at the site, has terminated its involvement.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "It comes after scientists declared a new record for daily sea surface temperatures in the central-eastern Pacific in September, exceeding the previous record set during the very strong El Niño of 2015.",
-            "ko": "실시간 보도 번역: It comes after scientists declared a new record for daily sea surface temperatures in the central-eastern Pacific in September, exceeding the previous record set during the very strong El Niño of 2015."
+            "en": "However, the BBC understands that Microsoft, which said it would fund a supercomputer at the site, has terminated its involvement.",
+            "ko": "실시간 보도 번역: However, the BBC understands that Microsoft, which said it would fund a supercomputer at the site, has terminated its involvement."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Super El Niño sets another record as it strengthens to 'unprecedented levels'",
+      "글로벌 최신 소식: Microsoft pulls out of UK's largest AI data centre",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1583,7 +1696,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
+          "Microsoft pulls out of UK's largest AI data centre",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2310,66 +2423,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_122162282199446428",
-    "title": "Three things we've learnt about the UK economy from the IMF",
-    "subtitle": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain....",
-    "speaker": "BBC Business",
-    "date": "2026-10-13",
-    "addedAt": "2026-10-13T18:46:48Z",
-    "category": "economy",
+    "id": "auto_sports_998025632364315329",
+    "title": "Britain's Kartal misses out on biggest title of her career",
+    "subtitle": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska....",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-18",
+    "addedAt": "2026-10-19T02:56:03Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 127,
+    "wordCount": 153,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessThree things we&#x27;ve learnt about the UK economy from the IMFImage source, Getty ImagesByMitchell LabiakBusiness reporterPublished6 hours agoCountries around the world have had their future economic prospects assessed by  influential body, the International Monetary Fund (IMF).",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBritain&#x27;s Kartal misses out on biggest title of her careerImage source, Getty ImagesImage caption, Sonay Kartal will become the British number one when the WTA rankings are released on Monday",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessThree things we&#x27;ve learnt about the UK economy from the IMFImage source, Getty ImagesByMitchell LabiakBusiness reporterPublished6 hours agoCountries around the world have had their future economic prospects assessed by  influential body, the International Monetary Fund (IMF).",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessThree things we&#x27;ve learnt about the UK economy from the IMFImage source, Getty ImagesByMitchell LabiakBusiness reporterPublished6 hours agoCountries around the world have had their future economic prospects assessed by  influential body, the International Monetary Fund (IMF)."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBritain&#x27;s Kartal misses out on biggest title of her careerImage source, Getty ImagesImage caption, Sonay Kartal will become the British number one when the WTA rankings are released on Monday",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBritain&#x27;s Kartal misses out on biggest title of her careerImage source, Getty ImagesImage caption, Sonay Kartal will become the British number one when the WTA rankings are released on Monday"
           }
         ]
       },
       {
-        "en": "What the IMF says matters – it aims to keep the global economy stable and its twice-yearly forecasts are one of the most authoritative looks at what is really going on around the world.",
+        "en": "BBC Sport tennis news reporterPublished18 October 2026Britain&#x27;s Sonay Kartal missed out on what would have been the biggest title of her career as she faded in a gripping Wuhan Open final against French Open runner-up Maja Chwalinska.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "What the IMF says matters – it aims to keep the global economy stable and its twice-yearly forecasts are one of the most authoritative looks at what is really going on around the world.",
-            "ko": "실시간 보도 번역: What the IMF says matters – it aims to keep the global economy stable and its twice-yearly forecasts are one of the most authoritative looks at what is really going on around the world."
+            "en": "BBC Sport tennis news reporterPublished18 October 2026Britain&#x27;s Sonay Kartal missed out on what would have been the biggest title of her career as she faded in a gripping Wuhan Open final against French Open runner-up Maja Chwalinska.",
+            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished18 October 2026Britain&#x27;s Sonay Kartal missed out on what would have been the biggest title of her career as she faded in a gripping Wuhan Open final against French Open runner-up Maja Chwalinska."
           }
         ]
       },
       {
-        "en": "Yet like all forecasts they can also turn out to be incorrect, so they shouldn&#x27;t be treated as gospel.",
+        "en": "Kartal, 24, was bidding to lift the trophy in only her third event since returning from a six-month absence caused by a back injury.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Yet like all forecasts they can also turn out to be incorrect, so they shouldn&#x27;t be treated as gospel.",
-            "ko": "실시간 보도 번역: Yet like all forecasts they can also turn out to be incorrect, so they shouldn&#x27;t be treated as gospel."
+            "en": "Kartal, 24, was bidding to lift the trophy in only her third event since returning from a six-month absence caused by a back injury.",
+            "ko": "실시간 보도 번역: Kartal, 24, was bidding to lift the trophy in only her third event since returning from a six-month absence caused by a back injury."
           }
         ]
       },
       {
-        "en": "Here are three things we&#x27;ve learnt about the UK from the IMF&#x27;s latest report.",
+        "en": "But an extraordinary week in China seemed to catch up with Kartal as she ran out of steam - physically and mentally - in a 2-6 6-4 6-2 defeat.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Here are three things we&#x27;ve learnt about the UK from the IMF&#x27;s latest report.",
-            "ko": "실시간 보도 번역: Here are three things we&#x27;ve learnt about the UK from the IMF&#x27;s latest report."
+            "en": "But an extraordinary week in China seemed to catch up with Kartal as she ran out of steam - physically and mentally - in a 2-6 6-4 6-2 defeat.",
+            "ko": "실시간 보도 번역: But an extraordinary week in China seemed to catch up with Kartal as she ran out of steam - physically and mentally - in a 2-6 6-4 6-2 defeat."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Three things we've learnt about the UK economy from the IMF",
+      "글로벌 최신 소식: Britain's Kartal misses out on biggest title of her career",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2377,14 +2490,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Three things we've learnt about the UK economy from the IMF",
+          "Britain's Kartal misses out on biggest title of her career",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_4668303762050684727",
@@ -3098,66 +3213,74 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_549358696513408307",
-    "title": "Boulter beaten by Shnaider in Wuhan",
-    "subtitle": "British number one Katie Boulter loses to Diana Shnaider in the Wuhan Open first round....",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-13",
-    "addedAt": "2026-10-13T18:46:49Z",
-    "category": "sports",
+    "id": "auto_culture_6515319377585296714",
+    "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+    "subtitle": "Presley Gerber's death in September is being investigated as a suspected overdose....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-18",
+    "addedAt": "2026-10-19T02:56:04Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 132,
+    "wordCount": 128,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter beaten by Shnaider in WuhanImage source, Getty ImagesImage caption, Katie Boulter is the 23rd woman to hold the British number one ranking",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaCindy Crawford &#x27;beyond heartbroken&#x27; after death of son Presley at 27Image source, Getty ImagesImage caption, Presley Gerber, Kaia Gerber, Cindy Crawford and Rande Gerber in May",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter beaten by Shnaider in WuhanImage source, Getty ImagesImage caption, Katie Boulter is the 23rd woman to hold the British number one ranking",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter beaten by Shnaider in WuhanImage source, Getty ImagesImage caption, Katie Boulter is the 23rd woman to hold the British number one ranking"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaCindy Crawford &#x27;beyond heartbroken&#x27; after death of son Presley at 27Image source, Getty ImagesImage caption, Presley Gerber, Kaia Gerber, Cindy Crawford and Rande Gerber in May",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaCindy Crawford &#x27;beyond heartbroken&#x27; after death of son Presley at 27Image source, Getty ImagesImage caption, Presley Gerber, Kaia Gerber, Cindy Crawford and Rande Gerber in May"
           }
         ]
       },
       {
-        "en": "British number one Katie Boulter is out of the Wuhan Open after a first-round defeat by Russian Diana Shnaider.",
+        "en": "Supermodel Cindy Crawford has said she and her family are &quot;beyond heartbroken&quot; over the death of her son Presley Gerber.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "British number one Katie Boulter is out of the Wuhan Open after a first-round defeat by Russian Diana Shnaider.",
-            "ko": "실시간 보도 번역: British number one Katie Boulter is out of the Wuhan Open after a first-round defeat by Russian Diana Shnaider."
+            "en": "Supermodel Cindy Crawford has said she and her family are &quot;beyond heartbroken&quot; over the death of her son Presley Gerber.",
+            "ko": "실시간 보도 번역: Supermodel Cindy Crawford has said she and her family are &quot;beyond heartbroken&quot; over the death of her son Presley Gerber."
           }
         ]
       },
       {
-        "en": "After a competitive first set, Boulter lost her serve four times in the second as world number 13 Shnaider convincingly won 6-3 6-1 in one hour and 30 minutes.",
+        "en": "&quot;He is a sweet, beautiful soul who loved and is loved, now and forever,&quot; she posted on Instagram, next to a black-and-white photo of him. &quot;We are so proud of how he showed up in the world, with kindness and vulnerability.&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "After a competitive first set, Boulter lost her serve four times in the second as world number 13 Shnaider convincingly won 6-3 6-1 in one hour and 30 minutes.",
-            "ko": "실시간 보도 번역: After a competitive first set, Boulter lost her serve four times in the second as world number 13 Shnaider convincingly won 6-3 6-1 in one hour and 30 minutes."
+            "en": "&quot;He is a sweet, beautiful soul who loved and is loved, now and forever,&quot; she posted on Instagram, next to a black-and-white photo of him.",
+            "ko": "실시간 보도 번역: &quot;He is a sweet, beautiful soul who loved and is loved, now and forever,&quot; she posted on Instagram, next to a black-and-white photo of him."
+          },
+          {
+            "en": "&quot;We are so proud of how he showed up in the world, with kindness and vulnerability.",
+            "ko": "실시간 보도 번역: &quot;We are so proud of how he showed up in the world, with kindness and vulnerability."
           }
         ]
       },
       {
-        "en": "This has been a largely disappointing season for Boulter, who is ranked 54th in the world and has posted just two wins across the four Grand Slam tournaments.",
+        "en": "The 27-year-old died on 20 September at a rehab facility in California. Police said officials are investigating his death as a suspected overdose.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "This has been a largely disappointing season for Boulter, who is ranked 54th in the world and has posted just two wins across the four Grand Slam tournaments.",
-            "ko": "실시간 보도 번역: This has been a largely disappointing season for Boulter, who is ranked 54th in the world and has posted just two wins across the four Grand Slam tournaments."
+            "en": "The 27-year-old died on 20 September at a rehab facility in California.",
+            "ko": "실시간 보도 번역: The 27-year-old died on 20 September at a rehab facility in California."
+          },
+          {
+            "en": "Police said officials are investigating his death as a suspected overdose.",
+            "ko": "실시간 보도 번역: Police said officials are investigating his death as a suspected overdose."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Boulter beaten by Shnaider in Wuhan",
+      "글로벌 최신 소식: Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3165,16 +3288,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Boulter beaten by Shnaider in Wuhan",
+          "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_7315471430574369771",
@@ -3877,83 +3998,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_475625501798738775",
-    "title": "How Breaking Bad's RJ Mitte changed the way we see cerebral palsy",
-    "subtitle": "The star, who has died at the age of 34, fought for better representation of disabilities on screen....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-13",
-    "addedAt": "2026-10-13T18:46:50Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 93,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow Breaking Bad&#x27;s RJ Mitte changed the way we see cerebral palsyTo play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow Breaking Bad&#x27;s RJ Mitte changed the way we see cerebral palsyTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsHow Breaking Bad&#x27;s RJ Mitte changed the way we see cerebral palsyTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "&#x27;Disabled or not, everyone deserves an opportunity,&#x27; RJ Mitte says in 2015 BBC interview",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&#x27;Disabled or not, everyone deserves an opportunity,&#x27; RJ Mitte says in 2015 BBC interview",
-            "ko": "실시간 보도 번역: &#x27;Disabled or not, everyone deserves an opportunity,&#x27; RJ Mitte says in 2015 BBC interview"
-          }
-        ]
-      },
-      {
-        "en": "&quot;I have cerebral palsy but I&#x27;ve never let it hold me back.&quot;",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&quot;I have cerebral palsy but I&#x27;ve never let it hold me back.",
-            "ko": "실시간 보도 번역: &quot;I have cerebral palsy but I&#x27;ve never let it hold me back."
-          }
-        ]
-      },
-      {
-        "en": "Those are the words of a 22-year-old Breaking Bad star RJ Mitte in an essay for Huffpost, external back in 2014.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Those are the words of a 22-year-old Breaking Bad star RJ Mitte in an essay for Huffpost, external back in 2014.",
-            "ko": "실시간 보도 번역: Those are the words of a 22-year-old Breaking Bad star RJ Mitte in an essay for Huffpost, external back in 2014."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: How Breaking Bad's RJ Mitte changed the way we see cerebral palsy",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "How Breaking Bad's RJ Mitte changed the way we see cerebral palsy",
           "Historical retrospective",
           "Unrelated general weather"
         ],
