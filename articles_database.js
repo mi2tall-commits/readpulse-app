@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_6432956426224742035",
+    "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+    "subtitle": "The Saudi government did not immediately respond to BBC requests for comment....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-19",
+    "addedAt": "2026-10-19T18:13:24Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 144,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechEx-OpenAI worker accused of planting device had Saudi support says court filingImage source, Reuters/DOJByLaura CressTechnology reporterPublished1 hour agoA Saudi national charged with secretly planting a recording device in one of OpenAI&#x27;s meeting rooms has been accused of having &quot;considerable support&quot; from the Saudi government, according to a court filing, external in California.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechEx-OpenAI worker accused of planting device had Saudi support says court filingImage source, Reuters/DOJByLaura CressTechnology reporterPublished1 hour agoA Saudi national charged with secretly planting a recording device in one of OpenAI&#x27;s meeting rooms has been accused of having &quot;considerable support&quot; from the Saudi government, according to a court filing, external in California.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechEx-OpenAI worker accused of planting device had Saudi support says court filingImage source, Reuters/DOJByLaura CressTechnology reporterPublished1 hour agoA Saudi national charged with secretly planting a recording device in one of OpenAI&#x27;s meeting rooms has been accused of having &quot;considerable support&quot; from the Saudi government, according to a court filing, external in California."
+          }
+        ]
+      },
+      {
+        "en": "US prosecutors claimed Abdulrahman Alfozan, who worked for the AI firm, was in &quot;frequent communication... with a member of the Saudi royal family&quot;, and say a member of the country&#x27;s military paid for a one-way flight to Saudi Arabia for his wife and son after his arrest.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "US prosecutors claimed Abdulrahman Alfozan, who worked for the AI firm, was in &quot;frequent communication...",
+            "ko": "실시간 보도 번역: US prosecutors claimed Abdulrahman Alfozan, who worked for the AI firm, was in &quot;frequent communication..."
+          },
+          {
+            "en": "with a member of the Saudi royal family&quot;, and say a member of the country&#x27;s military paid for a one-way flight to Saudi Arabia for his wife and son after his arrest.",
+            "ko": "실시간 보도 번역: with a member of the Saudi royal family&quot;, and say a member of the country&#x27;s military paid for a one-way flight to Saudi Arabia for his wife and son after his arrest."
+          }
+        ]
+      },
+      {
+        "en": "It was argued the 35-year-old engineer therefore posed a flight risk and should be detained, pending trial.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It was argued the 35-year-old engineer therefore posed a flight risk and should be detained, pending trial.",
+            "ko": "실시간 보도 번역: It was argued the 35-year-old engineer therefore posed a flight risk and should be detained, pending trial."
+          }
+        ]
+      },
+      {
+        "en": "The Saudi government did not immediately respond to BBC requests for comment.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The Saudi government did not immediately respond to BBC requests for comment.",
+            "ko": "실시간 보도 번역: The Saudi government did not immediately respond to BBC requests for comment."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_6571663148114711381",
     "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
     "subtitle": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing....",
@@ -714,74 +795,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_6178227025567495499",
-    "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
-    "subtitle": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-13",
-    "addedAt": "2026-10-14T03:13:53Z",
-    "category": "tech",
+    "id": "auto_science_1288362424723704124",
+    "title": "Mission set to blast off for Mars to grab a piece of its moon",
+    "subtitle": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth....",
+    "speaker": "BBC Science",
+    "date": "2026-10-19",
+    "addedAt": "2026-10-19T18:13:25Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 155,
+    "wordCount": 110,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble bought for $1.3bn in &#x27;bet on the future of humanity&#x27;Image source, Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Osmond Chia, Business reporterPublished13 October 2026Dating app Bumble has been bought for $1.3bn (£980m) in what the new owners called &quot;a bet on the future of humanity&quot;.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceMission set to blast off for Mars to grab a piece of its moonImage source, JAXAImage caption, The spacecraft will head to Mars&#x27;s larger moon, Phobos",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble bought for $1.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBumble bought for $1."
-          },
-          {
-            "en": "3bn in &#x27;bet on the future of humanity&#x27;Image source, Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Osmond Chia, Business reporterPublished13 October 2026Dating app Bumble has been bought for $1.",
-            "ko": "실시간 보도 번역: 3bn in &#x27;bet on the future of humanity&#x27;Image source, Getty ImagesByRachel Clun, Business reporter, Reporting fromNew York and Osmond Chia, Business reporterPublished13 October 2026Dating app Bumble has been bought for $1."
-          },
-          {
-            "en": "3bn (£980m) in what the new owners called &quot;a bet on the future of humanity&quot;.",
-            "ko": "실시간 보도 번역: 3bn (£980m) in what the new owners called &quot;a bet on the future of humanity&quot;."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceMission set to blast off for Mars to grab a piece of its moonImage source, JAXAImage caption, The spacecraft will head to Mars&#x27;s larger moon, Phobos",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceMission set to blast off for Mars to grab a piece of its moonImage source, JAXAImage caption, The spacecraft will head to Mars&#x27;s larger moon, Phobos"
           }
         ]
       },
       {
-        "en": "Investment firm Ithaca Holdings is taking over the loss-making firm and it directors, Ravi Gupta and John Hegeman, will become co-chief executives of the company which once differentiated itself by having a &quot;women-first&quot; chat rule.",
+        "en": "A space mission is set to launch on Monday that will attempt to grab a piece of Mars&#x27; moon Phobos and bring it back to Earth.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Investment firm Ithaca Holdings is taking over the loss-making firm and it directors, Ravi Gupta and John Hegeman, will become co-chief executives of the company which once differentiated itself by having a &quot;women-first&quot; chat rule.",
-            "ko": "실시간 보도 번역: Investment firm Ithaca Holdings is taking over the loss-making firm and it directors, Ravi Gupta and John Hegeman, will become co-chief executives of the company which once differentiated itself by having a &quot;women-first&quot; chat rule."
+            "en": "A space mission is set to launch on Monday that will attempt to grab a piece of Mars&#x27; moon Phobos and bring it back to Earth.",
+            "ko": "실시간 보도 번역: A space mission is set to launch on Monday that will attempt to grab a piece of Mars&#x27; moon Phobos and bring it back to Earth."
           }
         ]
       },
       {
-        "en": "Whitney Wolfe Herd, Bumble&#x27;s founder and current chief executive, said she would remain &quot;actively involved&quot; with the business she set up 12 years ago.",
+        "en": "If it is successful, this will become the first time a sample has been returned from Mars or its moons to be analysed in laboratories here on Earth.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Whitney Wolfe Herd, Bumble&#x27;s founder and current chief executive, said she would remain &quot;actively involved&quot; with the business she set up 12 years ago.",
-            "ko": "실시간 보도 번역: Whitney Wolfe Herd, Bumble&#x27;s founder and current chief executive, said she would remain &quot;actively involved&quot; with the business she set up 12 years ago."
+            "en": "If it is successful, this will become the first time a sample has been returned from Mars or its moons to be analysed in laboratories here on Earth.",
+            "ko": "실시간 보도 번역: If it is successful, this will become the first time a sample has been returned from Mars or its moons to be analysed in laboratories here on Earth."
           }
         ]
       },
       {
-        "en": "While it is unclear what Wolfe Herd&#x27;s role at the dating app will be, she said she will work closely with the new owners.",
+        "en": "The spacecraft will blast off from Japan and arrive at Phobos in August 2027.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "While it is unclear what Wolfe Herd&#x27;s role at the dating app will be, she said she will work closely with the new owners.",
-            "ko": "실시간 보도 번역: While it is unclear what Wolfe Herd&#x27;s role at the dating app will be, she said she will work closely with the new owners."
+            "en": "The spacecraft will blast off from Japan and arrive at Phobos in August 2027.",
+            "ko": "실시간 보도 번역: The spacecraft will blast off from Japan and arrive at Phobos in August 2027."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Bumble bought for $1.3bn in 'bet on the future of humanity'",
+      "글로벌 최신 소식: Mission set to blast off for Mars to grab a piece of its moon",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -789,7 +862,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+          "Mission set to blast off for Mars to grab a piece of its moon",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1552,66 +1625,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_2390726777389401500",
-    "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
-    "subtitle": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich exp...",
-    "speaker": "BBC Science",
-    "date": "2026-10-13",
-    "addedAt": "2026-10-14T03:13:53Z",
-    "category": "science",
+    "id": "auto_economy_227777174447299447",
+    "title": "Vinted blocks French looters listing stolen goods for sale",
+    "subtitle": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\"....",
+    "speaker": "BBC Business",
+    "date": "2026-10-19",
+    "addedAt": "2026-10-19T18:13:27Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 143,
+    "wordCount": 132,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpGales and heavy rain to impact UK as yellow wind warning issuedImage source, Andrew Milligan/PA WireByBen RichLead Weather PresenterPublished3 hours agoA weather system containing the remnants of Hurricane Isaias is forecast to send gales, heavy rain and a surge of warm air to parts of the UK this week.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVinted blocks French looters listing stolen goods for saleImage source, Getty ImagesByMichael RaceBusiness reporterPublished19 October 2026, 16:25 BSTUpdated 1 hour agoVinted says it has removed listings of items believed to have been looted from shops during the ongoing riots in France.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpGales and heavy rain to impact UK as yellow wind warning issuedImage source, Andrew Milligan/PA WireByBen RichLead Weather PresenterPublished3 hours agoA weather system containing the remnants of Hurricane Isaias is forecast to send gales, heavy rain and a surge of warm air to parts of the UK this week.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpGales and heavy rain to impact UK as yellow wind warning issuedImage source, Andrew Milligan/PA WireByBen RichLead Weather PresenterPublished3 hours agoA weather system containing the remnants of Hurricane Isaias is forecast to send gales, heavy rain and a surge of warm air to parts of the UK this week."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVinted blocks French looters listing stolen goods for saleImage source, Getty ImagesByMichael RaceBusiness reporterPublished19 October 2026, 16:25 BSTUpdated 1 hour agoVinted says it has removed listings of items believed to have been looted from shops during the ongoing riots in France.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVinted blocks French looters listing stolen goods for saleImage source, Getty ImagesByMichael RaceBusiness reporterPublished19 October 2026, 16:25 BSTUpdated 1 hour agoVinted says it has removed listings of items believed to have been looted from shops during the ongoing riots in France."
           }
         ]
       },
       {
-        "en": "The centre of the low, and its most significant impacts, will stay hundreds of miles from UK shores but north-west Scotland will see a spell of gales.",
+        "en": "The second hand re-selling platform said following the weekend&#x27;s disorder it had &quot;taken immediate action to identify and remove listings linked to looting&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The centre of the low, and its most significant impacts, will stay hundreds of miles from UK shores but north-west Scotland will see a spell of gales.",
-            "ko": "실시간 보도 번역: The centre of the low, and its most significant impacts, will stay hundreds of miles from UK shores but north-west Scotland will see a spell of gales."
+            "en": "The second hand re-selling platform said following the weekend&#x27;s disorder it had &quot;taken immediate action to identify and remove listings linked to looting&quot;.",
+            "ko": "실시간 보도 번역: The second hand re-selling platform said following the weekend&#x27;s disorder it had &quot;taken immediate action to identify and remove listings linked to looting&quot;."
           }
         ]
       },
       {
-        "en": "A Met Office yellow warning has been issued for parts of the Highlands and Western Isles with the risk of gusts touching 70mph (113km/h) in places.",
+        "en": "Shops across several French cities were broken into and ransacked during the outbreak of riots over the weekend.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A Met Office yellow warning has been issued for parts of the Highlands and Western Isles with the risk of gusts touching 70mph (113km/h) in places.",
-            "ko": "실시간 보도 번역: A Met Office yellow warning has been issued for parts of the Highlands and Western Isles with the risk of gusts touching 70mph (113km/h) in places."
+            "en": "Shops across several French cities were broken into and ransacked during the outbreak of riots over the weekend.",
+            "ko": "실시간 보도 번역: Shops across several French cities were broken into and ransacked during the outbreak of riots over the weekend."
           }
         ]
       },
       {
-        "en": "Heavy rain will also affect parts of Scotland and Northern Ireland but much of England and Wales will remain largely dry with spells of sunshine.",
+        "en": "&quot;The sale of stolen goods, or soliciting them, is strictly prohibited on Vinted, and we have zero tolerance for it,&quot; a spokesperson for the company said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Heavy rain will also affect parts of Scotland and Northern Ireland but much of England and Wales will remain largely dry with spells of sunshine.",
-            "ko": "실시간 보도 번역: Heavy rain will also affect parts of Scotland and Northern Ireland but much of England and Wales will remain largely dry with spells of sunshine."
+            "en": "&quot;The sale of stolen goods, or soliciting them, is strictly prohibited on Vinted, and we have zero tolerance for it,&quot; a spokesperson for the company said.",
+            "ko": "실시간 보도 번역: &quot;The sale of stolen goods, or soliciting them, is strictly prohibited on Vinted, and we have zero tolerance for it,&quot; a spokesperson for the company said."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Gales and heavy rain to impact UK as yellow wind warning issued",
+      "글로벌 최신 소식: Vinted blocks French looters listing stolen goods for sale",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1619,7 +1692,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Gales and heavy rain to impact UK as yellow wind warning issued",
+          "Vinted blocks French looters listing stolen goods for sale",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2346,66 +2419,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_5192540087161951266",
-    "title": "Royal Mail losing 400 postal workers a week, says union",
-    "subtitle": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of off...",
-    "speaker": "BBC Business",
-    "date": "2026-10-13",
-    "addedAt": "2026-10-14T03:13:54Z",
-    "category": "economy",
+    "id": "auto_sports_8405467270112380364",
+    "title": "Svitolina says emotional toll of Ukraine war led to Monfils separation",
+    "subtitle": "The two top tennis pros married in 2021 and have one child together....",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-19",
+    "addedAt": "2026-10-19T18:13:28Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 169,
+    "wordCount": 148,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRoyal Mail losing 400 postal workers a week, says unionImage source, Getty ImagesByColletta Smith, BBC Your Voice correspondent and Elaine Doran, BBC Your Voice producerPublished4 hours agoAbout 400 postmen and women are leaving Royal Mail per week, according to the Communication Workers Union (CWU), who claims this number has gone up since the company introduced a new delivery system earlier this year.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTennis star Svitolina says emotional toll of Ukraine war led to Monfils separationImage source, ReutersImage caption, Monfils and Svitolina played in the mixed doubles together at this year&#x27;s US Open and reached the semi-finals",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRoyal Mail losing 400 postal workers a week, says unionImage source, Getty ImagesByColletta Smith, BBC Your Voice correspondent and Elaine Doran, BBC Your Voice producerPublished4 hours agoAbout 400 postmen and women are leaving Royal Mail per week, according to the Communication Workers Union (CWU), who claims this number has gone up since the company introduced a new delivery system earlier this year.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessRoyal Mail losing 400 postal workers a week, says unionImage source, Getty ImagesByColletta Smith, BBC Your Voice correspondent and Elaine Doran, BBC Your Voice producerPublished4 hours agoAbout 400 postmen and women are leaving Royal Mail per week, according to the Communication Workers Union (CWU), who claims this number has gone up since the company introduced a new delivery system earlier this year."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTennis star Svitolina says emotional toll of Ukraine war led to Monfils separationImage source, ReutersImage caption, Monfils and Svitolina played in the mixed doubles together at this year&#x27;s US Open and reached the semi-finals",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTennis star Svitolina says emotional toll of Ukraine war led to Monfils separationImage source, ReutersImage caption, Monfils and Svitolina played in the mixed doubles together at this year&#x27;s US Open and reached the semi-finals"
           }
         ]
       },
       {
-        "en": "The CWU says the firm had been losing about 330 postal staff a week from a workforce of 83,000 before it rolled out DM26, which reorganised routes to improve delivery performance.",
+        "en": "Ukrainian tennis star Elina Svitolina has announced the end of her marriage with French former tennis player Gaël Monfils, citing the emotional impact of the war in her country.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The CWU says the firm had been losing about 330 postal staff a week from a workforce of 83,000 before it rolled out DM26, which reorganised routes to improve delivery performance.",
-            "ko": "실시간 보도 번역: The CWU says the firm had been losing about 330 postal staff a week from a workforce of 83,000 before it rolled out DM26, which reorganised routes to improve delivery performance."
+            "en": "Ukrainian tennis star Elina Svitolina has announced the end of her marriage with French former tennis player Gaël Monfils, citing the emotional impact of the war in her country.",
+            "ko": "실시간 보도 번역: Ukrainian tennis star Elina Svitolina has announced the end of her marriage with French former tennis player Gaël Monfils, citing the emotional impact of the war in her country."
           }
         ]
       },
       {
-        "en": "The union claims the new system is not working in hundreds of offices, and BBC Your Voice has heard from staff warning of a &quot;nightmare&quot; Christmas ahead as the number of parcels increases.",
+        "en": "The 32-year-old, who is ranked number six in the world, wrote in a heartfelt post on Instagram about the effect the conflict and &quot;what the war has done to me inside&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The union claims the new system is not working in hundreds of offices, and BBC Your Voice has heard from staff warning of a &quot;nightmare&quot; Christmas ahead as the number of parcels increases.",
-            "ko": "실시간 보도 번역: The union claims the new system is not working in hundreds of offices, and BBC Your Voice has heard from staff warning of a &quot;nightmare&quot; Christmas ahead as the number of parcels increases."
+            "en": "The 32-year-old, who is ranked number six in the world, wrote in a heartfelt post on Instagram about the effect the conflict and &quot;what the war has done to me inside&quot;.",
+            "ko": "실시간 보도 번역: The 32-year-old, who is ranked number six in the world, wrote in a heartfelt post on Instagram about the effect the conflict and &quot;what the war has done to me inside&quot;."
           }
         ]
       },
       {
-        "en": "Royal Mail says the reforms are part of its plan to deliver a more &quot;efficient and financially sustainable&quot; service.",
+        "en": "&quot;This is the most difficult thing I have ever had to share,&quot; she wrote, saying &quot;I need to find my way back to myself&quot;. Svitolina said she felt she could not do that within her marriage.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Royal Mail says the reforms are part of its plan to deliver a more &quot;efficient and financially sustainable&quot; service.",
-            "ko": "실시간 보도 번역: Royal Mail says the reforms are part of its plan to deliver a more &quot;efficient and financially sustainable&quot; service."
+            "en": "&quot;This is the most difficult thing I have ever had to share,&quot; she wrote, saying &quot;I need to find my way back to myself&quot;.",
+            "ko": "실시간 보도 번역: &quot;This is the most difficult thing I have ever had to share,&quot; she wrote, saying &quot;I need to find my way back to myself&quot;."
+          },
+          {
+            "en": "Svitolina said she felt she could not do that within her marriage.",
+            "ko": "실시간 보도 번역: Svitolina said she felt she could not do that within her marriage."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Royal Mail losing 400 postal workers a week, says union",
+      "글로벌 최신 소식: Svitolina says emotional toll of Ukraine war led to Monfils separation",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2413,14 +2490,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Royal Mail losing 400 postal workers a week, says union",
+          "Svitolina says emotional toll of Ukraine war led to Monfils separation",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_998025632364315329",
@@ -3134,66 +3213,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_6309332497310380426",
-    "title": "Boulter beaten by Shnaider in Wuhan",
-    "subtitle": "British number one Katie Boulter loses to Diana Shnaider in the Wuhan Open first round....",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-13",
-    "addedAt": "2026-10-14T03:13:54Z",
-    "category": "sports",
+    "id": "auto_culture_1964451692815341811",
+    "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+    "subtitle": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-19",
+    "addedAt": "2026-10-19T18:13:32Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 132,
+    "wordCount": 142,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter beaten by Shnaider in WuhanImage source, Getty ImagesImage caption, Katie Boulter is the 23rd woman to hold the British number one ranking",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsWoman says she &#x27;closed eyes and tried not to be there&#x27; during alleged Russell Brand rapeImage source, EPAImage caption, Russell Brand arrives at court on Monday morning",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter beaten by Shnaider in WuhanImage source, Getty ImagesImage caption, Katie Boulter is the 23rd woman to hold the British number one ranking",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter beaten by Shnaider in WuhanImage source, Getty ImagesImage caption, Katie Boulter is the 23rd woman to hold the British number one ranking"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsWoman says she &#x27;closed eyes and tried not to be there&#x27; during alleged Russell Brand rapeImage source, EPAImage caption, Russell Brand arrives at court on Monday morning",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsWoman says she &#x27;closed eyes and tried not to be there&#x27; during alleged Russell Brand rapeImage source, EPAImage caption, Russell Brand arrives at court on Monday morning"
           }
         ]
       },
       {
-        "en": "British number one Katie Boulter is out of the Wuhan Open after a first-round defeat by Russian Diana Shnaider.",
+        "en": "A woman who alleges she was raped by Russell Brand at a bar told the police &quot;I just closed my eyes and tried not to be there&quot; while the attack was taking place.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "British number one Katie Boulter is out of the Wuhan Open after a first-round defeat by Russian Diana Shnaider.",
-            "ko": "실시간 보도 번역: British number one Katie Boulter is out of the Wuhan Open after a first-round defeat by Russian Diana Shnaider."
+            "en": "A woman who alleges she was raped by Russell Brand at a bar told the police &quot;I just closed my eyes and tried not to be there&quot; while the attack was taking place.",
+            "ko": "실시간 보도 번역: A woman who alleges she was raped by Russell Brand at a bar told the police &quot;I just closed my eyes and tried not to be there&quot; while the attack was taking place."
           }
         ]
       },
       {
-        "en": "After a competitive first set, Boulter lost her serve four times in the second as world number 13 Shnaider convincingly won 6-3 6-1 in one hour and 30 minutes.",
+        "en": "In a 2023 video interview with an officer shown to the jury at his trial, the woman said she had been speaking to Brand about him hosting the Channel 4 show Big Brother&#x27;s Big Mouth when he allegedly sexually assaulted her.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "After a competitive first set, Boulter lost her serve four times in the second as world number 13 Shnaider convincingly won 6-3 6-1 in one hour and 30 minutes.",
-            "ko": "실시간 보도 번역: After a competitive first set, Boulter lost her serve four times in the second as world number 13 Shnaider convincingly won 6-3 6-1 in one hour and 30 minutes."
+            "en": "In a 2023 video interview with an officer shown to the jury at his trial, the woman said she had been speaking to Brand about him hosting the Channel 4 show Big Brother&#x27;s Big Mouth when he allegedly sexually assaulted her.",
+            "ko": "실시간 보도 번역: In a 2023 video interview with an officer shown to the jury at his trial, the woman said she had been speaking to Brand about him hosting the Channel 4 show Big Brother&#x27;s Big Mouth when he allegedly sexually assaulted her."
           }
         ]
       },
       {
-        "en": "This has been a largely disappointing season for Boulter, who is ranked 54th in the world and has posted just two wins across the four Grand Slam tournaments.",
+        "en": "Brand, 51, faces seven charges in the trial - three counts of rape, three charges of sexual assault and one of indecent assault.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "This has been a largely disappointing season for Boulter, who is ranked 54th in the world and has posted just two wins across the four Grand Slam tournaments.",
-            "ko": "실시간 보도 번역: This has been a largely disappointing season for Boulter, who is ranked 54th in the world and has posted just two wins across the four Grand Slam tournaments."
+            "en": "Brand, 51, faces seven charges in the trial - three counts of rape, three charges of sexual assault and one of indecent assault.",
+            "ko": "실시간 보도 번역: Brand, 51, faces seven charges in the trial - three counts of rape, three charges of sexual assault and one of indecent assault."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Boulter beaten by Shnaider in Wuhan",
+      "글로벌 최신 소식: Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3201,16 +3280,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Boulter beaten by Shnaider in Wuhan",
+          "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_6515319377585296714",
@@ -3917,87 +3994,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_6027511347753351478",
-    "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-    "subtitle": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-13",
-    "addedAt": "2026-10-14T03:13:55Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 123,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEx-gang boss sentenced to 40 years for orchestrating Tupac Shakur&#x27;s murderTo play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEx-gang boss sentenced to 40 years for orchestrating Tupac Shakur&#x27;s murderTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaEx-gang boss sentenced to 40 years for orchestrating Tupac Shakur&#x27;s murderTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Watch: Moment Duane Davis is sentenced to 40 years for Tupac Shakur&#x27;s murder",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Watch: Moment Duane Davis is sentenced to 40 years for Tupac Shakur&#x27;s murder",
-            "ko": "실시간 보도 번역: Watch: Moment Duane Davis is sentenced to 40 years for Tupac Shakur&#x27;s murder"
-          }
-        ]
-      },
-      {
-        "en": "Former gang boss Duane &quot;Keffe D&quot; Davis has been sentenced to at least 40 years in prison for orchestrating the murder of Tupac Shakur.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Former gang boss Duane &quot;Keffe D&quot; Davis has been sentenced to at least 40 years in prison for orchestrating the murder of Tupac Shakur.",
-            "ko": "실시간 보도 번역: Former gang boss Duane &quot;Keffe D&quot; Davis has been sentenced to at least 40 years in prison for orchestrating the murder of Tupac Shakur."
-          }
-        ]
-      },
-      {
-        "en": "A jury found Davis, 63, guilty in September of one count of murder with a deadly weapon for the rap superstar&#x27;s death in a drive-by shooting in Las Vegas on 7 September 1996. He has said he will appeal the verdict.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "A jury found Davis, 63, guilty in September of one count of murder with a deadly weapon for the rap superstar&#x27;s death in a drive-by shooting in Las Vegas on 7 September 1996.",
-            "ko": "실시간 보도 번역: A jury found Davis, 63, guilty in September of one count of murder with a deadly weapon for the rap superstar&#x27;s death in a drive-by shooting in Las Vegas on 7 September 1996."
-          },
-          {
-            "en": "He has said he will appeal the verdict.",
-            "ko": "실시간 보도 번역: He has said he will appeal the verdict."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
           "Historical retrospective",
           "Unrelated general weather"
         ],
