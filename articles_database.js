@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_8695793741743482177",
+    "title": "Google says services recovering after cloud outage hits UK banks and websites",
+    "subtitle": "Revolut was one of the hardest hit, with banking services going down for many customers....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-20",
+    "addedAt": "2026-10-20T16:14:03Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 127,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGoogle says services recovering after cloud outage hits UK banks and websitesImage source, Getty ImagesImage caption, Revolut was among UK banking services seemingly affected by the Google Cloud outage on Tuesday",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGoogle says services recovering after cloud outage hits UK banks and websitesImage source, Getty ImagesImage caption, Revolut was among UK banking services seemingly affected by the Google Cloud outage on Tuesday",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGoogle says services recovering after cloud outage hits UK banks and websitesImage source, Getty ImagesImage caption, Revolut was among UK banking services seemingly affected by the Google Cloud outage on Tuesday"
+          }
+        ]
+      },
+      {
+        "en": "Google Cloud says services are recovering after a &quot;power event&quot; at its UK cloud site caused an outage affecting UK banks, businesses and the courts.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Google Cloud says services are recovering after a &quot;power event&quot; at its UK cloud site caused an outage affecting UK banks, businesses and the courts.",
+            "ko": "실시간 보도 번역: Google Cloud says services are recovering after a &quot;power event&quot; at its UK cloud site caused an outage affecting UK banks, businesses and the courts."
+          }
+        ]
+      },
+      {
+        "en": "The company, one of a few large cloud computing firms whose infrastructure and services underpin many online platforms, reported an &quot;issue with multiple services&quot; at its London data centre complex &quot;europe-west2.&quot;",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The company, one of a few large cloud computing firms whose infrastructure and services underpin many online platforms, reported an &quot;issue with multiple services&quot; at its London data centre complex &quot;europe-west2.",
+            "ko": "실시간 보도 번역: The company, one of a few large cloud computing firms whose infrastructure and services underpin many online platforms, reported an &quot;issue with multiple services&quot; at its London data centre complex &quot;europe-west2."
+          }
+        ]
+      },
+      {
+        "en": "Revolut, Lloyds Bank and HSBC confirmed disruption to some services on Tuesday morning, after thousands of reports of problems were raised by users online.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Revolut, Lloyds Bank and HSBC confirmed disruption to some services on Tuesday morning, after thousands of reports of problems were raised by users online.",
+            "ko": "실시간 보도 번역: Revolut, Lloyds Bank and HSBC confirmed disruption to some services on Tuesday morning, after thousands of reports of problems were raised by users online."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Google says services recovering after cloud outage hits UK banks and websites",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Google says services recovering after cloud outage hits UK banks and websites",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_4188245400726453512",
     "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
     "subtitle": "The Saudi government did not immediately respond to BBC requests for comment....",
@@ -714,70 +791,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_8887450112497025322",
-    "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-    "subtitle": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-15",
-    "addedAt": "2026-10-15T16:10:02Z",
-    "category": "tech",
+    "id": "auto_science_8145819573393564811",
+    "title": "Five ways El Niño is affecting the weather around the world",
+    "subtitle": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the glob...",
+    "speaker": "BBC Science",
+    "date": "2026-10-19",
+    "addedAt": "2026-10-20T16:14:04Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 116,
+    "wordCount": 110,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI giant Anthropic woos potential investors ahead of stock market debutImage source, Getty Images for HubSpotImage caption, Anthropic chief executive Dario Amodei",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFive ways El Niño is affecting the weather around the worldImage source, EPAImage caption, Wildfires have caused thick haze on the streets in Indonesia this month",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI giant Anthropic woos potential investors ahead of stock market debutImage source, Getty Images for HubSpotImage caption, Anthropic chief executive Dario Amodei",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAI giant Anthropic woos potential investors ahead of stock market debutImage source, Getty Images for HubSpotImage caption, Anthropic chief executive Dario Amodei"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFive ways El Niño is affecting the weather around the worldImage source, EPAImage caption, Wildfires have caused thick haze on the streets in Indonesia this month",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFive ways El Niño is affecting the weather around the worldImage source, EPAImage caption, Wildfires have caused thick haze on the streets in Indonesia this month"
           }
         ]
       },
       {
-        "en": "Artificial intelligence (AI) giant Anthropic has been drumming up support for its expected stock market listing as it seeks to reassure investors of its profit-making potential.",
+        "en": "El Niño has been strengthening for several months now and is already having a significant impact on global weather patterns.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Artificial intelligence (AI) giant Anthropic has been drumming up support for its expected stock market listing as it seeks to reassure investors of its profit-making potential.",
-            "ko": "실시간 보도 번역: Artificial intelligence (AI) giant Anthropic has been drumming up support for its expected stock market listing as it seeks to reassure investors of its profit-making potential."
+            "en": "El Niño has been strengthening for several months now and is already having a significant impact on global weather patterns.",
+            "ko": "실시간 보도 번역: El Niño has been strengthening for several months now and is already having a significant impact on global weather patterns."
           }
         ]
       },
       {
-        "en": "Anthropic revenue surged by 45% to $16.8bn (£12.7bn) in the three months to the end of September, the BBC understands.",
+        "en": "Countries including Indonesia, India and the United States have been experiencing droughts, floods and heatwaves in line with projections about how extreme weather events will be supercharged by the phenomenon.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Anthropic revenue surged by 45% to $16.",
-            "ko": "실시간 보도 번역: Anthropic revenue surged by 45% to $16."
-          },
-          {
-            "en": "7bn) in the three months to the end of September, the BBC understands.",
-            "ko": "실시간 보도 번역: 7bn) in the three months to the end of September, the BBC understands."
+            "en": "Countries including Indonesia, India and the United States have been experiencing droughts, floods and heatwaves in line with projections about how extreme weather events will be supercharged by the phenomenon.",
+            "ko": "실시간 보도 번역: Countries including Indonesia, India and the United States have been experiencing droughts, floods and heatwaves in line with projections about how extreme weather events will be supercharged by the phenomenon."
           }
         ]
       },
       {
-        "en": "In common with other AI firms, it is seeking to position itself as being able to generate huge profits despite spending billions on tech.",
+        "en": "The World Meteorological Agency says the record-breaking El Niño will strengthen further and persist until at least 2027.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In common with other AI firms, it is seeking to position itself as being able to generate huge profits despite spending billions on tech.",
-            "ko": "실시간 보도 번역: In common with other AI firms, it is seeking to position itself as being able to generate huge profits despite spending billions on tech."
+            "en": "The World Meteorological Agency says the record-breaking El Niño will strengthen further and persist until at least 2027.",
+            "ko": "실시간 보도 번역: The World Meteorological Agency says the record-breaking El Niño will strengthen further and persist until at least 2027."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Anthropic flags revenue surge to investors ahead of stock market debut",
+      "글로벌 최신 소식: Five ways El Niño is affecting the weather around the world",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -785,7 +858,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Anthropic flags revenue surge to investors ahead of stock market debut",
+          "Five ways El Niño is affecting the weather around the world",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1544,70 +1617,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_6631155569693215543",
-    "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
-    "subtitle": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban....",
-    "speaker": "BBC Science",
-    "date": "2026-10-15",
-    "addedAt": "2026-10-15T16:10:04Z",
-    "category": "science",
+    "id": "auto_economy_4570799938340612797",
+    "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+    "subtitle": "The government increased taxes on online casino and sports betting in last year's Budget....",
+    "speaker": "BBC Business",
+    "date": "2026-10-20",
+    "addedAt": "2026-10-20T16:14:05Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 147,
+    "wordCount": 161,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateSevere drought declared and hosepipe bans in force - is your area affected?Image source, Matt Cardy/Getty ImagesByMark Poynting, Climate reporter, Jess Carr, Data designer and Phil Leake, Data journalistPublished2 July 2025Updated 27 minutes agoSevere drought has been declared in parts of southern England after months of dry weather drove some reservoirs to exceptionally low levels.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPaddy Power cuts 1,400 jobs and blames betting tax risesImage source, Getty ImagesByMichael RaceBusiness reporterPublished20 October 2026, 12:47 BSTUpdated 20 minutes agoPaddy Power-owner Flutter has announced plans to cut up to 1,400 jobs as its boss claimed the company &quot;cannot fully absorb&quot; tax rises imposed on the gambling industry.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateSevere drought declared and hosepipe bans in force - is your area affected?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateSevere drought declared and hosepipe bans in force - is your area affected?"
-          },
-          {
-            "en": "Image source, Matt Cardy/Getty ImagesByMark Poynting, Climate reporter, Jess Carr, Data designer and Phil Leake, Data journalistPublished2 July 2025Updated 27 minutes agoSevere drought has been declared in parts of southern England after months of dry weather drove some reservoirs to exceptionally low levels.",
-            "ko": "실시간 보도 번역: Image source, Matt Cardy/Getty ImagesByMark Poynting, Climate reporter, Jess Carr, Data designer and Phil Leake, Data journalistPublished2 July 2025Updated 27 minutes agoSevere drought has been declared in parts of southern England after months of dry weather drove some reservoirs to exceptionally low levels."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPaddy Power cuts 1,400 jobs and blames betting tax risesImage source, Getty ImagesByMichael RaceBusiness reporterPublished20 October 2026, 12:47 BSTUpdated 20 minutes agoPaddy Power-owner Flutter has announced plans to cut up to 1,400 jobs as its boss claimed the company &quot;cannot fully absorb&quot; tax rises imposed on the gambling industry.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPaddy Power cuts 1,400 jobs and blames betting tax risesImage source, Getty ImagesByMichael RaceBusiness reporterPublished20 October 2026, 12:47 BSTUpdated 20 minutes agoPaddy Power-owner Flutter has announced plans to cut up to 1,400 jobs as its boss claimed the company &quot;cannot fully absorb&quot; tax rises imposed on the gambling industry."
           }
         ]
       },
       {
-        "en": "Most of England and all of Wales were already under drought conditions after both nations&#x27; hottest summers on record, which has taken its toll on rivers, crops and nature.",
+        "en": "Staff based in Leeds and Dublin, as well as workers for its UK and Ireland business at Flutter&#x27;s Portugal and Romania sites, will be most affected, but what roles are at risk has not been disclosed.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Most of England and all of Wales were already under drought conditions after both nations&#x27; hottest summers on record, which has taken its toll on rivers, crops and nature.",
-            "ko": "실시간 보도 번역: Most of England and all of Wales were already under drought conditions after both nations&#x27; hottest summers on record, which has taken its toll on rivers, crops and nature."
+            "en": "Staff based in Leeds and Dublin, as well as workers for its UK and Ireland business at Flutter&#x27;s Portugal and Romania sites, will be most affected, but what roles are at risk has not been disclosed.",
+            "ko": "실시간 보도 번역: Staff based in Leeds and Dublin, as well as workers for its UK and Ireland business at Flutter&#x27;s Portugal and Romania sites, will be most affected, but what roles are at risk has not been disclosed."
           }
         ]
       },
       {
-        "en": "Roughly 30 million people across parts of England and Wales are covered by hosepipe bans, as part of water companies&#x27; efforts to manage supplies.",
+        "en": "The government announced taxes rises on online casino and sports betting, with an exemption for horse racing, in the Budget last year.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Roughly 30 million people across parts of England and Wales are covered by hosepipe bans, as part of water companies&#x27; efforts to manage supplies.",
-            "ko": "실시간 보도 번역: Roughly 30 million people across parts of England and Wales are covered by hosepipe bans, as part of water companies&#x27; efforts to manage supplies."
+            "en": "The government announced taxes rises on online casino and sports betting, with an exemption for horse racing, in the Budget last year.",
+            "ko": "실시간 보도 번역: The government announced taxes rises on online casino and sports betting, with an exemption for horse racing, in the Budget last year."
           }
         ]
       },
       {
-        "en": "&quot;Severe drought&quot; - the highest category - has now been declared for parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex.",
+        "en": "Flutter boss Kevin Harrington said the tax hikes had &quot;fundamentally changed&quot; the economic model of the UK betting and gaming industry, arguing it had helped &quot;fuel the unlicensed, unregulated market&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Severe drought&quot; - the highest category - has now been declared for parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex.",
-            "ko": "실시간 보도 번역: &quot;Severe drought&quot; - the highest category - has now been declared for parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex."
+            "en": "Flutter boss Kevin Harrington said the tax hikes had &quot;fundamentally changed&quot; the economic model of the UK betting and gaming industry, arguing it had helped &quot;fuel the unlicensed, unregulated market&quot;.",
+            "ko": "실시간 보도 번역: Flutter boss Kevin Harrington said the tax hikes had &quot;fundamentally changed&quot; the economic model of the UK betting and gaming industry, arguing it had helped &quot;fuel the unlicensed, unregulated market&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Severe drought declared and hosepipe bans in force - is your area affected?",
+      "글로벌 최신 소식: Paddy Power cuts 1,400 jobs and blames betting tax rises",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1615,7 +1684,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Severe drought declared and hosepipe bans in force - is your area affected?",
+          "Paddy Power cuts 1,400 jobs and blames betting tax rises",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2334,74 +2403,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_7488293893588883332",
-    "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
-    "subtitle": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape....",
-    "speaker": "BBC Business",
-    "date": "2026-10-15",
-    "addedAt": "2026-10-15T16:10:07Z",
-    "category": "economy",
+    "id": "auto_sports_4165401114875515157",
+    "title": "Boulter produces emphatic win at Japan Open",
+    "subtitle": "Britain's Katie Boulter claims a dominant win in her rain-affected first-round match against Himeno Sakatsume in the Japan Open....",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-20",
+    "addedAt": "2026-10-20T16:14:05Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 138,
+    "wordCount": 108,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessNandy &#x27;minded to intervene&#x27; in Sky&#x27;s £1.6bn takeover of ITV entertainment armImage source, Getty ImagesByArchie MitchellBusiness reporterPublished15 October 2026, 14:07 BSTUpdated 1 hour agoCulture Secretary Lisa Nandy has said she is &quot;minded to intervene&quot; in the proposed £1.6bn deal for Sky to buy ITV&#x27;s media and entertainment division.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter produces emphatic win at Japan OpenImage source, Getty ImagesImage caption, Boulter is 58th in the women&#x27;s rankings",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessNandy &#x27;minded to intervene&#x27; in Sky&#x27;s £1.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessNandy &#x27;minded to intervene&#x27; in Sky&#x27;s £1."
-          },
-          {
-            "en": "6bn takeover of ITV entertainment armImage source, Getty ImagesByArchie MitchellBusiness reporterPublished15 October 2026, 14:07 BSTUpdated 1 hour agoCulture Secretary Lisa Nandy has said she is &quot;minded to intervene&quot; in the proposed £1.",
-            "ko": "실시간 보도 번역: 6bn takeover of ITV entertainment armImage source, Getty ImagesByArchie MitchellBusiness reporterPublished15 October 2026, 14:07 BSTUpdated 1 hour agoCulture Secretary Lisa Nandy has said she is &quot;minded to intervene&quot; in the proposed £1."
-          },
-          {
-            "en": "6bn deal for Sky to buy ITV&#x27;s media and entertainment division.",
-            "ko": "실시간 보도 번역: 6bn deal for Sky to buy ITV&#x27;s media and entertainment division."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter produces emphatic win at Japan OpenImage source, Getty ImagesImage caption, Boulter is 58th in the women&#x27;s rankings",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter produces emphatic win at Japan OpenImage source, Getty ImagesImage caption, Boulter is 58th in the women&#x27;s rankings"
           }
         ]
       },
       {
-        "en": "Nandy said there were reasonable grounds to believe the deal could affect free expression in the media and the variety of Britain&#x27;s news landscape.",
+        "en": "Katie Boulter claimed a dominant win in her rain-affected first round match against Himeno Sakatsume in the Japan Open.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Nandy said there were reasonable grounds to believe the deal could affect free expression in the media and the variety of Britain&#x27;s news landscape.",
-            "ko": "실시간 보도 번역: Nandy said there were reasonable grounds to believe the deal could affect free expression in the media and the variety of Britain&#x27;s news landscape."
+            "en": "Katie Boulter claimed a dominant win in her rain-affected first round match against Himeno Sakatsume in the Japan Open.",
+            "ko": "실시간 보도 번역: Katie Boulter claimed a dominant win in her rain-affected first round match against Himeno Sakatsume in the Japan Open."
           }
         ]
       },
       {
-        "en": "Sky said it would &quot;carefully consider&quot; a letter from the culture secretary and &quot;engage constructively&quot; with the review into the deal.",
+        "en": "The British player was a set and 3-1 up against the home favourite when play was halted because of bad weather in Osaka on Monday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Sky said it would &quot;carefully consider&quot; a letter from the culture secretary and &quot;engage constructively&quot; with the review into the deal.",
-            "ko": "실시간 보도 번역: Sky said it would &quot;carefully consider&quot; a letter from the culture secretary and &quot;engage constructively&quot; with the review into the deal."
+            "en": "The British player was a set and 3-1 up against the home favourite when play was halted because of bad weather in Osaka on Monday.",
+            "ko": "실시간 보도 번역: The British player was a set and 3-1 up against the home favourite when play was halted because of bad weather in Osaka on Monday."
           }
         ]
       },
       {
-        "en": "&quot;We remain confident that bringing Sky and ITV&#x27;s media and entertainment business together will create a stronger British media,&quot; it said.",
+        "en": "She completed the win on Tuesday as she secured a 6-3 6-1 victory.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;We remain confident that bringing Sky and ITV&#x27;s media and entertainment business together will create a stronger British media,&quot; it said.",
-            "ko": "실시간 보도 번역: &quot;We remain confident that bringing Sky and ITV&#x27;s media and entertainment business together will create a stronger British media,&quot; it said."
+            "en": "She completed the win on Tuesday as she secured a 6-3 6-1 victory.",
+            "ko": "실시간 보도 번역: She completed the win on Tuesday as she secured a 6-3 6-1 victory."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+      "글로벌 최신 소식: Boulter produces emphatic win at Japan Open",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2409,14 +2470,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+          "Boulter produces emphatic win at Japan Open",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_3902526030950638040",
@@ -3138,66 +3201,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_6227945876326516854",
-    "title": "Star-studded Saudi exhibition postponed after deadly attacks",
-    "subtitle": "The Six Kings Slam exhibition event - featuring Carlos Alcaraz and Novak Djokovic - is postponed following a series of deadly atta...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-14",
-    "addedAt": "2026-10-15T16:10:08Z",
-    "category": "sports",
+    "id": "auto_culture_2654049747710061558",
+    "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
+    "subtitle": "The closures are announced as the corporation continues to try to save £500m over two years....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-20",
+    "addedAt": "2026-10-20T16:14:11Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 144,
+    "wordCount": 151,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarStar-studded Saudi exhibition postponed after deadly attacksImage source, Getty ImagesImage caption, Carlos Alcaraz and Jannik Sinner contested last year&#x27;s Six Kings Slams final, with the winner taking home a reported £4.5m",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsBBC Three, BBC Scotland and Radio 4 Extra broadcast channels to closeBySteven McIntoshEntertainment reporter Published3 hours agoThe BBC is to close its BBC Three and BBC Scotland television channels in the spring, as the corporation continues to make £500m of savings over two years.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarStar-studded Saudi exhibition postponed after deadly attacksImage source, Getty ImagesImage caption, Carlos Alcaraz and Jannik Sinner contested last year&#x27;s Six Kings Slams final, with the winner taking home a reported £4.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarStar-studded Saudi exhibition postponed after deadly attacksImage source, Getty ImagesImage caption, Carlos Alcaraz and Jannik Sinner contested last year&#x27;s Six Kings Slams final, with the winner taking home a reported £4."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsBBC Three, BBC Scotland and Radio 4 Extra broadcast channels to closeBySteven McIntoshEntertainment reporter Published3 hours agoThe BBC is to close its BBC Three and BBC Scotland television channels in the spring, as the corporation continues to make £500m of savings over two years.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsBBC Three, BBC Scotland and Radio 4 Extra broadcast channels to closeBySteven McIntoshEntertainment reporter Published3 hours agoThe BBC is to close its BBC Three and BBC Scotland television channels in the spring, as the corporation continues to make £500m of savings over two years."
           }
         ]
       },
       {
-        "en": "BBC Sport tennis news reporterPublished14 October 2026The Six Kings Slam tennis exhibition event in Saudi Arabia - featuring Grand Slam champions Carlos Alcaraz, Novak Djokovic and Alexander Zverev - has been postponed following a series of deadly attacks on host city Riyadh.",
+        "en": "Both services will become online-only, meaning they will continue to produce and host some content on iPlayer, without the need to fill a terrestrial TV schedule.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC Sport tennis news reporterPublished14 October 2026The Six Kings Slam tennis exhibition event in Saudi Arabia - featuring Grand Slam champions Carlos Alcaraz, Novak Djokovic and Alexander Zverev - has been postponed following a series of deadly attacks on host city Riyadh.",
-            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished14 October 2026The Six Kings Slam tennis exhibition event in Saudi Arabia - featuring Grand Slam champions Carlos Alcaraz, Novak Djokovic and Alexander Zverev - has been postponed following a series of deadly attacks on host city Riyadh."
+            "en": "Both services will become online-only, meaning they will continue to produce and host some content on iPlayer, without the need to fill a terrestrial TV schedule.",
+            "ko": "실시간 보도 번역: Both services will become online-only, meaning they will continue to produce and host some content on iPlayer, without the need to fill a terrestrial TV schedule."
           }
         ]
       },
       {
-        "en": "Alcaraz, Djokovic and Zverev were set to travel to the Saudi capital for a three-day event starting on 21 October.",
+        "en": "The BBC has also announced the closure of Radio 4 Extra, which largely airs speech programmes from the BBC&#x27;s archive, including comedy, drama and documentaries.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Alcaraz, Djokovic and Zverev were set to travel to the Saudi capital for a three-day event starting on 21 October.",
-            "ko": "실시간 보도 번역: Alcaraz, Djokovic and Zverev were set to travel to the Saudi capital for a three-day event starting on 21 October."
+            "en": "The BBC has also announced the closure of Radio 4 Extra, which largely airs speech programmes from the BBC&#x27;s archive, including comedy, drama and documentaries.",
+            "ko": "실시간 보도 번역: The BBC has also announced the closure of Radio 4 Extra, which largely airs speech programmes from the BBC&#x27;s archive, including comedy, drama and documentaries."
           }
         ]
       },
       {
-        "en": "Australia&#x27;s Alex de Minaur, along with American pair Taylor Fritz and Learner Tien, were also earmarked to play.",
+        "en": "BBC director-general Matt Brittin said: &quot;We need to make every pound work harder for audiences as we respond to the immediate cost pressures and reinvent the BBC for a changing world. We all know that means tough choices.&quot;",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Australia&#x27;s Alex de Minaur, along with American pair Taylor Fritz and Learner Tien, were also earmarked to play.",
-            "ko": "실시간 보도 번역: Australia&#x27;s Alex de Minaur, along with American pair Taylor Fritz and Learner Tien, were also earmarked to play."
+            "en": "BBC director-general Matt Brittin said: &quot;We need to make every pound work harder for audiences as we respond to the immediate cost pressures and reinvent the BBC for a changing world.",
+            "ko": "실시간 보도 번역: BBC director-general Matt Brittin said: &quot;We need to make every pound work harder for audiences as we respond to the immediate cost pressures and reinvent the BBC for a changing world."
+          },
+          {
+            "en": "We all know that means tough choices.",
+            "ko": "실시간 보도 번역: We all know that means tough choices."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Star-studded Saudi exhibition postponed after deadly attacks",
+      "글로벌 최신 소식: BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3205,16 +3272,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Star-studded Saudi exhibition postponed after deadly attacks",
+          "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_7834009157029126517",
@@ -3917,87 +3982,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Russell Brand accuser says he turned 'monster-like' before alleged rape",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_3579992107252940790",
-    "title": "Russell Brand accuser says alleged rape left her afraid she may be pregnant",
-    "subtitle": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-15",
-    "addedAt": "2026-10-15T16:10:13Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 127,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand accuser says alleged rape left her afraid she may be pregnantImage source, ReutersBySima Kotecha and Helena Wilkinson, Reporting fromSouthwark Crown CourtPublished15 October 2026, 13:54 BSTUpdated 2 hours agoWarning - this report contains graphic content",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand accuser says alleged rape left her afraid she may be pregnantImage source, ReutersBySima Kotecha and Helena Wilkinson, Reporting fromSouthwark Crown CourtPublished15 October 2026, 13:54 BSTUpdated 2 hours agoWarning - this report contains graphic content",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand accuser says alleged rape left her afraid she may be pregnantImage source, ReutersBySima Kotecha and Helena Wilkinson, Reporting fromSouthwark Crown CourtPublished15 October 2026, 13:54 BSTUpdated 2 hours agoWarning - this report contains graphic content"
-          }
-        ]
-      },
-      {
-        "en": "A woman who alleges Russell Brand raped her in a hotel has said she was left feeling &quot;dirty&quot; and afraid she may be pregnant in the aftermath of the alleged attack.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "A woman who alleges Russell Brand raped her in a hotel has said she was left feeling &quot;dirty&quot; and afraid she may be pregnant in the aftermath of the alleged attack.",
-            "ko": "실시간 보도 번역: A woman who alleges Russell Brand raped her in a hotel has said she was left feeling &quot;dirty&quot; and afraid she may be pregnant in the aftermath of the alleged attack."
-          }
-        ]
-      },
-      {
-        "en": "The 51-year-old actor and comedian faces seven charges - three counts of rape, three charges of sexual assault and one of indecent assault.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The 51-year-old actor and comedian faces seven charges - three counts of rape, three charges of sexual assault and one of indecent assault.",
-            "ko": "실시간 보도 번역: The 51-year-old actor and comedian faces seven charges - three counts of rape, three charges of sexual assault and one of indecent assault."
-          }
-        ]
-      },
-      {
-        "en": "The allegations, made by six female complainants, span a 10-year period between 1999 and 2009. He denies the charges.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The allegations, made by six female complainants, span a 10-year period between 1999 and 2009.",
-            "ko": "실시간 보도 번역: The allegations, made by six female complainants, span a 10-year period between 1999 and 2009."
-          },
-          {
-            "en": "He denies the charges.",
-            "ko": "실시간 보도 번역: He denies the charges."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Russell Brand accuser says alleged rape left her afraid she may be pregnant",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Russell Brand accuser says alleged rape left her afraid she may be pregnant",
           "Historical retrospective",
           "Unrelated general weather"
         ],
