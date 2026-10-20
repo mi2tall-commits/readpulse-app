@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_4188245400726453512",
+    "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+    "subtitle": "The Saudi government did not immediately respond to BBC requests for comment....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-19",
+    "addedAt": "2026-10-20T03:05:53Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 142,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechEx-OpenAI worker accused of planting device had Saudi support, says court filingImage source, Reuters/DOJByLaura CressTechnology reporterPublished19 October 2026A Saudi national charged with secretly planting a recording device in one of OpenAI&#x27;s meeting rooms has been accused of having &quot;considerable support&quot; from the Saudi government, according to a court filing, external in California.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechEx-OpenAI worker accused of planting device had Saudi support, says court filingImage source, Reuters/DOJByLaura CressTechnology reporterPublished19 October 2026A Saudi national charged with secretly planting a recording device in one of OpenAI&#x27;s meeting rooms has been accused of having &quot;considerable support&quot; from the Saudi government, according to a court filing, external in California.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechEx-OpenAI worker accused of planting device had Saudi support, says court filingImage source, Reuters/DOJByLaura CressTechnology reporterPublished19 October 2026A Saudi national charged with secretly planting a recording device in one of OpenAI&#x27;s meeting rooms has been accused of having &quot;considerable support&quot; from the Saudi government, according to a court filing, external in California."
+          }
+        ]
+      },
+      {
+        "en": "US prosecutors claimed Abdulrahman Alfozan, who worked for the AI firm, was in &quot;frequent communication... with a member of the Saudi royal family&quot;, and say a member of the country&#x27;s military paid for a one-way flight to Saudi Arabia for his wife and son after his arrest.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "US prosecutors claimed Abdulrahman Alfozan, who worked for the AI firm, was in &quot;frequent communication...",
+            "ko": "실시간 보도 번역: US prosecutors claimed Abdulrahman Alfozan, who worked for the AI firm, was in &quot;frequent communication..."
+          },
+          {
+            "en": "with a member of the Saudi royal family&quot;, and say a member of the country&#x27;s military paid for a one-way flight to Saudi Arabia for his wife and son after his arrest.",
+            "ko": "실시간 보도 번역: with a member of the Saudi royal family&quot;, and say a member of the country&#x27;s military paid for a one-way flight to Saudi Arabia for his wife and son after his arrest."
+          }
+        ]
+      },
+      {
+        "en": "The 35-year-old engineer was on Monday deemed a flight risk and denied bail, pending trial.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The 35-year-old engineer was on Monday deemed a flight risk and denied bail, pending trial.",
+            "ko": "실시간 보도 번역: The 35-year-old engineer was on Monday deemed a flight risk and denied bail, pending trial."
+          }
+        ]
+      },
+      {
+        "en": "The Saudi government did not immediately respond to BBC requests for comment.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The Saudi government did not immediately respond to BBC requests for comment.",
+            "ko": "실시간 보도 번역: The Saudi government did not immediately respond to BBC requests for comment."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_6432956426224742035",
     "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
     "subtitle": "The Saudi government did not immediately respond to BBC requests for comment....",
@@ -714,70 +795,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1978146251069101986",
-    "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-    "subtitle": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer gro...",
-    "speaker": "BBC Technology",
-    "date": "2026-10-14",
-    "addedAt": "2026-10-14T16:22:13Z",
-    "category": "tech",
+    "id": "auto_science_8425765298929802584",
+    "title": "Five ways El Niño is affecting the weather around the world",
+    "subtitle": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the glob...",
+    "speaker": "BBC Science",
+    "date": "2026-10-19",
+    "addedAt": "2026-10-20T03:05:53Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 122,
+    "wordCount": 114,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;I applied for 200 jobs&#x27; - How &#x27;spray and pray&#x27; AI job applications can backfireTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFive ways El Niño is affecting the weather around the worldImage source, EPA/ShutterstockBySarah Keith-LucasLead Weather PresenterPublished3 hours agoEl Niño has been strengthening for several months now and is already having a significant impact on global weather patterns.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;I applied for 200 jobs&#x27; - How &#x27;spray and pray&#x27; AI job applications can backfireTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to Success&#x27;I applied for 200 jobs&#x27; - How &#x27;spray and pray&#x27; AI job applications can backfireTo play this video you need to enable JavaScript in your browser."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFive ways El Niño is affecting the weather around the worldImage source, EPA/ShutterstockBySarah Keith-LucasLead Weather PresenterPublished3 hours agoEl Niño has been strengthening for several months now and is already having a significant impact on global weather patterns.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFive ways El Niño is affecting the weather around the worldImage source, EPA/ShutterstockBySarah Keith-LucasLead Weather PresenterPublished3 hours agoEl Niño has been strengthening for several months now and is already having a significant impact on global weather patterns."
           }
         ]
       },
       {
-        "en": "Could using AI in your job application be ruining your chances of getting hired?",
+        "en": "Countries including Indonesia, India and the United States have been experiencing droughts, floods and heatwaves in line with projections about how extreme weather events will be supercharged by the phenomenon.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Could using AI in your job application be ruining your chances of getting hired?",
-            "ko": "실시간 보도 번역: Could using AI in your job application be ruining your chances of getting hired?"
+            "en": "Countries including Indonesia, India and the United States have been experiencing droughts, floods and heatwaves in line with projections about how extreme weather events will be supercharged by the phenomenon.",
+            "ko": "실시간 보도 번역: Countries including Indonesia, India and the United States have been experiencing droughts, floods and heatwaves in line with projections about how extreme weather events will be supercharged by the phenomenon."
           }
         ]
       },
       {
-        "en": "Would you use AI to help you write a CV or cover letter? How about during an online assessment or video interview for a job?",
+        "en": "The World Meteorological Agency says the record-breaking El Niño will strengthen further and persist until at least 2027.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Would you use AI to help you write a CV or cover letter?",
-            "ko": "실시간 보도 번역: Would you use AI to help you write a CV or cover letter?"
-          },
-          {
-            "en": "How about during an online assessment or video interview for a job?",
-            "ko": "실시간 보도 번역: How about during an online assessment or video interview for a job?"
+            "en": "The World Meteorological Agency says the record-breaking El Niño will strengthen further and persist until at least 2027.",
+            "ko": "실시간 보도 번역: The World Meteorological Agency says the record-breaking El Niño will strengthen further and persist until at least 2027."
           }
         ]
       },
       {
-        "en": "We are increasingly using the technology to help us with job applications, graduates, external and recruiters say, with many employers happy for us to do so within reason.",
+        "en": "Here are five ways its impact is already being felt around the world.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "We are increasingly using the technology to help us with job applications, graduates, external and recruiters say, with many employers happy for us to do so within reason.",
-            "ko": "실시간 보도 번역: We are increasingly using the technology to help us with job applications, graduates, external and recruiters say, with many employers happy for us to do so within reason."
+            "en": "Here are five ways its impact is already being felt around the world.",
+            "ko": "실시간 보도 번역: Here are five ways its impact is already being felt around the world."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+      "글로벌 최신 소식: Five ways El Niño is affecting the weather around the world",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -785,7 +862,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+          "Five ways El Niño is affecting the weather around the world",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1548,66 +1625,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_4301459221593059282",
-    "title": "More tea? How Scotland's crops of the future could be set to change",
-    "subtitle": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate....",
-    "speaker": "BBC Science",
-    "date": "2026-10-14",
-    "addedAt": "2026-10-14T16:22:14Z",
-    "category": "science",
+    "id": "auto_economy_2331935536100687902",
+    "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+    "subtitle": "Penalties are seen as too harsh on motorists who are penalised for parking on private land....",
+    "speaker": "BBC Business",
+    "date": "2026-10-19",
+    "addedAt": "2026-10-20T03:05:53Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 117,
+    "wordCount": 155,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScotlandScotland PoliticsScotland BusinessEdinburgh, Fife &amp; EastGlasgow &amp; WestHighlands &amp; IslandsNE, Orkney &amp; ShetlandSouthTayside &amp; CentralMore tea? How Scotland&#x27;s crops of the future could be set to changeImage caption, Susie Walker-Munro has been growing tea on her family farm in Angus since 2007",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBurnham vows end to &#x27;rip-off parking charges&#x27; under new rulesImage source, PA MediaByFaarea MasudBusiness reporterPublished5 hours agoDrivers will be given the right to challenge &quot;rip off&quot; private parking charges and more grace when using private providers under new rules set out by Andy Burnham.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScotlandScotland PoliticsScotland BusinessEdinburgh, Fife &amp; EastGlasgow &amp; WestHighlands &amp; IslandsNE, Orkney &amp; ShetlandSouthTayside &amp; CentralMore tea?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScotlandScotland PoliticsScotland BusinessEdinburgh, Fife &amp; EastGlasgow &amp; WestHighlands &amp; IslandsNE, Orkney &amp; ShetlandSouthTayside &amp; CentralMore tea?"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBurnham vows end to &#x27;rip-off parking charges&#x27; under new rulesImage source, PA MediaByFaarea MasudBusiness reporterPublished5 hours agoDrivers will be given the right to challenge &quot;rip off&quot; private parking charges and more grace when using private providers under new rules set out by Andy Burnham.",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBurnham vows end to &#x27;rip-off parking charges&#x27; under new rulesImage source, PA MediaByFaarea MasudBusiness reporterPublished5 hours agoDrivers will be given the right to challenge &quot;rip off&quot; private parking charges and more grace when using private providers under new rules set out by Andy Burnham."
           }
         ]
       },
       {
-        "en": "Scotland environment, energy and rural affairs correspondentPublished13 October 2026Updated 14 October 2026 06:02 BSTSusie Walker-Munro is one of a handful of tea growers in Scotland.",
+        "en": "The Prime Minister announced the changes after drivers repeatedly raised concerns penalties issued by private providers were too harsh and left motorists unfairly penalised.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Scotland environment, energy and rural affairs correspondentPublished13 October 2026Updated 14 October 2026 06:02 BSTSusie Walker-Munro is one of a handful of tea growers in Scotland.",
-            "ko": "실시간 보도 번역: Scotland environment, energy and rural affairs correspondentPublished13 October 2026Updated 14 October 2026 06:02 BSTSusie Walker-Munro is one of a handful of tea growers in Scotland."
+            "en": "The Prime Minister announced the changes after drivers repeatedly raised concerns penalties issued by private providers were too harsh and left motorists unfairly penalised.",
+            "ko": "실시간 보도 번역: The Prime Minister announced the changes after drivers repeatedly raised concerns penalties issued by private providers were too harsh and left motorists unfairly penalised."
           }
         ]
       },
       {
-        "en": "She says the acidic soil creates ideal conditions for the perfect artisan brew.",
+        "en": "In one case, a woman was taken to court in a £1,906 claim after taking longer than five minutes to pay at a car park in Derby. The charge was eventually dropped.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "She says the acidic soil creates ideal conditions for the perfect artisan brew.",
-            "ko": "실시간 보도 번역: She says the acidic soil creates ideal conditions for the perfect artisan brew."
+            "en": "In one case, a woman was taken to court in a £1,906 claim after taking longer than five minutes to pay at a car park in Derby.",
+            "ko": "실시간 보도 번역: In one case, a woman was taken to court in a £1,906 claim after taking longer than five minutes to pay at a car park in Derby."
+          },
+          {
+            "en": "The charge was eventually dropped.",
+            "ko": "실시간 보도 번역: The charge was eventually dropped."
           }
         ]
       },
       {
-        "en": "Costing about £40 per packet for her most expensive product, it&#x27;s not going to replace the supermarket brands any time soon.",
+        "en": "Private car parks already have an industry code of practice, but the RAC motoring group said the government&#x27;s changes would protect drivers from the &quot;poor practices of some private parking companies&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Costing about £40 per packet for her most expensive product, it&#x27;s not going to replace the supermarket brands any time soon.",
-            "ko": "실시간 보도 번역: Costing about £40 per packet for her most expensive product, it&#x27;s not going to replace the supermarket brands any time soon."
+            "en": "Private car parks already have an industry code of practice, but the RAC motoring group said the government&#x27;s changes would protect drivers from the &quot;poor practices of some private parking companies&quot;.",
+            "ko": "실시간 보도 번역: Private car parks already have an industry code of practice, but the RAC motoring group said the government&#x27;s changes would protect drivers from the &quot;poor practices of some private parking companies&quot;."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: More tea? How Scotland's crops of the future could be set to change",
+      "글로벌 최신 소식: Burnham vows end to 'rip-off parking charges' under new rules",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1615,7 +1696,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "More tea? How Scotland's crops of the future could be set to change",
+          "Burnham vows end to 'rip-off parking charges' under new rules",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2338,70 +2419,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_9037599426762443686",
-    "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-    "subtitle": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing....",
-    "speaker": "BBC Business",
-    "date": "2026-10-14",
-    "addedAt": "2026-10-14T16:22:14Z",
-    "category": "economy",
+    "id": "auto_sports_3902526030950638040",
+    "title": "Svitolina says emotional toll of Ukraine war led to Monfils separation",
+    "subtitle": "The two top tennis pros married in 2021 and have one child together....",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-19",
+    "addedAt": "2026-10-20T03:05:54Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 151,
+    "wordCount": 148,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessFaisal Islam: What surprise praise for UK economy tells us about the BudgetImage source, Sirachai Arunrugstichai/Bloomberg via Getty ImagesImage caption, The managing director of the IMF, Kristalina Georgieva, has praised the UK&#x27;s approach to debt reduction.",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTennis star Svitolina says emotional toll of Ukraine war led to Monfils separationImage source, ReutersImage caption, Monfils and Svitolina played in the mixed doubles together at this year&#x27;s US Open and reached the semi-finals",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessFaisal Islam: What surprise praise for UK economy tells us about the BudgetImage source, Sirachai Arunrugstichai/Bloomberg via Getty ImagesImage caption, The managing director of the IMF, Kristalina Georgieva, has praised the UK&#x27;s approach to debt reduction.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessFaisal Islam: What surprise praise for UK economy tells us about the BudgetImage source, Sirachai Arunrugstichai/Bloomberg via Getty ImagesImage caption, The managing director of the IMF, Kristalina Georgieva, has praised the UK&#x27;s approach to debt reduction."
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTennis star Svitolina says emotional toll of Ukraine war led to Monfils separationImage source, ReutersImage caption, Monfils and Svitolina played in the mixed doubles together at this year&#x27;s US Open and reached the semi-finals",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTennis star Svitolina says emotional toll of Ukraine war led to Monfils separationImage source, ReutersImage caption, Monfils and Svitolina played in the mixed doubles together at this year&#x27;s US Open and reached the semi-finals"
           }
         ]
       },
       {
-        "en": "Economics editor, Reporting fromin BangkokPublished14 October 2026, 12:03 BSTUpdated 5 hours ago&quot;Get your fiscal health in order,&quot; is a key message at the the International Monetary Fund&#x27;s (IMF) annual meeting here in Thailand.",
+        "en": "Ukrainian tennis star Elina Svitolina has announced the end of her marriage with French former tennis player Gaël Monfils, citing the emotional impact of the war in her country.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Economics editor, Reporting fromin BangkokPublished14 October 2026, 12:03 BSTUpdated 5 hours ago&quot;Get your fiscal health in order,&quot; is a key message at the the International Monetary Fund&#x27;s (IMF) annual meeting here in Thailand.",
-            "ko": "실시간 보도 번역: Economics editor, Reporting fromin BangkokPublished14 October 2026, 12:03 BSTUpdated 5 hours ago&quot;Get your fiscal health in order,&quot; is a key message at the the International Monetary Fund&#x27;s (IMF) annual meeting here in Thailand."
+            "en": "Ukrainian tennis star Elina Svitolina has announced the end of her marriage with French former tennis player Gaël Monfils, citing the emotional impact of the war in her country.",
+            "ko": "실시간 보도 번역: Ukrainian tennis star Elina Svitolina has announced the end of her marriage with French former tennis player Gaël Monfils, citing the emotional impact of the war in her country."
           }
         ]
       },
       {
-        "en": "The IMF is worried about the debts of the world&#x27;s biggest economies. It is doing its job as a watchdog, looking for and warning about financial vulnerabilities.",
+        "en": "The 32-year-old, who is ranked number six in the world, wrote in a heartfelt post on Instagram about the effect the conflict and &quot;what the war has done to me inside&quot;.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The IMF is worried about the debts of the world&#x27;s biggest economies.",
-            "ko": "실시간 보도 번역: The IMF is worried about the debts of the world&#x27;s biggest economies."
+            "en": "The 32-year-old, who is ranked number six in the world, wrote in a heartfelt post on Instagram about the effect the conflict and &quot;what the war has done to me inside&quot;.",
+            "ko": "실시간 보도 번역: The 32-year-old, who is ranked number six in the world, wrote in a heartfelt post on Instagram about the effect the conflict and &quot;what the war has done to me inside&quot;."
+          }
+        ]
+      },
+      {
+        "en": "&quot;This is the most difficult thing I have ever had to share,&quot; she wrote, saying &quot;I need to find my way back to myself&quot;. Svitolina said she felt she could not do that within her marriage.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "&quot;This is the most difficult thing I have ever had to share,&quot; she wrote, saying &quot;I need to find my way back to myself&quot;.",
+            "ko": "실시간 보도 번역: &quot;This is the most difficult thing I have ever had to share,&quot; she wrote, saying &quot;I need to find my way back to myself&quot;."
           },
           {
-            "en": "It is doing its job as a watchdog, looking for and warning about financial vulnerabilities.",
-            "ko": "실시간 보도 번역: It is doing its job as a watchdog, looking for and warning about financial vulnerabilities."
-          }
-        ]
-      },
-      {
-        "en": "In the meantime, the finance ministers of former crisis countries are boasting about how little their borrowing costs have gone up, compared to the world&#x27;s biggest economies, such as the US.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "In the meantime, the finance ministers of former crisis countries are boasting about how little their borrowing costs have gone up, compared to the world&#x27;s biggest economies, such as the US.",
-            "ko": "실시간 보도 번역: In the meantime, the finance ministers of former crisis countries are boasting about how little their borrowing costs have gone up, compared to the world&#x27;s biggest economies, such as the US."
+            "en": "Svitolina said she felt she could not do that within her marriage.",
+            "ko": "실시간 보도 번역: Svitolina said she felt she could not do that within her marriage."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+      "글로벌 최신 소식: Svitolina says emotional toll of Ukraine war led to Monfils separation",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2409,14 +2490,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+          "Svitolina says emotional toll of Ukraine war led to Monfils separation",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_8405467270112380364",
@@ -3134,66 +3217,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_7135307141900585311",
-    "title": "Briton Kartal upsets Bencic at Wuhan Open",
-    "subtitle": "Sonay Kartal upsets Swiss ninth seed Belinda Bencic to reach the Wuhan Open third round as she continues to build momentum....",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-14",
-    "addedAt": "2026-10-14T16:22:15Z",
-    "category": "sports",
+    "id": "auto_culture_7834009157029126517",
+    "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+    "subtitle": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-19",
+    "addedAt": "2026-10-20T03:05:56Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 136,
+    "wordCount": 147,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBriton Kartal causes upset before Sabalenka loses againImage source, Getty ImagesImage caption, Sonay Kartal reached a career-high ranking of 44 following Wimbledon last year",
+        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsWoman says she &#x27;closed eyes and tried not to be there&#x27; during alleged Russell Brand rapeImage source, EPAImage caption, Russell Brand arrives at court on Monday morning",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBriton Kartal causes upset before Sabalenka loses againImage source, Getty ImagesImage caption, Sonay Kartal reached a career-high ranking of 44 following Wimbledon last year",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBriton Kartal causes upset before Sabalenka loses againImage source, Getty ImagesImage caption, Sonay Kartal reached a career-high ranking of 44 following Wimbledon last year"
+            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsWoman says she &#x27;closed eyes and tried not to be there&#x27; during alleged Russell Brand rapeImage source, EPAImage caption, Russell Brand arrives at court on Monday morning",
+            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsWoman says she &#x27;closed eyes and tried not to be there&#x27; during alleged Russell Brand rapeImage source, EPAImage caption, Russell Brand arrives at court on Monday morning"
           }
         ]
       },
       {
-        "en": "Britain&#x27;s Sonay Kartal upset ninth seed Belinda Bencic as she continued to build post-injury momentum at the Wuhan Open.",
+        "en": "A woman who alleges she was raped by Russell Brand at a bar told the police &quot;I just closed my eyes and tried not to be there&quot; while the attack was taking place.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Britain&#x27;s Sonay Kartal upset ninth seed Belinda Bencic as she continued to build post-injury momentum at the Wuhan Open.",
-            "ko": "실시간 보도 번역: Britain&#x27;s Sonay Kartal upset ninth seed Belinda Bencic as she continued to build post-injury momentum at the Wuhan Open."
+            "en": "A woman who alleges she was raped by Russell Brand at a bar told the police &quot;I just closed my eyes and tried not to be there&quot; while the attack was taking place.",
+            "ko": "실시간 보도 번역: A woman who alleges she was raped by Russell Brand at a bar told the police &quot;I just closed my eyes and tried not to be there&quot; while the attack was taking place."
           }
         ]
       },
       {
-        "en": "Kartal reached a career-high ranking of 44 last year but has slipped to 170th in the world after a six-month injury absence.",
+        "en": "In a 2023 video interview with an officer shown to the jury at his trial, the woman said she had been speaking to Brand about him hosting the Channel 4 show Big Brother&#x27;s Big Mouth when he allegedly sexually assaulted her.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Kartal reached a career-high ranking of 44 last year but has slipped to 170th in the world after a six-month injury absence.",
-            "ko": "실시간 보도 번역: Kartal reached a career-high ranking of 44 last year but has slipped to 170th in the world after a six-month injury absence."
+            "en": "In a 2023 video interview with an officer shown to the jury at his trial, the woman said she had been speaking to Brand about him hosting the Channel 4 show Big Brother&#x27;s Big Mouth when he allegedly sexually assaulted her.",
+            "ko": "실시간 보도 번역: In a 2023 video interview with an officer shown to the jury at his trial, the woman said she had been speaking to Brand about him hosting the Channel 4 show Big Brother&#x27;s Big Mouth when he allegedly sexually assaulted her."
           }
         ]
       },
       {
-        "en": "Having returned to action for Great Britain at last month&#x27;s Billie Jean King Cup Finals, the 24-year-old reached the third round at the Beijing Open last week before beating Ukraine&#x27;s Anhelina Kalinina in her opening match in Wuhan.",
+        "en": "Brand, 51, has pleaded not guilty to all seven charges in the trial - three counts of rape, three charges of sexual assault and one of indecent assault.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Having returned to action for Great Britain at last month&#x27;s Billie Jean King Cup Finals, the 24-year-old reached the third round at the Beijing Open last week before beating Ukraine&#x27;s Anhelina Kalinina in her opening match in Wuhan.",
-            "ko": "실시간 보도 번역: Having returned to action for Great Britain at last month&#x27;s Billie Jean King Cup Finals, the 24-year-old reached the third round at the Beijing Open last week before beating Ukraine&#x27;s Anhelina Kalinina in her opening match in Wuhan."
+            "en": "Brand, 51, has pleaded not guilty to all seven charges in the trial - three counts of rape, three charges of sexual assault and one of indecent assault.",
+            "ko": "실시간 보도 번역: Brand, 51, has pleaded not guilty to all seven charges in the trial - three counts of rape, three charges of sexual assault and one of indecent assault."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Briton Kartal upsets Bencic at Wuhan Open",
+      "글로벌 최신 소식: Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3201,16 +3284,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Briton Kartal upsets Bencic at Wuhan Open",
+          "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_1964451692815341811",
@@ -3917,83 +3998,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Russell Brand accuser says alleged rape left her afraid she may be pregnant",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_7854577117528432463",
-    "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
-    "subtitle": "The comedian and actor faces charges including rape and sexual assault from six female complainants who have never met each other,...",
-    "speaker": "BBC Arts",
-    "date": "2026-10-14",
-    "addedAt": "2026-10-14T16:22:16Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 104,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand was a &#x27;sexual predator&#x27;, prosecution alleges as rape trial beginsTo play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand was a &#x27;sexual predator&#x27;, prosecution alleges as rape trial beginsTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand was a &#x27;sexual predator&#x27;, prosecution alleges as rape trial beginsTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Watch: Russell Brand arrives at court for rape and sexual assault trial",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Watch: Russell Brand arrives at court for rape and sexual assault trial",
-            "ko": "실시간 보도 번역: Watch: Russell Brand arrives at court for rape and sexual assault trial"
-          }
-        ]
-      },
-      {
-        "en": "Russell Brand was described as &quot;ruthless&quot; and a &quot;sexual predator&quot; by the prosecution at the start of his trial for rape and sexual assault on Wednesday.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Russell Brand was described as &quot;ruthless&quot; and a &quot;sexual predator&quot; by the prosecution at the start of his trial for rape and sexual assault on Wednesday.",
-            "ko": "실시간 보도 번역: Russell Brand was described as &quot;ruthless&quot; and a &quot;sexual predator&quot; by the prosecution at the start of his trial for rape and sexual assault on Wednesday."
-          }
-        ]
-      },
-      {
-        "en": "The 51-year-old actor and comedian faces three counts of rape, three charges of sexual assault and one of indecent assault.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The 51-year-old actor and comedian faces three counts of rape, three charges of sexual assault and one of indecent assault.",
-            "ko": "실시간 보도 번역: The 51-year-old actor and comedian faces three counts of rape, three charges of sexual assault and one of indecent assault."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
           "Historical retrospective",
           "Unrelated general weather"
         ],
