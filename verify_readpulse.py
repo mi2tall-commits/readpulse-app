@@ -52,7 +52,7 @@ def run_verification():
         time.sleep(0.5)
         speech_cards = driver.find_elements(By.CLASS_NAME, "article-card")
         print(f"[TEST] Filtered Speeches Count: {len(speech_cards)}")
-        assert len(speech_cards) == 8, f"Expected 8 presidential speeches, got {len(speech_cards)}"
+        assert len(speech_cards) == 13, f"Expected 13 presidential speeches, got {len(speech_cards)}"
 
         # 4. Open Reader for Lincoln's Gettysburg Address
         driver.execute_script("arguments[0].click();", speech_cards[0])
