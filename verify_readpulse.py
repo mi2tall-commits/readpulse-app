@@ -18,7 +18,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 def run_verification():
-    app_path = os.path.abspath(r'C:\Users\user\.gemini\antigravity\scratch\readpulse-app\index.html')
+    app_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'index.html')
     file_url = f"file:///{app_path.replace(os.sep, '/')}"
     print(f"[TEST] Opening {file_url} in Chrome Headless...")
 
