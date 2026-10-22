@@ -7,7 +7,7 @@ import os
 import re
 
 def normalize_database():
-    db_path = r'C:\Users\user\.gemini\antigravity\scratch\readpulse-app\articles_database.js'
+    db_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'articles_database.js')
     with open(db_path, 'r', encoding='utf-8') as f:
         content = f.read()
 

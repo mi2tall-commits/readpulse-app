@@ -18,7 +18,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 def run_verification():
-    app_path = os.path.abspath(r'C:\Users\user\.gemini\antigravity\scratch\readpulse-app\index.html')
+    app_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'index.html')
     file_url = f"file:///{app_path.replace(os.sep, '/')}"
     print(f"[TEST] Opening {file_url} in Chrome Headless...")
 
@@ -52,7 +52,7 @@ def run_verification():
         time.sleep(0.5)
         speech_cards = driver.find_elements(By.CLASS_NAME, "article-card")
         print(f"[TEST] Filtered Speeches Count: {len(speech_cards)}")
-        assert len(speech_cards) == 8, f"Expected 8 presidential speeches, got {len(speech_cards)}"
+        assert len(speech_cards) == 13, f"Expected 13 presidential speeches, got {len(speech_cards)}"
 
         # 4. Open Reader for Lincoln's Gettysburg Address
         driver.execute_script("arguments[0].click();", speech_cards[0])

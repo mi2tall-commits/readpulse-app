@@ -9,6 +9,8 @@ import urllib.parse
 import json
 import os
 import re
+import html as html_lib
+import hashlib
 from datetime import datetime, timezone
 
 FEEDS = [
@@ -34,10 +36,12 @@ def fetch_article_body_paragraphs(article_url):
         req = urllib.request.Request(article_url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
         with urllib.request.urlopen(req, timeout=8) as res:
             html = res.read().decode('utf-8', errors='ignore')
-        raw_paras = re.findall(r'<p[^>]*>(.*?)</p>', html, re.DOTALL)
+        # '<p[^>]*>' 는 <path>, <picture> 같은 태그까지 매칭해 BBC 상단 메뉴 텍스트가
+        # 본문으로 섞여 들어갔으므로 정확히 <p> 태그만 매칭한다.
+        raw_paras = re.findall(r'<p(?:\s[^>]*)?>(.*?)</p>', html, re.DOTALL)
         clean_paras = []
         for p in raw_paras:
-            text = re.sub(r'<[^>]*>', '', p).strip()
+            text = html_lib.unescape(re.sub(r'<[^>]*>', '', p)).strip()
             if len(text) > 60 and not any(w in text.lower() for w in ['copyright', 'cookie', 'bbc is not responsible', 'terms of use', 'sign up for', 'get in touch']):
                 clean_paras.append(text)
         return clean_paras[:4]
@@ -73,7 +77,7 @@ def main():
                 top_item = data["items"][0]
                 article_link = top_item.get("link", "")
                 scraped_paras = fetch_article_body_paragraphs(article_link) if article_link else []
-                desc = re.sub(r"<[^>]*>", "", top_item.get("description", "") or top_item.get("content", "") or "").strip()
+                desc = html_lib.unescape(re.sub(r"<[^>]*>", "", top_item.get("description", "") or top_item.get("content", "") or "")).strip()
 
                 paras_data = []
                 total_words = 0
@@ -105,8 +109,12 @@ def main():
 
                 # Only accept articles with substantial reading substance (at least 80 words)
                 if paras_data and total_words >= 80:
-                    art_id = f"auto_{f_info['cat']}_{abs(hash(top_item.get('title')))}"
-                    if any(a.get("id") == art_id for a in articles):
+                    # Python 내장 hash()는 실행마다 값이 달라져(PYTHONHASHSEED) 중복 기사가
+                    # 쌓였으므로, 고정 해시를 쓰고 같은 카테고리의 동일 제목도 중복으로 본다.
+                    title = top_item.get("title") or ""
+                    art_id = f"auto_{f_info['cat']}_{int(hashlib.sha1(title.encode('utf-8')).hexdigest()[:15], 16)}"
+                    if any(a.get("id") == art_id or (a.get("category") == f_info["cat"] and a.get("title") == title)
+                           for a in articles + new_articles):
                         continue
                     
                     cat_kw_map = {

@@ -2306,7 +2306,7 @@
         const catClass = isLive ? 'live' : (isSpeech ? 'speeches' : '');
         const catLabel = isLive ? '실시간 속보' : getCategoryNameKo(art.category);
 
-        const takeawaysHtml = (art.takeaways || []).slice(0, 3).map(t => `<li>${t}</li>`).join('');
+        const takeawaysHtml = (art.takeaways || []).slice(0, 3).map(t => `<li>${escapeHtml(t)}</li>`).join('');
 
         const keywordsHtml = (art.keywords || []).map(k => `
           <span class="keyword-tag" onclick="filterByKeyword('${escapeHtml(k)}', event)">${escapeHtml(k)}</span>
@@ -2436,7 +2436,8 @@
 
         const html = await res.text();
         const banned = ['copyright', 'cookie', 'bbc is not responsible', 'terms of use', 'sign up for', 'get in touch', 'this video can not be played'];
-        const rawParas = [...html.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/g)].map(m => m[1]);
+        // /<p[^>]*>/ 는 <path>, <picture> 등도 매칭해 사이트 메뉴 텍스트가 본문에 섞이므로 <p> 태그만 매칭
+        const rawParas = [...html.matchAll(/<p(?:\s[^>]*)?>([\s\S]*?)<\/p>/g)].map(m => m[1]);
         const cleanParas = rawParas
           .map(p => decodeHtmlEntities(p.replace(/<[^>]*>/g, '')).trim())
           .filter(t => t.length > 60 && !banned.some(w => t.toLowerCase().includes(w)));
@@ -2488,6 +2489,10 @@
           if (data.status === 'ok' && data.items && data.items.length > 0) {
             for (let i = 0; i < Math.min(data.items.length, 2); i++) {
               const item = data.items[i];
+              // 동기화를 반복할 때마다 같은 기사가 중복으로 쌓이지 않도록 이미 있는 제목은 건너뜀
+              const isDuplicate = [...allArticles, ...liveArticles, ...newFetchedArticles]
+                .some(a => a.category === f.cat && a.title === item.title);
+              if (isDuplicate) continue;
               const cleanDesc = (item.description || '').replace(/<[^>]*>?/gm, '').trim();
               const fullContent = (item.content || item.description || '').replace(/<[^>]*>?/gm, '').trim();
 
@@ -2625,7 +2630,7 @@
 
       // Takeaways
       const takeawaysContainer = document.getElementById('readerTakeaways');
-      takeawaysContainer.innerHTML = (currentArticle.takeaways || []).map(t => `<li>${t}</li>`).join('');
+      takeawaysContainer.innerHTML = (currentArticle.takeaways || []).map(t => `<li>${escapeHtml(t)}</li>`).join('');
 
       // Quizzes
       renderQuizzes(currentArticle.quiz || []);
@@ -2801,7 +2806,7 @@
         if (clean.length > 0) {
           const isSaved = savedVocab.some(v => v.word.toLowerCase() === clean);
           const savedClass = isSaved ? ' saved' : '';
-          return `<span class="rp-word${savedClass}" data-word="${clean}" onclick="inspectWord('${clean}', event)">${escapeHtml(tok)}</span>`;
+          return `<span class="rp-word${savedClass}" data-word="${clean}" onclick="inspectWord(this.dataset.word, event)">${escapeHtml(tok)}</span>`;
         } else {
           return escapeHtml(tok);
         }
@@ -3373,7 +3378,7 @@
             <div class="vocab-item-meaning">${escapeHtml(item.meaning || '')}</div>
           </div>
           <div style="display:flex; gap:0.4rem;">
-            <button class="btn-icon" style="width:32px; height:32px;" onclick="speakText('${item.word}')" title="발음 듣기">🔊</button>
+            <button class="btn-icon" style="width:32px; height:32px;" data-word="${escapeHtml(item.word)}" onclick="speakText(this.dataset.word)" title="발음 듣기">🔊</button>
             <button class="btn-icon" style="width:32px; height:32px; color:var(--accent-red);" onclick="deleteVocabItem(${idx})" title="삭제">✕</button>
           </div>
         </div>
