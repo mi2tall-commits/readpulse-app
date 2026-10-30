@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_297856478166223771",
+    "title": "US tech stocks see sharp falls over AI cost fears",
+    "subtitle": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-30",
+    "addedAt": "2026-10-30T17:38:09Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 109,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "US stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "US stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out.",
+            "ko": "실시간 보도 번역: US stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out."
+          }
+        ]
+      },
+      {
+        "en": "Shares in Intel continued their overnight slide into early trading on Friday, falling as much as 30% after the chip maker warned of a weaker computer market even as it plans to increase spending on AI.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Shares in Intel continued their overnight slide into early trading on Friday, falling as much as 30% after the chip maker warned of a weaker computer market even as it plans to increase spending on AI.",
+            "ko": "실시간 보도 번역: Shares in Intel continued their overnight slide into early trading on Friday, falling as much as 30% after the chip maker warned of a weaker computer market even as it plans to increase spending on AI."
+          }
+        ]
+      },
+      {
+        "en": "Amazon shares fell as far as 6% before recovering after its reported earnings on Thursday evening fell short of investors' expectations.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Amazon shares fell as far as 6% before recovering after its reported earnings on Thursday evening fell short of investors' expectations.",
+            "ko": "실시간 보도 번역: Amazon shares fell as far as 6% before recovering after its reported earnings on Thursday evening fell short of investors' expectations."
+          }
+        ]
+      },
+      {
+        "en": "The tech-heavy Nasdaq stock exchange opened on Friday at its lowest level in more than two months, down 2.5%, as other tech stocks including Reddit and Roblox continued to fall.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The tech-heavy Nasdaq stock exchange opened on Friday at its lowest level in more than two months, down 2.",
+            "ko": "실시간 보도 번역: The tech-heavy Nasdaq stock exchange opened on Friday at its lowest level in more than two months, down 2."
+          },
+          {
+            "en": "5%, as other tech stocks including Reddit and Roblox continued to fall.",
+            "ko": "실시간 보도 번역: 5%, as other tech stocks including Reddit and Roblox continued to fall."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: US tech stocks see sharp falls over AI cost fears",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "US tech stocks see sharp falls over AI cost fears",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_8695793741743482177",
     "title": "Google says services recovering after cloud outage hits UK banks and websites",
     "subtitle": "Revolut was one of the hardest hit, with banking services going down for many customers....",
@@ -705,83 +786,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Snapchat and Instagram grooming becoming 'easier'",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_tech_8273618583851228632",
-    "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-    "subtitle": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-15",
-    "addedAt": "2026-10-16T02:49:54Z",
-    "category": "tech",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 125,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGTA 6 - all you need to know about Rockstar&#x27;s blockbuster gameImage source, Rockstar GamesImage caption, GTA 6 will feature Jason and Lucia as playable characters",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGTA 6 - all you need to know about Rockstar&#x27;s blockbuster gameImage source, Rockstar GamesImage caption, GTA 6 will feature Jason and Lucia as playable characters",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGTA 6 - all you need to know about Rockstar&#x27;s blockbuster gameImage source, Rockstar GamesImage caption, GTA 6 will feature Jason and Lucia as playable characters"
-          }
-        ]
-      },
-      {
-        "en": "Rockstar has released a new launch trailer for Grand Theft Auto VI, revealing more details about what is set to be the biggest game of the year.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Rockstar has released a new launch trailer for Grand Theft Auto VI, revealing more details about what is set to be the biggest game of the year.",
-            "ko": "실시간 보도 번역: Rockstar has released a new launch trailer for Grand Theft Auto VI, revealing more details about what is set to be the biggest game of the year."
-          }
-        ]
-      },
-      {
-        "en": "GTA 6 became available to pre-order at midnight on 25 June in the UK and elsewhere around the world, after Rockstar revealed the game&#x27;s pre-sales launch date and cover art in mid-June.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "GTA 6 became available to pre-order at midnight on 25 June in the UK and elsewhere around the world, after Rockstar revealed the game&#x27;s pre-sales launch date and cover art in mid-June.",
-            "ko": "실시간 보도 번역: GTA 6 became available to pre-order at midnight on 25 June in the UK and elsewhere around the world, after Rockstar revealed the game&#x27;s pre-sales launch date and cover art in mid-June."
-          }
-        ]
-      },
-      {
-        "en": "Analysts believe Rockstar&#x27;s action adventure could become the most expensive game ever made, with estimates, external putting development costs at more than $1bn (£866m).",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Analysts believe Rockstar&#x27;s action adventure could become the most expensive game ever made, with estimates, external putting development costs at more than $1bn (£866m).",
-            "ko": "실시간 보도 번역: Analysts believe Rockstar&#x27;s action adventure could become the most expensive game ever made, with estimates, external putting development costs at more than $1bn (£866m)."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: GTA 6 - all you need to know about Rockstar's blockbuster game",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "GTA 6 - all you need to know about Rockstar's blockbuster game",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1617,6 +1621,87 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_297856478166223771",
+    "title": "US tech stocks see sharp falls over AI cost fears",
+    "subtitle": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months....",
+    "speaker": "BBC Business",
+    "date": "2026-10-30",
+    "addedAt": "2026-10-30T17:38:10Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 109,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "US stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "US stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out.",
+            "ko": "실시간 보도 번역: US stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out."
+          }
+        ]
+      },
+      {
+        "en": "Shares in Intel continued their overnight slide into early trading on Friday, falling as much as 30% after the chip maker warned of a weaker computer market even as it plans to increase spending on AI.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Shares in Intel continued their overnight slide into early trading on Friday, falling as much as 30% after the chip maker warned of a weaker computer market even as it plans to increase spending on AI.",
+            "ko": "실시간 보도 번역: Shares in Intel continued their overnight slide into early trading on Friday, falling as much as 30% after the chip maker warned of a weaker computer market even as it plans to increase spending on AI."
+          }
+        ]
+      },
+      {
+        "en": "Amazon shares fell as far as 6% before recovering after its reported earnings on Thursday evening fell short of investors' expectations.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Amazon shares fell as far as 6% before recovering after its reported earnings on Thursday evening fell short of investors' expectations.",
+            "ko": "실시간 보도 번역: Amazon shares fell as far as 6% before recovering after its reported earnings on Thursday evening fell short of investors' expectations."
+          }
+        ]
+      },
+      {
+        "en": "The tech-heavy Nasdaq stock exchange opened on Friday at its lowest level in more than two months, down 2.5%, as other tech stocks including Reddit and Roblox continued to fall.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The tech-heavy Nasdaq stock exchange opened on Friday at its lowest level in more than two months, down 2.",
+            "ko": "실시간 보도 번역: The tech-heavy Nasdaq stock exchange opened on Friday at its lowest level in more than two months, down 2."
+          },
+          {
+            "en": "5%, as other tech stocks including Reddit and Roblox continued to fall.",
+            "ko": "실시간 보도 번역: 5%, as other tech stocks including Reddit and Roblox continued to fall."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: US tech stocks see sharp falls over AI cost fears",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "US tech stocks see sharp falls over AI cost fears",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_4570799938340612797",
     "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
     "subtitle": "The government increased taxes on online casino and sports betting in last year's Budget....",
@@ -2326,66 +2411,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_6032001306773446827",
-    "title": "Banks say Healey is planning Budget tax raid on their profits",
-    "subtitle": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month....",
-    "speaker": "BBC Business",
-    "date": "2026-10-15",
-    "addedAt": "2026-10-16T02:49:55Z",
-    "category": "economy",
+    "id": "auto_sports_207943453215319368",
+    "title": "Dart stuns Badosa to make second career semi-final",
+    "subtitle": "Harriet Dart reaches the second WTA Tour semi-final of her career as she fights back from a set down to beat Paula Badosa in the G...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-30",
+    "addedAt": "2026-10-30T17:38:10Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 160,
+    "wordCount": 99,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks say Healey is planning Budget tax raid on their profitsImage source, Sirachai Arunrugstichai/Bloomberg via Getty ImagesBySimon JackBusiness editorPublished9 hours agoSenior banking executives have told the BBC they expect the sector to be &quot;on the menu&quot; when the chancellor announces his Budget in two weeks&#x27; time.",
+        "en": "Britain's Harriet Dart reached the second WTA Tour semi-final of her career when she fought back from a set down to beat fifth seed Paula Badosa at the Guangzhou Open in China.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks say Healey is planning Budget tax raid on their profitsImage source, Sirachai Arunrugstichai/Bloomberg via Getty ImagesBySimon JackBusiness editorPublished9 hours agoSenior banking executives have told the BBC they expect the sector to be &quot;on the menu&quot; when the chancellor announces his Budget in two weeks&#x27; time.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks say Healey is planning Budget tax raid on their profitsImage source, Sirachai Arunrugstichai/Bloomberg via Getty ImagesBySimon JackBusiness editorPublished9 hours agoSenior banking executives have told the BBC they expect the sector to be &quot;on the menu&quot; when the chancellor announces his Budget in two weeks&#x27; time."
+            "en": "Britain's Harriet Dart reached the second WTA Tour semi-final of her career when she fought back from a set down to beat fifth seed Paula Badosa at the Guangzhou Open in China.",
+            "ko": "실시간 보도 번역: Britain's Harriet Dart reached the second WTA Tour semi-final of her career when she fought back from a set down to beat fifth seed Paula Badosa at the Guangzhou Open in China."
           }
         ]
       },
       {
-        "en": "John Healey has described the banks as part of &quot;the crown jewels&quot; of the UK economy, yet has refused to rule out a raid on the sector.",
+        "en": "The 30-year-old triumphed 3-6 6-2 6-4 against Spain's Badosa - ranked 54 places above her - in two hours and 15 minutes at Nansha International Tennis Centre.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "John Healey has described the banks as part of &quot;the crown jewels&quot; of the UK economy, yet has refused to rule out a raid on the sector.",
-            "ko": "실시간 보도 번역: John Healey has described the banks as part of &quot;the crown jewels&quot; of the UK economy, yet has refused to rule out a raid on the sector."
+            "en": "The 30-year-old triumphed 3-6 6-2 6-4 against Spain's Badosa - ranked 54 places above her - in two hours and 15 minutes at Nansha International Tennis Centre.",
+            "ko": "실시간 보도 번역: The 30-year-old triumphed 3-6 6-2 6-4 against Spain's Badosa - ranked 54 places above her - in two hours and 15 minutes at Nansha International Tennis Centre."
           }
         ]
       },
       {
-        "en": "The biggest four banks collectively made around £15bn profit in the first six months of this year, leading to calls from trade unions and others for additional taxes.",
+        "en": "Dart's first appearance in the semi-finals of a tour event was in the Transylvania Open in Cluj-Napoca, where she lost in straight sets to Karolina Pliskova.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The biggest four banks collectively made around £15bn profit in the first six months of this year, leading to calls from trade unions and others for additional taxes.",
-            "ko": "실시간 보도 번역: The biggest four banks collectively made around £15bn profit in the first six months of this year, leading to calls from trade unions and others for additional taxes."
+            "en": "Dart's first appearance in the semi-finals of a tour event was in the Transylvania Open in Cluj-Napoca, where she lost in straight sets to Karolina Pliskova.",
+            "ko": "실시간 보도 번역: Dart's first appearance in the semi-finals of a tour event was in the Transylvania Open in Cluj-Napoca, where she lost in straight sets to Karolina Pliskova."
           }
         ]
       },
       {
-        "en": "However, the banking sector trade body, UK Finance, warned that &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
+        "en": "She will face 16-year-old Chinese wildcard Sun Xinran in the last four on Saturday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "However, the banking sector trade body, UK Finance, warned that &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
-            "ko": "실시간 보도 번역: However, the banking sector trade body, UK Finance, warned that &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;."
+            "en": "She will face 16-year-old Chinese wildcard Sun Xinran in the last four on Saturday.",
+            "ko": "실시간 보도 번역: She will face 16-year-old Chinese wildcard Sun Xinran in the last four on Saturday."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Banks say Healey is planning Budget tax raid on their profits",
+      "글로벌 최신 소식: Dart stuns Badosa to make second career semi-final",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2393,14 +2478,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Banks say Healey is planning Budget tax raid on their profits",
+          "Dart stuns Badosa to make second career semi-final",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_4165401114875515157",
@@ -3122,66 +3209,70 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_7288462649070504906",
-    "title": "Serb player banned until 2050 for tennis match-fixing",
-    "subtitle": "Stefan Milicevic is given a 24-year suspension from tennis - one of the most severe punishments outside of a lifetime ban - for ma...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-15",
-    "addedAt": "2026-10-16T02:49:55Z",
-    "category": "sports",
+    "id": "auto_culture_379468106687188553",
+    "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
+    "subtitle": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-30",
+    "addedAt": "2026-10-30T17:38:12Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 144,
+    "wordCount": 116,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSerb player banned to 2050 for tennis match-fixingImage source, Getty ImagesImage caption, Stefan Milicevic played in 22 professional tournaments on the lower-tier ITF Tour between 2013 and 2023",
+        "en": "Some of the women in Russell Brand's rape and sexual assault case have been \"haunted\" for years by what they allege he did to them, jurors have been told.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSerb player banned to 2050 for tennis match-fixingImage source, Getty ImagesImage caption, Stefan Milicevic played in 22 professional tournaments on the lower-tier ITF Tour between 2013 and 2023",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarSerb player banned to 2050 for tennis match-fixingImage source, Getty ImagesImage caption, Stefan Milicevic played in 22 professional tournaments on the lower-tier ITF Tour between 2013 and 2023"
+            "en": "Some of the women in Russell Brand's rape and sexual assault case have been \"haunted\" for years by what they allege he did to them, jurors have been told.",
+            "ko": "실시간 보도 번역: Some of the women in Russell Brand's rape and sexual assault case have been \"haunted\" for years by what they allege he did to them, jurors have been told."
           }
         ]
       },
       {
-        "en": "A player from Serbia has been given a 24-year suspension from tennis - one of the most severe punishments imposed by anti-corruption investigators outside of a lifetime ban - for match-fixing.",
+        "en": "In her closing speech at London's Southwark Crown Court on Friday, prosecutor Reil Karmy-Jones KC said the women had \"nothing to gain\" from coming forward apart from \"some closure\".",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A player from Serbia has been given a 24-year suspension from tennis - one of the most severe punishments imposed by anti-corruption investigators outside of a lifetime ban - for match-fixing.",
-            "ko": "실시간 보도 번역: A player from Serbia has been given a 24-year suspension from tennis - one of the most severe punishments imposed by anti-corruption investigators outside of a lifetime ban - for match-fixing."
+            "en": "In her closing speech at London's Southwark Crown Court on Friday, prosecutor Reil Karmy-Jones KC said the women had \"nothing to gain\" from coming forward apart from \"some closure\".",
+            "ko": "실시간 보도 번역: In her closing speech at London's Southwark Crown Court on Friday, prosecutor Reil Karmy-Jones KC said the women had \"nothing to gain\" from coming forward apart from \"some closure\"."
           }
         ]
       },
       {
-        "en": "Stefan Milicevic, who reached a career-high world ranking of 1,338th in 2014, was charged with fixing six matches, including five in which he was competing.",
+        "en": "Speaking for the defence, Polly Dyer told jurors Brand had pleaded guilty and been fined over possession of cannabis in 1995, but had no other \"convictions, cautions, reprimands or warnings\".",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Stefan Milicevic, who reached a career-high world ranking of 1,338th in 2014, was charged with fixing six matches, including five in which he was competing.",
-            "ko": "실시간 보도 번역: Stefan Milicevic, who reached a career-high world ranking of 1,338th in 2014, was charged with fixing six matches, including five in which he was competing."
+            "en": "Speaking for the defence, Polly Dyer told jurors Brand had pleaded guilty and been fined over possession of cannabis in 1995, but had no other \"convictions, cautions, reprimands or warnings\".",
+            "ko": "실시간 보도 번역: Speaking for the defence, Polly Dyer told jurors Brand had pleaded guilty and been fined over possession of cannabis in 1995, but had no other \"convictions, cautions, reprimands or warnings\"."
           }
         ]
       },
       {
-        "en": "The 29-year-old, who played on the lower rungs of the professional ladder, was also charged with attempting to fix a further six matches between 2022 and 2024.",
+        "en": "Brand, 51, is on trial facing seven charges; three counts of rape, three charges of sexual assault and one allegation of attempted indecent assault. He denies the charges.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 29-year-old, who played on the lower rungs of the professional ladder, was also charged with attempting to fix a further six matches between 2022 and 2024.",
-            "ko": "실시간 보도 번역: The 29-year-old, who played on the lower rungs of the professional ladder, was also charged with attempting to fix a further six matches between 2022 and 2024."
+            "en": "Brand, 51, is on trial facing seven charges; three counts of rape, three charges of sexual assault and one allegation of attempted indecent assault.",
+            "ko": "실시간 보도 번역: Brand, 51, is on trial facing seven charges; three counts of rape, three charges of sexual assault and one allegation of attempted indecent assault."
+          },
+          {
+            "en": "He denies the charges.",
+            "ko": "실시간 보도 번역: He denies the charges."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Serb player banned until 2050 for tennis match-fixing",
+      "글로벌 최신 소식: Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3189,16 +3280,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Serb player banned until 2050 for tennis match-fixing",
+          "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_2654049747710061558",
@@ -3901,87 +3990,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death parade",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_8570335344400802606",
-    "title": "Russell Brand accuser says he turned 'monster-like' before alleged rape",
-    "subtitle": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-15",
-    "addedAt": "2026-10-16T02:49:56Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 115,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand accuser says he turned &#x27;monster-like&#x27; before alleged rapeImage source, ReutersBySima Kotecha and Helena Wilkinson, Reporting fromSouthwark Crown CourtPublished15 October 2026Warning - this report contains graphic content",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand accuser says he turned &#x27;monster-like&#x27; before alleged rapeImage source, ReutersBySima Kotecha and Helena Wilkinson, Reporting fromSouthwark Crown CourtPublished15 October 2026Warning - this report contains graphic content",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsRussell Brand accuser says he turned &#x27;monster-like&#x27; before alleged rapeImage source, ReutersBySima Kotecha and Helena Wilkinson, Reporting fromSouthwark Crown CourtPublished15 October 2026Warning - this report contains graphic content"
-          }
-        ]
-      },
-      {
-        "en": "A woman who alleges Russell Brand raped her in a hotel room has said he turned from &quot;camp, friendly and effeminate&quot; to &quot;monster-like&quot; before the alleged assault.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "A woman who alleges Russell Brand raped her in a hotel room has said he turned from &quot;camp, friendly and effeminate&quot; to &quot;monster-like&quot; before the alleged assault.",
-            "ko": "실시간 보도 번역: A woman who alleges Russell Brand raped her in a hotel room has said he turned from &quot;camp, friendly and effeminate&quot; to &quot;monster-like&quot; before the alleged assault."
-          }
-        ]
-      },
-      {
-        "en": "The 51-year-old actor and comedian faces seven charges - three counts of rape, three charges of sexual assault and one of indecent assault.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The 51-year-old actor and comedian faces seven charges - three counts of rape, three charges of sexual assault and one of indecent assault.",
-            "ko": "실시간 보도 번역: The 51-year-old actor and comedian faces seven charges - three counts of rape, three charges of sexual assault and one of indecent assault."
-          }
-        ]
-      },
-      {
-        "en": "The allegations, made by six female complainants, span a 10-year period between 1999 and 2009. He denies the charges.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The allegations, made by six female complainants, span a 10-year period between 1999 and 2009.",
-            "ko": "실시간 보도 번역: The allegations, made by six female complainants, span a 10-year period between 1999 and 2009."
-          },
-          {
-            "en": "He denies the charges.",
-            "ko": "실시간 보도 번역: He denies the charges."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Russell Brand accuser says he turned 'monster-like' before alleged rape",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Russell Brand accuser says he turned 'monster-like' before alleged rape",
           "Historical retrospective",
           "Unrelated general weather"
         ],
