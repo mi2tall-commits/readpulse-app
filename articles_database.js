@@ -791,6 +791,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_610724310549819744",
+    "title": "Bute House protested by environmental campaigners",
+    "subtitle": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh....",
+    "speaker": "BBC Science",
+    "date": "2026-10-31",
+    "addedAt": "2026-10-31T16:42:54Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 89,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Environmental campaigners have staged a Halloween themed demonstration outside the first minister's official residence over \"scary\" fossil fuels.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Environmental campaigners have staged a Halloween themed demonstration outside the first minister's official residence over \"scary\" fossil fuels.",
+            "ko": "실시간 보도 번역: Environmental campaigners have staged a Halloween themed demonstration outside the first minister's official residence over \"scary\" fossil fuels."
+          }
+        ]
+      },
+      {
+        "en": "Climate groups gathered outside Bute House in Edinburgh to protest against the Scottish government's decision to give the go-ahead for a new, gas-fired, power station at Peterhead in Aberdeenshire.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Climate groups gathered outside Bute House in Edinburgh to protest against the Scottish government's decision to give the go-ahead for a new, gas-fired, power station at Peterhead in Aberdeenshire.",
+            "ko": "실시간 보도 번역: Climate groups gathered outside Bute House in Edinburgh to protest against the Scottish government's decision to give the go-ahead for a new, gas-fired, power station at Peterhead in Aberdeenshire."
+          }
+        ]
+      },
+      {
+        "en": "The decision has been branded a \"catastrophic failure\" by environmental campaigners, who said burning fossil fuels is the key driver of extreme weather such as recent storms, record heat and flooding.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The decision has been branded a \"catastrophic failure\" by environmental campaigners, who said burning fossil fuels is the key driver of extreme weather such as recent storms, record heat and flooding.",
+            "ko": "실시간 보도 번역: The decision has been branded a \"catastrophic failure\" by environmental campaigners, who said burning fossil fuels is the key driver of extreme weather such as recent storms, record heat and flooding."
+          }
+        ]
+      },
+      {
+        "en": "The Scottish government said it remained committed to tackling climate change.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The Scottish government said it remained committed to tackling climate change.",
+            "ko": "실시간 보도 번역: The Scottish government said it remained committed to tackling climate change."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Bute House protested by environmental campaigners",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Bute House protested by environmental campaigners",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_820732834100901672",
     "title": "Global nature talks reach deal but money remains an issue",
     "subtitle": "Countries have been trying to get a global agreement to halt nature decline back on track....",
@@ -1465,83 +1542,6 @@ const READPULSE_ARTICLES = [
     "speaker": "BBC Science",
     "date": "2026-10-15",
     "addedAt": "2026-10-17T02:41:07Z",
-    "category": "science",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 118,
-    "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessLiving with a stink? Technology might helpImage source, The Mercury News via Getty ImagesImage caption, The operators of Newby Island landfill have been ordered to take action over odours",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessLiving with a stink?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessLiving with a stink?"
-          }
-        ]
-      },
-      {
-        "en": "Milpitas, an affluent city in California&#x27;s Silicon Valley tech hub, has an odour problem.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Milpitas, an affluent city in California&#x27;s Silicon Valley tech hub, has an odour problem.",
-            "ko": "실시간 보도 번역: Milpitas, an affluent city in California&#x27;s Silicon Valley tech hub, has an odour problem."
-          }
-        ]
-      },
-      {
-        "en": "For decades, residents have had to endure rank smells wafting from industrial sites, among them a 342-acre landfill.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "For decades, residents have had to endure rank smells wafting from industrial sites, among them a 342-acre landfill.",
-            "ko": "실시간 보도 번역: For decades, residents have had to endure rank smells wafting from industrial sites, among them a 342-acre landfill."
-          }
-        ]
-      },
-      {
-        "en": "&quot;When I first moved here, I could not open my window for over 10 years,&quot; says Chia-Ling Kong, an engineer for a tech firm who lives around half a mile from the dump.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&quot;When I first moved here, I could not open my window for over 10 years,&quot; says Chia-Ling Kong, an engineer for a tech firm who lives around half a mile from the dump.",
-            "ko": "실시간 보도 번역: &quot;When I first moved here, I could not open my window for over 10 years,&quot; says Chia-Ling Kong, an engineer for a tech firm who lives around half a mile from the dump."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Living with a stink? Technology might help",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Living with a stink? Technology might help",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_science_8865115056992899827",
-    "title": "Living with a stink? Technology might help",
-    "subtitle": "Smells from rubbish dumps and industrial facilities are being more carefully monitored....",
-    "speaker": "BBC Science",
-    "date": "2026-10-15",
-    "addedAt": "2026-10-16T15:57:24Z",
     "category": "science",
     "isLive": true,
     "level": "B2",
@@ -2415,6 +2415,85 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_sports_497101800115616476",
+    "title": "Briton Dart reaches first WTA Tour singles final",
+    "subtitle": "A tearful Harriet Dart said it \"means the world\" to her to qualify for her maiden WTA Tour singles final after battling past to be...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-31",
+    "addedAt": "2026-10-31T16:42:55Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 113,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "Dart has previously reached six WTA Tour-level doubles finals, winning two titles",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Dart has previously reached six WTA Tour-level doubles finals, winning two titles",
+            "ko": "실시간 보도 번역: Dart has previously reached six WTA Tour-level doubles finals, winning two titles"
+          }
+        ]
+      },
+      {
+        "en": "A tearful Harriet Dart said it \"means the world\" to qualify for her maiden WTA Tour singles final after battling past Chinese wildcard Sun Xinran in three sets at the Guangzhou Open.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "A tearful Harriet Dart said it \"means the world\" to qualify for her maiden WTA Tour singles final after battling past Chinese wildcard Sun Xinran in three sets at the Guangzhou Open.",
+            "ko": "실시간 보도 번역: A tearful Harriet Dart said it \"means the world\" to qualify for her maiden WTA Tour singles final after battling past Chinese wildcard Sun Xinran in three sets at the Guangzhou Open."
+          }
+        ]
+      },
+      {
+        "en": "The 30-year-old qualifier recovered from failing to serve out the first set to save multiple match points in the second before closing out a 5-7 7-6 (6-1) 6-0 victory in a little under two and a half hours.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The 30-year-old qualifier recovered from failing to serve out the first set to save multiple match points in the second before closing out a 5-7 7-6 (6-1) 6-0 victory in a little under two and a half hours.",
+            "ko": "실시간 보도 번역: The 30-year-old qualifier recovered from failing to serve out the first set to save multiple match points in the second before closing out a 5-7 7-6 (6-1) 6-0 victory in a little under two and a half hours."
+          }
+        ]
+      },
+      {
+        "en": "Dart, who made her WTA Tour debut in Eastbourne in 2015, was playing in just her second tour-level singles semi-final, having previously reached the last four at the 2024 Transylvania Open.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Dart, who made her WTA Tour debut in Eastbourne in 2015, was playing in just her second tour-level singles semi-final, having previously reached the last four at the 2024 Transylvania Open.",
+            "ko": "실시간 보도 번역: Dart, who made her WTA Tour debut in Eastbourne in 2015, was playing in just her second tour-level singles semi-final, having previously reached the last four at the 2024 Transylvania Open."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Briton Dart reaches first WTA Tour singles final",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Briton Dart reaches first WTA Tour singles final",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
+  },
+  {
     "id": "auto_sports_1101206499446656021",
     "title": "Zverev thrashes GB's Fery to reach Vienna semis",
     "subtitle": "Alexander Zverev marks his rise to world number one with a dominant victory over Britain's Arthur Fery to reach the semi-finals of...",
@@ -3123,85 +3202,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Kartal reaches Wuhan final as dream week continues",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_4830812575437618808",
-    "title": "Kartal enjoys 'best week of career' after diving into deep end",
-    "subtitle": "Sonay Kartal's winning streak following a long injury lay-off continues as she seals a hard-fought victory over fifth seed Elina S...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-16",
-    "addedAt": "2026-10-17T02:41:08Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 144,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal enjoys &#x27;best week of career&#x27; after diving into deep endImage source, Getty ImagesImage caption, Sonay Kartal has dropped to 170 in the world after her long-term injury, but reached a career-high ranking of 44 in July 2025",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal enjoys &#x27;best week of career&#x27; after diving into deep endImage source, Getty ImagesImage caption, Sonay Kartal has dropped to 170 in the world after her long-term injury, but reached a career-high ranking of 44 in July 2025",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal enjoys &#x27;best week of career&#x27; after diving into deep endImage source, Getty ImagesImage caption, Sonay Kartal has dropped to 170 in the world after her long-term injury, but reached a career-high ranking of 44 in July 2025"
-          }
-        ]
-      },
-      {
-        "en": "Sonay Kartal had a difficult decision to make when she felt ready to rejoin the WTA Tour, having not played for six months because of a debilitating back injury.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Sonay Kartal had a difficult decision to make when she felt ready to rejoin the WTA Tour, having not played for six months because of a debilitating back injury.",
-            "ko": "실시간 보도 번역: Sonay Kartal had a difficult decision to make when she felt ready to rejoin the WTA Tour, having not played for six months because of a debilitating back injury."
-          }
-        ]
-      },
-      {
-        "en": "Did the 24-year-old Briton ease herself in more gently at lower-ranked tournaments?",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Did the 24-year-old Briton ease herself in more gently at lower-ranked tournaments?",
-            "ko": "실시간 보도 번역: Did the 24-year-old Briton ease herself in more gently at lower-ranked tournaments?"
-          }
-        ]
-      },
-      {
-        "en": "Or did the former world number 54 use a protected injury ranking to enter WTA 1000 events in China, where the world&#x27;s best players compete at the pinnacle of the women&#x27;s tour?",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Or did the former world number 54 use a protected injury ranking to enter WTA 1000 events in China, where the world&#x27;s best players compete at the pinnacle of the women&#x27;s tour?",
-            "ko": "실시간 보도 번역: Or did the former world number 54 use a protected injury ranking to enter WTA 1000 events in China, where the world&#x27;s best players compete at the pinnacle of the women&#x27;s tour?"
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Kartal enjoys 'best week of career' after diving into deep end",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Kartal enjoys 'best week of career' after diving into deep end",
           "Historical retrospective",
           "Unrelated general weather"
         ],
