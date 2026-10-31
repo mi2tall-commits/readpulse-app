@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_389413056981487724",
+    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "subtitle": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become....",
+    "speaker": "BBC Technology",
+    "date": "2026-10-31",
+    "addedAt": "2026-10-31T03:47:03Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 106,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (£4.7bn) hack of Binance, the world's largest cryptocurrency exchange.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.",
+            "ko": "실시간 보도 번역: Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6."
+          },
+          {
+            "en": "7bn) hack of Binance, the world's largest cryptocurrency exchange.",
+            "ko": "실시간 보도 번역: 7bn) hack of Binance, the world's largest cryptocurrency exchange."
+          }
+        ]
+      },
+      {
+        "en": "The Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis.",
+            "ko": "실시간 보도 번역: The Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis."
+          }
+        ]
+      },
+      {
+        "en": "This incident is just the latest linked to the country, one of the poorest in the world and where access to the internet is severely restricted.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "This incident is just the latest linked to the country, one of the poorest in the world and where access to the internet is severely restricted.",
+            "ko": "실시간 보도 번역: This incident is just the latest linked to the country, one of the poorest in the world and where access to the internet is severely restricted."
+          }
+        ]
+      },
+      {
+        "en": "Experts accuse the government of North Korean leader Kim Jong Un of relying on cybercrime to finance itself, something Pyongyang has long denied.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Experts accuse the government of North Korean leader Kim Jong Un of relying on cybercrime to finance itself, something Pyongyang has long denied.",
+            "ko": "실시간 보도 번역: Experts accuse the government of North Korean leader Kim Jong Un of relying on cybercrime to finance itself, something Pyongyang has long denied."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_297856478166223771",
     "title": "US tech stocks see sharp falls over AI cost fears",
     "subtitle": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months....",
@@ -710,74 +791,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_2150340672736557481",
-    "title": "Snapchat and Instagram grooming becoming 'easier'",
-    "subtitle": "Online grooming is rising, with children as young as five targeted, prompting calls for reform....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-16",
-    "addedAt": "2026-10-16T15:57:23Z",
-    "category": "tech",
+    "id": "auto_science_820732834100901672",
+    "title": "Global nature talks reach deal but money remains an issue",
+    "subtitle": "Countries have been trying to get a global agreement to halt nature decline back on track....",
+    "speaker": "BBC Science",
+    "date": "2026-10-31",
+    "addedAt": "2026-10-31T03:47:04Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 136,
+    "wordCount": 94,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSnapchat and Instagram grooming becoming &#x27;easier&#x27;Image source, Getty ImagesImage caption, Experts warn children as young as five years old are now being groomed on social media and gaming sites",
+        "en": "Elephants in Southern Africa are one of the species that have recovered after recent conservation efforts",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSnapchat and Instagram grooming becoming &#x27;easier&#x27;Image source, Getty ImagesImage caption, Experts warn children as young as five years old are now being groomed on social media and gaming sites",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEnglandRegionsSnapchat and Instagram grooming becoming &#x27;easier&#x27;Image source, Getty ImagesImage caption, Experts warn children as young as five years old are now being groomed on social media and gaming sites"
+            "en": "Elephants in Southern Africa are one of the species that have recovered after recent conservation efforts",
+            "ko": "실시간 보도 번역: Elephants in Southern Africa are one of the species that have recovered after recent conservation efforts"
           }
         ]
       },
       {
-        "en": "Experts are urging parents to talk to their children amid warnings social media grooming is becoming &quot;quicker&quot; and &quot;easier&quot; than ever before.",
+        "en": "In Armenia's capital this week a fight between politicians broke out - not the mass brawl in its parliament that was so widely documented on social media - but between delegates from nearly 200 countries.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Experts are urging parents to talk to their children amid warnings social media grooming is becoming &quot;quicker&quot; and &quot;easier&quot; than ever before.",
-            "ko": "실시간 보도 번역: Experts are urging parents to talk to their children amid warnings social media grooming is becoming &quot;quicker&quot; and &quot;easier&quot; than ever before."
+            "en": "In Armenia's capital this week a fight between politicians broke out - not the mass brawl in its parliament that was so widely documented on social media - but between delegates from nearly 200 countries.",
+            "ko": "실시간 보도 번역: In Armenia's capital this week a fight between politicians broke out - not the mass brawl in its parliament that was so widely documented on social media - but between delegates from nearly 200 countries."
           }
         ]
       },
       {
-        "en": "Childline said Snapchat, TikTok and Instagram were the top platforms children named in counselling about online sexual abuse last year. The companies have been approached for comment.",
+        "en": "The world's nations have been gathered in Yerevan for nearly two weeks  negotiating, and arguing, over a new agreement on nature.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Childline said Snapchat, TikTok and Instagram were the top platforms children named in counselling about online sexual abuse last year.",
-            "ko": "실시간 보도 번역: Childline said Snapchat, TikTok and Instagram were the top platforms children named in counselling about online sexual abuse last year."
-          },
-          {
-            "en": "The companies have been approached for comment.",
-            "ko": "실시간 보도 번역: The companies have been approached for comment."
+            "en": "The world's nations have been gathered in Yerevan for nearly two weeks  negotiating, and arguing, over a new agreement on nature.",
+            "ko": "실시간 보도 번역: The world's nations have been gathered in Yerevan for nearly two weeks  negotiating, and arguing, over a new agreement on nature."
           }
         ]
       },
       {
-        "en": "Avon and Somerset Police&#x27;s child exploitation prevention officer Andri Nicolau said children as young as five can be targeted through social media, gaming and messaging platforms. She urged parents to encourage kids to ask for help without fear of blame or punishment.",
+        "en": "Early on Saturday morning, hours after talks were due to finish, they finally agreed the key parts of a new action plan.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Avon and Somerset Police&#x27;s child exploitation prevention officer Andri Nicolau said children as young as five can be targeted through social media, gaming and messaging platforms.",
-            "ko": "실시간 보도 번역: Avon and Somerset Police&#x27;s child exploitation prevention officer Andri Nicolau said children as young as five can be targeted through social media, gaming and messaging platforms."
-          },
-          {
-            "en": "She urged parents to encourage kids to ask for help without fear of blame or punishment.",
-            "ko": "실시간 보도 번역: She urged parents to encourage kids to ask for help without fear of blame or punishment."
+            "en": "Early on Saturday morning, hours after talks were due to finish, they finally agreed the key parts of a new action plan.",
+            "ko": "실시간 보도 번역: Early on Saturday morning, hours after talks were due to finish, they finally agreed the key parts of a new action plan."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Snapchat and Instagram grooming becoming 'easier'",
+      "글로벌 최신 소식: Global nature talks reach deal but money remains an issue",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -785,7 +858,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Snapchat and Instagram grooming becoming 'easier'",
+          "Global nature talks reach deal but money remains an issue",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1540,70 +1613,78 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_4253691306955064653",
-    "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
-    "subtitle": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban....",
-    "speaker": "BBC Science",
-    "date": "2026-10-15",
-    "addedAt": "2026-10-16T02:49:54Z",
-    "category": "science",
+    "id": "auto_economy_601141501348595624",
+    "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+    "subtitle": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind....",
+    "speaker": "BBC Business",
+    "date": "2026-10-30",
+    "addedAt": "2026-10-31T03:47:04Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 147,
+    "wordCount": 120,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateSevere drought declared and hosepipe bans in force - is your area affected?Image source, Matt Cardy/Getty ImagesByMark Poynting, Climate reporter, Jess Carr, Data designer and Phil Leake, Data journalistPublished2 July 2025Updated 15 October 2026Severe drought has been declared in parts of southern England after months of dry weather drove some reservoirs to exceptionally low levels.",
+        "en": "Binance, the world's largest cryptocurrency exchange, says it has frozen around half of the funds stolen in a \"complex\" hack, after $6.3bn (£4.7bn) was accessed in what is believed to be a record heist.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateSevere drought declared and hosepipe bans in force - is your area affected?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatClimateSevere drought declared and hosepipe bans in force - is your area affected?"
+            "en": "Binance, the world's largest cryptocurrency exchange, says it has frozen around half of the funds stolen in a \"complex\" hack, after $6.",
+            "ko": "실시간 보도 번역: Binance, the world's largest cryptocurrency exchange, says it has frozen around half of the funds stolen in a \"complex\" hack, after $6."
           },
           {
-            "en": "Image source, Matt Cardy/Getty ImagesByMark Poynting, Climate reporter, Jess Carr, Data designer and Phil Leake, Data journalistPublished2 July 2025Updated 15 October 2026Severe drought has been declared in parts of southern England after months of dry weather drove some reservoirs to exceptionally low levels.",
-            "ko": "실시간 보도 번역: Image source, Matt Cardy/Getty ImagesByMark Poynting, Climate reporter, Jess Carr, Data designer and Phil Leake, Data journalistPublished2 July 2025Updated 15 October 2026Severe drought has been declared in parts of southern England after months of dry weather drove some reservoirs to exceptionally low levels."
+            "en": "7bn) was accessed in what is believed to be a record heist.",
+            "ko": "실시간 보도 번역: 7bn) was accessed in what is believed to be a record heist."
           }
         ]
       },
       {
-        "en": "Most of England and all of Wales were already under drought conditions after both nations&#x27; hottest summers on record, which has taken its toll on rivers, crops and nature.",
+        "en": "The firm said $3bn of its stolen digital assets had been secured - but many were still in the hands of unidentified hackers. It initially thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Most of England and all of Wales were already under drought conditions after both nations&#x27; hottest summers on record, which has taken its toll on rivers, crops and nature.",
-            "ko": "실시간 보도 번역: Most of England and all of Wales were already under drought conditions after both nations&#x27; hottest summers on record, which has taken its toll on rivers, crops and nature."
+            "en": "The firm said $3bn of its stolen digital assets had been secured - but many were still in the hands of unidentified hackers.",
+            "ko": "실시간 보도 번역: The firm said $3bn of its stolen digital assets had been secured - but many were still in the hands of unidentified hackers."
+          },
+          {
+            "en": "It initially thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.",
+            "ko": "실시간 보도 번역: It initially thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider."
           }
         ]
       },
       {
-        "en": "Roughly 30 million people across parts of England and Wales are covered by hosepipe bans, as part of water companies&#x27; efforts to manage supplies.",
+        "en": "Several analytics firms have linked the hack, which eclipses a $1.5bn (£1.12bn) heist on the Bybit exchange in 2025, to a North Korean hacking unit.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Roughly 30 million people across parts of England and Wales are covered by hosepipe bans, as part of water companies&#x27; efforts to manage supplies.",
-            "ko": "실시간 보도 번역: Roughly 30 million people across parts of England and Wales are covered by hosepipe bans, as part of water companies&#x27; efforts to manage supplies."
+            "en": "Several analytics firms have linked the hack, which eclipses a $1.",
+            "ko": "실시간 보도 번역: Several analytics firms have linked the hack, which eclipses a $1."
+          },
+          {
+            "en": "12bn) heist on the Bybit exchange in 2025, to a North Korean hacking unit.",
+            "ko": "실시간 보도 번역: 12bn) heist on the Bybit exchange in 2025, to a North Korean hacking unit."
           }
         ]
       },
       {
-        "en": "&quot;Severe drought&quot; - the highest category - has now been declared for parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex.",
+        "en": "The US Secret Service said it was \"working around the clock\" \"to identify, freeze, trace, and recover\" stolen funds.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;Severe drought&quot; - the highest category - has now been declared for parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex.",
-            "ko": "실시간 보도 번역: &quot;Severe drought&quot; - the highest category - has now been declared for parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex."
+            "en": "The US Secret Service said it was \"working around the clock\" \"to identify, freeze, trace, and recover\" stolen funds.",
+            "ko": "실시간 보도 번역: The US Secret Service said it was \"working around the clock\" \"to identify, freeze, trace, and recover\" stolen funds."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Severe drought declared and hosepipe bans in force - is your area affected?",
+      "글로벌 최신 소식: Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1611,7 +1692,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Severe drought declared and hosepipe bans in force - is your area affected?",
+          "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2334,66 +2415,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_8707734422488392585",
-    "title": "Banks expect to be hit with higher taxes in Budget",
-    "subtitle": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month....",
-    "speaker": "BBC Business",
-    "date": "2026-10-16",
-    "addedAt": "2026-10-16T15:57:25Z",
-    "category": "economy",
+    "id": "auto_sports_1101206499446656021",
+    "title": "Zverev thrashes GB's Fery to reach Vienna semis",
+    "subtitle": "Alexander Zverev marks his rise to world number one with a dominant victory over Britain's Arthur Fery to reach the semi-finals of...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-30",
+    "addedAt": "2026-10-31T03:47:05Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 158,
+    "wordCount": 105,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 5 hours agoChancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.",
+        "en": "Alexander Zverev marked his rise to world number one with a dominant victory over Britain's Arthur Fery to reach the semi-finals of the Vienna Open.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 5 hours agoChancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 5 hours agoChancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC."
+            "en": "Alexander Zverev marked his rise to world number one with a dominant victory over Britain's Arthur Fery to reach the semi-finals of the Vienna Open.",
+            "ko": "실시간 보도 번역: Alexander Zverev marked his rise to world number one with a dominant victory over Britain's Arthur Fery to reach the semi-finals of the Vienna Open."
           }
         ]
       },
       {
-        "en": "Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time.",
+        "en": "The German top seed, who is set to replace Jannik Sinner at the summit of the men's rankings, needed just 58 minutes to secure a comprehensive 6-0 6-2 win.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time.",
-            "ko": "실시간 보도 번역: Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time."
+            "en": "The German top seed, who is set to replace Jannik Sinner at the summit of the men's rankings, needed just 58 minutes to secure a comprehensive 6-0 6-2 win.",
+            "ko": "실시간 보도 번역: The German top seed, who is set to replace Jannik Sinner at the summit of the men's rankings, needed just 58 minutes to secure a comprehensive 6-0 6-2 win."
           }
         ]
       },
       {
-        "en": "The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.",
+        "en": "Fery did not look at his best throughout the encounter after receiving treatment on his leg near the end of his last-16 win over Lorenzo Musetti on Thursday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.",
-            "ko": "실시간 보도 번역: The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes."
+            "en": "Fery did not look at his best throughout the encounter after receiving treatment on his leg near the end of his last-16 win over Lorenzo Musetti on Thursday.",
+            "ko": "실시간 보도 번역: Fery did not look at his best throughout the encounter after receiving treatment on his leg near the end of his last-16 win over Lorenzo Musetti on Thursday."
           }
         ]
       },
       {
-        "en": "The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
+        "en": "The match was a repeat of the pair's Wimbledon semi-final this summer, which Zverev won in straight sets to end Fery's remarkable run.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
-            "ko": "실시간 보도 번역: The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;."
+            "en": "The match was a repeat of the pair's Wimbledon semi-final this summer, which Zverev won in straight sets to end Fery's remarkable run.",
+            "ko": "실시간 보도 번역: The match was a repeat of the pair's Wimbledon semi-final this summer, which Zverev won in straight sets to end Fery's remarkable run."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Banks expect to be hit with higher taxes in Budget",
+      "글로벌 최신 소식: Zverev thrashes GB's Fery to reach Vienna semis",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2401,14 +2482,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Banks expect to be hit with higher taxes in Budget",
+          "Zverev thrashes GB's Fery to reach Vienna semis",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_207943453215319368",
@@ -3130,66 +3213,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_7723313851907133483",
-    "title": "Kartal upsets Svitolina to reach Wuhan semi-finals",
-    "subtitle": "Sonay Kartal's winning streak following a long injury lay-off continues as she seals a hard-fought victory over fifth seed Elina S...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-16",
-    "addedAt": "2026-10-16T15:57:27Z",
-    "category": "sports",
+    "id": "auto_culture_116930124527095880",
+    "title": "Celebrity Traitors comes to a climax in nail-biting final",
+    "subtitle": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-31",
+    "addedAt": "2026-10-31T03:47:07Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 144,
+    "wordCount": 94,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal enjoys &#x27;best week of career&#x27; after diving into deep endImage source, Getty ImagesImage caption, Sonay Kartal has dropped to 170 in the world after her long-term injury, but reached a career-high ranking of 44 in July 2025",
+        "en": "Spoiler warning: This story reveals details of The Celebrity Traitors final",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal enjoys &#x27;best week of career&#x27; after diving into deep endImage source, Getty ImagesImage caption, Sonay Kartal has dropped to 170 in the world after her long-term injury, but reached a career-high ranking of 44 in July 2025",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal enjoys &#x27;best week of career&#x27; after diving into deep endImage source, Getty ImagesImage caption, Sonay Kartal has dropped to 170 in the world after her long-term injury, but reached a career-high ranking of 44 in July 2025"
+            "en": "Spoiler warning: This story reveals details of The Celebrity Traitors final",
+            "ko": "실시간 보도 번역: Spoiler warning: This story reveals details of The Celebrity Traitors final"
           }
         ]
       },
       {
-        "en": "Sonay Kartal had a difficult decision to make when she felt ready to rejoin the WTA Tour, having not played for six months because of a debilitating back injury.",
+        "en": "We've had four weeks of suspense, suspicion and very suspect tactics, as some of Britain's biggest stars engaged in a battle of wits to win the most popular show on TV.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Sonay Kartal had a difficult decision to make when she felt ready to rejoin the WTA Tour, having not played for six months because of a debilitating back injury.",
-            "ko": "실시간 보도 번역: Sonay Kartal had a difficult decision to make when she felt ready to rejoin the WTA Tour, having not played for six months because of a debilitating back injury."
+            "en": "We've had four weeks of suspense, suspicion and very suspect tactics, as some of Britain's biggest stars engaged in a battle of wits to win the most popular show on TV.",
+            "ko": "실시간 보도 번역: We've had four weeks of suspense, suspicion and very suspect tactics, as some of Britain's biggest stars engaged in a battle of wits to win the most popular show on TV."
           }
         ]
       },
       {
-        "en": "Did the 24-year-old Briton ease herself in more gently at lower-ranked tournaments?",
+        "en": "The second series of BBC One's The Celebrity Traitors reached its climax on Friday, with the 21 original contestants having been reduced to seven before the final.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Did the 24-year-old Briton ease herself in more gently at lower-ranked tournaments?",
-            "ko": "실시간 보도 번역: Did the 24-year-old Briton ease herself in more gently at lower-ranked tournaments?"
+            "en": "The second series of BBC One's The Celebrity Traitors reached its climax on Friday, with the 21 original contestants having been reduced to seven before the final.",
+            "ko": "실시간 보도 번역: The second series of BBC One's The Celebrity Traitors reached its climax on Friday, with the 21 original contestants having been reduced to seven before the final."
           }
         ]
       },
       {
-        "en": "Or did the former world number 54 use a protected injury ranking to enter WTA 1000 events in China, where the world&#x27;s best players compete at the pinnacle of the women&#x27;s tour?",
+        "en": "They were then whittled down to two winners - with the faithful duo of comedian Romesh Ranganathan and Heartstopper actor Sebastian \"Bash\" Croft emerging victorious.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Or did the former world number 54 use a protected injury ranking to enter WTA 1000 events in China, where the world&#x27;s best players compete at the pinnacle of the women&#x27;s tour?",
-            "ko": "실시간 보도 번역: Or did the former world number 54 use a protected injury ranking to enter WTA 1000 events in China, where the world&#x27;s best players compete at the pinnacle of the women&#x27;s tour?"
+            "en": "They were then whittled down to two winners - with the faithful duo of comedian Romesh Ranganathan and Heartstopper actor Sebastian \"Bash\" Croft emerging victorious.",
+            "ko": "실시간 보도 번역: They were then whittled down to two winners - with the faithful duo of comedian Romesh Ranganathan and Heartstopper actor Sebastian \"Bash\" Croft emerging victorious."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Kartal upsets Svitolina to reach Wuhan semi-finals",
+      "글로벌 최신 소식: Celebrity Traitors comes to a climax in nail-biting final",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3197,16 +3280,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Kartal upsets Svitolina to reach Wuhan semi-finals",
+          "Celebrity Traitors comes to a climax in nail-biting final",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_379468106687188553",
@@ -3913,83 +3994,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Woman says she was left 'bewildered and confused' by alleged Russell Brand assault",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_1290591963825310094",
-    "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death parade",
-    "subtitle": "The celebrities turn on each other at the round table, and have to beat the death walkers for their mission....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-15",
-    "addedAt": "2026-10-16T15:57:30Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 102,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsSparks fly at the Celebrity Traitors round table and a &#x27;terrifying&#x27; death paradeImage source, BBC/Studio Lambert/Euan CherryImage caption, The death walkers terrified Leigh-Anne Pinnock, who felt like she was in a horror film",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsSparks fly at the Celebrity Traitors round table and a &#x27;terrifying&#x27; death paradeImage source, BBC/Studio Lambert/Euan CherryImage caption, The death walkers terrified Leigh-Anne Pinnock, who felt like she was in a horror film",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsSparks fly at the Celebrity Traitors round table and a &#x27;terrifying&#x27; death paradeImage source, BBC/Studio Lambert/Euan CherryImage caption, The death walkers terrified Leigh-Anne Pinnock, who felt like she was in a horror film"
-          }
-        ]
-      },
-      {
-        "en": "Spoiler warning: This article reveals details from the fifth episode of The Celebrity Traitors, series two.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Spoiler warning: This article reveals details from the fifth episode of The Celebrity Traitors, series two.",
-            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from the fifth episode of The Celebrity Traitors, series two."
-          }
-        ]
-      },
-      {
-        "en": "Things are hotting up a bit in the castle, not least for Ross Kemp, who doesn&#x27;t seem to be enjoying it very much.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Things are hotting up a bit in the castle, not least for Ross Kemp, who doesn&#x27;t seem to be enjoying it very much.",
-            "ko": "실시간 보도 번역: Things are hotting up a bit in the castle, not least for Ross Kemp, who doesn&#x27;t seem to be enjoying it very much."
-          }
-        ]
-      },
-      {
-        "en": "&quot;I&#x27;m quite angry,&quot; he said, his brow furrowing even more than usual.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&quot;I&#x27;m quite angry,&quot; he said, his brow furrowing even more than usual.",
-            "ko": "실시간 보도 번역: &quot;I&#x27;m quite angry,&quot; he said, his brow furrowing even more than usual."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Sparks fly at the Celebrity Traitors round table and a 'terrifying' death parade",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death parade",
           "Historical retrospective",
           "Unrelated general weather"
         ],
