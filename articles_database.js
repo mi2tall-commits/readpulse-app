@@ -1613,6 +1613,87 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_82938675263254876",
+    "title": "Thousands of jobs at Virgin Media O2 to be cut",
+    "subtitle": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, t...",
+    "speaker": "BBC Business",
+    "date": "2026-11-01",
+    "addedAt": "2026-11-01T17:31:53Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 116,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Thousands of Virgin Media O2 staff face redundancy risk as the telecoms firm looks to save money in the face of billions of pounds of debt and tougher competition.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Thousands of Virgin Media O2 staff face redundancy risk as the telecoms firm looks to save money in the face of billions of pounds of debt and tougher competition.",
+            "ko": "실시간 보도 번역: Thousands of Virgin Media O2 staff face redundancy risk as the telecoms firm looks to save money in the face of billions of pounds of debt and tougher competition."
+          }
+        ]
+      },
+      {
+        "en": "The broadband provider has not finalised the number of roles to be cut but it is likely be a sizeable chunk of its 16,000 workforce, the BBC understands.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The broadband provider has not finalised the number of roles to be cut but it is likely be a sizeable chunk of its 16,000 workforce, the BBC understands.",
+            "ko": "실시간 보도 번역: The broadband provider has not finalised the number of roles to be cut but it is likely be a sizeable chunk of its 16,000 workforce, the BBC understands."
+          }
+        ]
+      },
+      {
+        "en": "VMO2 has billions of debt on its balance sheet and is tackling competition from both smaller providers as well as giants like BT, which has been given regulatory permission to acquire rival TalkTalk, a move which VMO2 has firmly opposed.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "VMO2 has billions of debt on its balance sheet and is tackling competition from both smaller providers as well as giants like BT, which has been given regulatory permission to acquire rival TalkTalk, a move which VMO2 has firmly opposed.",
+            "ko": "실시간 보도 번역: VMO2 has billions of debt on its balance sheet and is tackling competition from both smaller providers as well as giants like BT, which has been given regulatory permission to acquire rival TalkTalk, a move which VMO2 has firmly opposed."
+          }
+        ]
+      },
+      {
+        "en": "VMO2 declined to comment. The Prospect union, which represents VMO2 staff, said the cuts were \"disappointing and very unsettling\".",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "VMO2 declined to comment.",
+            "ko": "실시간 보도 번역: VMO2 declined to comment."
+          },
+          {
+            "en": "The Prospect union, which represents VMO2 staff, said the cuts were \"disappointing and very unsettling\".",
+            "ko": "실시간 보도 번역: The Prospect union, which represents VMO2 staff, said the cuts were \"disappointing and very unsettling\"."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Thousands of jobs at Virgin Media O2 to be cut",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Thousands of jobs at Virgin Media O2 to be cut",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_601141501348595624",
     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
     "subtitle": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind....",
@@ -2338,66 +2419,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_8487197364726396819",
-    "title": "Banks expect to be hit with higher taxes in Budget",
-    "subtitle": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month....",
-    "speaker": "BBC Business",
-    "date": "2026-10-16",
-    "addedAt": "2026-10-17T02:41:07Z",
-    "category": "economy",
+    "id": "auto_sports_1139518326533140129",
+    "title": "How Dart revived career with help of Wimbledon champion",
+    "subtitle": "Britain's Harriet Dart knows people doubted whether she would ever win a WTA title, but says the belief of her coach Marion Bartol...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-01",
+    "addedAt": "2026-11-01T17:31:53Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 158,
+    "wordCount": 108,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 16 October 2026Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.",
+        "en": "In the hour following her first WTA title win, Britain's Harriet Dart had little time to respond to the stream of congratulatory messages flashing up on her phone.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 16 October 2026Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 16 October 2026Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC."
+            "en": "In the hour following her first WTA title win, Britain's Harriet Dart had little time to respond to the stream of congratulatory messages flashing up on her phone.",
+            "ko": "실시간 보도 번역: In the hour following her first WTA title win, Britain's Harriet Dart had little time to respond to the stream of congratulatory messages flashing up on her phone."
           }
         ]
       },
       {
-        "en": "Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time.",
+        "en": "Most pressing was making a call to her proud parents, Nick and Susie, who had been watching the final with friends at their local tennis club in north London, and her sister Phoebe.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time.",
-            "ko": "실시간 보도 번역: Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time."
+            "en": "Most pressing was making a call to her proud parents, Nick and Susie, who had been watching the final with friends at their local tennis club in north London, and her sister Phoebe.",
+            "ko": "실시간 보도 번역: Most pressing was making a call to her proud parents, Nick and Susie, who had been watching the final with friends at their local tennis club in north London, and her sister Phoebe."
           }
         ]
       },
       {
-        "en": "The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.",
+        "en": "The next person she spoke to was 2013 Wimbledon champion Marion Bartoli.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.",
-            "ko": "실시간 보도 번역: The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes."
+            "en": "The next person she spoke to was 2013 Wimbledon champion Marion Bartoli.",
+            "ko": "실시간 보도 번역: The next person she spoke to was 2013 Wimbledon champion Marion Bartoli."
           }
         ]
       },
       {
-        "en": "The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
+        "en": "Dart has been coached by the French former world number seven since the start of the season on a part-time basis, and she credits Bartoli for helping her achieve what some thought was beyond her.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
-            "ko": "실시간 보도 번역: The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;."
+            "en": "Dart has been coached by the French former world number seven since the start of the season on a part-time basis, and she credits Bartoli for helping her achieve what some thought was beyond her.",
+            "ko": "실시간 보도 번역: Dart has been coached by the French former world number seven since the start of the season on a part-time basis, and she credits Bartoli for helping her achieve what some thought was beyond her."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Banks expect to be hit with higher taxes in Budget",
+      "글로벌 최신 소식: How Dart revived career with help of Wimbledon champion",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2405,14 +2486,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Banks expect to be hit with higher taxes in Budget",
+          "How Dart revived career with help of Wimbledon champion",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_581939929507749056",
@@ -3134,66 +3217,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_8902414502021265564",
-    "title": "Kartal reaches Wuhan final as dream week continues",
-    "subtitle": "Britain's Sonay Kartal beats former French Open winner Jelena Ostapenko to reach the Wuhan Open final in only her third event afte...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-17",
-    "addedAt": "2026-10-18T02:42:47Z",
-    "category": "sports",
+    "id": "auto_culture_745630970188353041",
+    "title": "Who are the real winners of Celebrity Traitors?",
+    "subtitle": "Certain stars have been tipped by industry experts as getting the biggest career boost after the show....",
+    "speaker": "BBC Arts",
+    "date": "2026-11-01",
+    "addedAt": "2026-11-01T17:31:54Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 160,
+    "wordCount": 81,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal reaches Wuhan final as dream week continuesImage source, Getty ImagesImage caption, Sonay Kartal is the first British player to reach a WTA 1,000 final since Johanna Konta in 2019",
+        "en": "Spoiler warning: This article reveals details from The Celebrity Traitors final",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal reaches Wuhan final as dream week continuesImage source, Getty ImagesImage caption, Sonay Kartal is the first British player to reach a WTA 1,000 final since Johanna Konta in 2019",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal reaches Wuhan final as dream week continuesImage source, Getty ImagesImage caption, Sonay Kartal is the first British player to reach a WTA 1,000 final since Johanna Konta in 2019"
+            "en": "Spoiler warning: This article reveals details from The Celebrity Traitors final",
+            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from The Celebrity Traitors final"
           }
         ]
       },
       {
-        "en": "BBC Sport tennis news reporterPublished17 October 2026Sonay Kartal&#x27;s dream week continued as she beat former Grand Slam champion Jelena Ostapenko at the Wuhan Open to reach the biggest final of her career.",
+        "en": "In some ways, all the players on The Celebrity Traitors can be seen as winners.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC Sport tennis news reporterPublished17 October 2026Sonay Kartal&#x27;s dream week continued as she beat former Grand Slam champion Jelena Ostapenko at the Wuhan Open to reach the biggest final of her career.",
-            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished17 October 2026Sonay Kartal&#x27;s dream week continued as she beat former Grand Slam champion Jelena Ostapenko at the Wuhan Open to reach the biggest final of her career."
+            "en": "In some ways, all the players on The Celebrity Traitors can be seen as winners.",
+            "ko": "실시간 보도 번역: In some ways, all the players on The Celebrity Traitors can be seen as winners."
           }
         ]
       },
       {
-        "en": "British number five Kartal is playing in only her third event since returning from a six-month absence with a back injury, but she now stands one more victory away from a WTA 1,000 title - one of the most prestigious prizes outside of the Grand Slams.",
+        "en": "They all got to appear on a hugely popular TV show, rubbing shoulders with other stars and gaining new fans along the way.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "British number five Kartal is playing in only her third event since returning from a six-month absence with a back injury, but she now stands one more victory away from a WTA 1,000 title - one of the most prestigious prizes outside of the Grand Slams.",
-            "ko": "실시간 보도 번역: British number five Kartal is playing in only her third event since returning from a six-month absence with a back injury, but she now stands one more victory away from a WTA 1,000 title - one of the most prestigious prizes outside of the Grand Slams."
+            "en": "They all got to appear on a hugely popular TV show, rubbing shoulders with other stars and gaining new fans along the way.",
+            "ko": "실시간 보도 번역: They all got to appear on a hugely popular TV show, rubbing shoulders with other stars and gaining new fans along the way."
           }
         ]
       },
       {
-        "en": "The 24-year-old&#x27;s composure helped her secure a 7-6 (11-9) 7-6 (7-5) victory in a pulsating semi-final against Latvia&#x27;s Ostapenko.",
+        "en": "But there are certain celebrities, such as Miranda Hart, King Kenny, Maya Jama and Joanne McNally, who have been tipped by industry experts as getting the biggest career boost after the show.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 24-year-old&#x27;s composure helped her secure a 7-6 (11-9) 7-6 (7-5) victory in a pulsating semi-final against Latvia&#x27;s Ostapenko.",
-            "ko": "실시간 보도 번역: The 24-year-old&#x27;s composure helped her secure a 7-6 (11-9) 7-6 (7-5) victory in a pulsating semi-final against Latvia&#x27;s Ostapenko."
+            "en": "But there are certain celebrities, such as Miranda Hart, King Kenny, Maya Jama and Joanne McNally, who have been tipped by industry experts as getting the biggest career boost after the show.",
+            "ko": "실시간 보도 번역: But there are certain celebrities, such as Miranda Hart, King Kenny, Maya Jama and Joanne McNally, who have been tipped by industry experts as getting the biggest career boost after the show."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Kartal reaches Wuhan final as dream week continues",
+      "글로벌 최신 소식: Who are the real winners of Celebrity Traitors?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3201,16 +3284,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Kartal reaches Wuhan final as dream week continues",
+          "Who are the real winners of Celebrity Traitors?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_598345750955643757",
@@ -3855,83 +3936,6 @@ const READPULSE_ARTICLES = [
     "speaker": "BBC Arts",
     "date": "2026-10-17",
     "addedAt": "2026-10-18T02:42:49Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 135,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMiranda&#x27;s tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity TraitorsImage source, BBC/Studio LambertImage caption, Leigh-Anne offered to make Miranda&#x27;s &quot;dreams come true&quot; by teaching her a Little Mix dance move",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMiranda&#x27;s tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity TraitorsImage source, BBC/Studio LambertImage caption, Leigh-Anne offered to make Miranda&#x27;s &quot;dreams come true&quot; by teaching her a Little Mix dance move",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMiranda&#x27;s tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity TraitorsImage source, BBC/Studio LambertImage caption, Leigh-Anne offered to make Miranda&#x27;s &quot;dreams come true&quot; by teaching her a Little Mix dance move"
-          }
-        ]
-      },
-      {
-        "en": "Spoiler warning: This article reveals details from episode six of The Celebrity Traitors, series two.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Spoiler warning: This article reveals details from episode six of The Celebrity Traitors, series two.",
-            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from episode six of The Celebrity Traitors, series two."
-          }
-        ]
-      },
-      {
-        "en": "For a show that likes to keep participants and viewers on the edges of their seats, gripped by suspense and skullduggery, it was ironic that Friday&#x27;s episode of The Celebrity Traitors came down to which one of its stars would die of boredom.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "For a show that likes to keep participants and viewers on the edges of their seats, gripped by suspense and skullduggery, it was ironic that Friday&#x27;s episode of The Celebrity Traitors came down to which one of its stars would die of boredom.",
-            "ko": "실시간 보도 번역: For a show that likes to keep participants and viewers on the edges of their seats, gripped by suspense and skullduggery, it was ironic that Friday&#x27;s episode of The Celebrity Traitors came down to which one of its stars would die of boredom."
-          }
-        ]
-      },
-      {
-        "en": "The climactic final scene switched between a series of faces as we waited to see which of the famous faithful would... yawn.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The climactic final scene switched between a series of faces as we waited to see which of the famous faithful would...",
-            "ko": "실시간 보도 번역: The climactic final scene switched between a series of faces as we waited to see which of the famous faithful would..."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_475461643427489856",
-    "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
-    "subtitle": "Miranda Hart became emotional and spoke about her health problems as more action unfolded on Friday....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-17",
-    "addedAt": "2026-10-17T14:50:35Z",
     "category": "culture",
     "isLive": true,
     "level": "B2",
