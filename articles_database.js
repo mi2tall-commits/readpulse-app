@@ -791,6 +791,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_343030596159766176",
+    "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+    "subtitle": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys...",
+    "speaker": "BBC Science",
+    "date": "2026-10-31",
+    "addedAt": "2026-11-01T03:55:40Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 84,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Experts praised the discovery as a positive sign for the species future",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Experts praised the discovery as a positive sign for the species future",
+            "ko": "실시간 보도 번역: Experts praised the discovery as a positive sign for the species future"
+          }
+        ]
+      },
+      {
+        "en": "A rare species of beetle has been found in Pembrokeshire after being missing from Wales for 60 years.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "A rare species of beetle has been found in Pembrokeshire after being missing from Wales for 60 years.",
+            "ko": "실시간 보도 번역: A rare species of beetle has been found in Pembrokeshire after being missing from Wales for 60 years."
+          }
+        ]
+      },
+      {
+        "en": "The Short-Necked Oil Beetle are dependent on solitary bees for its lifecycle and need a particular habitat to survive, with thick vegetation for shelter and dense flower coverage both essential.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The Short-Necked Oil Beetle are dependent on solitary bees for its lifecycle and need a particular habitat to survive, with thick vegetation for shelter and dense flower coverage both essential.",
+            "ko": "실시간 보도 번역: The Short-Necked Oil Beetle are dependent on solitary bees for its lifecycle and need a particular habitat to survive, with thick vegetation for shelter and dense flower coverage both essential."
+          }
+        ]
+      },
+      {
+        "en": "They were not reported in the UK for almost 60 years after 1948 as habitat loss brought the species to the brink of extinction.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "They were not reported in the UK for almost 60 years after 1948 as habitat loss brought the species to the brink of extinction.",
+            "ko": "실시간 보도 번역: They were not reported in the UK for almost 60 years after 1948 as habitat loss brought the species to the brink of extinction."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: 'Fascinating' rare beetle found in Wales again after 60 years",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "'Fascinating' rare beetle found in Wales again after 60 years",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_610724310549819744",
     "title": "Bute House protested by environmental campaigners",
     "subtitle": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh....",
@@ -1527,83 +1604,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Avian flu and costs among reasons for loss of captive birds at Castle Espie",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_science_5875112930784662342",
-    "title": "Living with a stink? Technology might help",
-    "subtitle": "Smells from rubbish dumps and industrial facilities are being more carefully monitored....",
-    "speaker": "BBC Science",
-    "date": "2026-10-15",
-    "addedAt": "2026-10-17T02:41:07Z",
-    "category": "science",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 118,
-    "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessLiving with a stink? Technology might helpImage source, The Mercury News via Getty ImagesImage caption, The operators of Newby Island landfill have been ordered to take action over odours",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessLiving with a stink?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessLiving with a stink?"
-          }
-        ]
-      },
-      {
-        "en": "Milpitas, an affluent city in California&#x27;s Silicon Valley tech hub, has an odour problem.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Milpitas, an affluent city in California&#x27;s Silicon Valley tech hub, has an odour problem.",
-            "ko": "실시간 보도 번역: Milpitas, an affluent city in California&#x27;s Silicon Valley tech hub, has an odour problem."
-          }
-        ]
-      },
-      {
-        "en": "For decades, residents have had to endure rank smells wafting from industrial sites, among them a 342-acre landfill.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "For decades, residents have had to endure rank smells wafting from industrial sites, among them a 342-acre landfill.",
-            "ko": "실시간 보도 번역: For decades, residents have had to endure rank smells wafting from industrial sites, among them a 342-acre landfill."
-          }
-        ]
-      },
-      {
-        "en": "&quot;When I first moved here, I could not open my window for over 10 years,&quot; says Chia-Ling Kong, an engineer for a tech firm who lives around half a mile from the dump.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&quot;When I first moved here, I could not open my window for over 10 years,&quot; says Chia-Ling Kong, an engineer for a tech firm who lives around half a mile from the dump.",
-            "ko": "실시간 보도 번역: &quot;When I first moved here, I could not open my window for over 10 years,&quot; says Chia-Ling Kong, an engineer for a tech firm who lives around half a mile from the dump."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Living with a stink? Technology might help",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Living with a stink? Technology might help",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2415,6 +2415,85 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_sports_581939929507749056",
+    "title": "World number one-bound Zverev loses to De Minaur",
+    "subtitle": "Alexander Zverev loses his first match since securing the men's world number one ranking as he suffers a surprise defeat by Alex d...",
+    "speaker": "BBC Tennis",
+    "date": "2026-10-31",
+    "addedAt": "2026-11-01T03:55:43Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 91,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "Alexander Zverev has won the French Open and US Open this year",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Alexander Zverev has won the French Open and US Open this year",
+            "ko": "실시간 보도 번역: Alexander Zverev has won the French Open and US Open this year"
+          }
+        ]
+      },
+      {
+        "en": "Alexander Zverev lost his first match since securing the men's world number one ranking as he suffered a surprise defeat by Alex de Minaur in the semi-finals of the Vienna Open.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Alexander Zverev lost his first match since securing the men's world number one ranking as he suffered a surprise defeat by Alex de Minaur in the semi-finals of the Vienna Open.",
+            "ko": "실시간 보도 번역: Alexander Zverev lost his first match since securing the men's world number one ranking as he suffered a surprise defeat by Alex de Minaur in the semi-finals of the Vienna Open."
+          }
+        ]
+      },
+      {
+        "en": "German top seed Zverev, who will replace Jannik Sinner at the summit of the men's rankings on Monday, lost 4-6 6-1 6-7 (4-7) to the Australian fifth seed.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "German top seed Zverev, who will replace Jannik Sinner at the summit of the men's rankings on Monday, lost 4-6 6-1 6-7 (4-7) to the Australian fifth seed.",
+            "ko": "실시간 보도 번역: German top seed Zverev, who will replace Jannik Sinner at the summit of the men's rankings on Monday, lost 4-6 6-1 6-7 (4-7) to the Australian fifth seed."
+          }
+        ]
+      },
+      {
+        "en": "Victory means 27-year-old De Minaur has leapfrogged Spain's Rafael Jodar in the race to qualify for the season-ending ATP Finals.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Victory means 27-year-old De Minaur has leapfrogged Spain's Rafael Jodar in the race to qualify for the season-ending ATP Finals.",
+            "ko": "실시간 보도 번역: Victory means 27-year-old De Minaur has leapfrogged Spain's Rafael Jodar in the race to qualify for the season-ending ATP Finals."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: World number one-bound Zverev loses to De Minaur",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "World number one-bound Zverev loses to De Minaur",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
+  },
+  {
     "id": "auto_sports_497101800115616476",
     "title": "Briton Dart reaches first WTA Tour singles final",
     "subtitle": "A tearful Harriet Dart said it \"means the world\" to her to qualify for her maiden WTA Tour singles final after battling past to be...",
@@ -3134,66 +3213,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_7864623697551185467",
-    "title": "Kartal reaches Wuhan final as dream week continues",
-    "subtitle": "Britain's Sonay Kartal beats former French Open winner Jelena Ostapenko to reach the Wuhan Open final in only her third event afte...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-17",
-    "addedAt": "2026-10-17T14:50:34Z",
-    "category": "sports",
+    "id": "auto_culture_598345750955643757",
+    "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
+    "subtitle": "The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers....",
+    "speaker": "BBC Arts",
+    "date": "2026-10-31",
+    "addedAt": "2026-11-01T03:55:45Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 165,
+    "wordCount": 81,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal reaches Wuhan final as dream week continuesImage source, Getty ImagesImage caption, Sonay Kartal is the first British player to reach a WTA 1,000 final since Johanna Konta in 2019",
+        "en": "This year's Celebrity Traitors series saw 21 contestants slowly cut down to a final six",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal reaches Wuhan final as dream week continuesImage source, Getty ImagesImage caption, Sonay Kartal is the first British player to reach a WTA 1,000 final since Johanna Konta in 2019",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarKartal reaches Wuhan final as dream week continuesImage source, Getty ImagesImage caption, Sonay Kartal is the first British player to reach a WTA 1,000 final since Johanna Konta in 2019"
+            "en": "This year's Celebrity Traitors series saw 21 contestants slowly cut down to a final six",
+            "ko": "실시간 보도 번역: This year's Celebrity Traitors series saw 21 contestants slowly cut down to a final six"
           }
         ]
       },
       {
-        "en": "BBC Sport tennis news reporterPublished17 October 2026, 12:41 BSTUpdated 16 minutes agoSonay Kartal&#x27;s dream week continued as she beat former Grand Slam champion Jelena Ostapenko at the Wuhan Open to reach the biggest final of her career.",
+        "en": "Spoiler warning: This story reveals details of The Celebrity Traitors final",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC Sport tennis news reporterPublished17 October 2026, 12:41 BSTUpdated 16 minutes agoSonay Kartal&#x27;s dream week continued as she beat former Grand Slam champion Jelena Ostapenko at the Wuhan Open to reach the biggest final of her career.",
-            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished17 October 2026, 12:41 BSTUpdated 16 minutes agoSonay Kartal&#x27;s dream week continued as she beat former Grand Slam champion Jelena Ostapenko at the Wuhan Open to reach the biggest final of her career."
+            "en": "Spoiler warning: This story reveals details of The Celebrity Traitors final",
+            "ko": "실시간 보도 번역: Spoiler warning: This story reveals details of The Celebrity Traitors final"
           }
         ]
       },
       {
-        "en": "British number five Kartal is playing in only her third event since returning from a six-month absence with a back injury, but she now stands one more victory away from a WTA 1,000 title - one of the most prestigious prizes outside of the Grand Slams.",
+        "en": "The winners of Celebrity Traitors have said they are relieved that they no longer need to keep the biggest secret in British TV, as they reunited to celebrate their victory.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "British number five Kartal is playing in only her third event since returning from a six-month absence with a back injury, but she now stands one more victory away from a WTA 1,000 title - one of the most prestigious prizes outside of the Grand Slams.",
-            "ko": "실시간 보도 번역: British number five Kartal is playing in only her third event since returning from a six-month absence with a back injury, but she now stands one more victory away from a WTA 1,000 title - one of the most prestigious prizes outside of the Grand Slams."
+            "en": "The winners of Celebrity Traitors have said they are relieved that they no longer need to keep the biggest secret in British TV, as they reunited to celebrate their victory.",
+            "ko": "실시간 보도 번역: The winners of Celebrity Traitors have said they are relieved that they no longer need to keep the biggest secret in British TV, as they reunited to celebrate their victory."
           }
         ]
       },
       {
-        "en": "The 24-year-old&#x27;s composure helped her secure a 7-6 (11-9) 7-6 (7-5) victory in a pulsating semi-final against Latvia&#x27;s Ostapenko.",
+        "en": "Actor Sebastian Croft and comedian Romesh Ranganathan were the last ones standing, with the two faithfuls splitting the £83,000 prize pot between their chosen charities.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 24-year-old&#x27;s composure helped her secure a 7-6 (11-9) 7-6 (7-5) victory in a pulsating semi-final against Latvia&#x27;s Ostapenko.",
-            "ko": "실시간 보도 번역: The 24-year-old&#x27;s composure helped her secure a 7-6 (11-9) 7-6 (7-5) victory in a pulsating semi-final against Latvia&#x27;s Ostapenko."
+            "en": "Actor Sebastian Croft and comedian Romesh Ranganathan were the last ones standing, with the two faithfuls splitting the £83,000 prize pot between their chosen charities.",
+            "ko": "실시간 보도 번역: Actor Sebastian Croft and comedian Romesh Ranganathan were the last ones standing, with the two faithfuls splitting the £83,000 prize pot between their chosen charities."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Kartal reaches Wuhan final as dream week continues",
+      "글로벌 최신 소식: 'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3201,16 +3280,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Kartal reaches Wuhan final as dream week continues",
+          "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_116930124527095880",
@@ -3917,83 +3994,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_3792763904318554772",
-    "title": "Woman says she was left 'bewildered and confused' by alleged Russell Brand assault",
-    "subtitle": "The 51-year-old faces three counts of rape, three of sexual assault and one of indecent assault, all of which he denies....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-16",
-    "addedAt": "2026-10-17T02:41:11Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 128,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsWoman says she was left &#x27;bewildered and confused&#x27; by alleged Russell Brand assaultImage source, PA MediaImage caption, Russell Brand was pictured outside court on Friday as he arrived for the third day of his trial",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsWoman says she was left &#x27;bewildered and confused&#x27; by alleged Russell Brand assaultImage source, PA MediaImage caption, Russell Brand was pictured outside court on Friday as he arrived for the third day of his trial",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsWoman says she was left &#x27;bewildered and confused&#x27; by alleged Russell Brand assaultImage source, PA MediaImage caption, Russell Brand was pictured outside court on Friday as he arrived for the third day of his trial"
-          }
-        ]
-      },
-      {
-        "en": "A woman who alleges she was indecently assaulted by Russell Brand has told his trial she was left feeling &quot;bewildered and confused&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "A woman who alleges she was indecently assaulted by Russell Brand has told his trial she was left feeling &quot;bewildered and confused&quot;.",
-            "ko": "실시간 보도 번역: A woman who alleges she was indecently assaulted by Russell Brand has told his trial she was left feeling &quot;bewildered and confused&quot;."
-          }
-        ]
-      },
-      {
-        "en": "The woman, who worked at MTV at the time, said the entertainer went from &quot;jovial&quot; to a &quot;wild-eyed maniac&quot; as he attempted, she alleged, to pull her into a toilet.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The woman, who worked at MTV at the time, said the entertainer went from &quot;jovial&quot; to a &quot;wild-eyed maniac&quot; as he attempted, she alleged, to pull her into a toilet.",
-            "ko": "실시간 보도 번역: The woman, who worked at MTV at the time, said the entertainer went from &quot;jovial&quot; to a &quot;wild-eyed maniac&quot; as he attempted, she alleged, to pull her into a toilet."
-          }
-        ]
-      },
-      {
-        "en": "Brand, 51, faces seven charges in the trial - three counts of rape, three charges of sexual assault and one of indecent assault.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Brand, 51, faces seven charges in the trial - three counts of rape, three charges of sexual assault and one of indecent assault.",
-            "ko": "실시간 보도 번역: Brand, 51, faces seven charges in the trial - three counts of rape, three charges of sexual assault and one of indecent assault."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Woman says she was left 'bewildered and confused' by alleged Russell Brand assault",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Woman says she was left 'bewildered and confused' by alleged Russell Brand assault",
           "Historical retrospective",
           "Unrelated general weather"
         ],
