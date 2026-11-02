@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_747405803547292484",
+    "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+    "subtitle": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-02",
+    "addedAt": "2026-11-02T21:18:16Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 97,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers, and raising concern about the vulnerabilities of internet-connected hardware from industrial machinery to humble domestic appliances.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers, and raising concern about the vulnerabilities of internet-connected hardware from industrial machinery to humble domestic appliances.",
+            "ko": "실시간 보도 번역: Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers, and raising concern about the vulnerabilities of internet-connected hardware from industrial machinery to humble domestic appliances."
+          }
+        ]
+      },
+      {
+        "en": "Smart devices which are connected to the internet can include fridges, central heating, and even washing machines.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Smart devices which are connected to the internet can include fridges, central heating, and even washing machines.",
+            "ko": "실시간 보도 번역: Smart devices which are connected to the internet can include fridges, central heating, and even washing machines."
+          }
+        ]
+      },
+      {
+        "en": "And while that makes them easier to control remotely, in theory, any device which goes online can potentially be exploited by malicious actors.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "And while that makes them easier to control remotely, in theory, any device which goes online can potentially be exploited by malicious actors.",
+            "ko": "실시간 보도 번역: And while that makes them easier to control remotely, in theory, any device which goes online can potentially be exploited by malicious actors."
+          }
+        ]
+      },
+      {
+        "en": "However, that doesn't mean hackers can easily take control of it, and big brands generally go to great lengths to make sure their tech is secure.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "However, that doesn't mean hackers can easily take control of it, and big brands generally go to great lengths to make sure their tech is secure.",
+            "ko": "실시간 보도 번역: However, that doesn't mean hackers can easily take control of it, and big brands generally go to great lengths to make sure their tech is secure."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_769404345152372097",
     "title": "Binance users withdraw $3.6bn after record crypto hack",
     "subtitle": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets....",
@@ -717,83 +794,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "No further action against government adviser's wife over Palestine Action post, police say",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_tech_2909883433760644382",
-    "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-    "subtitle": "The Australian government hopes to protect social media users from being served content they don't want to see....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-16",
-    "addedAt": "2026-10-17T14:50:32Z",
-    "category": "tech",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 90,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastToxic algorithms wouldn&#x27;t let them go - now Australia wants an off switchTo play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastToxic algorithms wouldn&#x27;t let them go - now Australia wants an off switchTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastToxic algorithms wouldn&#x27;t let them go - now Australia wants an off switchTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Watch: Many social platforms already have following-only feeds - here&#x27;s how they work",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Watch: Many social platforms already have following-only feeds - here&#x27;s how they work",
-            "ko": "실시간 보도 번역: Watch: Many social platforms already have following-only feeds - here&#x27;s how they work"
-          }
-        ]
-      },
-      {
-        "en": "Warning: This article contains an account of living with an eating disorder",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Warning: This article contains an account of living with an eating disorder",
-            "ko": "실시간 보도 번역: Warning: This article contains an account of living with an eating disorder"
-          }
-        ]
-      },
-      {
-        "en": "Varsha Yajman was already self-conscious about the way she looked when she joined social media as a 13-year-old.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Varsha Yajman was already self-conscious about the way she looked when she joined social media as a 13-year-old.",
-            "ko": "실시간 보도 번역: Varsha Yajman was already self-conscious about the way she looked when she joined social media as a 13-year-old."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1625,6 +1625,91 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_303457078805407308",
+    "title": "Ryanair says it may freeze workers' pay and raise airfares",
+    "subtitle": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran....",
+    "speaker": "BBC Business",
+    "date": "2026-11-02",
+    "addedAt": "2026-11-02T21:18:16Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 120,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Ryanair is considering a temporary wage freeze for staff and confirmed airfares will be \"materially higher\" next summer because of a sharp rise in fuel costs following the US-Israel war with Iran.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Ryanair is considering a temporary wage freeze for staff and confirmed airfares will be \"materially higher\" next summer because of a sharp rise in fuel costs following the US-Israel war with Iran.",
+            "ko": "실시간 보도 번역: Ryanair is considering a temporary wage freeze for staff and confirmed airfares will be \"materially higher\" next summer because of a sharp rise in fuel costs following the US-Israel war with Iran."
+          }
+        ]
+      },
+      {
+        "en": "The airline said it expects fuel prices to remain high \"well into 2027\" unless there is a \"swift resolution\" to the conflict.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The airline said it expects fuel prices to remain high \"well into 2027\" unless there is a \"swift resolution\" to the conflict.",
+            "ko": "실시간 보도 번역: The airline said it expects fuel prices to remain high \"well into 2027\" unless there is a \"swift resolution\" to the conflict."
+          }
+        ]
+      },
+      {
+        "en": "Ryanair said its fuel bill is forecast to be €2bn (£1.6bn) higher in the short-term and its boss, Michael O'Leary, said airfares would have to rise by \"double-digits\" to help cover the cost.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Ryanair said its fuel bill is forecast to be €2bn (£1.",
+            "ko": "실시간 보도 번역: Ryanair said its fuel bill is forecast to be €2bn (£1."
+          },
+          {
+            "en": "6bn) higher in the short-term and its boss, Michael O'Leary, said airfares would have to rise by \"double-digits\" to help cover the cost.",
+            "ko": "실시간 보도 번역: 6bn) higher in the short-term and its boss, Michael O'Leary, said airfares would have to rise by \"double-digits\" to help cover the cost."
+          }
+        ]
+      },
+      {
+        "en": "But the firm said that was unlikely to be enough and it is looking into pay freezes. Unite, the union representing Ryanair staff, said it had not been told of \"any such proposals\".",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "But the firm said that was unlikely to be enough and it is looking into pay freezes.",
+            "ko": "실시간 보도 번역: But the firm said that was unlikely to be enough and it is looking into pay freezes."
+          },
+          {
+            "en": "Unite, the union representing Ryanair staff, said it had not been told of \"any such proposals\".",
+            "ko": "실시간 보도 번역: Unite, the union representing Ryanair staff, said it had not been told of \"any such proposals\"."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Ryanair says it may freeze workers' pay and raise airfares",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Ryanair says it may freeze workers' pay and raise airfares",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_769404345152372097",
     "title": "Binance users withdraw $3.6bn after record crypto hack",
     "subtitle": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets....",
@@ -2366,66 +2451,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_6761255490123097875",
-    "title": "Banks expect to be hit with higher taxes in Budget",
-    "subtitle": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month....",
-    "speaker": "BBC Business",
-    "date": "2026-10-16",
-    "addedAt": "2026-10-18T02:42:47Z",
-    "category": "economy",
+    "id": "auto_sports_943089883262399536",
+    "title": "Can Alcaraz's ex-coach help Shelton challenge his former protege?",
+    "subtitle": "US Open runner-up Ben Shelton joins forces with Juan Carlos Ferrer, the former coach of Carlos Alcaraz - BBC Sport analyses why th...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-02",
+    "addedAt": "2026-11-02T21:18:17Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 158,
+    "wordCount": 106,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 16 October 2026Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.",
+        "en": "Juan Carlos Ferrero helped Carlos Alcaraz win six Grand Slam titles before they split at the end of 2025",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 16 October 2026Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 16 October 2026Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC."
+            "en": "Juan Carlos Ferrero helped Carlos Alcaraz win six Grand Slam titles before they split at the end of 2025",
+            "ko": "실시간 보도 번역: Juan Carlos Ferrero helped Carlos Alcaraz win six Grand Slam titles before they split at the end of 2025"
           }
         ]
       },
       {
-        "en": "Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time.",
+        "en": "Ben Shelton's name rarely cropped up when Juan Carlos Ferrero - the former world number one who nurtured Carlos Alcaraz to stardom - teased he was going to coach a new player.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time.",
-            "ko": "실시간 보도 번역: Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time."
+            "en": "Ben Shelton's name rarely cropped up when Juan Carlos Ferrero - the former world number one who nurtured Carlos Alcaraz to stardom - teased he was going to coach a new player.",
+            "ko": "실시간 보도 번역: Ben Shelton's name rarely cropped up when Juan Carlos Ferrero - the former world number one who nurtured Carlos Alcaraz to stardom - teased he was going to coach a new player."
           }
         ]
       },
       {
-        "en": "The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.",
+        "en": "For US Open runner-up Shelton, it is an opportunity to tap into a mind that knows how to win major titles and has the inside track on the world's very best.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.",
-            "ko": "실시간 보도 번역: The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes."
+            "en": "For US Open runner-up Shelton, it is an opportunity to tap into a mind that knows how to win major titles and has the inside track on the world's very best.",
+            "ko": "실시간 보도 번역: For US Open runner-up Shelton, it is an opportunity to tap into a mind that knows how to win major titles and has the inside track on the world's very best."
           }
         ]
       },
       {
-        "en": "The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
+        "en": "Ferrero started working with Alcaraz when he was 15, turning his fellow Spaniard from a \"piece of spaghetti\" into a seven-time Grand Slam champion.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
-            "ko": "실시간 보도 번역: The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;."
+            "en": "Ferrero started working with Alcaraz when he was 15, turning his fellow Spaniard from a \"piece of spaghetti\" into a seven-time Grand Slam champion.",
+            "ko": "실시간 보도 번역: Ferrero started working with Alcaraz when he was 15, turning his fellow Spaniard from a \"piece of spaghetti\" into a seven-time Grand Slam champion."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Banks expect to be hit with higher taxes in Budget",
+      "글로벌 최신 소식: Can Alcaraz's ex-coach help Shelton challenge his former protege?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2433,14 +2518,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Banks expect to be hit with higher taxes in Budget",
+          "Can Alcaraz's ex-coach help Shelton challenge his former protege?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_1139518326533140129",
@@ -3162,66 +3249,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_4668303762050684727",
-    "title": "Britain's Kartal misses out on biggest title of her career",
-    "subtitle": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska....",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-18",
-    "addedAt": "2026-10-18T15:15:49Z",
-    "category": "sports",
+    "id": "auto_culture_202239956778713117",
+    "title": "Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
+    "subtitle": "Brand's defence barrister told jurors that Brand \"had an immense amount of sex\", but that \"none of it was unlawful\"....",
+    "speaker": "BBC Arts",
+    "date": "2026-11-02",
+    "addedAt": "2026-11-02T21:18:18Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 153,
+    "wordCount": 118,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBritain&#x27;s Kartal misses out on biggest title of her careerImage source, Getty ImagesImage caption, Sonay Kartal will become the British number one when the WTA rankings are released on Monday",
+        "en": "Journalists \"poisoned the well of justice\" by prompting complainants to come forward and make criminal allegations against Russell Brand, jurors have heard.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBritain&#x27;s Kartal misses out on biggest title of her careerImage source, Getty ImagesImage caption, Sonay Kartal will become the British number one when the WTA rankings are released on Monday",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBritain&#x27;s Kartal misses out on biggest title of her careerImage source, Getty ImagesImage caption, Sonay Kartal will become the British number one when the WTA rankings are released on Monday"
+            "en": "Journalists \"poisoned the well of justice\" by prompting complainants to come forward and make criminal allegations against Russell Brand, jurors have heard.",
+            "ko": "실시간 보도 번역: Journalists \"poisoned the well of justice\" by prompting complainants to come forward and make criminal allegations against Russell Brand, jurors have heard."
           }
         ]
       },
       {
-        "en": "BBC Sport tennis news reporterPublished1 hour agoBritain&#x27;s Sonay Kartal missed out on what would have been the biggest title of her career as she faded in a gripping Wuhan Open final against French Open runner-up Maja Chwalinska.",
+        "en": "In his closing speech on Monday, Ian Winter KC, Brand's defence barrister, said a Channel 4 documentary and stories in the Times and Sunday Times that made allegations about Brand in 2023 \"caused people who had not previously considered for it to be appropriate to bring criminal allegations against him, to do so, and very many years after.\"",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC Sport tennis news reporterPublished1 hour agoBritain&#x27;s Sonay Kartal missed out on what would have been the biggest title of her career as she faded in a gripping Wuhan Open final against French Open runner-up Maja Chwalinska.",
-            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished1 hour agoBritain&#x27;s Sonay Kartal missed out on what would have been the biggest title of her career as she faded in a gripping Wuhan Open final against French Open runner-up Maja Chwalinska."
+            "en": "In his closing speech on Monday, Ian Winter KC, Brand's defence barrister, said a Channel 4 documentary and stories in the Times and Sunday Times that made allegations about Brand in 2023 \"caused people who had not previously considered for it to be appropriate to bring criminal allegations against him, to do so, and very many years after.",
+            "ko": "실시간 보도 번역: In his closing speech on Monday, Ian Winter KC, Brand's defence barrister, said a Channel 4 documentary and stories in the Times and Sunday Times that made allegations about Brand in 2023 \"caused people who had not previously considered for it to be appropriate to bring criminal allegations against him, to do so, and very many years after."
           }
         ]
       },
       {
-        "en": "Kartal, 24, was bidding to lift the trophy in only her third event since returning from a six-month absence caused by a back injury.",
+        "en": "Brand faces seven counts; three counts of rape, three charges of sexual assault and one allegation of attempted indecent assault.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Kartal, 24, was bidding to lift the trophy in only her third event since returning from a six-month absence caused by a back injury.",
-            "ko": "실시간 보도 번역: Kartal, 24, was bidding to lift the trophy in only her third event since returning from a six-month absence caused by a back injury."
+            "en": "Brand faces seven counts; three counts of rape, three charges of sexual assault and one allegation of attempted indecent assault.",
+            "ko": "실시간 보도 번역: Brand faces seven counts; three counts of rape, three charges of sexual assault and one allegation of attempted indecent assault."
           }
         ]
       },
       {
-        "en": "But an extraordinary week in China seemed to catch up with Kartal as she ran out of steam - physically and mentally - in a 2-6 6-4 6-2 defeat.",
+        "en": "On Monday at Southwark Crown Court, Winter told jurors that \"living a highly promiscuous life is entirely lawful\".",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But an extraordinary week in China seemed to catch up with Kartal as she ran out of steam - physically and mentally - in a 2-6 6-4 6-2 defeat.",
-            "ko": "실시간 보도 번역: But an extraordinary week in China seemed to catch up with Kartal as she ran out of steam - physically and mentally - in a 2-6 6-4 6-2 defeat."
+            "en": "On Monday at Southwark Crown Court, Winter told jurors that \"living a highly promiscuous life is entirely lawful\".",
+            "ko": "실시간 보도 번역: On Monday at Southwark Crown Court, Winter told jurors that \"living a highly promiscuous life is entirely lawful\"."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Britain's Kartal misses out on biggest title of her career",
+      "글로벌 최신 소식: Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3229,16 +3316,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Britain's Kartal misses out on biggest title of her career",
+          "Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_745630970188353041",
@@ -3945,83 +4030,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Making murder fun: How the Traitors' soundtrack sets the tone",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_1420734370777565410",
-    "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
-    "subtitle": "Miranda Hart became emotional and spoke about her health problems as more action unfolded on Friday....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-17",
-    "addedAt": "2026-10-18T02:42:49Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 135,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMiranda&#x27;s tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity TraitorsImage source, BBC/Studio LambertImage caption, Leigh-Anne offered to make Miranda&#x27;s &quot;dreams come true&quot; by teaching her a Little Mix dance move",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMiranda&#x27;s tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity TraitorsImage source, BBC/Studio LambertImage caption, Leigh-Anne offered to make Miranda&#x27;s &quot;dreams come true&quot; by teaching her a Little Mix dance move",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMiranda&#x27;s tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity TraitorsImage source, BBC/Studio LambertImage caption, Leigh-Anne offered to make Miranda&#x27;s &quot;dreams come true&quot; by teaching her a Little Mix dance move"
-          }
-        ]
-      },
-      {
-        "en": "Spoiler warning: This article reveals details from episode six of The Celebrity Traitors, series two.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Spoiler warning: This article reveals details from episode six of The Celebrity Traitors, series two.",
-            "ko": "실시간 보도 번역: Spoiler warning: This article reveals details from episode six of The Celebrity Traitors, series two."
-          }
-        ]
-      },
-      {
-        "en": "For a show that likes to keep participants and viewers on the edges of their seats, gripped by suspense and skullduggery, it was ironic that Friday&#x27;s episode of The Celebrity Traitors came down to which one of its stars would die of boredom.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "For a show that likes to keep participants and viewers on the edges of their seats, gripped by suspense and skullduggery, it was ironic that Friday&#x27;s episode of The Celebrity Traitors came down to which one of its stars would die of boredom.",
-            "ko": "실시간 보도 번역: For a show that likes to keep participants and viewers on the edges of their seats, gripped by suspense and skullduggery, it was ironic that Friday&#x27;s episode of The Celebrity Traitors came down to which one of its stars would die of boredom."
-          }
-        ]
-      },
-      {
-        "en": "The climactic final scene switched between a series of faces as we waited to see which of the famous faithful would... yawn.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The climactic final scene switched between a series of faces as we waited to see which of the famous faithful would...",
-            "ko": "실시간 보도 번역: The climactic final scene switched between a series of faces as we waited to see which of the famous faithful would..."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
           "Historical retrospective",
           "Unrelated general weather"
         ],
