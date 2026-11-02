@@ -1,6 +1,95 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_769404345152372097",
+    "title": "Binance users withdraw $3.6bn after record crypto hack",
+    "subtitle": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-02",
+    "addedAt": "2026-11-02T03:58:59Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 112,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Binance customers withdrew $3.64bn (£2.72bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Binance customers withdrew $3.",
+            "ko": "실시간 보도 번역: Binance customers withdrew $3."
+          },
+          {
+            "en": "72bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.",
+            "ko": "실시간 보도 번역: 72bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week."
+          }
+        ]
+      },
+      {
+        "en": "The firm suspended all transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The firm suspended all transactions in the wake of the incident, which impacted $6.",
+            "ko": "실시간 보도 번역: The firm suspended all transactions in the wake of the incident, which impacted $6."
+          },
+          {
+            "en": "3bn worth of digital assets.",
+            "ko": "실시간 보도 번역: 3bn worth of digital assets."
+          }
+        ]
+      },
+      {
+        "en": "Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack, which is said to be the largest hack in history.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack, which is said to be the largest hack in history.",
+            "ko": "실시간 보도 번역: Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack, which is said to be the largest hack in history."
+          }
+        ]
+      },
+      {
+        "en": "The company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source. Binance has repeatedly said it would cover all of the losses linked to the attack.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source.",
+            "ko": "실시간 보도 번역: The company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source."
+          },
+          {
+            "en": "Binance has repeatedly said it would cover all of the losses linked to the attack.",
+            "ko": "실시간 보도 번역: Binance has repeatedly said it would cover all of the losses linked to the attack."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Binance users withdraw $3.6bn after record crypto hack",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Binance users withdraw $3.6bn after record crypto hack",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_389413056981487724",
     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
     "subtitle": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become....",
@@ -643,83 +732,6 @@ const READPULSE_ARTICLES = [
     "speaker": "BBC Technology",
     "date": "2026-10-16",
     "addedAt": "2026-10-17T14:50:32Z",
-    "category": "tech",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 90,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastToxic algorithms wouldn&#x27;t let them go - now Australia wants an off switchTo play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastToxic algorithms wouldn&#x27;t let them go - now Australia wants an off switchTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastToxic algorithms wouldn&#x27;t let them go - now Australia wants an off switchTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Watch: Many social platforms already have following-only feeds - here&#x27;s how they work",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Watch: Many social platforms already have following-only feeds - here&#x27;s how they work",
-            "ko": "실시간 보도 번역: Watch: Many social platforms already have following-only feeds - here&#x27;s how they work"
-          }
-        ]
-      },
-      {
-        "en": "Warning: This article contains an account of living with an eating disorder",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Warning: This article contains an account of living with an eating disorder",
-            "ko": "실시간 보도 번역: Warning: This article contains an account of living with an eating disorder"
-          }
-        ]
-      },
-      {
-        "en": "Varsha Yajman was already self-conscious about the way she looked when she joined social media as a 13-year-old.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Varsha Yajman was already self-conscious about the way she looked when she joined social media as a 13-year-old.",
-            "ko": "실시간 보도 번역: Varsha Yajman was already self-conscious about the way she looked when she joined social media as a 13-year-old."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_tech_4064328779780722970",
-    "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-    "subtitle": "Australia has proposed a switch to force social media platforms to let users turn off recommended content....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-16",
-    "addedAt": "2026-10-17T02:41:06Z",
     "category": "tech",
     "isLive": true,
     "level": "B2",
@@ -1613,6 +1625,95 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_769404345152372097",
+    "title": "Binance users withdraw $3.6bn after record crypto hack",
+    "subtitle": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets....",
+    "speaker": "BBC Business",
+    "date": "2026-11-02",
+    "addedAt": "2026-11-02T03:59:00Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 112,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Binance customers withdrew $3.64bn (£2.72bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Binance customers withdrew $3.",
+            "ko": "실시간 보도 번역: Binance customers withdrew $3."
+          },
+          {
+            "en": "72bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.",
+            "ko": "실시간 보도 번역: 72bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week."
+          }
+        ]
+      },
+      {
+        "en": "The firm suspended all transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The firm suspended all transactions in the wake of the incident, which impacted $6.",
+            "ko": "실시간 보도 번역: The firm suspended all transactions in the wake of the incident, which impacted $6."
+          },
+          {
+            "en": "3bn worth of digital assets.",
+            "ko": "실시간 보도 번역: 3bn worth of digital assets."
+          }
+        ]
+      },
+      {
+        "en": "Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack, which is said to be the largest hack in history.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack, which is said to be the largest hack in history.",
+            "ko": "실시간 보도 번역: Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack, which is said to be the largest hack in history."
+          }
+        ]
+      },
+      {
+        "en": "The company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source. Binance has repeatedly said it would cover all of the losses linked to the attack.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source.",
+            "ko": "실시간 보도 번역: The company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source."
+          },
+          {
+            "en": "Binance has repeatedly said it would cover all of the losses linked to the attack.",
+            "ko": "실시간 보도 번역: Binance has repeatedly said it would cover all of the losses linked to the attack."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Binance users withdraw $3.6bn after record crypto hack",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Binance users withdraw $3.6bn after record crypto hack",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_82938675263254876",
     "title": "Thousands of jobs at Virgin Media O2 to be cut",
     "subtitle": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, t...",
@@ -2271,83 +2372,6 @@ const READPULSE_ARTICLES = [
     "speaker": "BBC Business",
     "date": "2026-10-16",
     "addedAt": "2026-10-18T02:42:47Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 158,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 16 October 2026Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 16 October 2026Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBanks expect to be hit with higher taxes in BudgetImage source, ReutersBySimon JackBusiness editorPublished15 October 2026Updated 16 October 2026Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC."
-          }
-        ]
-      },
-      {
-        "en": "Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time.",
-            "ko": "실시간 보도 번역: Healey has described banks as part of &quot;the crown jewels&quot; of the UK economy, but leaders in the sector have said it will be &quot;on the menu&quot; at the Budget in two weeks&#x27; time."
-          }
-        ]
-      },
-      {
-        "en": "The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.",
-            "ko": "실시간 보도 번역: The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes."
-          }
-        ]
-      },
-      {
-        "en": "The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;.",
-            "ko": "실시간 보도 번역: The trade body for the banking sector, UK Finance, warned &quot;further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government&#x27;s ambition to deliver growth in every postcode&quot;."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Banks expect to be hit with higher taxes in Budget",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Banks expect to be hit with higher taxes in Budget",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_4968856808446901585",
-    "title": "Banks expect to be hit with higher taxes in Budget",
-    "subtitle": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month....",
-    "speaker": "BBC Business",
-    "date": "2026-10-16",
-    "addedAt": "2026-10-17T14:50:33Z",
     "category": "economy",
     "isLive": true,
     "level": "B2",
