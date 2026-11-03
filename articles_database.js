@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_533502013169604182",
+    "title": "North Korea denies being behind record $6.3bn Binance hack",
+    "subtitle": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-03",
+    "addedAt": "2026-11-03T05:00:37Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 114,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "North Korea has denied claims that it was behind the record $6.3bn (£4.7bn) hack of cryptocurrency exchange Binance, calling the allegations \"absurd rhetoric\".",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "North Korea has denied claims that it was behind the record $6.",
+            "ko": "실시간 보도 번역: North Korea has denied claims that it was behind the record $6."
+          },
+          {
+            "en": "7bn) hack of cryptocurrency exchange Binance, calling the allegations \"absurd rhetoric\".",
+            "ko": "실시간 보도 번역: 7bn) hack of cryptocurrency exchange Binance, calling the allegations \"absurd rhetoric\"."
+          }
+        ]
+      },
+      {
+        "en": "Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image.",
+            "ko": "실시간 보도 번역: Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image."
+          }
+        ]
+      },
+      {
+        "en": "The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history.",
+            "ko": "실시간 보도 번역: The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history."
+          }
+        ]
+      },
+      {
+        "en": "This is the latest hack to be linked to North Korea, which has been accused of relying on cyber-crime to help finance its sanctioned economy.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "This is the latest hack to be linked to North Korea, which has been accused of relying on cyber-crime to help finance its sanctioned economy.",
+            "ko": "실시간 보도 번역: This is the latest hack to be linked to North Korea, which has been accused of relying on cyber-crime to help finance its sanctioned economy."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: North Korea denies being behind record $6.3bn Binance hack",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "North Korea denies being behind record $6.3bn Binance hack",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_747405803547292484",
     "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
     "subtitle": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges....",
@@ -726,66 +807,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_7546234541995695519",
-    "title": "No further action against government adviser's wife over Palestine Action post, police say",
-    "subtitle": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-17",
-    "addedAt": "2026-10-18T02:42:46Z",
-    "category": "tech",
+    "id": "auto_science_173963644009380764",
+    "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+    "subtitle": "The men and women who rummage through commercial bins to take clothes and other items....",
+    "speaker": "BBC Science",
+    "date": "2026-11-03",
+    "addedAt": "2026-11-03T05:00:38Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 145,
+    "wordCount": 96,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNo further action against government adviser&#x27;s wife over Palestine Action post, police sayImage source, PA MediaByNeil MurphyPublished6 hours agoPolice say no further action will be taken against the wife of the government&#x27;s national security adviser after she posted on social media referencing Palestine Action.",
+        "en": "Darryl Baker was shocked to see piles of clothes dumped beside the recycling bins outside her local supermarket.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNo further action against government adviser&#x27;s wife over Palestine Action post, police sayImage source, PA MediaByNeil MurphyPublished6 hours agoPolice say no further action will be taken against the wife of the government&#x27;s national security adviser after she posted on social media referencing Palestine Action.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNo further action against government adviser&#x27;s wife over Palestine Action post, police sayImage source, PA MediaByNeil MurphyPublished6 hours agoPolice say no further action will be taken against the wife of the government&#x27;s national security adviser after she posted on social media referencing Palestine Action."
+            "en": "Darryl Baker was shocked to see piles of clothes dumped beside the recycling bins outside her local supermarket.",
+            "ko": "실시간 보도 번역: Darryl Baker was shocked to see piles of clothes dumped beside the recycling bins outside her local supermarket."
           }
         ]
       },
       {
-        "en": "Sarah Helm, who is married to Jonathan Powell, wrote on X on Thursday: &quot;God help us authors who support Palestine and Palestine Action.&quot;",
+        "en": "On several trips to the dumpsters she has also found a host of other items, such as \"a perfectly decent\" Ikea picture frame and children's scooters.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Sarah Helm, who is married to Jonathan Powell, wrote on X on Thursday: &quot;God help us authors who support Palestine and Palestine Action.",
-            "ko": "실시간 보도 번역: Sarah Helm, who is married to Jonathan Powell, wrote on X on Thursday: &quot;God help us authors who support Palestine and Palestine Action."
+            "en": "On several trips to the dumpsters she has also found a host of other items, such as \"a perfectly decent\" Ikea picture frame and children's scooters.",
+            "ko": "실시간 보도 번역: On several trips to the dumpsters she has also found a host of other items, such as \"a perfectly decent\" Ikea picture frame and children's scooters."
           }
         ]
       },
       {
-        "en": "She was responding to a discussion about the author Sally Rooney, whose novels will not be supplied to booksellers in the UK following her announcement that she intends to use her royalties to support the proscribed organisation.",
+        "en": "Always on the lookout for ways to save money and appalled by the waste, the thrifty mother-of-two from north London asked supermarket staff if she could take some of it.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "She was responding to a discussion about the author Sally Rooney, whose novels will not be supplied to booksellers in the UK following her announcement that she intends to use her royalties to support the proscribed organisation.",
-            "ko": "실시간 보도 번역: She was responding to a discussion about the author Sally Rooney, whose novels will not be supplied to booksellers in the UK following her announcement that she intends to use her royalties to support the proscribed organisation."
+            "en": "Always on the lookout for ways to save money and appalled by the waste, the thrifty mother-of-two from north London asked supermarket staff if she could take some of it.",
+            "ko": "실시간 보도 번역: Always on the lookout for ways to save money and appalled by the waste, the thrifty mother-of-two from north London asked supermarket staff if she could take some of it."
           }
         ]
       },
       {
-        "en": "On Saturday, the Metropolitan Police said Helm&#x27;s post was &quot;assessed by specialist officers and it was determined that it did not meet the criminal threshold&quot;.",
+        "en": "Permission granted, \"I got my children entire new wardrobes,\" says Darryl, 39, adding that she's stuff put away for years to come.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "On Saturday, the Metropolitan Police said Helm&#x27;s post was &quot;assessed by specialist officers and it was determined that it did not meet the criminal threshold&quot;.",
-            "ko": "실시간 보도 번역: On Saturday, the Metropolitan Police said Helm&#x27;s post was &quot;assessed by specialist officers and it was determined that it did not meet the criminal threshold&quot;."
+            "en": "Permission granted, \"I got my children entire new wardrobes,\" says Darryl, 39, adding that she's stuff put away for years to come.",
+            "ko": "실시간 보도 번역: Permission granted, \"I got my children entire new wardrobes,\" says Darryl, 39, adding that she's stuff put away for years to come."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: No further action against government adviser's wife over Palestine Action post, police say",
+      "글로벌 최신 소식: From scooters to shampoo - the people saving hundreds from dumpster diving",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -793,7 +874,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "No further action against government adviser's wife over Palestine Action post, police say",
+          "From scooters to shampoo - the people saving hundreds from dumpster diving",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1548,66 +1629,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_6055460808020166005",
-    "title": "Avian flu and costs among reasons for loss of captive birds at Castle Espie",
-    "subtitle": "Difficulties in transporting animals since Brexit has contributed to the decline in the number of captive birds....",
-    "speaker": "BBC Science",
-    "date": "2026-10-17",
-    "addedAt": "2026-10-17T14:50:33Z",
-    "category": "science",
+    "id": "auto_economy_435312516341209631",
+    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "subtitle": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far....",
+    "speaker": "BBC Business",
+    "date": "2026-11-03",
+    "addedAt": "2026-11-03T05:00:39Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 101,
+    "wordCount": 119,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Avian flu, cost-cutting and Brexit are among the reasons behind the transfer of captive birds from one of Northern Ireland&#x27;s best-known wildlife sites, according to the charity that runs it.",
+        "en": "The UK and EU have agreed a draft deal on removing post-Brexit checks from food and agriculture exports, ahead of the UK-EU summit later this month.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Avian flu, cost-cutting and Brexit are among the reasons behind the transfer of captive birds from one of Northern Ireland&#x27;s best-known wildlife sites, according to the charity that runs it.",
-            "ko": "실시간 보도 번역: Avian flu, cost-cutting and Brexit are among the reasons behind the transfer of captive birds from one of Northern Ireland&#x27;s best-known wildlife sites, according to the charity that runs it."
+            "en": "The UK and EU have agreed a draft deal on removing post-Brexit checks from food and agriculture exports, ahead of the UK-EU summit later this month.",
+            "ko": "실시간 보도 번역: The UK and EU have agreed a draft deal on removing post-Brexit checks from food and agriculture exports, ahead of the UK-EU summit later this month."
           }
         ]
       },
       {
-        "en": "Director of Operations at Wildfowl and Wetlands Trust (WWT) Alex Lane said avian influenza, as well as difficulties in transporting birds since Brexit, has contributed to the decline in the number of captive birds at Castle Espie.",
+        "en": "The BBC understands the 200-page draft text for this so called \"SPS\" [sanitary and phytosanitary] agreement has been circulated to EU nations in Brussels for consideration at a meeting on Wednesday.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Director of Operations at Wildfowl and Wetlands Trust (WWT) Alex Lane said avian influenza, as well as difficulties in transporting birds since Brexit, has contributed to the decline in the number of captive birds at Castle Espie.",
-            "ko": "실시간 보도 번역: Director of Operations at Wildfowl and Wetlands Trust (WWT) Alex Lane said avian influenza, as well as difficulties in transporting birds since Brexit, has contributed to the decline in the number of captive birds at Castle Espie."
+            "en": "The BBC understands the 200-page draft text for this so called \"SPS\" [sanitary and phytosanitary] agreement has been circulated to EU nations in Brussels for consideration at a meeting on Wednesday.",
+            "ko": "실시간 보도 번역: The BBC understands the 200-page draft text for this so called \"SPS\" [sanitary and phytosanitary] agreement has been circulated to EU nations in Brussels for consideration at a meeting on Wednesday."
           }
         ]
       },
       {
-        "en": "The closure of both the site&#x27;s captive bird programme and guided school tour programme is part of wider WWT cost-cutting measures.",
+        "en": "Similar texts for deals on emissions trading and a youth travel and work scheme have also been circulated alongside a 15-page draft joint statement for UK and EU top leaders.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The closure of both the site&#x27;s captive bird programme and guided school tour programme is part of wider WWT cost-cutting measures.",
-            "ko": "실시간 보도 번역: The closure of both the site&#x27;s captive bird programme and guided school tour programme is part of wider WWT cost-cutting measures."
+            "en": "Similar texts for deals on emissions trading and a youth travel and work scheme have also been circulated alongside a 15-page draft joint statement for UK and EU top leaders.",
+            "ko": "실시간 보도 번역: Similar texts for deals on emissions trading and a youth travel and work scheme have also been circulated alongside a 15-page draft joint statement for UK and EU top leaders."
           }
         ]
       },
       {
-        "en": "An Assembly member has described the changes to the education offering as &quot;disappointing&quot;.",
+        "en": "The food deal is the most significant part of the so-called Brexit reset agreed so far, removing checks and red tape that hit exporters after the UK exited the EU's single market.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "An Assembly member has described the changes to the education offering as &quot;disappointing&quot;.",
-            "ko": "실시간 보도 번역: An Assembly member has described the changes to the education offering as &quot;disappointing&quot;."
+            "en": "The food deal is the most significant part of the so-called Brexit reset agreed so far, removing checks and red tape that hit exporters after the UK exited the EU's single market.",
+            "ko": "실시간 보도 번역: The food deal is the most significant part of the so-called Brexit reset agreed so far, removing checks and red tape that hit exporters after the UK exited the EU's single market."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Avian flu and costs among reasons for loss of captive birds at Castle Espie",
+      "글로벌 최신 소식: UK and EU agree draft deal to scrap Brexit red tape over food exports",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1615,7 +1696,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Avian flu and costs among reasons for loss of captive birds at Castle Espie",
+          "UK and EU agree draft deal to scrap Brexit red tape over food exports",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2353,95 +2434,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Microsoft pulls out of UK's largest AI data centre",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_2336889282707206072",
-    "title": "There's a crackdown on sports piracy - but is it already out of control?",
-    "subtitle": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leg...",
-    "speaker": "BBC Business",
-    "date": "2026-10-18",
-    "addedAt": "2026-10-18T15:15:49Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 128,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThere&#x27;s a crackdown on sports piracy - but is it already out of control?",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThere&#x27;s a crackdown on sports piracy - but is it already out of control?",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatThere&#x27;s a crackdown on sports piracy - but is it already out of control?"
-          }
-        ]
-      },
-      {
-        "en": "Image source, Getty ImagesByTheo LeggettInternational Business Correspondent&quot;Football&#x27;s Gone Round the Spend!&quot; screamed The People newspaper one Sunday in July 1995. It reported breathlessly that three clubs between them were set to pay out more than £20m on new players.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Image source, Getty ImagesByTheo LeggettInternational Business Correspondent&quot;Football&#x27;s Gone Round the Spend!",
-            "ko": "실시간 보도 번역: Image source, Getty ImagesByTheo LeggettInternational Business Correspondent&quot;Football&#x27;s Gone Round the Spend!"
-          },
-          {
-            "en": "&quot; screamed The People newspaper one Sunday in July 1995.",
-            "ko": "실시간 보도 번역: &quot; screamed The People newspaper one Sunday in July 1995."
-          },
-          {
-            "en": "It reported breathlessly that three clubs between them were set to pay out more than £20m on new players.",
-            "ko": "실시간 보도 번역: It reported breathlessly that three clubs between them were set to pay out more than £20m on new players."
-          }
-        ]
-      },
-      {
-        "en": "The highlight that summer was the transfer of Stan Collymore from Nottingham Forest to Liverpool for a British record fee of £8.5m.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The highlight that summer was the transfer of Stan Collymore from Nottingham Forest to Liverpool for a British record fee of £8.",
-            "ko": "실시간 보도 번역: The highlight that summer was the transfer of Stan Collymore from Nottingham Forest to Liverpool for a British record fee of £8."
-          }
-        ]
-      },
-      {
-        "en": "That number might not seem too impressive today, in an age when £100m transfers are almost commonplace. But at the time it was seismic stuff, and it symbolised the conversion of football from sport into big business.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "That number might not seem too impressive today, in an age when £100m transfers are almost commonplace.",
-            "ko": "실시간 보도 번역: That number might not seem too impressive today, in an age when £100m transfers are almost commonplace."
-          },
-          {
-            "en": "But at the time it was seismic stuff, and it symbolised the conversion of football from sport into big business.",
-            "ko": "실시간 보도 번역: But at the time it was seismic stuff, and it symbolised the conversion of football from sport into big business."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: There's a crackdown on sports piracy - but is it already out of control?",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "There's a crackdown on sports piracy - but is it already out of control?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -3249,6 +3241,83 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
+    "id": "auto_culture_1005370528062833929",
+    "title": "'Mogging' is Collins' word of the year... but do you know what it means?",
+    "subtitle": "The slang term, which relates to outshining or upstaging someone, is one of 10 words celebrated....",
+    "speaker": "BBC Arts",
+    "date": "2026-11-03",
+    "addedAt": "2026-11-03T05:00:42Z",
+    "category": "culture",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 105,
+    "keywords": [
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
+    ],
+    "paragraphs": [
+      {
+        "en": "\"Mogging\", a word used playfully to mean outshining, outperforming or upstaging someone or something, has been named as word of the year by the Collins English Dictionary.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "\"Mogging\", a word used playfully to mean outshining, outperforming or upstaging someone or something, has been named as word of the year by the Collins English Dictionary.",
+            "ko": "실시간 보도 번역: \"Mogging\", a word used playfully to mean outshining, outperforming or upstaging someone or something, has been named as word of the year by the Collins English Dictionary."
+          }
+        ]
+      },
+      {
+        "en": "A fast-growing slang word among members of Generations Z and Alpha - both online and in everyday conversation - mogging went mainstream in 2026 with a 210% increase in its usage.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "A fast-growing slang word among members of Generations Z and Alpha - both online and in everyday conversation - mogging went mainstream in 2026 with a 210% increase in its usage.",
+            "ko": "실시간 보도 번역: A fast-growing slang word among members of Generations Z and Alpha - both online and in everyday conversation - mogging went mainstream in 2026 with a 210% increase in its usage."
+          }
+        ]
+      },
+      {
+        "en": "Collins' managing director Alex Beecroft said its lexicographers look at \"how often words are used\" and also \"analyse patterns of usage\" that reveal the latest linguistic trends.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Collins' managing director Alex Beecroft said its lexicographers look at \"how often words are used\" and also \"analyse patterns of usage\" that reveal the latest linguistic trends.",
+            "ko": "실시간 보도 번역: Collins' managing director Alex Beecroft said its lexicographers look at \"how often words are used\" and also \"analyse patterns of usage\" that reveal the latest linguistic trends."
+          }
+        ]
+      },
+      {
+        "en": "The selection of mogging as word of the year, he said, \"shows how each generation leaves its mark on language\".",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The selection of mogging as word of the year, he said, \"shows how each generation leaves its mark on language\".",
+            "ko": "실시간 보도 번역: The selection of mogging as word of the year, he said, \"shows how each generation leaves its mark on language\"."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: 'Mogging' is Collins' word of the year... but do you know what it means?",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "'Mogging' is Collins' word of the year... but do you know what it means?",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_culture_202239956778713117",
     "title": "Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
     "subtitle": "Brand's defence barrister told jurors that Brand \"had an immense amount of sex\", but that \"none of it was unlawful\"....",
@@ -3949,87 +4018,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_7315471430574369771",
-    "title": "Making murder fun: How the Traitors' soundtrack sets the tone",
-    "subtitle": "It's not just treachery and villainy - the soundtrack for Traitors helps set the show's campy tone....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-18",
-    "addedAt": "2026-10-18T15:15:50Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 80,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMaking murder fun: How the Traitors&#x27; soundtrack sets the toneTo play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMaking murder fun: How the Traitors&#x27; soundtrack sets the toneTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsMaking murder fun: How the Traitors&#x27; soundtrack sets the toneTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Watch: How does music on The Traitors manipulate your emotions?",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Watch: How does music on The Traitors manipulate your emotions?",
-            "ko": "실시간 보도 번역: Watch: How does music on The Traitors manipulate your emotions?"
-          }
-        ]
-      },
-      {
-        "en": "Music correspondentPublished18 October 2026, 01:29 BSTSuspicion, intrigue, treachery, Claudia Winkleman. The Traitors has it all.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Music correspondentPublished18 October 2026, 01:29 BSTSuspicion, intrigue, treachery, Claudia Winkleman.",
-            "ko": "실시간 보도 번역: Music correspondentPublished18 October 2026, 01:29 BSTSuspicion, intrigue, treachery, Claudia Winkleman."
-          },
-          {
-            "en": "The Traitors has it all.",
-            "ko": "실시간 보도 번역: The Traitors has it all."
-          }
-        ]
-      },
-      {
-        "en": "But the shadowiest of the show&#x27;s shadowy secrets is its music.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "But the shadowiest of the show&#x27;s shadowy secrets is its music.",
-            "ko": "실시간 보도 번역: But the shadowiest of the show&#x27;s shadowy secrets is its music."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Making murder fun: How the Traitors' soundtrack sets the tone",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Making murder fun: How the Traitors' soundtrack sets the tone",
           "Historical retrospective",
           "Unrelated general weather"
         ],
