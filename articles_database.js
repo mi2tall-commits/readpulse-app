@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_837394881975436093",
+    "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+    "subtitle": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company represen...",
+    "speaker": "BBC Technology",
+    "date": "2026-11-03",
+    "addedAt": "2026-11-03T18:57:09Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 101,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Hackers who stole a record $6.3bn (£4.7bn) from Binance used fake job interviews and a compromised internal AI tool, the firm has revealed.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Hackers who stole a record $6.",
+            "ko": "실시간 보도 번역: Hackers who stole a record $6."
+          },
+          {
+            "en": "7bn) from Binance used fake job interviews and a compromised internal AI tool, the firm has revealed.",
+            "ko": "실시간 보도 번역: 7bn) from Binance used fake job interviews and a compromised internal AI tool, the firm has revealed."
+          }
+        ]
+      },
+      {
+        "en": "Initial findings published by the company, which operates the world's largest cryptocurrency exchange, said hackers gained access to its systems through \"sophisticated, multi-stage campaign\".",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Initial findings published by the company, which operates the world's largest cryptocurrency exchange, said hackers gained access to its systems through \"sophisticated, multi-stage campaign\".",
+            "ko": "실시간 보도 번역: Initial findings published by the company, which operates the world's largest cryptocurrency exchange, said hackers gained access to its systems through \"sophisticated, multi-stage campaign\"."
+          }
+        ]
+      },
+      {
+        "en": "It said they used a range of techniques such as malicious software downloads to compromise the computers of Binance engineers and gain control over tools to drain its wallet of billions of dollars worth of crypto.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "It said they used a range of techniques such as malicious software downloads to compromise the computers of Binance engineers and gain control over tools to drain its wallet of billions of dollars worth of crypto.",
+            "ko": "실시간 보도 번역: It said they used a range of techniques such as malicious software downloads to compromise the computers of Binance engineers and gain control over tools to drain its wallet of billions of dollars worth of crypto."
+          }
+        ]
+      },
+      {
+        "en": "Binance called it a \"serious and highly sophisticated security incident\" and apologised, saying \"this should not have happened\".",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Binance called it a \"serious and highly sophisticated security incident\" and apologised, saying \"this should not have happened\".",
+            "ko": "실시간 보도 번역: Binance called it a \"serious and highly sophisticated security incident\" and apologised, saying \"this should not have happened\"."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Binance says fake job interviews used as part of $6.3bn crypto hack",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_533502013169604182",
     "title": "North Korea denies being behind record $6.3bn Binance hack",
     "subtitle": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist....",
@@ -730,66 +811,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_6991698530248721210",
-    "title": "No further action against government adviser's wife over Palestine Action post, police say",
-    "subtitle": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-17",
-    "addedAt": "2026-10-18T15:15:48Z",
-    "category": "tech",
+    "id": "auto_science_773433344329190902",
+    "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+    "subtitle": "A watchdog has criticised the lack of progress made by organisations in tackling climate change....",
+    "speaker": "BBC Science",
+    "date": "2026-11-03",
+    "addedAt": "2026-11-03T18:57:09Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 145,
+    "wordCount": 85,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNo further action against government adviser&#x27;s wife over Palestine Action post, police sayImage source, PA MediaByNeil MurphyPublished17 October 2026Police say no further action will be taken against the wife of the government&#x27;s national security adviser after she posted on social media referencing Palestine Action.",
+        "en": "Audit Wales has criticised the lack of progress made by organisations in tackling climate change",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNo further action against government adviser&#x27;s wife over Palestine Action post, police sayImage source, PA MediaByNeil MurphyPublished17 October 2026Police say no further action will be taken against the wife of the government&#x27;s national security adviser after she posted on social media referencing Palestine Action.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechNo further action against government adviser&#x27;s wife over Palestine Action post, police sayImage source, PA MediaByNeil MurphyPublished17 October 2026Police say no further action will be taken against the wife of the government&#x27;s national security adviser after she posted on social media referencing Palestine Action."
+            "en": "Audit Wales has criticised the lack of progress made by organisations in tackling climate change",
+            "ko": "실시간 보도 번역: Audit Wales has criticised the lack of progress made by organisations in tackling climate change"
           }
         ]
       },
       {
-        "en": "Sarah Helm, who is married to Jonathan Powell, wrote on X on Thursday: &quot;God help us authors who support Palestine and Palestine Action.&quot;",
+        "en": "A spending watchdog has strongly criticised the lack of progress made by public sector organisations in tackling climate change.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Sarah Helm, who is married to Jonathan Powell, wrote on X on Thursday: &quot;God help us authors who support Palestine and Palestine Action.",
-            "ko": "실시간 보도 번역: Sarah Helm, who is married to Jonathan Powell, wrote on X on Thursday: &quot;God help us authors who support Palestine and Palestine Action."
+            "en": "A spending watchdog has strongly criticised the lack of progress made by public sector organisations in tackling climate change.",
+            "ko": "실시간 보도 번역: A spending watchdog has strongly criticised the lack of progress made by public sector organisations in tackling climate change."
           }
         ]
       },
       {
-        "en": "She was responding to a discussion about the author Sally Rooney, whose novels will not be supplied to booksellers in the UK following her announcement that she intends to use her royalties to support the proscribed organisation.",
+        "en": "Audit Wales says since a Welsh government \"climate emergency\" was declared, external in 2019, \"decarbonisation\" has become a lower priority for public bodies.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "She was responding to a discussion about the author Sally Rooney, whose novels will not be supplied to booksellers in the UK following her announcement that she intends to use her royalties to support the proscribed organisation.",
-            "ko": "실시간 보도 번역: She was responding to a discussion about the author Sally Rooney, whose novels will not be supplied to booksellers in the UK following her announcement that she intends to use her royalties to support the proscribed organisation."
+            "en": "Audit Wales says since a Welsh government \"climate emergency\" was declared, external in 2019, \"decarbonisation\" has become a lower priority for public bodies.",
+            "ko": "실시간 보도 번역: Audit Wales says since a Welsh government \"climate emergency\" was declared, external in 2019, \"decarbonisation\" has become a lower priority for public bodies."
           }
         ]
       },
       {
-        "en": "On Saturday, the Metropolitan Police said Helm&#x27;s post was &quot;assessed by specialist officers and it was determined that it did not meet the criminal threshold&quot;.",
+        "en": "It says there are many examples of positive changes but the \"collective ambition\" for a net zero public sector in Wales by 2030 is unlikely to be met.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "On Saturday, the Metropolitan Police said Helm&#x27;s post was &quot;assessed by specialist officers and it was determined that it did not meet the criminal threshold&quot;.",
-            "ko": "실시간 보도 번역: On Saturday, the Metropolitan Police said Helm&#x27;s post was &quot;assessed by specialist officers and it was determined that it did not meet the criminal threshold&quot;."
+            "en": "It says there are many examples of positive changes but the \"collective ambition\" for a net zero public sector in Wales by 2030 is unlikely to be met.",
+            "ko": "실시간 보도 번역: It says there are many examples of positive changes but the \"collective ambition\" for a net zero public sector in Wales by 2030 is unlikely to be met."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: No further action against government adviser's wife over Palestine Action post, police say",
+      "글로벌 최신 소식: Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -797,7 +878,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "No further action against government adviser's wife over Palestine Action post, police say",
+          "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1535,91 +1616,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Fuel leak spreads more than two miles along River Taff",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_science_7765842637786353816",
-    "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
-    "subtitle": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state....",
-    "speaker": "BBC Science",
-    "date": "2026-10-17",
-    "addedAt": "2026-10-18T02:42:46Z",
-    "category": "science",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 110,
-    "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaFast-moving California wildfire burns homes as people are ordered to leaveTo play this video you need to enable JavaScript in your browser.This video can not be played",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaFast-moving California wildfire burns homes as people are ordered to leaveTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaFast-moving California wildfire burns homes as people are ordered to leaveTo play this video you need to enable JavaScript in your browser."
-          }
-        ]
-      },
-      {
-        "en": "Watch: Aircraft deployed to fight burning Bryson fire in Malibu",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Watch: Aircraft deployed to fight burning Bryson fire in Malibu",
-            "ko": "실시간 보도 번역: Watch: Aircraft deployed to fight burning Bryson fire in Malibu"
-          }
-        ]
-      },
-      {
-        "en": "Evacuation orders in California are in effect due to a rapidly growing wildfire that has already burned six homes south of Los Angeles.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Evacuation orders in California are in effect due to a rapidly growing wildfire that has already burned six homes south of Los Angeles.",
-            "ko": "실시간 보도 번역: Evacuation orders in California are in effect due to a rapidly growing wildfire that has already burned six homes south of Los Angeles."
-          }
-        ]
-      },
-      {
-        "en": "The Norte Fire erupted on Friday in Orange County and quickly grew to 465 acres by the evening. By Saturday morning, it spread to 570 acres (2.3 sq km), with 5% containment.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The Norte Fire erupted on Friday in Orange County and quickly grew to 465 acres by the evening.",
-            "ko": "실시간 보도 번역: The Norte Fire erupted on Friday in Orange County and quickly grew to 465 acres by the evening."
-          },
-          {
-            "en": "By Saturday morning, it spread to 570 acres (2.",
-            "ko": "실시간 보도 번역: By Saturday morning, it spread to 570 acres (2."
-          },
-          {
-            "en": "3 sq km), with 5% containment.",
-            "ko": "실시간 보도 번역: 3 sq km), with 5% containment."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Fast-moving California wildfire burns homes as people are ordered to leave",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Fast-moving California wildfire burns homes as people are ordered to leave",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2443,6 +2439,85 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_sports_961030466210548608",
+    "title": "Djokovic keeps alive bid to squeeze into ATP Finals",
+    "subtitle": "Novak Djokovic keeps alive his last-ditch bid to qualify for this year's ATP Finals by grinding out a first-round victory at the P...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-03",
+    "addedAt": "2026-11-03T18:57:10Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 115,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "Novak Djokovic kept alive his last-ditch bid to qualify for this year's ATP Finals by grinding out a first-round victory over Valentin Vacerot at the Paris Masters.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Novak Djokovic kept alive his last-ditch bid to qualify for this year's ATP Finals by grinding out a first-round victory over Valentin Vacerot at the Paris Masters.",
+            "ko": "실시간 보도 번역: Novak Djokovic kept alive his last-ditch bid to qualify for this year's ATP Finals by grinding out a first-round victory over Valentin Vacerot at the Paris Masters."
+          }
+        ]
+      },
+      {
+        "en": "Likely needing to reach the semi-finals to have a chance of qualifying for the season-ending championships in Turin, the 39-year-old trailed by a set and a break and received treatment to his shoulder in the second set.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Likely needing to reach the semi-finals to have a chance of qualifying for the season-ending championships in Turin, the 39-year-old trailed by a set and a break and received treatment to his shoulder in the second set.",
+            "ko": "실시간 보도 번역: Likely needing to reach the semi-finals to have a chance of qualifying for the season-ending championships in Turin, the 39-year-old trailed by a set and a break and received treatment to his shoulder in the second set."
+          }
+        ]
+      },
+      {
+        "en": "But the 24-time Grand Slam champion dug in, cut down his unforced errors and forced his opponent to return ball after ball.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "But the 24-time Grand Slam champion dug in, cut down his unforced errors and forced his opponent to return ball after ball.",
+            "ko": "실시간 보도 번역: But the 24-time Grand Slam champion dug in, cut down his unforced errors and forced his opponent to return ball after ball."
+          }
+        ]
+      },
+      {
+        "en": "While still below his best, Djokovic won 6-7 (7-5) 7-5 6-1 as his opponent, who was in form after winning the Swiss Indoors title in Basel last week, faltered.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "While still below his best, Djokovic won 6-7 (7-5) 7-5 6-1 as his opponent, who was in form after winning the Swiss Indoors title in Basel last week, faltered.",
+            "ko": "실시간 보도 번역: While still below his best, Djokovic won 6-7 (7-5) 7-5 6-1 as his opponent, who was in form after winning the Swiss Indoors title in Basel last week, faltered."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Djokovic keeps alive bid to squeeze into ATP Finals",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Djokovic keeps alive bid to squeeze into ATP Finals",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
+  },
+  {
     "id": "auto_sports_943089883262399536",
     "title": "Can Alcaraz's ex-coach help Shelton challenge his former protege?",
     "subtitle": "US Open runner-up Ben Shelton joins forces with Juan Carlos Ferrer, the former coach of Carlos Alcaraz - BBC Sport analyses why th...",
@@ -3162,66 +3237,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_998025632364315329",
-    "title": "Britain's Kartal misses out on biggest title of her career",
-    "subtitle": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska....",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-18",
-    "addedAt": "2026-10-19T02:56:03Z",
-    "category": "sports",
+    "id": "auto_culture_970008588140505915",
+    "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
+    "subtitle": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him....",
+    "speaker": "BBC Arts",
+    "date": "2026-11-03",
+    "addedAt": "2026-11-03T18:57:12Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 153,
+    "wordCount": 156,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBritain&#x27;s Kartal misses out on biggest title of her careerImage source, Getty ImagesImage caption, Sonay Kartal will become the British number one when the WTA rankings are released on Monday",
+        "en": "A celebrity who asked the High Court to permanently prevent two news organisations from publishing his identity and allegations of sexual misconduct has lost his case, with the court saying the man's claim for an injunction was denied.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBritain&#x27;s Kartal misses out on biggest title of her careerImage source, Getty ImagesImage caption, Sonay Kartal will become the British number one when the WTA rankings are released on Monday",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBritain&#x27;s Kartal misses out on biggest title of her careerImage source, Getty ImagesImage caption, Sonay Kartal will become the British number one when the WTA rankings are released on Monday"
+            "en": "A celebrity who asked the High Court to permanently prevent two news organisations from publishing his identity and allegations of sexual misconduct has lost his case, with the court saying the man's claim for an injunction was denied.",
+            "ko": "실시간 보도 번역: A celebrity who asked the High Court to permanently prevent two news organisations from publishing his identity and allegations of sexual misconduct has lost his case, with the court saying the man's claim for an injunction was denied."
           }
         ]
       },
       {
-        "en": "BBC Sport tennis news reporterPublished18 October 2026Britain&#x27;s Sonay Kartal missed out on what would have been the biggest title of her career as she faded in a gripping Wuhan Open final against French Open runner-up Maja Chwalinska.",
+        "en": "But the judge said a temporary injunction preventing the man from being named and the allegations published should remain in place, in order to allow the celebrity to appeal against the judgment, with anonymity and reporting restrictions remaining in force during the period allowed for any appeal.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC Sport tennis news reporterPublished18 October 2026Britain&#x27;s Sonay Kartal missed out on what would have been the biggest title of her career as she faded in a gripping Wuhan Open final against French Open runner-up Maja Chwalinska.",
-            "ko": "실시간 보도 번역: BBC Sport tennis news reporterPublished18 October 2026Britain&#x27;s Sonay Kartal missed out on what would have been the biggest title of her career as she faded in a gripping Wuhan Open final against French Open runner-up Maja Chwalinska."
+            "en": "But the judge said a temporary injunction preventing the man from being named and the allegations published should remain in place, in order to allow the celebrity to appeal against the judgment, with anonymity and reporting restrictions remaining in force during the period allowed for any appeal.",
+            "ko": "실시간 보도 번역: But the judge said a temporary injunction preventing the man from being named and the allegations published should remain in place, in order to allow the celebrity to appeal against the judgment, with anonymity and reporting restrictions remaining in force during the period allowed for any appeal."
           }
         ]
       },
       {
-        "en": "Kartal, 24, was bidding to lift the trophy in only her third event since returning from a six-month absence caused by a back injury.",
+        "en": "ITN and the Guardian have said they believe it is in the public interest to publish allegations that the man abused his status to engage, or attempt to engage, in \"inappropriate sexual activities with a large number of girls and young women\".",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Kartal, 24, was bidding to lift the trophy in only her third event since returning from a six-month absence caused by a back injury.",
-            "ko": "실시간 보도 번역: Kartal, 24, was bidding to lift the trophy in only her third event since returning from a six-month absence caused by a back injury."
+            "en": "ITN and the Guardian have said they believe it is in the public interest to publish allegations that the man abused his status to engage, or attempt to engage, in \"inappropriate sexual activities with a large number of girls and young women\".",
+            "ko": "실시간 보도 번역: ITN and the Guardian have said they believe it is in the public interest to publish allegations that the man abused his status to engage, or attempt to engage, in \"inappropriate sexual activities with a large number of girls and young women\"."
           }
         ]
       },
       {
-        "en": "But an extraordinary week in China seemed to catch up with Kartal as she ran out of steam - physically and mentally - in a 2-6 6-4 6-2 defeat.",
+        "en": "The man, who denies the allegations, said any publication would be \"highly likely\" to lead him to kill himself, and that the court should prevent any publication or broadcast.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "But an extraordinary week in China seemed to catch up with Kartal as she ran out of steam - physically and mentally - in a 2-6 6-4 6-2 defeat.",
-            "ko": "실시간 보도 번역: But an extraordinary week in China seemed to catch up with Kartal as she ran out of steam - physically and mentally - in a 2-6 6-4 6-2 defeat."
+            "en": "The man, who denies the allegations, said any publication would be \"highly likely\" to lead him to kill himself, and that the court should prevent any publication or broadcast.",
+            "ko": "실시간 보도 번역: The man, who denies the allegations, said any publication would be \"highly likely\" to lead him to kill himself, and that the court should prevent any publication or broadcast."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Britain's Kartal misses out on biggest title of her career",
+      "글로벌 최신 소식: Celebrity loses injunction bid but will stay anonymous pending appeal",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3229,16 +3304,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Britain's Kartal misses out on biggest title of her career",
+          "Celebrity loses injunction bid but will stay anonymous pending appeal",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_1005370528062833929",
@@ -3933,91 +4006,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_6515319377585296714",
-    "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-    "subtitle": "Presley Gerber's death in September is being investigated as a suspected overdose....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-18",
-    "addedAt": "2026-10-19T02:56:04Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 128,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaCindy Crawford &#x27;beyond heartbroken&#x27; after death of son Presley at 27Image source, Getty ImagesImage caption, Presley Gerber, Kaia Gerber, Cindy Crawford and Rande Gerber in May",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaCindy Crawford &#x27;beyond heartbroken&#x27; after death of son Presley at 27Image source, Getty ImagesImage caption, Presley Gerber, Kaia Gerber, Cindy Crawford and Rande Gerber in May",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatUS &amp; CanadaCindy Crawford &#x27;beyond heartbroken&#x27; after death of son Presley at 27Image source, Getty ImagesImage caption, Presley Gerber, Kaia Gerber, Cindy Crawford and Rande Gerber in May"
-          }
-        ]
-      },
-      {
-        "en": "Supermodel Cindy Crawford has said she and her family are &quot;beyond heartbroken&quot; over the death of her son Presley Gerber.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Supermodel Cindy Crawford has said she and her family are &quot;beyond heartbroken&quot; over the death of her son Presley Gerber.",
-            "ko": "실시간 보도 번역: Supermodel Cindy Crawford has said she and her family are &quot;beyond heartbroken&quot; over the death of her son Presley Gerber."
-          }
-        ]
-      },
-      {
-        "en": "&quot;He is a sweet, beautiful soul who loved and is loved, now and forever,&quot; she posted on Instagram, next to a black-and-white photo of him. &quot;We are so proud of how he showed up in the world, with kindness and vulnerability.&quot;",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&quot;He is a sweet, beautiful soul who loved and is loved, now and forever,&quot; she posted on Instagram, next to a black-and-white photo of him.",
-            "ko": "실시간 보도 번역: &quot;He is a sweet, beautiful soul who loved and is loved, now and forever,&quot; she posted on Instagram, next to a black-and-white photo of him."
-          },
-          {
-            "en": "&quot;We are so proud of how he showed up in the world, with kindness and vulnerability.",
-            "ko": "실시간 보도 번역: &quot;We are so proud of how he showed up in the world, with kindness and vulnerability."
-          }
-        ]
-      },
-      {
-        "en": "The 27-year-old died on 20 September at a rehab facility in California. Police said officials are investigating his death as a suspected overdose.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The 27-year-old died on 20 September at a rehab facility in California.",
-            "ko": "실시간 보도 번역: The 27-year-old died on 20 September at a rehab facility in California."
-          },
-          {
-            "en": "Police said officials are investigating his death as a suspected overdose.",
-            "ko": "실시간 보도 번역: Police said officials are investigating his death as a suspected overdose."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
           "Historical retrospective",
           "Unrelated general weather"
         ],
