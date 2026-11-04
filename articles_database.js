@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_774160250938381018",
+    "title": "Graduates are managing AI - but are they learning much else?",
+    "subtitle": "Graduates are spending more time managing AI, but are they missing out on other work experience?...",
+    "speaker": "BBC Technology",
+    "date": "2026-11-04",
+    "addedAt": "2026-11-04T04:32:47Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 118,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Recent university graduate Lotte Underwood is a public relations executive with a twist - she spends more time using AI than actually doing PR.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Recent university graduate Lotte Underwood is a public relations executive with a twist - she spends more time using AI than actually doing PR.",
+            "ko": "실시간 보도 번역: Recent university graduate Lotte Underwood is a public relations executive with a twist - she spends more time using AI than actually doing PR."
+          }
+        ]
+      },
+      {
+        "en": "Underwood, 25, joined London-based PR agency Fight or Flight in November last year, in the new role of \"AI associate\" after completing a degree and then a masters in marketing.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Underwood, 25, joined London-based PR agency Fight or Flight in November last year, in the new role of \"AI associate\" after completing a degree and then a masters in marketing.",
+            "ko": "실시간 보도 번역: Underwood, 25, joined London-based PR agency Fight or Flight in November last year, in the new role of \"AI associate\" after completing a degree and then a masters in marketing."
+          }
+        ]
+      },
+      {
+        "en": "She's part of a recently established, dedicated AI team that has built around 30 AI agents. Specific tasks include industry research, client reporting, media interview preparation, helping clients create clearer briefs, and image generation.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "She's part of a recently established, dedicated AI team that has built around 30 AI agents.",
+            "ko": "실시간 보도 번역: She's part of a recently established, dedicated AI team that has built around 30 AI agents."
+          },
+          {
+            "en": "Specific tasks include industry research, client reporting, media interview preparation, helping clients create clearer briefs, and image generation.",
+            "ko": "실시간 보도 번역: Specific tasks include industry research, client reporting, media interview preparation, helping clients create clearer briefs, and image generation."
+          }
+        ]
+      },
+      {
+        "en": "A big part of Underwood's job is to manage those agents, check their outputs and feed those to the team members who are dealing directly with clients and the media.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "A big part of Underwood's job is to manage those agents, check their outputs and feed those to the team members who are dealing directly with clients and the media.",
+            "ko": "실시간 보도 번역: A big part of Underwood's job is to manage those agents, check their outputs and feed those to the team members who are dealing directly with clients and the media."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Graduates are managing AI - but are they learning much else?",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Graduates are managing AI - but are they learning much else?",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_837394881975436093",
     "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
     "subtitle": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company represen...",
@@ -730,70 +811,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_6571663148114711381",
-    "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-    "subtitle": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-19",
-    "addedAt": "2026-10-19T02:56:02Z",
-    "category": "tech",
+    "id": "auto_science_761279147786176942",
+    "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
+    "subtitle": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\"....",
+    "speaker": "BBC Science",
+    "date": "2026-11-03",
+    "addedAt": "2026-11-04T04:32:47Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 146,
+    "wordCount": 95,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAnthropic says it will commit 5% of its shares to &#x27;public benefit fund&#x27;Image source, SOPA Images/LightRocket via Getty ImagesImage caption, Jack Clark, a co-founder and Head of Public Benefit of Anthropic",
+        "en": "Prince William thanked the firefighters, military and volunteers who were instrumental in controlling the fire in Treherbert",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAnthropic says it will commit 5% of its shares to &#x27;public benefit fund&#x27;Image source, SOPA Images/LightRocket via Getty ImagesImage caption, Jack Clark, a co-founder and Head of Public Benefit of Anthropic",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessAnthropic says it will commit 5% of its shares to &#x27;public benefit fund&#x27;Image source, SOPA Images/LightRocket via Getty ImagesImage caption, Jack Clark, a co-founder and Head of Public Benefit of Anthropic"
+            "en": "Prince William thanked the firefighters, military and volunteers who were instrumental in controlling the fire in Treherbert",
+            "ko": "실시간 보도 번역: Prince William thanked the firefighters, military and volunteers who were instrumental in controlling the fire in Treherbert"
           }
         ]
       },
       {
-        "en": "Artificial intelligence (AI) giant Anthropic says it will commit 5% of its shares to a fund that will make donations for the &quot;public good&quot;.",
+        "en": "There is a \"terrifying prospect\" of more UK wildfires in future due to climate change and preparation will be \"crucial\", the Prince of Wales has said.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Artificial intelligence (AI) giant Anthropic says it will commit 5% of its shares to a fund that will make donations for the &quot;public good&quot;.",
-            "ko": "실시간 보도 번역: Artificial intelligence (AI) giant Anthropic says it will commit 5% of its shares to a fund that will make donations for the &quot;public good&quot;."
+            "en": "There is a \"terrifying prospect\" of more UK wildfires in future due to climate change and preparation will be \"crucial\", the Prince of Wales has said.",
+            "ko": "실시간 보도 번역: There is a \"terrifying prospect\" of more UK wildfires in future due to climate change and preparation will be \"crucial\", the Prince of Wales has said."
           }
         ]
       },
       {
-        "en": "The announcement comes as Anthropic lays the ground for a potential blockbuster stock market listing that could value the firm at more than $1tn (£750bn).",
+        "en": "Visiting Treherbert in Rhondda Cynon Taf, which was threatened by a huge mountain fire in August, Prince William praised a \"gargantuan\" effort to save homes, land and lives.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The announcement comes as Anthropic lays the ground for a potential blockbuster stock market listing that could value the firm at more than $1tn (£750bn).",
-            "ko": "실시간 보도 번역: The announcement comes as Anthropic lays the ground for a potential blockbuster stock market listing that could value the firm at more than $1tn (£750bn)."
+            "en": "Visiting Treherbert in Rhondda Cynon Taf, which was threatened by a huge mountain fire in August, Prince William praised a \"gargantuan\" effort to save homes, land and lives.",
+            "ko": "실시간 보도 번역: Visiting Treherbert in Rhondda Cynon Taf, which was threatened by a huge mountain fire in August, Prince William praised a \"gargantuan\" effort to save homes, land and lives."
           }
         ]
       },
       {
-        "en": "The AI industry has come under intense scrutiny recently over safety concerns and fears about its impact on society and the economy. Anthropic reportedly said in its initial public offering (IPO) filing that AI could pose &quot;catastrophic or existential risks to humanity&quot;.",
+        "en": "\"We need to start taking wildfires as seriously as the continent has done,\" he said, raising issues such as a lack of firefighting aircraft.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The AI industry has come under intense scrutiny recently over safety concerns and fears about its impact on society and the economy.",
-            "ko": "실시간 보도 번역: The AI industry has come under intense scrutiny recently over safety concerns and fears about its impact on society and the economy."
-          },
-          {
-            "en": "Anthropic reportedly said in its initial public offering (IPO) filing that AI could pose &quot;catastrophic or existential risks to humanity&quot;.",
-            "ko": "실시간 보도 번역: Anthropic reportedly said in its initial public offering (IPO) filing that AI could pose &quot;catastrophic or existential risks to humanity&quot;."
+            "en": "\"We need to start taking wildfires as seriously as the continent has done,\" he said, raising issues such as a lack of firefighting aircraft.",
+            "ko": "실시간 보도 번역: \"We need to start taking wildfires as seriously as the continent has done,\" he said, raising issues such as a lack of firefighting aircraft."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "글로벌 최신 소식: Prince William says UK faces terrifying risk of more wildfires due to climate change",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -801,7 +878,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+          "Prince William says UK faces terrifying risk of more wildfires due to climate change",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1539,83 +1616,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "BBC visits wildfire front in haze-choked Indonesia",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_science_2946127500504089367",
-    "title": "Fuel leak spreads more than two miles along River Taff",
-    "subtitle": "Public Health Wales advise people living nearby to shut their doors and windows due to the smell....",
-    "speaker": "BBC Science",
-    "date": "2026-10-18",
-    "addedAt": "2026-10-18T15:15:48Z",
-    "category": "science",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 112,
-    "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFuel leak spreads more than two miles along River TaffImage source, Sarah LlewelynImage caption, Residents said the area began to smell &quot;like a petrol station&quot; on Friday",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFuel leak spreads more than two miles along River TaffImage source, Sarah LlewelynImage caption, Residents said the area began to smell &quot;like a petrol station&quot; on Friday",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWalesWales PoliticsWales BusinessNorth WestNorth EastMidSouth WestSouth EastCymruLocal NewsFuel leak spreads more than two miles along River TaffImage source, Sarah LlewelynImage caption, Residents said the area began to smell &quot;like a petrol station&quot; on Friday"
-          }
-        ]
-      },
-      {
-        "en": "People have been advised to keep their windows and doors shut due to a widespread  fuel leak in the River Taff.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "People have been advised to keep their windows and doors shut due to a widespread  fuel leak in the River Taff.",
-            "ko": "실시간 보도 번역: People have been advised to keep their windows and doors shut due to a widespread  fuel leak in the River Taff."
-          }
-        ]
-      },
-      {
-        "en": "Natural Resources Wales (NRW) said it had received multiple reports about pollution affecting the Taff in places such as Nantgarw, Treforest and Taffs Well.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Natural Resources Wales (NRW) said it had received multiple reports about pollution affecting the Taff in places such as Nantgarw, Treforest and Taffs Well.",
-            "ko": "실시간 보도 번역: Natural Resources Wales (NRW) said it had received multiple reports about pollution affecting the Taff in places such as Nantgarw, Treforest and Taffs Well."
-          }
-        ]
-      },
-      {
-        "en": "GE Aerospace confirmed fuel got into the river while repair work took place at its site nearby.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "GE Aerospace confirmed fuel got into the river while repair work took place at its site nearby.",
-            "ko": "실시간 보도 번역: GE Aerospace confirmed fuel got into the river while repair work took place at its site nearby."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Fuel leak spreads more than two miles along River Taff",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Fuel leak spreads more than two miles along River Taff",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2439,6 +2439,85 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_sports_134652481372492518",
+    "title": "Death threats for Briton Burrage on WTA Tour return",
+    "subtitle": "Britain's Jodie Burrage receives death threats and abuse on social media after she is beaten in her first WTA Tour singles match p...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-03",
+    "addedAt": "2026-11-04T04:32:48Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 95,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "Jodie Burrage reached a career-high ranking of 85th in the world in September 2023",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Jodie Burrage reached a career-high ranking of 85th in the world in September 2023",
+            "ko": "실시간 보도 번역: Jodie Burrage reached a career-high ranking of 85th in the world in September 2023"
+          }
+        ]
+      },
+      {
+        "en": "Britain's Jodie Burrage received death threats and abuse on social media after she was beaten in her first WTA Tour singles match proper for 16 months.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Britain's Jodie Burrage received death threats and abuse on social media after she was beaten in her first WTA Tour singles match proper for 16 months.",
+            "ko": "실시간 보도 번역: Britain's Jodie Burrage received death threats and abuse on social media after she was beaten in her first WTA Tour singles match proper for 16 months."
+          }
+        ]
+      },
+      {
+        "en": "The 27-year-old, ranked 474th in the world, suffered a first-round exit at the Chennai Open after India's Vaishnavi Adkar fought back from a set down to triumph 3-6 6-3 7-5.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The 27-year-old, ranked 474th in the world, suffered a first-round exit at the Chennai Open after India's Vaishnavi Adkar fought back from a set down to triumph 3-6 6-3 7-5.",
+            "ko": "실시간 보도 번역: The 27-year-old, ranked 474th in the world, suffered a first-round exit at the Chennai Open after India's Vaishnavi Adkar fought back from a set down to triumph 3-6 6-3 7-5."
+          }
+        ]
+      },
+      {
+        "en": "Burrage later shared a story on her Instagram account, external with a video scroll of direct messages, including abuse, she was sent following the match.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Burrage later shared a story on her Instagram account, external with a video scroll of direct messages, including abuse, she was sent following the match.",
+            "ko": "실시간 보도 번역: Burrage later shared a story on her Instagram account, external with a video scroll of direct messages, including abuse, she was sent following the match."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Death threats for Briton Burrage on WTA Tour return",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Death threats for Briton Burrage on WTA Tour return",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
+  },
+  {
     "id": "auto_sports_961030466210548608",
     "title": "Djokovic keeps alive bid to squeeze into ATP Finals",
     "subtitle": "Novak Djokovic keeps alive his last-ditch bid to qualify for this year's ATP Finals by grinding out a first-round victory at the P...",
@@ -3154,70 +3233,66 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_8405467270112380364",
-    "title": "Svitolina says emotional toll of Ukraine war led to Monfils separation",
-    "subtitle": "The two top tennis pros married in 2021 and have one child together....",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-19",
-    "addedAt": "2026-10-19T18:13:28Z",
-    "category": "sports",
+    "id": "auto_culture_193061213634667152",
+    "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
+    "subtitle": "The media personality and businesswoman says she's worked on her acting for series two of All's Fair....",
+    "speaker": "BBC Arts",
+    "date": "2026-11-04",
+    "addedAt": "2026-11-04T04:32:48Z",
+    "category": "culture",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 148,
+    "wordCount": 121,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#문화예술",
+      "#글로벌트렌드",
+      "#엔터테인먼트"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTennis star Svitolina says emotional toll of Ukraine war led to Monfils separationImage source, ReutersImage caption, Monfils and Svitolina played in the mixed doubles together at this year&#x27;s US Open and reached the semi-finals",
+        "en": "It was meant to be Kim Kardashian's triumphant debut as a leading actor - but last year's legal drama All's Fair was so universally panned by critics that it actually broke streaming records as audiences clambered to see what all the fuss was about.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTennis star Svitolina says emotional toll of Ukraine war led to Monfils separationImage source, ReutersImage caption, Monfils and Svitolina played in the mixed doubles together at this year&#x27;s US Open and reached the semi-finals",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatWorldAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastTennis star Svitolina says emotional toll of Ukraine war led to Monfils separationImage source, ReutersImage caption, Monfils and Svitolina played in the mixed doubles together at this year&#x27;s US Open and reached the semi-finals"
+            "en": "It was meant to be Kim Kardashian's triumphant debut as a leading actor - but last year's legal drama All's Fair was so universally panned by critics that it actually broke streaming records as audiences clambered to see what all the fuss was about.",
+            "ko": "실시간 보도 번역: It was meant to be Kim Kardashian's triumphant debut as a leading actor - but last year's legal drama All's Fair was so universally panned by critics that it actually broke streaming records as audiences clambered to see what all the fuss was about."
           }
         ]
       },
       {
-        "en": "Ukrainian tennis star Elina Svitolina has announced the end of her marriage with French former tennis player Gaël Monfils, citing the emotional impact of the war in her country.",
+        "en": "Kardashian, who is best known as a media personality and businesswoman, tells the BBC she had no choice but to \"lean into\" the discourse and come back for a second series.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Ukrainian tennis star Elina Svitolina has announced the end of her marriage with French former tennis player Gaël Monfils, citing the emotional impact of the war in her country.",
-            "ko": "실시간 보도 번역: Ukrainian tennis star Elina Svitolina has announced the end of her marriage with French former tennis player Gaël Monfils, citing the emotional impact of the war in her country."
+            "en": "Kardashian, who is best known as a media personality and businesswoman, tells the BBC she had no choice but to \"lean into\" the discourse and come back for a second series.",
+            "ko": "실시간 보도 번역: Kardashian, who is best known as a media personality and businesswoman, tells the BBC she had no choice but to \"lean into\" the discourse and come back for a second series."
           }
         ]
       },
       {
-        "en": "The 32-year-old, who is ranked number six in the world, wrote in a heartfelt post on Instagram about the effect the conflict and &quot;what the war has done to me inside&quot;.",
+        "en": "\"We thought we were this law show, dealing with some really serious issues,\" she jokes.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 32-year-old, who is ranked number six in the world, wrote in a heartfelt post on Instagram about the effect the conflict and &quot;what the war has done to me inside&quot;.",
-            "ko": "실시간 보도 번역: The 32-year-old, who is ranked number six in the world, wrote in a heartfelt post on Instagram about the effect the conflict and &quot;what the war has done to me inside&quot;."
+            "en": "\"We thought we were this law show, dealing with some really serious issues,\" she jokes.",
+            "ko": "실시간 보도 번역: \"We thought we were this law show, dealing with some really serious issues,\" she jokes."
           }
         ]
       },
       {
-        "en": "&quot;This is the most difficult thing I have ever had to share,&quot; she wrote, saying &quot;I need to find my way back to myself&quot;. Svitolina said she felt she could not do that within her marriage.",
+        "en": "But viewers mostly enjoyed its comedy value - with outlandish outfits and zingy one-liners from co-stars Sarah Paulson and Glenn Close sending the show straight into the pantheon of 'camp classics'.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "&quot;This is the most difficult thing I have ever had to share,&quot; she wrote, saying &quot;I need to find my way back to myself&quot;.",
-            "ko": "실시간 보도 번역: &quot;This is the most difficult thing I have ever had to share,&quot; she wrote, saying &quot;I need to find my way back to myself&quot;."
-          },
-          {
-            "en": "Svitolina said she felt she could not do that within her marriage.",
-            "ko": "실시간 보도 번역: Svitolina said she felt she could not do that within her marriage."
+            "en": "But viewers mostly enjoyed its comedy value - with outlandish outfits and zingy one-liners from co-stars Sarah Paulson and Glenn Close sending the show straight into the pantheon of 'camp classics'.",
+            "ko": "실시간 보도 번역: But viewers mostly enjoyed its comedy value - with outlandish outfits and zingy one-liners from co-stars Sarah Paulson and Glenn Close sending the show straight into the pantheon of 'camp classics'."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "글로벌 최신 소식: Why Kim Kardashian came back to 'the worst TV drama ever'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3225,16 +3300,14 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Svitolina says emotional toll of Ukraine war led to Monfils separation",
+          "Why Kim Kardashian came back to 'the worst TV drama ever'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    ]
   },
   {
     "id": "auto_culture_970008588140505915",
@@ -3915,83 +3988,6 @@ const READPULSE_ARTICLES = [
           {
             "en": "Brand, 51, has pleaded not guilty to all seven charges in the trial - three counts of rape, three charges of sexual assault and one of indecent assault.",
             "ko": "실시간 보도 번역: Brand, 51, has pleaded not guilty to all seven charges in the trial - three counts of rape, three charges of sexual assault and one of indecent assault."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_culture_1964451692815341811",
-    "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
-    "subtitle": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault....",
-    "speaker": "BBC Arts",
-    "date": "2026-10-19",
-    "addedAt": "2026-10-19T18:13:32Z",
-    "category": "culture",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 142,
-    "keywords": [
-      "#문화예술",
-      "#글로벌트렌드",
-      "#엔터테인먼트"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsWoman says she &#x27;closed eyes and tried not to be there&#x27; during alleged Russell Brand rapeImage source, EPAImage caption, Russell Brand arrives at court on Monday morning",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsWoman says she &#x27;closed eyes and tried not to be there&#x27; during alleged Russell Brand rapeImage source, EPAImage caption, Russell Brand arrives at court on Monday morning",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatEntertainment &amp; ArtsWoman says she &#x27;closed eyes and tried not to be there&#x27; during alleged Russell Brand rapeImage source, EPAImage caption, Russell Brand arrives at court on Monday morning"
-          }
-        ]
-      },
-      {
-        "en": "A woman who alleges she was raped by Russell Brand at a bar told the police &quot;I just closed my eyes and tried not to be there&quot; while the attack was taking place.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "A woman who alleges she was raped by Russell Brand at a bar told the police &quot;I just closed my eyes and tried not to be there&quot; while the attack was taking place.",
-            "ko": "실시간 보도 번역: A woman who alleges she was raped by Russell Brand at a bar told the police &quot;I just closed my eyes and tried not to be there&quot; while the attack was taking place."
-          }
-        ]
-      },
-      {
-        "en": "In a 2023 video interview with an officer shown to the jury at his trial, the woman said she had been speaking to Brand about him hosting the Channel 4 show Big Brother&#x27;s Big Mouth when he allegedly sexually assaulted her.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "In a 2023 video interview with an officer shown to the jury at his trial, the woman said she had been speaking to Brand about him hosting the Channel 4 show Big Brother&#x27;s Big Mouth when he allegedly sexually assaulted her.",
-            "ko": "실시간 보도 번역: In a 2023 video interview with an officer shown to the jury at his trial, the woman said she had been speaking to Brand about him hosting the Channel 4 show Big Brother&#x27;s Big Mouth when he allegedly sexually assaulted her."
-          }
-        ]
-      },
-      {
-        "en": "Brand, 51, faces seven charges in the trial - three counts of rape, three charges of sexual assault and one of indecent assault.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Brand, 51, faces seven charges in the trial - three counts of rape, three charges of sexual assault and one of indecent assault.",
-            "ko": "실시간 보도 번역: Brand, 51, faces seven charges in the trial - three counts of rape, three charges of sexual assault and one of indecent assault."
           }
         ]
       }
