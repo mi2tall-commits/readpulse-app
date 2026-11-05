@@ -1,6 +1,107 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_374973229485236289",
+    "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+    "subtitle": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-04",
+    "addedAt": "2026-11-05T04:48:46Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 170,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Americans are electing members of Congress, which is made up of the House of Representatives and the Senate. All 435 House seats are up for election. In the Senate, only 35 of 100 seats are being contested because senators serve six-year terms. This results tracker shows both the races being decided now and the 65 seats that are not up for election this year - 34 held by Democrats and 31 by Republicans.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Americans are electing members of Congress, which is made up of the House of Representatives and the Senate.",
+            "ko": "실시간 보도 번역: Americans are electing members of Congress, which is made up of the House of Representatives and the Senate."
+          },
+          {
+            "en": "All 435 House seats are up for election.",
+            "ko": "실시간 보도 번역: All 435 House seats are up for election."
+          },
+          {
+            "en": "In the Senate, only 35 of 100 seats are being contested because senators serve six-year terms.",
+            "ko": "실시간 보도 번역: In the Senate, only 35 of 100 seats are being contested because senators serve six-year terms."
+          },
+          {
+            "en": "This results tracker shows both the races being decided now and the 65 seats that are not up for election this year - 34 held by Democrats and 31 by Republicans.",
+            "ko": "실시간 보도 번역: This results tracker shows both the races being decided now and the 65 seats that are not up for election this year - 34 held by Democrats and 31 by Republicans."
+          }
+        ]
+      },
+      {
+        "en": "Elon Musk spent almost $450m (£334m) – more than anyone ever has in an election cycle – to back Republican political candidates in the US midterm races. It was not enough to keep Democrats from a resounding victory.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Elon Musk spent almost $450m (£334m) – more than anyone ever has in an election cycle – to back Republican political candidates in the US midterm races.",
+            "ko": "실시간 보도 번역: Elon Musk spent almost $450m (£334m) – more than anyone ever has in an election cycle – to back Republican political candidates in the US midterm races."
+          },
+          {
+            "en": "It was not enough to keep Democrats from a resounding victory.",
+            "ko": "실시간 보도 번역: It was not enough to keep Democrats from a resounding victory."
+          }
+        ]
+      },
+      {
+        "en": "Among the most striking wins went to Democrat James Talarico, who beat Republican Ken Paxton for a US Senate seat in Texas. Musk spent at least $45m in support of Paxton, according to a BBC analysis of campaign finance data.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Among the most striking wins went to Democrat James Talarico, who beat Republican Ken Paxton for a US Senate seat in Texas.",
+            "ko": "실시간 보도 번역: Among the most striking wins went to Democrat James Talarico, who beat Republican Ken Paxton for a US Senate seat in Texas."
+          },
+          {
+            "en": "Musk spent at least $45m in support of Paxton, according to a BBC analysis of campaign finance data.",
+            "ko": "실시간 보도 번역: Musk spent at least $45m in support of Paxton, according to a BBC analysis of campaign finance data."
+          }
+        ]
+      },
+      {
+        "en": "Other races where Musk spent millions included Arizona, Michigan, Wisconsin and Minnesota. His spending continued into Monday, records show.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Other races where Musk spent millions included Arizona, Michigan, Wisconsin and Minnesota.",
+            "ko": "실시간 보도 번역: Other races where Musk spent millions included Arizona, Michigan, Wisconsin and Minnesota."
+          },
+          {
+            "en": "His spending continued into Monday, records show.",
+            "ko": "실시간 보도 번역: His spending continued into Monday, records show."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1152804555307463254",
     "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
     "subtitle": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers....",
@@ -726,70 +827,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_4188245400726453512",
-    "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-    "subtitle": "The Saudi government did not immediately respond to BBC requests for comment....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-19",
-    "addedAt": "2026-10-20T03:05:53Z",
-    "category": "tech",
+    "id": "auto_science_593771034820751482",
+    "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+    "subtitle": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather....",
+    "speaker": "BBC Science",
+    "date": "2026-11-04",
+    "addedAt": "2026-11-05T04:48:46Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 142,
+    "wordCount": 130,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechEx-OpenAI worker accused of planting device had Saudi support, says court filingImage source, Reuters/DOJByLaura CressTechnology reporterPublished19 October 2026A Saudi national charged with secretly planting a recording device in one of OpenAI&#x27;s meeting rooms has been accused of having &quot;considerable support&quot; from the Saudi government, according to a court filing, external in California.",
+        "en": "Fishermen return to sea under a crimson sky in August after China's Jiangsu province is hit by Super Typhoon Dolphin",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechEx-OpenAI worker accused of planting device had Saudi support, says court filingImage source, Reuters/DOJByLaura CressTechnology reporterPublished19 October 2026A Saudi national charged with secretly planting a recording device in one of OpenAI&#x27;s meeting rooms has been accused of having &quot;considerable support&quot; from the Saudi government, according to a court filing, external in California.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechEx-OpenAI worker accused of planting device had Saudi support, says court filingImage source, Reuters/DOJByLaura CressTechnology reporterPublished19 October 2026A Saudi national charged with secretly planting a recording device in one of OpenAI&#x27;s meeting rooms has been accused of having &quot;considerable support&quot; from the Saudi government, according to a court filing, external in California."
+            "en": "Fishermen return to sea under a crimson sky in August after China's Jiangsu province is hit by Super Typhoon Dolphin",
+            "ko": "실시간 보도 번역: Fishermen return to sea under a crimson sky in August after China's Jiangsu province is hit by Super Typhoon Dolphin"
           }
         ]
       },
       {
-        "en": "US prosecutors claimed Abdulrahman Alfozan, who worked for the AI firm, was in &quot;frequent communication... with a member of the Saudi royal family&quot;, and say a member of the country&#x27;s military paid for a one-way flight to Saudi Arabia for his wife and son after his arrest.",
+        "en": "Wild weather is a way of life for people living along the coast in the Philippines, Taiwan, China and Japan. But the last few months have been extraordinary.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "US prosecutors claimed Abdulrahman Alfozan, who worked for the AI firm, was in &quot;frequent communication...",
-            "ko": "실시간 보도 번역: US prosecutors claimed Abdulrahman Alfozan, who worked for the AI firm, was in &quot;frequent communication..."
+            "en": "Wild weather is a way of life for people living along the coast in the Philippines, Taiwan, China and Japan.",
+            "ko": "실시간 보도 번역: Wild weather is a way of life for people living along the coast in the Philippines, Taiwan, China and Japan."
           },
           {
-            "en": "with a member of the Saudi royal family&quot;, and say a member of the country&#x27;s military paid for a one-way flight to Saudi Arabia for his wife and son after his arrest.",
-            "ko": "실시간 보도 번역: with a member of the Saudi royal family&quot;, and say a member of the country&#x27;s military paid for a one-way flight to Saudi Arabia for his wife and son after his arrest."
+            "en": "But the last few months have been extraordinary.",
+            "ko": "실시간 보도 번역: But the last few months have been extraordinary."
           }
         ]
       },
       {
-        "en": "The 35-year-old engineer was on Monday deemed a flight risk and denied bail, pending trial.",
+        "en": "A wave of intense and, at times, unpredictable storms exacerbated by the El Niño weather pattern has killed dozens, shuttered major airports and wiped out crops and infrastructure across a swathe of East Asia.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The 35-year-old engineer was on Monday deemed a flight risk and denied bail, pending trial.",
-            "ko": "실시간 보도 번역: The 35-year-old engineer was on Monday deemed a flight risk and denied bail, pending trial."
+            "en": "A wave of intense and, at times, unpredictable storms exacerbated by the El Niño weather pattern has killed dozens, shuttered major airports and wiped out crops and infrastructure across a swathe of East Asia.",
+            "ko": "실시간 보도 번역: A wave of intense and, at times, unpredictable storms exacerbated by the El Niño weather pattern has killed dozens, shuttered major airports and wiped out crops and infrastructure across a swathe of East Asia."
           }
         ]
       },
       {
-        "en": "The Saudi government did not immediately respond to BBC requests for comment.",
+        "en": "In October, nearly all of Taiwan shut down as a monster storm big enough to engulf the island of 23 million roared towards its north-eastern coast. Equivalent to a category five hurricane, Typhoon Champi's 295km/h (193mph) winds had the power to flatten homes and whip up destructive waves.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Saudi government did not immediately respond to BBC requests for comment.",
-            "ko": "실시간 보도 번역: The Saudi government did not immediately respond to BBC requests for comment."
+            "en": "In October, nearly all of Taiwan shut down as a monster storm big enough to engulf the island of 23 million roared towards its north-eastern coast.",
+            "ko": "실시간 보도 번역: In October, nearly all of Taiwan shut down as a monster storm big enough to engulf the island of 23 million roared towards its north-eastern coast."
+          },
+          {
+            "en": "Equivalent to a category five hurricane, Typhoon Champi's 295km/h (193mph) winds had the power to flatten homes and whip up destructive waves.",
+            "ko": "실시간 보도 번역: Equivalent to a category five hurricane, Typhoon Champi's 295km/h (193mph) winds had the power to flatten homes and whip up destructive waves."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "글로벌 최신 소식: Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -797,7 +902,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+          "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1500,110 +1605,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_4504011705355449155",
-    "title": "BBC visits wildfire front in haze-choked Indonesia",
-    "subtitle": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents....",
-    "speaker": "BBC Science",
-    "date": "2026-10-19",
-    "addedAt": "2026-10-19T02:56:02Z",
-    "category": "science",
+    "id": "auto_economy_460001961416226253",
+    "title": "Interest rates expected to rise for first time in over three years",
+    "subtitle": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years....",
+    "speaker": "BBC Business",
+    "date": "2026-11-05",
+    "addedAt": "2026-11-05T04:48:47Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 126,
+    "wordCount": 106,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"BBC visits Indonesia's wildfire ground blanketed by toxic haze\",\"description\":\"The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents.\",\"thumbnailUrl\":[\"https://ichef.bbci.co.uk/ace/standard/1920/galileo/p0phdnvx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/1248/galileo/p0phdnvx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/688/galileo/p0phdnvx.jpg\",\"https://ichef.bbci.co.uk/ace/standard/400/galileo/p0phdnvx.jpg\"],\"uploadDate\":\"2026-10-19T01:57:02.001Z\",\"duration\":\"PT1M1S\"}BBC visits wildfire front in haze-choked IndonesiaTo play this video you need to enable JavaScript in your browser.This video can not be played",
+        "en": "Policymakers at the Bank of England are expected to raise interest rates on Thursday in what would be the first increase to the benchmark rate for more than three years.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatAsiaChinaIndia{\"@context\":\"https://schema."
-          },
-          {
-            "en": "org\",\"@type\":\"VideoObject\",\"name\":\"BBC visits Indonesia's wildfire ground blanketed by toxic haze\",\"description\":\"The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents.",
-            "ko": "실시간 보도 번역: org\",\"@type\":\"VideoObject\",\"name\":\"BBC visits Indonesia's wildfire ground blanketed by toxic haze\",\"description\":\"The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents."
-          },
-          {
-            "en": "\",\"thumbnailUrl\":[\"https://ichef.",
-            "ko": "실시간 보도 번역: \",\"thumbnailUrl\":[\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1920/galileo/p0phdnvx.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1920/galileo/p0phdnvx."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/1248/galileo/p0phdnvx.",
-            "ko": "실시간 보도 번역: uk/ace/standard/1248/galileo/p0phdnvx."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/688/galileo/p0phdnvx.",
-            "ko": "실시간 보도 번역: uk/ace/standard/688/galileo/p0phdnvx."
-          },
-          {
-            "en": "jpg\",\"https://ichef.",
-            "ko": "실시간 보도 번역: jpg\",\"https://ichef."
-          },
-          {
-            "en": "uk/ace/standard/400/galileo/p0phdnvx.",
-            "ko": "실시간 보도 번역: uk/ace/standard/400/galileo/p0phdnvx."
-          },
-          {
-            "en": "jpg\"],\"uploadDate\":\"2026-10-19T01:57:02.",
-            "ko": "실시간 보도 번역: jpg\"],\"uploadDate\":\"2026-10-19T01:57:02."
-          },
-          {
-            "en": "001Z\",\"duration\":\"PT1M1S\"}BBC visits wildfire front in haze-choked IndonesiaTo play this video you need to enable JavaScript in your browser.",
-            "ko": "실시간 보도 번역: 001Z\",\"duration\":\"PT1M1S\"}BBC visits wildfire front in haze-choked IndonesiaTo play this video you need to enable JavaScript in your browser."
+            "en": "Policymakers at the Bank of England are expected to raise interest rates on Thursday in what would be the first increase to the benchmark rate for more than three years.",
+            "ko": "실시간 보도 번역: Policymakers at the Bank of England are expected to raise interest rates on Thursday in what would be the first increase to the benchmark rate for more than three years."
           }
         ]
       },
       {
-        "en": "CloseAs Indonesia battles its worst wildfire season in a decade, a toxic haze is choking millions of residents in the region.",
+        "en": "Most analysts are predicting an rise from 3.75% to 4% in a move that would increase the cost of borrowing for individuals and businesses, but boost savers.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "CloseAs Indonesia battles its worst wildfire season in a decade, a toxic haze is choking millions of residents in the region.",
-            "ko": "실시간 보도 번역: CloseAs Indonesia battles its worst wildfire season in a decade, a toxic haze is choking millions of residents in the region."
+            "en": "Most analysts are predicting an rise from 3.",
+            "ko": "실시간 보도 번역: Most analysts are predicting an rise from 3."
+          },
+          {
+            "en": "75% to 4% in a move that would increase the cost of borrowing for individuals and businesses, but boost savers.",
+            "ko": "실시간 보도 번역: 75% to 4% in a move that would increase the cost of borrowing for individuals and businesses, but boost savers."
           }
         ]
       },
       {
-        "en": "The BBC&#x27;s Liza Tambunan is in central Kalimantan, where air pollution levels have plunged to hazardous levels.",
+        "en": "The Bank rate has fallen from its 2023-24 peak of 5.25%, although the Bank's Monetary Policy Committee (MPC) has left the rate unchanged at its last six meetings.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The BBC&#x27;s Liza Tambunan is in central Kalimantan, where air pollution levels have plunged to hazardous levels.",
-            "ko": "실시간 보도 번역: The BBC&#x27;s Liza Tambunan is in central Kalimantan, where air pollution levels have plunged to hazardous levels."
+            "en": "The Bank rate has fallen from its 2023-24 peak of 5.",
+            "ko": "실시간 보도 번역: The Bank rate has fallen from its 2023-24 peak of 5."
+          },
+          {
+            "en": "25%, although the Bank's Monetary Policy Committee (MPC) has left the rate unchanged at its last six meetings.",
+            "ko": "실시간 보도 번역: 25%, although the Bank's Monetary Policy Committee (MPC) has left the rate unchanged at its last six meetings."
           }
         ]
       },
       {
-        "en": "The haze has been linked to hundreds of thousands of respiratory illnesses in Indonesia, and has drifted to neighbouring countries like Singapore and Malaysia.",
+        "en": "Rising inflation, driven primarily by the cost of petrol and diesel, will push policymakers into an interest rate hike, analysts suggest.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The haze has been linked to hundreds of thousands of respiratory illnesses in Indonesia, and has drifted to neighbouring countries like Singapore and Malaysia.",
-            "ko": "실시간 보도 번역: The haze has been linked to hundreds of thousands of respiratory illnesses in Indonesia, and has drifted to neighbouring countries like Singapore and Malaysia."
+            "en": "Rising inflation, driven primarily by the cost of petrol and diesel, will push policymakers into an interest rate hike, analysts suggest.",
+            "ko": "실시간 보도 번역: Rising inflation, driven primarily by the cost of petrol and diesel, will push policymakers into an interest rate hike, analysts suggest."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: BBC visits wildfire front in haze-choked Indonesia",
+      "글로벌 최신 소식: Interest rates expected to rise for first time in over three years",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1611,7 +1680,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "BBC visits wildfire front in haze-choked Indonesia",
+          "Interest rates expected to rise for first time in over three years",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2365,83 +2434,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Burnham vows end to 'rip-off parking charges' under new rules",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_227777174447299447",
-    "title": "Vinted blocks French looters listing stolen goods for sale",
-    "subtitle": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\"....",
-    "speaker": "BBC Business",
-    "date": "2026-10-19",
-    "addedAt": "2026-10-19T18:13:27Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 132,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVinted blocks French looters listing stolen goods for saleImage source, Getty ImagesByMichael RaceBusiness reporterPublished19 October 2026, 16:25 BSTUpdated 1 hour agoVinted says it has removed listings of items believed to have been looted from shops during the ongoing riots in France.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVinted blocks French looters listing stolen goods for saleImage source, Getty ImagesByMichael RaceBusiness reporterPublished19 October 2026, 16:25 BSTUpdated 1 hour agoVinted says it has removed listings of items believed to have been looted from shops during the ongoing riots in France.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessVinted blocks French looters listing stolen goods for saleImage source, Getty ImagesByMichael RaceBusiness reporterPublished19 October 2026, 16:25 BSTUpdated 1 hour agoVinted says it has removed listings of items believed to have been looted from shops during the ongoing riots in France."
-          }
-        ]
-      },
-      {
-        "en": "The second hand re-selling platform said following the weekend&#x27;s disorder it had &quot;taken immediate action to identify and remove listings linked to looting&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The second hand re-selling platform said following the weekend&#x27;s disorder it had &quot;taken immediate action to identify and remove listings linked to looting&quot;.",
-            "ko": "실시간 보도 번역: The second hand re-selling platform said following the weekend&#x27;s disorder it had &quot;taken immediate action to identify and remove listings linked to looting&quot;."
-          }
-        ]
-      },
-      {
-        "en": "Shops across several French cities were broken into and ransacked during the outbreak of riots over the weekend.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Shops across several French cities were broken into and ransacked during the outbreak of riots over the weekend.",
-            "ko": "실시간 보도 번역: Shops across several French cities were broken into and ransacked during the outbreak of riots over the weekend."
-          }
-        ]
-      },
-      {
-        "en": "&quot;The sale of stolen goods, or soliciting them, is strictly prohibited on Vinted, and we have zero tolerance for it,&quot; a spokesperson for the company said.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "&quot;The sale of stolen goods, or soliciting them, is strictly prohibited on Vinted, and we have zero tolerance for it,&quot; a spokesperson for the company said.",
-            "ko": "실시간 보도 번역: &quot;The sale of stolen goods, or soliciting them, is strictly prohibited on Vinted, and we have zero tolerance for it,&quot; a spokesperson for the company said."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Vinted blocks French looters listing stolen goods for sale",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Vinted blocks French looters listing stolen goods for sale",
           "Historical retrospective",
           "Unrelated general weather"
         ],
