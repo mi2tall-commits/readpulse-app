@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_909878805965602809",
+    "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+    "subtitle": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-ter...",
+    "speaker": "BBC Technology",
+    "date": "2026-11-05",
+    "addedAt": "2026-11-05T19:23:49Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 101,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Shares in Elon Musk's SpaceX have plunged as tech and artificial intelligence stocks more broadly plummeted a day after the Democrats swept to victory in the midterms.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Shares in Elon Musk's SpaceX have plunged as tech and artificial intelligence stocks more broadly plummeted a day after the Democrats swept to victory in the midterms.",
+            "ko": "실시간 보도 번역: Shares in Elon Musk's SpaceX have plunged as tech and artificial intelligence stocks more broadly plummeted a day after the Democrats swept to victory in the midterms."
+          }
+        ]
+      },
+      {
+        "en": "Those losses dragged the tech-heavy Nasdaq Composite stock index down, which had fallen by more than 5% at one point in early trading.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Those losses dragged the tech-heavy Nasdaq Composite stock index down, which had fallen by more than 5% at one point in early trading.",
+            "ko": "실시간 보도 번역: Those losses dragged the tech-heavy Nasdaq Composite stock index down, which had fallen by more than 5% at one point in early trading."
+          }
+        ]
+      },
+      {
+        "en": "The market has been reacting to possible tougher scrutiny of data centre construction and the artificial intelligence (AI) industry following Democrat wins in key data centre states including Texas.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "The market has been reacting to possible tougher scrutiny of data centre construction and the artificial intelligence (AI) industry following Democrat wins in key data centre states including Texas.",
+            "ko": "실시간 보도 번역: The market has been reacting to possible tougher scrutiny of data centre construction and the artificial intelligence (AI) industry following Democrat wins in key data centre states including Texas."
+          }
+        ]
+      },
+      {
+        "en": "Following the election, some tech leaders have acknowledged they need to improve their communication around data centres and the benefits of AI.",
+        "ko": "글로벌 최신 보도 내용입니다.",
+        "sentences": [
+          {
+            "en": "Following the election, some tech leaders have acknowledged they need to improve their communication around data centres and the benefits of AI.",
+            "ko": "실시간 보도 번역: Following the election, some tech leaders have acknowledged they need to improve their communication around data centres and the benefits of AI."
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_374973229485236289",
     "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
     "subtitle": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record....",
@@ -750,66 +827,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_8695793741743482177",
-    "title": "Google says services recovering after cloud outage hits UK banks and websites",
-    "subtitle": "Revolut was one of the hardest hit, with banking services going down for many customers....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-20",
-    "addedAt": "2026-10-20T16:14:03Z",
-    "category": "tech",
+    "id": "auto_science_1020403742671698341",
+    "title": "Investigation into 'major fish kill' after pollution incident",
+    "subtitle": "The pollution caused the death of brown and migratory sea trout in the Inler river....",
+    "speaker": "BBC Science",
+    "date": "2026-11-05",
+    "addedAt": "2026-11-05T19:23:49Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 127,
+    "wordCount": 96,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGoogle says services recovering after cloud outage hits UK banks and websitesImage source, Getty ImagesImage caption, Revolut was among UK banking services seemingly affected by the Google Cloud outage on Tuesday",
+        "en": "The angling club said that the pollution incident killed brown and migratory sea trout",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGoogle says services recovering after cloud outage hits UK banks and websitesImage source, Getty ImagesImage caption, Revolut was among UK banking services seemingly affected by the Google Cloud outage on Tuesday",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatTechGoogle says services recovering after cloud outage hits UK banks and websitesImage source, Getty ImagesImage caption, Revolut was among UK banking services seemingly affected by the Google Cloud outage on Tuesday"
+            "en": "The angling club said that the pollution incident killed brown and migratory sea trout",
+            "ko": "실시간 보도 번역: The angling club said that the pollution incident killed brown and migratory sea trout"
           }
         ]
       },
       {
-        "en": "Google Cloud says services are recovering after a &quot;power event&quot; at its UK cloud site caused an outage affecting UK banks, businesses and the courts.",
+        "en": "A investigation is underway after \"a major fish kill\" in a County Down river, the Department for Agriculture, Environment and Rural Affairs (Daera) has confirmed.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Google Cloud says services are recovering after a &quot;power event&quot; at its UK cloud site caused an outage affecting UK banks, businesses and the courts.",
-            "ko": "실시간 보도 번역: Google Cloud says services are recovering after a &quot;power event&quot; at its UK cloud site caused an outage affecting UK banks, businesses and the courts."
+            "en": "A investigation is underway after \"a major fish kill\" in a County Down river, the Department for Agriculture, Environment and Rural Affairs (Daera) has confirmed.",
+            "ko": "실시간 보도 번역: A investigation is underway after \"a major fish kill\" in a County Down river, the Department for Agriculture, Environment and Rural Affairs (Daera) has confirmed."
           }
         ]
       },
       {
-        "en": "The company, one of a few large cloud computing firms whose infrastructure and services underpin many online platforms, reported an &quot;issue with multiple services&quot; at its London data centre complex &quot;europe-west2.&quot;",
+        "en": "The pollution caused the death of brown and migratory sea trout in the Gransha, Ballystockart and Inler (also known as Enler) Rivers.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The company, one of a few large cloud computing firms whose infrastructure and services underpin many online platforms, reported an &quot;issue with multiple services&quot; at its London data centre complex &quot;europe-west2.",
-            "ko": "실시간 보도 번역: The company, one of a few large cloud computing firms whose infrastructure and services underpin many online platforms, reported an &quot;issue with multiple services&quot; at its London data centre complex &quot;europe-west2."
+            "en": "The pollution caused the death of brown and migratory sea trout in the Gransha, Ballystockart and Inler (also known as Enler) Rivers.",
+            "ko": "실시간 보도 번역: The pollution caused the death of brown and migratory sea trout in the Gransha, Ballystockart and Inler (also known as Enler) Rivers."
           }
         ]
       },
       {
-        "en": "Revolut, Lloyds Bank and HSBC confirmed disruption to some services on Tuesday morning, after thousands of reports of problems were raised by users online.",
+        "en": "Glenn McKibbin, the secretary of Inler Angling Club, said about 1,000 fish were killed in the incident and it \"could not have happened in a worse location on the river or at a worse time\".",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Revolut, Lloyds Bank and HSBC confirmed disruption to some services on Tuesday morning, after thousands of reports of problems were raised by users online.",
-            "ko": "실시간 보도 번역: Revolut, Lloyds Bank and HSBC confirmed disruption to some services on Tuesday morning, after thousands of reports of problems were raised by users online."
+            "en": "Glenn McKibbin, the secretary of Inler Angling Club, said about 1,000 fish were killed in the incident and it \"could not have happened in a worse location on the river or at a worse time\".",
+            "ko": "실시간 보도 번역: Glenn McKibbin, the secretary of Inler Angling Club, said about 1,000 fish were killed in the incident and it \"could not have happened in a worse location on the river or at a worse time\"."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Google says services recovering after cloud outage hits UK banks and websites",
+      "글로벌 최신 소식: Investigation into 'major fish kill' after pollution incident",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -817,7 +894,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Google says services recovering after cloud outage hits UK banks and websites",
+          "Investigation into 'major fish kill' after pollution incident",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1528,66 +1605,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_1288362424723704124",
-    "title": "Mission set to blast off for Mars to grab a piece of its moon",
-    "subtitle": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth....",
-    "speaker": "BBC Science",
-    "date": "2026-10-19",
-    "addedAt": "2026-10-19T18:13:25Z",
-    "category": "science",
+    "id": "auto_economy_271650200282107727",
+    "title": "Interest rates hiked to 4% in first increase in over three years",
+    "subtitle": "Most analysts expected the increase from 3.75% to 4%....",
+    "speaker": "BBC Business",
+    "date": "2026-11-05",
+    "addedAt": "2026-11-05T19:23:50Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 110,
+    "wordCount": 122,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceMission set to blast off for Mars to grab a piece of its moonImage source, JAXAImage caption, The spacecraft will head to Mars&#x27;s larger moon, Phobos",
+        "en": "Interest rates have risen for the first time in more than three years and the Bank of England has signalled a further increase is likely unless the US-Iran war is resolved.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceMission set to blast off for Mars to grab a piece of its moonImage source, JAXAImage caption, The spacecraft will head to Mars&#x27;s larger moon, Phobos",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatScienceMission set to blast off for Mars to grab a piece of its moonImage source, JAXAImage caption, The spacecraft will head to Mars&#x27;s larger moon, Phobos"
+            "en": "Interest rates have risen for the first time in more than three years and the Bank of England has signalled a further increase is likely unless the US-Iran war is resolved.",
+            "ko": "실시간 보도 번역: Interest rates have risen for the first time in more than three years and the Bank of England has signalled a further increase is likely unless the US-Iran war is resolved."
           }
         ]
       },
       {
-        "en": "A space mission is set to launch on Monday that will attempt to grab a piece of Mars&#x27; moon Phobos and bring it back to Earth.",
+        "en": "Rates rose to 4% from 3.75% in a bid to curb inflation mainly driven by the conflict's impact on global oil prices.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "A space mission is set to launch on Monday that will attempt to grab a piece of Mars&#x27; moon Phobos and bring it back to Earth.",
-            "ko": "실시간 보도 번역: A space mission is set to launch on Monday that will attempt to grab a piece of Mars&#x27; moon Phobos and bring it back to Earth."
+            "en": "Rates rose to 4% from 3.",
+            "ko": "실시간 보도 번역: Rates rose to 4% from 3."
+          },
+          {
+            "en": "75% in a bid to curb inflation mainly driven by the conflict's impact on global oil prices.",
+            "ko": "실시간 보도 번역: 75% in a bid to curb inflation mainly driven by the conflict's impact on global oil prices."
           }
         ]
       },
       {
-        "en": "If it is successful, this will become the first time a sample has been returned from Mars or its moons to be analysed in laboratories here on Earth.",
+        "en": "Andrew Bailey, the Bank's governor, said the decision \"shouldn't be seen as the first in an inevitable long sequence of hikes\", but warned \"unless the conflict in the Middle East is resolved, neither does it seem likely to be the last increase\".",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "If it is successful, this will become the first time a sample has been returned from Mars or its moons to be analysed in laboratories here on Earth.",
-            "ko": "실시간 보도 번역: If it is successful, this will become the first time a sample has been returned from Mars or its moons to be analysed in laboratories here on Earth."
+            "en": "Andrew Bailey, the Bank's governor, said the decision \"shouldn't be seen as the first in an inevitable long sequence of hikes\", but warned \"unless the conflict in the Middle East is resolved, neither does it seem likely to be the last increase\".",
+            "ko": "실시간 보도 번역: Andrew Bailey, the Bank's governor, said the decision \"shouldn't be seen as the first in an inevitable long sequence of hikes\", but warned \"unless the conflict in the Middle East is resolved, neither does it seem likely to be the last increase\"."
           }
         ]
       },
       {
-        "en": "The spacecraft will blast off from Japan and arrive at Phobos in August 2027.",
+        "en": "The higher level will increase the cost of borrowing for things such as mortgages, loans and credit cards, but will also lead to higher returns on savings.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The spacecraft will blast off from Japan and arrive at Phobos in August 2027.",
-            "ko": "실시간 보도 번역: The spacecraft will blast off from Japan and arrive at Phobos in August 2027."
+            "en": "The higher level will increase the cost of borrowing for things such as mortgages, loans and credit cards, but will also lead to higher returns on savings.",
+            "ko": "실시간 보도 번역: The higher level will increase the cost of borrowing for things such as mortgages, loans and credit cards, but will also lead to higher returns on savings."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Mission set to blast off for Mars to grab a piece of its moon",
+      "글로벌 최신 소식: Interest rates hiked to 4% in first increase in over three years",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1595,7 +1676,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Mission set to blast off for Mars to grab a piece of its moon",
+          "Interest rates hiked to 4% in first increase in over three years",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2362,70 +2443,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_2331935536100687902",
-    "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-    "subtitle": "Penalties are seen as too harsh on motorists who are penalised for parking on private land....",
-    "speaker": "BBC Business",
-    "date": "2026-10-19",
-    "addedAt": "2026-10-20T03:05:53Z",
-    "category": "economy",
+    "id": "auto_sports_507409410241412497",
+    "title": "'I don't fear for my safety from online abuse - because we're so used to it'",
+    "subtitle": "Britain's Jodie Burrage speaks to BBC Sport about the online abuse she received after her recent defeat - and why it no longer com...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-05",
+    "addedAt": "2026-11-05T19:23:50Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 155,
+    "wordCount": 97,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBurnham vows end to &#x27;rip-off parking charges&#x27; under new rulesImage source, PA MediaByFaarea MasudBusiness reporterPublished5 hours agoDrivers will be given the right to challenge &quot;rip off&quot; private parking charges and more grace when using private providers under new rules set out by Andy Burnham.",
+        "en": "Jodie Burrage has represented Great Britain at the Billie Jean King Cup",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBurnham vows end to &#x27;rip-off parking charges&#x27; under new rulesImage source, PA MediaByFaarea MasudBusiness reporterPublished5 hours agoDrivers will be given the right to challenge &quot;rip off&quot; private parking charges and more grace when using private providers under new rules set out by Andy Burnham.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessBurnham vows end to &#x27;rip-off parking charges&#x27; under new rulesImage source, PA MediaByFaarea MasudBusiness reporterPublished5 hours agoDrivers will be given the right to challenge &quot;rip off&quot; private parking charges and more grace when using private providers under new rules set out by Andy Burnham."
+            "en": "Jodie Burrage has represented Great Britain at the Billie Jean King Cup",
+            "ko": "실시간 보도 번역: Jodie Burrage has represented Great Britain at the Billie Jean King Cup"
           }
         ]
       },
       {
-        "en": "The Prime Minister announced the changes after drivers repeatedly raised concerns penalties issued by private providers were too harsh and left motorists unfairly penalised.",
+        "en": "After struggling with her blood pressure as she lost her first WTA Tour singles match for 16 months, Jodie Burrage checked in with three things: a doctor, a physiotherapist, and her phone.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "The Prime Minister announced the changes after drivers repeatedly raised concerns penalties issued by private providers were too harsh and left motorists unfairly penalised.",
-            "ko": "실시간 보도 번역: The Prime Minister announced the changes after drivers repeatedly raised concerns penalties issued by private providers were too harsh and left motorists unfairly penalised."
+            "en": "After struggling with her blood pressure as she lost her first WTA Tour singles match for 16 months, Jodie Burrage checked in with three things: a doctor, a physiotherapist, and her phone.",
+            "ko": "실시간 보도 번역: After struggling with her blood pressure as she lost her first WTA Tour singles match for 16 months, Jodie Burrage checked in with three things: a doctor, a physiotherapist, and her phone."
           }
         ]
       },
       {
-        "en": "In one case, a woman was taken to court in a £1,906 claim after taking longer than five minutes to pay at a car park in Derby. The charge was eventually dropped.",
+        "en": "On her social media feed there were already messages promising punishment - and others making threats on her life - for losing 3-6 6-3 7-5 to Indian wildcard Vaishnavi Adkar.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "In one case, a woman was taken to court in a £1,906 claim after taking longer than five minutes to pay at a car park in Derby.",
-            "ko": "실시간 보도 번역: In one case, a woman was taken to court in a £1,906 claim after taking longer than five minutes to pay at a car park in Derby."
-          },
-          {
-            "en": "The charge was eventually dropped.",
-            "ko": "실시간 보도 번역: The charge was eventually dropped."
+            "en": "On her social media feed there were already messages promising punishment - and others making threats on her life - for losing 3-6 6-3 7-5 to Indian wildcard Vaishnavi Adkar.",
+            "ko": "실시간 보도 번역: On her social media feed there were already messages promising punishment - and others making threats on her life - for losing 3-6 6-3 7-5 to Indian wildcard Vaishnavi Adkar."
           }
         ]
       },
       {
-        "en": "Private car parks already have an industry code of practice, but the RAC motoring group said the government&#x27;s changes would protect drivers from the &quot;poor practices of some private parking companies&quot;.",
+        "en": "\"I try not to actually read what they say,\" Burrage told BBC Sport from Chennai, where she is still competing in the doubles.",
         "ko": "글로벌 최신 보도 내용입니다.",
         "sentences": [
           {
-            "en": "Private car parks already have an industry code of practice, but the RAC motoring group said the government&#x27;s changes would protect drivers from the &quot;poor practices of some private parking companies&quot;.",
-            "ko": "실시간 보도 번역: Private car parks already have an industry code of practice, but the RAC motoring group said the government&#x27;s changes would protect drivers from the &quot;poor practices of some private parking companies&quot;."
+            "en": "\"I try not to actually read what they say,\" Burrage told BBC Sport from Chennai, where she is still competing in the doubles.",
+            "ko": "실시간 보도 번역: \"I try not to actually read what they say,\" Burrage told BBC Sport from Chennai, where she is still competing in the doubles."
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Burnham vows end to 'rip-off parking charges' under new rules",
+      "글로벌 최신 소식: 'I don't fear for my safety from online abuse - because we're so used to it'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2433,14 +2510,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Burnham vows end to 'rip-off parking charges' under new rules",
+          "'I don't fear for my safety from online abuse - because we're so used to it'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_601157000311445689",
@@ -3143,85 +3222,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Dart stuns Badosa to make second career semi-final",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_4165401114875515157",
-    "title": "Boulter produces emphatic win at Japan Open",
-    "subtitle": "Britain's Katie Boulter claims a dominant win in her rain-affected first-round match against Himeno Sakatsume in the Japan Open....",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-20",
-    "addedAt": "2026-10-20T16:14:05Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 108,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter produces emphatic win at Japan OpenImage source, Getty ImagesImage caption, Boulter is 58th in the women&#x27;s rankings",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter produces emphatic win at Japan OpenImage source, Getty ImagesImage caption, Boulter is 58th in the women&#x27;s rankings",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC SportMenuHomeFootballCricketFormula 1Rugby UTennisGolfCyclingAthleticsMoreA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballRugby LeagueRugby UnionSnookerSwimmingTennisFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandQuizzesNews FeedsHelp &amp; FAQsTennisScores &amp; ScheduleQuizzesCalendarBoulter produces emphatic win at Japan OpenImage source, Getty ImagesImage caption, Boulter is 58th in the women&#x27;s rankings"
-          }
-        ]
-      },
-      {
-        "en": "Katie Boulter claimed a dominant win in her rain-affected first round match against Himeno Sakatsume in the Japan Open.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Katie Boulter claimed a dominant win in her rain-affected first round match against Himeno Sakatsume in the Japan Open.",
-            "ko": "실시간 보도 번역: Katie Boulter claimed a dominant win in her rain-affected first round match against Himeno Sakatsume in the Japan Open."
-          }
-        ]
-      },
-      {
-        "en": "The British player was a set and 3-1 up against the home favourite when play was halted because of bad weather in Osaka on Monday.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The British player was a set and 3-1 up against the home favourite when play was halted because of bad weather in Osaka on Monday.",
-            "ko": "실시간 보도 번역: The British player was a set and 3-1 up against the home favourite when play was halted because of bad weather in Osaka on Monday."
-          }
-        ]
-      },
-      {
-        "en": "She completed the win on Tuesday as she secured a 6-3 6-1 victory.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "She completed the win on Tuesday as she secured a 6-3 6-1 victory.",
-            "ko": "실시간 보도 번역: She completed the win on Tuesday as she secured a 6-3 6-1 victory."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Boulter produces emphatic win at Japan Open",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Boulter produces emphatic win at Japan Open",
           "Historical retrospective",
           "Unrelated general weather"
         ],
