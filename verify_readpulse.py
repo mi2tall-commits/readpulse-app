@@ -112,9 +112,14 @@ def run_verification():
         time.sleep(1.2) # Allow simulation to run
 
         shadow_result = driver.find_element(By.ID, "shadowResultBox")
-        assert "show" in shadow_result.get_attribute("class"), "Shadowing result box did not show"
-        score = driver.find_element(By.ID, "shadowAccuracyScore").text
-        print(f"[TEST] AI Pronunciation Accuracy Score: {score}")
+        mic_label = driver.find_element(By.ID, "micStatusLabel").text
+        if "show" in shadow_result.get_attribute("class"):
+            score = driver.find_element(By.ID, "shadowAccuracyScore").text
+            print(f"[TEST] AI Pronunciation Accuracy Score: {score}")
+        else:
+            # 헤드리스 Chrome에는 마이크가 없으므로, 가짜 점수 대신 안내 문구가 나와야 한다
+            assert "채점" in mic_label or "말소리" in mic_label or "듣고 있습니다" in mic_label,                 f"Unexpected mic status: {mic_label}"
+            print(f"[TEST] Shadowing without mic -> notice shown (no fake score): {mic_label[:40]}")
 
         # Close Shadowing Modal
         close_shadow = driver.find_element(By.CSS_SELECTOR, "#shadowingModal .btn-close-modal")
