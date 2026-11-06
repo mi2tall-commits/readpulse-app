@@ -5,6 +5,7 @@ Normalize articles_database.js to ensure consistent schema across all news & spe
 import json
 import os
 import re
+import shutil
 
 def normalize_database():
     db_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'articles_database.js')
@@ -89,7 +90,10 @@ def normalize_database():
                 "explanation": q.get('explanation', '')
             })
 
+        # Keep every original field (addedAt, keywords, sportSubcat, sportPriority, ...)
+        # and only overwrite the normalized ones.
         norm_art = {
+            **art,
             "id": art.get('id'),
             "category": art.get('category', 'tech'),
             "isLive": art.get('isLive', False),
@@ -104,9 +108,15 @@ def normalize_database():
             "takeaways": takeaways,
             "quiz": norm_quiz
         }
+        # Drop legacy alias keys that were merged into the normalized fields above
+        for legacy in ('keyTakeaways', 'cefrLevel', 'author', 'readTimeMinutes', 'sentences'):
+            norm_art.pop(legacy, None)
         normalized.append(norm_art)
 
     new_content = f"// ReadPulse AI - Comprehensive English Reading & Speeches Database\nconst READPULSE_ARTICLES = {json.dumps(normalized, ensure_ascii=False, indent=2)};\n"
+    backup_path = db_path + '.bak'
+    shutil.copyfile(db_path, backup_path)
+    print(f"Backup written to {backup_path}")
     with open(db_path, 'w', encoding='utf-8') as f:
         f.write(new_content)
 
