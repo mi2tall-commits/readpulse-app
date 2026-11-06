@@ -3343,6 +3343,22 @@
     }
 
     // QUIZ SYSTEM
+    // 보기 순서를 섞어서 보여준다 (데이터의 정답이 모두 0번=A라서 섞지 않으면 항상 A가 정답).
+    // currentQuizOrders[qIdx][화면 순서] = 원래 보기 번호
+    let currentQuizOrders = [];
+    function shuffledIndices(n) {
+      const idx = Array.from({ length: n }, (_, i) => i);
+      for (let i = n - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [idx[i], idx[j]] = [idx[j], idx[i]];
+      }
+      return idx;
+    }
+    function getQuizDoneSet() {
+      try { return new Set(JSON.parse(localStorage.getItem('readpulse_quiz_done') || '[]')); }
+      catch (e) { return new Set(); }
+    }
+
     function renderQuizzes(quizzes) {
       const container = document.getElementById('readerQuizContainer');
       if (!container) return;
@@ -3352,10 +3368,11 @@
         return;
       }
 
+      currentQuizOrders = quizzes.map(q => shuffledIndices((q.options || []).length));
       container.innerHTML = quizzes.map((q, qIdx) => {
-        const optionsHtml = q.options.map((opt, oIdx) => `
+        const optionsHtml = currentQuizOrders[qIdx].map((origIdx, oIdx) => `
           <button class="quiz-opt-btn" onclick="checkQuizAnswer(${qIdx}, ${oIdx})">
-            ${String.fromCharCode(65 + oIdx)}. ${escapeHtml(opt)}
+            ${String.fromCharCode(65 + oIdx)}. ${escapeHtml(q.options[origIdx])}
           </button>
         `).join('');
 
@@ -3374,10 +3391,12 @@
       const itemEl = document.getElementById(`quiz_item_${qIdx}`);
       const feedbackEl = document.getElementById(`quiz_feedback_${qIdx}`);
       const buttons = itemEl.querySelectorAll('.quiz-opt-btn');
+      const order = currentQuizOrders[qIdx] || q.options.map((_, i) => i);
+      const correctIdx = order.indexOf(q.answer); // 화면에서 정답 보기의 위치
 
       buttons.forEach((btn, idx) => {
         btn.disabled = true;
-        if (idx === q.answer) {
+        if (idx === correctIdx) {
           btn.classList.add('correct');
         } else if (idx === selectedOptIdx) {
           btn.classList.add('wrong');
@@ -3385,15 +3404,23 @@
       });
 
       feedbackEl.classList.add('show');
-      if (selectedOptIdx === q.answer) {
+      if (selectedOptIdx === correctIdx) {
         feedbackEl.style.background = 'rgba(16, 185, 129, 0.15)';
         feedbackEl.style.color = '#34d399';
-        feedbackEl.innerHTML = `<b>정답입니다! (+10 XP)</b> ${q.explanation || ''}`;
-        addXp(10);
+        // 같은 문제로 XP를 반복해서 받지 않도록 처음 맞혔을 때만 XP를 준다
+        const doneKey = `${currentArticle.id}#${qIdx}`;
+        const done = getQuizDoneSet();
+        const firstTime = !done.has(doneKey);
+        feedbackEl.innerHTML = `<b>정답입니다!${firstTime ? ' (+10 XP)' : ' (이미 받은 XP)'}</b> ${q.explanation || ''}`;
+        if (firstTime) {
+          done.add(doneKey);
+          localStorage.setItem('readpulse_quiz_done', JSON.stringify([...done]));
+          addXp(10);
+        }
       } else {
         feedbackEl.style.background = 'rgba(239, 68, 68, 0.15)';
         feedbackEl.style.color = '#f87171';
-        feedbackEl.innerHTML = `<b>아쉽네요.</b> 정답: ${String.fromCharCode(65 + q.answer)}. ${q.explanation || ''}`;
+        feedbackEl.innerHTML = `<b>아쉽네요.</b> 정답: ${String.fromCharCode(65 + correctIdx)}. ${q.explanation || ''}`;
       }
     }
 
