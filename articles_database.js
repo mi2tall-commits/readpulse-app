@@ -1,6 +1,91 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_191594289122402714",
+    "title": "The engine parts that 'fight the laws of the universe'",
+    "subtitle": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-06",
+    "addedAt": "2026-11-06T04:47:22Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 116,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Every time you fly, an extraordinary feat of endurance occurs inside the aircraft's engines.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Every time you fly, an extraordinary feat of endurance occurs inside the aircraft's engines.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Hidden from view inside the sleek outer nacelle are hundreds of little turbine blades that can shrug off enormous mechanical stresses and temperatures exceeding 1,500C.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Hidden from view inside the sleek outer nacelle are hundreds of little turbine blades that can shrug off enormous mechanical stresses and temperatures exceeding 1,500C.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "It is a true engineering marvel. And these hardy blades are not sculpted or cut from their material – they are grown.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "It is a true engineering marvel.",
+            "ko": ""
+          },
+          {
+            "en": "And these hardy blades are not sculpted or cut from their material – they are grown.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "During the 1960s, engineers worked out how to take a molten metal alloy, cast it into the shape of a turbine blade, and then cool it very carefully from one end to the other over a matter of hours. A single crystal or grain of metal alloy forms during this process of gradual, delicate solidification.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "During the 1960s, engineers worked out how to take a molten metal alloy, cast it into the shape of a turbine blade, and then cool it very carefully from one end to the other over a matter of hours.",
+            "ko": ""
+          },
+          {
+            "en": "A single crystal or grain of metal alloy forms during this process of gradual, delicate solidification.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: The engine parts that 'fight the laws of the universe'",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "The engine parts that 'fight the laws of the universe'",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_909878805965602809",
     "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
     "subtitle": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-ter...",
@@ -737,87 +822,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_tech_297856478166223771",
-    "title": "US tech stocks see sharp falls over AI cost fears",
-    "subtitle": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-30",
-    "addedAt": "2026-10-30T17:38:09Z",
-    "category": "tech",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 109,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
-    ],
-    "paragraphs": [
-      {
-        "en": "US stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "US stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out.",
-            "ko": "실시간 보도 번역: US stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out."
-          }
-        ]
-      },
-      {
-        "en": "Shares in Intel continued their overnight slide into early trading on Friday, falling as much as 30% after the chip maker warned of a weaker computer market even as it plans to increase spending on AI.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Shares in Intel continued their overnight slide into early trading on Friday, falling as much as 30% after the chip maker warned of a weaker computer market even as it plans to increase spending on AI.",
-            "ko": "실시간 보도 번역: Shares in Intel continued their overnight slide into early trading on Friday, falling as much as 30% after the chip maker warned of a weaker computer market even as it plans to increase spending on AI."
-          }
-        ]
-      },
-      {
-        "en": "Amazon shares fell as far as 6% before recovering after its reported earnings on Thursday evening fell short of investors' expectations.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Amazon shares fell as far as 6% before recovering after its reported earnings on Thursday evening fell short of investors' expectations.",
-            "ko": "실시간 보도 번역: Amazon shares fell as far as 6% before recovering after its reported earnings on Thursday evening fell short of investors' expectations."
-          }
-        ]
-      },
-      {
-        "en": "The tech-heavy Nasdaq stock exchange opened on Friday at its lowest level in more than two months, down 2.5%, as other tech stocks including Reddit and Roblox continued to fall.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The tech-heavy Nasdaq stock exchange opened on Friday at its lowest level in more than two months, down 2.",
-            "ko": "실시간 보도 번역: The tech-heavy Nasdaq stock exchange opened on Friday at its lowest level in more than two months, down 2."
-          },
-          {
-            "en": "5%, as other tech stocks including Reddit and Roblox continued to fall.",
-            "ko": "실시간 보도 번역: 5%, as other tech stocks including Reddit and Roblox continued to fall."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: US tech stocks see sharp falls over AI cost fears",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "US tech stocks see sharp falls over AI cost fears",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1605,6 +1609,91 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_55272777712290435",
+    "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+    "subtitle": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterm...",
+    "speaker": "BBC Business",
+    "date": "2026-11-06",
+    "addedAt": "2026-11-06T04:47:22Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 119,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Hundreds of billions of dollars in market value has been wiped from major tech firms in the US and Asia in a stock market rout after the US midterm elections sparked concerns of a slowdown in artificial intelligence development.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Hundreds of billions of dollars in market value has been wiped from major tech firms in the US and Asia in a stock market rout after the US midterm elections sparked concerns of a slowdown in artificial intelligence development.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Shares in firms across the tech and AI sectors plummeted following Democratic wins after election campaigns run on slowing AI.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Shares in firms across the tech and AI sectors plummeted following Democratic wins after election campaigns run on slowing AI.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The tech-heavy Nasdaq composite index closed down by more than 5.5%, losing an estimated $2.5tn (£1.9tn) in market value, according to Dow Jones data, while other key US stock indexes also saw big losses in their worst days since 2025.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The tech-heavy Nasdaq composite index closed down by more than 5.",
+            "ko": ""
+          },
+          {
+            "en": "5%, losing an estimated $2.",
+            "ko": ""
+          },
+          {
+            "en": "9tn) in market value, according to Dow Jones data, while other key US stock indexes also saw big losses in their worst days since 2025.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The sell-off comes on top of broader concerns about whether the huge amounts being spent on AI will pay off.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The sell-off comes on top of broader concerns about whether the huge amounts being spent on AI will pay off.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_271650200282107727",
     "title": "Interest rates hiked to 4% in first increase in over three years",
     "subtitle": "Most analysts expected the increase from 3.75% to 4%....",
@@ -2357,83 +2446,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "US tech stocks see sharp falls over AI cost fears",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_4570799938340612797",
-    "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-    "subtitle": "The government increased taxes on online casino and sports betting in last year's Budget....",
-    "speaker": "BBC Business",
-    "date": "2026-10-20",
-    "addedAt": "2026-10-20T16:14:05Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 161,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPaddy Power cuts 1,400 jobs and blames betting tax risesImage source, Getty ImagesByMichael RaceBusiness reporterPublished20 October 2026, 12:47 BSTUpdated 20 minutes agoPaddy Power-owner Flutter has announced plans to cut up to 1,400 jobs as its boss claimed the company &quot;cannot fully absorb&quot; tax rises imposed on the gambling industry.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPaddy Power cuts 1,400 jobs and blames betting tax risesImage source, Getty ImagesByMichael RaceBusiness reporterPublished20 October 2026, 12:47 BSTUpdated 20 minutes agoPaddy Power-owner Flutter has announced plans to cut up to 1,400 jobs as its boss claimed the company &quot;cannot fully absorb&quot; tax rises imposed on the gambling industry.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeClimateWorldUS &amp; CanadaUKBusinessTechScienceEntertainment &amp; ArtsHealthMoreIn PicturesBBC VerifyNewsbeatBusinessNew Tech EconomyArtificial IntelligenceTechnology of BusinessAfrica BusinessPaths to SuccessPaddy Power cuts 1,400 jobs and blames betting tax risesImage source, Getty ImagesByMichael RaceBusiness reporterPublished20 October 2026, 12:47 BSTUpdated 20 minutes agoPaddy Power-owner Flutter has announced plans to cut up to 1,400 jobs as its boss claimed the company &quot;cannot fully absorb&quot; tax rises imposed on the gambling industry."
-          }
-        ]
-      },
-      {
-        "en": "Staff based in Leeds and Dublin, as well as workers for its UK and Ireland business at Flutter&#x27;s Portugal and Romania sites, will be most affected, but what roles are at risk has not been disclosed.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Staff based in Leeds and Dublin, as well as workers for its UK and Ireland business at Flutter&#x27;s Portugal and Romania sites, will be most affected, but what roles are at risk has not been disclosed.",
-            "ko": "실시간 보도 번역: Staff based in Leeds and Dublin, as well as workers for its UK and Ireland business at Flutter&#x27;s Portugal and Romania sites, will be most affected, but what roles are at risk has not been disclosed."
-          }
-        ]
-      },
-      {
-        "en": "The government announced taxes rises on online casino and sports betting, with an exemption for horse racing, in the Budget last year.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The government announced taxes rises on online casino and sports betting, with an exemption for horse racing, in the Budget last year.",
-            "ko": "실시간 보도 번역: The government announced taxes rises on online casino and sports betting, with an exemption for horse racing, in the Budget last year."
-          }
-        ]
-      },
-      {
-        "en": "Flutter boss Kevin Harrington said the tax hikes had &quot;fundamentally changed&quot; the economic model of the UK betting and gaming industry, arguing it had helped &quot;fuel the unlicensed, unregulated market&quot;.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Flutter boss Kevin Harrington said the tax hikes had &quot;fundamentally changed&quot; the economic model of the UK betting and gaming industry, arguing it had helped &quot;fuel the unlicensed, unregulated market&quot;.",
-            "ko": "실시간 보도 번역: Flutter boss Kevin Harrington said the tax hikes had &quot;fundamentally changed&quot; the economic model of the UK betting and gaming industry, arguing it had helped &quot;fuel the unlicensed, unregulated market&quot;."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Paddy Power cuts 1,400 jobs and blames betting tax rises",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Paddy Power cuts 1,400 jobs and blames betting tax rises",
           "Historical retrospective",
           "Unrelated general weather"
         ],
