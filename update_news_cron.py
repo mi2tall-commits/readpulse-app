@@ -126,10 +126,12 @@ def main():
                         if not p_sentences:
                             p_sentences = [p_text]
                         total_words += len(p_text.split())
+                        # 번역 엔진이 없으므로 ko는 비워 둔다 (예전에는 영어 원문 앞에
+                        # "실시간 보도 번역:"만 붙인 가짜 번역을 넣었다). 앱은 빈 ko를 "번역 없음"으로 표시한다.
                         paras_data.append({
                             "en": p_text,
-                            "ko": "글로벌 최신 보도 내용입니다.",
-                            "sentences": [{"en": s, "ko": "실시간 보도 번역: " + s} for s in p_sentences]
+                            "ko": "",
+                            "sentences": [{"en": s, "ko": ""} for s in p_sentences]
                         })
                 else:
                     # Fallback: RSS 설명만으로 문단을 구성할 때도 문장을 3개씩 묶어
@@ -142,8 +144,8 @@ def main():
                             chunk = raw_sentences[i:i + chunk_size]
                             paras_data.append({
                                 "en": " ".join(chunk),
-                                "ko": "실시간 글로벌 최신 뉴스입니다.",
-                                "sentences": [{"en": s, "ko": "실시간 속보 번역: " + s} for s in chunk]
+                                "ko": "",
+                                "sentences": [{"en": s, "ko": ""} for s in chunk]
                             })
 
                 # Only accept articles with substantial reading substance (at least 80 words)

@@ -2455,8 +2455,8 @@
         const chunk = sentences.slice(i, i + chunkSize);
         paragraphs.push({
           en: chunk.join(' '),
-          ko: '실시간 속보 번역 요약입니다.',
-          sentences: chunk.map(s => ({ en: s, ko: '실시간 속보 번역: ' + s }))
+          ko: '',
+          sentences: chunk.map(s => ({ en: s, ko: '' }))
         });
       }
       return paragraphs;
@@ -2503,8 +2503,8 @@
           const finalSentences = sentences.length ? sentences : [text];
           return {
             en: text,
-            ko: '실시간 뉴스 원문 기반 요약 문단입니다.',
-            sentences: finalSentences.map(s => ({ en: s, ko: '실시간 보도 번역: ' + s }))
+            ko: '',
+            sentences: finalSentences.map(s => ({ en: s, ko: '' }))
           };
         });
       } catch (e) {
@@ -2824,6 +2824,19 @@
       renderReaderBody();
     }
 
+    // 예전 자동 수집 기사에 들어간 "가짜 번역"(영어 원문 + 접두어, 고정 안내 문구)은
+    // 실제 번역이 아니므로 화면에서는 번역 없음으로 처리한다.
+    const FAKE_KO_PREFIXES = ['실시간 보도 번역: ', '실시간 속보 번역: '];
+    const FAKE_KO_PARAGRAPHS = ['글로벌 최신 보도 내용입니다.', '실시간 글로벌 최신 뉴스입니다.', '실시간 뉴스 원문 기반 요약 문단입니다.', '실시간 속보 번역 요약입니다.'];
+    function realKo(text) {
+      const t = String(text || '').trim();
+      if (!t) return '';
+      if (FAKE_KO_PREFIXES.some(p => t.startsWith(p.trim()))) return '';
+      if (FAKE_KO_PARAGRAPHS.includes(t)) return '';
+      return t;
+    }
+    const NO_KO_HTML = '<span style="color:var(--text-muted); font-style:italic;">(이 기사는 한글 번역이 없습니다)</span>';
+
     function renderReaderBody() {
       const container = document.getElementById('readerBody');
       if (!container || !currentArticle) return;
@@ -2831,10 +2844,10 @@
       container.innerHTML = currentArticle.paragraphs.map((para, pIdx) => {
         const sentencesHtml = (para.sentences || []).map((s, sIdx) => {
           const enText = s.en || s.text || '';
-          const koText = s.ko || s.translation || '';
+          const koText = realKo(s.ko || s.translation || '');
           const wordsHtml = tokenizeSentence(enText);
           const sentenceKoHtml = (readingMode === 'sentence') 
-            ? `<span class="sentence-ko-inline">└ ${escapeHtml(koText)}</span>` 
+            ? `<span class="sentence-ko-inline">└ ${koText ? escapeHtml(koText) : NO_KO_HTML}</span>` 
             : '';
 
           return `
@@ -2847,7 +2860,7 @@
         }).join(' ');
 
         const paraKoHtml = (readingMode === 'parallel') 
-          ? `<div class="paragraph-ko">${escapeHtml(para.ko || '')}</div>` 
+          ? `<div class="paragraph-ko">${realKo(para.ko) ? escapeHtml(realKo(para.ko)) : NO_KO_HTML}</div>` 
           : '';
 
         return `
@@ -3202,7 +3215,7 @@
       const para = currentArticle.paragraphs[pIdx];
       const sentenceObj = para.sentences[sIdx];
       currentShadowSentence = sentenceObj.en;
-      currentShadowKo = sentenceObj.ko;
+      currentShadowKo = realKo(sentenceObj.ko);
 
       document.getElementById('shadowTargetSentence').innerText = `"${currentShadowSentence}"`;
       document.getElementById('shadowTargetKo').innerText = currentShadowKo || '';
