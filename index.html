@@ -2125,6 +2125,28 @@
       };
     }
 
+    // 스포츠 10칸 중 세부 종목마다 먼저 확보하는 최소 칸 (update_news_cron.py와 같은 규칙).
+    // 우선순위로만 자르면 테니스가 10칸을 모두 차지해 MLB·EPL·기타 칩이 항상 비었다.
+    const SPORT_MIN_SLOTS = { tennis: 4, mlb: 2, premier_league: 2, other: 2 };
+    const SPORT_PRIORITY = { tennis: 1, mlb: 2, premier_league: 3, other: 4 };
+
+    function selectSportsWithQuota(newestFirstItems, cap) {
+      const sub = a => (SPORT_PRIORITY[a.sportSubcat] ? a.sportSubcat : 'other');
+      const prio = a => a.sportPriority || SPORT_PRIORITY[sub(a)];
+      const ts = a => new Date(a.addedAt || a.date || 0).getTime() || 0;
+      let chosen = [];
+      Object.keys(SPORT_MIN_SLOTS)
+        .sort((x, y) => SPORT_PRIORITY[x] - SPORT_PRIORITY[y])
+        .forEach(s => {
+          chosen.push(...newestFirstItems.filter(a => sub(a) === s).slice(0, SPORT_MIN_SLOTS[s]));
+        });
+      chosen = chosen.slice(0, cap);
+      const rest = newestFirstItems.filter(a => !chosen.includes(a))
+        .sort((a, b) => (prio(a) - prio(b)) || (ts(b) - ts(a)));
+      chosen.push(...rest.slice(0, Math.max(0, cap - chosen.length)));
+      return chosen.sort((a, b) => (prio(a) - prio(b)) || (ts(b) - ts(a)));
+    }
+
     function enforceTopicCapacityLimit(articles) {
       // 1. Speeches are 100% exempt from topic quotas (permanent core collection)
       const speeches = articles.filter(a => a.category === 'speeches');
@@ -2139,27 +2161,18 @@
         const archived = catArticles.filter(a => isArticleArchived(a.id));
         const unarchived = catArticles.filter(a => !isArticleArchived(a.id));
 
-        // Sort unarchived: for sports, sort by sportPriority first (1. Tennis -> 2. MLB -> 3. Premier League -> 4. Other)
-        if (cat === 'sports') {
-          unarchived.sort((a, b) => {
-            const pA = a.sportPriority || 99;
-            const pB = b.sportPriority || 99;
-            if (pA !== pB) return pA - pB;
-            const dateA = new Date(a.addedAt || a.date || 0).getTime();
-            const dateB = new Date(b.addedAt || b.date || 0).getTime();
-            return dateB - dateA;
-          });
-        } else {
-          unarchived.sort((a, b) => {
-            const dateA = new Date(a.addedAt || a.date || 0).getTime();
-            const dateB = new Date(b.addedAt || b.date || 0).getTime();
-            return dateB - dateA;
-          });
-        }
+        const newestFirst = (a, b) => {
+          const dateA = new Date(a.addedAt || a.date || 0).getTime();
+          const dateB = new Date(b.addedAt || b.date || 0).getTime();
+          return dateB - dateA;
+        };
+        unarchived.sort(newestFirst);
 
         // 3. Allocate remaining slots for unarchived news (Max 10 per category)
         const remainingSlots = Math.max(0, 10 - archived.length);
-        const allowedUnarchived = unarchived.slice(0, remainingSlots);
+        const allowedUnarchived = cat === 'sports'
+          ? selectSportsWithQuota(unarchived, remainingSlots)
+          : unarchived.slice(0, remainingSlots);
 
         // Combine: All archived + allowed newest unarchived
         resultArticles.push(...archived, ...allowedUnarchived);
@@ -2514,7 +2527,7 @@
         { cat: 'tech', name: 'BBC Technology', url: 'https://feeds.bbci.co.uk/news/technology/rss.xml' },
         { cat: 'science', name: 'BBC Science', url: 'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml' },
         { cat: 'economy', name: 'BBC Business', url: 'https://feeds.bbci.co.uk/news/business/rss.xml' },
-        { cat: 'sports', name: 'BBC Sports', url: 'https://feeds.bbci.co.uk/sport/rss.xml' },
+        { cat: 'sports', subcat: 'other', priority: 4, name: 'BBC Sports', url: 'https://feeds.bbci.co.uk/sport/rss.xml' },
         { cat: 'culture', name: 'BBC Arts', url: 'https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml' }
       ];
 
@@ -2566,6 +2579,7 @@
                 readTime: `${Math.max(2, Math.round(totalWords / 100))} min`,
                 wordCount: totalWords,
                 paragraphs: paragraphsData,
+                ...(f.subcat ? { sportSubcat: f.subcat, sportPriority: f.priority } : {}),
                 takeaways: [
                   "글로벌 최신 속보: " + item.title,
                   "실시간 RSS 피드를 통해 AI 리딩 엔진에 즉각 연동되었습니다.",

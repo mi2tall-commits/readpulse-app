@@ -25,6 +25,45 @@ FEEDS = [
     {"cat": "culture", "name": "BBC Arts", "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"}
 ]
 
+# 스포츠 10칸 중 세부 종목마다 먼저 확보하는 최소 칸 수. 남는 칸은 우선순위(테니스 우선) → 최신순.
+# (예전에는 우선순위로만 잘라서 테니스 10개가 칸을 모두 차지해 MLB·EPL·기타가 저장되지 않았다)
+SPORT_MIN_SLOTS = {"tennis": 4, "mlb": 2, "premier_league": 2, "other": 2}
+SPORT_PRIORITY = {"tennis": 1, "mlb": 2, "premier_league": 3, "other": 4}
+
+
+def _added_ts(a):
+    v = str(a.get("addedAt") or "")
+    if "T" in v:
+        try:
+            return datetime.fromisoformat(v.replace("Z", "+00:00")).timestamp()
+        except ValueError:
+            return 0
+    return 0
+
+
+def select_sports(items, cap=10):
+    """세부 종목별 최소 칸을 보장하면서 최대 cap개를 고른다."""
+    def sub(a):
+        s = a.get("sportSubcat")
+        return s if s in SPORT_PRIORITY else "other"
+
+    def prio(a):
+        return a.get("sportPriority") or SPORT_PRIORITY[sub(a)]
+
+    newest_first = sorted(items, key=_added_ts, reverse=True)
+    chosen = []
+    for s_name in sorted(SPORT_MIN_SLOTS, key=SPORT_PRIORITY.get):
+        group = [a for a in newest_first if sub(a) == s_name]
+        chosen.extend(group[:SPORT_MIN_SLOTS[s_name]])
+    chosen = chosen[:cap]
+    chosen_ids = {id(a) for a in chosen}
+    rest = [a for a in newest_first if id(a) not in chosen_ids]
+    rest.sort(key=lambda a: (prio(a), -_added_ts(a)))
+    chosen.extend(rest[:max(0, cap - len(chosen))])
+    chosen.sort(key=lambda a: (prio(a), -_added_ts(a)))
+    return chosen
+
+
 def fetch_rss_to_json(rss_url):
     api_url = f"https://api.rss2json.com/v1/api.json?rss_url={urllib.parse.quote(rss_url)}"
     req = urllib.request.Request(api_url, headers={"User-Agent": "Mozilla/5.0"})
@@ -173,15 +212,11 @@ def main():
         for cat in ["tech", "science", "economy", "sports", "culture"]:
             cat_items = [a for a in updated_list if a.get("category") == cat]
             if cat == "sports":
-                # Sort: 1. Tennis -> 2. MLB -> 3. Premier League -> 4. Other, then newest
-                cat_items.sort(key=lambda x: (
-                    x.get("sportPriority", 99),
-                    -datetime.fromisoformat(x.get("addedAt", "2000-01-01T00:00:00Z").replace("Z", "+00:00")).timestamp()
-                    if "T" in str(x.get("addedAt", "")) else 0
-                ))
-            else:
-                # Sort descending by addedAt or date to retain newest
-                cat_items.sort(key=lambda x: str(x.get("addedAt") or x.get("date")), reverse=True)
+                # 테니스 우선 정렬은 유지하되, 종목마다 최소 칸을 먼저 확보한다
+                capped_news.extend(select_sports(cat_items, 10))
+                continue
+            # Sort descending by addedAt or date to retain newest
+            cat_items.sort(key=lambda x: str(x.get("addedAt") or x.get("date")), reverse=True)
             capped_news.extend(cat_items[:10])
 
         final_list = capped_news + speeches
