@@ -1942,6 +1942,9 @@
     let userXp = 0;
     let savedVocab = [];
     let archivedArticleIds = [];
+    // 보관한 기사의 전체 내용 사본 (id -> 기사). 자동 갱신(cron)이나 동기화가
+    // 원본 목록에서 기사를 지워도 보관함·단어장에 연결된 기사가 사라지지 않게 한다.
+    let archivedArticleStore = {};
     let viewedArticleIds = [];
     let readingMode = 'en'; // 'en', 'parallel', 'sentence'
     let isPlayingArticle = false;
@@ -1984,6 +1987,9 @@
         const savedArchived = localStorage.getItem('readpulse_archived_ids');
         if (savedArchived) archivedArticleIds = JSON.parse(savedArchived);
 
+        const savedStore = localStorage.getItem('readpulse_archived_articles');
+        if (savedStore) archivedArticleStore = JSON.parse(savedStore) || {};
+
         const storedLive = localStorage.getItem('readpulse_live_articles');
         if (storedLive) {
           liveArticles = JSON.parse(storedLive);
@@ -1999,6 +2005,17 @@
             localStorage.setItem('readpulse_live_articles', JSON.stringify(liveArticles));
           }
         }
+
+        // 이 기능 이전에 보관한 기사 중 아직 목록에 남아 있는 것은 지금 사본을 만들어 둔다.
+        const presentNow = [...(typeof READPULSE_ARTICLES !== 'undefined' ? READPULSE_ARTICLES : []), ...liveArticles];
+        let storeChanged = false;
+        presentNow.forEach(a => {
+          if (a && a.id && a.category !== 'speeches' && isArticleArchived(a.id) && !archivedArticleStore[a.id]) {
+            archivedArticleStore[a.id] = a;
+            storeChanged = true;
+          }
+        });
+        if (storeChanged) saveArchivedStore();
 
         const savedViewed = localStorage.getItem('readpulse_viewed_ids');
         if (savedViewed) {
@@ -2026,6 +2043,21 @@
       userXp += amount;
       document.getElementById('userXp').innerText = userXp;
       localStorage.setItem('readpulse_xp', userXp);
+    }
+
+    function saveArchivedStore() {
+      try {
+        localStorage.setItem('readpulse_archived_articles', JSON.stringify(archivedArticleStore));
+      } catch (e) {
+        console.warn('Archive store save failed:', e);
+      }
+    }
+
+    function snapshotArchivedArticle(articleId, articleObj) {
+      const art = articleObj || allArticles.find(a => a.id === articleId);
+      if (!art || !art.id || art.category === 'speeches') return;
+      archivedArticleStore[art.id] = art;
+      saveArchivedStore();
     }
 
     function isArticleArchived(articleId) {
@@ -2148,6 +2180,14 @@
         builtIn = READPULSE_ARTICLES;
       }
       const combined = [...builtIn, ...liveArticles];
+      // 원본 목록에서 빠졌더라도 보관(또는 단어장 연결)된 기사는 사본으로 되살린다.
+      const presentIds = new Set(combined.map(a => a.id));
+      Object.values(archivedArticleStore).forEach(a => {
+        if (a && a.id && !presentIds.has(a.id) && isArticleArchived(a.id)) {
+          combined.push(a);
+          presentIds.add(a.id);
+        }
+      });
 
       // Step 1: Filter out expired unarchived news (7주 초과, 또는 7일간 미열람)
       const activeArticles = combined.filter(art => {
@@ -2552,7 +2592,10 @@
       label.innerText = '실시간 최신 뉴스 동기화';
 
       if (newFetchedArticles.length > 0) {
-        liveArticles = [...newFetchedArticles, ...liveArticles].slice(0, 20);
+        // 최대 20개 제한은 보관하지 않은 기사에만 적용한다 (보관한 기사는 지우지 않음)
+        let unarchivedKept = 0;
+        liveArticles = [...newFetchedArticles, ...liveArticles]
+          .filter(a => isArticleArchived(a.id) || unarchivedKept++ < 20);
         localStorage.setItem('readpulse_live_articles', JSON.stringify(liveArticles));
         initArticles();
         applyFilters();
@@ -2674,9 +2717,14 @@
           return;
         }
         archivedArticleIds.splice(idx, 1);
+        if (archivedArticleStore[articleId]) {
+          delete archivedArticleStore[articleId];
+          saveArchivedStore();
+        }
         showToast('🗑️ 보관함에서 제외되었습니다.');
       } else {
         archivedArticleIds.push(articleId);
+        snapshotArchivedArticle(articleId);
         showToast('📦 보관함에 저장되었습니다! (7일 후에도 영구 보존)');
         addXp(5);
       }
@@ -2989,6 +3037,7 @@
         });
         addXp(5);
         showToast(`⭐️ [${activeInspectorWord}] 단어장에 저장되었습니다!`);
+        if (artId) snapshotArchivedArticle(artId, currentArticle);
         if (artId && !archivedArticleIds.includes(artId)) {
           archivedArticleIds.push(artId);
           localStorage.setItem('readpulse_archived_ids', JSON.stringify(archivedArticleIds));
