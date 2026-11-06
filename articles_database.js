@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_501800426873121025",
+    "title": "AI stocks climb after trillions wiped from market values",
+    "subtitle": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-06",
+    "addedAt": "2026-11-06T18:47:29Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 104,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Shares in artificial intelligence and technology firms have been climbing following an enormous sell-off that wiped trillions of dollars off stock values.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Shares in artificial intelligence and technology firms have been climbing following an enormous sell-off that wiped trillions of dollars off stock values.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The tech-heavy Nasdaq stock index opened higher following a market rout that began in the US on Thursday before spilling over to Asian and European markets into Friday.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The tech-heavy Nasdaq stock index opened higher following a market rout that began in the US on Thursday before spilling over to Asian and European markets into Friday.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Investors had been selling off tech shares in part due to concerns the Democrat victory in the midterm elections would mean slower artificial intelligence development.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Investors had been selling off tech shares in part due to concerns the Democrat victory in the midterm elections would mean slower artificial intelligence development.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "However the latest US employment figures added to a mixed picture for American markets on Friday morning, with an unexpectedly strong 165,000 jobs added to the economy in September.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "However the latest US employment figures added to a mixed picture for American markets on Friday morning, with an unexpectedly strong 165,000 jobs added to the economy in September.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: AI stocks climb after trillions wiped from market values",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "AI stocks climb after trillions wiped from market values",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_191594289122402714",
     "title": "The engine parts that 'fight the laws of the universe'",
     "subtitle": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make....",
@@ -741,87 +818,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Binance users withdraw $3.6bn after record crypto hack",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_tech_389413056981487724",
-    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-    "subtitle": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become....",
-    "speaker": "BBC Technology",
-    "date": "2026-10-31",
-    "addedAt": "2026-10-31T03:47:03Z",
-    "category": "tech",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 106,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
-    ],
-    "paragraphs": [
-      {
-        "en": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (£4.7bn) hack of Binance, the world's largest cryptocurrency exchange.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.",
-            "ko": "실시간 보도 번역: Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6."
-          },
-          {
-            "en": "7bn) hack of Binance, the world's largest cryptocurrency exchange.",
-            "ko": "실시간 보도 번역: 7bn) hack of Binance, the world's largest cryptocurrency exchange."
-          }
-        ]
-      },
-      {
-        "en": "The Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis.",
-            "ko": "실시간 보도 번역: The Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis."
-          }
-        ]
-      },
-      {
-        "en": "This incident is just the latest linked to the country, one of the poorest in the world and where access to the internet is severely restricted.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "This incident is just the latest linked to the country, one of the poorest in the world and where access to the internet is severely restricted.",
-            "ko": "실시간 보도 번역: This incident is just the latest linked to the country, one of the poorest in the world and where access to the internet is severely restricted."
-          }
-        ]
-      },
-      {
-        "en": "Experts accuse the government of North Korean leader Kim Jong Un of relying on cybercrime to finance itself, something Pyongyang has long denied.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Experts accuse the government of North Korean leader Kim Jong Un of relying on cybercrime to finance itself, something Pyongyang has long denied.",
-            "ko": "실시간 보도 번역: Experts accuse the government of North Korean leader Kim Jong Un of relying on cybercrime to finance itself, something Pyongyang has long denied."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1609,6 +1605,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_501800426873121025",
+    "title": "AI stocks climb after trillions wiped from market values",
+    "subtitle": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development....",
+    "speaker": "BBC Business",
+    "date": "2026-11-06",
+    "addedAt": "2026-11-06T18:47:30Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 104,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Shares in artificial intelligence and technology firms have been climbing following an enormous sell-off that wiped trillions of dollars off stock values.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Shares in artificial intelligence and technology firms have been climbing following an enormous sell-off that wiped trillions of dollars off stock values.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The tech-heavy Nasdaq stock index opened higher following a market rout that began in the US on Thursday before spilling over to Asian and European markets into Friday.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The tech-heavy Nasdaq stock index opened higher following a market rout that began in the US on Thursday before spilling over to Asian and European markets into Friday.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Investors had been selling off tech shares in part due to concerns the Democrat victory in the midterm elections would mean slower artificial intelligence development.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Investors had been selling off tech shares in part due to concerns the Democrat victory in the midterm elections would mean slower artificial intelligence development.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "However the latest US employment figures added to a mixed picture for American markets on Friday morning, with an unexpectedly strong 165,000 jobs added to the economy in September.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "However the latest US employment figures added to a mixed picture for American markets on Friday morning, with an unexpectedly strong 165,000 jobs added to the economy in September.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: AI stocks climb after trillions wiped from market values",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "AI stocks climb after trillions wiped from market values",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_55272777712290435",
     "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
     "subtitle": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterm...",
@@ -2374,70 +2447,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_297856478166223771",
-    "title": "US tech stocks see sharp falls over AI cost fears",
-    "subtitle": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months....",
-    "speaker": "BBC Business",
-    "date": "2026-10-30",
-    "addedAt": "2026-10-30T17:38:10Z",
-    "category": "economy",
+    "id": "auto_sports_270368417426540500",
+    "title": "Coach who helped Sinner to the top set to depart",
+    "subtitle": "The coach who helped guide Jannik Sinner to five Grand Slam titles and the world number one spot is to leave the player's camp at ...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-06",
+    "addedAt": "2026-11-06T18:47:31Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 109,
+    "wordCount": 102,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "US stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Sinner (left), with Cahill, has not played since winning Wimbledon in July",
+        "ko": "",
         "sentences": [
           {
-            "en": "US stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out.",
-            "ko": "실시간 보도 번역: US stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out."
+            "en": "Sinner (left), with Cahill, has not played since winning Wimbledon in July",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Shares in Intel continued their overnight slide into early trading on Friday, falling as much as 30% after the chip maker warned of a weaker computer market even as it plans to increase spending on AI.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "The coach who helped guide Jannik Sinner to five Grand Slam titles and the world number one spot is to leave the player's camp at the end of the year.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Shares in Intel continued their overnight slide into early trading on Friday, falling as much as 30% after the chip maker warned of a weaker computer market even as it plans to increase spending on AI.",
-            "ko": "실시간 보도 번역: Shares in Intel continued their overnight slide into early trading on Friday, falling as much as 30% after the chip maker warned of a weaker computer market even as it plans to increase spending on AI."
+            "en": "The coach who helped guide Jannik Sinner to five Grand Slam titles and the world number one spot is to leave the player's camp at the end of the year.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Amazon shares fell as far as 6% before recovering after its reported earnings on Thursday evening fell short of investors' expectations.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Australian Darren Cahill, 61, joined the Italian's team in June 2022 when Sinner was just outside the world's top 10 and had never progressed beyond the quarter-finals of a Grand Slam tournament.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Amazon shares fell as far as 6% before recovering after its reported earnings on Thursday evening fell short of investors' expectations.",
-            "ko": "실시간 보도 번역: Amazon shares fell as far as 6% before recovering after its reported earnings on Thursday evening fell short of investors' expectations."
+            "en": "Australian Darren Cahill, 61, joined the Italian's team in June 2022 when Sinner was just outside the world's top 10 and had never progressed beyond the quarter-finals of a Grand Slam tournament.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The tech-heavy Nasdaq stock exchange opened on Friday at its lowest level in more than two months, down 2.5%, as other tech stocks including Reddit and Roblox continued to fall.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "But, together with Italian coach Simone Vagnozzi, Cahill has helped Sinner to go on to win five Slams and occupy the world number one spot for 95 weeks.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The tech-heavy Nasdaq stock exchange opened on Friday at its lowest level in more than two months, down 2.",
-            "ko": "실시간 보도 번역: The tech-heavy Nasdaq stock exchange opened on Friday at its lowest level in more than two months, down 2."
-          },
-          {
-            "en": "5%, as other tech stocks including Reddit and Roblox continued to fall.",
-            "ko": "실시간 보도 번역: 5%, as other tech stocks including Reddit and Roblox continued to fall."
+            "en": "But, together with Italian coach Simone Vagnozzi, Cahill has helped Sinner to go on to win five Slams and occupy the world number one spot for 95 weeks.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: US tech stocks see sharp falls over AI cost fears",
+      "글로벌 최신 소식: Coach who helped Sinner to the top set to depart",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2445,14 +2514,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "US tech stocks see sharp falls over AI cost fears",
+          "Coach who helped Sinner to the top set to depart",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_507409410241412497",
@@ -3155,85 +3226,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Zverev thrashes GB's Fery to reach Vienna semis",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_207943453215319368",
-    "title": "Dart stuns Badosa to make second career semi-final",
-    "subtitle": "Harriet Dart reaches the second WTA Tour semi-final of her career as she fights back from a set down to beat Paula Badosa in the G...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-30",
-    "addedAt": "2026-10-30T17:38:10Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 99,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Britain's Harriet Dart reached the second WTA Tour semi-final of her career when she fought back from a set down to beat fifth seed Paula Badosa at the Guangzhou Open in China.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Britain's Harriet Dart reached the second WTA Tour semi-final of her career when she fought back from a set down to beat fifth seed Paula Badosa at the Guangzhou Open in China.",
-            "ko": "실시간 보도 번역: Britain's Harriet Dart reached the second WTA Tour semi-final of her career when she fought back from a set down to beat fifth seed Paula Badosa at the Guangzhou Open in China."
-          }
-        ]
-      },
-      {
-        "en": "The 30-year-old triumphed 3-6 6-2 6-4 against Spain's Badosa - ranked 54 places above her - in two hours and 15 minutes at Nansha International Tennis Centre.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The 30-year-old triumphed 3-6 6-2 6-4 against Spain's Badosa - ranked 54 places above her - in two hours and 15 minutes at Nansha International Tennis Centre.",
-            "ko": "실시간 보도 번역: The 30-year-old triumphed 3-6 6-2 6-4 against Spain's Badosa - ranked 54 places above her - in two hours and 15 minutes at Nansha International Tennis Centre."
-          }
-        ]
-      },
-      {
-        "en": "Dart's first appearance in the semi-finals of a tour event was in the Transylvania Open in Cluj-Napoca, where she lost in straight sets to Karolina Pliskova.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Dart's first appearance in the semi-finals of a tour event was in the Transylvania Open in Cluj-Napoca, where she lost in straight sets to Karolina Pliskova.",
-            "ko": "실시간 보도 번역: Dart's first appearance in the semi-finals of a tour event was in the Transylvania Open in Cluj-Napoca, where she lost in straight sets to Karolina Pliskova."
-          }
-        ]
-      },
-      {
-        "en": "She will face 16-year-old Chinese wildcard Sun Xinran in the last four on Saturday.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "She will face 16-year-old Chinese wildcard Sun Xinran in the last four on Saturday.",
-            "ko": "실시간 보도 번역: She will face 16-year-old Chinese wildcard Sun Xinran in the last four on Saturday."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Dart stuns Badosa to make second career semi-final",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Dart stuns Badosa to make second career semi-final",
           "Historical retrospective",
           "Unrelated general weather"
         ],
