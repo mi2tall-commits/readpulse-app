@@ -3261,10 +3261,7 @@
         recognition.onerror = (event) => {
           console.warn('SpeechRec error:', event.error);
           document.getElementById('btnRecordShadow').classList.remove('recording');
-          document.getElementById('micStatusLabel').innerText = '마이크 인식 결과가 없어 자동 채점을 진행합니다.';
-          setTimeout(() => {
-            simulateShadowingScore();
-          }, 600);
+          showShadowUnavailable(event && event.error);
         };
 
         recognition.onend = () => {
@@ -3276,7 +3273,7 @@
 
     function toggleShadowRecording() {
       if (!recognition) {
-        simulateShadowingScore();
+        showShadowUnavailable('unsupported');
         return;
       }
 
@@ -3286,7 +3283,7 @@
         try {
           recognition.start();
         } catch (e) {
-          simulateShadowingScore();
+          showShadowUnavailable('start-failed');
         }
       }
     }
@@ -3308,15 +3305,16 @@
       showShadowResult(accuracy, breakdownHtml, spokenText);
     }
 
-    function simulateShadowingScore() {
-      if (!currentShadowSentence) return;
-      const targetWords = currentShadowSentence.toLowerCase().replace(/[^a-zA-Z\s]/g, '').split(/\s+/).filter(w => w);
-      const accuracy = Math.floor(Math.random() * 12) + 88;
-      const breakdownHtml = targetWords.map(tWord => {
-        return `<span class="word-eval match">${tWord}</span>`;
-      }).join(' ');
-
-      showShadowResult(accuracy, breakdownHtml, currentShadowSentence);
+    // 마이크를 쓸 수 없거나 말소리를 듣지 못하면 점수를 만들지 않는다.
+    // (예전에는 88~99% 무작위 점수와 XP를 줬다)
+    function showShadowUnavailable(reason) {
+      isRecordingShadow = false;
+      document.getElementById('btnRecordShadow').classList.remove('recording');
+      document.getElementById('shadowResultBox').classList.remove('show');
+      let msg = '마이크를 사용할 수 없어 채점하지 못했습니다. 마이크 권한을 확인한 뒤 다시 눌러 주세요.';
+      if (reason === 'unsupported') msg = '이 브라우저는 음성 인식을 지원하지 않아 채점할 수 없습니다. (Chrome·Edge 권장)';
+      else if (reason === 'no-speech') msg = '말소리가 들리지 않았습니다. 마이크 버튼을 누르고 다시 따라 읽어 주세요.';
+      document.getElementById('micStatusLabel').innerText = msg;
     }
 
     function showShadowResult(accuracy, breakdownHtml, transcript) {
