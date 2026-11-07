@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_652939213299015375",
+    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+    "subtitle": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-06",
+    "addedAt": "2026-11-07T04:16:30Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 109,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Tesla will wind down production of its Cybertruck vehicles at its Texas factory next year, Elon Musk says.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Tesla will wind down production of its Cybertruck vehicles at its Texas factory next year, Elon Musk says.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "He did not spell out whether it plans to stop making them entirely or shift production elsewhere, but did say the decision was to \"make room\" for building more of its self-driving Cybercab cars.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "He did not spell out whether it plans to stop making them entirely or shift production elsewhere, but did say the decision was to \"make room\" for building more of its self-driving Cybercab cars.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.\"",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "With its distinctive angular looks, the Cybertruck attracted diehard fans, but was beset by delays before being launched in 2023 and has had disappointing sales numbers since.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "With its distinctive angular looks, the Cybertruck attracted diehard fans, but was beset by delays before being launched in 2023 and has had disappointing sales numbers since.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Elon Musk appears to signal the end of the road for Cybertruck",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Elon Musk appears to signal the end of the road for Cybertruck",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_501800426873121025",
     "title": "AI stocks climb after trillions wiped from market values",
     "subtitle": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development....",
@@ -729,95 +806,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_tech_769404345152372097",
-    "title": "Binance users withdraw $3.6bn after record crypto hack",
-    "subtitle": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-02",
-    "addedAt": "2026-11-02T03:58:59Z",
-    "category": "tech",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 112,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
-    ],
-    "paragraphs": [
-      {
-        "en": "Binance customers withdrew $3.64bn (£2.72bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Binance customers withdrew $3.",
-            "ko": "실시간 보도 번역: Binance customers withdrew $3."
-          },
-          {
-            "en": "72bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.",
-            "ko": "실시간 보도 번역: 72bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week."
-          }
-        ]
-      },
-      {
-        "en": "The firm suspended all transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The firm suspended all transactions in the wake of the incident, which impacted $6.",
-            "ko": "실시간 보도 번역: The firm suspended all transactions in the wake of the incident, which impacted $6."
-          },
-          {
-            "en": "3bn worth of digital assets.",
-            "ko": "실시간 보도 번역: 3bn worth of digital assets."
-          }
-        ]
-      },
-      {
-        "en": "Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack, which is said to be the largest hack in history.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack, which is said to be the largest hack in history.",
-            "ko": "실시간 보도 번역: Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack, which is said to be the largest hack in history."
-          }
-        ]
-      },
-      {
-        "en": "The company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source. Binance has repeatedly said it would cover all of the losses linked to the attack.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source.",
-            "ko": "실시간 보도 번역: The company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source."
-          },
-          {
-            "en": "Binance has repeatedly said it would cover all of the losses linked to the attack.",
-            "ko": "실시간 보도 번역: Binance has repeatedly said it would cover all of the losses linked to the attack."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Binance users withdraw $3.6bn after record crypto hack",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Binance users withdraw $3.6bn after record crypto hack",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2447,6 +2435,85 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_sports_804116201658148156",
+    "title": "WTA chair apologises to Pegula for airing of 'diva' comment",
+    "subtitle": "WTA chair Valerie Camillo apologises to Jessica Pegula after her \"diva\" comment about Mirra Andreeva was live-streamed....",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-06",
+    "addedAt": "2026-11-07T04:16:30Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 96,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "Women's Tennis Association chair Valerie Camillo has apologised to Jessica Pegula and said the live-streaming of private comments to her coach about fellow player Mirra Andreeva was \"regrettable and unacceptable\".",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Women's Tennis Association chair Valerie Camillo has apologised to Jessica Pegula and said the live-streaming of private comments to her coach about fellow player Mirra Andreeva was \"regrettable and unacceptable\".",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "American Pegula called Andreeva a \"diva\" in a private conversation with her coach after a practice session for the WTA Tour Finals on Wednesday.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "American Pegula called Andreeva a \"diva\" in a private conversation with her coach after a practice session for the WTA Tour Finals on Wednesday.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "However, the comments were aired on a live stream after the WTA failed to tell players there were microphones on practice courts.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "However, the comments were aired on a live stream after the WTA failed to tell players there were microphones on practice courts.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "World number five Pegula called the incident \"unfortunate\" and said the WTA players' council supported players' calls for more privacy.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "World number five Pegula called the incident \"unfortunate\" and said the WTA players' council supported players' calls for more privacy.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: WTA chair apologises to Pegula for airing of 'diva' comment",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "WTA chair apologises to Pegula for airing of 'diva' comment",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
+  },
+  {
     "id": "auto_sports_270368417426540500",
     "title": "Coach who helped Sinner to the top set to depart",
     "subtitle": "The coach who helped guide Jannik Sinner to five Grand Slam titles and the world number one spot is to leave the player's camp at ...",
@@ -3147,85 +3214,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Briton Dart reaches first WTA Tour singles final",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_1101206499446656021",
-    "title": "Zverev thrashes GB's Fery to reach Vienna semis",
-    "subtitle": "Alexander Zverev marks his rise to world number one with a dominant victory over Britain's Arthur Fery to reach the semi-finals of...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-30",
-    "addedAt": "2026-10-31T03:47:05Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 105,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Alexander Zverev marked his rise to world number one with a dominant victory over Britain's Arthur Fery to reach the semi-finals of the Vienna Open.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Alexander Zverev marked his rise to world number one with a dominant victory over Britain's Arthur Fery to reach the semi-finals of the Vienna Open.",
-            "ko": "실시간 보도 번역: Alexander Zverev marked his rise to world number one with a dominant victory over Britain's Arthur Fery to reach the semi-finals of the Vienna Open."
-          }
-        ]
-      },
-      {
-        "en": "The German top seed, who is set to replace Jannik Sinner at the summit of the men's rankings, needed just 58 minutes to secure a comprehensive 6-0 6-2 win.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The German top seed, who is set to replace Jannik Sinner at the summit of the men's rankings, needed just 58 minutes to secure a comprehensive 6-0 6-2 win.",
-            "ko": "실시간 보도 번역: The German top seed, who is set to replace Jannik Sinner at the summit of the men's rankings, needed just 58 minutes to secure a comprehensive 6-0 6-2 win."
-          }
-        ]
-      },
-      {
-        "en": "Fery did not look at his best throughout the encounter after receiving treatment on his leg near the end of his last-16 win over Lorenzo Musetti on Thursday.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Fery did not look at his best throughout the encounter after receiving treatment on his leg near the end of his last-16 win over Lorenzo Musetti on Thursday.",
-            "ko": "실시간 보도 번역: Fery did not look at his best throughout the encounter after receiving treatment on his leg near the end of his last-16 win over Lorenzo Musetti on Thursday."
-          }
-        ]
-      },
-      {
-        "en": "The match was a repeat of the pair's Wimbledon semi-final this summer, which Zverev won in straight sets to end Fery's remarkable run.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The match was a repeat of the pair's Wimbledon semi-final this summer, which Zverev won in straight sets to end Fery's remarkable run.",
-            "ko": "실시간 보도 번역: The match was a repeat of the pair's Wimbledon semi-final this summer, which Zverev won in straight sets to end Fery's remarkable run."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Zverev thrashes GB's Fery to reach Vienna semis",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Zverev thrashes GB's Fery to reach Vienna semis",
           "Historical retrospective",
           "Unrelated general weather"
         ],
