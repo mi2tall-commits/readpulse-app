@@ -2435,6 +2435,85 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_sports_225606840654647899",
+    "title": "World number one Rybakina withdraws from WTA Finals",
+    "subtitle": "World number one Elena Rybakina withdraws from the season-ending WTA Finals because of a viral illness....",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-07",
+    "addedAt": "2026-11-08T03:59:02Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 92,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "Elena Rybakina went undefeated on her way to winning the WTA Finals for the first time in 2025",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Elena Rybakina went undefeated on her way to winning the WTA Finals for the first time in 2025",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "World number one Elena Rybakina has withdrawn from the WTA Finals because of a viral illness.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "World number one Elena Rybakina has withdrawn from the WTA Finals because of a viral illness.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Rybakina triumphed at the Australian Open and the US Open in a stellar 2026 as she established herself as the top-ranked women's singles player for the first time.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Rybakina triumphed at the Australian Open and the US Open in a stellar 2026 as she established herself as the top-ranked women's singles player for the first time.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "She was set to begin her bid to emulate American great Serena Williams by becoming the first player since 2014 to win the WTA Finals in back-to-back years on Sunday.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "She was set to begin her bid to emulate American great Serena Williams by becoming the first player since 2014 to win the WTA Finals in back-to-back years on Sunday.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: World number one Rybakina withdraws from WTA Finals",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "World number one Rybakina withdraws from WTA Finals",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
+  },
+  {
     "id": "auto_sports_804116201658148156",
     "title": "WTA chair apologises to Pegula for airing of 'diva' comment",
     "subtitle": "WTA chair Valerie Camillo apologises to Jessica Pegula after her \"diva\" comment about Mirra Andreeva was live-streamed....",
@@ -3135,85 +3214,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "World number one-bound Zverev loses to De Minaur",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_497101800115616476",
-    "title": "Briton Dart reaches first WTA Tour singles final",
-    "subtitle": "A tearful Harriet Dart said it \"means the world\" to her to qualify for her maiden WTA Tour singles final after battling past to be...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-31",
-    "addedAt": "2026-10-31T16:42:55Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 113,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Dart has previously reached six WTA Tour-level doubles finals, winning two titles",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Dart has previously reached six WTA Tour-level doubles finals, winning two titles",
-            "ko": "실시간 보도 번역: Dart has previously reached six WTA Tour-level doubles finals, winning two titles"
-          }
-        ]
-      },
-      {
-        "en": "A tearful Harriet Dart said it \"means the world\" to qualify for her maiden WTA Tour singles final after battling past Chinese wildcard Sun Xinran in three sets at the Guangzhou Open.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "A tearful Harriet Dart said it \"means the world\" to qualify for her maiden WTA Tour singles final after battling past Chinese wildcard Sun Xinran in three sets at the Guangzhou Open.",
-            "ko": "실시간 보도 번역: A tearful Harriet Dart said it \"means the world\" to qualify for her maiden WTA Tour singles final after battling past Chinese wildcard Sun Xinran in three sets at the Guangzhou Open."
-          }
-        ]
-      },
-      {
-        "en": "The 30-year-old qualifier recovered from failing to serve out the first set to save multiple match points in the second before closing out a 5-7 7-6 (6-1) 6-0 victory in a little under two and a half hours.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The 30-year-old qualifier recovered from failing to serve out the first set to save multiple match points in the second before closing out a 5-7 7-6 (6-1) 6-0 victory in a little under two and a half hours.",
-            "ko": "실시간 보도 번역: The 30-year-old qualifier recovered from failing to serve out the first set to save multiple match points in the second before closing out a 5-7 7-6 (6-1) 6-0 victory in a little under two and a half hours."
-          }
-        ]
-      },
-      {
-        "en": "Dart, who made her WTA Tour debut in Eastbourne in 2015, was playing in just her second tour-level singles semi-final, having previously reached the last four at the 2024 Transylvania Open.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Dart, who made her WTA Tour debut in Eastbourne in 2015, was playing in just her second tour-level singles semi-final, having previously reached the last four at the 2024 Transylvania Open.",
-            "ko": "실시간 보도 번역: Dart, who made her WTA Tour debut in Eastbourne in 2015, was playing in just her second tour-level singles semi-final, having previously reached the last four at the 2024 Transylvania Open."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Briton Dart reaches first WTA Tour singles final",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Briton Dart reaches first WTA Tour singles final",
           "Historical retrospective",
           "Unrelated general weather"
         ],
