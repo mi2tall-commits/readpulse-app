@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_310405117874369882",
+    "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+    "subtitle": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-08",
+    "addedAt": "2026-11-08T17:30:15Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 109,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Vinted and eBay could be included in the list of platforms set to be banned for children aged under 16, the culture secretary has said.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Vinted and eBay could be included in the list of platforms set to be banned for children aged under 16, the culture secretary has said.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Lisa Nandy said the government was \"looking seriously\" at including the retailing websites in the social media ban \"to keep children safe\".",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Lisa Nandy said the government was \"looking seriously\" at including the retailing websites in the social media ban \"to keep children safe\".",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The UK's social media ban for under-16s is set to come into force in March next year, with children barred from accessing platforms such as Instagram, TikTok and Snapchat.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The UK's social media ban for under-16s is set to come into force in March next year, with children barred from accessing platforms such as Instagram, TikTok and Snapchat.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "In response, eBay said it was looking forward to \"understanding more and continuing to work constructively with the government\". Vinted said it welcomed \"open dialogue\" with ministers and the regulator on the issue.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "In response, eBay said it was looking forward to \"understanding more and continuing to work constructively with the government\".",
+            "ko": ""
+          },
+          {
+            "en": "Vinted said it welcomed \"open dialogue\" with ministers and the regulator on the issue.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_652939213299015375",
     "title": "Elon Musk appears to signal the end of the road for Cybertruck",
     "subtitle": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver....",
@@ -729,83 +810,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "North Korea denies being behind record $6.3bn Binance hack",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_tech_747405803547292484",
-    "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-    "subtitle": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-02",
-    "addedAt": "2026-11-02T21:18:16Z",
-    "category": "tech",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 97,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
-    ],
-    "paragraphs": [
-      {
-        "en": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers, and raising concern about the vulnerabilities of internet-connected hardware from industrial machinery to humble domestic appliances.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers, and raising concern about the vulnerabilities of internet-connected hardware from industrial machinery to humble domestic appliances.",
-            "ko": "실시간 보도 번역: Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers, and raising concern about the vulnerabilities of internet-connected hardware from industrial machinery to humble domestic appliances."
-          }
-        ]
-      },
-      {
-        "en": "Smart devices which are connected to the internet can include fridges, central heating, and even washing machines.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Smart devices which are connected to the internet can include fridges, central heating, and even washing machines.",
-            "ko": "실시간 보도 번역: Smart devices which are connected to the internet can include fridges, central heating, and even washing machines."
-          }
-        ]
-      },
-      {
-        "en": "And while that makes them easier to control remotely, in theory, any device which goes online can potentially be exploited by malicious actors.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "And while that makes them easier to control remotely, in theory, any device which goes online can potentially be exploited by malicious actors.",
-            "ko": "실시간 보도 번역: And while that makes them easier to control remotely, in theory, any device which goes online can potentially be exploited by malicious actors."
-          }
-        ]
-      },
-      {
-        "en": "However, that doesn't mean hackers can easily take control of it, and big brands generally go to great lengths to make sure their tech is secure.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "However, that doesn't mean hackers can easily take control of it, and big brands generally go to great lengths to make sure their tech is secure.",
-            "ko": "실시간 보도 번역: However, that doesn't mean hackers can easily take control of it, and big brands generally go to great lengths to make sure their tech is secure."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1593,6 +1597,87 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_310405117874369882",
+    "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+    "subtitle": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March....",
+    "speaker": "BBC Business",
+    "date": "2026-11-08",
+    "addedAt": "2026-11-08T17:30:16Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 109,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Vinted and eBay could be included in the list of platforms set to be banned for children aged under 16, the culture secretary has said.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Vinted and eBay could be included in the list of platforms set to be banned for children aged under 16, the culture secretary has said.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Lisa Nandy said the government was \"looking seriously\" at including the retailing websites in the social media ban \"to keep children safe\".",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Lisa Nandy said the government was \"looking seriously\" at including the retailing websites in the social media ban \"to keep children safe\".",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The UK's social media ban for under-16s is set to come into force in March next year, with children barred from accessing platforms such as Instagram, TikTok and Snapchat.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The UK's social media ban for under-16s is set to come into force in March next year, with children barred from accessing platforms such as Instagram, TikTok and Snapchat.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "In response, eBay said it was looking forward to \"understanding more and continuing to work constructively with the government\". Vinted said it welcomed \"open dialogue\" with ministers and the regulator on the issue.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "In response, eBay said it was looking forward to \"understanding more and continuing to work constructively with the government\".",
+            "ko": ""
+          },
+          {
+            "en": "Vinted said it welcomed \"open dialogue\" with ministers and the regulator on the issue.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_501800426873121025",
     "title": "AI stocks climb after trillions wiped from market values",
     "subtitle": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development....",
@@ -2337,95 +2422,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Thousands of jobs at Virgin Media O2 to be cut",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_601141501348595624",
-    "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-    "subtitle": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind....",
-    "speaker": "BBC Business",
-    "date": "2026-10-30",
-    "addedAt": "2026-10-31T03:47:04Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 120,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Binance, the world's largest cryptocurrency exchange, says it has frozen around half of the funds stolen in a \"complex\" hack, after $6.3bn (£4.7bn) was accessed in what is believed to be a record heist.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Binance, the world's largest cryptocurrency exchange, says it has frozen around half of the funds stolen in a \"complex\" hack, after $6.",
-            "ko": "실시간 보도 번역: Binance, the world's largest cryptocurrency exchange, says it has frozen around half of the funds stolen in a \"complex\" hack, after $6."
-          },
-          {
-            "en": "7bn) was accessed in what is believed to be a record heist.",
-            "ko": "실시간 보도 번역: 7bn) was accessed in what is believed to be a record heist."
-          }
-        ]
-      },
-      {
-        "en": "The firm said $3bn of its stolen digital assets had been secured - but many were still in the hands of unidentified hackers. It initially thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The firm said $3bn of its stolen digital assets had been secured - but many were still in the hands of unidentified hackers.",
-            "ko": "실시간 보도 번역: The firm said $3bn of its stolen digital assets had been secured - but many were still in the hands of unidentified hackers."
-          },
-          {
-            "en": "It initially thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.",
-            "ko": "실시간 보도 번역: It initially thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider."
-          }
-        ]
-      },
-      {
-        "en": "Several analytics firms have linked the hack, which eclipses a $1.5bn (£1.12bn) heist on the Bybit exchange in 2025, to a North Korean hacking unit.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Several analytics firms have linked the hack, which eclipses a $1.",
-            "ko": "실시간 보도 번역: Several analytics firms have linked the hack, which eclipses a $1."
-          },
-          {
-            "en": "12bn) heist on the Bybit exchange in 2025, to a North Korean hacking unit.",
-            "ko": "실시간 보도 번역: 12bn) heist on the Bybit exchange in 2025, to a North Korean hacking unit."
-          }
-        ]
-      },
-      {
-        "en": "The US Secret Service said it was \"working around the clock\" \"to identify, freeze, trace, and recover\" stolen funds.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The US Secret Service said it was \"working around the clock\" \"to identify, freeze, trace, and recover\" stolen funds.",
-            "ko": "실시간 보도 번역: The US Secret Service said it was \"working around the clock\" \"to identify, freeze, trace, and recover\" stolen funds."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
           "Historical retrospective",
           "Unrelated general weather"
         ],
