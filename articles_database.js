@@ -1597,6 +1597,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_511253106647080474",
+    "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+    "subtitle": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation....",
+    "speaker": "BBC Business",
+    "date": "2026-11-08",
+    "addedAt": "2026-11-09T04:16:03Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 101,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Jensen Huang admitted having an extramarital affair and said he would cooperate into a security investigation launched by the tech giant",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Jensen Huang admitted having an extramarital affair and said he would cooperate into a security investigation launched by the tech giant",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "US tech giant Nvidia has opened an independent investigation following reports its CEO Jensen Huang had a relationship with a suspected Chinese spy.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "US tech giant Nvidia has opened an independent investigation following reports its CEO Jensen Huang had a relationship with a suspected Chinese spy.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The company, one of the most valuable in the world, said its board had no reason to believe the company's secrets or national security were compromised, adding that the CEO was committed to continuing to lead the company.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The company, one of the most valuable in the world, said its board had no reason to believe the company's secrets or national security were compromised, adding that the CEO was committed to continuing to lead the company.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Separately, Jensen Huang admitted to having been \"unfaithful\" to his wife and apologised for hurting her and their children.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Separately, Jensen Huang admitted to having been \"unfaithful\" to his wife and apologised for hurting her and their children.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_310405117874369882",
     "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
     "subtitle": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March....",
@@ -2350,70 +2427,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_82938675263254876",
-    "title": "Thousands of jobs at Virgin Media O2 to be cut",
-    "subtitle": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, t...",
-    "speaker": "BBC Business",
-    "date": "2026-11-01",
-    "addedAt": "2026-11-01T17:31:53Z",
-    "category": "economy",
+    "id": "auto_sports_718264105329876300",
+    "title": "Alcaraz takes revenge on Shelton to win first Paris Masters title",
+    "subtitle": "Carlos Alcaraz takes revenge on Ben Shelton as the Spaniard's remarkable comeback from injury continues with victory in the final ...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-08",
+    "addedAt": "2026-11-09T04:16:04Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 116,
+    "wordCount": 98,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "Thousands of Virgin Media O2 staff face redundancy risk as the telecoms firm looks to save money in the face of billions of pounds of debt and tougher competition.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Just 60 days after his comeback tournament was ended in a late-night New York blockbuster against Ben Shelton, Carlos Alcaraz took his revenge.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Thousands of Virgin Media O2 staff face redundancy risk as the telecoms firm looks to save money in the face of billions of pounds of debt and tougher competition.",
-            "ko": "실시간 보도 번역: Thousands of Virgin Media O2 staff face redundancy risk as the telecoms firm looks to save money in the face of billions of pounds of debt and tougher competition."
+            "en": "Just 60 days after his comeback tournament was ended in a late-night New York blockbuster against Ben Shelton, Carlos Alcaraz took his revenge.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The broadband provider has not finalised the number of roles to be cut but it is likely be a sizeable chunk of its 16,000 workforce, the BBC understands.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "In doing so, the Spaniard offered the latest indication that his ascension back to the top of the men's game is nearing completion.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The broadband provider has not finalised the number of roles to be cut but it is likely be a sizeable chunk of its 16,000 workforce, the BBC understands.",
-            "ko": "실시간 보도 번역: The broadband provider has not finalised the number of roles to be cut but it is likely be a sizeable chunk of its 16,000 workforce, the BBC understands."
+            "en": "In doing so, the Spaniard offered the latest indication that his ascension back to the top of the men's game is nearing completion.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "VMO2 has billions of debt on its balance sheet and is tackling competition from both smaller providers as well as giants like BT, which has been given regulatory permission to acquire rival TalkTalk, a move which VMO2 has firmly opposed.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Alcaraz exceeded expectations when, on his return from four months out with a wrist injury, he reached the US Open quarter-finals in September before going out in an astonishing five-set epic against rising American star Shelton.",
+        "ko": "",
         "sentences": [
           {
-            "en": "VMO2 has billions of debt on its balance sheet and is tackling competition from both smaller providers as well as giants like BT, which has been given regulatory permission to acquire rival TalkTalk, a move which VMO2 has firmly opposed.",
-            "ko": "실시간 보도 번역: VMO2 has billions of debt on its balance sheet and is tackling competition from both smaller providers as well as giants like BT, which has been given regulatory permission to acquire rival TalkTalk, a move which VMO2 has firmly opposed."
+            "en": "Alcaraz exceeded expectations when, on his return from four months out with a wrist injury, he reached the US Open quarter-finals in September before going out in an astonishing five-set epic against rising American star Shelton.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "VMO2 declined to comment. The Prospect union, which represents VMO2 staff, said the cuts were \"disappointing and very unsettling\".",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "In the two months since, Alcaraz has won three titles and lost once in 17 matches.",
+        "ko": "",
         "sentences": [
           {
-            "en": "VMO2 declined to comment.",
-            "ko": "실시간 보도 번역: VMO2 declined to comment."
-          },
-          {
-            "en": "The Prospect union, which represents VMO2 staff, said the cuts were \"disappointing and very unsettling\".",
-            "ko": "실시간 보도 번역: The Prospect union, which represents VMO2 staff, said the cuts were \"disappointing and very unsettling\"."
+            "en": "In the two months since, Alcaraz has won three titles and lost once in 17 matches.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Thousands of jobs at Virgin Media O2 to be cut",
+      "글로벌 최신 소식: Alcaraz takes revenge on Shelton to win first Paris Masters title",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2421,14 +2494,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Thousands of jobs at Virgin Media O2 to be cut",
+          "Alcaraz takes revenge on Shelton to win first Paris Masters title",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_225606840654647899",
@@ -3131,85 +3206,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "How Dart revived career with help of Wimbledon champion",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_581939929507749056",
-    "title": "World number one-bound Zverev loses to De Minaur",
-    "subtitle": "Alexander Zverev loses his first match since securing the men's world number one ranking as he suffers a surprise defeat by Alex d...",
-    "speaker": "BBC Tennis",
-    "date": "2026-10-31",
-    "addedAt": "2026-11-01T03:55:43Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 91,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Alexander Zverev has won the French Open and US Open this year",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Alexander Zverev has won the French Open and US Open this year",
-            "ko": "실시간 보도 번역: Alexander Zverev has won the French Open and US Open this year"
-          }
-        ]
-      },
-      {
-        "en": "Alexander Zverev lost his first match since securing the men's world number one ranking as he suffered a surprise defeat by Alex de Minaur in the semi-finals of the Vienna Open.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Alexander Zverev lost his first match since securing the men's world number one ranking as he suffered a surprise defeat by Alex de Minaur in the semi-finals of the Vienna Open.",
-            "ko": "실시간 보도 번역: Alexander Zverev lost his first match since securing the men's world number one ranking as he suffered a surprise defeat by Alex de Minaur in the semi-finals of the Vienna Open."
-          }
-        ]
-      },
-      {
-        "en": "German top seed Zverev, who will replace Jannik Sinner at the summit of the men's rankings on Monday, lost 4-6 6-1 6-7 (4-7) to the Australian fifth seed.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "German top seed Zverev, who will replace Jannik Sinner at the summit of the men's rankings on Monday, lost 4-6 6-1 6-7 (4-7) to the Australian fifth seed.",
-            "ko": "실시간 보도 번역: German top seed Zverev, who will replace Jannik Sinner at the summit of the men's rankings on Monday, lost 4-6 6-1 6-7 (4-7) to the Australian fifth seed."
-          }
-        ]
-      },
-      {
-        "en": "Victory means 27-year-old De Minaur has leapfrogged Spain's Rafael Jodar in the race to qualify for the season-ending ATP Finals.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Victory means 27-year-old De Minaur has leapfrogged Spain's Rafael Jodar in the race to qualify for the season-ending ATP Finals.",
-            "ko": "실시간 보도 번역: Victory means 27-year-old De Minaur has leapfrogged Spain's Rafael Jodar in the race to qualify for the season-ending ATP Finals."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: World number one-bound Zverev loses to De Minaur",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "World number one-bound Zverev loses to De Minaur",
           "Historical retrospective",
           "Unrelated general weather"
         ],
