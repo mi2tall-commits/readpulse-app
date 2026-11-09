@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1086853294422807803",
+    "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "subtitle": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-09",
+    "addedAt": "2026-11-09T21:51:29Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 106,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Hundreds of billions of dollars have been wiped off the value of Nvidia after the US chipmaker announced an independent investigation would be carried out into its chief executive's affair with an alleged Chinese spy.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Hundreds of billions of dollars have been wiped off the value of Nvidia after the US chipmaker announced an independent investigation would be carried out into its chief executive's affair with an alleged Chinese spy.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The tech firm saw its shares fall by about 4% by close of trade on Monday after Jensen Huang admitted having an extramarital affair.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The tech firm saw its shares fall by about 4% by close of trade on Monday after Jensen Huang admitted having an extramarital affair.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Nvidia's probe came after reports that the US believed the Nvidia boss had been targeted in an espionage campaign by China.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Nvidia's probe came after reports that the US believed the Nvidia boss had been targeted in an espionage campaign by China.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "However, China has rejected the claims, with its foreign ministry saying allegations about Chinese spies were \"entirely groundless, speculative and intended to smear and malign China\".",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "However, China has rejected the claims, with its foreign ministry saying allegations about Chinese spies were \"entirely groundless, speculative and intended to smear and malign China\".",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_310405117874369882",
     "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
     "subtitle": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March....",
@@ -738,70 +815,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_533502013169604182",
-    "title": "North Korea denies being behind record $6.3bn Binance hack",
-    "subtitle": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-03",
-    "addedAt": "2026-11-03T05:00:37Z",
-    "category": "tech",
+    "id": "auto_science_66198983608008397",
+    "title": "Birds return to waterfowl park after oil vandalism",
+    "subtitle": "The vandalism of a nearby home heating oil tank resulted in the death of 13 birds from the park....",
+    "speaker": "BBC Science",
+    "date": "2026-11-09",
+    "addedAt": "2026-11-09T21:51:29Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 114,
+    "wordCount": 93,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "North Korea has denied claims that it was behind the record $6.3bn (£4.7bn) hack of cryptocurrency exchange Binance, calling the allegations \"absurd rhetoric\".",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "The birds (pictured previously) have returned to the park after being cared for by the USPCA",
+        "ko": "",
         "sentences": [
           {
-            "en": "North Korea has denied claims that it was behind the record $6.",
-            "ko": "실시간 보도 번역: North Korea has denied claims that it was behind the record $6."
-          },
-          {
-            "en": "7bn) hack of cryptocurrency exchange Binance, calling the allegations \"absurd rhetoric\".",
-            "ko": "실시간 보도 번역: 7bn) hack of cryptocurrency exchange Binance, calling the allegations \"absurd rhetoric\"."
+            "en": "The birds (pictured previously) have returned to the park after being cared for by the USPCA",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Resident birds have returned to Broughshane Waterfowl Park after an oil spill which caused the death of 13 of the flock.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image.",
-            "ko": "실시간 보도 번역: Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image."
+            "en": "Resident birds have returned to Broughshane Waterfowl Park after an oil spill which caused the death of 13 of the flock.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "The popular attraction in County Antrim was forced to close after a nearby home heating oil tank was vandalised, causing the oil spill into the pond.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history.",
-            "ko": "실시간 보도 번역: The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history."
+            "en": "The popular attraction in County Antrim was forced to close after a nearby home heating oil tank was vandalised, causing the oil spill into the pond.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "This is the latest hack to be linked to North Korea, which has been accused of relying on cyber-crime to help finance its sanctioned economy.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "In a post on social media, The Waterfowl Pond confirmed that work is still underway to address the oil contamination and that a number of pens remain out of bounds.",
+        "ko": "",
         "sentences": [
           {
-            "en": "This is the latest hack to be linked to North Korea, which has been accused of relying on cyber-crime to help finance its sanctioned economy.",
-            "ko": "실시간 보도 번역: This is the latest hack to be linked to North Korea, which has been accused of relying on cyber-crime to help finance its sanctioned economy."
+            "en": "In a post on social media, The Waterfowl Pond confirmed that work is still underway to address the oil contamination and that a number of pens remain out of bounds.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: North Korea denies being behind record $6.3bn Binance hack",
+      "글로벌 최신 소식: Birds return to waterfowl park after oil vandalism",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -809,7 +882,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "North Korea denies being behind record $6.3bn Binance hack",
+          "Birds return to waterfowl park after oil vandalism",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1520,66 +1593,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_8425765298929802584",
-    "title": "Five ways El Niño is affecting the weather around the world",
-    "subtitle": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the glob...",
-    "speaker": "BBC Science",
-    "date": "2026-10-19",
-    "addedAt": "2026-10-20T03:05:53Z",
-    "category": "science",
+    "id": "auto_economy_1086853294422807803",
+    "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "subtitle": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia....",
+    "speaker": "BBC Business",
+    "date": "2026-11-09",
+    "addedAt": "2026-11-09T21:51:29Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 114,
+    "wordCount": 106,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFive ways El Niño is affecting the weather around the worldImage source, EPA/ShutterstockBySarah Keith-LucasLead Weather PresenterPublished3 hours agoEl Niño has been strengthening for several months now and is already having a significant impact on global weather patterns.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Hundreds of billions of dollars have been wiped off the value of Nvidia after the US chipmaker announced an independent investigation would be carried out into its chief executive's affair with an alleged Chinese spy.",
+        "ko": "",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFive ways El Niño is affecting the weather around the worldImage source, EPA/ShutterstockBySarah Keith-LucasLead Weather PresenterPublished3 hours agoEl Niño has been strengthening for several months now and is already having a significant impact on global weather patterns.",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFive ways El Niño is affecting the weather around the worldImage source, EPA/ShutterstockBySarah Keith-LucasLead Weather PresenterPublished3 hours agoEl Niño has been strengthening for several months now and is already having a significant impact on global weather patterns."
+            "en": "Hundreds of billions of dollars have been wiped off the value of Nvidia after the US chipmaker announced an independent investigation would be carried out into its chief executive's affair with an alleged Chinese spy.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Countries including Indonesia, India and the United States have been experiencing droughts, floods and heatwaves in line with projections about how extreme weather events will be supercharged by the phenomenon.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "The tech firm saw its shares fall by about 4% by close of trade on Monday after Jensen Huang admitted having an extramarital affair.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Countries including Indonesia, India and the United States have been experiencing droughts, floods and heatwaves in line with projections about how extreme weather events will be supercharged by the phenomenon.",
-            "ko": "실시간 보도 번역: Countries including Indonesia, India and the United States have been experiencing droughts, floods and heatwaves in line with projections about how extreme weather events will be supercharged by the phenomenon."
+            "en": "The tech firm saw its shares fall by about 4% by close of trade on Monday after Jensen Huang admitted having an extramarital affair.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The World Meteorological Agency says the record-breaking El Niño will strengthen further and persist until at least 2027.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Nvidia's probe came after reports that the US believed the Nvidia boss had been targeted in an espionage campaign by China.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The World Meteorological Agency says the record-breaking El Niño will strengthen further and persist until at least 2027.",
-            "ko": "실시간 보도 번역: The World Meteorological Agency says the record-breaking El Niño will strengthen further and persist until at least 2027."
+            "en": "Nvidia's probe came after reports that the US believed the Nvidia boss had been targeted in an espionage campaign by China.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Here are five ways its impact is already being felt around the world.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "However, China has rejected the claims, with its foreign ministry saying allegations about Chinese spies were \"entirely groundless, speculative and intended to smear and malign China\".",
+        "ko": "",
         "sentences": [
           {
-            "en": "Here are five ways its impact is already being felt around the world.",
-            "ko": "실시간 보도 번역: Here are five ways its impact is already being felt around the world."
+            "en": "However, China has rejected the claims, with its foreign ministry saying allegations about Chinese spies were \"entirely groundless, speculative and intended to smear and malign China\".",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Five ways El Niño is affecting the weather around the world",
+      "글로벌 최신 소식: Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1587,7 +1660,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Five ways El Niño is affecting the weather around the world",
+          "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2338,78 +2411,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_769404345152372097",
-    "title": "Binance users withdraw $3.6bn after record crypto hack",
-    "subtitle": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets....",
-    "speaker": "BBC Business",
-    "date": "2026-11-02",
-    "addedAt": "2026-11-02T03:59:00Z",
-    "category": "economy",
+    "id": "auto_sports_508173049857921913",
+    "title": "Gauff opens WTA Finals with gritty win over Pegula",
+    "subtitle": "Former champion Coco Gauff beats fellow American Jessica Pegula in her opening match of the WTA Finals at Indian Wells....",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-09",
+    "addedAt": "2026-11-09T21:51:30Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 112,
+    "wordCount": 99,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "Binance customers withdrew $3.64bn (£2.72bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Coco Gauff battled to a three-set victory over fellow American Jessica Pegula as she made a winning start to the WTA Finals.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Binance customers withdrew $3.",
-            "ko": "실시간 보도 번역: Binance customers withdrew $3."
-          },
-          {
-            "en": "72bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.",
-            "ko": "실시간 보도 번역: 72bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week."
+            "en": "Coco Gauff battled to a three-set victory over fellow American Jessica Pegula as she made a winning start to the WTA Finals.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The firm suspended all transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Gauff, the 2024 champion, demonstrated resilience and superb athleticism to overcome 2023 runner-up Pegula 6-4 6-7 (5-7) 6-2 at Indian Wells in California.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The firm suspended all transactions in the wake of the incident, which impacted $6.",
-            "ko": "실시간 보도 번역: The firm suspended all transactions in the wake of the incident, which impacted $6."
-          },
-          {
-            "en": "3bn worth of digital assets.",
-            "ko": "실시간 보도 번역: 3bn worth of digital assets."
+            "en": "Gauff, the 2024 champion, demonstrated resilience and superb athleticism to overcome 2023 runner-up Pegula 6-4 6-7 (5-7) 6-2 at Indian Wells in California.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack, which is said to be the largest hack in history.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Gauff - at 22, the youngest player to appear at five consecutive WTA Finals since Martina Hingis in 2000 - last competed at the China Open in early October.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack, which is said to be the largest hack in history.",
-            "ko": "실시간 보도 번역: Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack, which is said to be the largest hack in history."
+            "en": "Gauff - at 22, the youngest player to appear at five consecutive WTA Finals since Martina Hingis in 2000 - last competed at the China Open in early October.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source. Binance has repeatedly said it would cover all of the losses linked to the attack.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "\"To play a tournament like this with no preparation is something I've never done in my career, but I'm just really happy to get through.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source.",
-            "ko": "실시간 보도 번역: The company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source."
-          },
-          {
-            "en": "Binance has repeatedly said it would cover all of the losses linked to the attack.",
-            "ko": "실시간 보도 번역: Binance has repeatedly said it would cover all of the losses linked to the attack."
+            "en": "\"To play a tournament like this with no preparation is something I've never done in my career, but I'm just really happy to get through.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Binance users withdraw $3.6bn after record crypto hack",
+      "글로벌 최신 소식: Gauff opens WTA Finals with gritty win over Pegula",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2417,14 +2478,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Binance users withdraw $3.6bn after record crypto hack",
+          "Gauff opens WTA Finals with gritty win over Pegula",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_718264105329876300",
@@ -3127,85 +3190,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Can Alcaraz's ex-coach help Shelton challenge his former protege?",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_1139518326533140129",
-    "title": "How Dart revived career with help of Wimbledon champion",
-    "subtitle": "Britain's Harriet Dart knows people doubted whether she would ever win a WTA title, but says the belief of her coach Marion Bartol...",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-01",
-    "addedAt": "2026-11-01T17:31:53Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 108,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "In the hour following her first WTA title win, Britain's Harriet Dart had little time to respond to the stream of congratulatory messages flashing up on her phone.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "In the hour following her first WTA title win, Britain's Harriet Dart had little time to respond to the stream of congratulatory messages flashing up on her phone.",
-            "ko": "실시간 보도 번역: In the hour following her first WTA title win, Britain's Harriet Dart had little time to respond to the stream of congratulatory messages flashing up on her phone."
-          }
-        ]
-      },
-      {
-        "en": "Most pressing was making a call to her proud parents, Nick and Susie, who had been watching the final with friends at their local tennis club in north London, and her sister Phoebe.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Most pressing was making a call to her proud parents, Nick and Susie, who had been watching the final with friends at their local tennis club in north London, and her sister Phoebe.",
-            "ko": "실시간 보도 번역: Most pressing was making a call to her proud parents, Nick and Susie, who had been watching the final with friends at their local tennis club in north London, and her sister Phoebe."
-          }
-        ]
-      },
-      {
-        "en": "The next person she spoke to was 2013 Wimbledon champion Marion Bartoli.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The next person she spoke to was 2013 Wimbledon champion Marion Bartoli.",
-            "ko": "실시간 보도 번역: The next person she spoke to was 2013 Wimbledon champion Marion Bartoli."
-          }
-        ]
-      },
-      {
-        "en": "Dart has been coached by the French former world number seven since the start of the season on a part-time basis, and she credits Bartoli for helping her achieve what some thought was beyond her.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Dart has been coached by the French former world number seven since the start of the season on a part-time basis, and she credits Bartoli for helping her achieve what some thought was beyond her.",
-            "ko": "실시간 보도 번역: Dart has been coached by the French former world number seven since the start of the season on a part-time basis, and she credits Bartoli for helping her achieve what some thought was beyond her."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: How Dart revived career with help of Wimbledon champion",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "How Dart revived career with help of Wimbledon champion",
           "Historical retrospective",
           "Unrelated general weather"
         ],
