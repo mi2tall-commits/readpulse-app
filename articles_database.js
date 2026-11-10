@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_118872450568191728",
+    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "subtitle": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-09",
+    "addedAt": "2026-11-10T05:42:22Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 89,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "\"He's suffering\": Trump answers BBC question about Nvidia's Jensen Huang",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "\"He's suffering\": Trump answers BBC question about Nvidia's Jensen Huang",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "US President Donald Trump has said the FBI is investigating the affair between the chief executive of Nvidia and an alleged Chinese spy.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "US President Donald Trump has said the FBI is investigating the affair between the chief executive of Nvidia and an alleged Chinese spy.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Trump said he spoke to Jensen Huang on Monday following reports that the US believed he had been targeted in a Chinese espionage campaign.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Trump said he spoke to Jensen Huang on Monday following reports that the US believed he had been targeted in a Chinese espionage campaign.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "\"I asked him that question, 'Did you have any idea she was a spy?' He said 'I had no idea she was a spy' and I really believe him,\" Trump told reporters.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "\"I asked him that question, 'Did you have any idea she was a spy?",
+            "ko": ""
+          },
+          {
+            "en": "' He said 'I had no idea she was a spy' and I really believe him,\" Trump told reporters.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1086853294422807803",
     "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
     "subtitle": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia....",
@@ -734,70 +815,78 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_837394881975436093",
-    "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-    "subtitle": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company represen...",
-    "speaker": "BBC Technology",
-    "date": "2026-11-03",
-    "addedAt": "2026-11-03T18:57:09Z",
-    "category": "tech",
+    "id": "auto_science_293200993058795025",
+    "title": "The superpower battle over energy – and what it means for your bills",
+    "subtitle": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?...",
+    "speaker": "BBC Science",
+    "date": "2026-11-10",
+    "addedAt": "2026-11-10T05:42:23Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 101,
+    "wordCount": 97,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Hackers who stole a record $6.3bn (£4.7bn) from Binance used fake job interviews and a compromised internal AI tool, the firm has revealed.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "The superpower battle over energy – and what it means for your bills",
+        "ko": "",
         "sentences": [
           {
-            "en": "Hackers who stole a record $6.",
-            "ko": "실시간 보도 번역: Hackers who stole a record $6."
+            "en": "The superpower battle over energy – and what it means for your bills",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "A gas rig in the North Sea. An oil field in Texas. A solar panel factory in China. They can feel a world away, but your energy bill says otherwise.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "A gas rig in the North Sea.",
+            "ko": ""
           },
           {
-            "en": "7bn) from Binance used fake job interviews and a compromised internal AI tool, the firm has revealed.",
-            "ko": "실시간 보도 번역: 7bn) from Binance used fake job interviews and a compromised internal AI tool, the firm has revealed."
+            "en": "An oil field in Texas.",
+            "ko": ""
+          },
+          {
+            "en": "A solar panel factory in China.",
+            "ko": ""
+          },
+          {
+            "en": "They can feel a world away, but your energy bill says otherwise.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Initial findings published by the company, which operates the world's largest cryptocurrency exchange, said hackers gained access to its systems through \"sophisticated, multi-stage campaign\".",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "In January, it could jump by more than a quarter – around £460 extra a year for the typical UK household – according to the latest forecasts from the big suppliers British Gas, EDF and E.ON.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Initial findings published by the company, which operates the world's largest cryptocurrency exchange, said hackers gained access to its systems through \"sophisticated, multi-stage campaign\".",
-            "ko": "실시간 보도 번역: Initial findings published by the company, which operates the world's largest cryptocurrency exchange, said hackers gained access to its systems through \"sophisticated, multi-stage campaign\"."
+            "en": "In January, it could jump by more than a quarter – around £460 extra a year for the typical UK household – according to the latest forecasts from the big suppliers British Gas, EDF and E.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "It said they used a range of techniques such as malicious software downloads to compromise the computers of Binance engineers and gain control over tools to drain its wallet of billions of dollars worth of crypto.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "For the second time in four years, a war thousands of miles away is landing in British inboxes.",
+        "ko": "",
         "sentences": [
           {
-            "en": "It said they used a range of techniques such as malicious software downloads to compromise the computers of Binance engineers and gain control over tools to drain its wallet of billions of dollars worth of crypto.",
-            "ko": "실시간 보도 번역: It said they used a range of techniques such as malicious software downloads to compromise the computers of Binance engineers and gain control over tools to drain its wallet of billions of dollars worth of crypto."
-          }
-        ]
-      },
-      {
-        "en": "Binance called it a \"serious and highly sophisticated security incident\" and apologised, saying \"this should not have happened\".",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Binance called it a \"serious and highly sophisticated security incident\" and apologised, saying \"this should not have happened\".",
-            "ko": "실시간 보도 번역: Binance called it a \"serious and highly sophisticated security incident\" and apologised, saying \"this should not have happened\"."
+            "en": "For the second time in four years, a war thousands of miles away is landing in British inboxes.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "글로벌 최신 소식: The superpower battle over energy – and what it means for your bills",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -805,7 +894,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Binance says fake job interviews used as part of $6.3bn crypto hack",
+          "The superpower battle over energy – and what it means for your bills",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1516,66 +1605,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_8145819573393564811",
-    "title": "Five ways El Niño is affecting the weather around the world",
-    "subtitle": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the glob...",
-    "speaker": "BBC Science",
-    "date": "2026-10-19",
-    "addedAt": "2026-10-20T16:14:04Z",
-    "category": "science",
+    "id": "auto_economy_118872450568191728",
+    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "subtitle": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy....",
+    "speaker": "BBC Business",
+    "date": "2026-11-09",
+    "addedAt": "2026-11-10T05:42:23Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 110,
+    "wordCount": 89,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFive ways El Niño is affecting the weather around the worldImage source, EPAImage caption, Wildfires have caused thick haze on the streets in Indonesia this month",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "\"He's suffering\": Trump answers BBC question about Nvidia's Jensen Huang",
+        "ko": "",
         "sentences": [
           {
-            "en": "BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFive ways El Niño is affecting the weather around the worldImage source, EPAImage caption, Wildfires have caused thick haze on the streets in Indonesia this month",
-            "ko": "실시간 보도 번역: BBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsMore menuMore menuSearch BBCHomeNewsSportEarthReelWorklifeTravelCultureFutureMusicTVWeatherSoundsClose menu BBC WeatherMenuHomeWeather WarningsFlood WarningsMonthly OutlookCoast and SeaHelpFive ways El Niño is affecting the weather around the worldImage source, EPAImage caption, Wildfires have caused thick haze on the streets in Indonesia this month"
+            "en": "\"He's suffering\": Trump answers BBC question about Nvidia's Jensen Huang",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "El Niño has been strengthening for several months now and is already having a significant impact on global weather patterns.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "US President Donald Trump has said the FBI is investigating the affair between the chief executive of Nvidia and an alleged Chinese spy.",
+        "ko": "",
         "sentences": [
           {
-            "en": "El Niño has been strengthening for several months now and is already having a significant impact on global weather patterns.",
-            "ko": "실시간 보도 번역: El Niño has been strengthening for several months now and is already having a significant impact on global weather patterns."
+            "en": "US President Donald Trump has said the FBI is investigating the affair between the chief executive of Nvidia and an alleged Chinese spy.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Countries including Indonesia, India and the United States have been experiencing droughts, floods and heatwaves in line with projections about how extreme weather events will be supercharged by the phenomenon.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Trump said he spoke to Jensen Huang on Monday following reports that the US believed he had been targeted in a Chinese espionage campaign.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Countries including Indonesia, India and the United States have been experiencing droughts, floods and heatwaves in line with projections about how extreme weather events will be supercharged by the phenomenon.",
-            "ko": "실시간 보도 번역: Countries including Indonesia, India and the United States have been experiencing droughts, floods and heatwaves in line with projections about how extreme weather events will be supercharged by the phenomenon."
+            "en": "Trump said he spoke to Jensen Huang on Monday following reports that the US believed he had been targeted in a Chinese espionage campaign.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The World Meteorological Agency says the record-breaking El Niño will strengthen further and persist until at least 2027.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "\"I asked him that question, 'Did you have any idea she was a spy?' He said 'I had no idea she was a spy' and I really believe him,\" Trump told reporters.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The World Meteorological Agency says the record-breaking El Niño will strengthen further and persist until at least 2027.",
-            "ko": "실시간 보도 번역: The World Meteorological Agency says the record-breaking El Niño will strengthen further and persist until at least 2027."
+            "en": "\"I asked him that question, 'Did you have any idea she was a spy?",
+            "ko": ""
+          },
+          {
+            "en": "' He said 'I had no idea she was a spy' and I really believe him,\" Trump told reporters.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Five ways El Niño is affecting the weather around the world",
+      "글로벌 최신 소식: Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1583,7 +1676,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Five ways El Niño is affecting the weather around the world",
+          "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2326,74 +2419,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_303457078805407308",
-    "title": "Ryanair says it may freeze workers' pay and raise airfares",
-    "subtitle": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran....",
-    "speaker": "BBC Business",
-    "date": "2026-11-02",
-    "addedAt": "2026-11-02T21:18:16Z",
-    "category": "economy",
+    "id": "auto_sports_210503057911954871",
+    "title": "Sabalenka wins WTA Finals opener despite wayward serve",
+    "subtitle": "Aryna Sabalenka grapples with a misfiring serve as she begins her WTA Finals campaign with a tight victory over Karolina Muchova....",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-09",
+    "addedAt": "2026-11-10T05:42:24Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 120,
+    "wordCount": 88,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "Ryanair is considering a temporary wage freeze for staff and confirmed airfares will be \"materially higher\" next summer because of a sharp rise in fuel costs following the US-Israel war with Iran.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Aryna Sabalenka reached the WTA Finals showpiece in 2022 and 2025",
+        "ko": "",
         "sentences": [
           {
-            "en": "Ryanair is considering a temporary wage freeze for staff and confirmed airfares will be \"materially higher\" next summer because of a sharp rise in fuel costs following the US-Israel war with Iran.",
-            "ko": "실시간 보도 번역: Ryanair is considering a temporary wage freeze for staff and confirmed airfares will be \"materially higher\" next summer because of a sharp rise in fuel costs following the US-Israel war with Iran."
+            "en": "Aryna Sabalenka reached the WTA Finals showpiece in 2022 and 2025",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The airline said it expects fuel prices to remain high \"well into 2027\" unless there is a \"swift resolution\" to the conflict.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Aryna Sabalenka grappled with her own frustrations and a misfiring serve to begin her WTA Finals campaign with a tight victory over Karolina Muchova.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The airline said it expects fuel prices to remain high \"well into 2027\" unless there is a \"swift resolution\" to the conflict.",
-            "ko": "실시간 보도 번역: The airline said it expects fuel prices to remain high \"well into 2027\" unless there is a \"swift resolution\" to the conflict."
+            "en": "Aryna Sabalenka grappled with her own frustrations and a misfiring serve to begin her WTA Finals campaign with a tight victory over Karolina Muchova.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Ryanair said its fuel bill is forecast to be €2bn (£1.6bn) higher in the short-term and its boss, Michael O'Leary, said airfares would have to rise by \"double-digits\" to help cover the cost.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "World number two Sabalenka is bidding to win the season-ending title for the first time in her sixth appearance.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Ryanair said its fuel bill is forecast to be €2bn (£1.",
-            "ko": "실시간 보도 번역: Ryanair said its fuel bill is forecast to be €2bn (£1."
-          },
-          {
-            "en": "6bn) higher in the short-term and its boss, Michael O'Leary, said airfares would have to rise by \"double-digits\" to help cover the cost.",
-            "ko": "실시간 보도 번역: 6bn) higher in the short-term and its boss, Michael O'Leary, said airfares would have to rise by \"double-digits\" to help cover the cost."
+            "en": "World number two Sabalenka is bidding to win the season-ending title for the first time in her sixth appearance.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "But the firm said that was unlikely to be enough and it is looking into pay freezes. Unite, the union representing Ryanair staff, said it had not been told of \"any such proposals\".",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "With rival and world number one Elena Rybakina withdrawing on the eve of the competition, Sabalenka is arguably the favourite to triumph on the courts where she won the Indian Wells title in March.",
+        "ko": "",
         "sentences": [
           {
-            "en": "But the firm said that was unlikely to be enough and it is looking into pay freezes.",
-            "ko": "실시간 보도 번역: But the firm said that was unlikely to be enough and it is looking into pay freezes."
-          },
-          {
-            "en": "Unite, the union representing Ryanair staff, said it had not been told of \"any such proposals\".",
-            "ko": "실시간 보도 번역: Unite, the union representing Ryanair staff, said it had not been told of \"any such proposals\"."
+            "en": "With rival and world number one Elena Rybakina withdrawing on the eve of the competition, Sabalenka is arguably the favourite to triumph on the courts where she won the Indian Wells title in March.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Ryanair says it may freeze workers' pay and raise airfares",
+      "글로벌 최신 소식: Sabalenka wins WTA Finals opener despite wayward serve",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2401,14 +2486,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Ryanair says it may freeze workers' pay and raise airfares",
+          "Sabalenka wins WTA Finals opener despite wayward serve",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_508173049857921913",
@@ -3111,85 +3198,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Djokovic keeps alive bid to squeeze into ATP Finals",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_943089883262399536",
-    "title": "Can Alcaraz's ex-coach help Shelton challenge his former protege?",
-    "subtitle": "US Open runner-up Ben Shelton joins forces with Juan Carlos Ferrer, the former coach of Carlos Alcaraz - BBC Sport analyses why th...",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-02",
-    "addedAt": "2026-11-02T21:18:17Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 106,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Juan Carlos Ferrero helped Carlos Alcaraz win six Grand Slam titles before they split at the end of 2025",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Juan Carlos Ferrero helped Carlos Alcaraz win six Grand Slam titles before they split at the end of 2025",
-            "ko": "실시간 보도 번역: Juan Carlos Ferrero helped Carlos Alcaraz win six Grand Slam titles before they split at the end of 2025"
-          }
-        ]
-      },
-      {
-        "en": "Ben Shelton's name rarely cropped up when Juan Carlos Ferrero - the former world number one who nurtured Carlos Alcaraz to stardom - teased he was going to coach a new player.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Ben Shelton's name rarely cropped up when Juan Carlos Ferrero - the former world number one who nurtured Carlos Alcaraz to stardom - teased he was going to coach a new player.",
-            "ko": "실시간 보도 번역: Ben Shelton's name rarely cropped up when Juan Carlos Ferrero - the former world number one who nurtured Carlos Alcaraz to stardom - teased he was going to coach a new player."
-          }
-        ]
-      },
-      {
-        "en": "For US Open runner-up Shelton, it is an opportunity to tap into a mind that knows how to win major titles and has the inside track on the world's very best.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "For US Open runner-up Shelton, it is an opportunity to tap into a mind that knows how to win major titles and has the inside track on the world's very best.",
-            "ko": "실시간 보도 번역: For US Open runner-up Shelton, it is an opportunity to tap into a mind that knows how to win major titles and has the inside track on the world's very best."
-          }
-        ]
-      },
-      {
-        "en": "Ferrero started working with Alcaraz when he was 15, turning his fellow Spaniard from a \"piece of spaghetti\" into a seven-time Grand Slam champion.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Ferrero started working with Alcaraz when he was 15, turning his fellow Spaniard from a \"piece of spaghetti\" into a seven-time Grand Slam champion.",
-            "ko": "실시간 보도 번역: Ferrero started working with Alcaraz when he was 15, turning his fellow Spaniard from a \"piece of spaghetti\" into a seven-time Grand Slam champion."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Can Alcaraz's ex-coach help Shelton challenge his former protege?",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Can Alcaraz's ex-coach help Shelton challenge his former protege?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
