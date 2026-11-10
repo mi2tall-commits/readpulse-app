@@ -1,6 +1,95 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_403523684266587956",
+    "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+    "subtitle": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-10",
+    "addedAt": "2026-11-10T19:13:23Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 107,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Anthropic, the artificial intelligence (AI) company behind the Claude chatbot, could be valued at around $1.3 trillion (£1 trillion) when it lists its shares for sale on New York's Nasdaq stock exchange.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Anthropic, the artificial intelligence (AI) company behind the Claude chatbot, could be valued at around $1.",
+            "ko": ""
+          },
+          {
+            "en": "3 trillion (£1 trillion) when it lists its shares for sale on New York's Nasdaq stock exchange.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The loss-making company says it will offer its shares for between $70 and $78 each and will raise up to $64bn when it floats this month.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The loss-making company says it will offer its shares for between $70 and $78 each and will raise up to $64bn when it floats this month.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "It would value Anthropic at between $1.1tn and $1.3tn which, although large, is below the $2tn some backers of the firm predicted in summer, according to the Financial Times.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "It would value Anthropic at between $1.",
+            "ko": ""
+          },
+          {
+            "en": "1tn and $1.",
+            "ko": ""
+          },
+          {
+            "en": "3tn which, although large, is below the $2tn some backers of the firm predicted in summer, according to the Financial Times.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The huge valuation comes despite the company warning last month that AI could pose \"catastrophic or existential risks to humanity\".",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The huge valuation comes despite the company warning last month that AI could pose \"catastrophic or existential risks to humanity\".",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_118872450568191728",
     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
     "subtitle": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy....",
@@ -734,70 +823,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_774160250938381018",
-    "title": "Graduates are managing AI - but are they learning much else?",
-    "subtitle": "Graduates are spending more time managing AI, but are they missing out on other work experience?...",
-    "speaker": "BBC Technology",
-    "date": "2026-11-04",
-    "addedAt": "2026-11-04T04:32:47Z",
-    "category": "tech",
+    "id": "auto_science_194236639269876466",
+    "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+    "subtitle": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies....",
+    "speaker": "BBC Science",
+    "date": "2026-11-10",
+    "addedAt": "2026-11-10T19:13:24Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 118,
+    "wordCount": 97,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Recent university graduate Lotte Underwood is a public relations executive with a twist - she spends more time using AI than actually doing PR.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Sales of essential goods such as bottled water and canned food soared in the 10 days following the launch of the government's \"Be Ready\" emergency preparedness campaign on 22 October, research indicates.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Recent university graduate Lotte Underwood is a public relations executive with a twist - she spends more time using AI than actually doing PR.",
-            "ko": "실시간 보도 번역: Recent university graduate Lotte Underwood is a public relations executive with a twist - she spends more time using AI than actually doing PR."
+            "en": "Sales of essential goods such as bottled water and canned food soared in the 10 days following the launch of the government's \"Be Ready\" emergency preparedness campaign on 22 October, research indicates.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Underwood, 25, joined London-based PR agency Fight or Flight in November last year, in the new role of \"AI associate\" after completing a degree and then a masters in marketing.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Hand sanitiser sales were up 83%, sales of bottled water rose 67% and tinned and jarred goods climbed 37%, according to data from retail research firm Worldpanel by Numerator.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Underwood, 25, joined London-based PR agency Fight or Flight in November last year, in the new role of \"AI associate\" after completing a degree and then a masters in marketing.",
-            "ko": "실시간 보도 번역: Underwood, 25, joined London-based PR agency Fight or Flight in November last year, in the new role of \"AI associate\" after completing a degree and then a masters in marketing."
+            "en": "Hand sanitiser sales were up 83%, sales of bottled water rose 67% and tinned and jarred goods climbed 37%, according to data from retail research firm Worldpanel by Numerator.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "She's part of a recently established, dedicated AI team that has built around 30 AI agents. Specific tasks include industry research, client reporting, media interview preparation, helping clients create clearer briefs, and image generation.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "The government's public awareness campaign encouraged people to stock up in case of disruption to essential services by severe weather or cyberattacks.",
+        "ko": "",
         "sentences": [
           {
-            "en": "She's part of a recently established, dedicated AI team that has built around 30 AI agents.",
-            "ko": "실시간 보도 번역: She's part of a recently established, dedicated AI team that has built around 30 AI agents."
-          },
-          {
-            "en": "Specific tasks include industry research, client reporting, media interview preparation, helping clients create clearer briefs, and image generation.",
-            "ko": "실시간 보도 번역: Specific tasks include industry research, client reporting, media interview preparation, helping clients create clearer briefs, and image generation."
+            "en": "The government's public awareness campaign encouraged people to stock up in case of disruption to essential services by severe weather or cyberattacks.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "A big part of Underwood's job is to manage those agents, check their outputs and feed those to the team members who are dealing directly with clients and the media.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "However, Worldpanel said that while households were stockpiling essentials, they were not panic buying.",
+        "ko": "",
         "sentences": [
           {
-            "en": "A big part of Underwood's job is to manage those agents, check their outputs and feed those to the team members who are dealing directly with clients and the media.",
-            "ko": "실시간 보도 번역: A big part of Underwood's job is to manage those agents, check their outputs and feed those to the team members who are dealing directly with clients and the media."
+            "en": "However, Worldpanel said that while households were stockpiling essentials, they were not panic buying.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Graduates are managing AI - but are they learning much else?",
+      "글로벌 최신 소식: Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -805,7 +890,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Graduates are managing AI - but are they learning much else?",
+          "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1528,66 +1613,78 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_820732834100901672",
-    "title": "Global nature talks reach deal but money remains an issue",
-    "subtitle": "Countries have been trying to get a global agreement to halt nature decline back on track....",
-    "speaker": "BBC Science",
-    "date": "2026-10-31",
-    "addedAt": "2026-10-31T03:47:04Z",
-    "category": "science",
+    "id": "auto_economy_403523684266587956",
+    "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+    "subtitle": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected....",
+    "speaker": "BBC Business",
+    "date": "2026-11-10",
+    "addedAt": "2026-11-10T19:13:24Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 94,
+    "wordCount": 107,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Elephants in Southern Africa are one of the species that have recovered after recent conservation efforts",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Anthropic, the artificial intelligence (AI) company behind the Claude chatbot, could be valued at around $1.3 trillion (£1 trillion) when it lists its shares for sale on New York's Nasdaq stock exchange.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Elephants in Southern Africa are one of the species that have recovered after recent conservation efforts",
-            "ko": "실시간 보도 번역: Elephants in Southern Africa are one of the species that have recovered after recent conservation efforts"
+            "en": "Anthropic, the artificial intelligence (AI) company behind the Claude chatbot, could be valued at around $1.",
+            "ko": ""
+          },
+          {
+            "en": "3 trillion (£1 trillion) when it lists its shares for sale on New York's Nasdaq stock exchange.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "In Armenia's capital this week a fight between politicians broke out - not the mass brawl in its parliament that was so widely documented on social media - but between delegates from nearly 200 countries.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "The loss-making company says it will offer its shares for between $70 and $78 each and will raise up to $64bn when it floats this month.",
+        "ko": "",
         "sentences": [
           {
-            "en": "In Armenia's capital this week a fight between politicians broke out - not the mass brawl in its parliament that was so widely documented on social media - but between delegates from nearly 200 countries.",
-            "ko": "실시간 보도 번역: In Armenia's capital this week a fight between politicians broke out - not the mass brawl in its parliament that was so widely documented on social media - but between delegates from nearly 200 countries."
+            "en": "The loss-making company says it will offer its shares for between $70 and $78 each and will raise up to $64bn when it floats this month.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The world's nations have been gathered in Yerevan for nearly two weeks  negotiating, and arguing, over a new agreement on nature.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "It would value Anthropic at between $1.1tn and $1.3tn which, although large, is below the $2tn some backers of the firm predicted in summer, according to the Financial Times.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The world's nations have been gathered in Yerevan for nearly two weeks  negotiating, and arguing, over a new agreement on nature.",
-            "ko": "실시간 보도 번역: The world's nations have been gathered in Yerevan for nearly two weeks  negotiating, and arguing, over a new agreement on nature."
+            "en": "It would value Anthropic at between $1.",
+            "ko": ""
+          },
+          {
+            "en": "1tn and $1.",
+            "ko": ""
+          },
+          {
+            "en": "3tn which, although large, is below the $2tn some backers of the firm predicted in summer, according to the Financial Times.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Early on Saturday morning, hours after talks were due to finish, they finally agreed the key parts of a new action plan.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "The huge valuation comes despite the company warning last month that AI could pose \"catastrophic or existential risks to humanity\".",
+        "ko": "",
         "sentences": [
           {
-            "en": "Early on Saturday morning, hours after talks were due to finish, they finally agreed the key parts of a new action plan.",
-            "ko": "실시간 보도 번역: Early on Saturday morning, hours after talks were due to finish, they finally agreed the key parts of a new action plan."
+            "en": "The huge valuation comes despite the company warning last month that AI could pose \"catastrophic or existential risks to humanity\".",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Global nature talks reach deal but money remains an issue",
+      "글로벌 최신 소식: Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1595,7 +1692,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Global nature talks reach deal but money remains an issue",
+          "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2333,83 +2430,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_435312516341209631",
-    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "subtitle": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far....",
-    "speaker": "BBC Business",
-    "date": "2026-11-03",
-    "addedAt": "2026-11-03T05:00:39Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 119,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "The UK and EU have agreed a draft deal on removing post-Brexit checks from food and agriculture exports, ahead of the UK-EU summit later this month.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The UK and EU have agreed a draft deal on removing post-Brexit checks from food and agriculture exports, ahead of the UK-EU summit later this month.",
-            "ko": "실시간 보도 번역: The UK and EU have agreed a draft deal on removing post-Brexit checks from food and agriculture exports, ahead of the UK-EU summit later this month."
-          }
-        ]
-      },
-      {
-        "en": "The BBC understands the 200-page draft text for this so called \"SPS\" [sanitary and phytosanitary] agreement has been circulated to EU nations in Brussels for consideration at a meeting on Wednesday.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The BBC understands the 200-page draft text for this so called \"SPS\" [sanitary and phytosanitary] agreement has been circulated to EU nations in Brussels for consideration at a meeting on Wednesday.",
-            "ko": "실시간 보도 번역: The BBC understands the 200-page draft text for this so called \"SPS\" [sanitary and phytosanitary] agreement has been circulated to EU nations in Brussels for consideration at a meeting on Wednesday."
-          }
-        ]
-      },
-      {
-        "en": "Similar texts for deals on emissions trading and a youth travel and work scheme have also been circulated alongside a 15-page draft joint statement for UK and EU top leaders.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Similar texts for deals on emissions trading and a youth travel and work scheme have also been circulated alongside a 15-page draft joint statement for UK and EU top leaders.",
-            "ko": "실시간 보도 번역: Similar texts for deals on emissions trading and a youth travel and work scheme have also been circulated alongside a 15-page draft joint statement for UK and EU top leaders."
-          }
-        ]
-      },
-      {
-        "en": "The food deal is the most significant part of the so-called Brexit reset agreed so far, removing checks and red tape that hit exporters after the UK exited the EU's single market.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The food deal is the most significant part of the so-called Brexit reset agreed so far, removing checks and red tape that hit exporters after the UK exited the EU's single market.",
-            "ko": "실시간 보도 번역: The food deal is the most significant part of the so-called Brexit reset agreed so far, removing checks and red tape that hit exporters after the UK exited the EU's single market."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "UK and EU agree draft deal to scrap Brexit red tape over food exports",
           "Historical retrospective",
           "Unrelated general weather"
         ],
