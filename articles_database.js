@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1095884902054127264",
+    "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+    "subtitle": "The Tamil Nadu government has ordered an internal audit of library collections across the state....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-11",
+    "addedAt": "2026-11-11T19:10:51Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 96,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "The newly opened Periyar Arivulagam library is at the centre of the allegations",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The newly opened Periyar Arivulagam library is at the centre of the allegations",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "An Indian court has ordered an investigation into allegations that a public library in the southern state of Tamil Nadu bought hundreds of books suspected of being generated using AI.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "An Indian court has ordered an investigation into allegations that a public library in the southern state of Tamil Nadu bought hundreds of books suspected of being generated using AI.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The controversy began after Tamil novelist Perumal Murugan raised concerns about books containing false information and questionable authorship at a newly opened library in Coimbatore city.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The controversy began after Tamil novelist Perumal Murugan raised concerns about books containing false information and questionable authorship at a newly opened library in Coimbatore city.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The Madras High Court has ordered the state's anti-corruption agency to investigate the purchases and freeze bank accounts linked to a publisher accused of supplying the books.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The Madras High Court has ordered the state's anti-corruption agency to investigate the purchases and freeze bank accounts linked to a publisher accused of supplying the books.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: New Indian mega library rocked by scandal over 'AI-generated books'",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "New Indian mega library rocked by scandal over 'AI-generated books'",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_908774060265687803",
     "title": "Robot vessels take on the dangerous work of mine hunting",
     "subtitle": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems....",
@@ -730,90 +807,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_374973229485236289",
-    "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-    "subtitle": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-04",
-    "addedAt": "2026-11-05T04:48:46Z",
-    "category": "tech",
+    "id": "auto_science_777846300576988741",
+    "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+    "subtitle": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this mont...",
+    "speaker": "BBC Science",
+    "date": "2026-11-11",
+    "addedAt": "2026-11-11T19:10:51Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 170,
+    "wordCount": 95,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Americans are electing members of Congress, which is made up of the House of Representatives and the Senate. All 435 House seats are up for election. In the Senate, only 35 of 100 seats are being contested because senators serve six-year terms. This results tracker shows both the races being decided now and the 65 seats that are not up for election this year - 34 held by Democrats and 31 by Republicans.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Between 10,000 and 13,000 grizzly bears are estimated to live in British Columbia (file image)",
+        "ko": "",
         "sentences": [
           {
-            "en": "Americans are electing members of Congress, which is made up of the House of Representatives and the Senate.",
-            "ko": "실시간 보도 번역: Americans are electing members of Congress, which is made up of the House of Representatives and the Senate."
-          },
-          {
-            "en": "All 435 House seats are up for election.",
-            "ko": "실시간 보도 번역: All 435 House seats are up for election."
-          },
-          {
-            "en": "In the Senate, only 35 of 100 seats are being contested because senators serve six-year terms.",
-            "ko": "실시간 보도 번역: In the Senate, only 35 of 100 seats are being contested because senators serve six-year terms."
-          },
-          {
-            "en": "This results tracker shows both the races being decided now and the 65 seats that are not up for election this year - 34 held by Democrats and 31 by Republicans.",
-            "ko": "실시간 보도 번역: This results tracker shows both the races being decided now and the 65 seats that are not up for election this year - 34 held by Democrats and 31 by Republicans."
+            "en": "Between 10,000 and 13,000 grizzly bears are estimated to live in British Columbia (file image)",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Elon Musk spent almost $450m (£334m) – more than anyone ever has in an election cycle – to back Republican political candidates in the US midterm races. It was not enough to keep Democrats from a resounding victory.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Four grizzly bears have been killed in connection with a fatal attack on a mother and daughter in the Canadian province of British Columbia.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Elon Musk spent almost $450m (£334m) – more than anyone ever has in an election cycle – to back Republican political candidates in the US midterm races.",
-            "ko": "실시간 보도 번역: Elon Musk spent almost $450m (£334m) – more than anyone ever has in an election cycle – to back Republican political candidates in the US midterm races."
-          },
-          {
-            "en": "It was not enough to keep Democrats from a resounding victory.",
-            "ko": "실시간 보도 번역: It was not enough to keep Democrats from a resounding victory."
+            "en": "Four grizzly bears have been killed in connection with a fatal attack on a mother and daughter in the Canadian province of British Columbia.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Among the most striking wins went to Democrat James Talarico, who beat Republican Ken Paxton for a US Senate seat in Texas. Musk spent at least $45m in support of Paxton, according to a BBC analysis of campaign finance data.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Jennifer Balcarras, 48, and her daughter Selah Reed, 20, died earlier this month after going on an afternoon walk in a trail area in Bella Coola.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Among the most striking wins went to Democrat James Talarico, who beat Republican Ken Paxton for a US Senate seat in Texas.",
-            "ko": "실시간 보도 번역: Among the most striking wins went to Democrat James Talarico, who beat Republican Ken Paxton for a US Senate seat in Texas."
-          },
-          {
-            "en": "Musk spent at least $45m in support of Paxton, according to a BBC analysis of campaign finance data.",
-            "ko": "실시간 보도 번역: Musk spent at least $45m in support of Paxton, according to a BBC analysis of campaign finance data."
+            "en": "Jennifer Balcarras, 48, and her daughter Selah Reed, 20, died earlier this month after going on an afternoon walk in a trail area in Bella Coola.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Other races where Musk spent millions included Arizona, Michigan, Wisconsin and Minnesota. His spending continued into Monday, records show.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "The British Columbia Conservation Office Service (BCCOS) launched an investigation into their deaths and forensic testing has since confirmed a sow and her three cubs were responsible for the attack.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Other races where Musk spent millions included Arizona, Michigan, Wisconsin and Minnesota.",
-            "ko": "실시간 보도 번역: Other races where Musk spent millions included Arizona, Michigan, Wisconsin and Minnesota."
-          },
-          {
-            "en": "His spending continued into Monday, records show.",
-            "ko": "실시간 보도 번역: His spending continued into Monday, records show."
+            "en": "The British Columbia Conservation Office Service (BCCOS) launched an investigation into their deaths and forensic testing has since confirmed a sow and her three cubs were responsible for the attack.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "글로벌 최신 소식: Four grizzly bears killed in Canada after fatal attack on mother and daughter",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -821,7 +874,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+          "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1544,66 +1597,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_343030596159766176",
-    "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-    "subtitle": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys...",
-    "speaker": "BBC Science",
-    "date": "2026-10-31",
-    "addedAt": "2026-11-01T03:55:40Z",
-    "category": "science",
+    "id": "auto_economy_575803367081998007",
+    "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+    "subtitle": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer....",
+    "speaker": "BBC Business",
+    "date": "2026-11-11",
+    "addedAt": "2026-11-11T19:10:51Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 84,
+    "wordCount": 115,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Experts praised the discovery as a positive sign for the species future",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Poundland and its 11,000 employees are hopeful that the retailer's impending collapse can be delayed to allow time for a last-minute rescue deal.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Experts praised the discovery as a positive sign for the species future",
-            "ko": "실시간 보도 번역: Experts praised the discovery as a positive sign for the species future"
+            "en": "Poundland and its 11,000 employees are hopeful that the retailer's impending collapse can be delayed to allow time for a last-minute rescue deal.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "A rare species of beetle has been found in Pembrokeshire after being missing from Wales for 60 years.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "The discount chain has been edging towards administration after being blocked by its owners from accessing cash in its bank accounts.",
+        "ko": "",
         "sentences": [
           {
-            "en": "A rare species of beetle has been found in Pembrokeshire after being missing from Wales for 60 years.",
-            "ko": "실시간 보도 번역: A rare species of beetle has been found in Pembrokeshire after being missing from Wales for 60 years."
+            "en": "The discount chain has been edging towards administration after being blocked by its owners from accessing cash in its bank accounts.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The Short-Necked Oil Beetle are dependent on solitary bees for its lifecycle and need a particular habitat to survive, with thick vegetation for shelter and dense flower coverage both essential.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "A deadline to secure a buyer for the business is set to expire at midnight, but sources close to the situation have told the BBC that they expect more time will be given, thanks to the release of £10m in funding.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The Short-Necked Oil Beetle are dependent on solitary bees for its lifecycle and need a particular habitat to survive, with thick vegetation for shelter and dense flower coverage both essential.",
-            "ko": "실시간 보도 번역: The Short-Necked Oil Beetle are dependent on solitary bees for its lifecycle and need a particular habitat to survive, with thick vegetation for shelter and dense flower coverage both essential."
+            "en": "A deadline to secure a buyer for the business is set to expire at midnight, but sources close to the situation have told the BBC that they expect more time will be given, thanks to the release of £10m in funding.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "They were not reported in the UK for almost 60 years after 1948 as habitat loss brought the species to the brink of extinction.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "A committee of MPs questioned Gordon Brothers, Poundland's US owners, on Wednesday following accusations that the investment firm hopes to profit from selling off Poundland's 600 stores and stock piecemeal.",
+        "ko": "",
         "sentences": [
           {
-            "en": "They were not reported in the UK for almost 60 years after 1948 as habitat loss brought the species to the brink of extinction.",
-            "ko": "실시간 보도 번역: They were not reported in the UK for almost 60 years after 1948 as habitat loss brought the species to the brink of extinction."
+            "en": "A committee of MPs questioned Gordon Brothers, Poundland's US owners, on Wednesday following accusations that the investment firm hopes to profit from selling off Poundland's 600 stores and stock piecemeal.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: 'Fascinating' rare beetle found in Wales again after 60 years",
+      "글로벌 최신 소식: Poundland set for more time to secure a rescue deal as emergency talks continue",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1611,7 +1664,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "'Fascinating' rare beetle found in Wales again after 60 years",
+          "Poundland set for more time to secure a rescue deal as emergency talks continue",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2346,74 +2399,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_460001961416226253",
-    "title": "Interest rates expected to rise for first time in over three years",
-    "subtitle": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years....",
-    "speaker": "BBC Business",
-    "date": "2026-11-05",
-    "addedAt": "2026-11-05T04:48:47Z",
-    "category": "economy",
+    "id": "auto_sports_467713837660607750",
+    "title": "Raducanu to return at January's United Cup after injury lay-off",
+    "subtitle": "Emma Raducanu will make her return to tennis in the United Cup team competition in Australia in the first week of 2027....",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-11",
+    "addedAt": "2026-11-11T19:10:52Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 106,
+    "wordCount": 86,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "Policymakers at the Bank of England are expected to raise interest rates on Thursday in what would be the first increase to the benchmark rate for more than three years.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Emma Raducanu missed Wimbledon and the US Open through injury",
+        "ko": "",
         "sentences": [
           {
-            "en": "Policymakers at the Bank of England are expected to raise interest rates on Thursday in what would be the first increase to the benchmark rate for more than three years.",
-            "ko": "실시간 보도 번역: Policymakers at the Bank of England are expected to raise interest rates on Thursday in what would be the first increase to the benchmark rate for more than three years."
+            "en": "Emma Raducanu missed Wimbledon and the US Open through injury",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Most analysts are predicting an rise from 3.75% to 4% in a move that would increase the cost of borrowing for individuals and businesses, but boost savers.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Emma Raducanu will make her return to tennis in the United Cup team competition in Australia in the first week of 2027.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Most analysts are predicting an rise from 3.",
-            "ko": "실시간 보도 번역: Most analysts are predicting an rise from 3."
-          },
-          {
-            "en": "75% to 4% in a move that would increase the cost of borrowing for individuals and businesses, but boost savers.",
-            "ko": "실시간 보도 번역: 75% to 4% in a move that would increase the cost of borrowing for individuals and businesses, but boost savers."
+            "en": "Emma Raducanu will make her return to tennis in the United Cup team competition in Australia in the first week of 2027.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The Bank rate has fallen from its 2023-24 peak of 5.25%, although the Bank's Monetary Policy Committee (MPC) has left the rate unchanged at its last six meetings.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Britain's 2021 US Open champion has not played since June because of a stress fracture of the shin.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The Bank rate has fallen from its 2023-24 peak of 5.",
-            "ko": "실시간 보도 번역: The Bank rate has fallen from its 2023-24 peak of 5."
-          },
-          {
-            "en": "25%, although the Bank's Monetary Policy Committee (MPC) has left the rate unchanged at its last six meetings.",
-            "ko": "실시간 보도 번역: 25%, although the Bank's Monetary Policy Committee (MPC) has left the rate unchanged at its last six meetings."
+            "en": "Britain's 2021 US Open champion has not played since June because of a stress fracture of the shin.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Rising inflation, driven primarily by the cost of petrol and diesel, will push policymakers into an interest rate hike, analysts suggest.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Raducanu was beaten by Croatia’s Donna Vekic in her first grass-court final at Queen's Club on 14 June, but had to pull out of Wimbledon on the eve of her opening match just 14 days later.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Rising inflation, driven primarily by the cost of petrol and diesel, will push policymakers into an interest rate hike, analysts suggest.",
-            "ko": "실시간 보도 번역: Rising inflation, driven primarily by the cost of petrol and diesel, will push policymakers into an interest rate hike, analysts suggest."
+            "en": "Raducanu was beaten by Croatia’s Donna Vekic in her first grass-court final at Queen's Club on 14 June, but had to pull out of Wimbledon on the eve of her opening match just 14 days later.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Interest rates expected to rise for first time in over three years",
+      "글로벌 최신 소식: Raducanu to return at January's United Cup after injury lay-off",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2421,14 +2466,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Interest rates expected to rise for first time in over three years",
+          "Raducanu to return at January's United Cup after injury lay-off",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_210503057911954871",
@@ -3131,85 +3178,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Death threats for Briton Burrage on WTA Tour return",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_961030466210548608",
-    "title": "Djokovic keeps alive bid to squeeze into ATP Finals",
-    "subtitle": "Novak Djokovic keeps alive his last-ditch bid to qualify for this year's ATP Finals by grinding out a first-round victory at the P...",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-03",
-    "addedAt": "2026-11-03T18:57:10Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 115,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Novak Djokovic kept alive his last-ditch bid to qualify for this year's ATP Finals by grinding out a first-round victory over Valentin Vacerot at the Paris Masters.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Novak Djokovic kept alive his last-ditch bid to qualify for this year's ATP Finals by grinding out a first-round victory over Valentin Vacerot at the Paris Masters.",
-            "ko": "실시간 보도 번역: Novak Djokovic kept alive his last-ditch bid to qualify for this year's ATP Finals by grinding out a first-round victory over Valentin Vacerot at the Paris Masters."
-          }
-        ]
-      },
-      {
-        "en": "Likely needing to reach the semi-finals to have a chance of qualifying for the season-ending championships in Turin, the 39-year-old trailed by a set and a break and received treatment to his shoulder in the second set.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Likely needing to reach the semi-finals to have a chance of qualifying for the season-ending championships in Turin, the 39-year-old trailed by a set and a break and received treatment to his shoulder in the second set.",
-            "ko": "실시간 보도 번역: Likely needing to reach the semi-finals to have a chance of qualifying for the season-ending championships in Turin, the 39-year-old trailed by a set and a break and received treatment to his shoulder in the second set."
-          }
-        ]
-      },
-      {
-        "en": "But the 24-time Grand Slam champion dug in, cut down his unforced errors and forced his opponent to return ball after ball.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "But the 24-time Grand Slam champion dug in, cut down his unforced errors and forced his opponent to return ball after ball.",
-            "ko": "실시간 보도 번역: But the 24-time Grand Slam champion dug in, cut down his unforced errors and forced his opponent to return ball after ball."
-          }
-        ]
-      },
-      {
-        "en": "While still below his best, Djokovic won 6-7 (7-5) 7-5 6-1 as his opponent, who was in form after winning the Swiss Indoors title in Basel last week, faltered.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "While still below his best, Djokovic won 6-7 (7-5) 7-5 6-1 as his opponent, who was in form after winning the Swiss Indoors title in Basel last week, faltered.",
-            "ko": "실시간 보도 번역: While still below his best, Djokovic won 6-7 (7-5) 7-5 6-1 as his opponent, who was in form after winning the Swiss Indoors title in Basel last week, faltered."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Djokovic keeps alive bid to squeeze into ATP Finals",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Djokovic keeps alive bid to squeeze into ATP Finals",
           "Historical retrospective",
           "Unrelated general weather"
         ],
