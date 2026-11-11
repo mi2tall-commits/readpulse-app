@@ -1,6 +1,91 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_908774060265687803",
+    "title": "Robot vessels take on the dangerous work of mine hunting",
+    "subtitle": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-11",
+    "addedAt": "2026-11-11T04:19:50Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 85,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "This South Korean vessel is among the ships damaged in the Strait of Hormuz",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "This South Korean vessel is among the ships damaged in the Strait of Hormuz",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Traversing the Strait of Hormuz remains one of the most dangerous trips a vessel can take.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Traversing the Strait of Hormuz remains one of the most dangerous trips a vessel can take.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Despite assistance from the US Navy, ships are still being attacked.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Despite assistance from the US Navy, ships are still being attacked.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "\"To transit the Strait of Hormuz you need agreement between the captain and the crew to take the risk. You need war risk insurance. And the captain has to make the final decision,\" says Steve Cameron, a former merchant navy officer and maritime consultant.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "\"To transit the Strait of Hormuz you need agreement between the captain and the crew to take the risk.",
+            "ko": ""
+          },
+          {
+            "en": "You need war risk insurance.",
+            "ko": ""
+          },
+          {
+            "en": "And the captain has to make the final decision,\" says Steve Cameron, a former merchant navy officer and maritime consultant.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Robot vessels take on the dangerous work of mine hunting",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Robot vessels take on the dangerous work of mine hunting",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_403523684266587956",
     "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
     "subtitle": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected....",
@@ -746,66 +831,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1152804555307463254",
-    "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-    "subtitle": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-04",
-    "addedAt": "2026-11-04T19:15:13Z",
-    "category": "tech",
+    "id": "auto_science_639797753612338022",
+    "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
+    "subtitle": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England....",
+    "speaker": "BBC Science",
+    "date": "2026-11-11",
+    "addedAt": "2026-11-11T04:19:51Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 82,
+    "wordCount": 104,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "French authorities say that fridges used in medical facilities to store blood for donations were impacted by recent cyber-attacks by unknown hackers.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Plans to sell land and farms in Devon had already caused upset among tenants on the Duchy estate",
+        "ko": "",
         "sentences": [
           {
-            "en": "French authorities say that fridges used in medical facilities to store blood for donations were impacted by recent cyber-attacks by unknown hackers.",
-            "ko": "실시간 보도 번역: French authorities say that fridges used in medical facilities to store blood for donations were impacted by recent cyber-attacks by unknown hackers."
+            "en": "Plans to sell land and farms in Devon had already caused upset among tenants on the Duchy estate",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers, with temperatures set to rise - but staff intervened to protect blood supplies.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Plans by the Prince of Wales to sell off up to 20% of the Duchy of Cornwall could see more tenant farmers across England asked to buy their farms or move out.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers, with temperatures set to rise - but staff intervened to protect blood supplies.",
-            "ko": "실시간 보도 번역: The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers, with temperatures set to rise - but staff intervened to protect blood supplies."
+            "en": "Plans by the Prince of Wales to sell off up to 20% of the Duchy of Cornwall could see more tenant farmers across England asked to buy their farms or move out.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "\"No health impact has been identified and no loss of blood products is to be reported,\" the EFS said.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Up to 40 farm holdings across Devon, Cornwall, Herefordshire and the Midlands could be affected by the sale, according to the Tenant Farmers Association (TFA).",
+        "ko": "",
         "sentences": [
           {
-            "en": "\"No health impact has been identified and no loss of blood products is to be reported,\" the EFS said.",
-            "ko": "실시간 보도 번역: \"No health impact has been identified and no loss of blood products is to be reported,\" the EFS said."
+            "en": "Up to 40 farm holdings across Devon, Cornwall, Herefordshire and the Midlands could be affected by the sale, according to the Tenant Farmers Association (TFA).",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Up until now, only supermarkets were known to have been impacted by the hacks.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Locals say talks over the future of nine farms on the Bradninch estate in Devon have already caused \"distress\" for some tenants who fear they cannot afford to buy.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Up until now, only supermarkets were known to have been impacted by the hacks.",
-            "ko": "실시간 보도 번역: Up until now, only supermarkets were known to have been impacted by the hacks."
+            "en": "Locals say talks over the future of nine farms on the Bradninch estate in Devon have already caused \"distress\" for some tenants who fear they cannot afford to buy.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "글로벌 최신 소식: Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -813,7 +898,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "French blood storage impacted by freezer hacks as theories swirl about culprits",
+          "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1536,66 +1621,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_610724310549819744",
-    "title": "Bute House protested by environmental campaigners",
-    "subtitle": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh....",
-    "speaker": "BBC Science",
-    "date": "2026-10-31",
-    "addedAt": "2026-10-31T16:42:54Z",
-    "category": "science",
+    "id": "auto_economy_894952103588009607",
+    "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+    "subtitle": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer....",
+    "speaker": "BBC Business",
+    "date": "2026-11-11",
+    "addedAt": "2026-11-11T04:19:51Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 89,
+    "wordCount": 118,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Environmental campaigners have staged a Halloween themed demonstration outside the first minister's official residence over \"scary\" fossil fuels.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Poundland and its 11,000 employees are hopeful that the retailer's impending collapse can be delayed to allow time for a last-minute rescue deal.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Environmental campaigners have staged a Halloween themed demonstration outside the first minister's official residence over \"scary\" fossil fuels.",
-            "ko": "실시간 보도 번역: Environmental campaigners have staged a Halloween themed demonstration outside the first minister's official residence over \"scary\" fossil fuels."
+            "en": "Poundland and its 11,000 employees are hopeful that the retailer's impending collapse can be delayed to allow time for a last-minute rescue deal.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Climate groups gathered outside Bute House in Edinburgh to protest against the Scottish government's decision to give the go-ahead for a new, gas-fired, power station at Peterhead in Aberdeenshire.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "The discount chain has been edging towards administration after being blocked by its owners from accessing cash in its bank accounts.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Climate groups gathered outside Bute House in Edinburgh to protest against the Scottish government's decision to give the go-ahead for a new, gas-fired, power station at Peterhead in Aberdeenshire.",
-            "ko": "실시간 보도 번역: Climate groups gathered outside Bute House in Edinburgh to protest against the Scottish government's decision to give the go-ahead for a new, gas-fired, power station at Peterhead in Aberdeenshire."
+            "en": "The discount chain has been edging towards administration after being blocked by its owners from accessing cash in its bank accounts.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The decision has been branded a \"catastrophic failure\" by environmental campaigners, who said burning fossil fuels is the key driver of extreme weather such as recent storms, record heat and flooding.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "A deadline to secure a buyer for the business is set to expire at midnight, but sources close to the situation have told the BBC that they expect more time will be given, thanks to the release of £10m in funding.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The decision has been branded a \"catastrophic failure\" by environmental campaigners, who said burning fossil fuels is the key driver of extreme weather such as recent storms, record heat and flooding.",
-            "ko": "실시간 보도 번역: The decision has been branded a \"catastrophic failure\" by environmental campaigners, who said burning fossil fuels is the key driver of extreme weather such as recent storms, record heat and flooding."
+            "en": "A deadline to secure a buyer for the business is set to expire at midnight, but sources close to the situation have told the BBC that they expect more time will be given, thanks to the release of £10m in funding.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The Scottish government said it remained committed to tackling climate change.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "A committee of MPs is set to question Gordon Brothers, Poundland's US owners, on Wednesday following accusations that the investment firm hopes to profit from selling off Poundland's 600 stores and stock piecemeal.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The Scottish government said it remained committed to tackling climate change.",
-            "ko": "실시간 보도 번역: The Scottish government said it remained committed to tackling climate change."
+            "en": "A committee of MPs is set to question Gordon Brothers, Poundland's US owners, on Wednesday following accusations that the investment firm hopes to profit from selling off Poundland's 600 stores and stock piecemeal.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Bute House protested by environmental campaigners",
+      "글로벌 최신 소식: Poundland hopeful for last-minute rescue deal to stave off collapse",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1603,7 +1688,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Bute House protested by environmental campaigners",
+          "Poundland hopeful for last-minute rescue deal to stave off collapse",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2337,99 +2422,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Interest rates expected to rise for first time in over three years",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_600890988421353178",
-    "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-    "subtitle": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign....",
-    "speaker": "BBC Business",
-    "date": "2026-11-04",
-    "addedAt": "2026-11-04T19:15:14Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 173,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Americans are electing members of Congress, which is made up of the House of Representatives and the Senate. All 435 House seats are up for election. In the Senate, only 35 of 100 seats are being contested because senators serve six-year terms. This results tracker shows both the races being decided now and the 65 seats that are not up for election this year - 34 held by Democrats and 31 by Republicans.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Americans are electing members of Congress, which is made up of the House of Representatives and the Senate.",
-            "ko": "실시간 보도 번역: Americans are electing members of Congress, which is made up of the House of Representatives and the Senate."
-          },
-          {
-            "en": "All 435 House seats are up for election.",
-            "ko": "실시간 보도 번역: All 435 House seats are up for election."
-          },
-          {
-            "en": "In the Senate, only 35 of 100 seats are being contested because senators serve six-year terms.",
-            "ko": "실시간 보도 번역: In the Senate, only 35 of 100 seats are being contested because senators serve six-year terms."
-          },
-          {
-            "en": "This results tracker shows both the races being decided now and the 65 seats that are not up for election this year - 34 held by Democrats and 31 by Republicans.",
-            "ko": "실시간 보도 번역: This results tracker shows both the races being decided now and the 65 seats that are not up for election this year - 34 held by Democrats and 31 by Republicans."
-          }
-        ]
-      },
-      {
-        "en": "Democrat James Talarico's resounding victory in the Texas Senate race caused a major upset in the midterms for Republicans - and for Elon Musk.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Democrat James Talarico's resounding victory in the Texas Senate race caused a major upset in the midterms for Republicans - and for Elon Musk.",
-            "ko": "실시간 보도 번역: Democrat James Talarico's resounding victory in the Texas Senate race caused a major upset in the midterms for Republicans - and for Elon Musk."
-          }
-        ]
-      },
-      {
-        "en": "According to the Financial Times, external, the billionaire's political action committee (Pac) contributed $47m (£35m) to Republican candidate Ken Paxton's campaign, on top of the $158m he gave the Senate Leadership Fund in September.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "According to the Financial Times, external, the billionaire's political action committee (Pac) contributed $47m (£35m) to Republican candidate Ken Paxton's campaign, on top of the $158m he gave the Senate Leadership Fund in September.",
-            "ko": "실시간 보도 번역: According to the Financial Times, external, the billionaire's political action committee (Pac) contributed $47m (£35m) to Republican candidate Ken Paxton's campaign, on top of the $158m he gave the Senate Leadership Fund in September."
-          }
-        ]
-      },
-      {
-        "en": "The money was not enough to stop the seat from turning Democrat for the first time since 1988. In his acceptance speech, Talarico said: \"We just proved that all the money in the world is no match for the people of Texas.\"",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The money was not enough to stop the seat from turning Democrat for the first time since 1988.",
-            "ko": "실시간 보도 번역: The money was not enough to stop the seat from turning Democrat for the first time since 1988."
-          },
-          {
-            "en": "In his acceptance speech, Talarico said: \"We just proved that all the money in the world is no match for the people of Texas.",
-            "ko": "실시간 보도 번역: In his acceptance speech, Talarico said: \"We just proved that all the money in the world is no match for the people of Texas."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
           "Historical retrospective",
           "Unrelated general weather"
         ],
