@@ -1,6 +1,103 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_806522027764148548",
+    "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+    "subtitle": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-12",
+    "addedAt": "2026-11-12T19:27:07Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 181,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Jensen Huang, known for sporting a black leather jacket to shareholder events, appeared to have it all. He was courted by leaders in the US and China alike, worshipped by investors and seen as a loyal family man. But a rockstar approach to his personal life has ultimately led to his resignation.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Jensen Huang, known for sporting a black leather jacket to shareholder events, appeared to have it all.",
+            "ko": ""
+          },
+          {
+            "en": "He was courted by leaders in the US and China alike, worshipped by investors and seen as a loyal family man.",
+            "ko": ""
+          },
+          {
+            "en": "But a rockstar approach to his personal life has ultimately led to his resignation.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The 63-year-old has been married since 1985, long before the foundation of Nvidia, the company that propelled him to tech stardom.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The 63-year-old has been married since 1985, long before the foundation of Nvidia, the company that propelled him to tech stardom.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "He is known as a workaholic and a demanding manager, with high standards for those who worked for him, which included his own children, promoted within the company. But he has seen his personal reputation go into freefall this week, undone by romantic entanglements that throw doubt on his focus and his judgement.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "He is known as a workaholic and a demanding manager, with high standards for those who worked for him, which included his own children, promoted within the company.",
+            "ko": ""
+          },
+          {
+            "en": "But he has seen his personal reputation go into freefall this week, undone by romantic entanglements that throw doubt on his focus and his judgement.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "On Thursday, he resigned following back-to-back revelations of two affairs. News of the first - a relationship with a businesswoman alleged to be a Chinese spy - ricocheted around the world, raising eyebrows among investors. It was followed on Wednesday by reports that the tech boss had also had an affair with an Nvidia colleague.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "On Thursday, he resigned following back-to-back revelations of two affairs.",
+            "ko": ""
+          },
+          {
+            "en": "News of the first - a relationship with a businesswoman alleged to be a Chinese spy - ricocheted around the world, raising eyebrows among investors.",
+            "ko": ""
+          },
+          {
+            "en": "It was followed on Wednesday by reports that the tech boss had also had an affair with an Nvidia colleague.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1095884902054127264",
     "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
     "subtitle": "The Tamil Nadu government has ordered an internal audit of library collections across the state....",
@@ -730,66 +827,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_909878805965602809",
-    "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-    "subtitle": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-ter...",
-    "speaker": "BBC Technology",
-    "date": "2026-11-05",
-    "addedAt": "2026-11-05T19:23:49Z",
-    "category": "tech",
+    "id": "auto_science_786145351770689491",
+    "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
+    "subtitle": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey....",
+    "speaker": "BBC Science",
+    "date": "2026-11-12",
+    "addedAt": "2026-11-12T19:27:07Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 101,
+    "wordCount": 109,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Shares in Elon Musk's SpaceX have plunged as tech and artificial intelligence stocks more broadly plummeted a day after the Democrats swept to victory in the midterms.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Prime Minister Andy Burnham has warned that the consensus on both science and climate change has \"gone\".",
+        "ko": "",
         "sentences": [
           {
-            "en": "Shares in Elon Musk's SpaceX have plunged as tech and artificial intelligence stocks more broadly plummeted a day after the Democrats swept to victory in the midterms.",
-            "ko": "실시간 보도 번역: Shares in Elon Musk's SpaceX have plunged as tech and artificial intelligence stocks more broadly plummeted a day after the Democrats swept to victory in the midterms."
+            "en": "Prime Minister Andy Burnham has warned that the consensus on both science and climate change has \"gone\".",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Those losses dragged the tech-heavy Nasdaq Composite stock index down, which had fallen by more than 5% at one point in early trading.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Addressing other world leaders and delegates at the COP31 climate summit in Turkey, he said that despite this, the UK was ready to begin a \"new era of British leadership\" on the climate change issue.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Those losses dragged the tech-heavy Nasdaq Composite stock index down, which had fallen by more than 5% at one point in early trading.",
-            "ko": "실시간 보도 번역: Those losses dragged the tech-heavy Nasdaq Composite stock index down, which had fallen by more than 5% at one point in early trading."
+            "en": "Addressing other world leaders and delegates at the COP31 climate summit in Turkey, he said that despite this, the UK was ready to begin a \"new era of British leadership\" on the climate change issue.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The market has been reacting to possible tougher scrutiny of data centre construction and the artificial intelligence (AI) industry following Democrat wins in key data centre states including Texas.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "But environmental campaigners at the summit said the PM had to back up his warm words with stronger actions.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The market has been reacting to possible tougher scrutiny of data centre construction and the artificial intelligence (AI) industry following Democrat wins in key data centre states including Texas.",
-            "ko": "실시간 보도 번역: The market has been reacting to possible tougher scrutiny of data centre construction and the artificial intelligence (AI) industry following Democrat wins in key data centre states including Texas."
+            "en": "But environmental campaigners at the summit said the PM had to back up his warm words with stronger actions.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Following the election, some tech leaders have acknowledged they need to improve their communication around data centres and the benefits of AI.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "In recent months, the UK government has announced policies which critics say have weakened its green credentials, such as reducing support for heat pumps, approving the Jackdaw gas field and doubling down on support for Heathrow Airport's expansion.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Following the election, some tech leaders have acknowledged they need to improve their communication around data centres and the benefits of AI.",
-            "ko": "실시간 보도 번역: Following the election, some tech leaders have acknowledged they need to improve their communication around data centres and the benefits of AI."
+            "en": "In recent months, the UK government has announced policies which critics say have weakened its green credentials, such as reducing support for heat pumps, approving the Jackdaw gas field and doubling down on support for Heathrow Airport's expansion.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+      "글로벌 최신 소식: Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -797,7 +894,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+          "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1520,66 +1617,86 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_773433344329190902",
-    "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
-    "subtitle": "A watchdog has criticised the lack of progress made by organisations in tackling climate change....",
-    "speaker": "BBC Science",
-    "date": "2026-11-03",
-    "addedAt": "2026-11-03T18:57:09Z",
-    "category": "science",
+    "id": "auto_economy_806522027764148548",
+    "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+    "subtitle": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled....",
+    "speaker": "BBC Business",
+    "date": "2026-11-12",
+    "addedAt": "2026-11-12T19:27:07Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 85,
+    "wordCount": 181,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Audit Wales has criticised the lack of progress made by organisations in tackling climate change",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Jensen Huang, known for sporting a black leather jacket to shareholder events, appeared to have it all. He was courted by leaders in the US and China alike, worshipped by investors and seen as a loyal family man. But a rockstar approach to his personal life has ultimately led to his resignation.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Audit Wales has criticised the lack of progress made by organisations in tackling climate change",
-            "ko": "실시간 보도 번역: Audit Wales has criticised the lack of progress made by organisations in tackling climate change"
+            "en": "Jensen Huang, known for sporting a black leather jacket to shareholder events, appeared to have it all.",
+            "ko": ""
+          },
+          {
+            "en": "He was courted by leaders in the US and China alike, worshipped by investors and seen as a loyal family man.",
+            "ko": ""
+          },
+          {
+            "en": "But a rockstar approach to his personal life has ultimately led to his resignation.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "A spending watchdog has strongly criticised the lack of progress made by public sector organisations in tackling climate change.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "The 63-year-old has been married since 1985, long before the foundation of Nvidia, the company that propelled him to tech stardom.",
+        "ko": "",
         "sentences": [
           {
-            "en": "A spending watchdog has strongly criticised the lack of progress made by public sector organisations in tackling climate change.",
-            "ko": "실시간 보도 번역: A spending watchdog has strongly criticised the lack of progress made by public sector organisations in tackling climate change."
+            "en": "The 63-year-old has been married since 1985, long before the foundation of Nvidia, the company that propelled him to tech stardom.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Audit Wales says since a Welsh government \"climate emergency\" was declared, external in 2019, \"decarbonisation\" has become a lower priority for public bodies.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "He is known as a workaholic and a demanding manager, with high standards for those who worked for him, which included his own children, promoted within the company. But he has seen his personal reputation go into freefall this week, undone by romantic entanglements that throw doubt on his focus and his judgement.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Audit Wales says since a Welsh government \"climate emergency\" was declared, external in 2019, \"decarbonisation\" has become a lower priority for public bodies.",
-            "ko": "실시간 보도 번역: Audit Wales says since a Welsh government \"climate emergency\" was declared, external in 2019, \"decarbonisation\" has become a lower priority for public bodies."
+            "en": "He is known as a workaholic and a demanding manager, with high standards for those who worked for him, which included his own children, promoted within the company.",
+            "ko": ""
+          },
+          {
+            "en": "But he has seen his personal reputation go into freefall this week, undone by romantic entanglements that throw doubt on his focus and his judgement.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "It says there are many examples of positive changes but the \"collective ambition\" for a net zero public sector in Wales by 2030 is unlikely to be met.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "On Thursday, he resigned following back-to-back revelations of two affairs. News of the first - a relationship with a businesswoman alleged to be a Chinese spy - ricocheted around the world, raising eyebrows among investors. It was followed on Wednesday by reports that the tech boss had also had an affair with an Nvidia colleague.",
+        "ko": "",
         "sentences": [
           {
-            "en": "It says there are many examples of positive changes but the \"collective ambition\" for a net zero public sector in Wales by 2030 is unlikely to be met.",
-            "ko": "실시간 보도 번역: It says there are many examples of positive changes but the \"collective ambition\" for a net zero public sector in Wales by 2030 is unlikely to be met."
+            "en": "On Thursday, he resigned following back-to-back revelations of two affairs.",
+            "ko": ""
+          },
+          {
+            "en": "News of the first - a relationship with a businesswoman alleged to be a Chinese spy - ricocheted around the world, raising eyebrows among investors.",
+            "ko": ""
+          },
+          {
+            "en": "It was followed on Wednesday by reports that the tech boss had also had an affair with an Nvidia colleague.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+      "글로벌 최신 소식: The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1587,7 +1704,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+          "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2310,74 +2427,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_55272777712290435",
-    "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-    "subtitle": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterm...",
-    "speaker": "BBC Business",
-    "date": "2026-11-06",
-    "addedAt": "2026-11-06T04:47:22Z",
-    "category": "economy",
+    "id": "auto_sports_180011899561519734",
+    "title": "Paralympic medallist Shuker ends 24-year tennis career",
+    "subtitle": "British wheelchair tennis player Lucy Shuker retires after 24 years as a professional and three Paralympic medals....",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-12",
+    "addedAt": "2026-11-12T19:27:07Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 119,
+    "wordCount": 85,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "Hundreds of billions of dollars in market value has been wiped from major tech firms in the US and Asia in a stock market rout after the US midterm elections sparked concerns of a slowdown in artificial intelligence development.",
+        "en": "Lucy Shuker ends her career with a combined 139 singles and doubles titles",
         "ko": "",
         "sentences": [
           {
-            "en": "Hundreds of billions of dollars in market value has been wiped from major tech firms in the US and Asia in a stock market rout after the US midterm elections sparked concerns of a slowdown in artificial intelligence development.",
+            "en": "Lucy Shuker ends her career with a combined 139 singles and doubles titles",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Shares in firms across the tech and AI sectors plummeted following Democratic wins after election campaigns run on slowing AI.",
+        "en": "British wheelchair tennis player Lucy Shuker has retired after 24 years as a professional and three Paralympic medals.",
         "ko": "",
         "sentences": [
           {
-            "en": "Shares in firms across the tech and AI sectors plummeted following Democratic wins after election campaigns run on slowing AI.",
+            "en": "British wheelchair tennis player Lucy Shuker has retired after 24 years as a professional and three Paralympic medals.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The tech-heavy Nasdaq composite index closed down by more than 5.5%, losing an estimated $2.5tn (£1.9tn) in market value, according to Dow Jones data, while other key US stock indexes also saw big losses in their worst days since 2025.",
+        "en": "The 46-year-old represented GB at five consecutive Paralympics and won one silver medal and two bronze between 2012 and 2020, in the women's doubles alongside Jordanne Whiley.",
         "ko": "",
         "sentences": [
           {
-            "en": "The tech-heavy Nasdaq composite index closed down by more than 5.",
-            "ko": ""
-          },
-          {
-            "en": "5%, losing an estimated $2.",
-            "ko": ""
-          },
-          {
-            "en": "9tn) in market value, according to Dow Jones data, while other key US stock indexes also saw big losses in their worst days since 2025.",
+            "en": "The 46-year-old represented GB at five consecutive Paralympics and won one silver medal and two bronze between 2012 and 2020, in the women's doubles alongside Jordanne Whiley.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The sell-off comes on top of broader concerns about whether the huge amounts being spent on AI will pay off.",
+        "en": "A nine-time Grand Slam finalist and seven-time World Team Cup medalist, Shuker announced during Wimbledon this year that she would retire at the end of the season.",
         "ko": "",
         "sentences": [
           {
-            "en": "The sell-off comes on top of broader concerns about whether the huge amounts being spent on AI will pay off.",
+            "en": "A nine-time Grand Slam finalist and seven-time World Team Cup medalist, Shuker announced during Wimbledon this year that she would retire at the end of the season.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "글로벌 최신 소식: Paralympic medallist Shuker ends 24-year tennis career",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2385,14 +2494,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "Paralympic medallist Shuker ends 24-year tennis career",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_467713837660607750",
@@ -3095,85 +3206,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Defeat ends Djokovic's hopes of making ATP Finals",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_134652481372492518",
-    "title": "Death threats for Briton Burrage on WTA Tour return",
-    "subtitle": "Britain's Jodie Burrage receives death threats and abuse on social media after she is beaten in her first WTA Tour singles match p...",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-03",
-    "addedAt": "2026-11-04T04:32:48Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 95,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Jodie Burrage reached a career-high ranking of 85th in the world in September 2023",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Jodie Burrage reached a career-high ranking of 85th in the world in September 2023",
-            "ko": "실시간 보도 번역: Jodie Burrage reached a career-high ranking of 85th in the world in September 2023"
-          }
-        ]
-      },
-      {
-        "en": "Britain's Jodie Burrage received death threats and abuse on social media after she was beaten in her first WTA Tour singles match proper for 16 months.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Britain's Jodie Burrage received death threats and abuse on social media after she was beaten in her first WTA Tour singles match proper for 16 months.",
-            "ko": "실시간 보도 번역: Britain's Jodie Burrage received death threats and abuse on social media after she was beaten in her first WTA Tour singles match proper for 16 months."
-          }
-        ]
-      },
-      {
-        "en": "The 27-year-old, ranked 474th in the world, suffered a first-round exit at the Chennai Open after India's Vaishnavi Adkar fought back from a set down to triumph 3-6 6-3 7-5.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The 27-year-old, ranked 474th in the world, suffered a first-round exit at the Chennai Open after India's Vaishnavi Adkar fought back from a set down to triumph 3-6 6-3 7-5.",
-            "ko": "실시간 보도 번역: The 27-year-old, ranked 474th in the world, suffered a first-round exit at the Chennai Open after India's Vaishnavi Adkar fought back from a set down to triumph 3-6 6-3 7-5."
-          }
-        ]
-      },
-      {
-        "en": "Burrage later shared a story on her Instagram account, external with a video scroll of direct messages, including abuse, she was sent following the match.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Burrage later shared a story on her Instagram account, external with a video scroll of direct messages, including abuse, she was sent following the match.",
-            "ko": "실시간 보도 번역: Burrage later shared a story on her Instagram account, external with a video scroll of direct messages, including abuse, she was sent following the match."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Death threats for Briton Burrage on WTA Tour return",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Death threats for Briton Burrage on WTA Tour return",
           "Historical retrospective",
           "Unrelated general weather"
         ],
