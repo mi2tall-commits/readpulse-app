@@ -807,6 +807,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_441290272451026204",
+    "title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
+    "subtitle": "The decline has been put down to severe restrictions placed on the substances' use....",
+    "speaker": "BBC Science",
+    "date": "2026-11-12",
+    "addedAt": "2026-11-12T05:28:09Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 104,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Old landfill and industrial sites have been major sources of the chemicals in rivers like the Mersey",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Old landfill and industrial sites have been major sources of the chemicals in rivers like the Mersey",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Levels of the two most toxic \"forever\" chemicals in England's rivers have dropped by nearly a third over the last decade, according to new figures from the Environment Agency (EA).",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Levels of the two most toxic \"forever\" chemicals in England's rivers have dropped by nearly a third over the last decade, according to new figures from the Environment Agency (EA).",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The decline in the chemicals, PFOS and PFOA, has been put down to stricter restrictions on their use in products after increasing evidence emerged of their damaging impact on human health and the environment.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The decline in the chemicals, PFOS and PFOA, has been put down to stricter restrictions on their use in products after increasing evidence emerged of their damaging impact on human health and the environment.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "One expert studying the impact of the chemicals said it was \"brilliant\" to see how far the UK has come on this issue.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "One expert studying the impact of the chemicals said it was \"brilliant\" to see how far the UK has come on this issue.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Significant drop in levels of toxic 'forever' chemicals in England's rivers",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_777846300576988741",
     "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
     "subtitle": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this mont...",
@@ -1520,66 +1597,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_173963644009380764",
-    "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
-    "subtitle": "The men and women who rummage through commercial bins to take clothes and other items....",
-    "speaker": "BBC Science",
-    "date": "2026-11-03",
-    "addedAt": "2026-11-03T05:00:38Z",
-    "category": "science",
+    "id": "auto_economy_784945398935870943",
+    "title": "Some under-25s should get less benefits, Milburn review to say",
+    "subtitle": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits....",
+    "speaker": "BBC Business",
+    "date": "2026-11-11",
+    "addedAt": "2026-11-12T05:28:09Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 96,
+    "wordCount": 108,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Darryl Baker was shocked to see piles of clothes dumped beside the recycling bins outside her local supermarket.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Some young people could see reductions to the benefits they are entitled to, under a radical overhaul of the system to be recommended by a government-commissioned review.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Darryl Baker was shocked to see piles of clothes dumped beside the recycling bins outside her local supermarket.",
-            "ko": "실시간 보도 번역: Darryl Baker was shocked to see piles of clothes dumped beside the recycling bins outside her local supermarket."
+            "en": "Some young people could see reductions to the benefits they are entitled to, under a radical overhaul of the system to be recommended by a government-commissioned review.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "On several trips to the dumpsters she has also found a host of other items, such as \"a perfectly decent\" Ikea picture frame and children's scooters.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Alan Milburn's year-long report, which will be published on Tuesday, will recommend moving under-25s off the main sickness and disability benefits, the Times reported, external.",
+        "ko": "",
         "sentences": [
           {
-            "en": "On several trips to the dumpsters she has also found a host of other items, such as \"a perfectly decent\" Ikea picture frame and children's scooters.",
-            "ko": "실시간 보도 번역: On several trips to the dumpsters she has also found a host of other items, such as \"a perfectly decent\" Ikea picture frame and children's scooters."
+            "en": "Alan Milburn's year-long report, which will be published on Tuesday, will recommend moving under-25s off the main sickness and disability benefits, the Times reported, external.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Always on the lookout for ways to save money and appalled by the waste, the thrifty mother-of-two from north London asked supermarket staff if she could take some of it.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Milburn, a former Labour health secretary, has been tasked by the government with helping reduce the one in eight 18- to 24-year-olds in the UK who are not in education, employment or training - or \"Neet\".",
+        "ko": "",
         "sentences": [
           {
-            "en": "Always on the lookout for ways to save money and appalled by the waste, the thrifty mother-of-two from north London asked supermarket staff if she could take some of it.",
-            "ko": "실시간 보도 번역: Always on the lookout for ways to save money and appalled by the waste, the thrifty mother-of-two from north London asked supermarket staff if she could take some of it."
+            "en": "Milburn, a former Labour health secretary, has been tasked by the government with helping reduce the one in eight 18- to 24-year-olds in the UK who are not in education, employment or training - or \"Neet\".",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Permission granted, \"I got my children entire new wardrobes,\" says Darryl, 39, adding that she's stuff put away for years to come.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "He said on Wednesday night that his plans would not be \"pain-free\" and would affect both existing and new claimants.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Permission granted, \"I got my children entire new wardrobes,\" says Darryl, 39, adding that she's stuff put away for years to come.",
-            "ko": "실시간 보도 번역: Permission granted, \"I got my children entire new wardrobes,\" says Darryl, 39, adding that she's stuff put away for years to come."
+            "en": "He said on Wednesday night that his plans would not be \"pain-free\" and would affect both existing and new claimants.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: From scooters to shampoo - the people saving hundreds from dumpster diving",
+      "글로벌 최신 소식: Some under-25s should get less benefits, Milburn review to say",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1587,7 +1664,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "From scooters to shampoo - the people saving hundreds from dumpster diving",
+          "Some under-25s should get less benefits, Milburn review to say",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2309,87 +2386,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_271650200282107727",
-    "title": "Interest rates hiked to 4% in first increase in over three years",
-    "subtitle": "Most analysts expected the increase from 3.75% to 4%....",
-    "speaker": "BBC Business",
-    "date": "2026-11-05",
-    "addedAt": "2026-11-05T19:23:50Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 122,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Interest rates have risen for the first time in more than three years and the Bank of England has signalled a further increase is likely unless the US-Iran war is resolved.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Interest rates have risen for the first time in more than three years and the Bank of England has signalled a further increase is likely unless the US-Iran war is resolved.",
-            "ko": "실시간 보도 번역: Interest rates have risen for the first time in more than three years and the Bank of England has signalled a further increase is likely unless the US-Iran war is resolved."
-          }
-        ]
-      },
-      {
-        "en": "Rates rose to 4% from 3.75% in a bid to curb inflation mainly driven by the conflict's impact on global oil prices.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Rates rose to 4% from 3.",
-            "ko": "실시간 보도 번역: Rates rose to 4% from 3."
-          },
-          {
-            "en": "75% in a bid to curb inflation mainly driven by the conflict's impact on global oil prices.",
-            "ko": "실시간 보도 번역: 75% in a bid to curb inflation mainly driven by the conflict's impact on global oil prices."
-          }
-        ]
-      },
-      {
-        "en": "Andrew Bailey, the Bank's governor, said the decision \"shouldn't be seen as the first in an inevitable long sequence of hikes\", but warned \"unless the conflict in the Middle East is resolved, neither does it seem likely to be the last increase\".",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Andrew Bailey, the Bank's governor, said the decision \"shouldn't be seen as the first in an inevitable long sequence of hikes\", but warned \"unless the conflict in the Middle East is resolved, neither does it seem likely to be the last increase\".",
-            "ko": "실시간 보도 번역: Andrew Bailey, the Bank's governor, said the decision \"shouldn't be seen as the first in an inevitable long sequence of hikes\", but warned \"unless the conflict in the Middle East is resolved, neither does it seem likely to be the last increase\"."
-          }
-        ]
-      },
-      {
-        "en": "The higher level will increase the cost of borrowing for things such as mortgages, loans and credit cards, but will also lead to higher returns on savings.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The higher level will increase the cost of borrowing for things such as mortgages, loans and credit cards, but will also lead to higher returns on savings.",
-            "ko": "실시간 보도 번역: The higher level will increase the cost of borrowing for things such as mortgages, loans and credit cards, but will also lead to higher returns on savings."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Interest rates hiked to 4% in first increase in over three years",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Interest rates hiked to 4% in first increase in over three years",
           "Historical retrospective",
           "Unrelated general weather"
         ],
