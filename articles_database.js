@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_579073738907004372",
+    "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "subtitle": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-13",
+    "addedAt": "2026-11-13T04:44:40Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 96,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "The images Olivia Nicole saw of a home on Rightmove (l) were completely different to how the property looked in real life (r)",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The images Olivia Nicole saw of a home on Rightmove (l) were completely different to how the property looked in real life (r)",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Have you ever been impressed by the pictures of a property on an estate agent's website, only to find the place looks completely different when you view it in person?",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Have you ever been impressed by the pictures of a property on an estate agent's website, only to find the place looks completely different when you view it in person?",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Then there's a chance that AI was used to enhance the images you saw.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Then there's a chance that AI was used to enhance the images you saw.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "From repainted walls to imaginary lawns, estate agents are increasingly using the technology to make homes seem more appealing, arguing it helps buyers visualise the potential of a place.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "From repainted walls to imaginary lawns, estate agents are increasingly using the technology to make homes seem more appealing, arguing it helps buyers visualise the potential of a place.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_806522027764148548",
     "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
     "subtitle": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled....",
@@ -742,74 +819,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_191594289122402714",
-    "title": "The engine parts that 'fight the laws of the universe'",
-    "subtitle": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-06",
-    "addedAt": "2026-11-06T04:47:22Z",
-    "category": "tech",
+    "id": "auto_science_884034069780586304",
+    "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
+    "subtitle": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks....",
+    "speaker": "BBC Science",
+    "date": "2026-11-12",
+    "addedAt": "2026-11-13T04:44:41Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 116,
+    "wordCount": 123,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Every time you fly, an extraordinary feat of endurance occurs inside the aircraft's engines.",
+        "en": "Jean Powell was temporarily staying in one of Monmouth Wetherspoons' guest rooms while her flat was being refurbished after it was flooded a year ago",
         "ko": "",
         "sentences": [
           {
-            "en": "Every time you fly, an extraordinary feat of endurance occurs inside the aircraft's engines.",
+            "en": "Jean Powell was temporarily staying in one of Monmouth Wetherspoons' guest rooms while her flat was being refurbished after it was flooded a year ago",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Hidden from view inside the sleek outer nacelle are hundreds of little turbine blades that can shrug off enormous mechanical stresses and temperatures exceeding 1,500C.",
+        "en": "When neighbours hammered on Jean Powell's door and evacuated her to safety because the nearby river had burst its banks and swamped her town, little did she know she would never return home.",
         "ko": "",
         "sentences": [
           {
-            "en": "Hidden from view inside the sleek outer nacelle are hundreds of little turbine blades that can shrug off enormous mechanical stresses and temperatures exceeding 1,500C.",
+            "en": "When neighbours hammered on Jean Powell's door and evacuated her to safety because the nearby river had burst its banks and swamped her town, little did she know she would never return home.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "It is a true engineering marvel. And these hardy blades are not sculpted or cut from their material – they are grown.",
+        "en": "Jean sought a 10-month refuge at her local Wetherspoons but kept asking when she could go back to her flat, which was flooded when the River Monnow hit 18-times its normal level in south Wales last November.",
         "ko": "",
         "sentences": [
           {
-            "en": "It is a true engineering marvel.",
-            "ko": ""
-          },
-          {
-            "en": "And these hardy blades are not sculpted or cut from their material – they are grown.",
+            "en": "Jean sought a 10-month refuge at her local Wetherspoons but kept asking when she could go back to her flat, which was flooded when the River Monnow hit 18-times its normal level in south Wales last November.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "During the 1960s, engineers worked out how to take a molten metal alloy, cast it into the shape of a turbine blade, and then cool it very carefully from one end to the other over a matter of hours. A single crystal or grain of metal alloy forms during this process of gradual, delicate solidification.",
+        "en": "But the 95-year-old never got to go back home and died in September - one of those who suffered a personal toll from the effects of being flooded.",
         "ko": "",
         "sentences": [
           {
-            "en": "During the 1960s, engineers worked out how to take a molten metal alloy, cast it into the shape of a turbine blade, and then cool it very carefully from one end to the other over a matter of hours.",
-            "ko": ""
-          },
-          {
-            "en": "A single crystal or grain of metal alloy forms during this process of gradual, delicate solidification.",
+            "en": "But the 95-year-old never got to go back home and died in September - one of those who suffered a personal toll from the effects of being flooded.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: The engine parts that 'fight the laws of the universe'",
+      "글로벌 최신 소식: Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -817,7 +886,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "The engine parts that 'fight the laws of the universe'",
+          "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1540,66 +1609,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_761279147786176942",
-    "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-    "subtitle": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\"....",
-    "speaker": "BBC Science",
-    "date": "2026-11-03",
-    "addedAt": "2026-11-04T04:32:47Z",
-    "category": "science",
+    "id": "auto_economy_215489301120895944",
+    "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "subtitle": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy....",
+    "speaker": "BBC Business",
+    "date": "2026-11-12",
+    "addedAt": "2026-11-13T04:44:41Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 95,
+    "wordCount": 102,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Prince William thanked the firefighters, military and volunteers who were instrumental in controlling the fire in Treherbert",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "How could the Nvidia CEO’s affair threaten US national security?",
+        "ko": "",
         "sentences": [
           {
-            "en": "Prince William thanked the firefighters, military and volunteers who were instrumental in controlling the fire in Treherbert",
-            "ko": "실시간 보도 번역: Prince William thanked the firefighters, military and volunteers who were instrumental in controlling the fire in Treherbert"
+            "en": "How could the Nvidia CEO’s affair threaten US national security?",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "There is a \"terrifying prospect\" of more UK wildfires in future due to climate change and preparation will be \"crucial\", the Prince of Wales has said.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Former Nvidia CEO Jensen Huang has been summoned to testify next month before a Senate committee about his alleged affair with a woman suspected of being a Chinese spy.",
+        "ko": "",
         "sentences": [
           {
-            "en": "There is a \"terrifying prospect\" of more UK wildfires in future due to climate change and preparation will be \"crucial\", the Prince of Wales has said.",
-            "ko": "실시간 보도 번역: There is a \"terrifying prospect\" of more UK wildfires in future due to climate change and preparation will be \"crucial\", the Prince of Wales has said."
+            "en": "Former Nvidia CEO Jensen Huang has been summoned to testify next month before a Senate committee about his alleged affair with a woman suspected of being a Chinese spy.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Visiting Treherbert in Rhondda Cynon Taf, which was threatened by a huge mountain fire in August, Prince William praised a \"gargantuan\" effort to save homes, land and lives.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs, in a stunning fall from grace that sent shockwaves through Silicon Valley.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Visiting Treherbert in Rhondda Cynon Taf, which was threatened by a huge mountain fire in August, Prince William praised a \"gargantuan\" effort to save homes, land and lives.",
-            "ko": "실시간 보도 번역: Visiting Treherbert in Rhondda Cynon Taf, which was threatened by a huge mountain fire in August, Prince William praised a \"gargantuan\" effort to save homes, land and lives."
+            "en": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs, in a stunning fall from grace that sent shockwaves through Silicon Valley.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "\"We need to start taking wildfires as seriously as the continent has done,\" he said, raising issues such as a lack of firefighting aircraft.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Commerce Secretary Howard Lutnick, who is under scrutiny over exports of sensitive Nvidia AI chips to China, has also been summoned to appear before the Senate Banking Committee in December.",
+        "ko": "",
         "sentences": [
           {
-            "en": "\"We need to start taking wildfires as seriously as the continent has done,\" he said, raising issues such as a lack of firefighting aircraft.",
-            "ko": "실시간 보도 번역: \"We need to start taking wildfires as seriously as the continent has done,\" he said, raising issues such as a lack of firefighting aircraft."
+            "en": "Commerce Secretary Howard Lutnick, who is under scrutiny over exports of sensitive Nvidia AI chips to China, has also been summoned to appear before the Senate Banking Committee in December.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Prince William says UK faces terrifying risk of more wildfires due to climate change",
+      "글로벌 최신 소식: Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1607,7 +1676,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Prince William says UK faces terrifying risk of more wildfires due to climate change",
+          "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2341,83 +2410,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_501800426873121025",
-    "title": "AI stocks climb after trillions wiped from market values",
-    "subtitle": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development....",
-    "speaker": "BBC Business",
-    "date": "2026-11-06",
-    "addedAt": "2026-11-06T18:47:30Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 104,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Shares in artificial intelligence and technology firms have been climbing following an enormous sell-off that wiped trillions of dollars off stock values.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Shares in artificial intelligence and technology firms have been climbing following an enormous sell-off that wiped trillions of dollars off stock values.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The tech-heavy Nasdaq stock index opened higher following a market rout that began in the US on Thursday before spilling over to Asian and European markets into Friday.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The tech-heavy Nasdaq stock index opened higher following a market rout that began in the US on Thursday before spilling over to Asian and European markets into Friday.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Investors had been selling off tech shares in part due to concerns the Democrat victory in the midterm elections would mean slower artificial intelligence development.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Investors had been selling off tech shares in part due to concerns the Democrat victory in the midterm elections would mean slower artificial intelligence development.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "However the latest US employment figures added to a mixed picture for American markets on Friday morning, with an unexpectedly strong 165,000 jobs added to the economy in September.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "However the latest US employment figures added to a mixed picture for American markets on Friday morning, with an unexpectedly strong 165,000 jobs added to the economy in September.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: AI stocks climb after trillions wiped from market values",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "AI stocks climb after trillions wiped from market values",
           "Historical retrospective",
           "Unrelated general weather"
         ],
