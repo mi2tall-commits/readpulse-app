@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_17869715063950050",
+    "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+    "subtitle": "Microsoft has apologised for the issue, which it said was due to a technical failure....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-13",
+    "addedAt": "2026-11-13T19:05:57Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 109,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "A critical Microsoft outage lasting more than 22 hours has raised questions about how heavily vital services rely on a handful of major tech firms.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "A critical Microsoft outage lasting more than 22 hours has raised questions about how heavily vital services rely on a handful of major tech firms.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The disruption, which affected Microsoft 365 services such as Outlook, was caused by routine automated checks that took some servers offline, overloading the remaining ones with traffic.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The disruption, which affected Microsoft 365 services such as Outlook, was caused by routine automated checks that took some servers offline, overloading the remaining ones with traffic.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The recovery took nearly a full day while engineers gradually restored services, highlighting how embedded the tech giant's services are in modern society.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The recovery took nearly a full day while engineers gradually restored services, highlighting how embedded the tech giant's services are in modern society.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Flora Hamilton, executive director of the Small Business Charter, said the outage was a \"stark reminder\" of how much firms \"rely on digital systems\" - like Microsoft Outlook - \"to keep their operations running\".",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Flora Hamilton, executive director of the Small Business Charter, said the outage was a \"stark reminder\" of how much firms \"rely on digital systems\" - like Microsoft Outlook - \"to keep their operations running\".",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Microsoft outage 'stark reminder' of how much we rely on tech",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Microsoft outage 'stark reminder' of how much we rely on tech",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_579073738907004372",
     "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
     "subtitle": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers....",
@@ -742,66 +819,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_501800426873121025",
-    "title": "AI stocks climb after trillions wiped from market values",
-    "subtitle": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-06",
-    "addedAt": "2026-11-06T18:47:29Z",
-    "category": "tech",
+    "id": "auto_science_269851352271634053",
+    "title": "Summer heatwave put bin crews lives at risk, says council worker",
+    "subtitle": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed....",
+    "speaker": "BBC Science",
+    "date": "2026-11-13",
+    "addedAt": "2026-11-13T19:05:57Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 104,
+    "wordCount": 87,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Shares in artificial intelligence and technology firms have been climbing following an enormous sell-off that wiped trillions of dollars off stock values.",
+        "en": "Some bin collections were missed partly because of the heatwave",
         "ko": "",
         "sentences": [
           {
-            "en": "Shares in artificial intelligence and technology firms have been climbing following an enormous sell-off that wiped trillions of dollars off stock values.",
+            "en": "Some bin collections were missed partly because of the heatwave",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The tech-heavy Nasdaq stock index opened higher following a market rout that began in the US on Thursday before spilling over to Asian and European markets into Friday.",
+        "en": "Some bin collections were missed over the summer in a county partly because the heatwave became so serious it posed a risk to the lives of workers, a council worker has said.",
         "ko": "",
         "sentences": [
           {
-            "en": "The tech-heavy Nasdaq stock index opened higher following a market rout that began in the US on Thursday before spilling over to Asian and European markets into Friday.",
+            "en": "Some bin collections were missed over the summer in a county partly because the heatwave became so serious it posed a risk to the lives of workers, a council worker has said.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Investors had been selling off tech shares in part due to concerns the Democrat victory in the midterm elections would mean slower artificial intelligence development.",
+        "en": "Flintshire County Council's Chris Goddard said crews faced a \"perfect storm\" of challenges during the UK's record-breaking hot weather, causing a spate of widespread missed collections.",
         "ko": "",
         "sentences": [
           {
-            "en": "Investors had been selling off tech shares in part due to concerns the Democrat victory in the midterm elections would mean slower artificial intelligence development.",
+            "en": "Flintshire County Council's Chris Goddard said crews faced a \"perfect storm\" of challenges during the UK's record-breaking hot weather, causing a spate of widespread missed collections.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "However the latest US employment figures added to a mixed picture for American markets on Friday morning, with an unexpectedly strong 165,000 jobs added to the economy in September.",
+        "en": "During the summer, drought was declared in all of Wales and wildfires caused devastation in parts of the country.",
         "ko": "",
         "sentences": [
           {
-            "en": "However the latest US employment figures added to a mixed picture for American markets on Friday morning, with an unexpectedly strong 165,000 jobs added to the economy in September.",
+            "en": "During the summer, drought was declared in all of Wales and wildfires caused devastation in parts of the country.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: AI stocks climb after trillions wiped from market values",
+      "글로벌 최신 소식: Summer heatwave put bin crews lives at risk, says council worker",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -809,7 +886,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "AI stocks climb after trillions wiped from market values",
+          "Summer heatwave put bin crews lives at risk, says council worker",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1515,91 +1592,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Investigation into 'major fish kill' after pollution incident",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_science_593771034820751482",
-    "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-    "subtitle": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather....",
-    "speaker": "BBC Science",
-    "date": "2026-11-04",
-    "addedAt": "2026-11-05T04:48:46Z",
-    "category": "science",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 130,
-    "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Fishermen return to sea under a crimson sky in August after China's Jiangsu province is hit by Super Typhoon Dolphin",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Fishermen return to sea under a crimson sky in August after China's Jiangsu province is hit by Super Typhoon Dolphin",
-            "ko": "실시간 보도 번역: Fishermen return to sea under a crimson sky in August after China's Jiangsu province is hit by Super Typhoon Dolphin"
-          }
-        ]
-      },
-      {
-        "en": "Wild weather is a way of life for people living along the coast in the Philippines, Taiwan, China and Japan. But the last few months have been extraordinary.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Wild weather is a way of life for people living along the coast in the Philippines, Taiwan, China and Japan.",
-            "ko": "실시간 보도 번역: Wild weather is a way of life for people living along the coast in the Philippines, Taiwan, China and Japan."
-          },
-          {
-            "en": "But the last few months have been extraordinary.",
-            "ko": "실시간 보도 번역: But the last few months have been extraordinary."
-          }
-        ]
-      },
-      {
-        "en": "A wave of intense and, at times, unpredictable storms exacerbated by the El Niño weather pattern has killed dozens, shuttered major airports and wiped out crops and infrastructure across a swathe of East Asia.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "A wave of intense and, at times, unpredictable storms exacerbated by the El Niño weather pattern has killed dozens, shuttered major airports and wiped out crops and infrastructure across a swathe of East Asia.",
-            "ko": "실시간 보도 번역: A wave of intense and, at times, unpredictable storms exacerbated by the El Niño weather pattern has killed dozens, shuttered major airports and wiped out crops and infrastructure across a swathe of East Asia."
-          }
-        ]
-      },
-      {
-        "en": "In October, nearly all of Taiwan shut down as a monster storm big enough to engulf the island of 23 million roared towards its north-eastern coast. Equivalent to a category five hurricane, Typhoon Champi's 295km/h (193mph) winds had the power to flatten homes and whip up destructive waves.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "In October, nearly all of Taiwan shut down as a monster storm big enough to engulf the island of 23 million roared towards its north-eastern coast.",
-            "ko": "실시간 보도 번역: In October, nearly all of Taiwan shut down as a monster storm big enough to engulf the island of 23 million roared towards its north-eastern coast."
-          },
-          {
-            "en": "Equivalent to a category five hurricane, Typhoon Champi's 295km/h (193mph) winds had the power to flatten homes and whip up destructive waves.",
-            "ko": "실시간 보도 번역: Equivalent to a category five hurricane, Typhoon Champi's 295km/h (193mph) winds had the power to flatten homes and whip up destructive waves."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
