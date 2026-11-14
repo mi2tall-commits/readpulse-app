@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_78830445495272956",
+    "title": "Microsoft says services fully restored after day-long global outage",
+    "subtitle": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-14",
+    "addedAt": "2026-11-14T17:35:19Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 94,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Microsoft has said its services have been fully restored after a worldwide outage affected several of its tools, causing disruption.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Microsoft has said its services have been fully restored after a worldwide outage affected several of its tools, causing disruption.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The tech firm said early on Saturday morning that efforts to address the underlying problem had been completed and customers using Outlook, Teams and Copilot should no longer be affected.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The tech firm said early on Saturday morning that efforts to address the underlying problem had been completed and customers using Outlook, Teams and Copilot should no longer be affected.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users. More than 430 million people use the affected products worldwide.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users.",
+            "ko": ""
+          },
+          {
+            "en": "More than 430 million people use the affected products worldwide.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Microsoft says services fully restored after day-long global outage",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Microsoft says services fully restored after day-long global outage",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1089798428797882587",
     "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
     "subtitle": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade....",
@@ -742,70 +823,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_310405117874369882",
-    "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-    "subtitle": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-08",
-    "addedAt": "2026-11-08T17:30:15Z",
-    "category": "tech",
+    "id": "auto_science_974242897974261723",
+    "title": "How to spot November's planetary parade in the pre-dawn sky",
+    "subtitle": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November....",
+    "speaker": "BBC Science",
+    "date": "2026-11-14",
+    "addedAt": "2026-11-14T17:35:20Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 109,
+    "wordCount": 86,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Vinted and eBay could be included in the list of platforms set to be banned for children aged under 16, the culture secretary has said.",
+        "en": "Stargazers are being treated to a diagonal parade of four planets in the pre-dawn sky throughout November.",
         "ko": "",
         "sentences": [
           {
-            "en": "Vinted and eBay could be included in the list of platforms set to be banned for children aged under 16, the culture secretary has said.",
+            "en": "Stargazers are being treated to a diagonal parade of four planets in the pre-dawn sky throughout November.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Lisa Nandy said the government was \"looking seriously\" at including the retailing websites in the social media ban \"to keep children safe\".",
+        "en": "Mercury, Venus, Mars and Jupiter will all be visible to the naked eye in the south-eastern to eastern sky.",
         "ko": "",
         "sentences": [
           {
-            "en": "Lisa Nandy said the government was \"looking seriously\" at including the retailing websites in the social media ban \"to keep children safe\".",
+            "en": "Mercury, Venus, Mars and Jupiter will all be visible to the naked eye in the south-eastern to eastern sky.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The UK's social media ban for under-16s is set to come into force in March next year, with children barred from accessing platforms such as Instagram, TikTok and Snapchat.",
+        "en": "Particularly notable will be the line-up on Monday 16 November when Mars and Jupiter will appear exceptionally close together, according to the Royal Museums Greenwich.",
         "ko": "",
         "sentences": [
           {
-            "en": "The UK's social media ban for under-16s is set to come into force in March next year, with children barred from accessing platforms such as Instagram, TikTok and Snapchat.",
+            "en": "Particularly notable will be the line-up on Monday 16 November when Mars and Jupiter will appear exceptionally close together, according to the Royal Museums Greenwich.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "In response, eBay said it was looking forward to \"understanding more and continuing to work constructively with the government\". Vinted said it welcomed \"open dialogue\" with ministers and the regulator on the issue.",
+        "en": "From 24 November, a full Moon - the first of a run of four supermoons - will also join the planets in the morning sky.",
         "ko": "",
         "sentences": [
           {
-            "en": "In response, eBay said it was looking forward to \"understanding more and continuing to work constructively with the government\".",
-            "ko": ""
-          },
-          {
-            "en": "Vinted said it welcomed \"open dialogue\" with ministers and the regulator on the issue.",
+            "en": "From 24 November, a full Moon - the first of a run of four supermoons - will also join the planets in the morning sky.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "글로벌 최신 소식: How to spot November's planetary parade in the pre-dawn sky",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -813,7 +890,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+          "How to spot November's planetary parade in the pre-dawn sky",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1528,66 +1605,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_1020403742671698341",
-    "title": "Investigation into 'major fish kill' after pollution incident",
-    "subtitle": "The pollution caused the death of brown and migratory sea trout in the Inler river....",
-    "speaker": "BBC Science",
-    "date": "2026-11-05",
-    "addedAt": "2026-11-05T19:23:49Z",
-    "category": "science",
+    "id": "auto_economy_78830445495272956",
+    "title": "Microsoft says services fully restored after day-long global outage",
+    "subtitle": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says....",
+    "speaker": "BBC Business",
+    "date": "2026-11-14",
+    "addedAt": "2026-11-14T17:35:21Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 96,
+    "wordCount": 94,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "The angling club said that the pollution incident killed brown and migratory sea trout",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday",
+        "ko": "",
         "sentences": [
           {
-            "en": "The angling club said that the pollution incident killed brown and migratory sea trout",
-            "ko": "실시간 보도 번역: The angling club said that the pollution incident killed brown and migratory sea trout"
+            "en": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "A investigation is underway after \"a major fish kill\" in a County Down river, the Department for Agriculture, Environment and Rural Affairs (Daera) has confirmed.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "Microsoft has said its services have been fully restored after a worldwide outage affected several of its tools, causing disruption.",
+        "ko": "",
         "sentences": [
           {
-            "en": "A investigation is underway after \"a major fish kill\" in a County Down river, the Department for Agriculture, Environment and Rural Affairs (Daera) has confirmed.",
-            "ko": "실시간 보도 번역: A investigation is underway after \"a major fish kill\" in a County Down river, the Department for Agriculture, Environment and Rural Affairs (Daera) has confirmed."
+            "en": "Microsoft has said its services have been fully restored after a worldwide outage affected several of its tools, causing disruption.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "The pollution caused the death of brown and migratory sea trout in the Gransha, Ballystockart and Inler (also known as Enler) Rivers.",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "The tech firm said early on Saturday morning that efforts to address the underlying problem had been completed and customers using Outlook, Teams and Copilot should no longer be affected.",
+        "ko": "",
         "sentences": [
           {
-            "en": "The pollution caused the death of brown and migratory sea trout in the Gransha, Ballystockart and Inler (also known as Enler) Rivers.",
-            "ko": "실시간 보도 번역: The pollution caused the death of brown and migratory sea trout in the Gransha, Ballystockart and Inler (also known as Enler) Rivers."
+            "en": "The tech firm said early on Saturday morning that efforts to address the underlying problem had been completed and customers using Outlook, Teams and Copilot should no longer be affected.",
+            "ko": ""
           }
         ]
       },
       {
-        "en": "Glenn McKibbin, the secretary of Inler Angling Club, said about 1,000 fish were killed in the incident and it \"could not have happened in a worse location on the river or at a worse time\".",
-        "ko": "글로벌 최신 보도 내용입니다.",
+        "en": "The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users. More than 430 million people use the affected products worldwide.",
+        "ko": "",
         "sentences": [
           {
-            "en": "Glenn McKibbin, the secretary of Inler Angling Club, said about 1,000 fish were killed in the incident and it \"could not have happened in a worse location on the river or at a worse time\".",
-            "ko": "실시간 보도 번역: Glenn McKibbin, the secretary of Inler Angling Club, said about 1,000 fish were killed in the incident and it \"could not have happened in a worse location on the river or at a worse time\"."
+            "en": "The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users.",
+            "ko": ""
+          },
+          {
+            "en": "More than 430 million people use the affected products worldwide.",
+            "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Investigation into 'major fish kill' after pollution incident",
+      "글로벌 최신 소식: Microsoft says services fully restored after day-long global outage",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1595,7 +1676,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Investigation into 'major fish kill' after pollution incident",
+          "Microsoft says services fully restored after day-long global outage",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2333,83 +2414,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_511253106647080474",
-    "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-    "subtitle": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation....",
-    "speaker": "BBC Business",
-    "date": "2026-11-08",
-    "addedAt": "2026-11-09T04:16:03Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 101,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Jensen Huang admitted having an extramarital affair and said he would cooperate into a security investigation launched by the tech giant",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Jensen Huang admitted having an extramarital affair and said he would cooperate into a security investigation launched by the tech giant",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "US tech giant Nvidia has opened an independent investigation following reports its CEO Jensen Huang had a relationship with a suspected Chinese spy.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "US tech giant Nvidia has opened an independent investigation following reports its CEO Jensen Huang had a relationship with a suspected Chinese spy.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The company, one of the most valuable in the world, said its board had no reason to believe the company's secrets or national security were compromised, adding that the CEO was committed to continuing to lead the company.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The company, one of the most valuable in the world, said its board had no reason to believe the company's secrets or national security were compromised, adding that the CEO was committed to continuing to lead the company.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Separately, Jensen Huang admitted to having been \"unfaithful\" to his wife and apologised for hurting her and their children.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Separately, Jensen Huang admitted to having been \"unfaithful\" to his wife and apologised for hurting her and their children.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
           "Historical retrospective",
           "Unrelated general weather"
         ],
