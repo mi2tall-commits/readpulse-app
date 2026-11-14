@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1089798428797882587",
+    "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "subtitle": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-13",
+    "addedAt": "2026-11-14T04:39:15Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 110,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Singapore has painstakingly cultivated a reputation as an open, business-friendly economy",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Singapore has painstakingly cultivated a reputation as an open, business-friendly economy",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "A major scandal involving Nvidia founder Jensen Huang and a suspected Chinese spy based in Singapore has cast a spotlight on the city-state's success as a global chip hub - and a location for alleged illicit trade.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "A major scandal involving Nvidia founder Jensen Huang and a suspected Chinese spy based in Singapore has cast a spotlight on the city-state's success as a global chip hub - and a location for alleged illicit trade.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "On Thursday, Huang stepped down from the US chip giant after admitting he had an affair. He was reportedly involved with a woman named Alice Huang, who ran Singaporean data centre company Megaspeed, a major buyer of Nvidia's chips.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "On Thursday, Huang stepped down from the US chip giant after admitting he had an affair.",
+            "ko": ""
+          },
+          {
+            "en": "He was reportedly involved with a woman named Alice Huang, who ran Singaporean data centre company Megaspeed, a major buyer of Nvidia's chips.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "For decades, Singapore has painstakingly cultivated a reputation as an open, business-friendly economy offering easy access to both the US and Chinese markets.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "For decades, Singapore has painstakingly cultivated a reputation as an open, business-friendly economy offering easy access to both the US and Chinese markets.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_17869715063950050",
     "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
     "subtitle": "Microsoft has apologised for the issue, which it said was due to a technical failure....",
@@ -733,83 +814,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_tech_652939213299015375",
-    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-    "subtitle": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-06",
-    "addedAt": "2026-11-07T04:16:30Z",
-    "category": "tech",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 109,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
-    ],
-    "paragraphs": [
-      {
-        "en": "Tesla will wind down production of its Cybertruck vehicles at its Texas factory next year, Elon Musk says.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Tesla will wind down production of its Cybertruck vehicles at its Texas factory next year, Elon Musk says.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "He did not spell out whether it plans to stop making them entirely or shift production elsewhere, but did say the decision was to \"make room\" for building more of its self-driving Cybercab cars.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "He did not spell out whether it plans to stop making them entirely or shift production elsewhere, but did say the decision was to \"make room\" for building more of its self-driving Cybercab cars.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.\"",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "With its distinctive angular looks, the Cybertruck attracted diehard fans, but was beset by delays before being launched in 2023 and has had disappointing sales numbers since.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "With its distinctive angular looks, the Cybertruck attracted diehard fans, but was beset by delays before being launched in 2023 and has had disappointing sales numbers since.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Elon Musk appears to signal the end of the road for Cybertruck",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Elon Musk appears to signal the end of the road for Cybertruck",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1601,6 +1605,91 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_438891472771936397",
+    "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+    "subtitle": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers....",
+    "speaker": "BBC Business",
+    "date": "2026-11-13",
+    "addedAt": "2026-11-14T04:39:16Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 100,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Microsoft has said it is \"deeply sorry\" for the service outage to its products, including Outlook and Teams, which has caused disruption around the world.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Microsoft has said it is \"deeply sorry\" for the service outage to its products, including Outlook and Teams, which has caused disruption around the world.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Services were broadly recovering by Friday afternoon, nearly 24 hours after issues began. Microsoft said it was making \"encouraging progress\", but added it does not know when services will fully recover.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Services were broadly recovering by Friday afternoon, nearly 24 hours after issues began.",
+            "ko": ""
+          },
+          {
+            "en": "Microsoft said it was making \"encouraging progress\", but added it does not know when services will fully recover.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users. More than 430 million people use the affected products worldwide.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users.",
+            "ko": ""
+          },
+          {
+            "en": "More than 430 million people use the affected products worldwide.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_215489301120895944",
     "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
     "subtitle": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy....",
@@ -2330,70 +2419,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_310405117874369882",
-    "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-    "subtitle": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March....",
-    "speaker": "BBC Business",
-    "date": "2026-11-08",
-    "addedAt": "2026-11-08T17:30:16Z",
-    "category": "economy",
+    "id": "auto_sports_265711337081397633",
+    "title": "Sabalenka's season ended by Svitolina at WTA Finals",
+    "subtitle": "Aryna Sabalenka's season ends in disappointment as Elina Svitolina beats the former world number one to claim her place in the kno...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-14",
+    "addedAt": "2026-11-14T04:39:17Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 109,
+    "wordCount": 106,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "Vinted and eBay could be included in the list of platforms set to be banned for children aged under 16, the culture secretary has said.",
+        "en": "Aryna Sabalenka had not failed to reach the last four at the WTA Finals since 2021",
         "ko": "",
         "sentences": [
           {
-            "en": "Vinted and eBay could be included in the list of platforms set to be banned for children aged under 16, the culture secretary has said.",
+            "en": "Aryna Sabalenka had not failed to reach the last four at the WTA Finals since 2021",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Lisa Nandy said the government was \"looking seriously\" at including the retailing websites in the social media ban \"to keep children safe\".",
+        "en": "Aryna Sabalenka's season ended in disappointment as Elina Svitolina beat the former world number one to claim her place in the knockout stage at the WTA Finals.",
         "ko": "",
         "sentences": [
           {
-            "en": "Lisa Nandy said the government was \"looking seriously\" at including the retailing websites in the social media ban \"to keep children safe\".",
+            "en": "Aryna Sabalenka's season ended in disappointment as Elina Svitolina beat the former world number one to claim her place in the knockout stage at the WTA Finals.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The UK's social media ban for under-16s is set to come into force in March next year, with children barred from accessing platforms such as Instagram, TikTok and Snapchat.",
+        "en": "Sabalenka took her frustration out on her racquet and reacted to losing a point by crouching to the ground at the back of the court as a semi-final place slipped away.",
         "ko": "",
         "sentences": [
           {
-            "en": "The UK's social media ban for under-16s is set to come into force in March next year, with children barred from accessing platforms such as Instagram, TikTok and Snapchat.",
+            "en": "Sabalenka took her frustration out on her racquet and reacted to losing a point by crouching to the ground at the back of the court as a semi-final place slipped away.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "In response, eBay said it was looking forward to \"understanding more and continuing to work constructively with the government\". Vinted said it welcomed \"open dialogue\" with ministers and the regulator on the issue.",
+        "en": "The Belarusian was able to force a deciding set after unravelling in the latter stages of the first, but lost the final six games in slumping to a 6-3 3-6 6-1 loss.",
         "ko": "",
         "sentences": [
           {
-            "en": "In response, eBay said it was looking forward to \"understanding more and continuing to work constructively with the government\".",
-            "ko": ""
-          },
-          {
-            "en": "Vinted said it welcomed \"open dialogue\" with ministers and the regulator on the issue.",
+            "en": "The Belarusian was able to force a deciding set after unravelling in the latter stages of the first, but lost the final six games in slumping to a 6-3 3-6 6-1 loss.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "글로벌 최신 소식: Sabalenka's season ended by Svitolina at WTA Finals",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2401,14 +2486,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+          "Sabalenka's season ended by Svitolina at WTA Finals",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_180011899561519734",
@@ -3111,85 +3198,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "'I don't fear for my safety from online abuse - because we're so used to it'",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_601157000311445689",
-    "title": "Defeat ends Djokovic's hopes of making ATP Finals",
-    "subtitle": "Novak Djokovic is out of the race to qualify for the ATP Finals in Turin after a second-round defeat by qualifier Rinky Hijikata a...",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-04",
-    "addedAt": "2026-11-04T19:15:14Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 103,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Djokovic's 24 Grand Slam singles titles are a men's record but have him tied with Margaret Court overall",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Djokovic's 24 Grand Slam singles titles are a men's record but have him tied with Margaret Court overall",
-            "ko": "실시간 보도 번역: Djokovic's 24 Grand Slam singles titles are a men's record but have him tied with Margaret Court overall"
-          }
-        ]
-      },
-      {
-        "en": "Novak Djokovic is out of the race to qualify for the ATP Finals in Turin after a second-round defeat by qualifier Rinky Hijikata at the Paris Masters.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Novak Djokovic is out of the race to qualify for the ATP Finals in Turin after a second-round defeat by qualifier Rinky Hijikata at the Paris Masters.",
-            "ko": "실시간 보도 번역: Novak Djokovic is out of the race to qualify for the ATP Finals in Turin after a second-round defeat by qualifier Rinky Hijikata at the Paris Masters."
-          }
-        ]
-      },
-      {
-        "en": "It means Djokovic, 39, has failed to qualify for the event for only the second time in the past 20 seasons when fit.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "It means Djokovic, 39, has failed to qualify for the event for only the second time in the past 20 seasons when fit.",
-            "ko": "실시간 보도 번역: It means Djokovic, 39, has failed to qualify for the event for only the second time in the past 20 seasons when fit."
-          }
-        ]
-      },
-      {
-        "en": "The Serb likely needed to reach the semi-finals in Paris to qualify, although the draw had appeared to open up for him after two of his rivals for a place fell earlier in the day.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "The Serb likely needed to reach the semi-finals in Paris to qualify, although the draw had appeared to open up for him after two of his rivals for a place fell earlier in the day.",
-            "ko": "실시간 보도 번역: The Serb likely needed to reach the semi-finals in Paris to qualify, although the draw had appeared to open up for him after two of his rivals for a place fell earlier in the day."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Defeat ends Djokovic's hopes of making ATP Finals",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Defeat ends Djokovic's hopes of making ATP Finals",
           "Historical retrospective",
           "Unrelated general weather"
         ],
