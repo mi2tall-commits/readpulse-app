@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_157269794854904642",
+    "title": "Italy fines Meta €805m over accessing users' photos",
+    "subtitle": "The social media giant is accused of not informing 20 million users it had access to their photos....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-14",
+    "addedAt": "2026-11-15T04:28:58Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 84,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Italian regulators have fined social media giant Meta €805m (£670m; $887m) for accessing Android users' photos without their specific consent.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Italian regulators have fined social media giant Meta €805m (£670m; $887m) for accessing Android users' photos without their specific consent.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Italy's Data Protection Authority said Meta did not properly inform about 20 million smartphone users that it had access to their photos and videos via a feature of the Facebook app.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Italy's Data Protection Authority said Meta did not properly inform about 20 million smartphone users that it had access to their photos and videos via a feature of the Facebook app.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "It has given Meta 60 days to disable the feature by default and seek users' consent separately.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "It has given Meta 60 days to disable the feature by default and seek users' consent separately.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The fine is among the largest an Italian authority has ever imposed on a tech giant.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The fine is among the largest an Italian authority has ever imposed on a tech giant.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Italy fines Meta €805m over accessing users' photos",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Italy fines Meta €805m over accessing users' photos",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_78830445495272956",
     "title": "Microsoft says services fully restored after day-long global outage",
     "subtitle": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says....",
@@ -746,66 +823,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1086853294422807803",
-    "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-    "subtitle": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-09",
-    "addedAt": "2026-11-09T21:51:29Z",
-    "category": "tech",
+    "id": "auto_science_406537949696405944",
+    "title": "SpaceX successfully catches top of huge Starship rocket for first time",
+    "subtitle": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”....",
+    "speaker": "BBC Science",
+    "date": "2026-11-14",
+    "addedAt": "2026-11-15T04:28:58Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 106,
+    "wordCount": 87,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Hundreds of billions of dollars have been wiped off the value of Nvidia after the US chipmaker announced an independent investigation would be carried out into its chief executive's affair with an alleged Chinese spy.",
+        "en": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
         "ko": "",
         "sentences": [
           {
-            "en": "Hundreds of billions of dollars have been wiped off the value of Nvidia after the US chipmaker announced an independent investigation would be carried out into its chief executive's affair with an alleged Chinese spy.",
+            "en": "'Can you believe it?",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The tech firm saw its shares fall by about 4% by close of trade on Monday after Jensen Huang admitted having an extramarital affair.",
+        "en": "SpaceX has successfully caught the top part of its huge Starship rocket for the first time, after a flight lasting twenty-two and a half hours.",
         "ko": "",
         "sentences": [
           {
-            "en": "The tech firm saw its shares fall by about 4% by close of trade on Monday after Jensen Huang admitted having an extramarital affair.",
+            "en": "SpaceX has successfully caught the top part of its huge Starship rocket for the first time, after a flight lasting twenty-two and a half hours.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Nvidia's probe came after reports that the US believed the Nvidia boss had been targeted in an espionage campaign by China.",
+        "en": "The rocket returned to Earth and hovered near its launch tower whose mechanical arms - nicknamed chopsticks - then secured it.",
         "ko": "",
         "sentences": [
           {
-            "en": "Nvidia's probe came after reports that the US believed the Nvidia boss had been targeted in an espionage campaign by China.",
+            "en": "The rocket returned to Earth and hovered near its launch tower whose mechanical arms - nicknamed chopsticks - then secured it.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "However, China has rejected the claims, with its foreign ministry saying allegations about Chinese spies were \"entirely groundless, speculative and intended to smear and malign China\".",
+        "en": "The company had hoped to catch the bottom part of the rocket as well, but this was aborted a few minutes after the launch on Friday.",
         "ko": "",
         "sentences": [
           {
-            "en": "However, China has rejected the claims, with its foreign ministry saying allegations about Chinese spies were \"entirely groundless, speculative and intended to smear and malign China\".",
+            "en": "The company had hoped to catch the bottom part of the rocket as well, but this was aborted a few minutes after the launch on Friday.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "글로벌 최신 소식: SpaceX successfully catches top of huge Starship rocket for first time",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -813,7 +890,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+          "SpaceX successfully catches top of huge Starship rocket for first time",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1528,66 +1605,78 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_66198983608008397",
-    "title": "Birds return to waterfowl park after oil vandalism",
-    "subtitle": "The vandalism of a nearby home heating oil tank resulted in the death of 13 birds from the park....",
-    "speaker": "BBC Science",
-    "date": "2026-11-09",
-    "addedAt": "2026-11-09T21:51:29Z",
-    "category": "science",
+    "id": "auto_economy_483186049526543437",
+    "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+    "subtitle": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers....",
+    "speaker": "BBC Business",
+    "date": "2026-11-15",
+    "addedAt": "2026-11-15T04:29:00Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 93,
+    "wordCount": 138,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "The birds (pictured previously) have returned to the park after being cared for by the USPCA",
+        "en": "It's easy to see the appeal of a beauty advent calendar. Like many women at this time of year, Julia says she often finds herself tempted to splurge on one - especially a perfume calendar. But she takes quite an unsentimental approach.",
         "ko": "",
         "sentences": [
           {
-            "en": "The birds (pictured previously) have returned to the park after being cared for by the USPCA",
+            "en": "It's easy to see the appeal of a beauty advent calendar.",
+            "ko": ""
+          },
+          {
+            "en": "Like many women at this time of year, Julia says she often finds herself tempted to splurge on one - especially a perfume calendar.",
+            "ko": ""
+          },
+          {
+            "en": "But she takes quite an unsentimental approach.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Resident birds have returned to Broughshane Waterfowl Park after an oil spill which caused the death of 13 of the flock.",
+        "en": "\"I always look at what's in them. If I like enough of the fragrances, I'll buy it,\" says the 39-year old, who works as a senior commercial manager in engineering.",
         "ko": "",
         "sentences": [
           {
-            "en": "Resident birds have returned to Broughshane Waterfowl Park after an oil spill which caused the death of 13 of the flock.",
+            "en": "\"I always look at what's in them.",
+            "ko": ""
+          },
+          {
+            "en": "If I like enough of the fragrances, I'll buy it,\" says the 39-year old, who works as a senior commercial manager in engineering.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The popular attraction in County Antrim was forced to close after a nearby home heating oil tank was vandalised, causing the oil spill into the pond.",
+        "en": "Luxury advent calendars are supposed to offer the thrill of a surprise but, for Julia, it is more important she actually wants the items inside - a thought that is also striking more and more customers in the wake of the scandal over the Skims calendar.",
         "ko": "",
         "sentences": [
           {
-            "en": "The popular attraction in County Antrim was forced to close after a nearby home heating oil tank was vandalised, causing the oil spill into the pond.",
+            "en": "Luxury advent calendars are supposed to offer the thrill of a surprise but, for Julia, it is more important she actually wants the items inside - a thought that is also striking more and more customers in the wake of the scandal over the Skims calendar.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "In a post on social media, The Waterfowl Pond confirmed that work is still underway to address the oil contamination and that a number of pens remain out of bounds.",
+        "en": "Customers likened the contents of Kim Kardashian's Skims calendar to something you would find down the back of a sofa",
         "ko": "",
         "sentences": [
           {
-            "en": "In a post on social media, The Waterfowl Pond confirmed that work is still underway to address the oil contamination and that a number of pens remain out of bounds.",
+            "en": "Customers likened the contents of Kim Kardashian's Skims calendar to something you would find down the back of a sofa",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Birds return to waterfowl park after oil vandalism",
+      "글로벌 최신 소식: Beauty advent calendars can cost hundreds - but are they value for money?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1595,7 +1684,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Birds return to waterfowl park after oil vandalism",
+          "Beauty advent calendars can cost hundreds - but are they value for money?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2346,66 +2435,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_1086853294422807803",
-    "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-    "subtitle": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia....",
-    "speaker": "BBC Business",
-    "date": "2026-11-09",
-    "addedAt": "2026-11-09T21:51:29Z",
-    "category": "economy",
+    "id": "auto_sports_432409411867381849",
+    "title": "Svitolina races into WTA Finals showpiece against Andreeva",
+    "subtitle": "Elina Svitolina drops just three games as she thrashes Linda Noskova to set up a WTA Finals showpiece against Mirra Andreeva....",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-14",
+    "addedAt": "2026-11-15T04:29:00Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 106,
+    "wordCount": 91,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "Hundreds of billions of dollars have been wiped off the value of Nvidia after the US chipmaker announced an independent investigation would be carried out into its chief executive's affair with an alleged Chinese spy.",
+        "en": "Elina Svitolina dropped just three games as she thrashed Linda Noskova to set up a WTA Finals showpiece against Mirra Andreeva.",
         "ko": "",
         "sentences": [
           {
-            "en": "Hundreds of billions of dollars have been wiped off the value of Nvidia after the US chipmaker announced an independent investigation would be carried out into its chief executive's affair with an alleged Chinese spy.",
+            "en": "Elina Svitolina dropped just three games as she thrashed Linda Noskova to set up a WTA Finals showpiece against Mirra Andreeva.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The tech firm saw its shares fall by about 4% by close of trade on Monday after Jensen Huang admitted having an extramarital affair.",
+        "en": "Ukraine's Svitolina was composed and aggressive in a 6-2 6-1 victory over Wimbledon champion Noskova in just 64 minutes.",
         "ko": "",
         "sentences": [
           {
-            "en": "The tech firm saw its shares fall by about 4% by close of trade on Monday after Jensen Huang admitted having an extramarital affair.",
+            "en": "Ukraine's Svitolina was composed and aggressive in a 6-2 6-1 victory over Wimbledon champion Noskova in just 64 minutes.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Nvidia's probe came after reports that the US believed the Nvidia boss had been targeted in an espionage campaign by China.",
+        "en": "It caps a remarkable turnaround for world number six Svitolina in Indian Wells, having suffered a heavy defeat in her opening group match against Andreeva.",
         "ko": "",
         "sentences": [
           {
-            "en": "Nvidia's probe came after reports that the US believed the Nvidia boss had been targeted in an espionage campaign by China.",
+            "en": "It caps a remarkable turnaround for world number six Svitolina in Indian Wells, having suffered a heavy defeat in her opening group match against Andreeva.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "However, China has rejected the claims, with its foreign ministry saying allegations about Chinese spies were \"entirely groundless, speculative and intended to smear and malign China\".",
+        "en": "However, she has shown all of her fighting spirit to win her next three matches, including snapping a six-match losing streak to Aryna Sabalenka on Friday.",
         "ko": "",
         "sentences": [
           {
-            "en": "However, China has rejected the claims, with its foreign ministry saying allegations about Chinese spies were \"entirely groundless, speculative and intended to smear and malign China\".",
+            "en": "However, she has shown all of her fighting spirit to win her next three matches, including snapping a six-match losing streak to Aryna Sabalenka on Friday.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "글로벌 최신 소식: Svitolina races into WTA Finals showpiece against Andreeva",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2413,14 +2502,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+          "Svitolina races into WTA Finals showpiece against Andreeva",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_265711337081397633",
@@ -3123,85 +3214,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Coach who helped Sinner to the top set to depart",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_507409410241412497",
-    "title": "'I don't fear for my safety from online abuse - because we're so used to it'",
-    "subtitle": "Britain's Jodie Burrage speaks to BBC Sport about the online abuse she received after her recent defeat - and why it no longer com...",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-05",
-    "addedAt": "2026-11-05T19:23:50Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 97,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Jodie Burrage has represented Great Britain at the Billie Jean King Cup",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "Jodie Burrage has represented Great Britain at the Billie Jean King Cup",
-            "ko": "실시간 보도 번역: Jodie Burrage has represented Great Britain at the Billie Jean King Cup"
-          }
-        ]
-      },
-      {
-        "en": "After struggling with her blood pressure as she lost her first WTA Tour singles match for 16 months, Jodie Burrage checked in with three things: a doctor, a physiotherapist, and her phone.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "After struggling with her blood pressure as she lost her first WTA Tour singles match for 16 months, Jodie Burrage checked in with three things: a doctor, a physiotherapist, and her phone.",
-            "ko": "실시간 보도 번역: After struggling with her blood pressure as she lost her first WTA Tour singles match for 16 months, Jodie Burrage checked in with three things: a doctor, a physiotherapist, and her phone."
-          }
-        ]
-      },
-      {
-        "en": "On her social media feed there were already messages promising punishment - and others making threats on her life - for losing 3-6 6-3 7-5 to Indian wildcard Vaishnavi Adkar.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "On her social media feed there were already messages promising punishment - and others making threats on her life - for losing 3-6 6-3 7-5 to Indian wildcard Vaishnavi Adkar.",
-            "ko": "실시간 보도 번역: On her social media feed there were already messages promising punishment - and others making threats on her life - for losing 3-6 6-3 7-5 to Indian wildcard Vaishnavi Adkar."
-          }
-        ]
-      },
-      {
-        "en": "\"I try not to actually read what they say,\" Burrage told BBC Sport from Chennai, where she is still competing in the doubles.",
-        "ko": "글로벌 최신 보도 내용입니다.",
-        "sentences": [
-          {
-            "en": "\"I try not to actually read what they say,\" Burrage told BBC Sport from Chennai, where she is still competing in the doubles.",
-            "ko": "실시간 보도 번역: \"I try not to actually read what they say,\" Burrage told BBC Sport from Chennai, where she is still competing in the doubles."
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: 'I don't fear for my safety from online abuse - because we're so used to it'",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "'I don't fear for my safety from online abuse - because we're so used to it'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
