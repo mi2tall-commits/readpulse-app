@@ -1605,6 +1605,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_1001818597677009173",
+    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "subtitle": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions....",
+    "speaker": "BBC Business",
+    "date": "2026-11-15",
+    "addedAt": "2026-11-15T18:24:20Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 111,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "The Nvidia scandal has sent shockwaves through Silicon Valley as well as the political establishment",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The Nvidia scandal has sent shockwaves through Silicon Valley as well as the political establishment",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Alice Huang, a suspected China spy who has been linked to Nvidia's former boss Jensen Huang, left her executive role at Megaspeed in August last year, the  company says.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Alice Huang, a suspected China spy who has been linked to Nvidia's former boss Jensen Huang, left her executive role at Megaspeed in August last year, the  company says.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Jensen Huang resigned as chief executive of the AI chip-making giant Nvidia after it emerged he had allegedly had affairs with Alice Huang as well as with one of his employees.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Jensen Huang resigned as chief executive of the AI chip-making giant Nvidia after it emerged he had allegedly had affairs with Alice Huang as well as with one of his employees.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Megaspeed is the biggest buyer of Nvidia chips in south-east Asia and the scandal at Nvidia has raised questions about the possibility that high-end AI chips may have ended up in China despite US export restrictions.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Megaspeed is the biggest buyer of Nvidia chips in south-east Asia and the scandal at Nvidia has raised questions about the possibility that high-end AI chips may have ended up in China despite US export restrictions.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_483186049526543437",
     "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
     "subtitle": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers....",
@@ -2354,70 +2431,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_118872450568191728",
-    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-    "subtitle": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy....",
-    "speaker": "BBC Business",
-    "date": "2026-11-09",
-    "addedAt": "2026-11-10T05:42:23Z",
-    "category": "economy",
+    "id": "auto_sports_1112396009504960388",
+    "title": "Zverev 'felt a lot of joy' in first win as world number one",
+    "subtitle": "Alexander Zverev claims his first victory as world number one as he sweeps aside Rafael Jodar in the opening match of the ATP Fina...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-15",
+    "addedAt": "2026-11-15T18:24:20Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 89,
+    "wordCount": 85,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "\"He's suffering\": Trump answers BBC question about Nvidia's Jensen Huang",
+        "en": "Alexander Zverev has won 66 ATP Tour matches this season - the most of any men's player",
         "ko": "",
         "sentences": [
           {
-            "en": "\"He's suffering\": Trump answers BBC question about Nvidia's Jensen Huang",
+            "en": "Alexander Zverev has won 66 ATP Tour matches this season - the most of any men's player",
             "ko": ""
           }
         ]
       },
       {
-        "en": "US President Donald Trump has said the FBI is investigating the affair between the chief executive of Nvidia and an alleged Chinese spy.",
+        "en": "Alexander Zverev said he felt \"a lot of joy\" as he swept aside Rafael Jodar to claim his first victory as world number one in the opening match of the ATP Finals.",
         "ko": "",
         "sentences": [
           {
-            "en": "US President Donald Trump has said the FBI is investigating the affair between the chief executive of Nvidia and an alleged Chinese spy.",
+            "en": "Alexander Zverev said he felt \"a lot of joy\" as he swept aside Rafael Jodar to claim his first victory as world number one in the opening match of the ATP Finals.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Trump said he spoke to Jensen Huang on Monday following reports that the US believed he had been targeted in a Chinese espionage campaign.",
+        "en": "Germany's Zverev produced a serving masterclass to beat the fast-rising Spaniard 6-4 6-4.",
         "ko": "",
         "sentences": [
           {
-            "en": "Trump said he spoke to Jensen Huang on Monday following reports that the US believed he had been targeted in a Chinese espionage campaign.",
+            "en": "Germany's Zverev produced a serving masterclass to beat the fast-rising Spaniard 6-4 6-4.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "\"I asked him that question, 'Did you have any idea she was a spy?' He said 'I had no idea she was a spy' and I really believe him,\" Trump told reporters.",
+        "en": "The French and US Open champion dropped only 10 points on serve, landing an astonishing 84% of first serves and hitting 10 aces.",
         "ko": "",
         "sentences": [
           {
-            "en": "\"I asked him that question, 'Did you have any idea she was a spy?",
-            "ko": ""
-          },
-          {
-            "en": "' He said 'I had no idea she was a spy' and I really believe him,\" Trump told reporters.",
+            "en": "The French and US Open champion dropped only 10 points on serve, landing an astonishing 84% of first serves and hitting 10 aces.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "글로벌 최신 소식: Zverev 'felt a lot of joy' in first win as world number one",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2425,14 +2498,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "Zverev 'felt a lot of joy' in first win as world number one",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_432409411867381849",
@@ -3135,85 +3210,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "WTA chair apologises to Pegula for airing of 'diva' comment",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_270368417426540500",
-    "title": "Coach who helped Sinner to the top set to depart",
-    "subtitle": "The coach who helped guide Jannik Sinner to five Grand Slam titles and the world number one spot is to leave the player's camp at ...",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-06",
-    "addedAt": "2026-11-06T18:47:31Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 102,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Sinner (left), with Cahill, has not played since winning Wimbledon in July",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Sinner (left), with Cahill, has not played since winning Wimbledon in July",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The coach who helped guide Jannik Sinner to five Grand Slam titles and the world number one spot is to leave the player's camp at the end of the year.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The coach who helped guide Jannik Sinner to five Grand Slam titles and the world number one spot is to leave the player's camp at the end of the year.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Australian Darren Cahill, 61, joined the Italian's team in June 2022 when Sinner was just outside the world's top 10 and had never progressed beyond the quarter-finals of a Grand Slam tournament.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Australian Darren Cahill, 61, joined the Italian's team in June 2022 when Sinner was just outside the world's top 10 and had never progressed beyond the quarter-finals of a Grand Slam tournament.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "But, together with Italian coach Simone Vagnozzi, Cahill has helped Sinner to go on to win five Slams and occupy the world number one spot for 95 weeks.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "But, together with Italian coach Simone Vagnozzi, Cahill has helped Sinner to go on to win five Slams and occupy the world number one spot for 95 weeks.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Coach who helped Sinner to the top set to depart",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Coach who helped Sinner to the top set to depart",
           "Historical retrospective",
           "Unrelated general weather"
         ],
