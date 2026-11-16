@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1001818597677009173",
+    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "subtitle": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-15",
+    "addedAt": "2026-11-16T04:25:50Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 112,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "The Nvidia scandal has sent shockwaves through Silicon Valley as well as the political establishment",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The Nvidia scandal has sent shockwaves through Silicon Valley as well as the political establishment",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Alice Huang, a suspected China spy who has been linked to Nvidia's former boss Jensen Huang, left her executive role at Megaspeed in August last year, the  company says.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Alice Huang, a suspected China spy who has been linked to Nvidia's former boss Jensen Huang, left her executive role at Megaspeed in August last year, the  company says.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Jensen Huang resigned as chief executive of the AI chip-making giant Nvidia after it emerged he had allegedly had affairs with Alice Huang as well as with one of his employees.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Jensen Huang resigned as chief executive of the AI chip-making giant Nvidia after it emerged he had allegedly had affairs with Alice Huang as well as with one of his employees.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Megaspeed is the biggest buyer of Nvidia chips in South East Asia and the scandal at Nvidia has raised questions about the possibility that high-end AI chips may have ended up in China despite US export restrictions.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Megaspeed is the biggest buyer of Nvidia chips in South East Asia and the scandal at Nvidia has raised questions about the possibility that high-end AI chips may have ended up in China despite US export restrictions.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_157269794854904642",
     "title": "Italy fines Meta €805m over accessing users' photos",
     "subtitle": "The social media giant is accused of not informing 20 million users it had access to their photos....",
@@ -733,87 +810,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_tech_118872450568191728",
-    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-    "subtitle": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-09",
-    "addedAt": "2026-11-10T05:42:22Z",
-    "category": "tech",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 89,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
-    ],
-    "paragraphs": [
-      {
-        "en": "\"He's suffering\": Trump answers BBC question about Nvidia's Jensen Huang",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "\"He's suffering\": Trump answers BBC question about Nvidia's Jensen Huang",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "US President Donald Trump has said the FBI is investigating the affair between the chief executive of Nvidia and an alleged Chinese spy.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "US President Donald Trump has said the FBI is investigating the affair between the chief executive of Nvidia and an alleged Chinese spy.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Trump said he spoke to Jensen Huang on Monday following reports that the US believed he had been targeted in a Chinese espionage campaign.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Trump said he spoke to Jensen Huang on Monday following reports that the US believed he had been targeted in a Chinese espionage campaign.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "\"I asked him that question, 'Did you have any idea she was a spy?' He said 'I had no idea she was a spy' and I really believe him,\" Trump told reporters.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "\"I asked him that question, 'Did you have any idea she was a spy?",
-            "ko": ""
-          },
-          {
-            "en": "' He said 'I had no idea she was a spy' and I really believe him,\" Trump told reporters.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1605,6 +1601,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_274677687753992399",
+    "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+    "subtitle": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal....",
+    "speaker": "BBC Business",
+    "date": "2026-11-15",
+    "addedAt": "2026-11-16T04:25:51Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 125,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "The UK will have a \"voice in the room\" but no vote on European Union food policies as part of a so-called \"Brexit reset\" to reduce red tape, EU relations minister Hamish Falconer has told the BBC.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The UK will have a \"voice in the room\" but no vote on European Union food policies as part of a so-called \"Brexit reset\" to reduce red tape, EU relations minister Hamish Falconer has told the BBC.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Prime Minister Andy Burnham hopes to agree a deal at a summit on Friday but critics have said a reset will make the UK \"a rule taker\" but not a rule maker.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Prime Minister Andy Burnham hopes to agree a deal at a summit on Friday but critics have said a reset will make the UK \"a rule taker\" but not a rule maker.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Falconer said the UK will be involved in a process to shape the rules and said the deal could help bring down prices for shoppers.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Falconer said the UK will be involved in a process to shape the rules and said the deal could help bring down prices for shoppers.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The reset would not involve any upfront payments, Falconer added, but made it clear there could well be an \"exit clause\" in case a future UK government reversed the closer alignment.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The reset would not involve any upfront payments, Falconer added, but made it clear there could well be an \"exit clause\" in case a future UK government reversed the closer alignment.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_1001818597677009173",
     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
     "subtitle": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions....",
@@ -2342,78 +2415,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_403523684266587956",
-    "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-    "subtitle": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected....",
-    "speaker": "BBC Business",
-    "date": "2026-11-10",
-    "addedAt": "2026-11-10T19:13:24Z",
-    "category": "economy",
+    "id": "auto_sports_236672751711508885",
+    "title": "Teenager Andreeva caps stunning week with WTA Finals title",
+    "subtitle": "French Open champion Mirra Andreeva caps her stellar season with a hard-fought victory over Elina Svitolina to win the WTA Finals....",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-15",
+    "addedAt": "2026-11-16T04:25:52Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 107,
+    "wordCount": 100,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "Anthropic, the artificial intelligence (AI) company behind the Claude chatbot, could be valued at around $1.3 trillion (£1 trillion) when it lists its shares for sale on New York's Nasdaq stock exchange.",
+        "en": "Mirra Andreeva is the third teenager to win the WTA Finals singles trophy on debut at the tournament",
         "ko": "",
         "sentences": [
           {
-            "en": "Anthropic, the artificial intelligence (AI) company behind the Claude chatbot, could be valued at around $1.",
-            "ko": ""
-          },
-          {
-            "en": "3 trillion (£1 trillion) when it lists its shares for sale on New York's Nasdaq stock exchange.",
+            "en": "Mirra Andreeva is the third teenager to win the WTA Finals singles trophy on debut at the tournament",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The loss-making company says it will offer its shares for between $70 and $78 each and will raise up to $64bn when it floats this month.",
+        "en": "For Mirra Andreeva, the thought of her first WTA Finals singles campaign was so stressful that it gave her \"a little breakdown\" in a practice session before the tournament.",
         "ko": "",
         "sentences": [
           {
-            "en": "The loss-making company says it will offer its shares for between $70 and $78 each and will raise up to $64bn when it floats this month.",
+            "en": "For Mirra Andreeva, the thought of her first WTA Finals singles campaign was so stressful that it gave her \"a little breakdown\" in a practice session before the tournament.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "It would value Anthropic at between $1.1tn and $1.3tn which, although large, is below the $2tn some backers of the firm predicted in summer, according to the Financial Times.",
+        "en": "The 19-year-old may have been nervous on arrival at Indian Wells, but she leaves California as the champion, having been the standout player of the week.",
         "ko": "",
         "sentences": [
           {
-            "en": "It would value Anthropic at between $1.",
-            "ko": ""
-          },
-          {
-            "en": "1tn and $1.",
-            "ko": ""
-          },
-          {
-            "en": "3tn which, although large, is below the $2tn some backers of the firm predicted in summer, according to the Financial Times.",
+            "en": "The 19-year-old may have been nervous on arrival at Indian Wells, but she leaves California as the champion, having been the standout player of the week.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The huge valuation comes despite the company warning last month that AI could pose \"catastrophic or existential risks to humanity\".",
+        "en": "The French Open winner produced a hard-fought 7-5 6-3 victory over Elina Svitolina in Sunday's final to become the youngest champion of the event in 22 years.",
         "ko": "",
         "sentences": [
           {
-            "en": "The huge valuation comes despite the company warning last month that AI could pose \"catastrophic or existential risks to humanity\".",
+            "en": "The French Open winner produced a hard-fought 7-5 6-3 victory over Elina Svitolina in Sunday's final to become the youngest champion of the event in 22 years.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "글로벌 최신 소식: Teenager Andreeva caps stunning week with WTA Finals title",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2421,14 +2482,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+          "Teenager Andreeva caps stunning week with WTA Finals title",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_1112396009504960388",
@@ -3131,85 +3194,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "World number one Rybakina withdraws from WTA Finals",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_804116201658148156",
-    "title": "WTA chair apologises to Pegula for airing of 'diva' comment",
-    "subtitle": "WTA chair Valerie Camillo apologises to Jessica Pegula after her \"diva\" comment about Mirra Andreeva was live-streamed....",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-06",
-    "addedAt": "2026-11-07T04:16:30Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 96,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Women's Tennis Association chair Valerie Camillo has apologised to Jessica Pegula and said the live-streaming of private comments to her coach about fellow player Mirra Andreeva was \"regrettable and unacceptable\".",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Women's Tennis Association chair Valerie Camillo has apologised to Jessica Pegula and said the live-streaming of private comments to her coach about fellow player Mirra Andreeva was \"regrettable and unacceptable\".",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "American Pegula called Andreeva a \"diva\" in a private conversation with her coach after a practice session for the WTA Tour Finals on Wednesday.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "American Pegula called Andreeva a \"diva\" in a private conversation with her coach after a practice session for the WTA Tour Finals on Wednesday.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "However, the comments were aired on a live stream after the WTA failed to tell players there were microphones on practice courts.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "However, the comments were aired on a live stream after the WTA failed to tell players there were microphones on practice courts.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "World number five Pegula called the incident \"unfortunate\" and said the WTA players' council supported players' calls for more privacy.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "World number five Pegula called the incident \"unfortunate\" and said the WTA players' council supported players' calls for more privacy.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: WTA chair apologises to Pegula for airing of 'diva' comment",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "WTA chair apologises to Pegula for airing of 'diva' comment",
           "Historical retrospective",
           "Unrelated general weather"
         ],
