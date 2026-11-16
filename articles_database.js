@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_297216048563988520",
+    "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+    "subtitle": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-16",
+    "addedAt": "2026-11-16T21:32:11Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 123,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "US President Donald Trump has said he \"would certainly not mind\" seeing Jensen Huang handed back his job as allies of the former Nvidia chief executive called for him to be reinstated.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "US President Donald Trump has said he \"would certainly not mind\" seeing Jensen Huang handed back his job as allies of the former Nvidia chief executive called for him to be reinstated.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Huang resigned as boss of the AI chip giant last week after the emergence of two affairs, one of which was with a woman suspected of spying for China and another allegedly with one of his employees.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Huang resigned as boss of the AI chip giant last week after the emergence of two affairs, one of which was with a woman suspected of spying for China and another allegedly with one of his employees.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "It created a crisis for one of the world's most valuable firms, which is a key part of the AI rollout, but the BBC has been told Nvidia's board is not considering reinstating Huang.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "It created a crisis for one of the world's most valuable firms, which is a key part of the AI rollout, but the BBC has been told Nvidia's board is not considering reinstating Huang.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Meanwhile the Trump administration on Monday said it will further restrict China's ​access to AI chips from companies like Nvidia.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Meanwhile the Trump administration on Monday said it will further restrict China's ​access to AI chips from companies like Nvidia.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1001818597677009173",
     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
     "subtitle": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions....",
@@ -730,78 +807,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_403523684266587956",
-    "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-    "subtitle": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-10",
-    "addedAt": "2026-11-10T19:13:23Z",
-    "category": "tech",
+    "id": "auto_science_1033920851135098235",
+    "title": "Yellow weather warnings issued for snow as temperatures plummet",
+    "subtitle": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times....",
+    "speaker": "BBC Science",
+    "date": "2026-11-16",
+    "addedAt": "2026-11-16T21:32:12Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 107,
+    "wordCount": 117,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Anthropic, the artificial intelligence (AI) company behind the Claude chatbot, could be valued at around $1.3 trillion (£1 trillion) when it lists its shares for sale on New York's Nasdaq stock exchange.",
+        "en": "A spell of cold and wintry weather is set to grip northern areas of the UK early this week, bringing the threat of ice and hill snow.",
         "ko": "",
         "sentences": [
           {
-            "en": "Anthropic, the artificial intelligence (AI) company behind the Claude chatbot, could be valued at around $1.",
-            "ko": ""
-          },
-          {
-            "en": "3 trillion (£1 trillion) when it lists its shares for sale on New York's Nasdaq stock exchange.",
+            "en": "A spell of cold and wintry weather is set to grip northern areas of the UK early this week, bringing the threat of ice and hill snow.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The loss-making company says it will offer its shares for between $70 and $78 each and will raise up to $64bn when it floats this month.",
+        "en": "A yellow weather warning for snow comes into effect in the very early hours of Tuesday following a blast of Arctic air pushing across the UK causing temperatures to plummet.",
         "ko": "",
         "sentences": [
           {
-            "en": "The loss-making company says it will offer its shares for between $70 and $78 each and will raise up to $64bn when it floats this month.",
+            "en": "A yellow weather warning for snow comes into effect in the very early hours of Tuesday following a blast of Arctic air pushing across the UK causing temperatures to plummet.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "It would value Anthropic at between $1.1tn and $1.3tn which, although large, is below the $2tn some backers of the firm predicted in summer, according to the Financial Times.",
+        "en": "Cold health alerts for parts of northern England also remain in force from the UK Health Security Agency (UKHSA) until 09:00 GMT on Thursday.",
         "ko": "",
         "sentences": [
           {
-            "en": "It would value Anthropic at between $1.",
-            "ko": ""
-          },
-          {
-            "en": "1tn and $1.",
-            "ko": ""
-          },
-          {
-            "en": "3tn which, although large, is below the $2tn some backers of the firm predicted in summer, according to the Financial Times.",
+            "en": "Cold health alerts for parts of northern England also remain in force from the UK Health Security Agency (UKHSA) until 09:00 GMT on Thursday.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The huge valuation comes despite the company warning last month that AI could pose \"catastrophic or existential risks to humanity\".",
+        "en": "Some snow is forecast over the hills and mountains in the north over the coming days but the wintry chill will be fairly short-lived in the south, where temperatures will rebound to above average by midweek.",
         "ko": "",
         "sentences": [
           {
-            "en": "The huge valuation comes despite the company warning last month that AI could pose \"catastrophic or existential risks to humanity\".",
+            "en": "Some snow is forecast over the hills and mountains in the north over the coming days but the wintry chill will be fairly short-lived in the south, where temperatures will rebound to above average by midweek.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "글로벌 최신 소식: Yellow weather warnings issued for snow as temperatures plummet",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -809,7 +874,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+          "Yellow weather warnings issued for snow as temperatures plummet",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1512,78 +1577,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_293200993058795025",
-    "title": "The superpower battle over energy – and what it means for your bills",
-    "subtitle": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?...",
-    "speaker": "BBC Science",
-    "date": "2026-11-10",
-    "addedAt": "2026-11-10T05:42:23Z",
-    "category": "science",
+    "id": "auto_economy_297216048563988520",
+    "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+    "subtitle": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back....",
+    "speaker": "BBC Business",
+    "date": "2026-11-16",
+    "addedAt": "2026-11-16T21:32:13Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 97,
+    "wordCount": 123,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "The superpower battle over energy – and what it means for your bills",
+        "en": "US President Donald Trump has said he \"would certainly not mind\" seeing Jensen Huang handed back his job as allies of the former Nvidia chief executive called for him to be reinstated.",
         "ko": "",
         "sentences": [
           {
-            "en": "The superpower battle over energy – and what it means for your bills",
+            "en": "US President Donald Trump has said he \"would certainly not mind\" seeing Jensen Huang handed back his job as allies of the former Nvidia chief executive called for him to be reinstated.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "A gas rig in the North Sea. An oil field in Texas. A solar panel factory in China. They can feel a world away, but your energy bill says otherwise.",
+        "en": "Huang resigned as boss of the AI chip giant last week after the emergence of two affairs, one of which was with a woman suspected of spying for China and another allegedly with one of his employees.",
         "ko": "",
         "sentences": [
           {
-            "en": "A gas rig in the North Sea.",
-            "ko": ""
-          },
-          {
-            "en": "An oil field in Texas.",
-            "ko": ""
-          },
-          {
-            "en": "A solar panel factory in China.",
-            "ko": ""
-          },
-          {
-            "en": "They can feel a world away, but your energy bill says otherwise.",
+            "en": "Huang resigned as boss of the AI chip giant last week after the emergence of two affairs, one of which was with a woman suspected of spying for China and another allegedly with one of his employees.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "In January, it could jump by more than a quarter – around £460 extra a year for the typical UK household – according to the latest forecasts from the big suppliers British Gas, EDF and E.ON.",
+        "en": "It created a crisis for one of the world's most valuable firms, which is a key part of the AI rollout, but the BBC has been told Nvidia's board is not considering reinstating Huang.",
         "ko": "",
         "sentences": [
           {
-            "en": "In January, it could jump by more than a quarter – around £460 extra a year for the typical UK household – according to the latest forecasts from the big suppliers British Gas, EDF and E.",
+            "en": "It created a crisis for one of the world's most valuable firms, which is a key part of the AI rollout, but the BBC has been told Nvidia's board is not considering reinstating Huang.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "For the second time in four years, a war thousands of miles away is landing in British inboxes.",
+        "en": "Meanwhile the Trump administration on Monday said it will further restrict China's ​access to AI chips from companies like Nvidia.",
         "ko": "",
         "sentences": [
           {
-            "en": "For the second time in four years, a war thousands of miles away is landing in British inboxes.",
+            "en": "Meanwhile the Trump administration on Monday said it will further restrict China's ​access to AI chips from companies like Nvidia.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: The superpower battle over energy – and what it means for your bills",
+      "글로벌 최신 소식: Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1591,7 +1644,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "The superpower battle over energy – and what it means for your bills",
+          "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2329,83 +2382,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Poundland set for more time to secure a rescue deal as emergency talks continue",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_894952103588009607",
-    "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
-    "subtitle": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer....",
-    "speaker": "BBC Business",
-    "date": "2026-11-11",
-    "addedAt": "2026-11-11T04:19:51Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 118,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Poundland and its 11,000 employees are hopeful that the retailer's impending collapse can be delayed to allow time for a last-minute rescue deal.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Poundland and its 11,000 employees are hopeful that the retailer's impending collapse can be delayed to allow time for a last-minute rescue deal.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The discount chain has been edging towards administration after being blocked by its owners from accessing cash in its bank accounts.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The discount chain has been edging towards administration after being blocked by its owners from accessing cash in its bank accounts.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "A deadline to secure a buyer for the business is set to expire at midnight, but sources close to the situation have told the BBC that they expect more time will be given, thanks to the release of £10m in funding.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "A deadline to secure a buyer for the business is set to expire at midnight, but sources close to the situation have told the BBC that they expect more time will be given, thanks to the release of £10m in funding.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "A committee of MPs is set to question Gordon Brothers, Poundland's US owners, on Wednesday following accusations that the investment firm hopes to profit from selling off Poundland's 600 stores and stock piecemeal.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "A committee of MPs is set to question Gordon Brothers, Poundland's US owners, on Wednesday following accusations that the investment firm hopes to profit from selling off Poundland's 600 stores and stock piecemeal.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Poundland hopeful for last-minute rescue deal to stave off collapse",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Poundland hopeful for last-minute rescue deal to stave off collapse",
           "Historical retrospective",
           "Unrelated general weather"
         ],
