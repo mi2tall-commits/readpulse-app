@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_329129010001373583",
+    "title": "How new US chip restrictions on South East Asia will hit China",
+    "subtitle": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-17",
+    "addedAt": "2026-11-17T20:22:36Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 101,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "As US President Donald Trump heads to China, his administration has renewed efforts to curb Beijing's access to advanced semiconductors.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "As US President Donald Trump heads to China, his administration has renewed efforts to curb Beijing's access to advanced semiconductors.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "On Monday, Washington announced new interim rules that will increase scrutiny of  data centre operators in Singapore, Malaysia, Thailand, Indonesia and Brazil.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "On Monday, Washington announced new interim rules that will increase scrutiny of  data centre operators in Singapore, Malaysia, Thailand, Indonesia and Brazil.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The move not only restricts the export of advanced chips, but also access to their computing power, which Chinese firms currently rent abroad to train artificial intelligence (AI) models.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The move not only restricts the export of advanced chips, but also access to their computing power, which Chinese firms currently rent abroad to train artificial intelligence (AI) models.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "South East Asian countries in particular have invested heavily in data centres to power their AI ambitions - and Chinese firms seeking computing power overseas have been a key market.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "South East Asian countries in particular have invested heavily in data centres to power their AI ambitions - and Chinese firms seeking computing power overseas have been a key market.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: How new US chip restrictions on South East Asia will hit China",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "How new US chip restrictions on South East Asia will hit China",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_136136252616083321",
     "title": "The AI start-ups fixing India's broken roads and messy land records",
     "subtitle": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges....",
@@ -726,66 +803,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1095884902054127264",
-    "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-    "subtitle": "The Tamil Nadu government has ordered an internal audit of library collections across the state....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-11",
-    "addedAt": "2026-11-11T19:10:51Z",
-    "category": "tech",
+    "id": "auto_science_147712343243090657",
+    "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+    "subtitle": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony....",
+    "speaker": "BBC Science",
+    "date": "2026-11-17",
+    "addedAt": "2026-11-17T20:22:37Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 96,
+    "wordCount": 89,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "The newly opened Periyar Arivulagam library is at the centre of the allegations",
+        "en": "Watch: William and Catherine walk green carpet in Mumbai for Earthshot Prize",
         "ko": "",
         "sentences": [
           {
-            "en": "The newly opened Periyar Arivulagam library is at the centre of the allegations",
+            "en": "Watch: William and Catherine walk green carpet in Mumbai for Earthshot Prize",
             "ko": ""
           }
         ]
       },
       {
-        "en": "An Indian court has ordered an investigation into allegations that a public library in the southern state of Tamil Nadu bought hundreds of books suspected of being generated using AI.",
+        "en": "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winners of the Earthshot Prize.",
         "ko": "",
         "sentences": [
           {
-            "en": "An Indian court has ordered an investigation into allegations that a public library in the southern state of Tamil Nadu bought hundreds of books suspected of being generated using AI.",
+            "en": "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winners of the Earthshot Prize.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The controversy began after Tamil novelist Perumal Murugan raised concerns about books containing false information and questionable authorship at a newly opened library in Coimbatore city.",
+        "en": "Five award-winners were named at a ceremony in Mumbai, India, and will each receive £1m to scale up their projects.",
         "ko": "",
         "sentences": [
           {
-            "en": "The controversy began after Tamil novelist Perumal Murugan raised concerns about books containing false information and questionable authorship at a newly opened library in Coimbatore city.",
+            "en": "Five award-winners were named at a ceremony in Mumbai, India, and will each receive £1m to scale up their projects.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The Madras High Court has ordered the state's anti-corruption agency to investigate the purchases and freeze bank accounts linked to a publisher accused of supplying the books.",
+        "en": "One of the winners was a country - with Bhutan being recognised for its environmental policies that help to safeguard water supplies for nearly a fifth of the world's population.",
         "ko": "",
         "sentences": [
           {
-            "en": "The Madras High Court has ordered the state's anti-corruption agency to investigate the purchases and freeze bank accounts linked to a publisher accused of supplying the books.",
+            "en": "One of the winners was a country - with Bhutan being recognised for its environmental policies that help to safeguard water supplies for nearly a fifth of the world's population.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: New Indian mega library rocked by scandal over 'AI-generated books'",
+      "글로벌 최신 소식: William and Kate celebrate Earthshot Prize winners in Mumbai",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -793,7 +870,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "New Indian mega library rocked by scandal over 'AI-generated books'",
+          "William and Kate celebrate Earthshot Prize winners in Mumbai",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1496,66 +1573,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_194236639269876466",
-    "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-    "subtitle": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies....",
-    "speaker": "BBC Science",
-    "date": "2026-11-10",
-    "addedAt": "2026-11-10T19:13:24Z",
-    "category": "science",
+    "id": "auto_economy_948272681811844813",
+    "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+    "subtitle": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return....",
+    "speaker": "BBC Business",
+    "date": "2026-11-17",
+    "addedAt": "2026-11-17T20:22:37Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 97,
+    "wordCount": 105,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Sales of essential goods such as bottled water and canned food soared in the 10 days following the launch of the government's \"Be Ready\" emergency preparedness campaign on 22 October, research indicates.",
+        "en": "Jensen Huang said he would be \"honoured\" to return as the boss of tech giant Nvidia if the board asked him to, in his first public comments since his shock resignation.",
         "ko": "",
         "sentences": [
           {
-            "en": "Sales of essential goods such as bottled water and canned food soared in the 10 days following the launch of the government's \"Be Ready\" emergency preparedness campaign on 22 October, research indicates.",
+            "en": "Jensen Huang said he would be \"honoured\" to return as the boss of tech giant Nvidia if the board asked him to, in his first public comments since his shock resignation.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Hand sanitiser sales were up 83%, sales of bottled water rose 67% and tinned and jarred goods climbed 37%, according to data from retail research firm Worldpanel by Numerator.",
+        "en": "\"I created problems for the Board that I deeply regret. I own my mistakes completely,\" Huang said on X, days after reports he had extramarital affairs, including with an alleged Chinese spy.",
         "ko": "",
         "sentences": [
           {
-            "en": "Hand sanitiser sales were up 83%, sales of bottled water rose 67% and tinned and jarred goods climbed 37%, according to data from retail research firm Worldpanel by Numerator.",
+            "en": "\"I created problems for the Board that I deeply regret.",
+            "ko": ""
+          },
+          {
+            "en": "I own my mistakes completely,\" Huang said on X, days after reports he had extramarital affairs, including with an alleged Chinese spy.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The government's public awareness campaign encouraged people to stock up in case of disruption to essential services by severe weather or cyberattacks.",
+        "en": "He said he had an \"outpouring\" of calls from company employees, investors and others calling for him to return as CEO of Nvidia.",
         "ko": "",
         "sentences": [
           {
-            "en": "The government's public awareness campaign encouraged people to stock up in case of disruption to essential services by severe weather or cyberattacks.",
+            "en": "He said he had an \"outpouring\" of calls from company employees, investors and others calling for him to return as CEO of Nvidia.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "However, Worldpanel said that while households were stockpiling essentials, they were not panic buying.",
+        "en": "But, as the BBC reported on Monday, Nvidia's board is not considering bringing him back to lead the company.",
         "ko": "",
         "sentences": [
           {
-            "en": "However, Worldpanel said that while households were stockpiling essentials, they were not panic buying.",
+            "en": "But, as the BBC reported on Monday, Nvidia's board is not considering bringing him back to lead the company.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+      "글로벌 최신 소식: Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1563,7 +1644,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+          "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2310,66 +2391,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_784945398935870943",
-    "title": "Some under-25s should get less benefits, Milburn review to say",
-    "subtitle": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits....",
-    "speaker": "BBC Business",
-    "date": "2026-11-11",
-    "addedAt": "2026-11-12T05:28:09Z",
-    "category": "economy",
+    "id": "auto_sports_840319720724755762",
+    "title": "Rising star Fils earns first ATP Finals win",
+    "subtitle": "Rising star Arthur Fils claims his first career win at the ATP Finals by battling to a comeback victory over Rafael Jodar to remai...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-17",
+    "addedAt": "2026-11-17T20:22:38Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 108,
+    "wordCount": 105,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "Some young people could see reductions to the benefits they are entitled to, under a radical overhaul of the system to be recommended by a government-commissioned review.",
+        "en": "Arthur Fils is the first man born in 2004 or later to win a match at the ATP Finals",
         "ko": "",
         "sentences": [
           {
-            "en": "Some young people could see reductions to the benefits they are entitled to, under a radical overhaul of the system to be recommended by a government-commissioned review.",
+            "en": "Arthur Fils is the first man born in 2004 or later to win a match at the ATP Finals",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Alan Milburn's year-long report, which will be published on Tuesday, will recommend moving under-25s off the main sickness and disability benefits, the Times reported, external.",
+        "en": "Rising star Arthur Fils claimed his first career win at the ATP Finals by battling to a comeback victory over Rafael Jodar to remain in contention in Turin.",
         "ko": "",
         "sentences": [
           {
-            "en": "Alan Milburn's year-long report, which will be published on Tuesday, will recommend moving under-25s off the main sickness and disability benefits, the Times reported, external.",
+            "en": "Rising star Arthur Fils claimed his first career win at the ATP Finals by battling to a comeback victory over Rafael Jodar to remain in contention in Turin.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Milburn, a former Labour health secretary, has been tasked by the government with helping reduce the one in eight 18- to 24-year-olds in the UK who are not in education, employment or training - or \"Neet\".",
+        "en": "Fils, 22, beat 20-year-old Jodar 4-6 6-2 6-2 to become the first Frenchman to record an ATP Finals victory since Jo-Wilfried Tsonga in 2011.",
         "ko": "",
         "sentences": [
           {
-            "en": "Milburn, a former Labour health secretary, has been tasked by the government with helping reduce the one in eight 18- to 24-year-olds in the UK who are not in education, employment or training - or \"Neet\".",
+            "en": "Fils, 22, beat 20-year-old Jodar 4-6 6-2 6-2 to become the first Frenchman to record an ATP Finals victory since Jo-Wilfried Tsonga in 2011.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "He said on Wednesday night that his plans would not be \"pain-free\" and would affect both existing and new claimants.",
+        "en": "It was the youngest match by combined age at the season-ending tournament - which features the eight top-performing men - since a 21-year-old Novak Djokovic defeated a 20-year-old Juan Martin del Potro in 2008.",
         "ko": "",
         "sentences": [
           {
-            "en": "He said on Wednesday night that his plans would not be \"pain-free\" and would affect both existing and new claimants.",
+            "en": "It was the youngest match by combined age at the season-ending tournament - which features the eight top-performing men - since a 21-year-old Novak Djokovic defeated a 20-year-old Juan Martin del Potro in 2008.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Some under-25s should get less benefits, Milburn review to say",
+      "글로벌 최신 소식: Rising star Fils earns first ATP Finals win",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2377,14 +2458,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Some under-25s should get less benefits, Milburn review to say",
+          "Rising star Fils earns first ATP Finals win",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_236672751711508885",
@@ -3087,85 +3170,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Alcaraz takes revenge on Shelton to win first Paris Masters title",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_225606840654647899",
-    "title": "World number one Rybakina withdraws from WTA Finals",
-    "subtitle": "World number one Elena Rybakina withdraws from the season-ending WTA Finals because of a viral illness....",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-07",
-    "addedAt": "2026-11-08T03:59:02Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 92,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Elena Rybakina went undefeated on her way to winning the WTA Finals for the first time in 2025",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Elena Rybakina went undefeated on her way to winning the WTA Finals for the first time in 2025",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "World number one Elena Rybakina has withdrawn from the WTA Finals because of a viral illness.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "World number one Elena Rybakina has withdrawn from the WTA Finals because of a viral illness.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Rybakina triumphed at the Australian Open and the US Open in a stellar 2026 as she established herself as the top-ranked women's singles player for the first time.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Rybakina triumphed at the Australian Open and the US Open in a stellar 2026 as she established herself as the top-ranked women's singles player for the first time.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "She was set to begin her bid to emulate American great Serena Williams by becoming the first player since 2014 to win the WTA Finals in back-to-back years on Sunday.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "She was set to begin her bid to emulate American great Serena Williams by becoming the first player since 2014 to win the WTA Finals in back-to-back years on Sunday.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: World number one Rybakina withdraws from WTA Finals",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "World number one Rybakina withdraws from WTA Finals",
           "Historical retrospective",
           "Unrelated general weather"
         ],
