@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_136136252616083321",
+    "title": "The AI start-ups fixing India's broken roads and messy land records",
+    "subtitle": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-16",
+    "addedAt": "2026-11-17T06:10:51Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 91,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "At least half a dozen Indian start-ups are using AI to map and report road damage to authorities",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "At least half a dozen Indian start-ups are using AI to map and report road damage to authorities",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "In 2020, Sanjay Mandava flew down from Chicago to Chennai in southern India to resolve a personal land dispute.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "In 2020, Sanjay Mandava flew down from Chicago to Chennai in southern India to resolve a personal land dispute.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Over the next few months, he was running around between government offices to access a dozen records that would conclusively prove that the property belonged to his family.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Over the next few months, he was running around between government offices to access a dozen records that would conclusively prove that the property belonged to his family.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Just a sale deed dating back to when his parents bought the land was not enough. Authorities asked him to produce a string of other documents.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Just a sale deed dating back to when his parents bought the land was not enough.",
+            "ko": ""
+          },
+          {
+            "en": "Authorities asked him to produce a string of other documents.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: The AI start-ups fixing India's broken roads and messy land records",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "The AI start-ups fixing India's broken roads and messy land records",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_297216048563988520",
     "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
     "subtitle": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back....",
@@ -713,91 +794,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "New Indian mega library rocked by scandal over 'AI-generated books'",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_tech_908774060265687803",
-    "title": "Robot vessels take on the dangerous work of mine hunting",
-    "subtitle": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-11",
-    "addedAt": "2026-11-11T04:19:50Z",
-    "category": "tech",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 85,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
-    ],
-    "paragraphs": [
-      {
-        "en": "This South Korean vessel is among the ships damaged in the Strait of Hormuz",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "This South Korean vessel is among the ships damaged in the Strait of Hormuz",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Traversing the Strait of Hormuz remains one of the most dangerous trips a vessel can take.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Traversing the Strait of Hormuz remains one of the most dangerous trips a vessel can take.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Despite assistance from the US Navy, ships are still being attacked.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Despite assistance from the US Navy, ships are still being attacked.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "\"To transit the Strait of Hormuz you need agreement between the captain and the crew to take the risk. You need war risk insurance. And the captain has to make the final decision,\" says Steve Cameron, a former merchant navy officer and maritime consultant.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "\"To transit the Strait of Hormuz you need agreement between the captain and the crew to take the risk.",
-            "ko": ""
-          },
-          {
-            "en": "You need war risk insurance.",
-            "ko": ""
-          },
-          {
-            "en": "And the captain has to make the final decision,\" says Steve Cameron, a former merchant navy officer and maritime consultant.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Robot vessels take on the dangerous work of mine hunting",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Robot vessels take on the dangerous work of mine hunting",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1577,6 +1573,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_824577304908660027",
+    "title": "California sues OpenAI over Hugging Face attack",
+    "subtitle": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public...",
+    "speaker": "BBC Business",
+    "date": "2026-11-16",
+    "addedAt": "2026-11-17T06:10:52Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 98,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the ChatGPT-maker misled and endangered the public by developing artificial intelligence (AI) models without proper safeguards.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the ChatGPT-maker misled and endangered the public by developing artificial intelligence (AI) models without proper safeguards.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "In the lawsuit, Bonta cited the July 2026 attack on the AI platform Hugging Face by experimental OpenAI agents which accessed the internet to breach that company's internal systems.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "In the lawsuit, Bonta cited the July 2026 attack on the AI platform Hugging Face by experimental OpenAI agents which accessed the internet to breach that company's internal systems.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Bonta claimed OpenAI created a public nuisance and violated the state's unfair competition laws.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Bonta claimed OpenAI created a public nuisance and violated the state's unfair competition laws.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "OpenAI spokesperson Drew Pusateri told the BBC in a statement that Bonta's lawsuit \"appears to single out OpenAI over a challenge that's been identified by every major AI lab\".",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "OpenAI spokesperson Drew Pusateri told the BBC in a statement that Bonta's lawsuit \"appears to single out OpenAI over a challenge that's been identified by every major AI lab\".",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: California sues OpenAI over Hugging Face attack",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "California sues OpenAI over Hugging Face attack",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_297216048563988520",
     "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
     "subtitle": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back....",
@@ -2305,83 +2378,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Some under-25s should get less benefits, Milburn review to say",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_575803367081998007",
-    "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-    "subtitle": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer....",
-    "speaker": "BBC Business",
-    "date": "2026-11-11",
-    "addedAt": "2026-11-11T19:10:51Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 115,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Poundland and its 11,000 employees are hopeful that the retailer's impending collapse can be delayed to allow time for a last-minute rescue deal.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Poundland and its 11,000 employees are hopeful that the retailer's impending collapse can be delayed to allow time for a last-minute rescue deal.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The discount chain has been edging towards administration after being blocked by its owners from accessing cash in its bank accounts.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The discount chain has been edging towards administration after being blocked by its owners from accessing cash in its bank accounts.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "A deadline to secure a buyer for the business is set to expire at midnight, but sources close to the situation have told the BBC that they expect more time will be given, thanks to the release of £10m in funding.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "A deadline to secure a buyer for the business is set to expire at midnight, but sources close to the situation have told the BBC that they expect more time will be given, thanks to the release of £10m in funding.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "A committee of MPs questioned Gordon Brothers, Poundland's US owners, on Wednesday following accusations that the investment firm hopes to profit from selling off Poundland's 600 stores and stock piecemeal.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "A committee of MPs questioned Gordon Brothers, Poundland's US owners, on Wednesday following accusations that the investment firm hopes to profit from selling off Poundland's 600 stores and stock piecemeal.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Poundland set for more time to secure a rescue deal as emergency talks continue",
           "Historical retrospective",
           "Unrelated general weather"
         ],
