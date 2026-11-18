@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_827601563616004317",
+    "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+    "subtitle": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-18",
+    "addedAt": "2026-11-18T19:52:32Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 85,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Review scores for GTA 6 are a fairytale ending after years of development",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Review scores for GTA 6 are a fairytale ending after years of development",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "After 13 years of waiting, record-breaking trailers and lengthy delays, critics have given their answer to one of the year's biggest questions.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "After 13 years of waiting, record-breaking trailers and lengthy delays, critics have given their answer to one of the year's biggest questions.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Does Grand Theft Auto 6, surely the most anticipated game of all time, live up to the hype?",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Does Grand Theft Auto 6, surely the most anticipated game of all time, live up to the hype?",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Metacritic, which aggregates reviews from critics, averages it at 99 out of 100, external - tying with Nintendo's The Legend of Zelda: Ocarina of Time, which has held the record since 1998.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Metacritic, which aggregates reviews from critics, averages it at 99 out of 100, external - tying with Nintendo's The Legend of Zelda: Ocarina of Time, which has held the record since 1998.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Grand Theft Auto 6 is a masterpiece, say critics",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Grand Theft Auto 6 is a masterpiece, say critics",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_227299335283336713",
     "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
     "subtitle": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang....",
@@ -714,66 +791,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_579073738907004372",
-    "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-    "subtitle": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-13",
-    "addedAt": "2026-11-13T04:44:40Z",
-    "category": "tech",
+    "id": "auto_science_1068361117507159629",
+    "title": "The seven Anthropic founders who are about to become multi-billionaires",
+    "subtitle": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich....",
+    "speaker": "BBC Science",
+    "date": "2026-11-18",
+    "addedAt": "2026-11-18T19:52:33Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 96,
+    "wordCount": 89,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "The images Olivia Nicole saw of a home on Rightmove (l) were completely different to how the property looked in real life (r)",
+        "en": "Brother and sister Dario and Daniela Amodei are chief executive and president of Anthropic",
         "ko": "",
         "sentences": [
           {
-            "en": "The images Olivia Nicole saw of a home on Rightmove (l) were completely different to how the property looked in real life (r)",
+            "en": "Brother and sister Dario and Daniela Amodei are chief executive and president of Anthropic",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Have you ever been impressed by the pictures of a property on an estate agent's website, only to find the place looks completely different when you view it in person?",
+        "en": "In the space of just five years, Anthropic has gone from unknown start-up to tech giant, worth more than a trillion dollars.",
         "ko": "",
         "sentences": [
           {
-            "en": "Have you ever been impressed by the pictures of a property on an estate agent's website, only to find the place looks completely different when you view it in person?",
+            "en": "In the space of just five years, Anthropic has gone from unknown start-up to tech giant, worth more than a trillion dollars.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Then there's a chance that AI was used to enhance the images you saw.",
+        "en": "The company behind the AI platform Claude was formed by seven people who left rival OpenAI in 2021 and, in a matter of hours, will become multi-billionaires - on paper at least.",
         "ko": "",
         "sentences": [
           {
-            "en": "Then there's a chance that AI was used to enhance the images you saw.",
+            "en": "The company behind the AI platform Claude was formed by seven people who left rival OpenAI in 2021 and, in a matter of hours, will become multi-billionaires - on paper at least.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "From repainted walls to imaginary lawns, estate agents are increasingly using the technology to make homes seem more appealing, arguing it helps buyers visualise the potential of a place.",
+        "en": "Anthropic is floating the business on the US stock exchange and will sell its shares at between $70 - $78 each.",
         "ko": "",
         "sentences": [
           {
-            "en": "From repainted walls to imaginary lawns, estate agents are increasingly using the technology to make homes seem more appealing, arguing it helps buyers visualise the potential of a place.",
+            "en": "Anthropic is floating the business on the US stock exchange and will sell its shares at between $70 - $78 each.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "글로벌 최신 소식: The seven Anthropic founders who are about to become multi-billionaires",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -781,7 +858,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+          "The seven Anthropic founders who are about to become multi-billionaires",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1488,66 +1565,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_777846300576988741",
-    "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-    "subtitle": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this mont...",
-    "speaker": "BBC Science",
-    "date": "2026-11-11",
-    "addedAt": "2026-11-11T19:10:51Z",
-    "category": "science",
+    "id": "auto_economy_415687779288963106",
+    "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+    "subtitle": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year....",
+    "speaker": "BBC Business",
+    "date": "2026-11-18",
+    "addedAt": "2026-11-18T19:52:33Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 95,
+    "wordCount": 103,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Between 10,000 and 13,000 grizzly bears are estimated to live in British Columbia (file image)",
+        "en": "Gas and electricity bills for a typical household are forecast to jump by £443 a year from January as the inflation rate rose to its highest level in a year.",
         "ko": "",
         "sentences": [
           {
-            "en": "Between 10,000 and 13,000 grizzly bears are estimated to live in British Columbia (file image)",
+            "en": "Gas and electricity bills for a typical household are forecast to jump by £443 a year from January as the inflation rate rose to its highest level in a year.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Four grizzly bears have been killed in connection with a fatal attack on a mother and daughter in the Canadian province of British Columbia.",
+        "en": "A typical annual bill is predicted to rise by 26% in the new year, according to consultancy Cornwall Insight, ahead of the official announcement next week.",
         "ko": "",
         "sentences": [
           {
-            "en": "Four grizzly bears have been killed in connection with a fatal attack on a mother and daughter in the Canadian province of British Columbia.",
+            "en": "A typical annual bill is predicted to rise by 26% in the new year, according to consultancy Cornwall Insight, ahead of the official announcement next week.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Jennifer Balcarras, 48, and her daughter Selah Reed, 20, died earlier this month after going on an afternoon walk in a trail area in Bella Coola.",
+        "en": "Some households will get a £100 payment to help with the rising cost of living, a policy which was announced in the Budget.",
         "ko": "",
         "sentences": [
           {
-            "en": "Jennifer Balcarras, 48, and her daughter Selah Reed, 20, died earlier this month after going on an afternoon walk in a trail area in Bella Coola.",
+            "en": "Some households will get a £100 payment to help with the rising cost of living, a policy which was announced in the Budget.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The British Columbia Conservation Office Service (BCCOS) launched an investigation into their deaths and forensic testing has since confirmed a sow and her three cubs were responsible for the attack.",
+        "en": "Prices rose 3.6% in the year to October, up from 3.5% in September mainly because of higher petrol and diesel prices, official figures show.",
         "ko": "",
         "sentences": [
           {
-            "en": "The British Columbia Conservation Office Service (BCCOS) launched an investigation into their deaths and forensic testing has since confirmed a sow and her three cubs were responsible for the attack.",
+            "en": "Prices rose 3.",
+            "ko": ""
+          },
+          {
+            "en": "6% in the year to October, up from 3.",
+            "ko": ""
+          },
+          {
+            "en": "5% in September mainly because of higher petrol and diesel prices, official figures show.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+      "글로벌 최신 소식: Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1555,7 +1640,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+          "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2285,83 +2370,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_215489301120895944",
-    "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-    "subtitle": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy....",
-    "speaker": "BBC Business",
-    "date": "2026-11-12",
-    "addedAt": "2026-11-13T04:44:41Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 102,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "How could the Nvidia CEO’s affair threaten US national security?",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "How could the Nvidia CEO’s affair threaten US national security?",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Former Nvidia CEO Jensen Huang has been summoned to testify next month before a Senate committee about his alleged affair with a woman suspected of being a Chinese spy.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Former Nvidia CEO Jensen Huang has been summoned to testify next month before a Senate committee about his alleged affair with a woman suspected of being a Chinese spy.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs, in a stunning fall from grace that sent shockwaves through Silicon Valley.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs, in a stunning fall from grace that sent shockwaves through Silicon Valley.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Commerce Secretary Howard Lutnick, who is under scrutiny over exports of sensitive Nvidia AI chips to China, has also been summoned to appear before the Senate Banking Committee in December.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Commerce Secretary Howard Lutnick, who is under scrutiny over exports of sensitive Nvidia AI chips to China, has also been summoned to appear before the Senate Banking Committee in December.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
           "Historical retrospective",
           "Unrelated general weather"
         ],
