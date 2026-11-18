@@ -1,6 +1,91 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_227299335283336713",
+    "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+    "subtitle": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-18",
+    "addedAt": "2026-11-18T05:39:27Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 102,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Nvidia's quarterly sales doubled to top $100bn for the first time as the company insisted it has no plans to reinstate ousted co-founder Jensen Huang.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Nvidia's quarterly sales doubled to top $100bn for the first time as the company insisted it has no plans to reinstate ousted co-founder Jensen Huang.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "In the company's first results since Huang's dramatic exit, interim chief executive Colette Kress said it is \"business as usual\" and told investors: \"We've got this.\"",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "In the company's first results since Huang's dramatic exit, interim chief executive Colette Kress said it is \"business as usual\" and told investors: \"We've got this.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The company's quarterly sales doubled from a year earlier, reaching $115.8bn (£86.9bn), with shares in the company jumping by 4.8% in after-hours trading.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The company's quarterly sales doubled from a year earlier, reaching $115.",
+            "ko": ""
+          },
+          {
+            "en": "9bn), with shares in the company jumping by 4.",
+            "ko": ""
+          },
+          {
+            "en": "8% in after-hours trading.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Earlier on Tuesday, Huang said he would be \"honoured\" to return and lead Nvidia, having quit following alleged extramarital affairs, including one with a suspected spy for China.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Earlier on Tuesday, Huang said he would be \"honoured\" to return and lead Nvidia, having quit following alleged extramarital affairs, including one with a suspected spy for China.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_329129010001373583",
     "title": "How new US chip restrictions on South East Asia will hit China",
     "subtitle": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily....",
@@ -706,86 +791,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_806522027764148548",
-    "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-    "subtitle": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-12",
-    "addedAt": "2026-11-12T19:27:07Z",
-    "category": "tech",
+    "id": "auto_science_519587448697171270",
+    "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
+    "subtitle": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns...",
+    "speaker": "BBC Science",
+    "date": "2026-11-18",
+    "addedAt": "2026-11-18T05:39:27Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 181,
+    "wordCount": 114,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Jensen Huang, known for sporting a black leather jacket to shareholder events, appeared to have it all. He was courted by leaders in the US and China alike, worshipped by investors and seen as a loyal family man. But a rockstar approach to his personal life has ultimately led to his resignation.",
+        "en": "The UK is likely to miss legally binding climate targets if the government reduces electric vehicle (EV) targets, independent adviser the Climate Change Committee (CCC) has warned.",
         "ko": "",
         "sentences": [
           {
-            "en": "Jensen Huang, known for sporting a black leather jacket to shareholder events, appeared to have it all.",
-            "ko": ""
-          },
-          {
-            "en": "He was courted by leaders in the US and China alike, worshipped by investors and seen as a loyal family man.",
-            "ko": ""
-          },
-          {
-            "en": "But a rockstar approach to his personal life has ultimately led to his resignation.",
+            "en": "The UK is likely to miss legally binding climate targets if the government reduces electric vehicle (EV) targets, independent adviser the Climate Change Committee (CCC) has warned.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The 63-year-old has been married since 1985, long before the foundation of Nvidia, the company that propelled him to tech stardom.",
+        "en": "In a letter to Transport Secretary Heidi Alexander, the CCC argues that weakening the targets would result in \"economic and energy security costs\" and leave households \"more exposed to volatile fossil fuel prices\".",
         "ko": "",
         "sentences": [
           {
-            "en": "The 63-year-old has been married since 1985, long before the foundation of Nvidia, the company that propelled him to tech stardom.",
+            "en": "In a letter to Transport Secretary Heidi Alexander, the CCC argues that weakening the targets would result in \"economic and energy security costs\" and leave households \"more exposed to volatile fossil fuel prices\".",
             "ko": ""
           }
         ]
       },
       {
-        "en": "He is known as a workaholic and a demanding manager, with high standards for those who worked for him, which included his own children, promoted within the company. But he has seen his personal reputation go into freefall this week, undone by romantic entanglements that throw doubt on his focus and his judgement.",
+        "en": "The CCC says that switching to an electric vehicle can save a typical household around £800 a year, with fewer people benefiting if the targets were watered down.",
         "ko": "",
         "sentences": [
           {
-            "en": "He is known as a workaholic and a demanding manager, with high standards for those who worked for him, which included his own children, promoted within the company.",
-            "ko": ""
-          },
-          {
-            "en": "But he has seen his personal reputation go into freefall this week, undone by romantic entanglements that throw doubt on his focus and his judgement.",
+            "en": "The CCC says that switching to an electric vehicle can save a typical household around £800 a year, with fewer people benefiting if the targets were watered down.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "On Thursday, he resigned following back-to-back revelations of two affairs. News of the first - a relationship with a businesswoman alleged to be a Chinese spy - ricocheted around the world, raising eyebrows among investors. It was followed on Wednesday by reports that the tech boss had also had an affair with an Nvidia colleague.",
+        "en": "The warning comes after weeks of speculation that the government plans to announce changes to the EV targets. Government sources insist no decision has been made.",
         "ko": "",
         "sentences": [
           {
-            "en": "On Thursday, he resigned following back-to-back revelations of two affairs.",
+            "en": "The warning comes after weeks of speculation that the government plans to announce changes to the EV targets.",
             "ko": ""
           },
           {
-            "en": "News of the first - a relationship with a businesswoman alleged to be a Chinese spy - ricocheted around the world, raising eyebrows among investors.",
-            "ko": ""
-          },
-          {
-            "en": "It was followed on Wednesday by reports that the tech boss had also had an affair with an Nvidia colleague.",
+            "en": "Government sources insist no decision has been made.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "글로벌 최신 소식: Government risks missing climate targets if EV rules weakened, adviser warns",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -793,7 +862,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+          "Government risks missing climate targets if EV rules weakened, adviser warns",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1496,66 +1565,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_639797753612338022",
-    "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
-    "subtitle": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England....",
-    "speaker": "BBC Science",
-    "date": "2026-11-11",
-    "addedAt": "2026-11-11T04:19:51Z",
-    "category": "science",
+    "id": "auto_economy_451242700811812449",
+    "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+    "subtitle": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang....",
+    "speaker": "BBC Business",
+    "date": "2026-11-17",
+    "addedAt": "2026-11-18T05:39:27Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 104,
+    "wordCount": 102,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Plans to sell land and farms in Devon had already caused upset among tenants on the Duchy estate",
+        "en": "Nvidia's quarterly sales doubled to top $100bn for the first time as the company insisted it has no plans to reinstate ousted co-founder Jensen Huang.",
         "ko": "",
         "sentences": [
           {
-            "en": "Plans to sell land and farms in Devon had already caused upset among tenants on the Duchy estate",
+            "en": "Nvidia's quarterly sales doubled to top $100bn for the first time as the company insisted it has no plans to reinstate ousted co-founder Jensen Huang.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Plans by the Prince of Wales to sell off up to 20% of the Duchy of Cornwall could see more tenant farmers across England asked to buy their farms or move out.",
+        "en": "In the company's first results since Huang's dramatic exit, interim chief executive Colette Kress said it is \"business as usual\" and told investors: \"We've got this.\"",
         "ko": "",
         "sentences": [
           {
-            "en": "Plans by the Prince of Wales to sell off up to 20% of the Duchy of Cornwall could see more tenant farmers across England asked to buy their farms or move out.",
+            "en": "In the company's first results since Huang's dramatic exit, interim chief executive Colette Kress said it is \"business as usual\" and told investors: \"We've got this.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Up to 40 farm holdings across Devon, Cornwall, Herefordshire and the Midlands could be affected by the sale, according to the Tenant Farmers Association (TFA).",
+        "en": "The company's quarterly sales doubled from a year earlier, reaching $115.8bn (£86.9bn), with shares in the company jumping by 4.8% in after-hours trading.",
         "ko": "",
         "sentences": [
           {
-            "en": "Up to 40 farm holdings across Devon, Cornwall, Herefordshire and the Midlands could be affected by the sale, according to the Tenant Farmers Association (TFA).",
+            "en": "The company's quarterly sales doubled from a year earlier, reaching $115.",
+            "ko": ""
+          },
+          {
+            "en": "9bn), with shares in the company jumping by 4.",
+            "ko": ""
+          },
+          {
+            "en": "8% in after-hours trading.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Locals say talks over the future of nine farms on the Bradninch estate in Devon have already caused \"distress\" for some tenants who fear they cannot afford to buy.",
+        "en": "Earlier on Tuesday, Huang said he would be \"honoured\" to return and lead Nvidia, having quit following alleged extramarital affairs, including one with a suspected spy for China.",
         "ko": "",
         "sentences": [
           {
-            "en": "Locals say talks over the future of nine farms on the Bradninch estate in Devon have already caused \"distress\" for some tenants who fear they cannot afford to buy.",
+            "en": "Earlier on Tuesday, Huang said he would be \"honoured\" to return and lead Nvidia, having quit following alleged extramarital affairs, including one with a suspected spy for China.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
+      "글로벌 최신 소식: Nvidia reports bumper results as firm says it's not reinstating Huang",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1563,7 +1640,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
+          "Nvidia reports bumper results as firm says it's not reinstating Huang",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2294,86 +2371,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_806522027764148548",
-    "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-    "subtitle": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled....",
-    "speaker": "BBC Business",
-    "date": "2026-11-12",
-    "addedAt": "2026-11-12T19:27:07Z",
-    "category": "economy",
+    "id": "auto_sports_365711462213072378",
+    "title": "Ruthless Zverev through to ATP Finals knockout stage",
+    "subtitle": "World number one Alexander Zverev produces a serving masterclass to defeat Ben Shelton and qualify for the ATP Finals knockout sta...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-17",
+    "addedAt": "2026-11-18T05:39:28Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 181,
+    "wordCount": 93,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "Jensen Huang, known for sporting a black leather jacket to shareholder events, appeared to have it all. He was courted by leaders in the US and China alike, worshipped by investors and seen as a loyal family man. But a rockstar approach to his personal life has ultimately led to his resignation.",
+        "en": "Alexander Zverev has won a tour-leading 67 matches this season",
         "ko": "",
         "sentences": [
           {
-            "en": "Jensen Huang, known for sporting a black leather jacket to shareholder events, appeared to have it all.",
-            "ko": ""
-          },
-          {
-            "en": "He was courted by leaders in the US and China alike, worshipped by investors and seen as a loyal family man.",
-            "ko": ""
-          },
-          {
-            "en": "But a rockstar approach to his personal life has ultimately led to his resignation.",
+            "en": "Alexander Zverev has won a tour-leading 67 matches this season",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The 63-year-old has been married since 1985, long before the foundation of Nvidia, the company that propelled him to tech stardom.",
+        "en": "World number one Alexander Zverev produced another serving masterclass against Ben Shelton to qualify for the ATP Finals knockout stage with a match to spare.",
         "ko": "",
         "sentences": [
           {
-            "en": "The 63-year-old has been married since 1985, long before the foundation of Nvidia, the company that propelled him to tech stardom.",
+            "en": "World number one Alexander Zverev produced another serving masterclass against Ben Shelton to qualify for the ATP Finals knockout stage with a match to spare.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "He is known as a workaholic and a demanding manager, with high standards for those who worked for him, which included his own children, promoted within the company. But he has seen his personal reputation go into freefall this week, undone by romantic entanglements that throw doubt on his focus and his judgement.",
+        "en": "The German, 29, lost just two of the 31 points played on his serve in the second set as he completed an impressive 6-2 7-6 (7-4) win over fourth-ranked Shelton.",
         "ko": "",
         "sentences": [
           {
-            "en": "He is known as a workaholic and a demanding manager, with high standards for those who worked for him, which included his own children, promoted within the company.",
-            "ko": ""
-          },
-          {
-            "en": "But he has seen his personal reputation go into freefall this week, undone by romantic entanglements that throw doubt on his focus and his judgement.",
+            "en": "The German, 29, lost just two of the 31 points played on his serve in the second set as he completed an impressive 6-2 7-6 (7-4) win over fourth-ranked Shelton.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "On Thursday, he resigned following back-to-back revelations of two affairs. News of the first - a relationship with a businesswoman alleged to be a Chinese spy - ricocheted around the world, raising eyebrows among investors. It was followed on Wednesday by reports that the tech boss had also had an affair with an Nvidia colleague.",
+        "en": "The two-time champion only made 10 unforced errors and landed 25 winners in a ruthless display to reach the semi-finals at the season-ending tournament for a fifth time.",
         "ko": "",
         "sentences": [
           {
-            "en": "On Thursday, he resigned following back-to-back revelations of two affairs.",
-            "ko": ""
-          },
-          {
-            "en": "News of the first - a relationship with a businesswoman alleged to be a Chinese spy - ricocheted around the world, raising eyebrows among investors.",
-            "ko": ""
-          },
-          {
-            "en": "It was followed on Wednesday by reports that the tech boss had also had an affair with an Nvidia colleague.",
+            "en": "The two-time champion only made 10 unforced errors and landed 25 winners in a ruthless display to reach the semi-finals at the season-ending tournament for a fifth time.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "글로벌 최신 소식: Ruthless Zverev through to ATP Finals knockout stage",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2381,14 +2438,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+          "Ruthless Zverev through to ATP Finals knockout stage",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_840319720724755762",
@@ -3091,85 +3150,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Gauff opens WTA Finals with gritty win over Pegula",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_718264105329876300",
-    "title": "Alcaraz takes revenge on Shelton to win first Paris Masters title",
-    "subtitle": "Carlos Alcaraz takes revenge on Ben Shelton as the Spaniard's remarkable comeback from injury continues with victory in the final ...",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-08",
-    "addedAt": "2026-11-09T04:16:04Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 98,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Just 60 days after his comeback tournament was ended in a late-night New York blockbuster against Ben Shelton, Carlos Alcaraz took his revenge.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Just 60 days after his comeback tournament was ended in a late-night New York blockbuster against Ben Shelton, Carlos Alcaraz took his revenge.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "In doing so, the Spaniard offered the latest indication that his ascension back to the top of the men's game is nearing completion.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "In doing so, the Spaniard offered the latest indication that his ascension back to the top of the men's game is nearing completion.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Alcaraz exceeded expectations when, on his return from four months out with a wrist injury, he reached the US Open quarter-finals in September before going out in an astonishing five-set epic against rising American star Shelton.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Alcaraz exceeded expectations when, on his return from four months out with a wrist injury, he reached the US Open quarter-finals in September before going out in an astonishing five-set epic against rising American star Shelton.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "In the two months since, Alcaraz has won three titles and lost once in 17 matches.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "In the two months since, Alcaraz has won three titles and lost once in 17 matches.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Alcaraz takes revenge on Shelton to win first Paris Masters title",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Alcaraz takes revenge on Shelton to win first Paris Masters title",
           "Historical retrospective",
           "Unrelated general weather"
         ],
