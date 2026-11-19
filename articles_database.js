@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_303781081298320553",
+    "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+    "subtitle": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-18",
+    "addedAt": "2026-11-19T05:37:46Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 86,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Anthropic CEO Dario Amodei has quickly become a big name in the tech industry",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Anthropic CEO Dario Amodei has quickly become a big name in the tech industry",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Anthropic has seen its value jump to as much as $1.5tn (£1.14tn) as its shares are set to start trading on the stock market on Thursday.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Anthropic has seen its value jump to as much as $1.",
+            "ko": ""
+          },
+          {
+            "en": "14tn) as its shares are set to start trading on the stock market on Thursday.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The artificial intelligence (AI) company behind the popular chatbot Claude said its shares will be priced at $83 each when it lists on the Nasdaq, a tech-focused stock exchange based in New York.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The artificial intelligence (AI) company behind the popular chatbot Claude said its shares will be priced at $83 each when it lists on the Nasdaq, a tech-focused stock exchange based in New York.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "That will make it one of the most valuable companies in the world.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "That will make it one of the most valuable companies in the world.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_827601563616004317",
     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
     "subtitle": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype....",
@@ -705,83 +786,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_tech_17869715063950050",
-    "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-    "subtitle": "Microsoft has apologised for the issue, which it said was due to a technical failure....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-13",
-    "addedAt": "2026-11-13T19:05:57Z",
-    "category": "tech",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 109,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
-    ],
-    "paragraphs": [
-      {
-        "en": "A critical Microsoft outage lasting more than 22 hours has raised questions about how heavily vital services rely on a handful of major tech firms.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "A critical Microsoft outage lasting more than 22 hours has raised questions about how heavily vital services rely on a handful of major tech firms.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The disruption, which affected Microsoft 365 services such as Outlook, was caused by routine automated checks that took some servers offline, overloading the remaining ones with traffic.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The disruption, which affected Microsoft 365 services such as Outlook, was caused by routine automated checks that took some servers offline, overloading the remaining ones with traffic.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The recovery took nearly a full day while engineers gradually restored services, highlighting how embedded the tech giant's services are in modern society.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The recovery took nearly a full day while engineers gradually restored services, highlighting how embedded the tech giant's services are in modern society.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Flora Hamilton, executive director of the Small Business Charter, said the outage was a \"stark reminder\" of how much firms \"rely on digital systems\" - like Microsoft Outlook - \"to keep their operations running\".",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Flora Hamilton, executive director of the Small Business Charter, said the outage was a \"stark reminder\" of how much firms \"rely on digital systems\" - like Microsoft Outlook - \"to keep their operations running\".",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Microsoft outage 'stark reminder' of how much we rely on tech",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Microsoft outage 'stark reminder' of how much we rely on tech",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1565,6 +1569,87 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_303781081298320553",
+    "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+    "subtitle": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence....",
+    "speaker": "BBC Business",
+    "date": "2026-11-18",
+    "addedAt": "2026-11-19T05:37:47Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 86,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Anthropic CEO Dario Amodei has quickly become a big name in the tech industry",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Anthropic CEO Dario Amodei has quickly become a big name in the tech industry",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Anthropic has seen its value jump to as much as $1.5tn (£1.14tn) as its shares are set to start trading on the stock market on Thursday.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Anthropic has seen its value jump to as much as $1.",
+            "ko": ""
+          },
+          {
+            "en": "14tn) as its shares are set to start trading on the stock market on Thursday.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The artificial intelligence (AI) company behind the popular chatbot Claude said its shares will be priced at $83 each when it lists on the Nasdaq, a tech-focused stock exchange based in New York.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The artificial intelligence (AI) company behind the popular chatbot Claude said its shares will be priced at $83 each when it lists on the Nasdaq, a tech-focused stock exchange based in New York.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "That will make it one of the most valuable companies in the world.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "That will make it one of the most valuable companies in the world.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_415687779288963106",
     "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
     "subtitle": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year....",
@@ -2285,91 +2370,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Microsoft says services fully restored after day-long global outage",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_438891472771936397",
-    "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-    "subtitle": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers....",
-    "speaker": "BBC Business",
-    "date": "2026-11-13",
-    "addedAt": "2026-11-14T04:39:16Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 100,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Microsoft has said it is \"deeply sorry\" for the service outage to its products, including Outlook and Teams, which has caused disruption around the world.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Microsoft has said it is \"deeply sorry\" for the service outage to its products, including Outlook and Teams, which has caused disruption around the world.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Services were broadly recovering by Friday afternoon, nearly 24 hours after issues began. Microsoft said it was making \"encouraging progress\", but added it does not know when services will fully recover.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Services were broadly recovering by Friday afternoon, nearly 24 hours after issues began.",
-            "ko": ""
-          },
-          {
-            "en": "Microsoft said it was making \"encouraging progress\", but added it does not know when services will fully recover.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users. More than 430 million people use the affected products worldwide.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users.",
-            "ko": ""
-          },
-          {
-            "en": "More than 430 million people use the affected products worldwide.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
           "Historical retrospective",
           "Unrelated general weather"
         ],
