@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1084151881390176864",
+    "title": "Dutch watchdog tells people not to buy AI smart glasses",
+    "subtitle": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance...",
+    "speaker": "BBC Technology",
+    "date": "2026-11-19",
+    "addedAt": "2026-11-19T19:52:23Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 111,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "The Dutch privacy watchdog, the Autoriteit Persoonsgegevens (AP), has told people not to buy smart glasses, saying they can get things dangerously wrong.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The Dutch privacy watchdog, the Autoriteit Persoonsgegevens (AP), has told people not to buy smart glasses, saying they can get things dangerously wrong.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "It said in its tests of six glasses available on the Dutch market, the devices advised a user on how to date a child, misread medicine instructions, and claimed to have called an ambulance when they had not.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "It said in its tests of six glasses available on the Dutch market, the devices advised a user on how to date a child, misread medicine instructions, and claimed to have called an ambulance when they had not.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "While the AP is advising people not to buy the smart glasses, it stopped short of calling for them to be banned from sale.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "While the AP is advising people not to buy the smart glasses, it stopped short of calling for them to be banned from sale.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The authority is not revealing which glasses it tested, saying only that prices ranged from under €100 (£84) to over €500 and originated from different continents.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The authority is not revealing which glasses it tested, saying only that prices ranged from under €100 (£84) to over €500 and originated from different continents.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Dutch watchdog tells people not to buy AI smart glasses",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Dutch watchdog tells people not to buy AI smart glasses",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_303781081298320553",
     "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
     "subtitle": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence....",
@@ -705,87 +782,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Microsoft says services fully restored after day-long global outage",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_tech_1089798428797882587",
-    "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-    "subtitle": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-13",
-    "addedAt": "2026-11-14T04:39:15Z",
-    "category": "tech",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 110,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
-    ],
-    "paragraphs": [
-      {
-        "en": "Singapore has painstakingly cultivated a reputation as an open, business-friendly economy",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Singapore has painstakingly cultivated a reputation as an open, business-friendly economy",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "A major scandal involving Nvidia founder Jensen Huang and a suspected Chinese spy based in Singapore has cast a spotlight on the city-state's success as a global chip hub - and a location for alleged illicit trade.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "A major scandal involving Nvidia founder Jensen Huang and a suspected Chinese spy based in Singapore has cast a spotlight on the city-state's success as a global chip hub - and a location for alleged illicit trade.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "On Thursday, Huang stepped down from the US chip giant after admitting he had an affair. He was reportedly involved with a woman named Alice Huang, who ran Singaporean data centre company Megaspeed, a major buyer of Nvidia's chips.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "On Thursday, Huang stepped down from the US chip giant after admitting he had an affair.",
-            "ko": ""
-          },
-          {
-            "en": "He was reportedly involved with a woman named Alice Huang, who ran Singaporean data centre company Megaspeed, a major buyer of Nvidia's chips.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "For decades, Singapore has painstakingly cultivated a reputation as an open, business-friendly economy offering easy access to both the US and Chinese markets.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "For decades, Singapore has painstakingly cultivated a reputation as an open, business-friendly economy offering easy access to both the US and Chinese markets.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: How the Jensen Huang scandal created a headache for business-friendly Singapore",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "How the Jensen Huang scandal created a headache for business-friendly Singapore",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2379,6 +2375,85 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_sports_918817365612607586",
+    "title": "Shelton moves closer to ATP Finals last-four spot",
+    "subtitle": "Ben Shelton battles past Rafael Jodar to move within touching distance of a place in the ATP Finals last four....",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-19",
+    "addedAt": "2026-11-19T19:52:24Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 93,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "Ben Shelton reached his first Grand Slam final at this year's US Open",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Ben Shelton reached his first Grand Slam final at this year's US Open",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Ben Shelton battled past Rafael Jodar to move within touching distance of a place in the ATP Finals last four.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Ben Shelton battled past Rafael Jodar to move within touching distance of a place in the ATP Finals last four.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "US Open runner-up Shelton only lost his serve once but still had to fight for just over two hours to beat the fast-rising Spaniard 7-6 (10-8) 7-5.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "US Open runner-up Shelton only lost his serve once but still had to fight for just over two hours to beat the fast-rising Spaniard 7-6 (10-8) 7-5.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "American Shelton closed out the match with three aces in a row and then wrote \"I'll be watching, Arthur\" on the camera lens - a reference to the final game in the group.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "American Shelton closed out the match with three aces in a row and then wrote \"I'll be watching, Arthur\" on the camera lens - a reference to the final game in the group.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Shelton moves closer to ATP Finals last-four spot",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Shelton moves closer to ATP Finals last-four spot",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
+  },
+  {
     "id": "auto_sports_365711462213072378",
     "title": "Ruthless Zverev through to ATP Finals knockout stage",
     "subtitle": "World number one Alexander Zverev produces a serving masterclass to defeat Ben Shelton and qualify for the ATP Finals knockout sta...",
@@ -3079,85 +3154,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Sabalenka wins WTA Finals opener despite wayward serve",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_508173049857921913",
-    "title": "Gauff opens WTA Finals with gritty win over Pegula",
-    "subtitle": "Former champion Coco Gauff beats fellow American Jessica Pegula in her opening match of the WTA Finals at Indian Wells....",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-09",
-    "addedAt": "2026-11-09T21:51:30Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 99,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Coco Gauff battled to a three-set victory over fellow American Jessica Pegula as she made a winning start to the WTA Finals.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Coco Gauff battled to a three-set victory over fellow American Jessica Pegula as she made a winning start to the WTA Finals.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Gauff, the 2024 champion, demonstrated resilience and superb athleticism to overcome 2023 runner-up Pegula 6-4 6-7 (5-7) 6-2 at Indian Wells in California.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Gauff, the 2024 champion, demonstrated resilience and superb athleticism to overcome 2023 runner-up Pegula 6-4 6-7 (5-7) 6-2 at Indian Wells in California.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Gauff - at 22, the youngest player to appear at five consecutive WTA Finals since Martina Hingis in 2000 - last competed at the China Open in early October.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Gauff - at 22, the youngest player to appear at five consecutive WTA Finals since Martina Hingis in 2000 - last competed at the China Open in early October.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "\"To play a tournament like this with no preparation is something I've never done in my career, but I'm just really happy to get through.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "\"To play a tournament like this with no preparation is something I've never done in my career, but I'm just really happy to get through.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Gauff opens WTA Finals with gritty win over Pegula",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Gauff opens WTA Finals with gritty win over Pegula",
           "Historical retrospective",
           "Unrelated general weather"
         ],
