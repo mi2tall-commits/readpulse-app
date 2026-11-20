@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_1128418034482910828",
+    "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+    "subtitle": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-20",
+    "addedAt": "2026-11-20T05:26:06Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 96,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Sweden was among countries to report a cyber incident in which some supermarket fridge units had been hiked up in temperature",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Sweden was among countries to report a cyber incident in which some supermarket fridge units had been hiked up in temperature",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of fridges and freezers at major UK supermarkets, warehouses, restaurants, petrol stations and stadiums from hackers, the BBC has learned.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of fridges and freezers at major UK supermarkets, warehouses, restaurants, petrol stations and stadiums from hackers, the BBC has learned.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Recent waves of cyber-attacks in Europe have seen tonnes of food spoiled at hundreds of stores, causing millions of pounds of damage.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Recent waves of cyber-attacks in Europe have seen tonnes of food spoiled at hundreds of stores, causing millions of pounds of damage.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "France has blamed Iran for one of the waves of attacks that impacted its supermarkets, a claim Tehran denies.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "France has blamed Iran for one of the waves of attacks that impacted its supermarkets, a claim Tehran denies.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1084151881390176864",
     "title": "Dutch watchdog tells people not to buy AI smart glasses",
     "subtitle": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance...",
@@ -710,70 +787,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_78830445495272956",
-    "title": "Microsoft says services fully restored after day-long global outage",
-    "subtitle": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-14",
-    "addedAt": "2026-11-14T17:35:19Z",
-    "category": "tech",
+    "id": "auto_science_851335714649520842",
+    "title": "More climate money for Africa? Europe says use what's already pledged",
+    "subtitle": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with clim...",
+    "speaker": "BBC Science",
+    "date": "2026-11-20",
+    "addedAt": "2026-11-20T05:26:07Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 94,
+    "wordCount": 84,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday",
+        "en": "Africa is pushing for adaptation finance to be tripled by 2035, from an annual $40bn (£30bn)",
         "ko": "",
         "sentences": [
           {
-            "en": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday",
+            "en": "Africa is pushing for adaptation finance to be tripled by 2035, from an annual $40bn (£30bn)",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Microsoft has said its services have been fully restored after a worldwide outage affected several of its tools, causing disruption.",
+        "en": "In Uganda's northern Karamoja region, Elijah Lobur and his family now eat just one meal a day.",
         "ko": "",
         "sentences": [
           {
-            "en": "Microsoft has said its services have been fully restored after a worldwide outage affected several of its tools, causing disruption.",
+            "en": "In Uganda's northern Karamoja region, Elijah Lobur and his family now eat just one meal a day.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The tech firm said early on Saturday morning that efforts to address the underlying problem had been completed and customers using Outlook, Teams and Copilot should no longer be affected.",
+        "en": "A severe drought that began in April has destroyed crops, while food brought in from elsewhere has become increasingly unaffordable.",
         "ko": "",
         "sentences": [
           {
-            "en": "The tech firm said early on Saturday morning that efforts to address the underlying problem had been completed and customers using Outlook, Teams and Copilot should no longer be affected.",
+            "en": "A severe drought that began in April has destroyed crops, while food brought in from elsewhere has become increasingly unaffordable.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users. More than 430 million people use the affected products worldwide.",
+        "en": "\"Seven months without rain has brought us to this point where we now live in hunger,\" the 44-year-old farmer, who lives with his grandmother, wife and five children, told the BBC.",
         "ko": "",
         "sentences": [
           {
-            "en": "The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users.",
-            "ko": ""
-          },
-          {
-            "en": "More than 430 million people use the affected products worldwide.",
+            "en": "\"Seven months without rain has brought us to this point where we now live in hunger,\" the 44-year-old farmer, who lives with his grandmother, wife and five children, told the BBC.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Microsoft says services fully restored after day-long global outage",
+      "글로벌 최신 소식: More climate money for Africa? Europe says use what's already pledged",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -781,7 +854,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Microsoft says services fully restored after day-long global outage",
+          "More climate money for Africa? Europe says use what's already pledged",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1488,66 +1561,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_441290272451026204",
-    "title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
-    "subtitle": "The decline has been put down to severe restrictions placed on the substances' use....",
-    "speaker": "BBC Science",
-    "date": "2026-11-12",
-    "addedAt": "2026-11-12T05:28:09Z",
-    "category": "science",
+    "id": "auto_economy_287623834523912738",
+    "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+    "subtitle": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry....",
+    "speaker": "BBC Business",
+    "date": "2026-11-19",
+    "addedAt": "2026-11-20T05:26:07Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 104,
+    "wordCount": 110,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Old landfill and industrial sites have been major sources of the chemicals in rivers like the Mersey",
+        "en": "Anthropic has become one of the most valuable public companies in the world after its shares began trading on the stock market, taking its valuation to roughly $1.76 trillion (£1.34 trillion).",
         "ko": "",
         "sentences": [
           {
-            "en": "Old landfill and industrial sites have been major sources of the chemicals in rivers like the Mersey",
+            "en": "Anthropic has become one of the most valuable public companies in the world after its shares began trading on the stock market, taking its valuation to roughly $1.",
+            "ko": ""
+          },
+          {
+            "en": "76 trillion (£1.",
+            "ko": ""
+          },
+          {
+            "en": "34 trillion).",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Levels of the two most toxic \"forever\" chemicals in England's rivers have dropped by nearly a third over the last decade, according to new figures from the Environment Agency (EA).",
+        "en": "The artificial intelligence (AI) company's Thursday debut on the Nasdaq stock exchange was a crucial test for the industry, given the huge amount of money being poured into advancing the technology.",
         "ko": "",
         "sentences": [
           {
-            "en": "Levels of the two most toxic \"forever\" chemicals in England's rivers have dropped by nearly a third over the last decade, according to new figures from the Environment Agency (EA).",
+            "en": "The artificial intelligence (AI) company's Thursday debut on the Nasdaq stock exchange was a crucial test for the industry, given the huge amount of money being poured into advancing the technology.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The decline in the chemicals, PFOS and PFOA, has been put down to stricter restrictions on their use in products after increasing evidence emerged of their damaging impact on human health and the environment.",
+        "en": "Anthropic's shares flew past its allocation price of $83 each, showing there was plenty of excitement around AI.",
         "ko": "",
         "sentences": [
           {
-            "en": "The decline in the chemicals, PFOS and PFOA, has been put down to stricter restrictions on their use in products after increasing evidence emerged of their damaging impact on human health and the environment.",
+            "en": "Anthropic's shares flew past its allocation price of $83 each, showing there was plenty of excitement around AI.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "One expert studying the impact of the chemicals said it was \"brilliant\" to see how far the UK has come on this issue.",
+        "en": "Yet the company, which is behind AI chatbot Claude, will remain under intense scrutiny in the months ahead to answer the key question surrounding AI: is it all worth it?",
         "ko": "",
         "sentences": [
           {
-            "en": "One expert studying the impact of the chemicals said it was \"brilliant\" to see how far the UK has come on this issue.",
+            "en": "Yet the company, which is behind AI chatbot Claude, will remain under intense scrutiny in the months ahead to answer the key question surrounding AI: is it all worth it?",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Significant drop in levels of toxic 'forever' chemicals in England's rivers",
+      "글로벌 최신 소식: Anthropic becomes one of world's most valuable public companies in stock market debut",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1555,7 +1636,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
+          "Anthropic becomes one of world's most valuable public companies in stock market debut",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2294,70 +2375,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_78830445495272956",
-    "title": "Microsoft says services fully restored after day-long global outage",
-    "subtitle": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says....",
-    "speaker": "BBC Business",
-    "date": "2026-11-14",
-    "addedAt": "2026-11-14T17:35:21Z",
-    "category": "economy",
+    "id": "auto_sports_985250288964797586",
+    "title": "Unbeaten Zverev hopes to be 'pain-free' after overcoming Fils at ATP Finals",
+    "subtitle": "World number one Alexander Zverev says he will do \"everything I can to be pain-free\" after hurting his ankle during his ATP Finals...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-19",
+    "addedAt": "2026-11-20T05:26:07Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 94,
+    "wordCount": 95,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday",
+        "en": "Alexander Zverev reached three of the four Grand Slam finals this year, winning the French and US Opens",
         "ko": "",
         "sentences": [
           {
-            "en": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday",
+            "en": "Alexander Zverev reached three of the four Grand Slam finals this year, winning the French and US Opens",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Microsoft has said its services have been fully restored after a worldwide outage affected several of its tools, causing disruption.",
+        "en": "World number one Alexander Zverev said he would do \"everything I can to be pain-free\" after hurting his ankle during his ATP Finals victory over Arthur Fils.",
         "ko": "",
         "sentences": [
           {
-            "en": "Microsoft has said its services have been fully restored after a worldwide outage affected several of its tools, causing disruption.",
+            "en": "World number one Alexander Zverev said he would do \"everything I can to be pain-free\" after hurting his ankle during his ATP Finals victory over Arthur Fils.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The tech firm said early on Saturday morning that efforts to address the underlying problem had been completed and customers using Outlook, Teams and Copilot should no longer be affected.",
+        "en": "Germany's Zverev ensured he finished top of the John McEnroe Group with a 6-4 7-6 (8-6) win over Fils - a result which also sent Ben Shelton through to the semi-finals.",
         "ko": "",
         "sentences": [
           {
-            "en": "The tech firm said early on Saturday morning that efforts to address the underlying problem had been completed and customers using Outlook, Teams and Copilot should no longer be affected.",
+            "en": "Germany's Zverev ensured he finished top of the John McEnroe Group with a 6-4 7-6 (8-6) win over Fils - a result which also sent Ben Shelton through to the semi-finals.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users. More than 430 million people use the affected products worldwide.",
+        "en": "However, the French and US Open champion's serve speeds dropped throughout the match and he repeatedly gestured and grimaced.",
         "ko": "",
         "sentences": [
           {
-            "en": "The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users.",
-            "ko": ""
-          },
-          {
-            "en": "More than 430 million people use the affected products worldwide.",
+            "en": "However, the French and US Open champion's serve speeds dropped throughout the match and he repeatedly gestured and grimaced.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Microsoft says services fully restored after day-long global outage",
+      "글로벌 최신 소식: Unbeaten Zverev hopes to be 'pain-free' after overcoming Fils at ATP Finals",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2365,14 +2442,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Microsoft says services fully restored after day-long global outage",
+          "Unbeaten Zverev hopes to be 'pain-free' after overcoming Fils at ATP Finals",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_918817365612607586",
@@ -3075,85 +3154,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Raducanu to return at January's United Cup after injury lay-off",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_210503057911954871",
-    "title": "Sabalenka wins WTA Finals opener despite wayward serve",
-    "subtitle": "Aryna Sabalenka grapples with a misfiring serve as she begins her WTA Finals campaign with a tight victory over Karolina Muchova....",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-09",
-    "addedAt": "2026-11-10T05:42:24Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 88,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Aryna Sabalenka reached the WTA Finals showpiece in 2022 and 2025",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Aryna Sabalenka reached the WTA Finals showpiece in 2022 and 2025",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Aryna Sabalenka grappled with her own frustrations and a misfiring serve to begin her WTA Finals campaign with a tight victory over Karolina Muchova.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Aryna Sabalenka grappled with her own frustrations and a misfiring serve to begin her WTA Finals campaign with a tight victory over Karolina Muchova.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "World number two Sabalenka is bidding to win the season-ending title for the first time in her sixth appearance.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "World number two Sabalenka is bidding to win the season-ending title for the first time in her sixth appearance.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "With rival and world number one Elena Rybakina withdrawing on the eve of the competition, Sabalenka is arguably the favourite to triumph on the courts where she won the Indian Wells title in March.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "With rival and world number one Elena Rybakina withdrawing on the eve of the competition, Sabalenka is arguably the favourite to triumph on the courts where she won the Indian Wells title in March.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Sabalenka wins WTA Finals opener despite wayward serve",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Sabalenka wins WTA Finals opener despite wayward serve",
           "Historical retrospective",
           "Unrelated general weather"
         ],
