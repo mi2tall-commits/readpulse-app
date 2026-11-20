@@ -1,6 +1,91 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_7220651011353912",
+    "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+    "subtitle": "Other tech companies have also taken a hit as share markets broadly slump....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-20",
+    "addedAt": "2026-11-20T19:31:40Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 90,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Anthropic's shares have dropped back towards their initial price after a soaring first day on the stock market, as a wider tech sell-off deepens.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Anthropic's shares have dropped back towards their initial price after a soaring first day on the stock market, as a wider tech sell-off deepens.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The fall in tech stocks continued to weigh on markets, with the S&P 500 down more than 2% and the Dow Jones Industrial Average down 0.7% by lunchtime.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The fall in tech stocks continued to weigh on markets, with the S&P 500 down more than 2% and the Dow Jones Industrial Average down 0.",
+            "ko": ""
+          },
+          {
+            "en": "7% by lunchtime.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Both US indexes touched correction territory, a point where they are trading at 10% or more down from a recent high.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Both US indexes touched correction territory, a point where they are trading at 10% or more down from a recent high.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The tech-heavy Nasdaq Composite Index also fell more than 3.4% by the middle of trading on Friday.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The tech-heavy Nasdaq Composite Index also fell more than 3.",
+            "ko": ""
+          },
+          {
+            "en": "4% by the middle of trading on Friday.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_1128418034482910828",
     "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
     "subtitle": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe....",
@@ -710,66 +795,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_157269794854904642",
-    "title": "Italy fines Meta €805m over accessing users' photos",
-    "subtitle": "The social media giant is accused of not informing 20 million users it had access to their photos....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-14",
-    "addedAt": "2026-11-15T04:28:58Z",
-    "category": "tech",
+    "id": "auto_science_668288472590006475",
+    "title": "What are heat pumps and how much do they cost?",
+    "subtitle": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills....",
+    "speaker": "BBC Science",
+    "date": "2026-11-20",
+    "addedAt": "2026-11-20T19:31:41Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 84,
+    "wordCount": 95,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Italian regulators have fined social media giant Meta €805m (£670m; $887m) for accessing Android users' photos without their specific consent.",
+        "en": "Switching to heat pumps is seen as a key way to help meet the UK's net zero targets",
         "ko": "",
         "sentences": [
           {
-            "en": "Italian regulators have fined social media giant Meta €805m (£670m; $887m) for accessing Android users' photos without their specific consent.",
+            "en": "Switching to heat pumps is seen as a key way to help meet the UK's net zero targets",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Italy's Data Protection Authority said Meta did not properly inform about 20 million smartphone users that it had access to their photos and videos via a feature of the Facebook app.",
+        "en": "Developers will have to install heat pumps and solar panels in all new homes in England under regulations announced in March.",
         "ko": "",
         "sentences": [
           {
-            "en": "Italy's Data Protection Authority said Meta did not properly inform about 20 million smartphone users that it had access to their photos and videos via a feature of the Facebook app.",
+            "en": "Developers will have to install heat pumps and solar panels in all new homes in England under regulations announced in March.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "It has given Meta 60 days to disable the feature by default and seek users' consent separately.",
+        "en": "The changes are estimated to add £10,000 to the price of new homes, though owners will likely save money on energy bills over the long term.",
         "ko": "",
         "sentences": [
           {
-            "en": "It has given Meta 60 days to disable the feature by default and seek users' consent separately.",
+            "en": "The changes are estimated to add £10,000 to the price of new homes, though owners will likely save money on energy bills over the long term.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The fine is among the largest an Italian authority has ever imposed on a tech giant.",
+        "en": "In January, the government introduced a £15bn Warm Homes Plan to help UK households pay for green technologies as part of efforts to reduce fossil fuel use and energy bills.",
         "ko": "",
         "sentences": [
           {
-            "en": "The fine is among the largest an Italian authority has ever imposed on a tech giant.",
+            "en": "In January, the government introduced a £15bn Warm Homes Plan to help UK households pay for green technologies as part of efforts to reduce fossil fuel use and energy bills.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Italy fines Meta €805m over accessing users' photos",
+      "글로벌 최신 소식: What are heat pumps and how much do they cost?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -777,7 +862,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Italy fines Meta €805m over accessing users' photos",
+          "What are heat pumps and how much do they cost?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1484,66 +1569,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_786145351770689491",
-    "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
-    "subtitle": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey....",
-    "speaker": "BBC Science",
-    "date": "2026-11-12",
-    "addedAt": "2026-11-12T19:27:07Z",
-    "category": "science",
+    "id": "auto_economy_7220651011353912",
+    "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+    "subtitle": "Other tech companies have also taken a hit as share markets broadly slump....",
+    "speaker": "BBC Business",
+    "date": "2026-11-20",
+    "addedAt": "2026-11-20T19:31:41Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 109,
+    "wordCount": 90,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Prime Minister Andy Burnham has warned that the consensus on both science and climate change has \"gone\".",
+        "en": "Anthropic's shares have dropped back towards their initial price after a soaring first day on the stock market, as a wider tech sell-off deepens.",
         "ko": "",
         "sentences": [
           {
-            "en": "Prime Minister Andy Burnham has warned that the consensus on both science and climate change has \"gone\".",
+            "en": "Anthropic's shares have dropped back towards their initial price after a soaring first day on the stock market, as a wider tech sell-off deepens.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Addressing other world leaders and delegates at the COP31 climate summit in Turkey, he said that despite this, the UK was ready to begin a \"new era of British leadership\" on the climate change issue.",
+        "en": "The fall in tech stocks continued to weigh on markets, with the S&P 500 down more than 2% and the Dow Jones Industrial Average down 0.7% by lunchtime.",
         "ko": "",
         "sentences": [
           {
-            "en": "Addressing other world leaders and delegates at the COP31 climate summit in Turkey, he said that despite this, the UK was ready to begin a \"new era of British leadership\" on the climate change issue.",
+            "en": "The fall in tech stocks continued to weigh on markets, with the S&P 500 down more than 2% and the Dow Jones Industrial Average down 0.",
+            "ko": ""
+          },
+          {
+            "en": "7% by lunchtime.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "But environmental campaigners at the summit said the PM had to back up his warm words with stronger actions.",
+        "en": "Both US indexes touched correction territory, a point where they are trading at 10% or more down from a recent high.",
         "ko": "",
         "sentences": [
           {
-            "en": "But environmental campaigners at the summit said the PM had to back up his warm words with stronger actions.",
+            "en": "Both US indexes touched correction territory, a point where they are trading at 10% or more down from a recent high.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "In recent months, the UK government has announced policies which critics say have weakened its green credentials, such as reducing support for heat pumps, approving the Jackdaw gas field and doubling down on support for Heathrow Airport's expansion.",
+        "en": "The tech-heavy Nasdaq Composite Index also fell more than 3.4% by the middle of trading on Friday.",
         "ko": "",
         "sentences": [
           {
-            "en": "In recent months, the UK government has announced policies which critics say have weakened its green credentials, such as reducing support for heat pumps, approving the Jackdaw gas field and doubling down on support for Heathrow Airport's expansion.",
+            "en": "The tech-heavy Nasdaq Composite Index also fell more than 3.",
+            "ko": ""
+          },
+          {
+            "en": "4% by the middle of trading on Friday.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
+      "글로벌 최신 소식: Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1551,7 +1644,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
+          "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2286,78 +2379,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_483186049526543437",
-    "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
-    "subtitle": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers....",
-    "speaker": "BBC Business",
-    "date": "2026-11-15",
-    "addedAt": "2026-11-15T04:29:00Z",
-    "category": "economy",
+    "id": "auto_sports_966053695107537291",
+    "title": "Alcaraz puts aside injury concerns to take apart Cobolli",
+    "subtitle": "A ruthless Carlos Alcaraz puts aside his injury concerns to dismantle Flavio Cobolli and ensure a perfect record in the ATP Finals...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-20",
+    "addedAt": "2026-11-20T19:31:41Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 138,
+    "wordCount": 95,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "It's easy to see the appeal of a beauty advent calendar. Like many women at this time of year, Julia says she often finds herself tempted to splurge on one - especially a perfume calendar. But she takes quite an unsentimental approach.",
+        "en": "Carlos Alcaraz has never won the season-ending ATP Finals title",
         "ko": "",
         "sentences": [
           {
-            "en": "It's easy to see the appeal of a beauty advent calendar.",
-            "ko": ""
-          },
-          {
-            "en": "Like many women at this time of year, Julia says she often finds herself tempted to splurge on one - especially a perfume calendar.",
-            "ko": ""
-          },
-          {
-            "en": "But she takes quite an unsentimental approach.",
+            "en": "Carlos Alcaraz has never won the season-ending ATP Finals title",
             "ko": ""
           }
         ]
       },
       {
-        "en": "\"I always look at what's in them. If I like enough of the fragrances, I'll buy it,\" says the 39-year old, who works as a senior commercial manager in engineering.",
+        "en": "A ruthless Carlos Alcaraz put aside his injury concerns to dismantle Flavio Cobolli and ensure a perfect record in the ATP Finals group stages.",
         "ko": "",
         "sentences": [
           {
-            "en": "\"I always look at what's in them.",
-            "ko": ""
-          },
-          {
-            "en": "If I like enough of the fragrances, I'll buy it,\" says the 39-year old, who works as a senior commercial manager in engineering.",
+            "en": "A ruthless Carlos Alcaraz put aside his injury concerns to dismantle Flavio Cobolli and ensure a perfect record in the ATP Finals group stages.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Luxury advent calendars are supposed to offer the thrill of a surprise but, for Julia, it is more important she actually wants the items inside - a thought that is also striking more and more customers in the wake of the scandal over the Skims calendar.",
+        "en": "Spain's Alcaraz hurt his left hamstring in his previous match against Daniil Medvedev and had a scan on the injury on Thursday.",
         "ko": "",
         "sentences": [
           {
-            "en": "Luxury advent calendars are supposed to offer the thrill of a surprise but, for Julia, it is more important she actually wants the items inside - a thought that is also striking more and more customers in the wake of the scandal over the Skims calendar.",
+            "en": "Spain's Alcaraz hurt his left hamstring in his previous match against Daniil Medvedev and had a scan on the injury on Thursday.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Customers likened the contents of Kim Kardashian's Skims calendar to something you would find down the back of a sofa",
+        "en": "He arrived for his match against Cobolli with strapping on his upper-left leg - as well as tape on his right knee and a sleeve on his right arm - but was brutally efficient in a 6-4 6-1 win.",
         "ko": "",
         "sentences": [
           {
-            "en": "Customers likened the contents of Kim Kardashian's Skims calendar to something you would find down the back of a sofa",
+            "en": "He arrived for his match against Cobolli with strapping on his upper-left leg - as well as tape on his right knee and a sleeve on his right arm - but was brutally efficient in a 6-4 6-1 win.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Beauty advent calendars can cost hundreds - but are they value for money?",
+      "글로벌 최신 소식: Alcaraz puts aside injury concerns to take apart Cobolli",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2365,14 +2446,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Beauty advent calendars can cost hundreds - but are they value for money?",
+          "Alcaraz puts aside injury concerns to take apart Cobolli",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_985250288964797586",
@@ -3075,85 +3158,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Paralympic medallist Shuker ends 24-year tennis career",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_467713837660607750",
-    "title": "Raducanu to return at January's United Cup after injury lay-off",
-    "subtitle": "Emma Raducanu will make her return to tennis in the United Cup team competition in Australia in the first week of 2027....",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-11",
-    "addedAt": "2026-11-11T19:10:52Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 86,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Emma Raducanu missed Wimbledon and the US Open through injury",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Emma Raducanu missed Wimbledon and the US Open through injury",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Emma Raducanu will make her return to tennis in the United Cup team competition in Australia in the first week of 2027.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Emma Raducanu will make her return to tennis in the United Cup team competition in Australia in the first week of 2027.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Britain's 2021 US Open champion has not played since June because of a stress fracture of the shin.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Britain's 2021 US Open champion has not played since June because of a stress fracture of the shin.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Raducanu was beaten by Croatia’s Donna Vekic in her first grass-court final at Queen's Club on 14 June, but had to pull out of Wimbledon on the eve of her opening match just 14 days later.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Raducanu was beaten by Croatia’s Donna Vekic in her first grass-court final at Queen's Club on 14 June, but had to pull out of Wimbledon on the eve of her opening match just 14 days later.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Raducanu to return at January's United Cup after injury lay-off",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Raducanu to return at January's United Cup after injury lay-off",
           "Historical retrospective",
           "Unrelated general weather"
         ],
