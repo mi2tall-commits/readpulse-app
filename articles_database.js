@@ -799,6 +799,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_918817916683508025",
+    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "subtitle": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement....",
+    "speaker": "BBC Science",
+    "date": "2026-11-21",
+    "addedAt": "2026-11-21T18:36:48Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 116,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Panama's Environment Minister is pushing for language on fossil fuels to be in the final agreement",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Panama's Environment Minister is pushing for language on fossil fuels to be in the final agreement",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Negotiations at the COP31 UN climate summit in Turkey are in deadlock, having run more than 24 hours into overtime as countries remain unable to agree on a new global climate deal.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Negotiations at the COP31 UN climate summit in Turkey are in deadlock, having run more than 24 hours into overtime as countries remain unable to agree on a new global climate deal.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "In a late intervention on Friday, a group of countries led by France and Panama pushed back against the draft agreement which included no reference to reducing the world's demand for fossil fuels.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "In a late intervention on Friday, a group of countries led by France and Panama pushed back against the draft agreement which included no reference to reducing the world's demand for fossil fuels.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "This still remains the main sticking point, along with a push from the Africa Group to get commitments on more money for adaptation - but the EU has previously said it would not support this.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "This still remains the main sticking point, along with a push from the Africa Group to get commitments on more money for adaptation - but the EU has previously said it would not support this.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_630244353507908615",
     "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
     "subtitle": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare co...",
@@ -1491,83 +1568,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "How to spot November's planetary parade in the pre-dawn sky",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_science_269851352271634053",
-    "title": "Summer heatwave put bin crews lives at risk, says council worker",
-    "subtitle": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed....",
-    "speaker": "BBC Science",
-    "date": "2026-11-13",
-    "addedAt": "2026-11-13T19:05:57Z",
-    "category": "science",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 87,
-    "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Some bin collections were missed partly because of the heatwave",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Some bin collections were missed partly because of the heatwave",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Some bin collections were missed over the summer in a county partly because the heatwave became so serious it posed a risk to the lives of workers, a council worker has said.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Some bin collections were missed over the summer in a county partly because the heatwave became so serious it posed a risk to the lives of workers, a council worker has said.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Flintshire County Council's Chris Goddard said crews faced a \"perfect storm\" of challenges during the UK's record-breaking hot weather, causing a spate of widespread missed collections.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Flintshire County Council's Chris Goddard said crews faced a \"perfect storm\" of challenges during the UK's record-breaking hot weather, causing a spate of widespread missed collections.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "During the summer, drought was declared in all of Wales and wildfires caused devastation in parts of the country.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "During the summer, drought was declared in all of Wales and wildfires caused devastation in parts of the country.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Summer heatwave put bin crews lives at risk, says council worker",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Summer heatwave put bin crews lives at risk, says council worker",
           "Historical retrospective",
           "Unrelated general weather"
         ],
