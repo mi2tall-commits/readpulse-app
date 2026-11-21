@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_654685532738875035",
+    "title": "Can AI really help spot Black Friday deals? We put it to the test",
+    "subtitle": "We put four AI models to the test to see if they could save us money on a new TV....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-21",
+    "addedAt": "2026-11-21T05:18:08Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 89,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Whether it's scrolling through endless choice, spotting fake reviews, or working out if a \"deal\" is a deal at all, Black Friday sums up a lot of online woes.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Whether it's scrolling through endless choice, spotting fake reviews, or working out if a \"deal\" is a deal at all, Black Friday sums up a lot of online woes.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Retailers promise bargains - but the sheer number of offers can leave us feeling no closer to finding the best deal.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Retailers promise bargains - but the sheer number of offers can leave us feeling no closer to finding the best deal.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "It's an area where generative AI products, such as ChatGPT, Claude and Gemini, have promised to help.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "It's an area where generative AI products, such as ChatGPT, Claude and Gemini, have promised to help.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "But are they any good at finding Black Friday deals? We had a go ourselves a week ahead of the big day.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "But are they any good at finding Black Friday deals?",
+            "ko": ""
+          },
+          {
+            "en": "We had a go ourselves a week ahead of the big day.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Can AI really help spot Black Friday deals? We put it to the test",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Can AI really help spot Black Friday deals? We put it to the test",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_7220651011353912",
     "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
     "subtitle": "Other tech companies have also taken a hit as share markets broadly slump....",
@@ -718,66 +799,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1001818597677009173",
-    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "subtitle": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-15",
-    "addedAt": "2026-11-16T04:25:50Z",
-    "category": "tech",
+    "id": "auto_science_630244353507908615",
+    "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
+    "subtitle": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare co...",
+    "speaker": "BBC Science",
+    "date": "2026-11-20",
+    "addedAt": "2026-11-21T05:18:08Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 112,
+    "wordCount": 88,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "The Nvidia scandal has sent shockwaves through Silicon Valley as well as the political establishment",
+        "en": "Flames engulfed Hudson Valley farm as 200 first responders arrived at the scene",
         "ko": "",
         "sentences": [
           {
-            "en": "The Nvidia scandal has sent shockwaves through Silicon Valley as well as the political establishment",
+            "en": "Flames engulfed Hudson Valley farm as 200 first responders arrived at the scene",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Alice Huang, a suspected China spy who has been linked to Nvidia's former boss Jensen Huang, left her executive role at Megaspeed in August last year, the  company says.",
+        "en": "A fire broke out at one of the largest foie gras farms in the US on Thursday, killing an undetermined number of birds.",
         "ko": "",
         "sentences": [
           {
-            "en": "Alice Huang, a suspected China spy who has been linked to Nvidia's former boss Jensen Huang, left her executive role at Megaspeed in August last year, the  company says.",
+            "en": "A fire broke out at one of the largest foie gras farms in the US on Thursday, killing an undetermined number of birds.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Jensen Huang resigned as chief executive of the AI chip-making giant Nvidia after it emerged he had allegedly had affairs with Alice Huang as well as with one of his employees.",
+        "en": "The blaze engulfed several barns at Hudson Valley Farms in upstate New York before firefighters could get inside. No information has been provided as to what caused the fire.",
         "ko": "",
         "sentences": [
           {
-            "en": "Jensen Huang resigned as chief executive of the AI chip-making giant Nvidia after it emerged he had allegedly had affairs with Alice Huang as well as with one of his employees.",
+            "en": "The blaze engulfed several barns at Hudson Valley Farms in upstate New York before firefighters could get inside.",
+            "ko": ""
+          },
+          {
+            "en": "No information has been provided as to what caused the fire.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Megaspeed is the biggest buyer of Nvidia chips in South East Asia and the scandal at Nvidia has raised questions about the possibility that high-end AI chips may have ended up in China despite US export restrictions.",
+        "en": "Crews managed to rescue hundreds of young birds and hatchlings, and no workers or first responders were injured, according to local news outlets.",
         "ko": "",
         "sentences": [
           {
-            "en": "Megaspeed is the biggest buyer of Nvidia chips in South East Asia and the scandal at Nvidia has raised questions about the possibility that high-end AI chips may have ended up in China despite US export restrictions.",
+            "en": "Crews managed to rescue hundreds of young birds and hatchlings, and no workers or first responders were injured, according to local news outlets.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "글로벌 최신 소식: Birds killed in blaze at one of the largest foie gras farms in the US",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -785,7 +870,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "Birds killed in blaze at one of the largest foie gras farms in the US",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1492,66 +1577,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_884034069780586304",
-    "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
-    "subtitle": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks....",
-    "speaker": "BBC Science",
-    "date": "2026-11-12",
-    "addedAt": "2026-11-13T04:44:41Z",
-    "category": "science",
+    "id": "auto_economy_199117270424479563",
+    "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "subtitle": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory....",
+    "speaker": "BBC Business",
+    "date": "2026-11-20",
+    "addedAt": "2026-11-21T05:18:09Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 123,
+    "wordCount": 113,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Jean Powell was temporarily staying in one of Monmouth Wetherspoons' guest rooms while her flat was being refurbished after it was flooded a year ago",
+        "en": "Anthropic's shares have dropped back towards their initial price after a soaring first day on the stock market, as a wider tech sell-off dragged markets down.",
         "ko": "",
         "sentences": [
           {
-            "en": "Jean Powell was temporarily staying in one of Monmouth Wetherspoons' guest rooms while her flat was being refurbished after it was flooded a year ago",
+            "en": "Anthropic's shares have dropped back towards their initial price after a soaring first day on the stock market, as a wider tech sell-off dragged markets down.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "When neighbours hammered on Jean Powell's door and evacuated her to safety because the nearby river had burst its banks and swamped her town, little did she know she would never return home.",
+        "en": "The sell-off comes as concerns remain over the speed and size of artificial intelligence investment, but also as some large companies including Nvidia and SpaceX faced specific issues that worried investors.",
         "ko": "",
         "sentences": [
           {
-            "en": "When neighbours hammered on Jean Powell's door and evacuated her to safety because the nearby river had burst its banks and swamped her town, little did she know she would never return home.",
+            "en": "The sell-off comes as concerns remain over the speed and size of artificial intelligence investment, but also as some large companies including Nvidia and SpaceX faced specific issues that worried investors.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Jean sought a 10-month refuge at her local Wetherspoons but kept asking when she could go back to her flat, which was flooded when the River Monnow hit 18-times its normal level in south Wales last November.",
+        "en": "Those pressures combined to weigh on US markets through Friday, with all key US indexes closing sharply down on the day, furthering earlier falls over the week.",
         "ko": "",
         "sentences": [
           {
-            "en": "Jean sought a 10-month refuge at her local Wetherspoons but kept asking when she could go back to her flat, which was flooded when the River Monnow hit 18-times its normal level in south Wales last November.",
+            "en": "Those pressures combined to weigh on US markets through Friday, with all key US indexes closing sharply down on the day, furthering earlier falls over the week.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "But the 95-year-old never got to go back home and died in September - one of those who suffered a personal toll from the effects of being flooded.",
+        "en": "The S&P 500 and the Dow Jones Industrial Average were pushed into correction territory, a point where they are trading at 10% or more down from a recent high.",
         "ko": "",
         "sentences": [
           {
-            "en": "But the 95-year-old never got to go back home and died in September - one of those who suffered a personal toll from the effects of being flooded.",
+            "en": "The S&P 500 and the Dow Jones Industrial Average were pushed into correction territory, a point where they are trading at 10% or more down from a recent high.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
+      "글로벌 최신 소식: Tech stock sell-off drags markets down as Anthropic shares slide",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1559,7 +1644,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
+          "Tech stock sell-off drags markets down as Anthropic shares slide",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2302,66 +2387,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_1001818597677009173",
-    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "subtitle": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions....",
-    "speaker": "BBC Business",
-    "date": "2026-11-15",
-    "addedAt": "2026-11-15T18:24:20Z",
-    "category": "economy",
+    "id": "auto_sports_316171726147238470",
+    "title": "'Right time' for Smith exit - but Murray not ready for role",
+    "subtitle": "Leon Smith steps down as Britain's Davis Cup captain after almost 17 years, but \"standout candidate\" Andy Murray is unlikely to re...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-20",
+    "addedAt": "2026-11-21T05:18:09Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 111,
+    "wordCount": 106,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "The Nvidia scandal has sent shockwaves through Silicon Valley as well as the political establishment",
+        "en": "Leon Smith was Andy Murray's childhood coach before taking over as Britain's Davis Cup captain in 2010",
         "ko": "",
         "sentences": [
           {
-            "en": "The Nvidia scandal has sent shockwaves through Silicon Valley as well as the political establishment",
+            "en": "Leon Smith was Andy Murray's childhood coach before taking over as Britain's Davis Cup captain in 2010",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Alice Huang, a suspected China spy who has been linked to Nvidia's former boss Jensen Huang, left her executive role at Megaspeed in August last year, the  company says.",
+        "en": "Great Britain's Davis Cup-winning captain Leon Smith says it is the \"right time\" to leave the role after almost 17 years - although Andy Murray is not ready to replace him.",
         "ko": "",
         "sentences": [
           {
-            "en": "Alice Huang, a suspected China spy who has been linked to Nvidia's former boss Jensen Huang, left her executive role at Megaspeed in August last year, the  company says.",
+            "en": "Great Britain's Davis Cup-winning captain Leon Smith says it is the \"right time\" to leave the role after almost 17 years - although Andy Murray is not ready to replace him.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Jensen Huang resigned as chief executive of the AI chip-making giant Nvidia after it emerged he had allegedly had affairs with Alice Huang as well as with one of his employees.",
+        "en": "Smith was appointed in 2010 and guided the British men's team to Davis Cup victory in 2015 - the nation's first win in the event since 1936.",
         "ko": "",
         "sentences": [
           {
-            "en": "Jensen Huang resigned as chief executive of the AI chip-making giant Nvidia after it emerged he had allegedly had affairs with Alice Huang as well as with one of his employees.",
+            "en": "Smith was appointed in 2010 and guided the British men's team to Davis Cup victory in 2015 - the nation's first win in the event since 1936.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Megaspeed is the biggest buyer of Nvidia chips in south-east Asia and the scandal at Nvidia has raised questions about the possibility that high-end AI chips may have ended up in China despite US export restrictions.",
+        "en": "The 50-year-old Scot's successor has not yet been appointed, but the Lawn Tennis Association (LTA) has spoken to potential candidates and hopes to announce the new captain as soon as possible.",
         "ko": "",
         "sentences": [
           {
-            "en": "Megaspeed is the biggest buyer of Nvidia chips in south-east Asia and the scandal at Nvidia has raised questions about the possibility that high-end AI chips may have ended up in China despite US export restrictions.",
+            "en": "The 50-year-old Scot's successor has not yet been appointed, but the Lawn Tennis Association (LTA) has spoken to potential candidates and hopes to announce the new captain as soon as possible.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "글로벌 최신 소식: 'Right time' for Smith exit - but Murray not ready for role",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2369,14 +2454,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "'Right time' for Smith exit - but Murray not ready for role",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_966053695107537291",
@@ -3079,85 +3166,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Sabalenka's season ended by Svitolina at WTA Finals",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_180011899561519734",
-    "title": "Paralympic medallist Shuker ends 24-year tennis career",
-    "subtitle": "British wheelchair tennis player Lucy Shuker retires after 24 years as a professional and three Paralympic medals....",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-12",
-    "addedAt": "2026-11-12T19:27:07Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 85,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Lucy Shuker ends her career with a combined 139 singles and doubles titles",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Lucy Shuker ends her career with a combined 139 singles and doubles titles",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "British wheelchair tennis player Lucy Shuker has retired after 24 years as a professional and three Paralympic medals.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "British wheelchair tennis player Lucy Shuker has retired after 24 years as a professional and three Paralympic medals.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The 46-year-old represented GB at five consecutive Paralympics and won one silver medal and two bronze between 2012 and 2020, in the women's doubles alongside Jordanne Whiley.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The 46-year-old represented GB at five consecutive Paralympics and won one silver medal and two bronze between 2012 and 2020, in the women's doubles alongside Jordanne Whiley.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "A nine-time Grand Slam finalist and seven-time World Team Cup medalist, Shuker announced during Wimbledon this year that she would retire at the end of the season.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "A nine-time Grand Slam finalist and seven-time World Team Cup medalist, Shuker announced during Wimbledon this year that she would retire at the end of the season.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Paralympic medallist Shuker ends 24-year tennis career",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Paralympic medallist Shuker ends 24-year tennis career",
           "Historical retrospective",
           "Unrelated general weather"
         ],
