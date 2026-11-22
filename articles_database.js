@@ -799,6 +799,87 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_489436691777792013",
+    "title": "Will COP31 end with a new global climate deal?",
+    "subtitle": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey....",
+    "speaker": "BBC Science",
+    "date": "2026-11-21",
+    "addedAt": "2026-11-22T04:44:23Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 86,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Will COP31 end with a new global climate deal? Video, 00:01:20Will COP31 end with a new global climate deal?",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Will COP31 end with a new global climate deal?",
+            "ko": ""
+          },
+          {
+            "en": "Video, 00:01:20Will COP31 end with a new global climate deal?",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Up Next. Wes Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv. Video, 00:01:40Wes Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Wes Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "What the new UK-EU deal could mean for future post-Brexit relations. Video, 00:01:42What the new UK-EU deal could mean for future post-Brexit relations",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "What the new UK-EU deal could mean for future post-Brexit relations.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Cost of living protests sweep across Europe. Video, 00:01:08Cost of living protests sweep across Europe",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Cost of living protests sweep across Europe.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Will COP31 end with a new global climate deal?",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Will COP31 end with a new global climate deal?",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_918817916683508025",
     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
     "subtitle": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement....",
@@ -1491,83 +1572,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "SpaceX successfully catches top of huge Starship rocket for first time",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_science_974242897974261723",
-    "title": "How to spot November's planetary parade in the pre-dawn sky",
-    "subtitle": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November....",
-    "speaker": "BBC Science",
-    "date": "2026-11-14",
-    "addedAt": "2026-11-14T17:35:20Z",
-    "category": "science",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 86,
-    "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Stargazers are being treated to a diagonal parade of four planets in the pre-dawn sky throughout November.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Stargazers are being treated to a diagonal parade of four planets in the pre-dawn sky throughout November.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Mercury, Venus, Mars and Jupiter will all be visible to the naked eye in the south-eastern to eastern sky.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Mercury, Venus, Mars and Jupiter will all be visible to the naked eye in the south-eastern to eastern sky.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Particularly notable will be the line-up on Monday 16 November when Mars and Jupiter will appear exceptionally close together, according to the Royal Museums Greenwich.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Particularly notable will be the line-up on Monday 16 November when Mars and Jupiter will appear exceptionally close together, according to the Royal Museums Greenwich.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "From 24 November, a full Moon - the first of a run of four supermoons - will also join the planets in the morning sky.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "From 24 November, a full Moon - the first of a run of four supermoons - will also join the planets in the morning sky.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: How to spot November's planetary parade in the pre-dawn sky",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "How to spot November's planetary parade in the pre-dawn sky",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2387,6 +2391,85 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_sports_831932161684208164",
+    "title": "Alcaraz battles back against Shelton to reach final",
+    "subtitle": "Carlos Alcaraz will have the chance to end his wait for a first ATP Finals title after completing a superb comeback victory over B...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-21",
+    "addedAt": "2026-11-22T04:44:23Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 89,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "Carlos Alcaraz is through to the 39th tour-level final of his career",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Carlos Alcaraz is through to the 39th tour-level final of his career",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Carlos Alcaraz will face world number one Alexander Zverev for the ATP Finals title after completing a superb comeback victory against Ben Shelton.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Carlos Alcaraz will face world number one Alexander Zverev for the ATP Finals title after completing a superb comeback victory against Ben Shelton.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The indomitable Spaniard recovered from a flat start to outlast Shelton 3-6 6-3 7-6 (7-1) and secure a return to the showpiece, 12 months after losing to Jannik Sinner.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The indomitable Spaniard recovered from a flat start to outlast Shelton 3-6 6-3 7-6 (7-1) and secure a return to the showpiece, 12 months after losing to Jannik Sinner.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Alcaraz again competed with strapping around his upper-left leg having injured his hamstring earlier this week, but produced his best tennis when it mattered most.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Alcaraz again competed with strapping around his upper-left leg having injured his hamstring earlier this week, but produced his best tennis when it mattered most.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Alcaraz battles back against Shelton to reach final",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Alcaraz battles back against Shelton to reach final",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
+  },
+  {
     "id": "auto_sports_316171726147238470",
     "title": "'Right time' for Smith exit - but Murray not ready for role",
     "subtitle": "Leon Smith steps down as Britain's Davis Cup captain after almost 17 years, but \"standout candidate\" Andy Murray is unlikely to re...",
@@ -3087,85 +3170,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Svitolina races into WTA Finals showpiece against Andreeva",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_265711337081397633",
-    "title": "Sabalenka's season ended by Svitolina at WTA Finals",
-    "subtitle": "Aryna Sabalenka's season ends in disappointment as Elina Svitolina beats the former world number one to claim her place in the kno...",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-14",
-    "addedAt": "2026-11-14T04:39:17Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 106,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Aryna Sabalenka had not failed to reach the last four at the WTA Finals since 2021",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Aryna Sabalenka had not failed to reach the last four at the WTA Finals since 2021",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Aryna Sabalenka's season ended in disappointment as Elina Svitolina beat the former world number one to claim her place in the knockout stage at the WTA Finals.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Aryna Sabalenka's season ended in disappointment as Elina Svitolina beat the former world number one to claim her place in the knockout stage at the WTA Finals.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Sabalenka took her frustration out on her racquet and reacted to losing a point by crouching to the ground at the back of the court as a semi-final place slipped away.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Sabalenka took her frustration out on her racquet and reacted to losing a point by crouching to the ground at the back of the court as a semi-final place slipped away.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The Belarusian was able to force a deciding set after unravelling in the latter stages of the first, but lost the final six games in slumping to a 6-3 3-6 6-1 loss.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The Belarusian was able to force a deciding set after unravelling in the latter stages of the first, but lost the final six games in slumping to a 6-3 3-6 6-1 loss.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Sabalenka's season ended by Svitolina at WTA Finals",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Sabalenka's season ended by Svitolina at WTA Finals",
           "Historical retrospective",
           "Unrelated general weather"
         ],
