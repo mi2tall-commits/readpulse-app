@@ -799,6 +799,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_208142292298953855",
+    "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+    "subtitle": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun....",
+    "speaker": "BBC Science",
+    "date": "2026-11-22",
+    "addedAt": "2026-11-22T18:57:14Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 113,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "After an eight-year journey travelling almost six billion miles (10bn km), a spacecraft called BepiColombo has arrived at its final destination and is now in orbit around Mercury.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "After an eight-year journey travelling almost six billion miles (10bn km), a spacecraft called BepiColombo has arrived at its final destination and is now in orbit around Mercury.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "It‘s operating in an extremely hostile environment: Mercury is the closest planet to the Sun and temperatures can reach a fierce 430C and then plunge to -180C, and it is constantly blasted with intense solar radiation.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "It‘s operating in an extremely hostile environment: Mercury is the closest planet to the Sun and temperatures can reach a fierce 430C and then plunge to -180C, and it is constantly blasted with intense solar radiation.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Until now, the planet has been little explored but the hope is this mission will solve some of Mercury's major mysteries.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Until now, the planet has been little explored but the hope is this mission will solve some of Mercury's major mysteries.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "These include uncovering why there is ice in its craters despite its proximity to the Sun, and understanding the mysterious hollows that are dotted all over its surface.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "These include uncovering why there is ice in its craters despite its proximity to the Sun, and understanding the mysterious hollows that are dotted all over its surface.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_489436691777792013",
     "title": "Will COP31 end with a new global climate deal?",
     "subtitle": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey....",
@@ -1504,66 +1581,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_406537949696405944",
-    "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-    "subtitle": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”....",
-    "speaker": "BBC Science",
-    "date": "2026-11-14",
-    "addedAt": "2026-11-15T04:28:58Z",
-    "category": "science",
+    "id": "auto_economy_304314785358564771",
+    "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+    "subtitle": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new yea...",
+    "speaker": "BBC Business",
+    "date": "2026-11-22",
+    "addedAt": "2026-11-22T18:57:14Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 87,
+    "wordCount": 125,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+        "en": "The boss of British Gas owner Centrica says he is \"hugely concerned\" about the impact the expected jump in energy bills in January will have on consumers.",
         "ko": "",
         "sentences": [
           {
-            "en": "'Can you believe it?",
+            "en": "The boss of British Gas owner Centrica says he is \"hugely concerned\" about the impact the expected jump in energy bills in January will have on consumers.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "SpaceX has successfully caught the top part of its huge Starship rocket for the first time, after a flight lasting twenty-two and a half hours.",
+        "en": "Chris O'Shea told the BBC he thought the number of people unable or unwilling to pay their energy bills would rise when prices go up in the new year.",
         "ko": "",
         "sentences": [
           {
-            "en": "SpaceX has successfully caught the top part of its huge Starship rocket for the first time, after a flight lasting twenty-two and a half hours.",
+            "en": "Chris O'Shea told the BBC he thought the number of people unable or unwilling to pay their energy bills would rise when prices go up in the new year.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The rocket returned to Earth and hovered near its launch tower whose mechanical arms - nicknamed chopsticks - then secured it.",
+        "en": "The new energy price cap to take effect from January will be announced on Wednesday and consultancy Cornwall Insight has forecast it will jump by £443 a year for a typical household.",
         "ko": "",
         "sentences": [
           {
-            "en": "The rocket returned to Earth and hovered near its launch tower whose mechanical arms - nicknamed chopsticks - then secured it.",
+            "en": "The new energy price cap to take effect from January will be announced on Wednesday and consultancy Cornwall Insight has forecast it will jump by £443 a year for a typical household.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The company had hoped to catch the bottom part of the rocket as well, but this was aborted a few minutes after the launch on Friday.",
+        "en": "The government has said some households will get £100 to help with energy bills, but Citizens Advice said it was a \"drop in the ocean\" while one pressure group called for action on \"inflated energy firm profits\".",
         "ko": "",
         "sentences": [
           {
-            "en": "The company had hoped to catch the bottom part of the rocket as well, but this was aborted a few minutes after the launch on Friday.",
+            "en": "The government has said some households will get £100 to help with energy bills, but Citizens Advice said it was a \"drop in the ocean\" while one pressure group called for action on \"inflated energy firm profits\".",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: SpaceX successfully catches top of huge Starship rocket for first time",
+      "글로벌 최신 소식: Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1571,7 +1648,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "SpaceX successfully catches top of huge Starship rocket for first time",
+          "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2314,66 +2391,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_274677687753992399",
-    "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-    "subtitle": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal....",
-    "speaker": "BBC Business",
-    "date": "2026-11-15",
-    "addedAt": "2026-11-16T04:25:51Z",
-    "category": "economy",
+    "id": "auto_sports_343305143053806830",
+    "title": "Alcaraz to face Zverev in ATP Finals title decider",
+    "subtitle": "Carlos Alcaraz will face world number one Alexander Zverev for the ATP Finals title after completing a superb comeback victory aga...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-21",
+    "addedAt": "2026-11-22T18:57:14Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 125,
+    "wordCount": 89,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "The UK will have a \"voice in the room\" but no vote on European Union food policies as part of a so-called \"Brexit reset\" to reduce red tape, EU relations minister Hamish Falconer has told the BBC.",
+        "en": "Carlos Alcaraz is through to the 39th tour-level final of his career",
         "ko": "",
         "sentences": [
           {
-            "en": "The UK will have a \"voice in the room\" but no vote on European Union food policies as part of a so-called \"Brexit reset\" to reduce red tape, EU relations minister Hamish Falconer has told the BBC.",
+            "en": "Carlos Alcaraz is through to the 39th tour-level final of his career",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Prime Minister Andy Burnham hopes to agree a deal at a summit on Friday but critics have said a reset will make the UK \"a rule taker\" but not a rule maker.",
+        "en": "Carlos Alcaraz will face world number one Alexander Zverev for the ATP Finals title after completing a superb comeback victory against Ben Shelton.",
         "ko": "",
         "sentences": [
           {
-            "en": "Prime Minister Andy Burnham hopes to agree a deal at a summit on Friday but critics have said a reset will make the UK \"a rule taker\" but not a rule maker.",
+            "en": "Carlos Alcaraz will face world number one Alexander Zverev for the ATP Finals title after completing a superb comeback victory against Ben Shelton.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Falconer said the UK will be involved in a process to shape the rules and said the deal could help bring down prices for shoppers.",
+        "en": "The indomitable Spaniard recovered from a flat start to outlast Shelton 3-6 6-3 7-6 (7-1) and secure a return to the showpiece, 12 months after losing to Jannik Sinner.",
         "ko": "",
         "sentences": [
           {
-            "en": "Falconer said the UK will be involved in a process to shape the rules and said the deal could help bring down prices for shoppers.",
+            "en": "The indomitable Spaniard recovered from a flat start to outlast Shelton 3-6 6-3 7-6 (7-1) and secure a return to the showpiece, 12 months after losing to Jannik Sinner.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The reset would not involve any upfront payments, Falconer added, but made it clear there could well be an \"exit clause\" in case a future UK government reversed the closer alignment.",
+        "en": "Alcaraz again competed with strapping around his upper-left leg having injured his hamstring earlier this week, but produced his best tennis when it mattered most.",
         "ko": "",
         "sentences": [
           {
-            "en": "The reset would not involve any upfront payments, Falconer added, but made it clear there could well be an \"exit clause\" in case a future UK government reversed the closer alignment.",
+            "en": "Alcaraz again competed with strapping around his upper-left leg having injured his hamstring earlier this week, but produced his best tennis when it mattered most.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "글로벌 최신 소식: Alcaraz to face Zverev in ATP Finals title decider",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2381,14 +2458,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+          "Alcaraz to face Zverev in ATP Finals title decider",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_831932161684208164",
@@ -3091,85 +3170,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Zverev 'felt a lot of joy' in first win as world number one",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_432409411867381849",
-    "title": "Svitolina races into WTA Finals showpiece against Andreeva",
-    "subtitle": "Elina Svitolina drops just three games as she thrashes Linda Noskova to set up a WTA Finals showpiece against Mirra Andreeva....",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-14",
-    "addedAt": "2026-11-15T04:29:00Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 91,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Elina Svitolina dropped just three games as she thrashed Linda Noskova to set up a WTA Finals showpiece against Mirra Andreeva.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Elina Svitolina dropped just three games as she thrashed Linda Noskova to set up a WTA Finals showpiece against Mirra Andreeva.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Ukraine's Svitolina was composed and aggressive in a 6-2 6-1 victory over Wimbledon champion Noskova in just 64 minutes.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Ukraine's Svitolina was composed and aggressive in a 6-2 6-1 victory over Wimbledon champion Noskova in just 64 minutes.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "It caps a remarkable turnaround for world number six Svitolina in Indian Wells, having suffered a heavy defeat in her opening group match against Andreeva.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "It caps a remarkable turnaround for world number six Svitolina in Indian Wells, having suffered a heavy defeat in her opening group match against Andreeva.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "However, she has shown all of her fighting spirit to win her next three matches, including snapping a six-match losing streak to Aryna Sabalenka on Friday.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "However, she has shown all of her fighting spirit to win her next three matches, including snapping a six-match losing streak to Aryna Sabalenka on Friday.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Svitolina races into WTA Finals showpiece against Andreeva",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Svitolina races into WTA Finals showpiece against Andreeva",
           "Historical retrospective",
           "Unrelated general weather"
         ],
