@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_287350084864388334",
+    "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+    "subtitle": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-23",
+    "addedAt": "2026-11-23T05:21:54Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 86,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Lauren Goldboss is busy. The owner of a small San Francisco dog-walking company, she has been hiring staff and buying vans.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Lauren Goldboss is busy.",
+            "ko": ""
+          },
+          {
+            "en": "The owner of a small San Francisco dog-walking company, she has been hiring staff and buying vans.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Fuelling the growth is her new office dog-walking service Paw Perk, popular with some local AI start-ups.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Fuelling the growth is her new office dog-walking service Paw Perk, popular with some local AI start-ups.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Her business is an example of how the AI boom in San Francisco is benefiting other sectors.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Her business is an example of how the AI boom in San Francisco is benefiting other sectors.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The city saw an exodus of residents during the pandemic and its downtown was weakened by remote work, but it s now enjoying a rejuvenation, with AI being the major driver.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The city saw an exodus of residents during the pandemic and its downtown was weakened by remote work, but it s now enjoying a rejuvenation, with AI being the major driver.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_654685532738875035",
     "title": "Can AI really help spot Black Friday deals? We put it to the test",
     "subtitle": "We put four AI models to the test to see if they could save us money on a new TV....",
@@ -722,66 +803,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_297216048563988520",
-    "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-    "subtitle": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-16",
-    "addedAt": "2026-11-16T21:32:11Z",
-    "category": "tech",
+    "id": "auto_science_830980536422433355",
+    "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+    "subtitle": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels...",
+    "speaker": "BBC Science",
+    "date": "2026-11-23",
+    "addedAt": "2026-11-23T05:21:54Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 123,
+    "wordCount": 97,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "US President Donald Trump has said he \"would certainly not mind\" seeing Jensen Huang handed back his job as allies of the former Nvidia chief executive called for him to be reinstated.",
+        "en": "Australia's Chris Bowen sits at the top table at the summit surrounded by other delegates",
         "ko": "",
         "sentences": [
           {
-            "en": "US President Donald Trump has said he \"would certainly not mind\" seeing Jensen Huang handed back his job as allies of the former Nvidia chief executive called for him to be reinstated.",
+            "en": "Australia's Chris Bowen sits at the top table at the summit surrounded by other delegates",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Huang resigned as boss of the AI chip giant last week after the emergence of two affairs, one of which was with a woman suspected of spying for China and another allegedly with one of his employees.",
+        "en": "Countries have failed to reach a major new deal to tackle climate change after deep divisions over fossil fuels and money emerged at the UN COP31 talks in Turkey.",
         "ko": "",
         "sentences": [
           {
-            "en": "Huang resigned as boss of the AI chip giant last week after the emergence of two affairs, one of which was with a woman suspected of spying for China and another allegedly with one of his employees.",
+            "en": "Countries have failed to reach a major new deal to tackle climate change after deep divisions over fossil fuels and money emerged at the UN COP31 talks in Turkey.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "It created a crisis for one of the world's most valuable firms, which is a key part of the AI rollout, but the BBC has been told Nvidia's board is not considering reinstating Huang.",
+        "en": "Negotiations were due to finish on Friday but ran late into Sunday in search of common ground, becoming the longest UN climate conference in history.",
         "ko": "",
         "sentences": [
           {
-            "en": "It created a crisis for one of the world's most valuable firms, which is a key part of the AI rollout, but the BBC has been told Nvidia's board is not considering reinstating Huang.",
+            "en": "Negotiations were due to finish on Friday but ran late into Sunday in search of common ground, becoming the longest UN climate conference in history.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Meanwhile the Trump administration on Monday said it will further restrict China's ​access to AI chips from companies like Nvidia.",
+        "en": "But the final deal proved unacceptable to the EU, Pacific island nations and others because it failed to directly mention fossil fuels, the main cause of global warming.",
         "ko": "",
         "sentences": [
           {
-            "en": "Meanwhile the Trump administration on Monday said it will further restrict China's ​access to AI chips from companies like Nvidia.",
+            "en": "But the final deal proved unacceptable to the EU, Pacific island nations and others because it failed to directly mention fossil fuels, the main cause of global warming.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "글로벌 최신 소식: COP31 fails to reach major climate deal as talks expose deep divisions",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -789,7 +870,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+          "COP31 fails to reach major climate deal as talks expose deep divisions",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1495,83 +1576,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "William and Kate celebrate Earthshot Prize winners in Mumbai",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_science_1033920851135098235",
-    "title": "Yellow weather warnings issued for snow as temperatures plummet",
-    "subtitle": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times....",
-    "speaker": "BBC Science",
-    "date": "2026-11-16",
-    "addedAt": "2026-11-16T21:32:12Z",
-    "category": "science",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 117,
-    "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
-    ],
-    "paragraphs": [
-      {
-        "en": "A spell of cold and wintry weather is set to grip northern areas of the UK early this week, bringing the threat of ice and hill snow.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "A spell of cold and wintry weather is set to grip northern areas of the UK early this week, bringing the threat of ice and hill snow.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "A yellow weather warning for snow comes into effect in the very early hours of Tuesday following a blast of Arctic air pushing across the UK causing temperatures to plummet.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "A yellow weather warning for snow comes into effect in the very early hours of Tuesday following a blast of Arctic air pushing across the UK causing temperatures to plummet.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Cold health alerts for parts of northern England also remain in force from the UK Health Security Agency (UKHSA) until 09:00 GMT on Thursday.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Cold health alerts for parts of northern England also remain in force from the UK Health Security Agency (UKHSA) until 09:00 GMT on Thursday.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Some snow is forecast over the hills and mountains in the north over the coming days but the wintry chill will be fairly short-lived in the south, where temperatures will rebound to above average by midweek.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Some snow is forecast over the hills and mountains in the north over the coming days but the wintry chill will be fairly short-lived in the south, where temperatures will rebound to above average by midweek.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Yellow weather warnings issued for snow as temperatures plummet",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Yellow weather warnings issued for snow as temperatures plummet",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2391,6 +2395,85 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_sports_457966061072515099",
+    "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
+    "subtitle": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin....",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-22",
+    "addedAt": "2026-11-23T05:21:54Z",
+    "category": "sports",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 122,
+    "keywords": [
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
+    ],
+    "paragraphs": [
+      {
+        "en": "Carlos Alcaraz won the ATP Finals for the first time on his fourth appearance at the season-ending tournament",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Carlos Alcaraz won the ATP Finals for the first time on his fourth appearance at the season-ending tournament",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Carlos Alcaraz outplayed world number one Alexander Zverev to end his wait for a first ATP Finals title and complete a remarkable post-injury return to the sport.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Carlos Alcaraz outplayed world number one Alexander Zverev to end his wait for a first ATP Finals title and complete a remarkable post-injury return to the sport.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "A season which began with Alcaraz becoming the youngest man to complete the career Grand Slam, before he was ruled out for more than four months with a wrist issue, ended with the Spaniard holding aloft another of the sport's biggest trophies.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "A season which began with Alcaraz becoming the youngest man to complete the career Grand Slam, before he was ruled out for more than four months with a wrist issue, ended with the Spaniard holding aloft another of the sport's biggest trophies.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Alcaraz, still wearing heavy strapping around his upper-left leg following his injury scare earlier in the week, collapsed to the ground in celebration after sealing a 6-2 7-6 (9-7) win in a dramatic second-set tie-break.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Alcaraz, still wearing heavy strapping around his upper-left leg following his injury scare earlier in the week, collapsed to the ground in celebration after sealing a 6-2 7-6 (9-7) win in a dramatic second-set tie-break.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Alcaraz outplays Zverev for first ATP Finals triumph",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Alcaraz outplays Zverev for first ATP Finals triumph",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
+  },
+  {
     "id": "auto_sports_343305143053806830",
     "title": "Alcaraz to face Zverev in ATP Finals title decider",
     "subtitle": "Carlos Alcaraz will face world number one Alexander Zverev for the ATP Finals title after completing a superb comeback victory aga...",
@@ -3091,85 +3174,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Teenager Andreeva caps stunning week with WTA Finals title",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_1112396009504960388",
-    "title": "Zverev 'felt a lot of joy' in first win as world number one",
-    "subtitle": "Alexander Zverev claims his first victory as world number one as he sweeps aside Rafael Jodar in the opening match of the ATP Fina...",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-15",
-    "addedAt": "2026-11-15T18:24:20Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 85,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Alexander Zverev has won 66 ATP Tour matches this season - the most of any men's player",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Alexander Zverev has won 66 ATP Tour matches this season - the most of any men's player",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Alexander Zverev said he felt \"a lot of joy\" as he swept aside Rafael Jodar to claim his first victory as world number one in the opening match of the ATP Finals.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Alexander Zverev said he felt \"a lot of joy\" as he swept aside Rafael Jodar to claim his first victory as world number one in the opening match of the ATP Finals.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Germany's Zverev produced a serving masterclass to beat the fast-rising Spaniard 6-4 6-4.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Germany's Zverev produced a serving masterclass to beat the fast-rising Spaniard 6-4 6-4.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The French and US Open champion dropped only 10 points on serve, landing an astonishing 84% of first serves and hitting 10 aces.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The French and US Open champion dropped only 10 points on serve, landing an astonishing 84% of first serves and hitting 10 aces.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Zverev 'felt a lot of joy' in first win as world number one",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Zverev 'felt a lot of joy' in first win as world number one",
           "Historical retrospective",
           "Unrelated general weather"
         ],
