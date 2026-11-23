@@ -1,6 +1,87 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_62597112256052627",
+    "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+    "subtitle": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-23",
+    "addedAt": "2026-11-23T23:16:12Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 103,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Nvidia's market value rose by nearly $1 trillion as its share price skyrocketed after the tech firm reinstated Jensen Huang as its chief executive with immediate effect.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Nvidia's market value rose by nearly $1 trillion as its share price skyrocketed after the tech firm reinstated Jensen Huang as its chief executive with immediate effect.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "His shock reinstatement comes less than two weeks after Huang resigned after admitting an affair with a woman who was alleged to be a Chinese spy, a period in which shares in the chipmaker have also fallen significantly.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "His shock reinstatement comes less than two weeks after Huang resigned after admitting an affair with a woman who was alleged to be a Chinese spy, a period in which shares in the chipmaker have also fallen significantly.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Nvidia shares rose by more than 31% which also lifted stock markets, with the tech-heavy Nasdaq climbing by 6.5% and the S&P 500 also rose 4.75%.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Nvidia shares rose by more than 31% which also lifted stock markets, with the tech-heavy Nasdaq climbing by 6.",
+            "ko": ""
+          },
+          {
+            "en": "5% and the S&P 500 also rose 4.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_287350084864388334",
     "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
     "subtitle": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated....",
@@ -722,70 +803,74 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_136136252616083321",
-    "title": "The AI start-ups fixing India's broken roads and messy land records",
-    "subtitle": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-16",
-    "addedAt": "2026-11-17T06:10:51Z",
-    "category": "tech",
+    "id": "auto_science_935133421893622499",
+    "title": "What failure of COP31 reveals about a divided world",
+    "subtitle": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks....",
+    "speaker": "BBC Science",
+    "date": "2026-11-23",
+    "addedAt": "2026-11-23T23:16:13Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 91,
+    "wordCount": 112,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "At least half a dozen Indian start-ups are using AI to map and report road damage to authorities",
+        "en": "Some have hailed the lack of consensus as a sign of a positive shift, despite the Turkey summit failure",
         "ko": "",
         "sentences": [
           {
-            "en": "At least half a dozen Indian start-ups are using AI to map and report road damage to authorities",
+            "en": "Some have hailed the lack of consensus as a sign of a positive shift, despite the Turkey summit failure",
             "ko": ""
           }
         ]
       },
       {
-        "en": "In 2020, Sanjay Mandava flew down from Chicago to Chennai in southern India to resolve a personal land dispute.",
+        "en": "Some may have found it ironic that the world's biggest conference on climate change should collapse over the very mention of fossil fuels - the main cause of global warming.",
         "ko": "",
         "sentences": [
           {
-            "en": "In 2020, Sanjay Mandava flew down from Chicago to Chennai in southern India to resolve a personal land dispute.",
+            "en": "Some may have found it ironic that the world's biggest conference on climate change should collapse over the very mention of fossil fuels - the main cause of global warming.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Over the next few months, he was running around between government offices to access a dozen records that would conclusively prove that the property belonged to his family.",
+        "en": "The failure tells us something about the state of climate diplomacy. But it may tell us even more about the increasingly divided world in which the negotiations take place.",
         "ko": "",
         "sentences": [
           {
-            "en": "Over the next few months, he was running around between government offices to access a dozen records that would conclusively prove that the property belonged to his family.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Just a sale deed dating back to when his parents bought the land was not enough. Authorities asked him to produce a string of other documents.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Just a sale deed dating back to when his parents bought the land was not enough.",
+            "en": "The failure tells us something about the state of climate diplomacy.",
             "ko": ""
           },
           {
-            "en": "Authorities asked him to produce a string of other documents.",
+            "en": "But it may tell us even more about the increasingly divided world in which the negotiations take place.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Chris Bowen, the Australian minister who led the negotiations, spoke of a backdrop constituting \"the most complicated and fraught geopolitical environment in living memory\". The competing demands, he said, had become \"unbridgeable red lines\".",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Chris Bowen, the Australian minister who led the negotiations, spoke of a backdrop constituting \"the most complicated and fraught geopolitical environment in living memory\".",
+            "ko": ""
+          },
+          {
+            "en": "The competing demands, he said, had become \"unbridgeable red lines\".",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: The AI start-ups fixing India's broken roads and messy land records",
+      "글로벌 최신 소식: What failure of COP31 reveals about a divided world",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -793,7 +878,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "The AI start-ups fixing India's broken roads and messy land records",
+          "What failure of COP31 reveals about a divided world",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1508,66 +1593,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_147712343243090657",
-    "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-    "subtitle": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony....",
-    "speaker": "BBC Science",
-    "date": "2026-11-17",
-    "addedAt": "2026-11-17T20:22:37Z",
-    "category": "science",
+    "id": "auto_economy_57093920394392769",
+    "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+    "subtitle": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial....",
+    "speaker": "BBC Business",
+    "date": "2026-11-23",
+    "addedAt": "2026-11-23T23:16:14Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 89,
+    "wordCount": 97,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Watch: William and Catherine walk green carpet in Mumbai for Earthshot Prize",
+        "en": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
         "ko": "",
         "sentences": [
           {
-            "en": "Watch: William and Catherine walk green carpet in Mumbai for Earthshot Prize",
+            "en": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winners of the Earthshot Prize.",
+        "en": "There have been three jaw-dropping moments in the past few hours around Jensen Huang's reinstatement as Nvidia chief executive after he admitted an affair with a woman who was alleged to be a Chinese spy.",
         "ko": "",
         "sentences": [
           {
-            "en": "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winners of the Earthshot Prize.",
+            "en": "There have been three jaw-dropping moments in the past few hours around Jensen Huang's reinstatement as Nvidia chief executive after he admitted an affair with a woman who was alleged to be a Chinese spy.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Five award-winners were named at a ceremony in Mumbai, India, and will each receive £1m to scale up their projects.",
+        "en": "The shock announcement of his return to the chipmaker was followed by the addition of one trillion dollars of stock market value to Nvidia.",
         "ko": "",
         "sentences": [
           {
-            "en": "Five award-winners were named at a ceremony in Mumbai, India, and will each receive £1m to scale up their projects.",
+            "en": "The shock announcement of his return to the chipmaker was followed by the addition of one trillion dollars of stock market value to Nvidia.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "One of the winners was a country - with Bhutan being recognised for its environmental policies that help to safeguard water supplies for nearly a fifth of the world's population.",
+        "en": "Then it was the moment President Trump admitted the obvious: that it was his \"You're unfired\" message direct to the board that changed the decision.",
         "ko": "",
         "sentences": [
           {
-            "en": "One of the winners was a country - with Bhutan being recognised for its environmental policies that help to safeguard water supplies for nearly a fifth of the world's population.",
+            "en": "Then it was the moment President Trump admitted the obvious: that it was his \"You're unfired\" message direct to the board that changed the decision.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "글로벌 최신 소식: Faisal Islam: Why Jensen Huang proved too big to fire",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1575,7 +1660,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "William and Kate celebrate Earthshot Prize winners in Mumbai",
+          "Faisal Islam: Why Jensen Huang proved too big to fire",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2318,66 +2403,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_297216048563988520",
-    "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-    "subtitle": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back....",
-    "speaker": "BBC Business",
-    "date": "2026-11-16",
-    "addedAt": "2026-11-16T21:32:13Z",
-    "category": "economy",
+    "id": "auto_sports_531813287123489074",
+    "title": "84 days, four titles, one historic feat - Alcaraz's remarkable return",
+    "subtitle": "Over the past 84 days, Carlos Alcaraz has won four titles, and he beat world number one Alexander Zverev to make history at the AT...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-23",
+    "addedAt": "2026-11-23T23:16:15Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 123,
+    "wordCount": 96,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "US President Donald Trump has said he \"would certainly not mind\" seeing Jensen Huang handed back his job as allies of the former Nvidia chief executive called for him to be reinstated.",
+        "en": "Carlos Alcaraz is the fourth man to win all four Grand Slams and the season-ending ATP Finals",
         "ko": "",
         "sentences": [
           {
-            "en": "US President Donald Trump has said he \"would certainly not mind\" seeing Jensen Huang handed back his job as allies of the former Nvidia chief executive called for him to be reinstated.",
+            "en": "Carlos Alcaraz is the fourth man to win all four Grand Slams and the season-ending ATP Finals",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Huang resigned as boss of the AI chip giant last week after the emergence of two affairs, one of which was with a woman suspected of spying for China and another allegedly with one of his employees.",
+        "en": "The men's tennis season ended as it began, with a beaming Carlos Alcaraz holding aloft one of the sport's biggest trophies.",
         "ko": "",
         "sentences": [
           {
-            "en": "Huang resigned as boss of the AI chip giant last week after the emergence of two affairs, one of which was with a woman suspected of spying for China and another allegedly with one of his employees.",
+            "en": "The men's tennis season ended as it began, with a beaming Carlos Alcaraz holding aloft one of the sport's biggest trophies.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "It created a crisis for one of the world's most valuable firms, which is a key part of the AI rollout, but the BBC has been told Nvidia's board is not considering reinstating Huang.",
+        "en": "In January, he won the Australian Open to complete the career Grand Slam. Ten months later, he stood as the victor in Turin, having ended his wait for a first ATP Finals title.",
         "ko": "",
         "sentences": [
           {
-            "en": "It created a crisis for one of the world's most valuable firms, which is a key part of the AI rollout, but the BBC has been told Nvidia's board is not considering reinstating Huang.",
+            "en": "In January, he won the Australian Open to complete the career Grand Slam.",
+            "ko": ""
+          },
+          {
+            "en": "Ten months later, he stood as the victor in Turin, having ended his wait for a first ATP Finals title.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Meanwhile the Trump administration on Monday said it will further restrict China's ​access to AI chips from companies like Nvidia.",
+        "en": "Watching Alcaraz over recent weeks, it would be easy to forget that for a four-month period this year, the 23-year-old barely picked up a racquet.",
         "ko": "",
         "sentences": [
           {
-            "en": "Meanwhile the Trump administration on Monday said it will further restrict China's ​access to AI chips from companies like Nvidia.",
+            "en": "Watching Alcaraz over recent weeks, it would be easy to forget that for a four-month period this year, the 23-year-old barely picked up a racquet.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "글로벌 최신 소식: 84 days, four titles, one historic feat - Alcaraz's remarkable return",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2385,14 +2474,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+          "84 days, four titles, one historic feat - Alcaraz's remarkable return",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_457966061072515099",
@@ -3095,85 +3186,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Rising star Fils earns first ATP Finals win",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_236672751711508885",
-    "title": "Teenager Andreeva caps stunning week with WTA Finals title",
-    "subtitle": "French Open champion Mirra Andreeva caps her stellar season with a hard-fought victory over Elina Svitolina to win the WTA Finals....",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-15",
-    "addedAt": "2026-11-16T04:25:52Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 100,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Mirra Andreeva is the third teenager to win the WTA Finals singles trophy on debut at the tournament",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Mirra Andreeva is the third teenager to win the WTA Finals singles trophy on debut at the tournament",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "For Mirra Andreeva, the thought of her first WTA Finals singles campaign was so stressful that it gave her \"a little breakdown\" in a practice session before the tournament.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "For Mirra Andreeva, the thought of her first WTA Finals singles campaign was so stressful that it gave her \"a little breakdown\" in a practice session before the tournament.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The 19-year-old may have been nervous on arrival at Indian Wells, but she leaves California as the champion, having been the standout player of the week.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The 19-year-old may have been nervous on arrival at Indian Wells, but she leaves California as the champion, having been the standout player of the week.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The French Open winner produced a hard-fought 7-5 6-3 victory over Elina Svitolina in Sunday's final to become the youngest champion of the event in 22 years.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The French Open winner produced a hard-fought 7-5 6-3 victory over Elina Svitolina in Sunday's final to become the youngest champion of the event in 22 years.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Teenager Andreeva caps stunning week with WTA Finals title",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Teenager Andreeva caps stunning week with WTA Finals title",
           "Historical retrospective",
           "Unrelated general weather"
         ],
