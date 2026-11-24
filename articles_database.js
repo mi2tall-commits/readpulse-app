@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_177490603744771821",
+    "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+    "subtitle": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-23",
+    "addedAt": "2026-11-24T08:01:23Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 112,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "The US has said it intends to ban a Singaporean artificial intelligence (AI) company allegedly tied to the Nvidia scandal from doing business in America.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The US has said it intends to ban a Singaporean artificial intelligence (AI) company allegedly tied to the Nvidia scandal from doing business in America.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The Department of Commerce announced it planned to add Megaspeed Ltd to a list of entities that are blacklisted from buying or selling goods in the US.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The Department of Commerce announced it planned to add Megaspeed Ltd to a list of entities that are blacklisted from buying or selling goods in the US.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The company is mainly a developer of data centres, but in recent weeks a former executive of Megaspeed was accused of working as a spy for China while having a romantic relationship with Nvidia head Jensen Huang.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The company is mainly a developer of data centres, but in recent weeks a former executive of Megaspeed was accused of working as a spy for China while having a romantic relationship with Nvidia head Jensen Huang.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The relationship led to additional scrutiny by US officials and heightened concern that Megaspeed was funnelling Nvidia's advanced AI computer chips to China.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The relationship led to additional scrutiny by US officials and heightened concern that Megaspeed was funnelling Nvidia's advanced AI computer chips to China.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_62597112256052627",
     "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
     "subtitle": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%....",
@@ -717,83 +794,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Nvidia says it won't reinstate Huang as firm reports bumper results",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_tech_329129010001373583",
-    "title": "How new US chip restrictions on South East Asia will hit China",
-    "subtitle": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-17",
-    "addedAt": "2026-11-17T20:22:36Z",
-    "category": "tech",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 101,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
-    ],
-    "paragraphs": [
-      {
-        "en": "As US President Donald Trump heads to China, his administration has renewed efforts to curb Beijing's access to advanced semiconductors.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "As US President Donald Trump heads to China, his administration has renewed efforts to curb Beijing's access to advanced semiconductors.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "On Monday, Washington announced new interim rules that will increase scrutiny of  data centre operators in Singapore, Malaysia, Thailand, Indonesia and Brazil.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "On Monday, Washington announced new interim rules that will increase scrutiny of  data centre operators in Singapore, Malaysia, Thailand, Indonesia and Brazil.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The move not only restricts the export of advanced chips, but also access to their computing power, which Chinese firms currently rent abroad to train artificial intelligence (AI) models.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The move not only restricts the export of advanced chips, but also access to their computing power, which Chinese firms currently rent abroad to train artificial intelligence (AI) models.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "South East Asian countries in particular have invested heavily in data centres to power their AI ambitions - and Chinese firms seeking computing power overseas have been a key market.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "South East Asian countries in particular have invested heavily in data centres to power their AI ambitions - and Chinese firms seeking computing power overseas have been a key market.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: How new US chip restrictions on South East Asia will hit China",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "How new US chip restrictions on South East Asia will hit China",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1593,6 +1593,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_673052086822157578",
+    "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+    "subtitle": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock valu...",
+    "speaker": "BBC Business",
+    "date": "2026-11-24",
+    "addedAt": "2026-11-24T08:01:24Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 107,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Nvidia has reinstated CEO Jensen Huang just days after rejecting his offer to return to the AI chipmaker - and less than two weeks after he was forced to resign over a reported affair with a suspected Chinese spy.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Nvidia has reinstated CEO Jensen Huang just days after rejecting his offer to return to the AI chipmaker - and less than two weeks after he was forced to resign over a reported affair with a suspected Chinese spy.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The company came under pressure by Donald Trump to reappoint Huang - and on Monday, the US president said he \"made the deal\" to \"convince\" the tech giant's board to bring him back.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The company came under pressure by Donald Trump to reappoint Huang - and on Monday, the US president said he \"made the deal\" to \"convince\" the tech giant's board to bring him back.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "But now both Trump and Nvidia are facing bipartisan backlash from lawmakers, just as Huang is due to testify before Congress next week.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "But now both Trump and Nvidia are facing bipartisan backlash from lawmakers, just as Huang is due to testify before Congress next week.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_57093920394392769",
     "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
     "subtitle": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial....",
@@ -2317,83 +2394,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_824577304908660027",
-    "title": "California sues OpenAI over Hugging Face attack",
-    "subtitle": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public...",
-    "speaker": "BBC Business",
-    "date": "2026-11-16",
-    "addedAt": "2026-11-17T06:10:52Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 98,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the ChatGPT-maker misled and endangered the public by developing artificial intelligence (AI) models without proper safeguards.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the ChatGPT-maker misled and endangered the public by developing artificial intelligence (AI) models without proper safeguards.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "In the lawsuit, Bonta cited the July 2026 attack on the AI platform Hugging Face by experimental OpenAI agents which accessed the internet to breach that company's internal systems.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "In the lawsuit, Bonta cited the July 2026 attack on the AI platform Hugging Face by experimental OpenAI agents which accessed the internet to breach that company's internal systems.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Bonta claimed OpenAI created a public nuisance and violated the state's unfair competition laws.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Bonta claimed OpenAI created a public nuisance and violated the state's unfair competition laws.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "OpenAI spokesperson Drew Pusateri told the BBC in a statement that Bonta's lawsuit \"appears to single out OpenAI over a challenge that's been identified by every major AI lab\".",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "OpenAI spokesperson Drew Pusateri told the BBC in a statement that Bonta's lawsuit \"appears to single out OpenAI over a challenge that's been identified by every major AI lab\".",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: California sues OpenAI over Hugging Face attack",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "California sues OpenAI over Hugging Face attack",
           "Historical retrospective",
           "Unrelated general weather"
         ],
