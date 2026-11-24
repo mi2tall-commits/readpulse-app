@@ -1,6 +1,95 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_831617666558980780",
+    "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+    "subtitle": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it...",
+    "speaker": "BBC Technology",
+    "date": "2026-11-24",
+    "addedAt": "2026-11-24T21:51:25Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 103,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "As the market bell rang out at the Nasdaq today, the Nvidia super-bounce faded.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "As the market bell rang out at the Nasdaq today, the Nvidia super-bounce faded.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Its shares slid and are down almost 30% over the past six months, well before the scandal involving Jensen Huang emerged earlier this month.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Its shares slid and are down almost 30% over the past six months, well before the scandal involving Jensen Huang emerged earlier this month.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The legitimate fears about the staying power of the tech boom pre-dated Huang's exit. They have not gone away with his return.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The legitimate fears about the staying power of the tech boom pre-dated Huang's exit.",
+            "ko": ""
+          },
+          {
+            "en": "They have not gone away with his return.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Investors are jittery. Already Anthropic is now trading notably lower than last week's stock market flotation. The firm is the first purely AI company to be publicly listed, and is being seen as a big test for continued investor appetite for the technology.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Investors are jittery.",
+            "ko": ""
+          },
+          {
+            "en": "Already Anthropic is now trading notably lower than last week's stock market flotation.",
+            "ko": ""
+          },
+          {
+            "en": "The firm is the first purely AI company to be publicly listed, and is being seen as a big test for continued investor appetite for the technology.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Faisal Islam: Fears over the AI boom haven't gone away",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Faisal Islam: Fears over the AI boom haven't gone away",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_177490603744771821",
     "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
     "subtitle": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public....",
@@ -718,74 +807,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_227299335283336713",
-    "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-    "subtitle": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-18",
-    "addedAt": "2026-11-18T05:39:27Z",
-    "category": "tech",
+    "id": "auto_science_355660794301541419",
+    "title": "Badger cull ruled out by Welsh government after speculation",
+    "subtitle": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis....",
+    "speaker": "BBC Science",
+    "date": "2026-11-24",
+    "addedAt": "2026-11-24T21:51:25Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 102,
+    "wordCount": 94,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Nvidia's quarterly sales doubled to top $100bn for the first time as the company insisted it has no plans to reinstate ousted co-founder Jensen Huang.",
+        "en": "Between 2013 and 2026, almost 250,000 badgers were killed in England as part of widespread culling to tackle bovine tuberculosis (TB)",
         "ko": "",
         "sentences": [
           {
-            "en": "Nvidia's quarterly sales doubled to top $100bn for the first time as the company insisted it has no plans to reinstate ousted co-founder Jensen Huang.",
+            "en": "Between 2013 and 2026, almost 250,000 badgers were killed in England as part of widespread culling to tackle bovine tuberculosis (TB)",
             "ko": ""
           }
         ]
       },
       {
-        "en": "In the company's first results since Huang's dramatic exit, interim chief executive Colette Kress said it is \"business as usual\" and told investors: \"We've got this.\"",
+        "en": "Plaid Cymru ministers have ruled out a mass badger cull as part of updated plans to tackle bovine tuberculosis (TB).",
         "ko": "",
         "sentences": [
           {
-            "en": "In the company's first results since Huang's dramatic exit, interim chief executive Colette Kress said it is \"business as usual\" and told investors: \"We've got this.",
+            "en": "Plaid Cymru ministers have ruled out a mass badger cull as part of updated plans to tackle bovine tuberculosis (TB).",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The company's quarterly sales doubled from a year earlier, reaching $115.8bn (£86.9bn), with shares in the company jumping by 4.8% in after-hours trading.",
+        "en": "It follows months of speculation over the Welsh government's intentions, after an expert group warned \"a step change\" was needed in efforts to eradicate the disease.",
         "ko": "",
         "sentences": [
           {
-            "en": "The company's quarterly sales doubled from a year earlier, reaching $115.",
-            "ko": ""
-          },
-          {
-            "en": "9bn), with shares in the company jumping by 4.",
-            "ko": ""
-          },
-          {
-            "en": "8% in after-hours trading.",
+            "en": "It follows months of speculation over the Welsh government's intentions, after an expert group warned \"a step change\" was needed in efforts to eradicate the disease.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Earlier on Tuesday, Huang said he would be \"honoured\" to return and lead Nvidia, having quit following alleged extramarital affairs, including one with a suspected spy for China.",
+        "en": "While farming leaders have long called for tougher badger controls, a petition against culling has attracted more than 28,000 signatures on the Senedd website in recent weeks.",
         "ko": "",
         "sentences": [
           {
-            "en": "Earlier on Tuesday, Huang said he would be \"honoured\" to return and lead Nvidia, having quit following alleged extramarital affairs, including one with a suspected spy for China.",
+            "en": "While farming leaders have long called for tougher badger controls, a petition against culling has attracted more than 28,000 signatures on the Senedd website in recent weeks.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "글로벌 최신 소식: Badger cull ruled out by Welsh government after speculation",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -793,7 +874,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "Badger cull ruled out by Welsh government after speculation",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1512,70 +1593,78 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_519587448697171270",
-    "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
-    "subtitle": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns...",
-    "speaker": "BBC Science",
-    "date": "2026-11-18",
-    "addedAt": "2026-11-18T05:39:27Z",
-    "category": "science",
+    "id": "auto_economy_831617666558980780",
+    "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+    "subtitle": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it...",
+    "speaker": "BBC Business",
+    "date": "2026-11-24",
+    "addedAt": "2026-11-24T21:51:25Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 114,
+    "wordCount": 103,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "The UK is likely to miss legally binding climate targets if the government reduces electric vehicle (EV) targets, independent adviser the Climate Change Committee (CCC) has warned.",
+        "en": "As the market bell rang out at the Nasdaq today, the Nvidia super-bounce faded.",
         "ko": "",
         "sentences": [
           {
-            "en": "The UK is likely to miss legally binding climate targets if the government reduces electric vehicle (EV) targets, independent adviser the Climate Change Committee (CCC) has warned.",
+            "en": "As the market bell rang out at the Nasdaq today, the Nvidia super-bounce faded.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "In a letter to Transport Secretary Heidi Alexander, the CCC argues that weakening the targets would result in \"economic and energy security costs\" and leave households \"more exposed to volatile fossil fuel prices\".",
+        "en": "Its shares slid and are down almost 30% over the past six months, well before the scandal involving Jensen Huang emerged earlier this month.",
         "ko": "",
         "sentences": [
           {
-            "en": "In a letter to Transport Secretary Heidi Alexander, the CCC argues that weakening the targets would result in \"economic and energy security costs\" and leave households \"more exposed to volatile fossil fuel prices\".",
+            "en": "Its shares slid and are down almost 30% over the past six months, well before the scandal involving Jensen Huang emerged earlier this month.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The CCC says that switching to an electric vehicle can save a typical household around £800 a year, with fewer people benefiting if the targets were watered down.",
+        "en": "The legitimate fears about the staying power of the tech boom pre-dated Huang's exit. They have not gone away with his return.",
         "ko": "",
         "sentences": [
           {
-            "en": "The CCC says that switching to an electric vehicle can save a typical household around £800 a year, with fewer people benefiting if the targets were watered down.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The warning comes after weeks of speculation that the government plans to announce changes to the EV targets. Government sources insist no decision has been made.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The warning comes after weeks of speculation that the government plans to announce changes to the EV targets.",
+            "en": "The legitimate fears about the staying power of the tech boom pre-dated Huang's exit.",
             "ko": ""
           },
           {
-            "en": "Government sources insist no decision has been made.",
+            "en": "They have not gone away with his return.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Investors are jittery. Already Anthropic is now trading notably lower than last week's stock market flotation. The firm is the first purely AI company to be publicly listed, and is being seen as a big test for continued investor appetite for the technology.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Investors are jittery.",
+            "ko": ""
+          },
+          {
+            "en": "Already Anthropic is now trading notably lower than last week's stock market flotation.",
+            "ko": ""
+          },
+          {
+            "en": "The firm is the first purely AI company to be publicly listed, and is being seen as a big test for continued investor appetite for the technology.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Government risks missing climate targets if EV rules weakened, adviser warns",
+      "글로벌 최신 소식: Faisal Islam: Fears over the AI boom haven't gone away",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1583,7 +1672,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Government risks missing climate targets if EV rules weakened, adviser warns",
+          "Faisal Islam: Fears over the AI boom haven't gone away",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2322,70 +2411,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_948272681811844813",
-    "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
-    "subtitle": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return....",
-    "speaker": "BBC Business",
-    "date": "2026-11-17",
-    "addedAt": "2026-11-17T20:22:37Z",
-    "category": "economy",
+    "id": "auto_sports_920284892224183118",
+    "title": "'I miss being on court' - Sinner has 'minor surgery' on knee",
+    "subtitle": "World number two Jannik Sinner says he has had \"minor surgery\" on his knee, just seven weeks before January's Australian Open begi...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-24",
+    "addedAt": "2026-11-24T21:51:26Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 105,
+    "wordCount": 89,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "Jensen Huang said he would be \"honoured\" to return as the boss of tech giant Nvidia if the board asked him to, in his first public comments since his shock resignation.",
+        "en": "Jannik Sinner attended a ceremony for players who had become world number one at the ATP Finals in Turin",
         "ko": "",
         "sentences": [
           {
-            "en": "Jensen Huang said he would be \"honoured\" to return as the boss of tech giant Nvidia if the board asked him to, in his first public comments since his shock resignation.",
+            "en": "Jannik Sinner attended a ceremony for players who had become world number one at the ATP Finals in Turin",
             "ko": ""
           }
         ]
       },
       {
-        "en": "\"I created problems for the Board that I deeply regret. I own my mistakes completely,\" Huang said on X, days after reports he had extramarital affairs, including with an alleged Chinese spy.",
+        "en": "World number two Jannik Sinner says he has had \"minor surgery\" on his knee, just seven weeks before January's Australian Open begins.",
         "ko": "",
         "sentences": [
           {
-            "en": "\"I created problems for the Board that I deeply regret.",
-            "ko": ""
-          },
-          {
-            "en": "I own my mistakes completely,\" Huang said on X, days after reports he had extramarital affairs, including with an alleged Chinese spy.",
+            "en": "World number two Jannik Sinner says he has had \"minor surgery\" on his knee, just seven weeks before January's Australian Open begins.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "He said he had an \"outpouring\" of calls from company employees, investors and others calling for him to return as CEO of Nvidia.",
+        "en": "The five-time Grand Slam champion has not played competitively since winning Wimbledon on 12 July.",
         "ko": "",
         "sentences": [
           {
-            "en": "He said he had an \"outpouring\" of calls from company employees, investors and others calling for him to return as CEO of Nvidia.",
+            "en": "The five-time Grand Slam champion has not played competitively since winning Wimbledon on 12 July.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "But, as the BBC reported on Monday, Nvidia's board is not considering bringing him back to lead the company.",
+        "en": "In a post on Instagram, Sinner said he had undergone surgery to \"improve the condition of my iliotibial band\" - a thick band of tissue that runs along the outside of the knee.",
         "ko": "",
         "sentences": [
           {
-            "en": "But, as the BBC reported on Monday, Nvidia's board is not considering bringing him back to lead the company.",
+            "en": "In a post on Instagram, Sinner said he had undergone surgery to \"improve the condition of my iliotibial band\" - a thick band of tissue that runs along the outside of the knee.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+      "글로벌 최신 소식: 'I miss being on court' - Sinner has 'minor surgery' on knee",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2393,14 +2478,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+          "'I miss being on court' - Sinner has 'minor surgery' on knee",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_531813287123489074",
@@ -3107,85 +3194,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Ruthless Zverev through to ATP Finals knockout stage",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_840319720724755762",
-    "title": "Rising star Fils earns first ATP Finals win",
-    "subtitle": "Rising star Arthur Fils claims his first career win at the ATP Finals by battling to a comeback victory over Rafael Jodar to remai...",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-17",
-    "addedAt": "2026-11-17T20:22:38Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 105,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Arthur Fils is the first man born in 2004 or later to win a match at the ATP Finals",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Arthur Fils is the first man born in 2004 or later to win a match at the ATP Finals",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Rising star Arthur Fils claimed his first career win at the ATP Finals by battling to a comeback victory over Rafael Jodar to remain in contention in Turin.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Rising star Arthur Fils claimed his first career win at the ATP Finals by battling to a comeback victory over Rafael Jodar to remain in contention in Turin.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Fils, 22, beat 20-year-old Jodar 4-6 6-2 6-2 to become the first Frenchman to record an ATP Finals victory since Jo-Wilfried Tsonga in 2011.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Fils, 22, beat 20-year-old Jodar 4-6 6-2 6-2 to become the first Frenchman to record an ATP Finals victory since Jo-Wilfried Tsonga in 2011.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "It was the youngest match by combined age at the season-ending tournament - which features the eight top-performing men - since a 21-year-old Novak Djokovic defeated a 20-year-old Juan Martin del Potro in 2008.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "It was the youngest match by combined age at the season-ending tournament - which features the eight top-performing men - since a 21-year-old Novak Djokovic defeated a 20-year-old Juan Martin del Potro in 2008.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Rising star Fils earns first ATP Finals win",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Rising star Fils earns first ATP Finals win",
           "Historical retrospective",
           "Unrelated general weather"
         ],
