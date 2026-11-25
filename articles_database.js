@@ -1,6 +1,119 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_929120353020636000",
+    "title": "Why tiny cars are taking off across Europe",
+    "subtitle": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-25",
+    "addedAt": "2026-11-25T06:39:54Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 121,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Selena Buse, 16, reverses her Citroën Ami out of a parking space and heads off past the school playground. Heads turn. The Ami looks pretty remarkable. Futurist or like-a-toaster depending on your point of view. But it's changed her life.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Selena Buse, 16, reverses her Citroën Ami out of a parking space and heads off past the school playground.",
+            "ko": ""
+          },
+          {
+            "en": "Heads turn.",
+            "ko": ""
+          },
+          {
+            "en": "The Ami looks pretty remarkable.",
+            "ko": ""
+          },
+          {
+            "en": "Futurist or like-a-toaster depending on your point of view.",
+            "ko": ""
+          },
+          {
+            "en": "But it's changed her life.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "\"I got it because I really needed it to get to school. And I use it to visit friends on the weekends. It's indispensable in rural areas like where I live,\" she says.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "\"I got it because I really needed it to get to school.",
+            "ko": ""
+          },
+          {
+            "en": "And I use it to visit friends on the weekends.",
+            "ko": ""
+          },
+          {
+            "en": "It's indispensable in rural areas like where I live,\" she says.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "In France, you can drive a car like this from the age of 14 with a road safety certificate and eight hours training. In Italy too.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "In France, you can drive a car like this from the age of 14 with a road safety certificate and eight hours training.",
+            "ko": ""
+          },
+          {
+            "en": "In Italy too.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "In Germany and Spain it's 15, in the UK 16. Because they are classed as motorised quadri-cycles. Four-wheel mopeds in other words.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "In Germany and Spain it's 15, in the UK 16.",
+            "ko": ""
+          },
+          {
+            "en": "Because they are classed as motorised quadri-cycles.",
+            "ko": ""
+          },
+          {
+            "en": "Four-wheel mopeds in other words.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Why tiny cars are taking off across Europe",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Why tiny cars are taking off across Europe",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_831617666558980780",
     "title": "Faisal Islam: Fears over the AI boom haven't gone away",
     "subtitle": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it...",
@@ -730,66 +843,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_827601563616004317",
-    "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-    "subtitle": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-18",
-    "addedAt": "2026-11-18T19:52:32Z",
-    "category": "tech",
+    "id": "auto_science_143678344568335503",
+    "title": "Will there be a White Christmas this year?",
+    "subtitle": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?...",
+    "speaker": "BBC Science",
+    "date": "2026-11-25",
+    "addedAt": "2026-11-25T06:39:54Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 85,
+    "wordCount": 117,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Review scores for GTA 6 are a fairytale ending after years of development",
+        "en": "Christmas Day is a month away and as the festive season approaches you may start to wonder - could 2026 be a 'white Christmas'?",
         "ko": "",
         "sentences": [
           {
-            "en": "Review scores for GTA 6 are a fairytale ending after years of development",
+            "en": "Christmas Day is a month away and as the festive season approaches you may start to wonder - could 2026 be a 'white Christmas'?",
             "ko": ""
           }
         ]
       },
       {
-        "en": "After 13 years of waiting, record-breaking trailers and lengthy delays, critics have given their answer to one of the year's biggest questions.",
+        "en": "Over the past 65 years, there have been 41 white Christmases, meaning we are more likely than not to see one somewhere in the UK.",
         "ko": "",
         "sentences": [
           {
-            "en": "After 13 years of waiting, record-breaking trailers and lengthy delays, critics have given their answer to one of the year's biggest questions.",
+            "en": "Over the past 65 years, there have been 41 white Christmases, meaning we are more likely than not to see one somewhere in the UK.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Does Grand Theft Auto 6, surely the most anticipated game of all time, live up to the hype?",
+        "en": "Forecasting the chances of a month ahead of the big day is a bit like staring into a crystal ball - but are there any early omens of snow on the festive horizon?",
         "ko": "",
         "sentences": [
           {
-            "en": "Does Grand Theft Auto 6, surely the most anticipated game of all time, live up to the hype?",
+            "en": "Forecasting the chances of a month ahead of the big day is a bit like staring into a crystal ball - but are there any early omens of snow on the festive horizon?",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Metacritic, which aggregates reviews from critics, averages it at 99 out of 100, external - tying with Nintendo's The Legend of Zelda: Ocarina of Time, which has held the record since 1998.",
+        "en": "For a Christmas to be officially declared as 'white', a single snowflake needs to be recorded falling at any point during 25 December, at any of the Met Office's network of around 300 weather stations.",
         "ko": "",
         "sentences": [
           {
-            "en": "Metacritic, which aggregates reviews from critics, averages it at 99 out of 100, external - tying with Nintendo's The Legend of Zelda: Ocarina of Time, which has held the record since 1998.",
+            "en": "For a Christmas to be officially declared as 'white', a single snowflake needs to be recorded falling at any point during 25 December, at any of the Met Office's network of around 300 weather stations.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Grand Theft Auto 6 is a masterpiece, say critics",
+      "글로벌 최신 소식: Will there be a White Christmas this year?",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -797,7 +910,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Grand Theft Auto 6 is a masterpiece, say critics",
+          "Will there be a White Christmas this year?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1516,66 +1629,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_1068361117507159629",
-    "title": "The seven Anthropic founders who are about to become multi-billionaires",
-    "subtitle": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich....",
-    "speaker": "BBC Science",
-    "date": "2026-11-18",
-    "addedAt": "2026-11-18T19:52:33Z",
-    "category": "science",
+    "id": "auto_economy_1116924134615224789",
+    "title": "Households braced for soaring energy bills with new price cap to be announced",
+    "subtitle": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap....",
+    "speaker": "BBC Business",
+    "date": "2026-11-25",
+    "addedAt": "2026-11-25T06:39:55Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 89,
+    "wordCount": 121,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Brother and sister Dario and Daniela Amodei are chief executive and president of Anthropic",
+        "en": "Domestic energy bills are expected to soar in January for millions of households, with regulator Ofgem to announce the precise increase shortly.",
         "ko": "",
         "sentences": [
           {
-            "en": "Brother and sister Dario and Daniela Amodei are chief executive and president of Anthropic",
+            "en": "Domestic energy bills are expected to soar in January for millions of households, with regulator Ofgem to announce the precise increase shortly.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "In the space of just five years, Anthropic has gone from unknown start-up to tech giant, worth more than a trillion dollars.",
+        "en": "A typical annual bill is predicted to rise by 26% in the new year, according to consultancy Cornwall Insight, in a forecast made ahead of the official announcement.",
         "ko": "",
         "sentences": [
           {
-            "en": "In the space of just five years, Anthropic has gone from unknown start-up to tech giant, worth more than a trillion dollars.",
+            "en": "A typical annual bill is predicted to rise by 26% in the new year, according to consultancy Cornwall Insight, in a forecast made ahead of the official announcement.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The company behind the AI platform Claude was formed by seven people who left rival OpenAI in 2021 and, in a matter of hours, will become multi-billionaires - on paper at least.",
+        "en": "Ofgem's new cap, which sets a maximum price for each unit of energy, will come into force at the coldest time of year. Customers pay for what they use and charities and suppliers expect debt to rise and a wave of people to need emergency support.",
         "ko": "",
         "sentences": [
           {
-            "en": "The company behind the AI platform Claude was formed by seven people who left rival OpenAI in 2021 and, in a matter of hours, will become multi-billionaires - on paper at least.",
+            "en": "Ofgem's new cap, which sets a maximum price for each unit of energy, will come into force at the coldest time of year.",
+            "ko": ""
+          },
+          {
+            "en": "Customers pay for what they use and charities and suppliers expect debt to rise and a wave of people to need emergency support.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Anthropic is floating the business on the US stock exchange and will sell its shares at between $70 - $78 each.",
+        "en": "The government will make a £100 payment to millions of households to help cover winter costs, in addition to an ongoing VAT cut on electricity.",
         "ko": "",
         "sentences": [
           {
-            "en": "Anthropic is floating the business on the US stock exchange and will sell its shares at between $70 - $78 each.",
+            "en": "The government will make a £100 payment to millions of households to help cover winter costs, in addition to an ongoing VAT cut on electricity.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: The seven Anthropic founders who are about to become multi-billionaires",
+      "글로벌 최신 소식: Households braced for soaring energy bills with new price cap to be announced",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1583,7 +1700,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "The seven Anthropic founders who are about to become multi-billionaires",
+          "Households braced for soaring energy bills with new price cap to be announced",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2317,91 +2434,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_451242700811812449",
-    "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
-    "subtitle": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang....",
-    "speaker": "BBC Business",
-    "date": "2026-11-17",
-    "addedAt": "2026-11-18T05:39:27Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 102,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Nvidia's quarterly sales doubled to top $100bn for the first time as the company insisted it has no plans to reinstate ousted co-founder Jensen Huang.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Nvidia's quarterly sales doubled to top $100bn for the first time as the company insisted it has no plans to reinstate ousted co-founder Jensen Huang.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "In the company's first results since Huang's dramatic exit, interim chief executive Colette Kress said it is \"business as usual\" and told investors: \"We've got this.\"",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "In the company's first results since Huang's dramatic exit, interim chief executive Colette Kress said it is \"business as usual\" and told investors: \"We've got this.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The company's quarterly sales doubled from a year earlier, reaching $115.8bn (£86.9bn), with shares in the company jumping by 4.8% in after-hours trading.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The company's quarterly sales doubled from a year earlier, reaching $115.",
-            "ko": ""
-          },
-          {
-            "en": "9bn), with shares in the company jumping by 4.",
-            "ko": ""
-          },
-          {
-            "en": "8% in after-hours trading.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Earlier on Tuesday, Huang said he would be \"honoured\" to return and lead Nvidia, having quit following alleged extramarital affairs, including one with a suspected spy for China.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Earlier on Tuesday, Huang said he would be \"honoured\" to return and lead Nvidia, having quit following alleged extramarital affairs, including one with a suspected spy for China.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Nvidia reports bumper results as firm says it's not reinstating Huang",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Nvidia reports bumper results as firm says it's not reinstating Huang",
           "Historical retrospective",
           "Unrelated general weather"
         ],
