@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_80430547845876054",
+    "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+    "subtitle": "The verdict follows a months-long trial in New York....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-25",
+    "addedAt": "2026-11-25T20:57:59Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 101,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Defence lawyer Brian Heberlig makes closing arguments at the Huawei Technologies trial at Brooklyn federal court on November 17.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Defence lawyer Brian Heberlig makes closing arguments at the Huawei Technologies trial at Brooklyn federal court on November 17.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Huawei has been found guilty of conspiracy to steal trade secrets and bank fraud, but not guilty of the more serious overarching racketeering charge in a landmark case in the US.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Huawei has been found guilty of conspiracy to steal trade secrets and bank fraud, but not guilty of the more serious overarching racketeering charge in a landmark case in the US.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "In a two-month trial, prosecutors accused the Chinese technology and telecommunications giant of lying, cheating and stealing to gain any competitive advantage.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "In a two-month trial, prosecutors accused the Chinese technology and telecommunications giant of lying, cheating and stealing to gain any competitive advantage.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Huawei's defence team argued that prosecutors had decided Huawei was a criminal organisation and built its case from there, but the firm's success was due to its own innovation.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Huawei's defence team argued that prosecutors had decided Huawei was a criminal organisation and built its case from there, but the firm's success was due to its own innovation.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_929120353020636000",
     "title": "Why tiny cars are taking off across Europe",
     "subtitle": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic....",
@@ -762,70 +839,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_303781081298320553",
-    "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-    "subtitle": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-18",
-    "addedAt": "2026-11-19T05:37:46Z",
-    "category": "tech",
+    "id": "auto_science_132123125424940362",
+    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "subtitle": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promis...",
+    "speaker": "BBC Science",
+    "date": "2026-11-25",
+    "addedAt": "2026-11-25T20:57:59Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 86,
+    "wordCount": 88,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Anthropic CEO Dario Amodei has quickly become a big name in the tech industry",
+        "en": "Smoke appears after explosion heard in Iowa near Army detonation site",
         "ko": "",
         "sentences": [
           {
-            "en": "Anthropic CEO Dario Amodei has quickly become a big name in the tech industry",
+            "en": "Smoke appears after explosion heard in Iowa near Army detonation site",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Anthropic has seen its value jump to as much as $1.5tn (£1.14tn) as its shares are set to start trading on the stock market on Thursday.",
+        "en": "The US military has hailed as a \"huge success\" the detonation of nearly five tonnes of toxic explosives in Iowa, an operation that sparked widespread fears of health and environmental problems across the region.",
         "ko": "",
         "sentences": [
           {
-            "en": "Anthropic has seen its value jump to as much as $1.",
-            "ko": ""
-          },
-          {
-            "en": "14tn) as its shares are set to start trading on the stock market on Thursday.",
+            "en": "The US military has hailed as a \"huge success\" the detonation of nearly five tonnes of toxic explosives in Iowa, an operation that sparked widespread fears of health and environmental problems across the region.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The artificial intelligence (AI) company behind the popular chatbot Claude said its shares will be priced at $83 each when it lists on the Nasdaq, a tech-focused stock exchange based in New York.",
+        "en": "Smoke was seen rising into the sky shortly after 09:00 local time (14:00 GMT) following the explosion, as the Army declared the risk \"as close to zero as is absolutely humanly possible\".",
         "ko": "",
         "sentences": [
           {
-            "en": "The artificial intelligence (AI) company behind the popular chatbot Claude said its shares will be priced at $83 each when it lists on the Nasdaq, a tech-focused stock exchange based in New York.",
+            "en": "Smoke was seen rising into the sky shortly after 09:00 local time (14:00 GMT) following the explosion, as the Army declared the risk \"as close to zero as is absolutely humanly possible\".",
             "ko": ""
           }
         ]
       },
       {
-        "en": "That will make it one of the most valuable companies in the world.",
+        "en": "President Donald Trump said reports showed mitigation efforts \"far exceeded expectations\".",
         "ko": "",
         "sentences": [
           {
-            "en": "That will make it one of the most valuable companies in the world.",
+            "en": "President Donald Trump said reports showed mitigation efforts \"far exceeded expectations\".",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "글로벌 최신 소식: US Army says controlled blast of explosives in Iowa was 'huge success'",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -833,7 +906,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+          "US Army says controlled blast of explosives in Iowa was 'huge success'",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1552,66 +1625,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_851335714649520842",
-    "title": "More climate money for Africa? Europe says use what's already pledged",
-    "subtitle": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with clim...",
-    "speaker": "BBC Science",
-    "date": "2026-11-20",
-    "addedAt": "2026-11-20T05:26:07Z",
-    "category": "science",
+    "id": "auto_economy_271270223886743347",
+    "title": "Poundland collapses putting 11,000 jobs at risk",
+    "subtitle": "The discount chain has fallen into administration after its owners failed to find a buyer....",
+    "speaker": "BBC Business",
+    "date": "2026-11-25",
+    "addedAt": "2026-11-25T20:58:00Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 84,
+    "wordCount": 107,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Africa is pushing for adaptation finance to be tripled by 2035, from an annual $40bn (£30bn)",
+        "en": "Poundland has collapsed into administration, putting 11,000 jobs at risk, after its owners failed to find a buyer to keep it in business.",
         "ko": "",
         "sentences": [
           {
-            "en": "Africa is pushing for adaptation finance to be tripled by 2035, from an annual $40bn (£30bn)",
+            "en": "Poundland has collapsed into administration, putting 11,000 jobs at risk, after its owners failed to find a buyer to keep it in business.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "In Uganda's northern Karamoja region, Elijah Lobur and his family now eat just one meal a day.",
+        "en": "The retailer's shops and distribution centres will remain open and continue to trade during the administration process with the business likely to be broken up and some of its stores sold off to rival retailers.",
         "ko": "",
         "sentences": [
           {
-            "en": "In Uganda's northern Karamoja region, Elijah Lobur and his family now eat just one meal a day.",
+            "en": "The retailer's shops and distribution centres will remain open and continue to trade during the administration process with the business likely to be broken up and some of its stores sold off to rival retailers.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "A severe drought that began in April has destroyed crops, while food brought in from elsewhere has become increasingly unaffordable.",
+        "en": "Poundland's US owners held talks with several bidders over a last-minute rescue deal, but no agreement was reached.",
         "ko": "",
         "sentences": [
           {
-            "en": "A severe drought that began in April has destroyed crops, while food brought in from elsewhere has become increasingly unaffordable.",
+            "en": "Poundland's US owners held talks with several bidders over a last-minute rescue deal, but no agreement was reached.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "\"Seven months without rain has brought us to this point where we now live in hunger,\" the 44-year-old farmer, who lives with his grandmother, wife and five children, told the BBC.",
+        "en": "Poundland boss Barry Williams said in a note to staff that the board had \"no alternative but to take this decision\", but was making it with \"sincere sadness and intense regret\".",
         "ko": "",
         "sentences": [
           {
-            "en": "\"Seven months without rain has brought us to this point where we now live in hunger,\" the 44-year-old farmer, who lives with his grandmother, wife and five children, told the BBC.",
+            "en": "Poundland boss Barry Williams said in a note to staff that the board had \"no alternative but to take this decision\", but was making it with \"sincere sadness and intense regret\".",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: More climate money for Africa? Europe says use what's already pledged",
+      "글로벌 최신 소식: Poundland collapses putting 11,000 jobs at risk",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1619,7 +1692,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "More climate money for Africa? Europe says use what's already pledged",
+          "Poundland collapses putting 11,000 jobs at risk",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2358,74 +2431,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_415687779288963106",
-    "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-    "subtitle": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year....",
-    "speaker": "BBC Business",
-    "date": "2026-11-18",
-    "addedAt": "2026-11-18T19:52:33Z",
-    "category": "economy",
+    "id": "auto_sports_28168078873272230",
+    "title": "'It was ruthless'- GB's Patten on ending top-ranked partnership with Heliovaara",
+    "subtitle": "Britain's Henry Patten agrees he was \"ruthless\" in splitting with doubles partner and close friend Harri Heliovaara, just days aft...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-25",
+    "addedAt": "2026-11-25T20:58:00Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 103,
+    "wordCount": 83,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "Gas and electricity bills for a typical household are forecast to jump by £443 a year from January as the inflation rate rose to its highest level in a year.",
+        "en": "Henry Patten (right) will pair up with Neal Skupski for the 2027 season",
         "ko": "",
         "sentences": [
           {
-            "en": "Gas and electricity bills for a typical household are forecast to jump by £443 a year from January as the inflation rate rose to its highest level in a year.",
+            "en": "Henry Patten (right) will pair up with Neal Skupski for the 2027 season",
             "ko": ""
           }
         ]
       },
       {
-        "en": "A typical annual bill is predicted to rise by 26% in the new year, according to consultancy Cornwall Insight, ahead of the official announcement next week.",
+        "en": "Britain's Henry Patten agrees he was \"ruthless\" in splitting with his doubles partner and close friend Harri Heliovaara, just days after they received the year-end world number one trophy.",
         "ko": "",
         "sentences": [
           {
-            "en": "A typical annual bill is predicted to rise by 26% in the new year, according to consultancy Cornwall Insight, ahead of the official announcement next week.",
+            "en": "Britain's Henry Patten agrees he was \"ruthless\" in splitting with his doubles partner and close friend Harri Heliovaara, just days after they received the year-end world number one trophy.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Some households will get a £100 payment to help with the rising cost of living, a policy which was announced in the Budget.",
+        "en": "Heliovaara and Patten joined forces in 2024 and won Wimbledon together for the second time in July.",
         "ko": "",
         "sentences": [
           {
-            "en": "Some households will get a £100 payment to help with the rising cost of living, a policy which was announced in the Budget.",
+            "en": "Heliovaara and Patten joined forces in 2024 and won Wimbledon together for the second time in July.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Prices rose 3.6% in the year to October, up from 3.5% in September mainly because of higher petrol and diesel prices, official figures show.",
+        "en": "In a post on his blog, the Finnish player detailed the disappointment, shock and anger he felt when Patten phoned him with the news.",
         "ko": "",
         "sentences": [
           {
-            "en": "Prices rose 3.",
-            "ko": ""
-          },
-          {
-            "en": "6% in the year to October, up from 3.",
-            "ko": ""
-          },
-          {
-            "en": "5% in September mainly because of higher petrol and diesel prices, official figures show.",
+            "en": "In a post on his blog, the Finnish player detailed the disappointment, shock and anger he felt when Patten phoned him with the news.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+      "글로벌 최신 소식: 'It was ruthless'- GB's Patten on ending top-ranked partnership with Heliovaara",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2433,14 +2498,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+          "'It was ruthless'- GB's Patten on ending top-ranked partnership with Heliovaara",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_920284892224183118",
@@ -3147,85 +3214,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Shelton moves closer to ATP Finals last-four spot",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_365711462213072378",
-    "title": "Ruthless Zverev through to ATP Finals knockout stage",
-    "subtitle": "World number one Alexander Zverev produces a serving masterclass to defeat Ben Shelton and qualify for the ATP Finals knockout sta...",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-17",
-    "addedAt": "2026-11-18T05:39:28Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 93,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Alexander Zverev has won a tour-leading 67 matches this season",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Alexander Zverev has won a tour-leading 67 matches this season",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "World number one Alexander Zverev produced another serving masterclass against Ben Shelton to qualify for the ATP Finals knockout stage with a match to spare.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "World number one Alexander Zverev produced another serving masterclass against Ben Shelton to qualify for the ATP Finals knockout stage with a match to spare.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The German, 29, lost just two of the 31 points played on his serve in the second set as he completed an impressive 6-2 7-6 (7-4) win over fourth-ranked Shelton.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The German, 29, lost just two of the 31 points played on his serve in the second set as he completed an impressive 6-2 7-6 (7-4) win over fourth-ranked Shelton.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The two-time champion only made 10 unforced errors and landed 25 winners in a ruthless display to reach the semi-finals at the season-ending tournament for a fifth time.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The two-time champion only made 10 unforced errors and landed 25 winners in a ruthless display to reach the semi-finals at the season-ending tournament for a fifth time.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Ruthless Zverev through to ATP Finals knockout stage",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Ruthless Zverev through to ATP Finals knockout stage",
           "Historical retrospective",
           "Unrelated general weather"
         ],
