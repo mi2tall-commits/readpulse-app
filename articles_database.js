@@ -839,6 +839,91 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_955183227701473964",
+    "title": "California warns of flooding as king tides peak over Thanksgiving",
+    "subtitle": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for...",
+    "speaker": "BBC Science",
+    "date": "2026-11-26",
+    "addedAt": "2026-11-26T06:31:00Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 93,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "High king tides threaten California coastline, flood communities",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "High king tides threaten California coastline, flood communities",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Coastal areas of California are bracing for potential flooding as king tides peak in the state during the US Thanksgiving holiday.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Coastal areas of California are bracing for potential flooding as king tides peak in the state during the US Thanksgiving holiday.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Water levels across the US state's vast coastline could reach over 8ft (2.4 metres) in some areas on Wednesday and Thursday, according to the National Weather Service (NWS) - breaking records set just last month.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Water levels across the US state's vast coastline could reach over 8ft (2.",
+            "ko": ""
+          },
+          {
+            "en": "4 metres) in some areas on Wednesday and Thursday, according to the National Weather Service (NWS) - breaking records set just last month.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The NWS has warned parts of California could face major coastal flooding, which is likely to be significant in low-lying areas. There have already been some reports of flooding.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The NWS has warned parts of California could face major coastal flooding, which is likely to be significant in low-lying areas.",
+            "ko": ""
+          },
+          {
+            "en": "There have already been some reports of flooding.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: California warns of flooding as king tides peak over Thanksgiving",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "California warns of flooding as king tides peak over Thanksgiving",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_132123125424940362",
     "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
     "subtitle": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promis...",
@@ -1548,66 +1633,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_668288472590006475",
-    "title": "What are heat pumps and how much do they cost?",
-    "subtitle": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills....",
-    "speaker": "BBC Science",
-    "date": "2026-11-20",
-    "addedAt": "2026-11-20T19:31:41Z",
-    "category": "science",
+    "id": "auto_economy_934614964739064505",
+    "title": "UK government set to publish new treaties agreed with EU",
+    "subtitle": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infr...",
+    "speaker": "BBC Business",
+    "date": "2026-11-26",
+    "addedAt": "2026-11-26T06:31:00Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 95,
+    "wordCount": 102,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Switching to heat pumps is seen as a key way to help meet the UK's net zero targets",
+        "en": "The government and the EU are set to publish the texts of two treaties that were agreed last week as part of a post-Brexit reset.",
         "ko": "",
         "sentences": [
           {
-            "en": "Switching to heat pumps is seen as a key way to help meet the UK's net zero targets",
+            "en": "The government and the EU are set to publish the texts of two treaties that were agreed last week as part of a post-Brexit reset.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Developers will have to install heat pumps and solar panels in all new homes in England under regulations announced in March.",
+        "en": "The treaties will be published on Thursday afternoon, alongside legislation which is designed to enact the bulk of the deal.",
         "ko": "",
         "sentences": [
           {
-            "en": "Developers will have to install heat pumps and solar panels in all new homes in England under regulations announced in March.",
+            "en": "The treaties will be published on Thursday afternoon, alongside legislation which is designed to enact the bulk of the deal.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The changes are estimated to add £10,000 to the price of new homes, though owners will likely save money on energy bills over the long term.",
+        "en": "The BBC understands the treaties have a 10-year termination clause that would mean if one party ended the agreement, they would have to pay to rebuild border checks infrastructure, which will be significantly scaled back as part of the new deal.",
         "ko": "",
         "sentences": [
           {
-            "en": "The changes are estimated to add £10,000 to the price of new homes, though owners will likely save money on energy bills over the long term.",
+            "en": "The BBC understands the treaties have a 10-year termination clause that would mean if one party ended the agreement, they would have to pay to rebuild border checks infrastructure, which will be significantly scaled back as part of the new deal.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "In January, the government introduced a £15bn Warm Homes Plan to help UK households pay for green technologies as part of efforts to reduce fossil fuel use and energy bills.",
+        "en": "Opposition leader Kemi Badenoch and Reform UK's Nigel Farage have suggested they would refuse to pay.",
         "ko": "",
         "sentences": [
           {
-            "en": "In January, the government introduced a £15bn Warm Homes Plan to help UK households pay for green technologies as part of efforts to reduce fossil fuel use and energy bills.",
+            "en": "Opposition leader Kemi Badenoch and Reform UK's Nigel Farage have suggested they would refuse to pay.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: What are heat pumps and how much do they cost?",
+      "글로벌 최신 소식: UK government set to publish new treaties agreed with EU",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1615,7 +1700,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "What are heat pumps and how much do they cost?",
+          "UK government set to publish new treaties agreed with EU",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2341,87 +2426,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Anthropic becomes one of world's most valuable public companies in stock market debut",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_303781081298320553",
-    "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-    "subtitle": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence....",
-    "speaker": "BBC Business",
-    "date": "2026-11-18",
-    "addedAt": "2026-11-19T05:37:47Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 86,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Anthropic CEO Dario Amodei has quickly become a big name in the tech industry",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Anthropic CEO Dario Amodei has quickly become a big name in the tech industry",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Anthropic has seen its value jump to as much as $1.5tn (£1.14tn) as its shares are set to start trading on the stock market on Thursday.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Anthropic has seen its value jump to as much as $1.",
-            "ko": ""
-          },
-          {
-            "en": "14tn) as its shares are set to start trading on the stock market on Thursday.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The artificial intelligence (AI) company behind the popular chatbot Claude said its shares will be priced at $83 each when it lists on the Nasdaq, a tech-focused stock exchange based in New York.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The artificial intelligence (AI) company behind the popular chatbot Claude said its shares will be priced at $83 each when it lists on the Nasdaq, a tech-focused stock exchange based in New York.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "That will make it one of the most valuable companies in the world.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "That will make it one of the most valuable companies in the world.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
           "Historical retrospective",
           "Unrelated general weather"
         ],
