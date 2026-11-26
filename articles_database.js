@@ -1,6 +1,83 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_140807463619955468",
+    "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+    "subtitle": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power....",
+    "speaker": "BBC Technology",
+    "date": "2026-11-26",
+    "addedAt": "2026-11-26T20:50:38Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 94,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "SpaceX is an aerospace company that builds rockets and spacecraft, as well as running satellite services",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "SpaceX is an aerospace company that builds rockets and spacecraft, as well as running satellite services",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "US regulators have given SpaceX the go-ahead to launch a million satellites into Earth's orbit to help build data centres in space - the first approval of its kind.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "US regulators have given SpaceX the go-ahead to launch a million satellites into Earth's orbit to help build data centres in space - the first approval of its kind.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The company, which is owned by Elon Musk, wants to use sunlight to power satellites that will process data for AI and send the results back to Earth.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The company, which is owned by Elon Musk, wants to use sunlight to power satellites that will process data for AI and send the results back to Earth.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The Federal Communications Commission (FCC) said on Wednesday that the project, known as Starmind, would \"support America's booming super intelligence economy\".",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The Federal Communications Commission (FCC) said on Wednesday that the project, known as Starmind, would \"support America's booming super intelligence economy\".",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Musk's plan to send a million SpaceX data satellites into space approved",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Musk's plan to send a million SpaceX data satellites into space approved",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_80430547845876054",
     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
     "subtitle": "The verdict follows a months-long trial in New York....",
@@ -753,83 +830,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_tech_1084151881390176864",
-    "title": "Dutch watchdog tells people not to buy AI smart glasses",
-    "subtitle": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance...",
-    "speaker": "BBC Technology",
-    "date": "2026-11-19",
-    "addedAt": "2026-11-19T19:52:23Z",
-    "category": "tech",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 111,
-    "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
-    ],
-    "paragraphs": [
-      {
-        "en": "The Dutch privacy watchdog, the Autoriteit Persoonsgegevens (AP), has told people not to buy smart glasses, saying they can get things dangerously wrong.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The Dutch privacy watchdog, the Autoriteit Persoonsgegevens (AP), has told people not to buy smart glasses, saying they can get things dangerously wrong.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "It said in its tests of six glasses available on the Dutch market, the devices advised a user on how to date a child, misread medicine instructions, and claimed to have called an ambulance when they had not.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "It said in its tests of six glasses available on the Dutch market, the devices advised a user on how to date a child, misread medicine instructions, and claimed to have called an ambulance when they had not.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "While the AP is advising people not to buy the smart glasses, it stopped short of calling for them to be banned from sale.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "While the AP is advising people not to buy the smart glasses, it stopped short of calling for them to be banned from sale.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The authority is not revealing which glasses it tested, saying only that prices ranged from under €100 (£84) to over €500 and originated from different continents.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The authority is not revealing which glasses it tested, saying only that prices ranged from under €100 (£84) to over €500 and originated from different continents.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Dutch watchdog tells people not to buy AI smart glasses",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Dutch watchdog tells people not to buy AI smart glasses",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1633,6 +1633,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_economy_147224523792963983",
+    "title": "Millions of people to see average monthly mortgage payments rise by £100",
+    "subtitle": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated....",
+    "speaker": "BBC Business",
+    "date": "2026-11-26",
+    "addedAt": "2026-11-26T20:50:38Z",
+    "category": "economy",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 116,
+    "keywords": [
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
+    ],
+    "paragraphs": [
+      {
+        "en": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated, new figures from the the Bank of England show.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated, new figures from the the Bank of England show.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "About 6.5 million owners are forecast to see their monthly repayment jump by £100 on average when they move onto their next deal by the end of 2029, new data in its Financial Stability Report reveals.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "5 million owners are forecast to see their monthly repayment jump by £100 on average when they move onto their next deal by the end of 2029, new data in its Financial Stability Report reveals.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "That is more the double the £45-a-month hike that the Bank estimated in its last report in July.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "That is more the double the £45-a-month hike that the Bank estimated in its last report in July.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "In the shorter term, about one million of those homeowners, who are on mortgage rates below 3% and due to refinance by the end of next year, will see an average £200 increase in their monthly repayments.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "In the shorter term, about one million of those homeowners, who are on mortgage rates below 3% and due to refinance by the end of next year, will see an average £200 increase in their monthly repayments.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Millions of people to see average monthly mortgage payments rise by £100",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Millions of people to see average monthly mortgage payments rise by £100",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_economy_934614964739064505",
     "title": "UK government set to publish new treaties agreed with EU",
     "subtitle": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infr...",
@@ -2350,74 +2427,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_economy_287623834523912738",
-    "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-    "subtitle": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry....",
-    "speaker": "BBC Business",
-    "date": "2026-11-19",
-    "addedAt": "2026-11-20T05:26:07Z",
-    "category": "economy",
+    "id": "auto_sports_97462915351566863",
+    "title": "GB win doubles decider to reach Davis Cup semi-finals for first time since 2019",
+    "subtitle": "Great Britain advance to the semi-finals of the Davis Cup for the first time since 2019 as Henry Patten and Neal Skupski win a dec...",
+    "speaker": "BBC Tennis",
+    "date": "2026-11-26",
+    "addedAt": "2026-11-26T20:50:39Z",
+    "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 110,
+    "wordCount": 97,
     "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
+      "#테니스",
+      "#그랜드슬램",
+      "#스포츠속보"
     ],
     "paragraphs": [
       {
-        "en": "Anthropic has become one of the most valuable public companies in the world after its shares began trading on the stock market, taking its valuation to roughly $1.76 trillion (£1.34 trillion).",
+        "en": "Highlights: Skupski and Patten win thrilling doubles match to seal Davis Cup win",
         "ko": "",
         "sentences": [
           {
-            "en": "Anthropic has become one of the most valuable public companies in the world after its shares began trading on the stock market, taking its valuation to roughly $1.",
-            "ko": ""
-          },
-          {
-            "en": "76 trillion (£1.",
-            "ko": ""
-          },
-          {
-            "en": "34 trillion).",
+            "en": "Highlights: Skupski and Patten win thrilling doubles match to seal Davis Cup win",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The artificial intelligence (AI) company's Thursday debut on the Nasdaq stock exchange was a crucial test for the industry, given the huge amount of money being poured into advancing the technology.",
+        "en": "Great Britain advanced to the semi-finals of the Davis Cup for the first time since 2019 as Henry Patten and Neal Skupski won a decisive doubles tie against third seeds Germany in Bologna.",
         "ko": "",
         "sentences": [
           {
-            "en": "The artificial intelligence (AI) company's Thursday debut on the Nasdaq stock exchange was a crucial test for the industry, given the huge amount of money being poured into advancing the technology.",
+            "en": "Great Britain advanced to the semi-finals of the Davis Cup for the first time since 2019 as Henry Patten and Neal Skupski won a decisive doubles tie against third seeds Germany in Bologna.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Anthropic's shares flew past its allocation price of $83 each, showing there was plenty of excitement around AI.",
+        "en": "Patten and Skupski, playing together for the first time since announcing their doubles partnership for the 2027 season, proved too clinical for Kevin Krawietz and Tim Puetz.",
         "ko": "",
         "sentences": [
           {
-            "en": "Anthropic's shares flew past its allocation price of $83 each, showing there was plenty of excitement around AI.",
+            "en": "Patten and Skupski, playing together for the first time since announcing their doubles partnership for the 2027 season, proved too clinical for Kevin Krawietz and Tim Puetz.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Yet the company, which is behind AI chatbot Claude, will remain under intense scrutiny in the months ahead to answer the key question surrounding AI: is it all worth it?",
+        "en": "They converted two break points and saved five in the first set, before overturning a mini-break in the tie-break to win 6-2 7-6 (8-6).",
         "ko": "",
         "sentences": [
           {
-            "en": "Yet the company, which is behind AI chatbot Claude, will remain under intense scrutiny in the months ahead to answer the key question surrounding AI: is it all worth it?",
+            "en": "They converted two break points and saved five in the first set, before overturning a mini-break in the tie-break to win 6-2 7-6 (8-6).",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "글로벌 최신 소식: GB win doubles decider to reach Davis Cup semi-finals for first time since 2019",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -2425,14 +2494,16 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "GB win doubles decider to reach Davis Cup semi-finals for first time since 2019",
           "Historical retrospective",
           "Unrelated general weather"
         ],
         "answer": 0,
         "explanation": "The title directly reflects the main subject."
       }
-    ]
+    ],
+    "sportSubcat": "tennis",
+    "sportPriority": 1
   },
   {
     "id": "auto_sports_28168078873272230",
@@ -3139,85 +3210,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Unbeaten Zverev hopes to be 'pain-free' after overcoming Fils at ATP Finals",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
-  },
-  {
-    "id": "auto_sports_918817365612607586",
-    "title": "Shelton moves closer to ATP Finals last-four spot",
-    "subtitle": "Ben Shelton battles past Rafael Jodar to move within touching distance of a place in the ATP Finals last four....",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-19",
-    "addedAt": "2026-11-19T19:52:24Z",
-    "category": "sports",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 93,
-    "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
-    ],
-    "paragraphs": [
-      {
-        "en": "Ben Shelton reached his first Grand Slam final at this year's US Open",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Ben Shelton reached his first Grand Slam final at this year's US Open",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Ben Shelton battled past Rafael Jodar to move within touching distance of a place in the ATP Finals last four.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Ben Shelton battled past Rafael Jodar to move within touching distance of a place in the ATP Finals last four.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "US Open runner-up Shelton only lost his serve once but still had to fight for just over two hours to beat the fast-rising Spaniard 7-6 (10-8) 7-5.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "US Open runner-up Shelton only lost his serve once but still had to fight for just over two hours to beat the fast-rising Spaniard 7-6 (10-8) 7-5.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "American Shelton closed out the match with three aces in a row and then wrote \"I'll be watching, Arthur\" on the camera lens - a reference to the final game in the group.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "American Shelton closed out the match with three aces in a row and then wrote \"I'll be watching, Arthur\" on the camera lens - a reference to the final game in the group.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Shelton moves closer to ATP Finals last-four spot",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Shelton moves closer to ATP Finals last-four spot",
           "Historical retrospective",
           "Unrelated general weather"
         ],
