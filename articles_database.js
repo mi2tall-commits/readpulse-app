@@ -867,6 +867,83 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_151293030173879227",
+    "title": "New satellite data shows how fast some African cities are sinking",
+    "subtitle": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows....",
+    "speaker": "BBC Science",
+    "date": "2026-11-27",
+    "addedAt": "2026-11-27T20:35:39Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 98,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Four million people in Lagos, Nigeria may be exposed to extreme sea levels by the end of the century, a new study says",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Four million people in Lagos, Nigeria may be exposed to extreme sea levels by the end of the century, a new study says",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Some of Africa's largest cities are sinking faster than previously thought, new research shows.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Some of Africa's largest cities are sinking faster than previously thought, new research shows.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Scientists used radar imagery from the European Space Agency's Sentinel-1 satellites to map how much the land beneath 20 African coastal cities had moved.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Scientists used radar imagery from the European Space Agency's Sentinel-1 satellites to map how much the land beneath 20 African coastal cities had moved.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "The study found that some cities - including Lagos in Nigeria and Alexandria in Egypt - were sinking much faster than previously estimated in 2021 by the UN's climate body, the Intergovernmental Panel on Climate Change (IPCC).",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "The study found that some cities - including Lagos in Nigeria and Alexandria in Egypt - were sinking much faster than previously estimated in 2021 by the UN's climate body, the Intergovernmental Panel on Climate Change (IPCC).",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: New satellite data shows how fast some African cities are sinking",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "New satellite data shows how fast some African cities are sinking",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_261826723308751812",
     "title": "Major Thanksgiving storm brings flooding, flight delays across US",
     "subtitle": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts...",
@@ -1575,83 +1652,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Will COP31 end with a new global climate deal?",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_science_918817916683508025",
-    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-    "subtitle": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement....",
-    "speaker": "BBC Science",
-    "date": "2026-11-21",
-    "addedAt": "2026-11-21T18:36:48Z",
-    "category": "science",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 116,
-    "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Panama's Environment Minister is pushing for language on fossil fuels to be in the final agreement",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Panama's Environment Minister is pushing for language on fossil fuels to be in the final agreement",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Negotiations at the COP31 UN climate summit in Turkey are in deadlock, having run more than 24 hours into overtime as countries remain unable to agree on a new global climate deal.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Negotiations at the COP31 UN climate summit in Turkey are in deadlock, having run more than 24 hours into overtime as countries remain unable to agree on a new global climate deal.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "In a late intervention on Friday, a group of countries led by France and Panama pushed back against the draft agreement which included no reference to reducing the world's demand for fossil fuels.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "In a late intervention on Friday, a group of countries led by France and Panama pushed back against the draft agreement which included no reference to reducing the world's demand for fossil fuels.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "This still remains the main sticking point, along with a push from the Africa Group to get commitments on more money for adaptation - but the EU has previously said it would not support this.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "This still remains the main sticking point, along with a push from the Africa Group to get commitments on more money for adaptation - but the EU has previously said it would not support this.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Fight over fossil fuels leaves COP31 climate talks in deadlock",
           "Historical retrospective",
           "Unrelated general weather"
         ],
