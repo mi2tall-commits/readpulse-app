@@ -1,6 +1,111 @@
 // ReadPulse AI - Comprehensive English Reading & Speeches Database
 const READPULSE_ARTICLES = [
   {
+    "id": "auto_tech_157293003060791205",
+    "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+    "subtitle": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?...",
+    "speaker": "BBC Technology",
+    "date": "2026-11-27",
+    "addedAt": "2026-11-27T06:21:04Z",
+    "category": "tech",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 105,
+    "keywords": [
+      "#IT기술",
+      "#최신테크",
+      "#글로벌IT"
+    ],
+    "paragraphs": [
+      {
+        "en": "Jim Lembesis has been working on elevators in Chicago for 47 years",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Jim Lembesis has been working on elevators in Chicago for 47 years",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Some of them are angry. Nerves are frayed. Many of them are just relieved that he's here.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Some of them are angry.",
+            "ko": ""
+          },
+          {
+            "en": "Nerves are frayed.",
+            "ko": ""
+          },
+          {
+            "en": "Many of them are just relieved that he's here.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "When a lift stops working in Chicago, frazzled building managers might get a visit from Jim Lembesis. For more than 47 years, Lembesis has repaired and upgraded lifts. He says he understands why staff and residents are so anxious to have things working again.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "When a lift stops working in Chicago, frazzled building managers might get a visit from Jim Lembesis.",
+            "ko": ""
+          },
+          {
+            "en": "For more than 47 years, Lembesis has repaired and upgraded lifts.",
+            "ko": ""
+          },
+          {
+            "en": "He says he understands why staff and residents are so anxious to have things working again.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "\"They wait and they wait,\" says Lembesis, a field technician for Parkway Elevators. \"There's a lot of frustration. Sometimes it's a repeat issue. It's a never-ending cycle, you know what I mean?\"",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "\"They wait and they wait,\" says Lembesis, a field technician for Parkway Elevators.",
+            "ko": ""
+          },
+          {
+            "en": "\"There's a lot of frustration.",
+            "ko": ""
+          },
+          {
+            "en": "Sometimes it's a repeat issue.",
+            "ko": ""
+          },
+          {
+            "en": "It's a never-ending cycle, you know what I mean?",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Why is there a shortage of 'wizard' elevator mechanics?",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Why is there a shortage of 'wizard' elevator mechanics?",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_tech_140807463619955468",
     "title": "Musk's plan to send a million SpaceX data satellites into space approved",
     "subtitle": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power....",
@@ -762,66 +867,70 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_tech_1128418034482910828",
-    "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-    "subtitle": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe....",
-    "speaker": "BBC Technology",
-    "date": "2026-11-20",
-    "addedAt": "2026-11-20T05:26:06Z",
-    "category": "tech",
+    "id": "auto_science_261826723308751812",
+    "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+    "subtitle": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts...",
+    "speaker": "BBC Science",
+    "date": "2026-11-27",
+    "addedAt": "2026-11-27T06:21:05Z",
+    "category": "science",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
     "wordCount": 96,
     "keywords": [
-      "#IT기술",
-      "#최신테크",
-      "#글로벌IT"
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
     ],
     "paragraphs": [
       {
-        "en": "Sweden was among countries to report a cyber incident in which some supermarket fridge units had been hiked up in temperature",
+        "en": "Powerful storms threaten Thanksgiving travel across North America",
         "ko": "",
         "sentences": [
           {
-            "en": "Sweden was among countries to report a cyber incident in which some supermarket fridge units had been hiked up in temperature",
+            "en": "Powerful storms threaten Thanksgiving travel across North America",
             "ko": ""
           }
         ]
       },
       {
-        "en": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of fridges and freezers at major UK supermarkets, warehouses, restaurants, petrol stations and stadiums from hackers, the BBC has learned.",
+        "en": "A massive Thanksgiving storm hammering the Midwest and north-east with heavy rain and winds, along with high tides out west, is causing widespread disruptions across the US.",
         "ko": "",
         "sentences": [
           {
-            "en": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of fridges and freezers at major UK supermarkets, warehouses, restaurants, petrol stations and stadiums from hackers, the BBC has learned.",
+            "en": "A massive Thanksgiving storm hammering the Midwest and north-east with heavy rain and winds, along with high tides out west, is causing widespread disruptions across the US.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Recent waves of cyber-attacks in Europe have seen tonnes of food spoiled at hundreds of stores, causing millions of pounds of damage.",
+        "en": "More than 80 million Americans expected to be travelling this week. On Thursday 460 flights in the US were cancelled and another 2,508 flights into, out of, or within the US were delayed, tracking site FlightAware said.",
         "ko": "",
         "sentences": [
           {
-            "en": "Recent waves of cyber-attacks in Europe have seen tonnes of food spoiled at hundreds of stores, causing millions of pounds of damage.",
+            "en": "More than 80 million Americans expected to be travelling this week.",
+            "ko": ""
+          },
+          {
+            "en": "On Thursday 460 flights in the US were cancelled and another 2,508 flights into, out of, or within the US were delayed, tracking site FlightAware said.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "France has blamed Iran for one of the waves of attacks that impacted its supermarkets, a claim Tehran denies.",
+        "en": "The FAA has previously warned that delays would be possible \"throughout the week\" as a result of the rain and wind that are forecast.",
         "ko": "",
         "sentences": [
           {
-            "en": "France has blamed Iran for one of the waves of attacks that impacted its supermarkets, a claim Tehran denies.",
+            "en": "The FAA has previously warned that delays would be possible \"throughout the week\" as a result of the rain and wind that are forecast.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "글로벌 최신 소식: Major Thanksgiving storm brings flooding, flight delays across US",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -829,7 +938,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+          "Major Thanksgiving storm brings flooding, flight delays across US",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -1552,70 +1661,66 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
-    "id": "auto_science_630244353507908615",
-    "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
-    "subtitle": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare co...",
-    "speaker": "BBC Science",
-    "date": "2026-11-20",
-    "addedAt": "2026-11-21T05:18:08Z",
-    "category": "science",
+    "id": "auto_economy_545625247906487122",
+    "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+    "subtitle": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure....",
+    "speaker": "BBC Business",
+    "date": "2026-11-26",
+    "addedAt": "2026-11-27T06:21:05Z",
+    "category": "economy",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 88,
+    "wordCount": 100,
     "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
+      "#세계경제",
+      "#금융시장",
+      "#비즈니스"
     ],
     "paragraphs": [
       {
-        "en": "Flames engulfed Hudson Valley farm as 200 first responders arrived at the scene",
+        "en": "There was none of last April's fanfare, the Rose Garden reveal, the gameshow blue board or \"Liberation Day\" rhetoric surrounding Trump's tariff announcement this week.",
         "ko": "",
         "sentences": [
           {
-            "en": "Flames engulfed Hudson Valley farm as 200 first responders arrived at the scene",
+            "en": "There was none of last April's fanfare, the Rose Garden reveal, the gameshow blue board or \"Liberation Day\" rhetoric surrounding Trump's tariff announcement this week.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "A fire broke out at one of the largest foie gras farms in the US on Thursday, killing an undetermined number of birds.",
+        "en": "Instead there is something rather tentative about this latest exercise with talk of further negotiations.",
         "ko": "",
         "sentences": [
           {
-            "en": "A fire broke out at one of the largest foie gras farms in the US on Thursday, killing an undetermined number of birds.",
+            "en": "Instead there is something rather tentative about this latest exercise with talk of further negotiations.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "The blaze engulfed several barns at Hudson Valley Farms in upstate New York before firefighters could get inside. No information has been provided as to what caused the fire.",
+        "en": "\"We expect to have a broad, even a plurilateral negotiation to talk about excess capacity and how to resolve it,\" US Trade Representative Jamieson Greer told CNBC.",
         "ko": "",
         "sentences": [
           {
-            "en": "The blaze engulfed several barns at Hudson Valley Farms in upstate New York before firefighters could get inside.",
-            "ko": ""
-          },
-          {
-            "en": "No information has been provided as to what caused the fire.",
+            "en": "\"We expect to have a broad, even a plurilateral negotiation to talk about excess capacity and how to resolve it,\" US Trade Representative Jamieson Greer told CNBC.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Crews managed to rescue hundreds of young birds and hatchlings, and no workers or first responders were injured, according to local news outlets.",
+        "en": "Around the world the view is that this week's announcement is an attempt to shore up the domestic legal underpinning of these tariffs, more than a fundamental change in the Trump trade agenda.",
         "ko": "",
         "sentences": [
           {
-            "en": "Crews managed to rescue hundreds of young birds and hatchlings, and no workers or first responders were injured, according to local news outlets.",
+            "en": "Around the world the view is that this week's announcement is an attempt to shore up the domestic legal underpinning of these tariffs, more than a fundamental change in the Trump trade agenda.",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Birds killed in blaze at one of the largest foie gras farms in the US",
+      "글로벌 최신 소식: Faisal Islam: Why Trump's new tariffs are less of a threat",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -1623,7 +1728,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Birds killed in blaze at one of the largest foie gras farms in the US",
+          "Faisal Islam: Why Trump's new tariffs are less of a threat",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -2333,91 +2438,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Tech stock sell-off drags markets down as Anthropic shares slide",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_economy_7220651011353912",
-    "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-    "subtitle": "Other tech companies have also taken a hit as share markets broadly slump....",
-    "speaker": "BBC Business",
-    "date": "2026-11-20",
-    "addedAt": "2026-11-20T19:31:41Z",
-    "category": "economy",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 90,
-    "keywords": [
-      "#세계경제",
-      "#금융시장",
-      "#비즈니스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Anthropic's shares have dropped back towards their initial price after a soaring first day on the stock market, as a wider tech sell-off deepens.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Anthropic's shares have dropped back towards their initial price after a soaring first day on the stock market, as a wider tech sell-off deepens.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The fall in tech stocks continued to weigh on markets, with the S&P 500 down more than 2% and the Dow Jones Industrial Average down 0.7% by lunchtime.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The fall in tech stocks continued to weigh on markets, with the S&P 500 down more than 2% and the Dow Jones Industrial Average down 0.",
-            "ko": ""
-          },
-          {
-            "en": "7% by lunchtime.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Both US indexes touched correction territory, a point where they are trading at 10% or more down from a recent high.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Both US indexes touched correction territory, a point where they are trading at 10% or more down from a recent high.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "The tech-heavy Nasdaq Composite Index also fell more than 3.4% by the middle of trading on Friday.",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "The tech-heavy Nasdaq Composite Index also fell more than 3.",
-            "ko": ""
-          },
-          {
-            "en": "4% by the middle of trading on Friday.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
           "Historical retrospective",
           "Unrelated general weather"
         ],
