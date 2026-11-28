@@ -867,6 +867,91 @@ const READPULSE_ARTICLES = [
     ]
   },
   {
+    "id": "auto_science_375340422089734743",
+    "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+    "subtitle": "Pennsylvania and neighbouring states remained badly affected on Friday after both coasts were lashed with wind and rain....",
+    "speaker": "BBC Science",
+    "date": "2026-11-28",
+    "addedAt": "2026-11-28T05:58:30Z",
+    "category": "science",
+    "isLive": true,
+    "level": "B2",
+    "readTime": "2 min",
+    "wordCount": 90,
+    "keywords": [
+      "#최신과학",
+      "#우주환경",
+      "#과학뉴스"
+    ],
+    "paragraphs": [
+      {
+        "en": "Watch: Severe Thanksgiving storms leave roads flooded and trees fallen",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Watch: Severe Thanksgiving storms leave roads flooded and trees fallen",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "More than 260,000 people remain without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "More than 260,000 people remain without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Eastern areas were lashed on Thursday by a powerful storm which brought high winds, heavy rain and coastal flooding. Pennsylvania remained the state worst hit by power cuts early on Friday, according to monitoring site Poweroutage.us.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Eastern areas were lashed on Thursday by a powerful storm which brought high winds, heavy rain and coastal flooding.",
+            "ko": ""
+          },
+          {
+            "en": "Pennsylvania remained the state worst hit by power cuts early on Friday, according to monitoring site Poweroutage.",
+            "ko": ""
+          }
+        ]
+      },
+      {
+        "en": "Conditions are now improving, though forecasters caution that it will take some time. The West Coast also was affected by its own storms.",
+        "ko": "",
+        "sentences": [
+          {
+            "en": "Conditions are now improving, though forecasters caution that it will take some time.",
+            "ko": ""
+          },
+          {
+            "en": "The West Coast also was affected by its own storms.",
+            "ko": ""
+          }
+        ]
+      }
+    ],
+    "takeaways": [
+      "글로벌 최신 소식: Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
+      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary topic of this report?",
+        "options": [
+          "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+          "Historical retrospective",
+          "Unrelated general weather"
+        ],
+        "answer": 0,
+        "explanation": "The title directly reflects the main subject."
+      }
+    ]
+  },
+  {
     "id": "auto_science_151293030173879227",
     "title": "New satellite data shows how fast some African cities are sinking",
     "subtitle": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows....",
@@ -1571,87 +1656,6 @@ const READPULSE_ARTICLES = [
         "question": "What is the primary topic of this report?",
         "options": [
           "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
-          "Historical retrospective",
-          "Unrelated general weather"
-        ],
-        "answer": 0,
-        "explanation": "The title directly reflects the main subject."
-      }
-    ]
-  },
-  {
-    "id": "auto_science_489436691777792013",
-    "title": "Will COP31 end with a new global climate deal?",
-    "subtitle": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey....",
-    "speaker": "BBC Science",
-    "date": "2026-11-21",
-    "addedAt": "2026-11-22T04:44:23Z",
-    "category": "science",
-    "isLive": true,
-    "level": "B2",
-    "readTime": "2 min",
-    "wordCount": 86,
-    "keywords": [
-      "#최신과학",
-      "#우주환경",
-      "#과학뉴스"
-    ],
-    "paragraphs": [
-      {
-        "en": "Will COP31 end with a new global climate deal? Video, 00:01:20Will COP31 end with a new global climate deal?",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Will COP31 end with a new global climate deal?",
-            "ko": ""
-          },
-          {
-            "en": "Video, 00:01:20Will COP31 end with a new global climate deal?",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Up Next. Wes Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv. Video, 00:01:40Wes Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Wes Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "What the new UK-EU deal could mean for future post-Brexit relations. Video, 00:01:42What the new UK-EU deal could mean for future post-Brexit relations",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "What the new UK-EU deal could mean for future post-Brexit relations.",
-            "ko": ""
-          }
-        ]
-      },
-      {
-        "en": "Cost of living protests sweep across Europe. Video, 00:01:08Cost of living protests sweep across Europe",
-        "ko": "",
-        "sentences": [
-          {
-            "en": "Cost of living protests sweep across Europe.",
-            "ko": ""
-          }
-        ]
-      }
-    ],
-    "takeaways": [
-      "글로벌 최신 소식: Will COP31 end with a new global climate deal?",
-      "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
-      "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
-    ],
-    "quiz": [
-      {
-        "question": "What is the primary topic of this report?",
-        "options": [
-          "Will COP31 end with a new global climate deal?",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -3162,66 +3166,94 @@ const READPULSE_ARTICLES = [
     "sportPriority": 1
   },
   {
-    "id": "auto_sports_985250288964797586",
-    "title": "Unbeaten Zverev hopes to be 'pain-free' after overcoming Fils at ATP Finals",
-    "subtitle": "World number one Alexander Zverev says he will do \"everything I can to be pain-free\" after hurting his ankle during his ATP Finals...",
-    "speaker": "BBC Tennis",
-    "date": "2026-11-19",
-    "addedAt": "2026-11-20T05:26:07Z",
+    "id": "auto_sports_486780060132889319",
+    "title": "Superlatives for this MLB free agent class, from Brandon Lowe to Kevin Gausman",
+    "subtitle": "Next best move for Mets? Best free agency timing? We have a yearbook's worth of awards for the top free agents....",
+    "speaker": "ESPN MLB",
+    "date": "2026-11-26",
+    "addedAt": "2026-11-28T05:58:31Z",
     "category": "sports",
     "isLive": true,
     "level": "B2",
     "readTime": "2 min",
-    "wordCount": 95,
+    "wordCount": 189,
     "keywords": [
-      "#테니스",
-      "#그랜드슬램",
-      "#스포츠속보"
+      "#MLB",
+      "#메이저리그",
+      "#야구소식"
     ],
     "paragraphs": [
       {
-        "en": "Alexander Zverev reached three of the four Grand Slam finals this year, winning the French and US Opens",
+        "en": "We still have a week left of potential chaos before the expected lockout freezes all moves, so while we still have time, let's dig in to the MLB offseason with our annual free agent superlatives.",
         "ko": "",
         "sentences": [
           {
-            "en": "Alexander Zverev reached three of the four Grand Slam finals this year, winning the French and US Opens",
+            "en": "We still have a week left of potential chaos before the expected lockout freezes all moves, so while we still have time, let's dig in to the MLB offseason with our annual free agent superlatives.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "World number one Alexander Zverev said he would do \"everything I can to be pain-free\" after hurting his ankle during his ATP Finals victory over Arthur Fils.",
+        "en": "Not included: Tarik Skubal, the most superlative in this class. He's headed to the New York Mets, who will pay him, Juan Soto and Bo Bichette about the same as what the Milwaukee Brewers paid for their entire World Series-winning roster in 2026.",
         "ko": "",
         "sentences": [
           {
-            "en": "World number one Alexander Zverev said he would do \"everything I can to be pain-free\" after hurting his ankle during his ATP Finals victory over Arthur Fils.",
+            "en": "Not included: Tarik Skubal, the most superlative in this class.",
+            "ko": ""
+          },
+          {
+            "en": "He's headed to the New York Mets, who will pay him, Juan Soto and Bo Bichette about the same as what the Milwaukee Brewers paid for their entire World Series-winning roster in 2026.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "Germany's Zverev ensured he finished top of the John McEnroe Group with a 6-4 7-6 (8-6) win over Fils - a result which also sent Ben Shelton through to the semi-finals.",
+        "en": "In a weak year for position players, the top two are similar-looking outfielders: Suzuki and Randy Arozarena. Both will be entering their age-32 seasons, are coming off their best seasons (5.1 WAR for Suzuki, 5.7 for Arozarena), hit right-handed, received qualifying offers and are projected to receive four-year, $90 million contracts.",
         "ko": "",
         "sentences": [
           {
-            "en": "Germany's Zverev ensured he finished top of the John McEnroe Group with a 6-4 7-6 (8-6) win over Fils - a result which also sent Ben Shelton through to the semi-finals.",
+            "en": "In a weak year for position players, the top two are similar-looking outfielders: Suzuki and Randy Arozarena.",
+            "ko": ""
+          },
+          {
+            "en": "Both will be entering their age-32 seasons, are coming off their best seasons (5.",
+            "ko": ""
+          },
+          {
+            "en": "1 WAR for Suzuki, 5.",
+            "ko": ""
+          },
+          {
+            "en": "7 for Arozarena), hit right-handed, received qualifying offers and are projected to receive four-year, $90 million contracts.",
             "ko": ""
           }
         ]
       },
       {
-        "en": "However, the French and US Open champion's serve speeds dropped throughout the match and he repeatedly gestured and grimaced.",
+        "en": "Among the teams possibly looking for a corner outfielder: the Philadelphia Phillies (25th in OPS from their corner outfielders), Baltimore Orioles (26th), Toronto Blue Jays (27th), Houston Astros (30th) and San Diego Padres (17th, but they would move Fernando Tatis Jr. to second base). The Seattle Mariners might look to replace Arozarena with Suzuki. Which one would you rather have?",
         "ko": "",
         "sentences": [
           {
-            "en": "However, the French and US Open champion's serve speeds dropped throughout the match and he repeatedly gestured and grimaced.",
+            "en": "Among the teams possibly looking for a corner outfielder: the Philadelphia Phillies (25th in OPS from their corner outfielders), Baltimore Orioles (26th), Toronto Blue Jays (27th), Houston Astros (30th) and San Diego Padres (17th, but they would move Fernando Tatis Jr.",
+            "ko": ""
+          },
+          {
+            "en": "to second base).",
+            "ko": ""
+          },
+          {
+            "en": "The Seattle Mariners might look to replace Arozarena with Suzuki.",
+            "ko": ""
+          },
+          {
+            "en": "Which one would you rather have?",
             "ko": ""
           }
         ]
       }
     ],
     "takeaways": [
-      "글로벌 최신 소식: Unbeaten Zverev hopes to be 'pain-free' after overcoming Fils at ATP Finals",
+      "글로벌 최신 소식: Superlatives for this MLB free agent class, from Brandon Lowe to Kevin Gausman",
       "실시간 RSS 자동 업데이트 엔진을 통해 갱신되었습니다.",
       "단어를 탭하여 사전을 확인하고 문장을 따라 읽어보세요."
     ],
@@ -3229,7 +3261,7 @@ const READPULSE_ARTICLES = [
       {
         "question": "What is the primary topic of this report?",
         "options": [
-          "Unbeaten Zverev hopes to be 'pain-free' after overcoming Fils at ATP Finals",
+          "Superlatives for this MLB free agent class, from Brandon Lowe to Kevin Gausman",
           "Historical retrospective",
           "Unrelated general weather"
         ],
@@ -3237,8 +3269,8 @@ const READPULSE_ARTICLES = [
         "explanation": "The title directly reflects the main subject."
       }
     ],
-    "sportSubcat": "tennis",
-    "sportPriority": 1
+    "sportSubcat": "mlb",
+    "sportPriority": 2
   },
   {
     "id": "auto_culture_500145274193337753",
